@@ -478,14 +478,32 @@ function saveApiKeys() {
 }
 
 function addApiKey() {
-    const key = newApiKeyInput.value.trim();
-    if (key && !apiKeys.includes(key)) {
-        apiKeys.push(key);
+    const rawInput = newApiKeyInput.value.trim();
+    if (!rawInput) return;
+
+    // Split input by comma to support multiple keys pasted at once
+    const keysToAdd = rawInput.split(',').map(k => k.trim()).filter(k => k.length > 0);
+    let addedCount = 0;
+    let duplicateCount = 0;
+
+    keysToAdd.forEach(key => {
+        if (!apiKeys.includes(key)) {
+            apiKeys.push(key);
+            addedCount++;
+        } else {
+            duplicateCount++;
+        }
+    });
+
+    if (addedCount > 0) {
         saveApiKeys();
         renderApiKeys();
         newApiKeyInput.value = '';
-    } else if (apiKeys.includes(key)) {
-        alert("API Key sudah ada!");
+        if (duplicateCount > 0) {
+            alert(`${addedCount} API Key berhasil ditambahkan. (${duplicateCount} key diabaikan karena sudah ada).`);
+        }
+    } else if (duplicateCount > 0) {
+        alert("Semua API Key yang dimasukkan sudah ada!");
     }
 }
 
