@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="id" data-theme="light">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Al-Qur'an Interaktif (Word-by-Word)</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <!-- Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+
+    <header>
+        <div class="logo">
+            <i class="fas fa-book-open"></i> Al-Qur'an AI
+        </div>
+        <div class="controls">
+            <button id="theme-toggle" title="Toggle Dark/Light Mode"><i class="fas fa-moon"></i></button>
+            <button id="settings-btn" title="Settings API"><i class="fas fa-cog"></i></button>
+        </div>
+    </header>
+
+    <main class="container">
+        <!-- Navigation Controls -->
+        <section class="navigation card">
+            <div class="nav-group">
+                <label for="surah-select">Surah:</label>
+                <select id="surah-select">
+                    <option value="">Memuat Surah...</option>
+                </select>
+            </div>
+            <div class="nav-group">
+                <label for="ayah-select">Ayat:</label>
+                <select id="ayah-select" disabled>
+                    <option value="">Pilih Surah Dulu</option>
+                </select>
+            </div>
+        </section>
+
+        <!-- Quran Display Area -->
+        <section id="quran-display" class="card" style="display: none;">
+            <div class="ayah-header">
+                <h2 id="current-surah-name">Surah Name</h2>
+                <div class="ayah-audio-controls">
+                     <button id="play-audio-btn" title="Mainkan Audio"><i class="fas fa-play"></i></button>
+                     <audio id="ayah-audio" src=""></audio>
+                </div>
+            </div>
+
+            <div class="ayah-content">
+                <div id="arabic-container" class="arabic-text" dir="rtl">
+                    <!-- Words will be injected here -->
+                </div>
+                <div id="translation-container" class="translation-text">
+                    <!-- Translation will be injected here -->
+                </div>
+            </div>
+
+            <div class="ayah-nav-buttons">
+                <button id="prev-ayah-btn" disabled><i class="fas fa-chevron-left"></i> Sebelumnya</button>
+                <button id="next-ayah-btn" disabled>Selanjutnya <i class="fas fa-chevron-right"></i></button>
+            </div>
+        </section>
+
+        <div id="loading-indicator" class="loading" style="display: none;">
+            <i class="fas fa-spinner fa-spin"></i> Memuat data...
+        </div>
+
+    </main>
+
+    <!-- Word Details Modal -->
+    <div id="word-modal" class="modal">
+        <div class="modal-content card">
+            <span class="close-btn" id="close-word-modal">&times;</span>
+            <div id="word-details-content">
+                <h2 id="modal-arabic-word" class="arabic-text large-arabic">Word</h2>
+
+                <div class="detail-section highlight-box">
+                    <p><strong>Arti:</strong> <span id="modal-meaning">-</span></p>
+                    <p><strong>Padanan (B. Indonesia):</strong> <span id="modal-indonesian-equivalent" class="badge">-</span></p>
+                </div>
+
+                <div class="detail-grid">
+                    <div class="detail-item">
+                        <span class="label">Akar Kata:</span>
+                        <span class="value arabic-text" id="modal-root">-</span>
+                    </div>
+                    <div class="detail-item">
+                        <span class="label">Bentuk Dasar:</span>
+                        <span class="value arabic-text" id="modal-base-form">-</span>
+                    </div>
+                    <div class="detail-item">
+                        <span class="label">Jenis Kata:</span>
+                        <span class="value" id="modal-type">-</span>
+                    </div>
+                    <div class="detail-item">
+                        <span class="label">Fungsi (Nahwu):</span>
+                        <span class="value" id="modal-nahwu">-</span>
+                    </div>
+                     <div class="detail-item">
+                        <span class="label">I'rab:</span>
+                        <span class="value" id="modal-irab">-</span>
+                    </div>
+                     <div class="detail-item">
+                        <span class="label">Sharaf (Wazan):</span>
+                        <span class="value arabic-text" id="modal-sharaf">-</span>
+                    </div>
+                </div>
+
+                <div class="detail-section">
+                    <h4>Penjelasan AI:</h4>
+                    <p id="modal-explanation" class="explanation-text">Memuat analisis AI...</p>
+                </div>
+
+                <div id="ai-loading" class="loading" style="display: none;">
+                    <i class="fas fa-robot fa-spin"></i> AI sedang menganalisis kata...
+                </div>
+                 <div id="ai-error" class="error-msg" style="display: none;">
+                    Terjadi kesalahan saat memanggil AI. Periksa API Key Anda.
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Settings Modal -->
+    <div id="settings-modal" class="modal">
+        <div class="modal-content card">
+            <span class="close-btn" id="close-settings-modal">&times;</span>
+            <h2>Pengaturan API Gemini</h2>
+            <p class="settings-desc">Masukkan API Key Gemini Anda (mendukung beberapa key untuk fallback jika limit tercapai).</p>
+
+            <div class="api-key-input-group">
+                <input type="password" id="new-api-key" placeholder="Masukkan API Key Gemini Anda...">
+                <button id="add-key-btn"><i class="fas fa-plus"></i> Tambah</button>
+            </div>
+
+            <div class="api-keys-list">
+                <ul id="keys-list">
+                    <!-- Keys will be injected here -->
+                </ul>
+            </div>
+
+            <div class="settings-actions">
+                <button id="save-settings-btn" class="primary-btn">Simpan Pengaturan</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
