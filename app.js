@@ -254,6 +254,15 @@ function handleWordClick(wordText, surahNum, ayahNum, wordIndex, element) {
     // Reset modal content
     const fields = ['modal-meaning', 'modal-indonesian-equivalent', 'modal-root', 'modal-base-form', 'modal-type', 'modal-nahwu', 'modal-irab', 'modal-sharaf', 'modal-explanation'];
     fields.forEach(id => document.getElementById(id).textContent = '-');
+    const explanationFields = ['modal-base-form-meaning', 'modal-type-explanation', 'modal-nahwu-explanation', 'modal-irab-explanation', 'modal-sharaf-explanation'];
+    explanationFields.forEach(id => {
+        const el = document.getElementById(id);
+        if(el) {
+            el.innerHTML = '';
+            el.style.display = 'none';
+        }
+    });
+
     document.getElementById('ai-error').style.display = 'none';
     document.getElementById('ai-loading').style.display = 'block';
     document.getElementById('word-details-content').querySelector('.detail-grid').style.display = 'none';
@@ -266,7 +275,7 @@ function handleWordClick(wordText, surahNum, ayahNum, wordIndex, element) {
 
 // --- AI Logic & Caching ---
 async function analyzeWordWithAI(wordText, surahNum, ayahNum, wordIndex, element) {
-    const cacheKey = `quran_ai_${surahNum}_${ayahNum}_${wordIndex}`;
+    const cacheKey = `quran_ai_v2_${surahNum}_${ayahNum}_${wordIndex}`;
     const cachedData = localStorage.getItem(cacheKey);
 
     if (cachedData) {
@@ -364,11 +373,16 @@ function generateAIPrompt(word, ayahAr, ayahId, surahName, ayahNum) {
       "indonesian_equivalent": "Padanan kelas kata dalam bahasa Indonesia (contoh: 'Kata Kerja', 'Kata Benda', 'Kata Keterangan', dll)",
       "root": "Akar kata (3 atau 4 huruf, gunakan bahasa arab, misal: ع و ن). Jika tidak ada (misal huruf jar), isikan null",
       "base_form": "Bentuk dasar dari kata tersebut (misal: اِسْتَعَانَ). Jika tidak ada isikan null",
+      "base_form_meaning": "Arti dari bentuk dasar kata tersebut dalam bahasa Indonesia. Jika base_form null, isikan null",
       "type": "Jenis kata dalam bahasa Arab (contoh: 'Fi\\'il Mudhari\\'', 'Isim Fa\\'il', 'Huruf Jar', dll)",
+      "type_explanation": "Penjelasan detail namun singkat tentang jenis kata tersebut dan bagaimana ciri-cirinya pada kata ini. Jika type null/kosong, isikan null",
       "nahwu": "Kedudukan kata dalam kalimat (contoh: 'Mubtada', 'Khabar', 'Fa\\'il', 'Maf\\'ul bih', dll)",
+      "nahwu_explanation": "Penjelasan singkat tentang fungsi nahwu tersebut (apa itu fungsi tersebut dan cirinya di kata ini). Jika nahwu null/kosong, isikan null",
       "irab": "Status I'rab (contoh: 'Marfu\\' dengan Dhammah', 'Manshub', 'Majrur', dll)",
+      "irab_explanation": "Penjelasan singkat mengapa I'rabnya demikian dan apa tanda I'rabnya pada kata ini. Jika irab null/kosong, isikan null",
       "sharaf": "Pola (Wazan) kata tersebut (contoh: 'استفعل', 'فعل'). Jika tidak ada isikan null",
-      "explanation": "Penjelasan singkat (1-2 kalimat) yang mudah dipahami orang awam tentang kenapa kata tersebut berbentuk seperti itu atau memiliki kedudukan tersebut.",
+      "sharaf_explanation": "Penjelasan singkat mengenai wazan sharaf tersebut dan apa makna imbuhannya pada kata ini. Jika sharaf null/kosong, isikan null",
+      "explanation": "Penjelasan singkat (1-2 kalimat) yang mudah dipahami orang awam tentang keseluruhan analisis kata tersebut pada konteks ayatnya.",
       "role": "Pilih salah satu nilai: 'subject' (jika berfungsi sebagai subjek/fa'il/mubtada), 'predicate' (jika berfungsi sebagai predikat/fi'il/khabar), 'object' (jika berfungsi sebagai objek/maf'ul bih), ATAU 'none' (jika selain ketiganya)"
     }
 
@@ -384,10 +398,42 @@ function displayWordDetails(data) {
     document.getElementById('modal-indonesian-equivalent').textContent = data.indonesian_equivalent || '-';
     document.getElementById('modal-root').textContent = data.root || '-';
     document.getElementById('modal-base-form').textContent = data.base_form || '-';
+
+    // Sub-explanations helper
+    const updateSubExplanation = (elementId, content) => {
+        const el = document.getElementById(elementId);
+        if (content && content !== "null" && content !== "-") {
+            el.innerHTML = `<strong>Arti:</strong> ${content}`;
+            el.style.display = 'block';
+        } else {
+            el.style.display = 'none';
+        }
+    };
+
+    const updateDetailExplanation = (elementId, content) => {
+        const el = document.getElementById(elementId);
+        if (content && content !== "null" && content !== "-") {
+            el.innerHTML = content;
+            el.style.display = 'block';
+        } else {
+            el.style.display = 'none';
+        }
+    };
+
+    updateSubExplanation('modal-base-form-meaning', data.base_form_meaning);
+
     document.getElementById('modal-type').textContent = data.type || '-';
+    updateDetailExplanation('modal-type-explanation', data.type_explanation);
+
     document.getElementById('modal-nahwu').textContent = data.nahwu || '-';
+    updateDetailExplanation('modal-nahwu-explanation', data.nahwu_explanation);
+
     document.getElementById('modal-irab').textContent = data.irab || '-';
+    updateDetailExplanation('modal-irab-explanation', data.irab_explanation);
+
     document.getElementById('modal-sharaf').textContent = data.sharaf || '-';
+    updateDetailExplanation('modal-sharaf-explanation', data.sharaf_explanation);
+
     document.getElementById('modal-explanation').textContent = data.explanation || '-';
 
     // Show sections

@@ -349,6 +349,21 @@ select {
     font-size: 1.1rem;
 }
 
+.sub-explanation {
+    font-size: 0.85rem;
+    color: #666;
+    margin-top: 8px;
+    padding-top: 8px;
+    border-top: 1px dashed var(--border-color);
+    line-height: 1.4;
+    font-style: italic;
+    display: none; /* Hidden by default until populated */
+}
+
+[data-theme="dark"] .sub-explanation {
+    color: #aaa;
+}
+
 .explanation-text {
     background-color: var(--bg-color);
     padding: 15px;
