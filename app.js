@@ -9,6 +9,9 @@ const homeBtn = document.getElementById('home-btn');
 const aboutBtn = document.getElementById('about-btn');
 const aboutModal = document.getElementById('about-modal');
 const closeAboutModalBtn = document.getElementById('close-about-modal');
+const helpBtn = document.getElementById('help-btn');
+const helpModal = document.getElementById('help-modal');
+const closeHelpModalBtn = document.getElementById('close-help-modal');
 
 const themeToggleBtn = document.getElementById('theme-toggle');
 const settingsBtn = document.getElementById('settings-btn');
@@ -101,6 +104,7 @@ function setupEventListeners() {
         closeModal(document.getElementById('word-modal'));
         closeModal(welcomeModal);
         closeModal(aboutModal);
+        closeModal(helpModal);
     });
 
     aboutBtn.addEventListener('click', () => {
@@ -111,10 +115,19 @@ function setupEventListeners() {
         closeModal(aboutModal);
     });
 
+    helpBtn.addEventListener('click', () => {
+        openModal(helpModal);
+    });
+
+    closeHelpModalBtn.addEventListener('click', () => {
+        closeModal(helpModal);
+    });
+
     // Close Modals on outside click
     window.addEventListener('click', (e) => {
         if (e.target === settingsModal) closeModal(settingsModal);
         if (e.target === aboutModal) closeModal(aboutModal);
+        if (e.target === helpModal) closeModal(helpModal);
         if (e.target === welcomeModal) {
             sessionStorage.setItem('welcome_dismissed', 'true');
             closeModal(welcomeModal);
@@ -131,6 +144,7 @@ function setupEventListeners() {
             }
             if (settingsModal.classList.contains('show')) closeModal(settingsModal);
             if (aboutModal.classList.contains('show')) closeModal(aboutModal);
+            if (helpModal.classList.contains('show')) closeModal(helpModal);
             if (document.getElementById('word-modal').classList.contains('show')) closeModal(document.getElementById('word-modal'));
         }
     });

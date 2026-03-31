@@ -29,6 +29,7 @@
         </div>
         <div class="controls">
             <button id="home-btn" title="Kembali ke Beranda"><i class="fas fa-home"></i> <span class="nav-text">Home</span></button>
+            <button id="help-btn" title="Panduan Nahwu & Sharaf"><i class="fas fa-book"></i> <span class="nav-text">Help</span></button>
             <button id="about-btn" title="Tentang Aplikasi"><i class="fas fa-info-circle"></i> <span class="nav-text">About</span></button>
             <button id="theme-toggle" title="Toggle Dark/Light Mode"><i class="fas fa-moon"></i></button>
             <button id="settings-btn" title="Pengaturan API"><i class="fas fa-cog"></i></button>
@@ -262,6 +263,291 @@
                         <a href="https://wa.me/628121083060" target="_blank" class="dev-link-btn" style="text-decoration: none; padding: 8px 15px; background-color: #25D366; color: white; border-radius: 20px; font-size: 0.9rem; transition: transform 0.2s;"><i class="fab fa-whatsapp"></i> 0812-1083-060</a>
                     </div>
                 </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Help / Education Modal -->
+    <div id="help-modal" class="modal">
+        <div class="modal-content card" style="max-width: 900px;">
+            <span class="close-btn" id="close-help-modal">&times;</span>
+
+            <div class="help-header" style="text-align: center; margin-bottom: 30px;">
+                <h2 style="color: var(--primary-color); font-size: 2.2rem; margin-bottom: 10px;"><i class="fas fa-book-reader"></i> Pengantar Dasar</h2>
+                <p style="font-size: 1.2rem; color: var(--text-color); opacity: 0.8; font-weight: bold;">Ilmu Nahwu, Sharaf, dan I'rab</p>
+                <p style="margin-top: 15px; font-size: 1rem; line-height: 1.6;">Untuk bisa merasakan keindahan bahasa Al-Qur'an, kita menggunakan tiga "alat bedah" utama, ditambah dengan pemahaman tentang pola kata dan jumlah kata. Mari kita kenali semuanya secara sederhana:</p>
+            </div>
+
+            <div class="help-content" style="line-height: 1.7;">
+
+                <!-- SHARAF -->
+                <div class="edu-section">
+                    <h3 class="edu-title"><span class="badge" style="font-size: 1.2rem;">1</span> Ilmu SHARAF (Morfologi / Bedah Kata)</h3>
+                    <div class="def-box">
+                        <strong>Definisi:</strong> Ilmu yang mempelajari perubahan bentuk suatu kata dari satu akar kata (root word) menjadi berbagai macam bentuk untuk menghasilkan makna yang berbeda-beda, tanpa melihat posisinya di dalam kalimat.
+                    </div>
+                    <div class="feature-box">
+                        <strong><i class="fas fa-microscope"></i> Ciri-ciri Khusus:</strong>
+                        <ul>
+                            <li><strong>Fokus pada internal kata:</strong> Membahas huruf awalan, sisipan, dan <em>wazan</em> (pola/timbangan kata).</li>
+                            <li><strong>Mengubah waktu & pelaku:</strong> Mengubah kata kerja masa lalu menjadi masa kini, perintah, atau mengubah kata kerja menjadi kata benda (pelaku, tempat, alat).</li>
+                            <li>Analisis Sharaf bisa dilakukan pada satu kata yang berdiri sendiri (tidak harus dalam kalimat).</li>
+                        </ul>
+                    </div>
+                    <div class="example-box">
+                        <strong><i class="fas fa-list-ol"></i> 5 Contoh Ilmu Sharaf:</strong><br>
+                        Kita ambil satu akar kata <span class="arabic-text" style="font-size: 1.5rem;">ك - ت - ب</span> (Ka-Ta-Ba) yang makna dasarnya adalah "Menulis":
+                        <ol>
+                            <li><span class="arabic-text large-arabic">كَتَبَ</span> (Kataba): <strong>Fi'il Madhi</strong> (Kata kerja masa lalu) &rarr; Dia (laki-laki) telah menulis.</li>
+                            <li><span class="arabic-text large-arabic">يَكْتُبُ</span> (Yaktubu): <strong>Fi'il Mudhari'</strong> (Kata kerja masa kini/depan) &rarr; Dia sedang/akan menulis.</li>
+                            <li><span class="arabic-text large-arabic">كَاتِبٌ</span> (Kaatibun): <strong>Isim Fa'il</strong> (Kata Benda Pelaku) &rarr; Orang yang menulis / Penulis.</li>
+                            <li><span class="arabic-text large-arabic">مَكْتَبٌ</span> (Maktabun): <strong>Isim Makan</strong> (Kata Benda Tempat) &rarr; Tempat untuk menulis / Meja / Kantor.</li>
+                            <li><span class="arabic-text large-arabic">مَكْتُوْبٌ</span> (Maktuubun): <strong>Isim Maf'ul</strong> (Kata Benda Objek) &rarr; Sesuatu yang ditulis / Surat / Tulisan.</li>
+                        </ol>
+                        <p style="font-style: italic; opacity: 0.8; text-align: center;">(Lihat, dari satu akar kata saja bisa melahirkan banyak kosakata baru!)</p>
+                    </div>
+                </div>
+
+                <!-- NAHWU -->
+                <div class="edu-section">
+                    <h3 class="edu-title"><span class="badge" style="font-size: 1.2rem;">2</span> Ilmu NAHWU (Sintaksis / Bedah Kalimat)</h3>
+                    <div class="def-box">
+                        <strong>Definisi:</strong> Ilmu yang mempelajari kaidah susunan kalimat bahasa Arab, untuk mengetahui kedudukan setiap kata di dalam kalimat (apakah ia subjek, predikat, objek, dsb), serta mengetahui hukum harakat akhir dari kata tersebut.
+                    </div>
+                    <div class="feature-box">
+                        <strong><i class="fas fa-microscope"></i> Ciri-ciri Khusus:</strong>
+                        <ul>
+                            <li><strong>Fokus pada posisi kata:</strong> Hanya berlaku jika kata tersebut sudah dirangkai menjadi kalimat sempurna.</li>
+                            <li><strong>Fokus pada huruf paling akhir:</strong> Ilmu Nahwu tidak peduli dengan huruf depan atau tengah kata, ia hanya mengurus harakat di huruf paling akhir (a, i, atau u).</li>
+                            <li>Berfungsi untuk mencegah kesalahpahaman makna yang fatal akibat salah harakat.</li>
+                        </ul>
+                    </div>
+                    <div class="example-box">
+                        <strong><i class="fas fa-list-ol"></i> 5 Contoh Kedudukan Kata dalam Ilmu Nahwu:</strong>
+                        <ol>
+                            <li><strong>Mubtada'</strong> (Subjek Utama di awal kalimat): <span class="arabic-text large-arabic">الْمَسْجِدُ كَبِيْرٌ</span> (Al-Masjidu kabiirun) = Masjid itu besar.</li>
+                            <li><strong>Fa'il</strong> (Pelaku dari sebuah kata kerja): <span class="arabic-text large-arabic">جَاءَ زَيْدٌ</span> (Jaa'a Zaidun) = Telah datang Zaid.</li>
+                            <li><strong>Maf'ul Bih</strong> (Objek Penderita): <span class="arabic-text large-arabic">رَأَيْتُ زَيْدًا</span> (Ra'aytu Zaidan) = Aku melihat Zaid.</li>
+                            <li><strong>Majrur</strong> dengan Huruf Jar (Kata yang jatuh setelah preposisi): <span class="arabic-text large-arabic">مَرَرْتُ بِزَيْدٍ</span> (Marartu bi-Zaidin) = Aku berpapasan dengan Zaid.</li>
+                            <li><strong>Mudhaf Ilaih</strong> (Kata yang disandari kepemilikan): <span class="arabic-text large-arabic">كِتَابُ اللَّهِ</span> (Kitaabu Allahi) = Kitab milik Allah.</li>
+                        </ol>
+                    </div>
+                </div>
+
+                <!-- I'RAB -->
+                <div class="edu-section">
+                    <h3 class="edu-title"><span class="badge" style="font-size: 1.2rem;">3</span> I'RAB (Perubahan Harakat Akhir)</h3>
+                    <div class="def-box">
+                        <strong>Definisi:</strong> I'rab adalah "produk/hasil" dari Ilmu Nahwu. I'rab adalah perubahan harakat akhir suatu kata akibat adanya <em>amil</em> (faktor penyebab) yang merubah posisinya di dalam kalimat.
+                    </div>
+                    <div class="feature-box">
+                        <strong><i class="fas fa-microscope"></i> Ciri-ciri Khusus:</strong>
+                        <ul>
+                            <li>I'rab adalah "tanda pangkat" sebuah kata. Tanda ini memberitahu kita status kata tersebut (apakah ia pelaku, korban, dll).</li>
+                            <li>I'rab umumnya memiliki 4 status utama: <strong>Rafa'</strong> (biasanya Dhammah/u), <strong>Nashab</strong> (biasanya Fathah/a), <strong>Jar/Khafadh</strong> (biasanya Kasrah/i), dan <strong>Jazm</strong> (biasanya Sukun/mati).</li>
+                        </ul>
+                    </div>
+                    <div class="example-box">
+                        <strong><i class="fas fa-list-ol"></i> 5 Contoh Perubahan I'rab (Kata "Muhammad" berubah harakat):</strong>
+                        <ol>
+                            <li><strong>Status Rafa'</strong> (Tanda dasar: Dhammah "u") &rarr; Saat menjadi Pelaku:<br><span class="arabic-text large-arabic">جَاءَ مُحَمَّدٌ</span> (Jaa'a Muhammad-un) = Muhammad telah datang.</li>
+                            <li><strong>Status Nashab</strong> (Tanda dasar: Fathah "a") &rarr; Saat menjadi Objek:<br><span class="arabic-text large-arabic">رَأَيْتُ مُحَمَّدًا</span> (Ra'aytu Muhammad-an) = Aku melihat Muhammad.</li>
+                            <li><strong>Status Jar</strong> (Tanda dasar: Kasrah "i") &rarr; Saat terkena Huruf Jar:<br><span class="arabic-text large-arabic">سَلَّمْتُ عَلَى مُحَمَّدٍ</span> (Sallamtu 'alaa Muhammad-in) = Aku memberi salam kepada Muhammad.</li>
+                            <li><strong>Status Jazm</strong> (Tanda dasar: Sukun / Huruf mati) &rarr; Khusus Kata Kerja yang dinegasikan:<br><span class="arabic-text large-arabic">لَمْ يَكْتُبْ</span> (Lam Yaktub) = Dia belum menulis. (Kata yaktubu berubah jadi sukun karena ada huruf lam).</li>
+                            <li><strong>I'rab dengan Huruf</strong> (Bukan Harakat) &rarr; Khusus untuk kata Jamak (Banyak):<br>
+                            - Saat Rafa' (Subjek): <span class="arabic-text large-arabic">الْمُسْلِمُوْنَ</span> (Al-Muslimuuna - Menggunakan Wawu).<br>
+                            - Saat Jar/Nashab (Objek): <span class="arabic-text large-arabic">الْمُسْلِمِيْنَ</span> (Al-Muslimiina - Wawu berubah menjadi Ya).</li>
+                        </ol>
+                    </div>
+                </div>
+
+                <!-- BAB 10 -->
+                <div class="edu-section">
+                    <h3 class="edu-title"><span class="badge" style="font-size: 1.2rem;">4</span> Keajaiban Ilmu Sharaf: Mengenal "Bab 10" (Wazan Istaf'ala)</h3>
+                    <div class="def-box">
+                        <strong>Definisi:</strong> Dalam Ilmu Sharaf, kata kerja dibagi menjadi beberapa bab (pola/wazan). "Bab 10" adalah pola kata kerja tingkat lanjut yang sangat terkenal, ditandai dengan penambahan awalan tiga huruf: <strong>Alif - Sin - Ta (اسْتَ)</strong> pada akar kata aslinya.
+                    </div>
+                    <div class="feature-box">
+                        <strong><i class="fas fa-microscope"></i> Ciri-ciri Khusus:</strong>
+                        <ul>
+                            <li>Pola (Wazan) resminya berbunyi: <span class="arabic-text large-arabic">اسْتَفْعَلَ</span> (Istaf'ala).</li>
+                            <li>Penambahan huruf Alif-Sin-Ta ini merubah makna akar kata dasar menjadi makna <strong>Thalab</strong> (Meminta / Memohon) atau <strong>Shayrurah</strong> (Berubah menjadi).</li>
+                            <li>Pola ini sangat sering muncul dalam doa-doa di Al-Qur'an karena mengandung unsur permohonan hamba kepada Tuhannya.</li>
+                        </ul>
+                    </div>
+                    <div class="example-box">
+                        <strong><i class="fas fa-list-ol"></i> 5 Contoh Wazan Bab 10 (Meminta):</strong>
+                        <ol>
+                            <li>Akar Kata: <span class="arabic-text large-arabic">غَفَرَ</span> (Ghafara - Mengampuni)<br>
+                            Diubah ke Bab 10 &rarr; <span class="arabic-text large-arabic">اسْتَغْفَرَ</span> (Istaghfara) = <strong>Meminta ampunan</strong> (Istighfar).</li>
+                            <li>Akar Kata: <span class="arabic-text large-arabic">عَوْن</span> ('Awn - Pertolongan)<br>
+                            Diubah ke Bab 10 &rarr; <span class="arabic-text large-arabic">اسْتَعَانَ</span> (Ista'aana) = <strong>Memohon pertolongan</strong> (Ingat kata Nasta'iin di Al-Fatihah).</li>
+                            <li>Akar Kata: <span class="arabic-text large-arabic">رَحِمَ</span> (Rahima - Menyayangi)<br>
+                            Diubah ke Bab 10 &rarr; <span class="arabic-text large-arabic">اسْتَرْحَمَ</span> (Istarhama) = <strong>Meminta kasih sayang</strong>.</li>
+                            <li>Akar Kata: <span class="arabic-text large-arabic">خَرَجَ</span> (Kharaja - Keluar)<br>
+                            Diubah ke Bab 10 &rarr; <span class="arabic-text large-arabic">اسْتَخْرَجَ</span> (Istakhraja) = <strong>Meminta keluar</strong> / Mengeluarkan.</li>
+                            <li>Akar Kata: <span class="arabic-text large-arabic">فَهِمَ</span> (Fahima - Paham/Mengerti)<br>
+                            Diubah ke Bab 10 &rarr; <span class="arabic-text large-arabic">اسْتَفْهَمَ</span> (Istafhama) = <strong>Meminta pemahaman</strong> / Bertanya.</li>
+                        </ol>
+                    </div>
+                </div>
+
+                <!-- JUMLAH -->
+                <div class="edu-section">
+                    <h3 class="edu-title"><span class="badge" style="font-size: 1.2rem;">5</span> Konsep Jumlah: Tunggal, Ganda, dan Jamak</h3>
+                    <div class="def-box">
+                        <strong>Definisi:</strong> Bahasa Arab memiliki presisi angka yang sangat tinggi. Jika bahasa Indonesia hanya mengenal "Tunggal (Satu)" dan "Jamak (Banyak)", Bahasa Arab menyisipkan satu konsep lagi di tengahnya, yaitu <strong>Mutsanna</strong> (Ganda / Tepat Dua).
+                    </div>
+                    <div class="feature-box">
+                        <strong><i class="fas fa-microscope"></i> Ciri-ciri Khusus & Pembagian:</strong>
+                        <ul>
+                            <li><strong>Mufrad (Tunggal):</strong> Untuk jumlah tepat 1. Harakat/I'rab-nya normal (a, i, u).</li>
+                            <li><strong>Mutsanna (Ganda):</strong> Untuk jumlah tepat 2. Ciri khasnya ditambah Alif & Nun (<span class="arabic-text">انِ</span> - aani) atau Ya & Nun (<span class="arabic-text">يْنِ</span> - ayni) di akhir kata.</li>
+                            <li><strong>Jamak (Banyak/Plural):</strong> Untuk jumlah 3 atau lebih. Terbagi tiga jenis:
+                                <ol style="margin-top: 5px;">
+                                    <li><strong>Jamak Mudzakkar Salim</strong> (Banyak Laki-laki beraturan): Tambahan <em>uuna / iina</em>.</li>
+                                    <li><strong>Jamak Muannats Salim</strong> (Banyak Perempuan beraturan): Tambahan <em>aatun / aatin</em>.</li>
+                                    <li><strong>Jamak Taksir</strong> (Banyak Pecah/Tidak Beraturan): Bentuknya berubah total dari tunggalnya, harus dihafal.</li>
+                                </ol>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="example-box">
+                        <strong><i class="fas fa-list-ol"></i> 5 Contoh Perubahan Jumlah:</strong><br>
+                        Kita ambil contoh kata dasar "Orang Islam" (Muslim) dan "Buku" (Kitab):
+                        <ol>
+                            <li><strong>Mufrad</strong> (Tunggal - 1 orang): <span class="arabic-text large-arabic">مُسْلِمٌ</span> (Muslim-un) = Seorang muslim laki-laki.</li>
+                            <li><strong>Mutsanna</strong> (Ganda - 2 orang): <span class="arabic-text large-arabic">مُسْلِمَانِ</span> (Muslim-aani) = Dua orang muslim laki-laki.</li>
+                            <li><strong>Jamak Mudzakkar Salim</strong> (Banyak - 3+ Laki-laki): <span class="arabic-text large-arabic">مُسْلِمُوْنَ</span> (Muslim-uuna) = Orang-orang muslim laki-laki.</li>
+                            <li><strong>Jamak Muannats Salim</strong> (Banyak - 3+ Perempuan): <span class="arabic-text large-arabic">مُسْلِمَاتٌ</span> (Muslim-aatun) = Orang-orang muslimah perempuan.</li>
+                            <li><strong>Jamak Taksir</strong> (Banyak Pecah - Benda): <span class="arabic-text large-arabic">كِتَابٌ</span> (Kitaabun / 1 Buku) pecah/berubah wujud menjadi &rarr; <span class="arabic-text large-arabic">كُتُبٌ</span> (Kutubun / Buku-buku yang banyak).</li>
+                        </ol>
+                    </div>
+                </div>
+
+                <!-- DHAMIR -->
+                <div class="edu-section" style="margin-bottom: 0;">
+                    <h3 class="edu-title"><span class="badge" style="font-size: 1.2rem;">6</span> Tasrif Lughawi: 14 Perubahan Berdasarkan Pelaku (Dhamir)</h3>
+                    <div class="def-box">
+                        <strong>Definisi:</strong> Ini adalah cabang khusus dari Ilmu Sharaf. Dalam bahasa Arab, sebuah kata kerja (Fi'il) akan berubah bentuk ujungnya secara otomatis menyesuaikan siapa yang melakukannya. Kata Ganti Orang ini disebut <strong>Dhamir</strong>, dan jumlahnya pas ada 14.
+                    </div>
+                    <div class="feature-box">
+                        Mengapa berjumlah 14? Karena bahasa Arab mengkombinasikan Sudut Pandang (Orang ke-3, ke-2, ke-1), Gender (Laki/Perempuan), dan Jumlah (Tunggal, Ganda, Jamak). Perhatikan logikanya:
+                        <ul>
+                            <li><strong>Orang ke-3 (Gaib):</strong> Laki-laki (3) + Perempuan (3) = 6</li>
+                            <li><strong>Orang ke-2 (Lawan Bicara):</strong> Laki-laki (3) + Perempuan (3) = 6</li>
+                            <li><strong>Orang ke-1 (Saya/Kami):</strong> Tunggal (1) + Jamak (1) = 2</li>
+                        </ul>
+                        <p style="text-align: center; font-weight: bold; margin-top: 10px;">Total = 6 + 6 + 2 = 14 Kata Ganti.</p>
+                    </div>
+
+                    <div class="example-box" style="overflow-x: auto;">
+                        <strong><i class="fas fa-table"></i> Tabel 14 Perubahan (Contoh kata dasar: <span class="arabic-text">كَتَبَ</span> / Dia telah menulis):</strong>
+
+                        <table class="grammar-table" style="width: 100%; border-collapse: collapse; margin-top: 15px; text-align: left;">
+                            <thead>
+                                <tr style="background-color: var(--primary-color); color: white;">
+                                    <th style="padding: 10px; border: 1px solid var(--border-color);">Kategori</th>
+                                    <th style="padding: 10px; border: 1px solid var(--border-color);">Arti (Pelaku)</th>
+                                    <th style="padding: 10px; border: 1px solid var(--border-color);">Kata Ganti (Dhamir)</th>
+                                    <th style="padding: 10px; border: 1px solid var(--border-color);">Perubahan Kata Kerja</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <!-- Orang ke-3 -->
+                                <tr>
+                                    <td rowspan="6" style="padding: 10px; border: 1px solid var(--border-color); font-weight: bold; background-color: rgba(41, 128, 185, 0.05);">A. Orang Ke-3<br>(Gaib)</td>
+                                    <td style="padding: 10px; border: 1px solid var(--border-color);">Dia (1 Laki-laki)</td>
+                                    <td style="padding: 10px; border: 1px solid var(--border-color);"><span class="arabic-text large-arabic">هُوَ</span> (Huwa)</td>
+                                    <td style="padding: 10px; border: 1px solid var(--border-color);"><span class="arabic-text large-arabic">كَتَبَ</span> (Kataba)</td>
+                                </tr>
+                                <tr>
+                                    <td style="padding: 10px; border: 1px solid var(--border-color);">Keduanya (2 Laki-laki)</td>
+                                    <td style="padding: 10px; border: 1px solid var(--border-color);"><span class="arabic-text large-arabic">هُمَا</span> (Humaa)</td>
+                                    <td style="padding: 10px; border: 1px solid var(--border-color);"><span class="arabic-text large-arabic">كَتَبَا</span> (Katabaa)</td>
+                                </tr>
+                                <tr>
+                                    <td style="padding: 10px; border: 1px solid var(--border-color);">Mereka (3+ Laki-laki)</td>
+                                    <td style="padding: 10px; border: 1px solid var(--border-color);"><span class="arabic-text large-arabic">هُمْ</span> (Hum)</td>
+                                    <td style="padding: 10px; border: 1px solid var(--border-color);"><span class="arabic-text large-arabic">كَتَبُوْا</span> (Katabuu)</td>
+                                </tr>
+                                <tr>
+                                    <td style="padding: 10px; border: 1px solid var(--border-color);">Dia (1 Perempuan)</td>
+                                    <td style="padding: 10px; border: 1px solid var(--border-color);"><span class="arabic-text large-arabic">هِيَ</span> (Hiya)</td>
+                                    <td style="padding: 10px; border: 1px solid var(--border-color);"><span class="arabic-text large-arabic">كَتَبَتْ</span> (Katabat)</td>
+                                </tr>
+                                <tr>
+                                    <td style="padding: 10px; border: 1px solid var(--border-color);">Keduanya (2 Perempuan)</td>
+                                    <td style="padding: 10px; border: 1px solid var(--border-color);"><span class="arabic-text large-arabic">هُمَا</span> (Humaa)</td>
+                                    <td style="padding: 10px; border: 1px solid var(--border-color);"><span class="arabic-text large-arabic">كَتَبَتَا</span> (Katabataa)</td>
+                                </tr>
+                                <tr>
+                                    <td style="padding: 10px; border: 1px solid var(--border-color);">Mereka (3+ Perempuan)</td>
+                                    <td style="padding: 10px; border: 1px solid var(--border-color);"><span class="arabic-text large-arabic">هُنَّ</span> (Hunna)</td>
+                                    <td style="padding: 10px; border: 1px solid var(--border-color);"><span class="arabic-text large-arabic">كَتَبْنَ</span> (Katabna)</td>
+                                </tr>
+
+                                <!-- Orang ke-2 -->
+                                <tr>
+                                    <td rowspan="6" style="padding: 10px; border: 1px solid var(--border-color); font-weight: bold; background-color: rgba(39, 174, 96, 0.05);">B. Orang Ke-2<br>(Lawan Bicara)</td>
+                                    <td style="padding: 10px; border: 1px solid var(--border-color);">Kamu (1 Laki-laki)</td>
+                                    <td style="padding: 10px; border: 1px solid var(--border-color);"><span class="arabic-text large-arabic">أَنْتَ</span> (Anta)</td>
+                                    <td style="padding: 10px; border: 1px solid var(--border-color);"><span class="arabic-text large-arabic">كَتَبْتَ</span> (Katabta)</td>
+                                </tr>
+                                <tr>
+                                    <td style="padding: 10px; border: 1px solid var(--border-color);">Kalian berdua (2 Laki)</td>
+                                    <td style="padding: 10px; border: 1px solid var(--border-color);"><span class="arabic-text large-arabic">أَنْتُمَا</span> (Antumaa)</td>
+                                    <td style="padding: 10px; border: 1px solid var(--border-color);"><span class="arabic-text large-arabic">كَتَبْتُمَا</span> (Katabtumaa)</td>
+                                </tr>
+                                <tr>
+                                    <td style="padding: 10px; border: 1px solid var(--border-color);">Kalian (3+ Laki-laki)</td>
+                                    <td style="padding: 10px; border: 1px solid var(--border-color);"><span class="arabic-text large-arabic">أَنْتُمْ</span> (Antum)</td>
+                                    <td style="padding: 10px; border: 1px solid var(--border-color);"><span class="arabic-text large-arabic">كَتَبْتُمْ</span> (Katabtum)</td>
+                                </tr>
+                                <tr>
+                                    <td style="padding: 10px; border: 1px solid var(--border-color);">Kamu (1 Perempuan)</td>
+                                    <td style="padding: 10px; border: 1px solid var(--border-color);"><span class="arabic-text large-arabic">أَنْتِ</span> (Anti)</td>
+                                    <td style="padding: 10px; border: 1px solid var(--border-color);"><span class="arabic-text large-arabic">كَتَبْتِ</span> (Katabti)</td>
+                                </tr>
+                                <tr>
+                                    <td style="padding: 10px; border: 1px solid var(--border-color);">Kalian berdua (2 Pr)</td>
+                                    <td style="padding: 10px; border: 1px solid var(--border-color);"><span class="arabic-text large-arabic">أَنْتُمَا</span> (Antumaa)</td>
+                                    <td style="padding: 10px; border: 1px solid var(--border-color);"><span class="arabic-text large-arabic">كَتَبْتُمَا</span> (Katabtumaa)</td>
+                                </tr>
+                                <tr>
+                                    <td style="padding: 10px; border: 1px solid var(--border-color);">Kalian (3+ Perempuan)</td>
+                                    <td style="padding: 10px; border: 1px solid var(--border-color);"><span class="arabic-text large-arabic">أَنْتُنَّ</span> (Antunna)</td>
+                                    <td style="padding: 10px; border: 1px solid var(--border-color);"><span class="arabic-text large-arabic">كَتَبْتُنَّ</span> (Katabtunna)</td>
+                                </tr>
+
+                                <!-- Orang ke-1 -->
+                                <tr>
+                                    <td rowspan="2" style="padding: 10px; border: 1px solid var(--border-color); font-weight: bold; background-color: rgba(142, 68, 173, 0.05);">C. Orang Ke-1<br>(Mutakallim)</td>
+                                    <td style="padding: 10px; border: 1px solid var(--border-color);">Saya (Bebas L/P)</td>
+                                    <td style="padding: 10px; border: 1px solid var(--border-color);"><span class="arabic-text large-arabic">أَنَا</span> (Ana)</td>
+                                    <td style="padding: 10px; border: 1px solid var(--border-color);"><span class="arabic-text large-arabic">كَتَبْتُ</span> (Katabtu)</td>
+                                </tr>
+                                <tr>
+                                    <td style="padding: 10px; border: 1px solid var(--border-color);">Kami/Kita (Bebas L/P)</td>
+                                    <td style="padding: 10px; border: 1px solid var(--border-color);"><span class="arabic-text large-arabic">نَحْنُ</span> (Nahnu)</td>
+                                    <td style="padding: 10px; border: 1px solid var(--border-color);"><span class="arabic-text large-arabic">كَتَبْنَا</span> (Katabnaa)</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+
+                <div class="summary-box" style="margin-top: 30px; text-align: center;">
+                    <h4 style="color: var(--primary-color); margin-bottom: 10px;"><i class="fas fa-magic"></i> Ringkasan Logika (Keajaiban I'rab)</h4>
+                    <p style="margin-bottom: 10px;">Coba perhatikan kalimat ini: "Zaid memukul 'Amr". Jika dalam bahasa Indonesia kita membalik susunannya menjadi "'Amr memukul Zaid", maknanya langsung berubah total. Pelakunya berubah!</p>
+                    <p style="margin-bottom: 10px;">Tapi dalam Bahasa Arab (karena ada Ilmu Nahwu & I'rab):</p>
+                    <ul style="list-style: none; padding: 0; margin-bottom: 15px; font-weight: bold;">
+                        <li><span class="arabic-text large-arabic">ضَرَبَ زَيْدٌ عَمْرًا</span> (Dharaba Zaid-un 'Amr-an) = Zaid memukul 'Amr.</li>
+                        <li><span class="arabic-text large-arabic">ضَرَبَ عَمْرًا زَيْدٌ</span> (Dharaba 'Amr-an Zaid-un) = Zaid memukul 'Amr.</li>
+                    </ul>
+                    <p style="font-style: italic;">Walaupun kata 'Amr ditaruh di depan, maknanya TETAP SAMA! Kenapa? Karena Zaid tetap berharakat Dhammah (Zaid-un) yang berarti dia adalah Pelaku pasti. Dan 'Amr tetap berharakat Fathah ('Amr-an) yang berarti dia adalah Objek penderita yang pasti. Itulah keajaiban harakat akhir dalam I'rab!</p>
+                </div>
+
             </div>
         </div>
     </div>

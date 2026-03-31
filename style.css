@@ -433,6 +433,75 @@ select {
     background-color: rgba(241, 196, 15, 0.05);
 }
 
+/* Help Modal Styling enhancements */
+.edu-section {
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    border-bottom: 1px dashed var(--border-color);
+}
+
+.edu-title {
+    color: var(--primary-color);
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.def-box {
+    background-color: rgba(52, 152, 219, 0.1);
+    border-left: 4px solid #3498db;
+    padding: 12px 15px;
+    margin-bottom: 15px;
+    border-radius: 0 4px 4px 0;
+}
+
+.feature-box {
+    background-color: var(--bg-color);
+    border: 1px solid var(--border-color);
+    padding: 15px;
+    border-radius: 6px;
+    margin-bottom: 15px;
+}
+
+.feature-box ul {
+    margin-top: 10px;
+    padding-left: 20px;
+}
+
+.feature-box li {
+    margin-bottom: 8px;
+}
+
+.example-box {
+    background-color: rgba(46, 204, 113, 0.05);
+    padding: 15px;
+    border-radius: 6px;
+    border: 1px solid rgba(46, 204, 113, 0.2);
+}
+
+.example-box ol, .example-box ul {
+    margin-top: 10px;
+    padding-left: 20px;
+}
+
+.example-box li {
+    margin-bottom: 10px;
+    line-height: 1.8;
+}
+
+.grammar-table td, .grammar-table th {
+    border-color: var(--border-color) !important;
+}
+
+[data-theme="dark"] .grammar-table td {
+    background-color: var(--bg-color) !important;
+}
+
+[data-theme="dark"] .def-box {
+    background-color: rgba(52, 152, 219, 0.15);
+}
+
 .settings-desc {
     margin-bottom: 20px;
     color: #666;
