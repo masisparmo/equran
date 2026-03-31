@@ -75,6 +75,15 @@ header {
     font-size: 1.5rem;
     font-weight: bold;
     color: var(--primary-color);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.header-logo-img {
+    height: 40px;
+    width: auto;
+    object-fit: contain;
 }
 
 .controls button {
