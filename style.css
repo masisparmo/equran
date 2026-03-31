@@ -358,7 +358,34 @@ select {
     border-radius: 5px;
     border: 1px solid var(--border-color);
     margin-top: 10px;
-    white-space: pre-wrap;
+}
+
+/* Markdown specific styles */
+.explanation-text p, .narrative-box p, .summary-box p {
+    margin-bottom: 10px;
+}
+
+.explanation-text p:last-child, .narrative-box p:last-child, .summary-box p:last-child {
+    margin-bottom: 0;
+}
+
+.explanation-text ul, .explanation-text ol, .narrative-box ul, .narrative-box ol {
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+.explanation-text li, .narrative-box li {
+    margin-bottom: 5px;
+}
+
+.explanation-text strong, .narrative-box strong {
+    color: var(--text-color);
+    font-weight: bold;
+}
+
+.explanation-text em, .narrative-box em {
+    font-style: italic;
+    color: var(--primary-color);
 }
 
 /* Welcome & Settings Modal */

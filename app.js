@@ -492,6 +492,17 @@ function generateAIPrompt(word, ayahAr, ayahId, surahName, ayahNum) {
 function displayWordDetails(data) {
     document.getElementById('ai-loading').style.display = 'none';
 
+    // Helper function to safely parse markdown if marked is available and sanitize it
+    const renderMarkdown = (text) => {
+        if (!text || text === "null" || text === "-") return "-";
+        let html = (typeof marked !== 'undefined') ? marked.parse(text) : text;
+        // Sanitize the HTML to prevent Stored XSS from the crowdsourced database
+        if (typeof DOMPurify !== 'undefined') {
+            html = DOMPurify.sanitize(html);
+        }
+        return html;
+    };
+
     // Fill the data - Section 1: Identitas Kata
     if (data.identitas_kata) {
         document.getElementById('modal-transliterasi').textContent = data.identitas_kata.transliterasi || '-';
@@ -503,12 +514,12 @@ function displayWordDetails(data) {
     if (data.analisis_sharaf) {
         const akarKata = data.analisis_sharaf.akar_kata;
         document.getElementById('modal-akar-kata').textContent = (akarKata && akarKata !== "null") ? akarKata : '-';
-        document.getElementById('modal-makna-dasar').textContent = data.analisis_sharaf.makna_dasar || '-';
+        document.getElementById('modal-makna-dasar').innerHTML = renderMarkdown(data.analisis_sharaf.makna_dasar);
 
         const wazanEl = document.getElementById('modal-wazan-perubahan');
         const wazanVal = data.analisis_sharaf.wazan_perubahan;
         if (wazanVal && wazanVal !== "null" && wazanVal !== "-") {
-            wazanEl.innerHTML = `<strong>Wazan & Perubahan:</strong> ${wazanVal}`;
+            wazanEl.innerHTML = `<strong>Wazan & Perubahan:</strong> ${renderMarkdown(wazanVal)}`;
             wazanEl.style.display = 'block';
         } else {
             wazanEl.style.display = 'none';
@@ -517,11 +528,11 @@ function displayWordDetails(data) {
 
     // Fill the data - Section 3: Analisis Nahwu
     if (data.analisis_nahwu) {
-        document.getElementById('modal-kedudukan').textContent = data.analisis_nahwu.kedudukan || '-';
+        document.getElementById('modal-kedudukan').innerHTML = renderMarkdown(data.analisis_nahwu.kedudukan);
         const irabEl = document.getElementById('modal-irab-logika');
         const irabVal = data.analisis_nahwu.irab_dan_logika;
         if (irabVal && irabVal !== "null" && irabVal !== "-") {
-            irabEl.innerHTML = `<strong>Logika Tata Bahasa:</strong> ${irabVal}`;
+            irabEl.innerHTML = `<strong>Logika Tata Bahasa:</strong> ${renderMarkdown(irabVal)}`;
             irabEl.style.display = 'block';
         } else {
             irabEl.style.display = 'none';
@@ -529,7 +540,12 @@ function displayWordDetails(data) {
     }
 
     // Fill the data - Kesimpulan
-    document.getElementById('modal-kesimpulan-makna').textContent = data.kesimpulan_makna || '-';
+    const kesimpulanEl = document.getElementById('modal-kesimpulan-makna');
+    if (data.kesimpulan_makna && data.kesimpulan_makna !== "null" && data.kesimpulan_makna !== "-") {
+        kesimpulanEl.innerHTML = renderMarkdown(data.kesimpulan_makna);
+    } else {
+        kesimpulanEl.innerHTML = "-";
+    }
 
     // Show narrative container
     document.getElementById('word-analysis-narrative').style.display = 'block';
