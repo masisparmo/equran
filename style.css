@@ -306,12 +306,41 @@ select {
     color: var(--primary-color);
 }
 
+.detail-section {
+    margin-bottom: 25px;
+}
+
+.detail-section h3 {
+    margin-bottom: 10px;
+    color: var(--primary-color);
+    font-size: 1.2rem;
+    border-bottom: 2px solid var(--hover-bg);
+    padding-bottom: 5px;
+}
+
 .highlight-box {
     background-color: var(--hover-bg);
     padding: 15px;
-    border-radius: 5px;
-    margin-bottom: 20px;
+    border-radius: 8px;
     border-left: 4px solid var(--primary-color);
+}
+
+.narrative-box {
+    background-color: var(--hover-bg);
+    padding: 15px;
+    border-radius: 8px;
+    border: 1px solid var(--border-color);
+}
+
+.summary-box {
+    background-color: rgba(26, 188, 156, 0.1);
+    padding: 15px;
+    border-radius: 8px;
+    border: 1px solid var(--secondary-color);
+}
+
+[data-theme="dark"] .summary-box {
+    background-color: rgba(3, 218, 198, 0.1);
 }
 
 .badge {
@@ -323,47 +352,6 @@ select {
     font-weight: bold;
 }
 
-.detail-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 15px;
-    margin-bottom: 20px;
-}
-
-.detail-item {
-    background-color: var(--bg-color);
-    padding: 10px;
-    border-radius: 5px;
-    border: 1px solid var(--border-color);
-}
-
-.detail-item .label {
-    display: block;
-    font-size: 0.9rem;
-    color: #888;
-    margin-bottom: 5px;
-}
-
-.detail-item .value {
-    font-weight: bold;
-    font-size: 1.1rem;
-}
-
-.sub-explanation {
-    font-size: 0.85rem;
-    color: #666;
-    margin-top: 8px;
-    padding-top: 8px;
-    border-top: 1px dashed var(--border-color);
-    line-height: 1.4;
-    font-style: italic;
-    display: none; /* Hidden by default until populated */
-}
-
-[data-theme="dark"] .sub-explanation {
-    color: #aaa;
-}
-
 .explanation-text {
     background-color: var(--bg-color);
     padding: 15px;
@@ -373,7 +361,42 @@ select {
     white-space: pre-wrap;
 }
 
-/* Settings Modal */
+/* Welcome & Settings Modal */
+.instructions-box {
+    background-color: var(--hover-bg);
+    padding: 20px;
+    border-radius: 8px;
+    border: 1px solid var(--border-color);
+    margin-bottom: 20px;
+}
+
+.instructions-box h3 {
+    margin-bottom: 10px;
+    font-size: 1.1rem;
+    color: var(--primary-color);
+}
+
+.instructions-box ol {
+    margin-left: 20px;
+    margin-bottom: 15px;
+}
+
+.instructions-box li {
+    margin-bottom: 8px;
+}
+
+.tip-box {
+    background-color: rgba(241, 196, 15, 0.1);
+    border-left: 4px solid #f1c40f;
+    padding: 10px 15px;
+    border-radius: 4px;
+    font-size: 0.9rem;
+}
+
+[data-theme="dark"] .tip-box {
+    background-color: rgba(241, 196, 15, 0.05);
+}
+
 .settings-desc {
     margin-bottom: 20px;
     color: #666;

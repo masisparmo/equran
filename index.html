@@ -76,50 +76,39 @@
             <div id="word-details-content">
                 <h2 id="modal-arabic-word" class="arabic-text large-arabic">Word</h2>
 
-                <div class="detail-section highlight-box">
-                    <p><strong>Arti:</strong> <span id="modal-meaning">-</span></p>
-                    <p><strong>Padanan (B. Indonesia):</strong> <span id="modal-indonesian-equivalent" class="badge">-</span></p>
-                </div>
+                <div id="word-analysis-narrative" style="display: none;">
+                    <div class="detail-section highlight-box">
+                        <h3><i class="fas fa-info-circle"></i> 1. Identitas Kata</h3>
+                        <p><strong>Transliterasi:</strong> <span id="modal-transliterasi" class="badge">-</span></p>
+                        <p><strong>Jenis Kata:</strong> <span id="modal-jenis-kata">-</span></p>
+                        <p><strong>Arti Harfiah:</strong> <span id="modal-arti-harfiah">-</span></p>
+                    </div>
 
-                <div class="detail-grid">
-                    <div class="detail-item">
-                        <span class="label">Akar Kata:</span>
-                        <span class="value arabic-text" id="modal-root">-</span>
+                    <div class="detail-section">
+                        <h3><i class="fas fa-project-diagram"></i> 2. Analisis Sharaf (Morfologi)</h3>
+                        <div class="narrative-box">
+                            <p><strong>Akar Kata:</strong> <span class="arabic-text" id="modal-akar-kata" style="font-size: 1.5rem;">-</span></p>
+                            <p><strong>Makna Dasar:</strong> <span id="modal-makna-dasar">-</span></p>
+                            <div class="explanation-text" id="modal-wazan-perubahan"></div>
+                        </div>
                     </div>
-                    <div class="detail-item">
-                        <span class="label">Bentuk Dasar:</span>
-                        <span class="value arabic-text" id="modal-base-form">-</span>
-                        <div class="sub-explanation" id="modal-base-form-meaning"></div>
-                    </div>
-                    <div class="detail-item">
-                        <span class="label">Jenis Kata:</span>
-                        <span class="value" id="modal-type">-</span>
-                        <div class="sub-explanation" id="modal-type-explanation"></div>
-                    </div>
-                    <div class="detail-item">
-                        <span class="label">Fungsi (Nahwu):</span>
-                        <span class="value" id="modal-nahwu">-</span>
-                        <div class="sub-explanation" id="modal-nahwu-explanation"></div>
-                    </div>
-                     <div class="detail-item">
-                        <span class="label">I'rab:</span>
-                        <span class="value" id="modal-irab">-</span>
-                        <div class="sub-explanation" id="modal-irab-explanation"></div>
-                    </div>
-                     <div class="detail-item">
-                        <span class="label">Sharaf (Wazan):</span>
-                        <span class="value arabic-text" id="modal-sharaf">-</span>
-                        <div class="sub-explanation" id="modal-sharaf-explanation"></div>
-                    </div>
-                </div>
 
-                <div class="detail-section">
-                    <h4>Penjelasan AI:</h4>
-                    <p id="modal-explanation" class="explanation-text">Memuat analisis AI...</p>
+                    <div class="detail-section">
+                        <h3><i class="fas fa-balance-scale"></i> 3. Analisis Nahwu & I'rab</h3>
+                        <div class="narrative-box">
+                            <p><strong>Kedudukan:</strong> <span id="modal-kedudukan">-</span></p>
+                            <div class="explanation-text" id="modal-irab-logika"></div>
+                        </div>
+                    </div>
+
+                    <div class="detail-section summary-box">
+                        <h3><i class="fas fa-lightbulb"></i> Kesimpulan Makna & Hikmah</h3>
+                        <p id="modal-kesimpulan-makna" class="explanation-text" style="font-size: 1.1rem; line-height: 1.8;">-</p>
+                    </div>
                 </div>
 
                 <div id="ai-loading" class="loading" style="display: none;">
-                    <i class="fas fa-robot fa-spin"></i> AI sedang menganalisis kata...
+                    <i class="fas fa-robot fa-spin"></i> Meracik penjelasan AI yang mudah dipahami...
                 </div>
                  <div id="ai-error" class="error-msg" style="display: none;">
                     Terjadi kesalahan saat memanggil AI. Periksa API Key Anda.
@@ -128,15 +117,62 @@
         </div>
     </div>
 
+    <!-- Welcome / Instructions Modal -->
+    <div id="welcome-modal" class="modal">
+        <div class="modal-content card">
+            <span class="close-btn" id="close-welcome-modal">&times;</span>
+            <div style="text-align: center; margin-bottom: 20px;">
+                <h2 style="color: var(--primary-color); font-size: 1.8rem;"><i class="fas fa-magic"></i> Selamat Datang!</h2>
+                <p>Untuk mengaktifkan fitur <strong>Analisis Kata Menggunakan AI</strong>, Anda memerlukan Gemini API Key.</p>
+            </div>
+
+            <div class="instructions-box">
+                <h3>Cara Mendapatkan Gemini API Key (Gratis)</h3>
+                <ol>
+                    <li>Buka <a href="https://aistudio.google.com/app/apikey" target="_blank" style="color: var(--secondary-color); font-weight: bold;">Google AI Studio</a> dan login menggunakan akun Google/Gmail Anda.</li>
+                    <li>Klik tombol <strong>"Create API key"</strong>.</li>
+                    <li>Pilih "Create API key in new project" (atau gunakan project yang ada).</li>
+                    <li>Copy (salin) kode API Key yang muncul.</li>
+                </ol>
+                <div class="tip-box">
+                    <strong><i class="fas fa-lightbulb"></i> Tips:</strong> Anda dapat memasukkan lebih dari satu API Key sekaligus. Cukup pisahkan dengan koma (contoh: <code>key1, key2, key3</code>) dari akun Gmail yang berbeda-beda agar jika satu terkena limit, sistem otomatis menggunakan key lainnya!
+                </div>
+            </div>
+
+            <div class="api-key-input-group" style="margin-top: 20px;">
+                <input type="password" id="welcome-api-key" placeholder="Paste (Tempel) API Key Gemini di sini...">
+                <button id="welcome-save-key-btn"><i class="fas fa-save"></i> Simpan & Mulai</button>
+            </div>
+
+            <p style="text-align: center; font-size: 0.9rem; margin-top: 15px;">
+                <em>Anda juga bisa memasukkan/mengubah key kapan saja melalui menu Settings (<i class="fas fa-cog"></i>) di pojok kanan atas.</em>
+            </p>
+        </div>
+    </div>
+
     <!-- Settings Modal -->
     <div id="settings-modal" class="modal">
         <div class="modal-content card">
             <span class="close-btn" id="close-settings-modal">&times;</span>
-            <h2>Pengaturan API Gemini</h2>
-            <p class="settings-desc">Masukkan API Key Gemini Anda (mendukung beberapa key untuk fallback jika limit tercapai).</p>
+            <h2 style="margin-bottom: 10px;">Pengaturan API Gemini</h2>
+
+            <div class="instructions-box">
+                <h3>Cara Mendapatkan Gemini API Key (Gratis)</h3>
+                <ol>
+                    <li>Buka <a href="https://aistudio.google.com/app/apikey" target="_blank" style="color: var(--secondary-color); font-weight: bold;">Google AI Studio</a> dan login menggunakan akun Google/Gmail Anda.</li>
+                    <li>Klik tombol <strong>"Create API key"</strong>.</li>
+                    <li>Pilih "Create API key in new project" (atau gunakan project yang ada).</li>
+                    <li>Copy (salin) kode API Key yang muncul.</li>
+                </ol>
+                <div class="tip-box">
+                    <strong><i class="fas fa-lightbulb"></i> Tips:</strong> Anda dapat memasukkan lebih dari satu API Key sekaligus. Cukup pisahkan dengan koma (contoh: <code>key1, key2, key3</code>) dari akun Gmail yang berbeda-beda agar jika satu terkena limit, sistem otomatis menggunakan key lainnya!
+                </div>
+            </div>
+
+            <p class="settings-desc">Masukkan API Key Anda di bawah ini:</p>
 
             <div class="api-key-input-group">
-                <input type="password" id="new-api-key" placeholder="Masukkan API Key Gemini Anda...">
+                <input type="password" id="new-api-key" placeholder="Paste (Tempel) API Key Gemini di sini...">
                 <button id="add-key-btn"><i class="fas fa-plus"></i> Tambah</button>
             </div>
 

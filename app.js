@@ -13,6 +13,10 @@ const newApiKeyInput = document.getElementById('new-api-key');
 const addKeyBtn = document.getElementById('add-key-btn');
 const keysList = document.getElementById('keys-list');
 const saveSettingsBtn = document.getElementById('save-settings-btn');
+const welcomeModal = document.getElementById('welcome-modal');
+const closeWelcomeModalBtn = document.getElementById('close-welcome-modal');
+const welcomeApiKeyInput = document.getElementById('welcome-api-key');
+const welcomeSaveKeyBtn = document.getElementById('welcome-save-key-btn');
 
 // --- API Variables ---
 const quranApiBaseUrl = 'https://api.alquran.cloud/v1';
@@ -27,6 +31,11 @@ function init() {
     loadApiKeys();
     setupEventListeners();
     fetchSurahs();
+
+    // Check if we need to show welcome modal on first load
+    if (apiKeys.length === 0 && !sessionStorage.getItem('welcome_dismissed')) {
+        openModal(welcomeModal);
+    }
 }
 
 // Event Listeners
@@ -37,13 +46,41 @@ function setupEventListeners() {
     // Settings Modal
     settingsBtn.addEventListener('click', () => openModal(settingsModal));
     closeSettingsModalBtn.addEventListener('click', () => closeModal(settingsModal));
-    addKeyBtn.addEventListener('click', addApiKey);
+    addKeyBtn.addEventListener('click', () => addApiKey(newApiKeyInput.value, newApiKeyInput));
     saveSettingsBtn.addEventListener('click', () => closeModal(settingsModal));
+
+    // Welcome Modal
+    closeWelcomeModalBtn.addEventListener('click', () => {
+        sessionStorage.setItem('welcome_dismissed', 'true');
+        closeModal(welcomeModal);
+    });
+    welcomeSaveKeyBtn.addEventListener('click', () => {
+        const added = addApiKey(welcomeApiKeyInput.value, welcomeApiKeyInput);
+        if (added) {
+            closeModal(welcomeModal);
+        }
+    });
 
     // Close Modals on outside click
     window.addEventListener('click', (e) => {
         if (e.target === settingsModal) closeModal(settingsModal);
+        if (e.target === welcomeModal) {
+            sessionStorage.setItem('welcome_dismissed', 'true');
+            closeModal(welcomeModal);
+        }
         if (e.target === document.getElementById('word-modal')) closeModal(document.getElementById('word-modal'));
+    });
+
+    // Close Modals with Escape key
+    window.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape') {
+            if (welcomeModal.classList.contains('show')) {
+                sessionStorage.setItem('welcome_dismissed', 'true');
+                closeModal(welcomeModal);
+            }
+            if (settingsModal.classList.contains('show')) closeModal(settingsModal);
+            if (document.getElementById('word-modal').classList.contains('show')) closeModal(document.getElementById('word-modal'));
+        }
     });
 
     document.getElementById('close-word-modal').addEventListener('click', () => {
@@ -242,8 +279,7 @@ function hideLoading() {
 
 function handleWordClick(wordText, surahNum, ayahNum, wordIndex, element) {
     if (apiKeys.length === 0) {
-        alert("Silakan masukkan Gemini API Key di Pengaturan untuk melihat analisis kata.");
-        openModal(settingsModal);
+        openModal(welcomeModal);
         return;
     }
 
@@ -252,21 +288,15 @@ function handleWordClick(wordText, surahNum, ayahNum, wordIndex, element) {
     document.getElementById('modal-arabic-word').textContent = wordText;
 
     // Reset modal content
-    const fields = ['modal-meaning', 'modal-indonesian-equivalent', 'modal-root', 'modal-base-form', 'modal-type', 'modal-nahwu', 'modal-irab', 'modal-sharaf', 'modal-explanation'];
-    fields.forEach(id => document.getElementById(id).textContent = '-');
-    const explanationFields = ['modal-base-form-meaning', 'modal-type-explanation', 'modal-nahwu-explanation', 'modal-irab-explanation', 'modal-sharaf-explanation'];
-    explanationFields.forEach(id => {
+    const fields = ['modal-transliterasi', 'modal-jenis-kata', 'modal-arti-harfiah', 'modal-akar-kata', 'modal-makna-dasar', 'modal-wazan-perubahan', 'modal-kedudukan', 'modal-irab-logika', 'modal-kesimpulan-makna'];
+    fields.forEach(id => {
         const el = document.getElementById(id);
-        if(el) {
-            el.innerHTML = '';
-            el.style.display = 'none';
-        }
+        if(el) el.textContent = '-';
     });
 
     document.getElementById('ai-error').style.display = 'none';
     document.getElementById('ai-loading').style.display = 'block';
-    document.getElementById('word-details-content').querySelector('.detail-grid').style.display = 'none';
-    document.getElementById('word-details-content').querySelectorAll('.detail-section').forEach(el => el.style.display = 'none');
+    document.getElementById('word-analysis-narrative').style.display = 'none';
 
     openModal(wordModal);
 
@@ -275,7 +305,7 @@ function handleWordClick(wordText, surahNum, ayahNum, wordIndex, element) {
 
 // --- AI Logic & Caching ---
 async function analyzeWordWithAI(wordText, surahNum, ayahNum, wordIndex, element) {
-    const cacheKey = `quran_ai_v2_${surahNum}_${ayahNum}_${wordIndex}`;
+    const cacheKey = `quran_ai_v3_${surahNum}_${ayahNum}_${wordIndex}`;
     const cachedData = localStorage.getItem(cacheKey);
 
     if (cachedData) {
@@ -357,33 +387,34 @@ async function callGeminiAPI(apiKey, prompt) {
 
 function generateAIPrompt(word, ayahAr, ayahId, surahName, ayahNum) {
     return `
-    Anda adalah seorang ahli tafsir Al-Qur'an, tata bahasa Arab (Nahwu dan Sharaf), dan linguistik.
-    Saya memberikan sebuah kata bahasa Arab dari Al-Qur'an.
-    Tugas Anda adalah menganalisis kata ini secara mendalam dalam bahasa Indonesia, berdasarkan konteks ayatnya.
+    Bertindaklah sebagai Guru Bahasa Arab dan Ahli Tafsir Al-Quran yang sangat sabar, ahli, dan terbiasa mengajar murid non-Arab dari tingkat dasar (awam).
 
-    Kata: "${word}"
+    Saya ingin belajar memahami Al-Quran. Tolong bedah dan analisis kata "${word}" secara mendetail, berdasarkan konteks ayatnya.
+
     Surat: ${surahName}
     Ayat ke: ${ayahNum}
     Konteks Ayat (Arab): "${ayahAr}"
     Konteks Terjemahan (Indo): "${ayahId}"
 
-    Berikan hasil analisis Anda DALAM BENTUK JSON SAJA dengan skema berikut:
+    Tolong gunakan bahasa Indonesia yang sederhana dan hindari penjelasan berbelit-belit. Untuk kata ini, jabarkan analisis DALAM BENTUK JSON SAJA dengan skema berikut:
     {
-      "meaning": "Arti kata tersebut (singkat)",
-      "indonesian_equivalent": "Padanan kelas kata dalam bahasa Indonesia (contoh: 'Kata Kerja', 'Kata Benda', 'Kata Keterangan', dll)",
-      "root": "Akar kata (3 atau 4 huruf, gunakan bahasa arab, misal: ع و ن). Jika tidak ada (misal huruf jar), isikan null",
-      "base_form": "Bentuk dasar dari kata tersebut (misal: اِسْتَعَانَ). Jika tidak ada isikan null",
-      "base_form_meaning": "Arti dari bentuk dasar kata tersebut dalam bahasa Indonesia. Jika base_form null, isikan null",
-      "type": "Jenis kata dalam bahasa Arab (contoh: 'Fi\\'il Mudhari\\'', 'Isim Fa\\'il', 'Huruf Jar', dll)",
-      "type_explanation": "Penjelasan detail namun singkat tentang jenis kata tersebut dan bagaimana ciri-cirinya pada kata ini. Jika type null/kosong, isikan null",
-      "nahwu": "Kedudukan kata dalam kalimat (contoh: 'Mubtada', 'Khabar', 'Fa\\'il', 'Maf\\'ul bih', dll)",
-      "nahwu_explanation": "Penjelasan singkat tentang fungsi nahwu tersebut (apa itu fungsi tersebut dan cirinya di kata ini). Jika nahwu null/kosong, isikan null",
-      "irab": "Status I'rab (contoh: 'Marfu\\' dengan Dhammah', 'Manshub', 'Majrur', dll)",
-      "irab_explanation": "Penjelasan singkat mengapa I'rabnya demikian dan apa tanda I'rabnya pada kata ini. Jika irab null/kosong, isikan null",
-      "sharaf": "Pola (Wazan) kata tersebut (contoh: 'استفعل', 'فعل'). Jika tidak ada isikan null",
-      "sharaf_explanation": "Penjelasan singkat mengenai wazan sharaf tersebut dan apa makna imbuhannya pada kata ini. Jika sharaf null/kosong, isikan null",
-      "explanation": "Penjelasan singkat (1-2 kalimat) yang mudah dipahami orang awam tentang keseluruhan analisis kata tersebut pada konteks ayatnya.",
-      "role": "Pilih salah satu nilai: 'subject' (jika berfungsi sebagai subjek/fa'il/mubtada), 'predicate' (jika berfungsi sebagai predikat/fi'il/khabar), 'object' (jika berfungsi sebagai objek/maf'ul bih), ATAU 'none' (jika selain ketiganya)"
+      "identitas_kata": {
+        "tulisan_arab": "Tulisan Arab dari kata tersebut",
+        "transliterasi": "Cara bacanya dalam huruf latin",
+        "jenis_kata": "Isim (Kata Benda), Fi'il (Kata Kerja), atau Harf (Huruf)",
+        "arti_harfiah": "Arti dasar/harfiah dari kata tersebut"
+      },
+      "analisis_sharaf": {
+        "akar_kata": "Akar kata (root word) huruf Arab, misal: ك ت ب. Jika tidak ada isikan null",
+        "makna_dasar": "Makna dasar dari akar kata tersebut",
+        "wazan_perubahan": "Bagaimana perubahan bentuknya (wazan) dan apa makna dari perubahan tersebut. Jika tidak ada isikan null"
+      },
+      "analisis_nahwu": {
+        "kedudukan": "Kedudukan kata ini dalam kalimat (misal: subjek, predikat, huruf jar, dll) dengan bahasa awam",
+        "irab_dan_logika": "Penjelasan mengapa harakat huruf terakhirnya seperti itu (misal: mengapa kasrah, bukan fathah/dhammah). Jelaskan I'rab ini dengan logika yang mudah dipahami orang awam."
+      },
+      "kesimpulan_makna": "Kesimpulan makna dari kata ini pada ayat tersebut berdasarkan ilmu tata bahasa di atas. Apa hikmah luar biasa atau keunikan sastra dari penggunaan kata ini?",
+      "role": "Pilih salah satu nilai untuk pewarnaan sintaks di UI: 'subject' (jika berfungsi sebagai subjek/fa'il/mubtada), 'predicate' (jika berfungsi sebagai predikat/fi'il/khabar), 'object' (jika berfungsi sebagai objek/maf'ul bih), ATAU 'none' (jika selain ketiganya)"
     }
 
     Pastikan JSON valid dan sesuai skema di atas tanpa awalan markdown \`\`\`json.
@@ -393,52 +424,47 @@ function generateAIPrompt(word, ayahAr, ayahId, surahName, ayahNum) {
 function displayWordDetails(data) {
     document.getElementById('ai-loading').style.display = 'none';
 
-    // Fill the data
-    document.getElementById('modal-meaning').textContent = data.meaning || '-';
-    document.getElementById('modal-indonesian-equivalent').textContent = data.indonesian_equivalent || '-';
-    document.getElementById('modal-root').textContent = data.root || '-';
-    document.getElementById('modal-base-form').textContent = data.base_form || '-';
+    // Fill the data - Section 1: Identitas Kata
+    if (data.identitas_kata) {
+        document.getElementById('modal-transliterasi').textContent = data.identitas_kata.transliterasi || '-';
+        document.getElementById('modal-jenis-kata').textContent = data.identitas_kata.jenis_kata || '-';
+        document.getElementById('modal-arti-harfiah').textContent = data.identitas_kata.arti_harfiah || '-';
+    }
 
-    // Sub-explanations helper
-    const updateSubExplanation = (elementId, content) => {
-        const el = document.getElementById(elementId);
-        if (content && content !== "null" && content !== "-") {
-            el.innerHTML = `<strong>Arti:</strong> ${content}`;
-            el.style.display = 'block';
+    // Fill the data - Section 2: Analisis Sharaf
+    if (data.analisis_sharaf) {
+        const akarKata = data.analisis_sharaf.akar_kata;
+        document.getElementById('modal-akar-kata').textContent = (akarKata && akarKata !== "null") ? akarKata : '-';
+        document.getElementById('modal-makna-dasar').textContent = data.analisis_sharaf.makna_dasar || '-';
+
+        const wazanEl = document.getElementById('modal-wazan-perubahan');
+        const wazanVal = data.analisis_sharaf.wazan_perubahan;
+        if (wazanVal && wazanVal !== "null" && wazanVal !== "-") {
+            wazanEl.innerHTML = `<strong>Wazan & Perubahan:</strong> ${wazanVal}`;
+            wazanEl.style.display = 'block';
         } else {
-            el.style.display = 'none';
+            wazanEl.style.display = 'none';
         }
-    };
+    }
 
-    const updateDetailExplanation = (elementId, content) => {
-        const el = document.getElementById(elementId);
-        if (content && content !== "null" && content !== "-") {
-            el.innerHTML = content;
-            el.style.display = 'block';
+    // Fill the data - Section 3: Analisis Nahwu
+    if (data.analisis_nahwu) {
+        document.getElementById('modal-kedudukan').textContent = data.analisis_nahwu.kedudukan || '-';
+        const irabEl = document.getElementById('modal-irab-logika');
+        const irabVal = data.analisis_nahwu.irab_dan_logika;
+        if (irabVal && irabVal !== "null" && irabVal !== "-") {
+            irabEl.innerHTML = `<strong>Logika Tata Bahasa:</strong> ${irabVal}`;
+            irabEl.style.display = 'block';
         } else {
-            el.style.display = 'none';
+            irabEl.style.display = 'none';
         }
-    };
+    }
 
-    updateSubExplanation('modal-base-form-meaning', data.base_form_meaning);
+    // Fill the data - Kesimpulan
+    document.getElementById('modal-kesimpulan-makna').textContent = data.kesimpulan_makna || '-';
 
-    document.getElementById('modal-type').textContent = data.type || '-';
-    updateDetailExplanation('modal-type-explanation', data.type_explanation);
-
-    document.getElementById('modal-nahwu').textContent = data.nahwu || '-';
-    updateDetailExplanation('modal-nahwu-explanation', data.nahwu_explanation);
-
-    document.getElementById('modal-irab').textContent = data.irab || '-';
-    updateDetailExplanation('modal-irab-explanation', data.irab_explanation);
-
-    document.getElementById('modal-sharaf').textContent = data.sharaf || '-';
-    updateDetailExplanation('modal-sharaf-explanation', data.sharaf_explanation);
-
-    document.getElementById('modal-explanation').textContent = data.explanation || '-';
-
-    // Show sections
-    document.getElementById('word-details-content').querySelector('.detail-grid').style.display = 'grid';
-    document.getElementById('word-details-content').querySelectorAll('.detail-section').forEach(el => el.style.display = 'block');
+    // Show narrative container
+    document.getElementById('word-analysis-narrative').style.display = 'block';
 }
 
 function updateWordElementRole(element, role) {
@@ -523,9 +549,9 @@ function saveApiKeys() {
     localStorage.setItem('gemini_api_keys', JSON.stringify(apiKeys));
 }
 
-function addApiKey() {
-    const rawInput = newApiKeyInput.value.trim();
-    if (!rawInput) return;
+function addApiKey(inputValue, inputElement) {
+    const rawInput = inputValue.trim();
+    if (!rawInput) return false;
 
     // Split input by comma to support multiple keys pasted at once
     const keysToAdd = rawInput.split(',').map(k => k.trim()).filter(k => k.length > 0);
@@ -544,13 +570,17 @@ function addApiKey() {
     if (addedCount > 0) {
         saveApiKeys();
         renderApiKeys();
-        newApiKeyInput.value = '';
+        inputElement.value = '';
         if (duplicateCount > 0) {
             alert(`${addedCount} API Key berhasil ditambahkan. (${duplicateCount} key diabaikan karena sudah ada).`);
+        } else {
+            alert(`${addedCount} API Key berhasil ditambahkan!`);
         }
+        return true;
     } else if (duplicateCount > 0) {
         alert("Semua API Key yang dimasukkan sudah ada!");
     }
+    return false;
 }
 
 function removeApiKey(index) {
