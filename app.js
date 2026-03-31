@@ -20,6 +20,7 @@ const welcomeSaveKeyBtn = document.getElementById('welcome-save-key-btn');
 
 // --- API Variables ---
 const quranApiBaseUrl = 'https://api.alquran.cloud/v1';
+const gasBackendUrl = 'https://script.google.com/macros/s/AKfycbz6LH6bOoAYpzqtS91sn-g_ZHH-WJZvg_1eK4lBg4Vqvly9iTe8SPIxMSRQ-5Ox4vt6SA/exec';
 let surahsData = [];
 let currentSurahData = null; // Store fetched data for current surah
 let currentAyahsIndo = null; // Store translations
@@ -278,10 +279,9 @@ function hideLoading() {
 }
 
 function handleWordClick(wordText, surahNum, ayahNum, wordIndex, element) {
-    if (apiKeys.length === 0) {
-        openModal(welcomeModal);
-        return;
-    }
+    // We do NOT block if apiKeys.length === 0 here anymore.
+    // We let the logic check the database first.
+    // The welcome modal will only trigger if the database misses AND there are no keys.
 
     // Prepare modal UI
     const wordModal = document.getElementById('word-modal');
@@ -303,11 +303,12 @@ function handleWordClick(wordText, surahNum, ayahNum, wordIndex, element) {
     analyzeWordWithAI(wordText, surahNum, ayahNum, wordIndex, element);
 }
 
-// --- AI Logic & Caching ---
+// --- AI Logic, Backend, & Caching ---
 async function analyzeWordWithAI(wordText, surahNum, ayahNum, wordIndex, element) {
     const cacheKey = `quran_ai_v3_${surahNum}_${ayahNum}_${wordIndex}`;
-    const cachedData = localStorage.getItem(cacheKey);
 
+    // 1. Check Local Storage First (Fastest)
+    const cachedData = localStorage.getItem(cacheKey);
     if (cachedData) {
         try {
             const parsedData = JSON.parse(cachedData);
@@ -319,7 +320,39 @@ async function analyzeWordWithAI(wordText, surahNum, ayahNum, wordIndex, element
         }
     }
 
-    // Prepare full Ayah context
+    // Prepare to hit external sources
+    const idKata = `s${surahNum}_a${ayahNum}_w${wordIndex}`;
+
+    // 2. Check the Google Sheets Backend (Crowdsourced DB)
+    try {
+        // We use mode: 'cors' and bypass the pre-flight if possible,
+        // GAS often handles GETs seamlessly but sometimes requires it.
+        const response = await fetch(`${gasBackendUrl}?id=${idKata}`);
+        if (response.ok) {
+            const dbData = await response.json();
+            if (dbData.status === 'success' && dbData.data) {
+                // Save to local cache
+                localStorage.setItem(cacheKey, JSON.stringify(dbData.data));
+
+                displayWordDetails(dbData.data);
+                updateWordElementRole(element, dbData.data.role);
+                console.log("Data retrieved from community database!");
+                return; // Stop here, no need to use API Key
+            }
+        }
+    } catch (e) {
+        console.warn("Failed to contact database, falling back to API", e);
+    }
+
+    // 3. If missing from Local and DB, we MUST use Gemini API.
+    // Ensure user has keys first.
+    if (apiKeys.length === 0) {
+        closeModal(document.getElementById('word-modal'));
+        openModal(welcomeModal);
+        return;
+    }
+
+    // Prepare full Ayah context for Gemini
     const ayahIndex = ayahNum - 1;
     const fullAyahAr = currentSurahData.ayahs[ayahIndex].text;
     const fullAyahId = currentAyahsIndo[ayahIndex].text;
@@ -336,12 +369,18 @@ async function analyzeWordWithAI(wordText, surahNum, ayahNum, wordIndex, element
             const result = await callGeminiAPI(apiKey, aiPrompt);
             const parsedResult = JSON.parse(result); // Assumes AI returns clean JSON
 
-            // Cache the result
+            // Cache the result locally
             localStorage.setItem(cacheKey, JSON.stringify(parsedResult));
 
+            // Render it immediately for the user
             displayWordDetails(parsedResult);
             updateWordElementRole(element, parsedResult.role);
+
             success = true;
+
+            // 4. (Asynchronous) Save this new analysis to the Google Sheet Backend!
+            saveToCommunityDatabase(surahNum, ayahNum, wordIndex, wordText, parsedResult);
+
         } catch (error) {
             console.error(`Error with API Key ${currentApiKeyIndex}:`, error);
             // Move to next key on failure
@@ -354,6 +393,35 @@ async function analyzeWordWithAI(wordText, surahNum, ayahNum, wordIndex, element
         document.getElementById('ai-loading').style.display = 'none';
         document.getElementById('ai-error').style.display = 'block';
     }
+}
+
+// Function to save newly generated AI data back to Google Sheets
+function saveToCommunityDatabase(surahNum, ayahNum, wordIndex, wordText, aiResult) {
+    const payload = {
+        surah: surahNum,
+        ayah: ayahNum,
+        wordIndex: wordIndex,
+        kata_arab: wordText,
+        analisis: aiResult
+    };
+
+    fetch(gasBackendUrl, {
+        method: 'POST',
+        headers: {
+            // Content-Type is text/plain to avoid CORS preflight issues with GAS
+            'Content-Type': 'text/plain;charset=utf-8'
+        },
+        body: JSON.stringify(payload)
+    })
+    .then(response => response.json())
+    .then(data => {
+        if (data.status === 'success') {
+            console.log("Successfully contributed analysis to the community database!");
+        } else {
+            console.log("Database response:", data);
+        }
+    })
+    .catch(error => console.error("Error saving to database:", error));
 }
 
 async function callGeminiAPI(apiKey, prompt) {
