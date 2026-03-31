@@ -26,10 +26,38 @@ let currentSurahData = null; // Store fetched data for current surah
 let currentAyahsIndo = null; // Store translations
 let currentAudioUrls = null;
 
+// --- Migration System (localStorage to IndexedDB) ---
+async function migrateLocalStorageToIndexedDB() {
+    try {
+        const theme = localStorage.getItem('theme');
+        if (theme) {
+            await localforage.setItem('theme', theme);
+            localStorage.removeItem('theme');
+        }
+
+        const keys = localStorage.getItem('gemini_api_keys');
+        if (keys) {
+            try {
+                const parsedKeys = JSON.parse(keys);
+                if (Array.isArray(parsedKeys)) {
+                    await localforage.setItem('gemini_api_keys', parsedKeys);
+                }
+            } catch (e) {
+                console.warn('Migration: Failed to parse old api keys');
+            }
+            localStorage.removeItem('gemini_api_keys');
+        }
+        console.log('Migration check complete.');
+    } catch(e) {
+        console.error('Migration failed:', e);
+    }
+}
+
 // Initialization
-function init() {
-    loadTheme();
-    loadApiKeys();
+async function init() {
+    await migrateLocalStorageToIndexedDB();
+    await loadTheme();
+    await loadApiKeys();
     setupEventListeners();
     fetchSurahs();
 
@@ -307,17 +335,16 @@ function handleWordClick(wordText, surahNum, ayahNum, wordIndex, element) {
 async function analyzeWordWithAI(wordText, surahNum, ayahNum, wordIndex, element) {
     const cacheKey = `quran_ai_v3_${surahNum}_${ayahNum}_${wordIndex}`;
 
-    // 1. Check Local Storage First (Fastest)
-    const cachedData = localStorage.getItem(cacheKey);
-    if (cachedData) {
-        try {
-            const parsedData = JSON.parse(cachedData);
-            displayWordDetails(parsedData);
-            updateWordElementRole(element, parsedData.role);
+    // 1. Check IndexedDB First (Fastest & Largest Storage)
+    try {
+        const cachedData = await localforage.getItem(cacheKey);
+        if (cachedData) {
+            displayWordDetails(cachedData); // localforage handles JSON parsing automatically
+            updateWordElementRole(element, cachedData.role);
             return;
-        } catch (e) {
-            console.error("Cache parsing error", e);
         }
+    } catch (err) {
+        console.warn("Failed to read from IndexedDB:", err);
     }
 
     // Prepare to hit external sources
@@ -331,8 +358,8 @@ async function analyzeWordWithAI(wordText, surahNum, ayahNum, wordIndex, element
         if (response.ok) {
             const dbData = await response.json();
             if (dbData.status === 'success' && dbData.data) {
-                // Save to local cache
-                localStorage.setItem(cacheKey, JSON.stringify(dbData.data));
+                // Save to local IndexedDB cache
+                try { await localforage.setItem(cacheKey, dbData.data); } catch(e) {}
 
                 displayWordDetails(dbData.data);
                 updateWordElementRole(element, dbData.data.role);
@@ -369,8 +396,8 @@ async function analyzeWordWithAI(wordText, surahNum, ayahNum, wordIndex, element
             const result = await callGeminiAPI(apiKey, aiPrompt);
             const parsedResult = JSON.parse(result); // Assumes AI returns clean JSON
 
-            // Cache the result locally
-            localStorage.setItem(cacheKey, JSON.stringify(parsedResult));
+            // Cache the result locally in IndexedDB
+            try { await localforage.setItem(cacheKey, parsedResult); } catch(e) {}
 
             // Render it immediately for the user
             displayWordDetails(parsedResult);
@@ -582,17 +609,21 @@ function updateWordElementRole(element, role) {
 }
 
 // --- Theming ---
-function toggleTheme() {
+async function toggleTheme() {
     const html = document.documentElement;
     const currentTheme = html.getAttribute('data-theme');
     const newTheme = currentTheme === 'light' ? 'dark' : 'light';
     html.setAttribute('data-theme', newTheme);
-    localStorage.setItem('theme', newTheme);
+    try { await localforage.setItem('theme', newTheme); } catch(e) {}
     updateThemeIcon(newTheme);
 }
 
-function loadTheme() {
-    const savedTheme = localStorage.getItem('theme') || 'light';
+async function loadTheme() {
+    let savedTheme = 'light';
+    try {
+        const storedTheme = await localforage.getItem('theme');
+        if (storedTheme) savedTheme = storedTheme;
+    } catch(e) {}
     document.documentElement.setAttribute('data-theme', savedTheme);
     updateThemeIcon(savedTheme);
 }
@@ -616,21 +647,27 @@ function closeModal(modal) {
 }
 
 // --- API Keys Management ---
-function loadApiKeys() {
-    const storedKeys = localStorage.getItem('gemini_api_keys');
-    if (storedKeys) {
-        try {
-            apiKeys = JSON.parse(storedKeys);
-            renderApiKeys();
-        } catch (e) {
-            console.error("Error parsing API keys from local storage", e);
+async function loadApiKeys() {
+    try {
+        const storedKeys = await localforage.getItem('gemini_api_keys');
+        if (storedKeys && Array.isArray(storedKeys)) {
+            apiKeys = storedKeys;
+        } else {
             apiKeys = [];
         }
+    } catch(e) {
+        console.error("Error loading API keys from localforage", e);
+        apiKeys = [];
     }
+    renderApiKeys();
 }
 
-function saveApiKeys() {
-    localStorage.setItem('gemini_api_keys', JSON.stringify(apiKeys));
+async function saveApiKeys() {
+    try {
+        await localforage.setItem('gemini_api_keys', apiKeys);
+    } catch(e) {
+        console.error("Error saving API keys", e);
+    }
 }
 
 function addApiKey(inputValue, inputElement) {
