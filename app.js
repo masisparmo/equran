@@ -5,6 +5,11 @@ let apiKeys = [];
 let currentApiKeyIndex = 0;
 
 // DOM Elements
+const homeBtn = document.getElementById('home-btn');
+const aboutBtn = document.getElementById('about-btn');
+const aboutModal = document.getElementById('about-modal');
+const closeAboutModalBtn = document.getElementById('close-about-modal');
+
 const themeToggleBtn = document.getElementById('theme-toggle');
 const settingsBtn = document.getElementById('settings-btn');
 const settingsModal = document.getElementById('settings-modal');
@@ -90,9 +95,26 @@ function setupEventListeners() {
         }
     });
 
+    // Navigation Logic
+    homeBtn.addEventListener('click', () => {
+        closeModal(settingsModal);
+        closeModal(document.getElementById('word-modal'));
+        closeModal(welcomeModal);
+        closeModal(aboutModal);
+    });
+
+    aboutBtn.addEventListener('click', () => {
+        openModal(aboutModal);
+    });
+
+    closeAboutModalBtn.addEventListener('click', () => {
+        closeModal(aboutModal);
+    });
+
     // Close Modals on outside click
     window.addEventListener('click', (e) => {
         if (e.target === settingsModal) closeModal(settingsModal);
+        if (e.target === aboutModal) closeModal(aboutModal);
         if (e.target === welcomeModal) {
             sessionStorage.setItem('welcome_dismissed', 'true');
             closeModal(welcomeModal);
@@ -108,6 +130,7 @@ function setupEventListeners() {
                 closeModal(welcomeModal);
             }
             if (settingsModal.classList.contains('show')) closeModal(settingsModal);
+            if (aboutModal.classList.contains('show')) closeModal(aboutModal);
             if (document.getElementById('word-modal').classList.contains('show')) closeModal(document.getElementById('word-modal'));
         }
     });

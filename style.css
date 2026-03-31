@@ -266,7 +266,7 @@ select {
 .modal {
     display: none;
     position: fixed;
-    z-index: 1000;
+    z-index: 2000;
     left: 0;
     top: 0;
     width: 100%;
@@ -519,6 +519,21 @@ select {
 }
 
 /* Responsive */
+@media (max-width: 768px) {
+    .features-target-grid {
+        grid-template-columns: 1fr !important;
+    }
+    header .controls .nav-text {
+        display: none;
+    }
+    .header-logo-img {
+        height: 30px;
+    }
+    .logo {
+        font-size: 1.2rem;
+    }
+}
+
 @media (max-width: 600px) {
     .navigation {
         flex-direction: column;

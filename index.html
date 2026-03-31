@@ -28,8 +28,10 @@
             <img src="logo-equran-webapps.png" alt="My E-Quran Logo" class="header-logo-img"> My E-Quran
         </div>
         <div class="controls">
+            <button id="home-btn" title="Kembali ke Beranda"><i class="fas fa-home"></i> <span class="nav-text">Home</span></button>
+            <button id="about-btn" title="Tentang Aplikasi"><i class="fas fa-info-circle"></i> <span class="nav-text">About</span></button>
             <button id="theme-toggle" title="Toggle Dark/Light Mode"><i class="fas fa-moon"></i></button>
-            <button id="settings-btn" title="Settings API"><i class="fas fa-cog"></i></button>
+            <button id="settings-btn" title="Pengaturan API"><i class="fas fa-cog"></i></button>
         </div>
     </header>
 
@@ -196,6 +198,70 @@
 
             <div class="settings-actions">
                 <button id="save-settings-btn" class="primary-btn">Simpan Pengaturan</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- About Modal -->
+    <div id="about-modal" class="modal">
+        <div class="modal-content card" style="max-width: 800px;">
+            <span class="close-btn" id="close-about-modal">&times;</span>
+
+            <div class="about-header" style="text-align: center; margin-bottom: 25px;">
+                <img src="logo-equran-webapps.png" alt="My E-Quran" style="height: 60px; margin-bottom: 15px;">
+                <h2 style="color: var(--primary-color); font-size: 2rem;">Tentang My E-Quran</h2>
+                <p style="font-size: 1.1rem; color: var(--text-color); opacity: 0.8;">Platform Belajar Al-Qur'an Interaktif Berbasis AI</p>
+            </div>
+
+            <div class="about-content" style="line-height: 1.7;">
+                <!-- PROBLEM -->
+                <div class="pas-section" style="background-color: rgba(231, 76, 60, 0.05); border-left: 4px solid #e74c3c; padding: 15px; margin-bottom: 20px; border-radius: 4px;">
+                    <h3 style="color: #c0392b; margin-top: 0;"><i class="fas fa-exclamation-triangle"></i> Masalah (Problem)</h3>
+                    <p>Mempelajari bahasa Arab Al-Qur'an (Nahwu, Sharaf, dan I'rab) seringkali dianggap sangat sulit, kaku, dan membingungkan bagi pemula. Mencari arti satu per satu kata di kamus tebal memakan waktu berjam-jam, dan seringkali kita tidak paham konteks tata bahasanya mengapa sebuah kata berharakat akhir <em>fathah</em>, <em>kasrah</em>, atau <em>dhammah</em>.</p>
+                </div>
+
+                <!-- AGITATE -->
+                <div class="pas-section" style="background-color: rgba(243, 156, 18, 0.05); border-left: 4px solid #f39c12; padding: 15px; margin-bottom: 20px; border-radius: 4px;">
+                    <h3 style="color: #d35400; margin-top: 0;"><i class="fas fa-bolt"></i> Dampak (Agitate)</h3>
+                    <p>Akibatnya, banyak kaum muslimin yang hanya sebatas bisa membaca (tilawah), namun kehilangan kenikmatan dalam menyelami makna mendalam dan hikmah dari setiap ayat yang dibaca. Kita kehilangan momen <em>tadabbur</em> karena terhalang dinding bahasa yang terasa terlalu tinggi untuk dipanjat sendiri tanpa guru yang mendampingi 24 jam.</p>
+                </div>
+
+                <!-- SOLUTION -->
+                <div class="pas-section" style="background-color: rgba(46, 204, 113, 0.05); border-left: 4px solid #2ecc71; padding: 15px; margin-bottom: 25px; border-radius: 4px;">
+                    <h3 style="color: #27ae60; margin-top: 0;"><i class="fas fa-lightbulb"></i> Solusi (Solution)</h3>
+                    <p><strong>My E-Quran</strong> hadir mendobrak batasan tersebut. Menggabungkan kemurnian teks Al-Qur'an dengan kecerdasan buatan (Google Gemini AI), aplikasi ini layaknya guru bahasa Arab pribadi yang sabar. Hanya dengan satu klik pada kata apa pun, Anda langsung mendapatkan analisis komprehensif mulai dari akar kata, kedudukan kalimat (I'rab), hingga kesimpulan hikmahnya dalam bahasa Indonesia yang sangat mudah dipahami pemula!</p>
+                </div>
+
+                <div class="features-target-grid" style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 25px;">
+                    <div class="target-box card" style="background-color: var(--bg-color); box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+                        <h4 style="color: var(--primary-color); border-bottom: 2px solid var(--border-color); padding-bottom: 8px;"><i class="fas fa-users"></i> Untuk Siapa?</h4>
+                        <ul style="padding-left: 20px; margin-top: 10px;">
+                            <li>Pemula yang ingin belajar terjemah perkata.</li>
+                            <li>Santri/Pelajar yang sedang mendalami ilmu Nahwu & Sharaf.</li>
+                            <li>Setiap Muslim yang ingin khusyuk dan <em>tadabbur</em> saat membaca Al-Qur'an.</li>
+                        </ul>
+                    </div>
+                    <div class="features-box card" style="background-color: var(--bg-color); box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+                        <h4 style="color: var(--primary-color); border-bottom: 2px solid var(--border-color); padding-bottom: 8px;"><i class="fas fa-star"></i> Fitur Unggulan</h4>
+                        <ul style="padding-left: 20px; margin-top: 10px;">
+                            <li><strong>Analisis AI Perkata:</strong> Morfologi & I'rab instan.</li>
+                            <li><strong>Database Komunitas:</strong> Hemat kuota API dengan sistem <em>crowdsourcing</em>.</li>
+                            <li><strong>Offline Cache:</strong> Super cepat (IndexedDB).</li>
+                            <li><strong>Dark/Light Mode:</strong> Nyaman di mata.</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="developer-info" style="margin-top: 30px; padding-top: 20px; border-top: 1px dashed var(--border-color); text-align: center;">
+                    <h3 style="margin-bottom: 15px; color: var(--text-color);"><i class="fas fa-laptop-code"></i> Informasi Developer</h3>
+                    <p style="font-size: 1.1rem; font-weight: bold; margin-bottom: 10px;">Isparmo</p>
+
+                    <div class="social-links" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+                        <a href="mailto:mail@isparmo.com" class="dev-link-btn" style="text-decoration: none; padding: 8px 15px; background-color: #ea4335; color: white; border-radius: 20px; font-size: 0.9rem; transition: transform 0.2s;"><i class="fas fa-envelope"></i> mail@isparmo.com</a>
+                        <a href="https://page.isparmo.com" target="_blank" class="dev-link-btn" style="text-decoration: none; padding: 8px 15px; background-color: #4285f4; color: white; border-radius: 20px; font-size: 0.9rem; transition: transform 0.2s;"><i class="fas fa-globe"></i> page.isparmo.com</a>
+                        <a href="https://wa.me/628121083060" target="_blank" class="dev-link-btn" style="text-decoration: none; padding: 8px 15px; background-color: #25D366; color: white; border-radius: 20px; font-size: 0.9rem; transition: transform 0.2s;"><i class="fab fa-whatsapp"></i> 0812-1083-060</a>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
