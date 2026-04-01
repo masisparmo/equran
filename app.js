@@ -48,6 +48,7 @@ const closeAiChatModalBtn = document.getElementById('close-ai-chat-modal');
 const chatHistory = document.getElementById('chat-history');
 const chatInput = document.getElementById('chat-input');
 const sendChatBtn = document.getElementById('send-chat-btn');
+const newChatBtn = document.getElementById('new-chat-btn');
 
 let currentWordContext = {}; // Store context for detail explanation
 let currentDeepExplainText = ""; // Store plain markdown text for download/copy
@@ -206,6 +207,14 @@ function setupEventListeners() {
         chatInput.addEventListener('keypress', (e) => {
             if (e.key === 'Enter') sendChatMessage();
         });
+    }
+
+    if (newChatBtn) {
+        newChatBtn.addEventListener('click', startNewChat);
+    }
+
+    if (chatHistory) {
+        chatHistory.addEventListener('click', handleChatAction);
     }
 
     // Detail Buttons inside Word Modal
@@ -951,10 +960,19 @@ function openAiChatModal() {
         }
     ];
 
+    const greetingText = `Halo! Saya siap menjawab pertanyaan Anda seputar penjelasan detail kata **${currentWordContext.wordText}** yang baru saja Anda baca. Apa yang ingin Anda tanyakan?`;
+    let htmlReply = (typeof marked !== 'undefined') ? marked.parse(greetingText) : escapeHtml(greetingText);
+    if (typeof DOMPurify !== 'undefined') {
+        htmlReply = DOMPurify.sanitize(htmlReply);
+    }
+
     chatHistory.innerHTML = `
-        <div class="chat-message ai">
-            <strong><i class="fas fa-robot"></i> Ahli AI:</strong><br>
-            Halo! Saya siap menjawab pertanyaan Anda seputar penjelasan detail kata <strong>${currentWordContext.wordText}</strong> yang baru saja Anda baca. Apa yang ingin Anda tanyakan?
+        <div class="chat-message ai" data-raw-text="${escapeHtml(greetingText)}" data-sender="Ahli AI">
+            <div><strong><i class="fas fa-robot"></i> Ahli AI:</strong><br>${htmlReply}</div>
+            <div class="msg-actions">
+                <button class="msg-action-btn copy-msg" title="Salin Pesan"><i class="fas fa-copy"></i></button>
+                <button class="msg-action-btn save-msg" title="Simpan Pesan"><i class="fas fa-download"></i></button>
+            </div>
         </div>
     `;
 
@@ -968,9 +986,14 @@ async function sendChatMessage() {
     if (!userMessage) return;
 
     // 1. Display User Message
+    const escapedUserMsg = escapeHtml(userMessage);
     const userMsgHtml = `
-        <div class="chat-message user">
-            ${escapeHtml(userMessage)}
+        <div class="chat-message user" data-raw-text="${escapedUserMsg}" data-sender="Anda">
+            <div>${escapedUserMsg}</div>
+            <div class="msg-actions">
+                <button class="msg-action-btn copy-msg" title="Salin Pesan"><i class="fas fa-copy"></i></button>
+                <button class="msg-action-btn save-msg" title="Simpan Pesan"><i class="fas fa-download"></i></button>
+            </div>
         </div>
     `;
     chatHistory.insertAdjacentHTML('beforeend', userMsgHtml);
@@ -981,8 +1004,7 @@ async function sendChatMessage() {
     const loadingId = 'loading-' + Date.now();
     const loadingHtml = `
         <div id="${loadingId}" class="chat-message ai">
-            <strong><i class="fas fa-robot fa-spin"></i> Ahli AI:</strong><br>
-            <em>Mengetik...</em>
+            <div><strong><i class="fas fa-robot fa-spin"></i> Ahli AI:</strong><br><em>Mengetik...</em></div>
         </div>
     `;
     chatHistory.insertAdjacentHTML('beforeend', loadingHtml);
@@ -1027,13 +1049,21 @@ async function sendChatMessage() {
         // 4. Update UI
         const loadingEl = document.getElementById(loadingId);
         if (loadingEl) {
-            loadingEl.innerHTML = `<strong><i class="fas fa-robot"></i> Ahli AI:</strong><br>${htmlReply}`;
+            loadingEl.setAttribute('data-raw-text', escapeHtml(aiReply));
+            loadingEl.setAttribute('data-sender', 'Ahli AI');
+            loadingEl.innerHTML = `
+                <div><strong><i class="fas fa-robot"></i> Ahli AI:</strong><br>${htmlReply}</div>
+                <div class="msg-actions">
+                    <button class="msg-action-btn copy-msg" title="Salin Pesan"><i class="fas fa-copy"></i></button>
+                    <button class="msg-action-btn save-msg" title="Simpan Pesan"><i class="fas fa-download"></i></button>
+                </div>
+            `;
         }
     } catch (err) {
         console.error("Chat API Error:", err);
         const loadingEl = document.getElementById(loadingId);
         if (loadingEl) {
-            loadingEl.innerHTML = `<span style="color: red;"><i class="fas fa-exclamation-triangle"></i> Maaf, terjadi kesalahan saat menghubungi AI. Silakan coba lagi nanti.</span>`;
+            loadingEl.innerHTML = `<div><span style="color: red;"><i class="fas fa-exclamation-triangle"></i> Maaf, terjadi kesalahan saat menghubungi AI. Silakan coba lagi nanti.</span></div>`;
             // Remove the failed user message from history to allow retry
             chatSessionHistory.pop();
         }
@@ -1206,3 +1236,86 @@ window.removeApiKey = removeApiKey;
 
 // Initialize app
 init();
+
+function startNewChat() {
+    if (!currentWordContext.wordText) return;
+
+    // Reset session history to initial context only
+    chatSessionHistory = [
+        {
+            role: "user",
+            parts: [{ text: `Saya sedang membaca penjelasan detail mengenai sebuah kata dalam Al-Quran. Berikut adalah konteks penjelasannya:\n\n${currentDeepExplainText}\n\nTolong bersikap sebagai ahli tafsir dan bahasa Arab. Jawab pertanyaan saya selanjutnya hanya berdasarkan konteks ini jika relevan. Jika pertanyaan saya melenceng, Anda tetap bisa menjawabnya tapi kaitkan dengan ilmu Al-Quran.` }]
+        },
+        {
+            role: "model",
+            parts: [{ text: "Baik, saya mengerti konteksnya. Silakan ajukan pertanyaan Anda mengenai penjelasan tersebut, dan saya akan menjawabnya sebagai ahli tafsir dan bahasa Arab." }]
+        }
+    ];
+
+    const greetingText = `Halo! Saya siap menjawab pertanyaan Anda seputar penjelasan detail kata **${currentWordContext.wordText}** yang baru saja Anda baca. Apa yang ingin Anda tanyakan?`;
+    let htmlReply = (typeof marked !== 'undefined') ? marked.parse(greetingText) : escapeHtml(greetingText);
+    if (typeof DOMPurify !== 'undefined') {
+        htmlReply = DOMPurify.sanitize(htmlReply);
+    }
+
+    chatHistory.innerHTML = `
+        <div class="chat-message ai" data-raw-text="${escapeHtml(greetingText)}" data-sender="Ahli AI">
+            <div><strong><i class="fas fa-robot"></i> Ahli AI:</strong><br>${htmlReply}</div>
+            <div class="msg-actions">
+                <button class="msg-action-btn copy-msg" title="Salin Pesan"><i class="fas fa-copy"></i></button>
+                <button class="msg-action-btn save-msg" title="Simpan Pesan"><i class="fas fa-download"></i></button>
+            </div>
+        </div>
+    `;
+
+    chatInput.value = '';
+    setTimeout(() => chatInput.focus(), 100);
+}
+
+function handleChatAction(e) {
+    const copyBtn = e.target.closest('.copy-msg');
+    const saveBtn = e.target.closest('.save-msg');
+
+    if (!copyBtn && !saveBtn) return;
+
+    const messageEl = e.target.closest('.chat-message');
+    if (!messageEl) return;
+
+    const rawText = messageEl.getAttribute('data-raw-text') || messageEl.textContent.trim();
+    // Unescape the raw text to restore original characters
+    const textToSave = unescapeHtml(rawText);
+    const sender = messageEl.getAttribute('data-sender') || 'Unknown';
+
+    const formattedContent = `${sender}:\n${textToSave}`;
+
+    if (copyBtn) {
+        navigator.clipboard.writeText(formattedContent).then(() => {
+            const originalIcon = copyBtn.innerHTML;
+            copyBtn.innerHTML = '<i class="fas fa-check" style="color: #2ecc71;"></i>';
+            setTimeout(() => {
+                copyBtn.innerHTML = originalIcon;
+            }, 2000);
+        }).catch(err => console.error('Gagal menyalin:', err));
+    } else if (saveBtn) {
+        const timestamp = new Date().toISOString().replace(/[:.]/g, '-').substring(0, 19);
+        const fileName = `E-Quran-Chat_${sender}_${timestamp}.txt`;
+        const blob = new Blob([formattedContent], { type: 'text/plain;charset=utf-8' });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = fileName;
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        URL.revokeObjectURL(url);
+    }
+}
+
+function unescapeHtml(safe) {
+    return safe
+         .replace(/&amp;/g, "&")
+         .replace(/&lt;/g, "<")
+         .replace(/&gt;/g, ">")
+         .replace(/&quot;/g, "\"")
+         .replace(/&#039;/g, "'");
+}

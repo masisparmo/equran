@@ -1,0 +1,24 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Aplikasi Belajar Quran dengan pemahaman Nahfu, Sharaf, I'rab",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masisparmo/equran.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/masisparmo/equran/issues"
+  },
+  "homepage": "https://github.com/masisparmo/equran#readme",
+  "dependencies": {
+    "playwright": "^1.59.0"
+  }
+}

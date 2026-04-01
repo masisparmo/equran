@@ -355,6 +355,9 @@ select {
     border-radius: 8px;
     max-width: 85%;
     line-height: 1.5;
+    position: relative; /* For positioning action buttons */
+    display: flex;
+    flex-direction: column;
 }
 
 .chat-message.user {
@@ -370,6 +373,40 @@ select {
     color: var(--primary-color);
     align-self: flex-start;
     border-bottom-left-radius: 0;
+}
+
+/* Chat Message Action Buttons Container */
+.msg-actions {
+    display: flex;
+    justify-content: flex-end;
+    gap: 8px;
+    margin-top: 8px;
+    padding-top: 8px;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.chat-message.user .msg-actions {
+    border-top: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+/* Base style for message action buttons */
+.msg-action-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 0.9rem;
+    padding: 4px;
+    opacity: 0.7;
+    transition: opacity 0.2s, transform 0.1s;
+    color: inherit; /* Inherits white for user, primary-color for AI */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.msg-action-btn:hover {
+    opacity: 1;
+    transform: scale(1.1);
 }
 
 .modal.show {
