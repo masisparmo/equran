@@ -412,6 +412,14 @@ function displayAyah(ayahNumberInSurah) {
     // We remove the Bismillah if it's not Al-Fatihah Ayah 1, as the API sometimes includes it inline
     let textAr = ayahAr.text;
 
+    // Remove "Bismillah" from Surah other than Al-Fatihah (Surah 1) for Ayah 1
+    if (currentSurahData.number !== 1 && ayahNumberInSurah === 1) {
+        const bismillahStr = "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ ";
+        if (textAr.startsWith(bismillahStr)) {
+            textAr = textAr.substring(bismillahStr.length).trim();
+        }
+    }
+
     // Set Translation
     document.getElementById('translation-container').textContent = ayahId.text;
 
