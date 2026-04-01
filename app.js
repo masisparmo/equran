@@ -411,12 +411,18 @@ function displayAyah(ayahNumberInSurah) {
     // Process Arabic text into words
     // We remove the Bismillah if it's not Al-Fatihah Ayah 1, as the API sometimes includes it inline
     let textAr = ayahAr.text;
+    let wordIndexOffset = 0;
 
     // Remove "Bismillah" from Surah other than Al-Fatihah (Surah 1) for Ayah 1
     if (currentSurahData.number !== 1 && ayahNumberInSurah === 1) {
         const bismillahStr = "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ ";
         if (textAr.startsWith(bismillahStr)) {
             textAr = textAr.substring(bismillahStr.length).trim();
+            // Since we stripped Bismillah, we need to offset the word indices by the number
+            // of words in the Bismillah prefix (which is 4 words in the API text: بِسۡمِ, ٱللَّهِ, ٱلرَّحۡمَـٰنِ, ٱلرَّحِیمِ)
+            // so the backend can still match `w4`, `w5`, etc.
+            const bismillahWordsCount = bismillahStr.trim().split(/\s+/).filter(w => w.trim() !== "").length;
+            wordIndexOffset = bismillahWordsCount;
         }
     }
 
@@ -433,25 +439,28 @@ function displayAyah(ayahNumberInSurah) {
     document.getElementById('prev-ayah-btn').disabled = (ayahNumberInSurah === 1);
     document.getElementById('next-ayah-btn').disabled = (ayahNumberInSurah === totalAyahs);
 
-    renderArabicWords(textAr, currentSurahData.number, ayahNumberInSurah);
+    renderArabicWords(textAr, currentSurahData.number, ayahNumberInSurah, wordIndexOffset);
 }
 
-function renderArabicWords(textAr, surahNum, ayahNum) {
+function renderArabicWords(textAr, surahNum, ayahNum, wordIndexOffset = 0) {
     const container = document.getElementById('arabic-container');
     container.innerHTML = '';
 
     // Split text by space. Keep punctuation attached or separate based on needs.
     const words = textAr.split(/\s+/).filter(w => w.trim() !== "");
 
-    words.forEach((wordText, index) => {
+    words.forEach((wordText, loopIndex) => {
+        // Apply offset so that the visual index 0 aligns with the backend's original word index
+        const actualWordIndex = loopIndex + wordIndexOffset;
+
         const span = document.createElement('span');
         span.className = 'word role-default';
         span.textContent = wordText;
         span.dataset.surah = surahNum;
         span.dataset.ayah = ayahNum;
-        span.dataset.wordIndex = index;
+        span.dataset.wordIndex = actualWordIndex;
 
-        span.addEventListener('click', () => handleWordClick(wordText, surahNum, ayahNum, index, span));
+        span.addEventListener('click', () => handleWordClick(wordText, surahNum, ayahNum, actualWordIndex, span));
 
         container.appendChild(span);
         // Add space between words
