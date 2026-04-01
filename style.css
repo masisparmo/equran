@@ -345,6 +345,33 @@ select {
     z-index: 2500;
 }
 
+#ai-chat-modal {
+    z-index: 3000;
+}
+
+/* Chat History Styling */
+.chat-message {
+    padding: 12px 15px;
+    border-radius: 8px;
+    max-width: 85%;
+    line-height: 1.5;
+}
+
+.chat-message.user {
+    background-color: var(--secondary-color);
+    color: #fff;
+    align-self: flex-end;
+    border-bottom-right-radius: 0;
+}
+
+.chat-message.ai {
+    background-color: var(--hover-bg);
+    border: 1px solid var(--border-color);
+    color: var(--primary-color);
+    align-self: flex-start;
+    border-bottom-left-radius: 0;
+}
+
 .modal.show {
     display: flex;
     animation: fadeIn 0.3s;
@@ -489,6 +516,21 @@ select {
 }
 
 /* Rich Text Container (for Deep Explain Modal) */
+.rich-text-container p,
+.rich-text-container li,
+.rich-text-container span,
+.rich-text-container div {
+    color: #000; /* Force solid black for main body text in light mode */
+}
+
+/* Ensure dark mode overrides this back to light text */
+[data-theme="dark"] .rich-text-container p,
+[data-theme="dark"] .rich-text-container li,
+[data-theme="dark"] .rich-text-container span,
+[data-theme="dark"] .rich-text-container div {
+    color: var(--text-color);
+}
+
 .rich-text-container h2, .rich-text-container h3, .rich-text-container h4 {
     color: var(--primary-color);
     margin-top: 20px;

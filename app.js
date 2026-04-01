@@ -39,9 +39,19 @@ const deepDetailLoading = document.getElementById('deep-detail-loading');
 const deepDetailError = document.getElementById('deep-detail-error');
 const copyDetailBtn = document.getElementById('copy-detail-btn');
 const downloadDetailBtn = document.getElementById('download-detail-btn');
+const askAiExpertContainer = document.getElementById('ask-ai-expert-container');
+const askAiExpertBtn = document.getElementById('ask-ai-expert-btn');
+
+// AI Chat Modal Elements
+const aiChatModal = document.getElementById('ai-chat-modal');
+const closeAiChatModalBtn = document.getElementById('close-ai-chat-modal');
+const chatHistory = document.getElementById('chat-history');
+const chatInput = document.getElementById('chat-input');
+const sendChatBtn = document.getElementById('send-chat-btn');
 
 let currentWordContext = {}; // Store context for detail explanation
 let currentDeepExplainText = ""; // Store plain markdown text for download/copy
+let chatSessionHistory = []; // Store conversational context for the chat API
 
 // --- API Variables ---
 const quranApiBaseUrl = 'https://api.alquran.cloud/v1';
@@ -176,6 +186,28 @@ function setupEventListeners() {
         });
     }
 
+    if (askAiExpertBtn) {
+        askAiExpertBtn.addEventListener('click', () => {
+            openAiChatModal();
+        });
+    }
+
+    if (closeAiChatModalBtn) {
+        closeAiChatModalBtn.addEventListener('click', () => {
+            closeModal(aiChatModal);
+        });
+    }
+
+    if (sendChatBtn) {
+        sendChatBtn.addEventListener('click', sendChatMessage);
+    }
+
+    if (chatInput) {
+        chatInput.addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') sendChatMessage();
+        });
+    }
+
     // Detail Buttons inside Word Modal
     document.querySelectorAll('.detail-btn').forEach(btn => {
         btn.addEventListener('click', (e) => {
@@ -190,6 +222,7 @@ function setupEventListeners() {
         if (e.target === aboutModal) closeModal(aboutModal);
         if (e.target === helpModal) closeModal(helpModal);
         if (e.target === deepDetailModal) closeModal(deepDetailModal);
+        if (e.target === aiChatModal) closeModal(aiChatModal);
         if (e.target === welcomeModal) {
             sessionStorage.setItem('welcome_dismissed', 'true');
             closeModal(welcomeModal);
@@ -207,8 +240,13 @@ function setupEventListeners() {
             if (settingsModal.classList.contains('show')) closeModal(settingsModal);
             if (aboutModal.classList.contains('show')) closeModal(aboutModal);
             if (helpModal.classList.contains('show')) closeModal(helpModal);
-            if (deepDetailModal.classList.contains('show')) closeModal(deepDetailModal);
-            if (document.getElementById('word-modal').classList.contains('show')) closeModal(document.getElementById('word-modal'));
+            if (aiChatModal.classList.contains('show')) {
+                closeModal(aiChatModal);
+            } else if (deepDetailModal.classList.contains('show')) {
+                closeModal(deepDetailModal);
+            } else if (document.getElementById('word-modal').classList.contains('show')) {
+                closeModal(document.getElementById('word-modal'));
+            }
         }
     });
 
@@ -736,6 +774,7 @@ async function handleDeepExplain(type) {
     deepDetailLoading.style.display = 'flex';
     deepDetailContent.style.display = 'none';
     deepDetailError.style.display = 'none';
+    askAiExpertContainer.style.display = 'none'; // Hide Ask AI button until loaded
     currentDeepExplainText = ""; // Reset current text
 
     const { wordText, surahNum, ayahNum, wordIndex, fullAyahAr, fullAyahId } = currentWordContext;
@@ -810,6 +849,7 @@ Struktur output WAJIB:
 🔤 AKAR KATA (جذر)
 - Sebutkan huruf asli (3 atau 4 huruf)
 - Jelaskan makna dasar akar
+- Wajib sertakan "Dekonstruksi Kata": Jelaskan proses dekonstruksi kata tersebut menjadi akar katanya. (Misalnya: pada kata 'بِسْمِ' di dekonstruksi kenapa bisa jadi sin mim waw, yaitu gabungan awalan huruf Ba' dan kata Ism).
 🧬 POLA / WAZAN
 - Sebutkan pola jika diketahui (misal: فِعْل, فَعَلَ, dll)
 - Jika tidak yakin, jelaskan bentuk umum tanpa spekulasi
@@ -895,6 +935,119 @@ function renderDeepExplainContent(markdownText) {
     deepDetailContent.innerHTML = html;
     deepDetailLoading.style.display = 'none';
     deepDetailContent.style.display = 'block';
+    askAiExpertContainer.style.display = 'block'; // Show Ask AI button
+}
+
+function openAiChatModal() {
+    // Initialize Chat Context
+    chatSessionHistory = [
+        {
+            role: "user",
+            parts: [{ text: `Saya sedang membaca penjelasan detail mengenai sebuah kata dalam Al-Quran. Berikut adalah konteks penjelasannya:\n\n${currentDeepExplainText}\n\nTolong bersikap sebagai ahli tafsir dan bahasa Arab. Jawab pertanyaan saya selanjutnya hanya berdasarkan konteks ini jika relevan. Jika pertanyaan saya melenceng, Anda tetap bisa menjawabnya tapi kaitkan dengan ilmu Al-Quran.` }]
+        },
+        {
+            role: "model",
+            parts: [{ text: "Baik, saya mengerti konteksnya. Silakan ajukan pertanyaan Anda mengenai penjelasan tersebut, dan saya akan menjawabnya sebagai ahli tafsir dan bahasa Arab." }]
+        }
+    ];
+
+    chatHistory.innerHTML = `
+        <div class="chat-message ai">
+            <strong><i class="fas fa-robot"></i> Ahli AI:</strong><br>
+            Halo! Saya siap menjawab pertanyaan Anda seputar penjelasan detail kata <strong>${currentWordContext.wordText}</strong> yang baru saja Anda baca. Apa yang ingin Anda tanyakan?
+        </div>
+    `;
+
+    chatInput.value = '';
+    openModal(aiChatModal);
+    setTimeout(() => chatInput.focus(), 100);
+}
+
+async function sendChatMessage() {
+    const userMessage = chatInput.value.trim();
+    if (!userMessage) return;
+
+    // 1. Display User Message
+    const userMsgHtml = `
+        <div class="chat-message user">
+            ${escapeHtml(userMessage)}
+        </div>
+    `;
+    chatHistory.insertAdjacentHTML('beforeend', userMsgHtml);
+    chatInput.value = '';
+    chatHistory.scrollTop = chatHistory.scrollHeight;
+
+    // 2. Display Loading Indicator
+    const loadingId = 'loading-' + Date.now();
+    const loadingHtml = `
+        <div id="${loadingId}" class="chat-message ai">
+            <strong><i class="fas fa-robot fa-spin"></i> Ahli AI:</strong><br>
+            <em>Mengetik...</em>
+        </div>
+    `;
+    chatHistory.insertAdjacentHTML('beforeend', loadingHtml);
+    chatHistory.scrollTop = chatHistory.scrollHeight;
+
+    // 3. Prepare AI request payload (adding new user msg)
+    chatSessionHistory.push({
+        role: "user",
+        parts: [{ text: userMessage }]
+    });
+
+    const apiKey = apiKeys[0]; // Simple approach: use the first key
+    const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${apiKey}`;
+
+    try {
+        const response = await fetch(url, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ contents: chatSessionHistory })
+        });
+
+        const data = await response.json();
+
+        if (data.error) {
+            throw new Error(data.error.message || 'API Error');
+        }
+
+        const aiReply = data.candidates[0].content.parts[0].text;
+
+        // Save to history
+        chatSessionHistory.push({
+            role: "model",
+            parts: [{ text: aiReply }]
+        });
+
+        // Parse markdown and render
+        let htmlReply = (typeof marked !== 'undefined') ? marked.parse(aiReply) : escapeHtml(aiReply);
+        if (typeof DOMPurify !== 'undefined') {
+            htmlReply = DOMPurify.sanitize(htmlReply);
+        }
+
+        // 4. Update UI
+        const loadingEl = document.getElementById(loadingId);
+        if (loadingEl) {
+            loadingEl.innerHTML = `<strong><i class="fas fa-robot"></i> Ahli AI:</strong><br>${htmlReply}`;
+        }
+    } catch (err) {
+        console.error("Chat API Error:", err);
+        const loadingEl = document.getElementById(loadingId);
+        if (loadingEl) {
+            loadingEl.innerHTML = `<span style="color: red;"><i class="fas fa-exclamation-triangle"></i> Maaf, terjadi kesalahan saat menghubungi AI. Silakan coba lagi nanti.</span>`;
+            // Remove the failed user message from history to allow retry
+            chatSessionHistory.pop();
+        }
+    }
+    chatHistory.scrollTop = chatHistory.scrollHeight;
+}
+
+function escapeHtml(unsafe) {
+    return unsafe
+         .replace(/&/g, "&amp;")
+         .replace(/</g, "&lt;")
+         .replace(/>/g, "&gt;")
+         .replace(/"/g, "&quot;")
+         .replace(/'/g, "&#039;");
 }
 
 function updateWordElementRole(element, role) {

@@ -174,6 +174,35 @@
             <div id="deep-detail-error" class="error-msg" style="display: none;">
                 Terjadi kesalahan saat memanggil AI. Periksa API Key Anda atau koneksi internet.
             </div>
+
+            <!-- Ask AI Expert Button -->
+            <div id="ask-ai-expert-container" style="display: none; border-top: 1px solid var(--border-color); padding-top: 15px; margin-top: 15px; text-align: center;">
+                <button id="ask-ai-expert-btn" class="detail-btn" style="width: 100%; justify-content: center; background-color: var(--secondary-color); color: #fff; font-size: 1.1rem; padding: 10px;">
+                    <i class="fas fa-comment-dots"></i> Tanya Ahli AI
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- AI Chat Modal (Tanya Ahli AI) -->
+    <div id="ai-chat-modal" class="modal">
+        <div class="modal-content card" style="max-width: 600px; display: flex; flex-direction: column; height: 80vh; max-height: 800px;">
+            <span class="close-btn" id="close-ai-chat-modal">&times;</span>
+            <div class="modal-header-actions" style="border-bottom: 2px solid var(--border-color); padding-bottom: 10px; margin-bottom: 15px;">
+                <h2 style="color: var(--primary-color); font-size: 1.5rem; margin: 0;"><i class="fas fa-comment-dots"></i> Tanya Ahli AI</h2>
+                <p style="font-size: 0.9rem; margin-top: 5px; color: #666;">Berdasarkan konteks penjelasan sebelumnya</p>
+            </div>
+
+            <div id="chat-history" style="flex-grow: 1; overflow-y: auto; padding-right: 10px; margin-bottom: 15px; display: flex; flex-direction: column; gap: 15px;">
+                <!-- Chat messages will be injected here -->
+            </div>
+
+            <div style="display: flex; gap: 10px; border-top: 1px solid var(--border-color); padding-top: 15px;">
+                <input type="text" id="chat-input" placeholder="Ketik pertanyaan Anda tentang konteks ini..." style="flex-grow: 1; padding: 10px; border: 1px solid var(--border-color); border-radius: 4px; font-family: var(--font-sans);">
+                <button id="send-chat-btn" class="detail-btn" style="background-color: var(--secondary-color); color: #fff; padding: 10px 20px;">
+                    <i class="fas fa-paper-plane"></i> Kirim
+                </button>
+            </div>
         </div>
     </div>
 
