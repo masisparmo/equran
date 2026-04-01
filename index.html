@@ -107,9 +107,12 @@
                 <div id="word-analysis-narrative" style="display: none;">
                     <div class="detail-section highlight-box">
                         <h3><i class="fas fa-info-circle"></i> 1. Identitas Kata</h3>
-                        <p><strong>Transliterasi:</strong> <span id="modal-transliterasi" class="badge">-</span></p>
-                        <p><strong>Jenis Kata:</strong> <span id="modal-jenis-kata">-</span></p>
-                        <p><strong>Arti Harfiah:</strong> <span id="modal-arti-harfiah">-</span></p>
+                        <div class="content-wrapper">
+                            <p><strong>Transliterasi:</strong> <span id="modal-transliterasi" class="badge">-</span></p>
+                            <p><strong>Jenis Kata:</strong> <span id="modal-jenis-kata">-</span></p>
+                            <p><strong>Arti Harfiah:</strong> <span id="modal-arti-harfiah">-</span></p>
+                        </div>
+                        <button class="detail-btn" data-type="identitas"><i class="fas fa-magic"></i> Jelaskan Detail</button>
                     </div>
 
                     <div class="detail-section">
@@ -118,6 +121,7 @@
                             <p><strong>Akar Kata:</strong> <span class="arabic-text" id="modal-akar-kata" style="font-size: 1.5rem;">-</span></p>
                             <p><strong>Makna Dasar:</strong> <span id="modal-makna-dasar">-</span></p>
                             <div class="explanation-text" id="modal-wazan-perubahan"></div>
+                            <button class="detail-btn" data-type="sharaf" style="margin-top: 15px;"><i class="fas fa-magic"></i> Jelaskan Detail</button>
                         </div>
                     </div>
 
@@ -126,6 +130,7 @@
                         <div class="narrative-box">
                             <p><strong>Kedudukan:</strong> <span id="modal-kedudukan">-</span></p>
                             <div class="explanation-text" id="modal-irab-logika"></div>
+                            <button class="detail-btn" data-type="nahwu" style="margin-top: 15px;"><i class="fas fa-magic"></i> Jelaskan Detail</button>
                         </div>
                     </div>
 
@@ -141,6 +146,33 @@
                  <div id="ai-error" class="error-msg" style="display: none;">
                     Terjadi kesalahan saat memanggil AI. Periksa API Key Anda.
                 </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Deep Explanation Modal (Rich Text Popup) -->
+    <div id="deep-detail-modal" class="modal">
+        <div class="modal-content card" style="max-width: 700px; display: flex; flex-direction: column;">
+            <span class="close-btn" id="close-deep-detail-modal">&times;</span>
+            <div class="modal-header-actions" style="display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid var(--border-color); padding-bottom: 10px; margin-bottom: 20px;">
+                <h2 id="deep-detail-title" style="color: var(--primary-color); font-size: 1.5rem; margin: 0;"><i class="fas fa-magic"></i> Penjelasan Detail</h2>
+                <div class="action-buttons" style="display: flex; gap: 10px;">
+                    <button id="copy-detail-btn" title="Copy ke Clipboard" class="icon-btn"><i class="fas fa-copy"></i></button>
+                    <button id="download-detail-btn" title="Simpan sebagai .txt" class="icon-btn"><i class="fas fa-download"></i></button>
+                </div>
+            </div>
+
+            <div id="deep-detail-loading" class="loading" style="display: none; flex-grow: 1; min-height: 200px; align-items: center; justify-content: center; flex-direction: column;">
+                <i class="fas fa-robot fa-spin" style="font-size: 2rem; margin-bottom: 15px;"></i>
+                <span>Meracik penjelasan AI mendalam...</span>
+            </div>
+
+            <div id="deep-detail-content" class="rich-text-container" style="display: none; flex-grow: 1; overflow-y: auto; line-height: 1.8;">
+                <!-- Generated Markdown content will be injected here -->
+            </div>
+
+            <div id="deep-detail-error" class="error-msg" style="display: none;">
+                Terjadi kesalahan saat memanggil AI. Periksa API Key Anda atau koneksi internet.
             </div>
         </div>
     </div>

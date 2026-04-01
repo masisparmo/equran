@@ -30,6 +30,19 @@ const welcomeSaveKeyBtn = document.getElementById('welcome-save-key-btn');
 const introCard = document.getElementById('intro-card');
 const introTitle = document.getElementById('intro-title');
 
+// Deep Detail Modal Elements
+const deepDetailModal = document.getElementById('deep-detail-modal');
+const closeDeepDetailModalBtn = document.getElementById('close-deep-detail-modal');
+const deepDetailTitle = document.getElementById('deep-detail-title');
+const deepDetailContent = document.getElementById('deep-detail-content');
+const deepDetailLoading = document.getElementById('deep-detail-loading');
+const deepDetailError = document.getElementById('deep-detail-error');
+const copyDetailBtn = document.getElementById('copy-detail-btn');
+const downloadDetailBtn = document.getElementById('download-detail-btn');
+
+let currentWordContext = {}; // Store context for detail explanation
+let currentDeepExplainText = ""; // Store plain markdown text for download/copy
+
 // --- API Variables ---
 const quranApiBaseUrl = 'https://api.alquran.cloud/v1';
 const gasBackendUrl = 'https://script.google.com/macros/s/AKfycbz6LH6bOoAYpzqtS91sn-g_ZHH-WJZvg_1eK4lBg4Vqvly9iTe8SPIxMSRQ-5Ox4vt6SA/exec';
@@ -132,11 +145,51 @@ function setupEventListeners() {
         closeModal(helpModal);
     });
 
+    // Deep Detail Modal
+    if (closeDeepDetailModalBtn) {
+        closeDeepDetailModalBtn.addEventListener('click', () => {
+            closeModal(deepDetailModal);
+        });
+    }
+
+    if (copyDetailBtn) {
+        copyDetailBtn.addEventListener('click', () => {
+            navigator.clipboard.writeText(currentDeepExplainText).then(() => {
+                alert('Teks berhasil disalin ke clipboard!');
+            }).catch(err => {
+                console.error('Failed to copy text: ', err);
+                alert('Gagal menyalin teks.');
+            });
+        });
+    }
+
+    if (downloadDetailBtn) {
+        downloadDetailBtn.addEventListener('click', () => {
+            if (!currentDeepExplainText) return;
+            const blob = new Blob([currentDeepExplainText], { type: 'text/plain;charset=utf-8' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = `penjelasan_detail_${currentWordContext.wordText || 'quran'}.txt`;
+            a.click();
+            URL.revokeObjectURL(url);
+        });
+    }
+
+    // Detail Buttons inside Word Modal
+    document.querySelectorAll('.detail-btn').forEach(btn => {
+        btn.addEventListener('click', (e) => {
+            const type = e.target.closest('.detail-btn').getAttribute('data-type');
+            handleDeepExplain(type);
+        });
+    });
+
     // Close Modals on outside click
     window.addEventListener('click', (e) => {
         if (e.target === settingsModal) closeModal(settingsModal);
         if (e.target === aboutModal) closeModal(aboutModal);
         if (e.target === helpModal) closeModal(helpModal);
+        if (e.target === deepDetailModal) closeModal(deepDetailModal);
         if (e.target === welcomeModal) {
             sessionStorage.setItem('welcome_dismissed', 'true');
             closeModal(welcomeModal);
@@ -154,6 +207,7 @@ function setupEventListeners() {
             if (settingsModal.classList.contains('show')) closeModal(settingsModal);
             if (aboutModal.classList.contains('show')) closeModal(aboutModal);
             if (helpModal.classList.contains('show')) closeModal(helpModal);
+            if (deepDetailModal.classList.contains('show')) closeModal(deepDetailModal);
             if (document.getElementById('word-modal').classList.contains('show')) closeModal(document.getElementById('word-modal'));
         }
     });
@@ -364,6 +418,17 @@ function handleWordClick(wordText, surahNum, ayahNum, wordIndex, element) {
     // We let the logic check the database first.
     // The welcome modal will only trigger if the database misses AND there are no keys.
 
+    // Store context for deep explanations
+    const ayahIndex = ayahNum - 1;
+    currentWordContext = {
+        wordText: wordText,
+        surahNum: surahNum,
+        ayahNum: ayahNum,
+        wordIndex: wordIndex,
+        fullAyahAr: currentSurahData.ayahs[ayahIndex].text,
+        fullAyahId: currentAyahsIndo[ayahIndex].text
+    };
+
     // Prepare modal UI
     const wordModal = document.getElementById('word-modal');
     document.getElementById('modal-arabic-word').textContent = wordText;
@@ -533,6 +598,35 @@ async function callGeminiAPI(apiKey, prompt) {
     return data.candidates[0].content.parts[0].text;
 }
 
+async function callGeminiAPIText(apiKey, prompt) {
+    const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${apiKey}`;
+
+    const requestBody = {
+        contents: [{
+            parts: [{ text: prompt }]
+        }],
+        generationConfig: {
+            temperature: 0.3, // Slightly higher for more natural text generation
+            responseMimeType: "text/plain"
+        }
+    };
+
+    const response = await fetch(endpoint, {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json'
+        },
+        body: JSON.stringify(requestBody)
+    });
+
+    if (!response.ok) {
+        throw new Error(`API Error: ${response.status}`);
+    }
+
+    const data = await response.json();
+    return data.candidates[0].content.parts[0].text;
+}
+
 function generateAIPrompt(word, ayahAr, ayahId, surahName, ayahNum) {
     return `
     Bertindaklah sebagai Guru Bahasa Arab dan Ahli Tafsir Al-Quran yang sangat sabar, ahli, dan terbiasa mengajar murid non-Arab dari tingkat dasar (awam).
@@ -629,6 +723,178 @@ function displayWordDetails(data) {
 
     // Show narrative container
     document.getElementById('word-analysis-narrative').style.display = 'block';
+}
+
+async function handleDeepExplain(type) {
+    if (apiKeys.length === 0) {
+        openModal(welcomeModal);
+        return;
+    }
+
+    // Show Deep Detail Modal
+    openModal(deepDetailModal);
+    deepDetailLoading.style.display = 'flex';
+    deepDetailContent.style.display = 'none';
+    deepDetailError.style.display = 'none';
+    currentDeepExplainText = ""; // Reset current text
+
+    const { wordText, surahNum, ayahNum, wordIndex, fullAyahAr, fullAyahId } = currentWordContext;
+    const cacheKey = `deep_explain_${type}_${surahNum}_${ayahNum}_${wordIndex}`;
+
+    // 1. Check IndexedDB Cache
+    try {
+        const cachedData = await localforage.getItem(cacheKey);
+        if (cachedData) {
+            renderDeepExplainContent(cachedData);
+            return;
+        }
+    } catch (err) {
+        console.warn("Failed to read deep explain cache:", err);
+    }
+
+    // 2. Prepare Prompt based on Type
+    let prompt = "";
+
+    // We get some existing data from the modal for context
+    const artiHarfiah = document.getElementById('modal-arti-harfiah').textContent;
+    const jenisKata = document.getElementById('modal-jenis-kata').textContent;
+
+    if (type === 'identitas') {
+        deepDetailTitle.innerHTML = `<i class="fas fa-info-circle"></i> Detail Identitas Kata`;
+        prompt = `Kamu adalah asisten ahli bahasa Arab yang menjelaskan jenis kata untuk pengguna dari level pemula hingga menengah.
+Fokus hanya pada IDENTITAS KATA, bukan analisis kalimat.
+
+JANGAN membahas:
+- i'rab (majrur, marfu', dll)
+- posisi dalam kalimat
+- tafsir ayat
+
+Gunakan bahasa Indonesia yang sederhana tapi tetap ilmiah.
+
+Struktur output WAJIB:
+📘 DEFINISI SINGKAT
+- Jelaskan apa itu jenis kata (isim/fi'il/harf)
+🔎 KENAPA INI TERMASUK [JENIS KATA]
+- Alasan logis berdasarkan sifat kata
+🧩 KLASIFIKASI
+- mufrad/jamak, nakirah/ma’rifah, atau jenis lain jika relevan
+⚙️ CIRI-CIRI
+- Ciri umum jenis kata & Ciri yang terlihat pada kata ini
+🔤 BENTUK ASAL (RINGAN)
+- Bentuk dasar tanpa analisis mendalam
+📊 PERBANDINGAN
+- 1 isim, 1 fi’il, 1 huruf (opsional/singkat saja)
+✨ CATATAN
+- 1 insight penting
+
+Aturan: Maks 150–250 kata, Gunakan bullet point, Tidak boleh overlap dengan sharaf & nahwu.
+Format output gunakan Markdown.
+
+Input:
+Kata: ${wordText}
+Jenis: ${jenisKata}
+Arti: ${artiHarfiah}`;
+    } else if (type === 'sharaf') {
+        deepDetailTitle.innerHTML = `<i class="fas fa-project-diagram"></i> Detail Analisis Sharaf`;
+        prompt = `Kamu adalah ahli Sharaf (morfologi bahasa Arab).
+Tugasmu menjelaskan bagaimana sebuah kata terbentuk dari akar dan pola katanya.
+
+JANGAN membahas:
+- i'rab (majrur, marfu', dll)
+- posisi dalam kalimat
+- tafsir ayat
+
+Gunakan bahasa Indonesia yang jelas dan terstruktur.
+
+Struktur output WAJIB:
+🔤 AKAR KATA (جذر)
+- Sebutkan huruf asli (3 atau 4 huruf)
+- Jelaskan makna dasar akar
+🧬 POLA / WAZAN
+- Sebutkan pola jika diketahui (misal: فِعْل, فَعَلَ, dll)
+- Jika tidak yakin, jelaskan bentuk umum tanpa spekulasi
+📦 BENTUK KATA
+- Mufrad / jamak, Isim / fi’il, Turunan atau bukan
+🌱 MAKNA DASAR
+- Makna dari akar kata & Hubungan dengan makna kata saat ini
+🔄 PERKEMBANGAN MAKNA
+- Jelaskan bagaimana makna berkembang dari akar ke penggunaan sekarang
+✨ CATATAN
+- Insight kecil tentang pola atau keunikan kata
+
+Aturan: Maks 150–250 kata, Fokus morfologi saja, Jangan masuk ke nahwu/i’rab.
+Format output gunakan Markdown.
+
+Input:
+Kata: ${wordText}`;
+    } else if (type === 'nahwu') {
+        deepDetailTitle.innerHTML = `<i class="fas fa-balance-scale"></i> Detail Analisis Nahwu & I'rab`;
+        prompt = `Kamu adalah ahli Nahwu (tata bahasa Arab) dan I’rab.
+Tugasmu menjelaskan posisi dan fungsi kata dalam kalimat secara logis dan mudah dipahami.
+Gunakan bahasa Indonesia sederhana tapi tetap ilmiah.
+
+Struktur output WAJIB:
+📍 KEDUDUKAN DALAM KALIMAT
+- Jelaskan peran kata (misal: isim majrur, mubtada, dll)
+- Sebutkan penyebabnya
+⚙️ HUBUNGAN ANTAR KATA
+- Jelaskan hubungan dengan kata sebelum/ sesudahnya
+📉 I’RAB (PERUBAHAN AKHIR KATA)
+- Sebutkan status: marfu’, manshub, majrur
+- Jelaskan tanda (dhammah, fathah, kasrah)
+🧠 LOGIKA TATA BAHASA
+- Jelaskan kenapa perubahan itu terjadi (sebab nahwu)
+🔗 RANGKUMAN SEDERHANA
+- Ringkasan fungsi kata dalam 1–2 kalimat
+
+Aturan: Maks 150–250 kata, Fokus fungsi & i’rab, Jangan bahas sharaf detail, Jangan tafsir panjang.
+Format output gunakan Markdown.
+
+Input:
+Kata: ${wordText}
+Kalimat Ayat: ${fullAyahAr}
+Terjemahan: ${fullAyahId}`;
+    }
+
+    // 3. Call AI
+    let success = false;
+    let attempts = 0;
+    const maxAttempts = apiKeys.length;
+
+    while (!success && attempts < maxAttempts) {
+        const apiKey = apiKeys[currentApiKeyIndex];
+        try {
+            const result = await callGeminiAPIText(apiKey, prompt);
+
+            // Cache the plain text result
+            try { await localforage.setItem(cacheKey, result); } catch(e) {}
+
+            renderDeepExplainContent(result);
+            success = true;
+        } catch (error) {
+            console.error(`Error deep explain with API Key ${currentApiKeyIndex}:`, error);
+            currentApiKeyIndex = (currentApiKeyIndex + 1) % apiKeys.length;
+            attempts++;
+        }
+    }
+
+    if (!success) {
+        deepDetailLoading.style.display = 'none';
+        deepDetailError.style.display = 'block';
+    }
+}
+
+function renderDeepExplainContent(markdownText) {
+    currentDeepExplainText = markdownText;
+
+    let html = (typeof marked !== 'undefined') ? marked.parse(markdownText) : markdownText;
+    if (typeof DOMPurify !== 'undefined') {
+        html = DOMPurify.sanitize(html);
+    }
+
+    deepDetailContent.innerHTML = html;
+    deepDetailLoading.style.display = 'none';
+    deepDetailContent.style.display = 'block';
 }
 
 function updateWordElementRole(element, role) {
