@@ -49,6 +49,8 @@ const chatHistory = document.getElementById('chat-history');
 const chatInput = document.getElementById('chat-input');
 const sendChatBtn = document.getElementById('send-chat-btn');
 const newChatBtn = document.getElementById('new-chat-btn');
+const copyChatBtn = document.getElementById('copy-chat-btn');
+const downloadChatBtn = document.getElementById('download-chat-btn');
 
 let currentWordContext = {}; // Store context for detail explanation
 let currentDeepExplainText = ""; // Store plain markdown text for download/copy
@@ -213,8 +215,12 @@ function setupEventListeners() {
         newChatBtn.addEventListener('click', startNewChat);
     }
 
-    if (chatHistory) {
-        chatHistory.addEventListener('click', handleChatAction);
+    if (copyChatBtn) {
+        copyChatBtn.addEventListener('click', () => handleChatAction('copy'));
+    }
+
+    if (downloadChatBtn) {
+        downloadChatBtn.addEventListener('click', () => handleChatAction('download'));
     }
 
     // Detail Buttons inside Word Modal
@@ -986,10 +992,6 @@ function openAiChatModal() {
     chatHistory.innerHTML = `
         <div class="chat-message ai" data-raw-text="${escapeHtml(greetingText)}" data-sender="Ahli AI">
             <div><strong><i class="fas fa-robot"></i> Ahli AI:</strong><br>${htmlReply}</div>
-            <div class="msg-actions">
-                <button class="msg-action-btn copy-msg" title="Salin Pesan"><i class="fas fa-copy"></i></button>
-                <button class="msg-action-btn save-msg" title="Simpan Pesan"><i class="fas fa-download"></i></button>
-            </div>
         </div>
     `;
 
@@ -1007,10 +1009,6 @@ async function sendChatMessage() {
     const userMsgHtml = `
         <div class="chat-message user" data-raw-text="${escapedUserMsg}" data-sender="Anda">
             <div>${escapedUserMsg}</div>
-            <div class="msg-actions">
-                <button class="msg-action-btn copy-msg" title="Salin Pesan"><i class="fas fa-copy"></i></button>
-                <button class="msg-action-btn save-msg" title="Simpan Pesan"><i class="fas fa-download"></i></button>
-            </div>
         </div>
     `;
     chatHistory.insertAdjacentHTML('beforeend', userMsgHtml);
@@ -1070,10 +1068,6 @@ async function sendChatMessage() {
             loadingEl.setAttribute('data-sender', 'Ahli AI');
             loadingEl.innerHTML = `
                 <div><strong><i class="fas fa-robot"></i> Ahli AI:</strong><br>${htmlReply}</div>
-                <div class="msg-actions">
-                    <button class="msg-action-btn copy-msg" title="Salin Pesan"><i class="fas fa-copy"></i></button>
-                    <button class="msg-action-btn save-msg" title="Simpan Pesan"><i class="fas fa-download"></i></button>
-                </div>
             `;
         }
     } catch (err) {
@@ -1278,10 +1272,6 @@ function startNewChat() {
     chatHistory.innerHTML = `
         <div class="chat-message ai" data-raw-text="${escapeHtml(greetingText)}" data-sender="Ahli AI">
             <div><strong><i class="fas fa-robot"></i> Ahli AI:</strong><br>${htmlReply}</div>
-            <div class="msg-actions">
-                <button class="msg-action-btn copy-msg" title="Salin Pesan"><i class="fas fa-copy"></i></button>
-                <button class="msg-action-btn save-msg" title="Simpan Pesan"><i class="fas fa-download"></i></button>
-            </div>
         </div>
     `;
 
@@ -1289,34 +1279,37 @@ function startNewChat() {
     setTimeout(() => chatInput.focus(), 100);
 }
 
-function handleChatAction(e) {
-    const copyBtn = e.target.closest('.copy-msg');
-    const saveBtn = e.target.closest('.save-msg');
+function handleChatAction(actionType) {
+    // Compile all chat messages from chatHistory DOM
+    const messages = chatHistory.querySelectorAll('.chat-message');
+    if (messages.length === 0) return;
 
-    if (!copyBtn && !saveBtn) return;
+    let fullChatLog = `Riwayat Diskusi Ahli AI - Kata: ${currentWordContext.wordText || 'Tanya Jawab'}\n`;
+    fullChatLog += `Tanggal: ${new Date().toLocaleString()}\n`;
+    fullChatLog += `====================================================\n\n`;
 
-    const messageEl = e.target.closest('.chat-message');
-    if (!messageEl) return;
+    messages.forEach(msg => {
+        const rawText = msg.getAttribute('data-raw-text') || '';
+        const sender = msg.getAttribute('data-sender') || (msg.classList.contains('ai') ? 'Ahli AI' : 'Anda');
+        const unescapedText = unescapeHtml(rawText);
 
-    const rawText = messageEl.getAttribute('data-raw-text') || messageEl.textContent.trim();
-    // Unescape the raw text to restore original characters
-    const textToSave = unescapeHtml(rawText);
-    const sender = messageEl.getAttribute('data-sender') || 'Unknown';
+        // Skip adding the initial hidden context prompt to the user view, only add actual visible texts
+        if (unescapedText) {
+            fullChatLog += `[${sender}]\n${unescapedText}\n\n`;
+        }
+    });
 
-    const formattedContent = `${sender}:\n${textToSave}`;
-
-    if (copyBtn) {
-        navigator.clipboard.writeText(formattedContent).then(() => {
-            const originalIcon = copyBtn.innerHTML;
-            copyBtn.innerHTML = '<i class="fas fa-check" style="color: #2ecc71;"></i>';
-            setTimeout(() => {
-                copyBtn.innerHTML = originalIcon;
-            }, 2000);
-        }).catch(err => console.error('Gagal menyalin:', err));
-    } else if (saveBtn) {
+    if (actionType === 'copy') {
+        navigator.clipboard.writeText(fullChatLog).then(() => {
+            alert('Seluruh riwayat obrolan berhasil disalin!');
+        }).catch(err => {
+            console.error('Gagal menyalin riwayat chat:', err);
+            alert('Gagal menyalin obrolan.');
+        });
+    } else if (actionType === 'download') {
         const timestamp = new Date().toISOString().replace(/[:.]/g, '-').substring(0, 19);
-        const fileName = `E-Quran-Chat_${sender}_${timestamp}.txt`;
-        const blob = new Blob([formattedContent], { type: 'text/plain;charset=utf-8' });
+        const fileName = `Riwayat_Chat_EQuran_${currentWordContext.wordText || 'AI'}_${timestamp}.txt`;
+        const blob = new Blob([fullChatLog], { type: 'text/plain;charset=utf-8' });
         const url = URL.createObjectURL(blob);
         const a = document.createElement('a');
         a.href = url;
