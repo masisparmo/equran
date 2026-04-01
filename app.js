@@ -226,8 +226,12 @@ function setupEventListeners() {
     // Detail Buttons inside Word Modal
     document.querySelectorAll('.detail-btn').forEach(btn => {
         btn.addEventListener('click', (e) => {
-            const type = e.target.closest('.detail-btn').getAttribute('data-type');
-            handleDeepExplain(type);
+            const closestBtn = e.target.closest('.detail-btn');
+            const type = closestBtn.getAttribute('data-type');
+            // Hanya jalankan jika atribut data-type ada (untuk menghindari pemicuan dari tombol Ask AI Expert & Send Chat)
+            if (type) {
+                handleDeepExplain(type);
+            }
         });
     });
 
