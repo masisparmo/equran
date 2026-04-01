@@ -26,6 +26,10 @@ const closeWelcomeModalBtn = document.getElementById('close-welcome-modal');
 const welcomeApiKeyInput = document.getElementById('welcome-api-key');
 const welcomeSaveKeyBtn = document.getElementById('welcome-save-key-btn');
 
+// Intro Card UI Elements
+const introCard = document.getElementById('intro-card');
+const introTitle = document.getElementById('intro-title');
+
 // --- API Variables ---
 const quranApiBaseUrl = 'https://api.alquran.cloud/v1';
 const gasBackendUrl = 'https://script.google.com/macros/s/AKfycbz6LH6bOoAYpzqtS91sn-g_ZHH-WJZvg_1eK4lBg4Vqvly9iTe8SPIxMSRQ-5Ox4vt6SA/exec';
@@ -72,6 +76,11 @@ async function init() {
     // Check if we need to show welcome modal on first load
     if (apiKeys.length === 0 && !sessionStorage.getItem('welcome_dismissed')) {
         openModal(welcomeModal);
+    }
+
+    // Auto-collapse intro card on mobile
+    if (window.innerWidth <= 768 && introCard) {
+        introCard.classList.add('is-collapsed');
     }
 }
 
@@ -152,6 +161,13 @@ function setupEventListeners() {
     document.getElementById('close-word-modal').addEventListener('click', () => {
         closeModal(document.getElementById('word-modal'));
     });
+
+    // Intro Card Toggle
+    if (introTitle && introCard) {
+        introTitle.addEventListener('click', () => {
+            introCard.classList.toggle('is-collapsed');
+        });
+    }
 
     // Navigation Listeners
     document.getElementById('surah-select').addEventListener('change', handleSurahChange);

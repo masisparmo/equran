@@ -125,10 +125,45 @@ header {
 .intro-title {
     font-size: 1.4rem;
     color: var(--primary-color);
-    margin-bottom: 12px;
+    margin-bottom: 0; /* Changed from 12px for smooth animation when collapsed */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer; /* Indicate it's clickable */
+    user-select: none; /* Prevent text selection on double click */
+}
+
+.intro-title span {
     display: flex;
     align-items: center;
     gap: 10px;
+}
+
+.toggle-icon {
+    font-size: 1.1rem;
+    color: var(--text-color);
+    transition: transform 0.3s ease;
+    opacity: 0.7;
+}
+
+.intro-content {
+    /* Base styles for expanded state */
+    max-height: 500px; /* An arbitrary large number for max-height transition */
+    opacity: 1;
+    overflow: hidden;
+    transition: max-height 0.4s ease, opacity 0.3s ease, margin-top 0.3s ease;
+    margin-top: 12px; /* Restored the margin below title */
+}
+
+.intro-card.is-collapsed .intro-content {
+    max-height: 0;
+    opacity: 0;
+    margin-top: 0;
+    /* Keeps the element strictly hidden from screen readers too, but display: none breaks animation */
+}
+
+.intro-card.is-collapsed .toggle-icon {
+    transform: rotate(180deg);
 }
 
 .intro-card p {
