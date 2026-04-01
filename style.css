@@ -75,6 +75,15 @@ header {
     font-size: 1.5rem;
     font-weight: bold;
     color: var(--primary-color);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.header-logo-img {
+    height: 40px;
+    width: auto;
+    object-fit: contain;
 }
 
 .controls button {
@@ -99,6 +108,36 @@ header {
     margin-bottom: 20px;
     box-shadow: 0 4px 6px rgba(0,0,0,0.05);
     border: 1px solid var(--border-color);
+}
+
+/* Introduction Card */
+.intro-card {
+    background-color: rgba(26, 188, 156, 0.05); /* Light teal tint */
+    border-left: 4px solid var(--secondary-color);
+    text-align: left;
+    margin-bottom: 25px;
+}
+
+[data-theme="dark"] .intro-card {
+    background-color: rgba(3, 218, 198, 0.05);
+}
+
+.intro-title {
+    font-size: 1.4rem;
+    color: var(--primary-color);
+    margin-bottom: 12px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.intro-card p {
+    margin-bottom: 10px;
+    line-height: 1.6;
+}
+
+.intro-card p:last-child {
+    margin-bottom: 0;
 }
 
 /* Navigation Section */
@@ -257,7 +296,7 @@ select {
 .modal {
     display: none;
     position: fixed;
-    z-index: 1000;
+    z-index: 2000;
     left: 0;
     top: 0;
     width: 100%;
@@ -306,12 +345,41 @@ select {
     color: var(--primary-color);
 }
 
+.detail-section {
+    margin-bottom: 25px;
+}
+
+.detail-section h3 {
+    margin-bottom: 10px;
+    color: var(--primary-color);
+    font-size: 1.2rem;
+    border-bottom: 2px solid var(--hover-bg);
+    padding-bottom: 5px;
+}
+
 .highlight-box {
     background-color: var(--hover-bg);
     padding: 15px;
-    border-radius: 5px;
-    margin-bottom: 20px;
+    border-radius: 8px;
     border-left: 4px solid var(--primary-color);
+}
+
+.narrative-box {
+    background-color: var(--hover-bg);
+    padding: 15px;
+    border-radius: 8px;
+    border: 1px solid var(--border-color);
+}
+
+.summary-box {
+    background-color: rgba(26, 188, 156, 0.1);
+    padding: 15px;
+    border-radius: 8px;
+    border: 1px solid var(--secondary-color);
+}
+
+[data-theme="dark"] .summary-box {
+    background-color: rgba(3, 218, 198, 0.1);
 }
 
 .badge {
@@ -323,57 +391,147 @@ select {
     font-weight: bold;
 }
 
-.detail-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 15px;
-    margin-bottom: 20px;
-}
-
-.detail-item {
-    background-color: var(--bg-color);
-    padding: 10px;
-    border-radius: 5px;
-    border: 1px solid var(--border-color);
-}
-
-.detail-item .label {
-    display: block;
-    font-size: 0.9rem;
-    color: #888;
-    margin-bottom: 5px;
-}
-
-.detail-item .value {
-    font-weight: bold;
-    font-size: 1.1rem;
-}
-
-.sub-explanation {
-    font-size: 0.85rem;
-    color: #666;
-    margin-top: 8px;
-    padding-top: 8px;
-    border-top: 1px dashed var(--border-color);
-    line-height: 1.4;
-    font-style: italic;
-    display: none; /* Hidden by default until populated */
-}
-
-[data-theme="dark"] .sub-explanation {
-    color: #aaa;
-}
-
 .explanation-text {
     background-color: var(--bg-color);
     padding: 15px;
     border-radius: 5px;
     border: 1px solid var(--border-color);
     margin-top: 10px;
-    white-space: pre-wrap;
 }
 
-/* Settings Modal */
+/* Markdown specific styles */
+.explanation-text p, .narrative-box p, .summary-box p {
+    margin-bottom: 10px;
+}
+
+.explanation-text p:last-child, .narrative-box p:last-child, .summary-box p:last-child {
+    margin-bottom: 0;
+}
+
+.explanation-text ul, .explanation-text ol, .narrative-box ul, .narrative-box ol {
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+.explanation-text li, .narrative-box li {
+    margin-bottom: 5px;
+}
+
+.explanation-text strong, .narrative-box strong {
+    color: var(--text-color);
+    font-weight: bold;
+}
+
+.explanation-text em, .narrative-box em {
+    font-style: italic;
+    color: var(--primary-color);
+}
+
+/* Welcome & Settings Modal */
+.instructions-box {
+    background-color: var(--hover-bg);
+    padding: 20px;
+    border-radius: 8px;
+    border: 1px solid var(--border-color);
+    margin-bottom: 20px;
+}
+
+.instructions-box h3 {
+    margin-bottom: 10px;
+    font-size: 1.1rem;
+    color: var(--primary-color);
+}
+
+.instructions-box ol {
+    margin-left: 20px;
+    margin-bottom: 15px;
+}
+
+.instructions-box li {
+    margin-bottom: 8px;
+}
+
+.tip-box {
+    background-color: rgba(241, 196, 15, 0.1);
+    border-left: 4px solid #f1c40f;
+    padding: 10px 15px;
+    border-radius: 4px;
+    font-size: 0.9rem;
+}
+
+[data-theme="dark"] .tip-box {
+    background-color: rgba(241, 196, 15, 0.05);
+}
+
+/* Help Modal Styling enhancements */
+.edu-section {
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    border-bottom: 1px dashed var(--border-color);
+}
+
+.edu-title {
+    color: var(--primary-color);
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.def-box {
+    background-color: rgba(52, 152, 219, 0.1);
+    border-left: 4px solid #3498db;
+    padding: 12px 15px;
+    margin-bottom: 15px;
+    border-radius: 0 4px 4px 0;
+}
+
+.feature-box {
+    background-color: var(--bg-color);
+    border: 1px solid var(--border-color);
+    padding: 15px;
+    border-radius: 6px;
+    margin-bottom: 15px;
+}
+
+.feature-box ul {
+    margin-top: 10px;
+    padding-left: 20px;
+}
+
+.feature-box li {
+    margin-bottom: 8px;
+}
+
+.example-box {
+    background-color: rgba(46, 204, 113, 0.05);
+    padding: 15px;
+    border-radius: 6px;
+    border: 1px solid rgba(46, 204, 113, 0.2);
+}
+
+.example-box ol, .example-box ul {
+    margin-top: 10px;
+    padding-left: 20px;
+}
+
+.example-box li {
+    margin-bottom: 10px;
+    line-height: 1.8;
+}
+
+.grammar-table td, .grammar-table th {
+    border-color: var(--border-color) !important;
+}
+
+[data-theme="dark"] .grammar-table td {
+    background-color: var(--bg-color) !important;
+}
+
+[data-theme="dark"] .def-box {
+    background-color: rgba(52, 152, 219, 0.15);
+}
+
 .settings-desc {
     margin-bottom: 20px;
     color: #666;
@@ -460,6 +618,21 @@ select {
 }
 
 /* Responsive */
+@media (max-width: 768px) {
+    .features-target-grid {
+        grid-template-columns: 1fr !important;
+    }
+    header .controls .nav-text {
+        display: none;
+    }
+    .header-logo-img {
+        height: 30px;
+    }
+    .logo {
+        font-size: 1.2rem;
+    }
+}
+
 @media (max-width: 600px) {
     .navigation {
         flex-direction: column;
