@@ -110,6 +110,36 @@ header {
     border: 1px solid var(--border-color);
 }
 
+/* Introduction Card */
+.intro-card {
+    background-color: rgba(26, 188, 156, 0.05); /* Light teal tint */
+    border-left: 4px solid var(--secondary-color);
+    text-align: left;
+    margin-bottom: 25px;
+}
+
+[data-theme="dark"] .intro-card {
+    background-color: rgba(3, 218, 198, 0.05);
+}
+
+.intro-title {
+    font-size: 1.4rem;
+    color: var(--primary-color);
+    margin-bottom: 12px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.intro-card p {
+    margin-bottom: 10px;
+    line-height: 1.6;
+}
+
+.intro-card p:last-child {
+    margin-bottom: 0;
+}
+
 /* Navigation Section */
 .navigation {
     display: flex;
