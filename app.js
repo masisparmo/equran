@@ -640,18 +640,20 @@ function displayAyah(ayahNumberInSurah) {
     // Process Arabic text into words
     // We remove the Bismillah if it's not Al-Fatihah Ayah 1, as the API sometimes includes it inline
     let textAr = ayahAr.text;
-    let wordIndexOffset = 0;
+
+    // Sembunyikan/hilangkan tanda Hizb/Rub'u (۞) agar tidak dihitung sebagai kata
+    textAr = textAr.replace(/۞/g, '').trim();
+
+    let wordIndexOffset = 0; // We now keep this as 0 per user instruction
 
     // Remove "Bismillah" from Surah other than Al-Fatihah (Surah 1) for Ayah 1
     if (currentSurahData.number !== 1 && ayahNumberInSurah === 1) {
         const bismillahStr = "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ ";
         if (textAr.startsWith(bismillahStr)) {
             textAr = textAr.substring(bismillahStr.length).trim();
-            // Since we stripped Bismillah, we need to offset the word indices by the number
-            // of words in the Bismillah prefix (which is 4 words in the API text: بِسۡمِ, ٱللَّهِ, ٱلرَّحۡمَـٰنِ, ٱلرَّحِیمِ)
-            // so the backend can still match `w4`, `w5`, etc.
-            const bismillahWordsCount = bismillahStr.trim().split(/\s+/).filter(w => w.trim() !== "").length;
-            wordIndexOffset = bismillahWordsCount;
+            // User requested to reset the word index to w0 starting from the actual first word
+            // after Bismillah, rather than accounting for the removed Bismillah words.
+            wordIndexOffset = 0;
         }
     }
 
