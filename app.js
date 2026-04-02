@@ -20,13 +20,11 @@ const settingsModal = document.getElementById('settings-modal');
 const closeSettingsModalBtn = document.getElementById('close-settings-modal');
 const newApiKeyInput = document.getElementById('new-api-key');
 const addKeyBtn = document.getElementById('add-key-btn');
+const newGroqKeyInput = document.getElementById('new-groq-key');
+const addGroqKeyBtn = document.getElementById('add-groq-key-btn');
 const keysList = document.getElementById('keys-list');
 const saveSettingsBtn = document.getElementById('save-settings-btn');
 const welcomeModal = document.getElementById('welcome-modal');
-const closeWelcomeModalBtn = document.getElementById('close-welcome-modal');
-const welcomeApiKeyInput = document.getElementById('welcome-api-key');
-const welcomeSaveKeyBtn = document.getElementById('welcome-save-key-btn');
-
 // Intro Card UI Elements
 const introCard = document.getElementById('intro-card');
 const introTitle = document.getElementById('intro-title');
@@ -133,19 +131,47 @@ function setupEventListeners() {
     settingsBtn.addEventListener('click', () => openModal(settingsModal));
     closeSettingsModalBtn.addEventListener('click', () => closeModal(settingsModal));
     addKeyBtn.addEventListener('click', () => addApiKey(newApiKeyInput.value, newApiKeyInput));
+    addGroqKeyBtn.addEventListener('click', () => addGroqApiKey(newGroqKeyInput.value, newGroqKeyInput));
     saveSettingsBtn.addEventListener('click', () => closeModal(settingsModal));
 
+    // Settings Tabs Navigation
+    const tabBtns = document.querySelectorAll('.tab-btn');
+    const tabContents = document.querySelectorAll('.tab-content');
+    tabBtns.forEach(btn => {
+        btn.addEventListener('click', () => {
+            tabBtns.forEach(b => b.classList.remove('active'));
+            tabContents.forEach(c => c.classList.remove('active'));
+            btn.classList.add('active');
+            document.getElementById(btn.dataset.tab).classList.add('active');
+        });
+    });
+
     // Welcome Modal
-    closeWelcomeModalBtn.addEventListener('click', () => {
-        sessionStorage.setItem('welcome_dismissed', 'true');
-        closeModal(welcomeModal);
-    });
-    welcomeSaveKeyBtn.addEventListener('click', () => {
-        const added = addApiKey(welcomeApiKeyInput.value, welcomeApiKeyInput);
-        if (added) {
+    const welcomeSetupBtn = document.getElementById('welcome-setup-btn');
+    const welcomeSkipBtn = document.getElementById('welcome-skip-btn');
+    const closeWelcomeModalBtn = document.getElementById('close-welcome-modal');
+
+    if (closeWelcomeModalBtn) {
+        closeWelcomeModalBtn.addEventListener('click', () => {
+            sessionStorage.setItem('welcome_dismissed', 'true');
             closeModal(welcomeModal);
-        }
-    });
+        });
+    }
+
+    if (welcomeSkipBtn) {
+        welcomeSkipBtn.addEventListener('click', () => {
+            sessionStorage.setItem('welcome_dismissed', 'true');
+            closeModal(welcomeModal);
+        });
+    }
+
+    if (welcomeSetupBtn) {
+        welcomeSetupBtn.addEventListener('click', () => {
+            sessionStorage.setItem('welcome_dismissed', 'true');
+            closeModal(welcomeModal);
+            openModal(settingsModal);
+        });
+    }
 
     // Navigation Logic
     homeBtn.addEventListener('click', () => {
@@ -861,15 +887,15 @@ async function analyzeWordWithAI(wordText, surahNum, ayahNum, wordIndex, element
         console.warn("Failed to contact database, falling back to API", e);
     }
 
-    // 3. If missing from Local and DB, we MUST use Gemini API.
+    // 3. If missing from Local and DB, we MUST use Gemini API or Groq Fallback.
     // Ensure user has keys first.
-    if (apiKeys.length === 0) {
+    if (apiKeys.length === 0 && groqApiKeys.length === 0) {
         closeModal(document.getElementById('word-modal'));
         openModal(welcomeModal);
         return;
     }
 
-    // Prepare full Ayah context for Gemini
+    // Prepare full Ayah context for Gemini/Groq
     const ayahIndex = ayahNum - 1;
     const fullAyahAr = currentWordContext.fullAyahAr;
     const fullAyahId = currentWordContext.fullAyahId;
@@ -878,9 +904,10 @@ async function analyzeWordWithAI(wordText, surahNum, ayahNum, wordIndex, element
 
     let success = false;
     let attempts = 0;
-    const maxAttempts = apiKeys.length;
+    const maxGeminiAttempts = apiKeys.length;
 
-    while (!success && attempts < maxAttempts) {
+    // Try Gemini First
+    while (!success && attempts < maxGeminiAttempts) {
         const apiKey = apiKeys[currentApiKeyIndex];
         try {
             const result = await callGeminiAPI(apiKey, aiPrompt);
@@ -903,6 +930,46 @@ async function analyzeWordWithAI(wordText, surahNum, ayahNum, wordIndex, element
             // Move to next key on failure
             currentApiKeyIndex = (currentApiKeyIndex + 1) % apiKeys.length;
             attempts++;
+        }
+    }
+
+    // Fallback to Groq API
+    let groqAttempts = 0;
+    while (!success && groqAttempts < groqApiKeys.length) {
+        const apiKey = groqApiKeys[currentGroqKeyIndex];
+        try {
+            const resultText = await callGroqAPI(apiKey, aiPrompt);
+            const cleanedJsonText = resultText.replace(/```json/g, '').replace(/```/g, '').trim();
+            const rawData = JSON.parse(cleanedJsonText);
+
+            // Map JSON schema to internal expected structure
+            const mappedData = {
+                transliteration: rawData.identitas_kata.transliterasi,
+                role: rawData.identitas_kata.jenis_kata,
+                arti: rawData.identitas_kata.arti_harfiah,
+                akarKata: rawData.analisis_sharaf.akar_kata,
+                maknaDasar: rawData.analisis_sharaf.makna_dasar,
+                wazan: rawData.analisis_sharaf.wazan_dan_perubahan,
+                kedudukan: rawData.analisis_nahwu.kedudukan_kalimat,
+                irab: rawData.analisis_nahwu.tanda_irab_dan_logika,
+                kesimpulan: rawData.kesimpulan.makna_dan_hikmah
+            };
+
+            // Cache the result locally in IndexedDB
+            try { await localforage.setItem(cacheKey, mappedData); } catch(e) {}
+
+            // Render it immediately for the user
+            displayWordDetails(mappedData);
+            updateWordElementRole(element, mappedData.role);
+
+            success = true;
+
+            // 4. (Asynchronous) Save this new analysis to the Google Sheet Backend!
+            saveToCommunityDatabase(surahNum, ayahNum, wordIndex, wordText, mappedData);
+        } catch (error) {
+            console.warn(`Groq API Key at index ${currentGroqKeyIndex} failed. Trying next...`);
+            currentGroqKeyIndex = (currentGroqKeyIndex + 1) % groqApiKeys.length;
+            groqAttempts++;
         }
     }
 
@@ -942,7 +1009,7 @@ function saveToCommunityDatabase(surahNum, ayahNum, wordIndex, wordText, aiResul
 }
 
 async function callGeminiAPI(apiKey, prompt) {
-    const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${apiKey}`;
+    const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent?key=${apiKey}`;
 
     const requestBody = {
         contents: [{
@@ -970,8 +1037,37 @@ async function callGeminiAPI(apiKey, prompt) {
     return data.candidates[0].content.parts[0].text;
 }
 
+async function callGroqAPI(apiKey, prompt) {
+    const endpoint = `https://api.groq.com/openai/v1/chat/completions`;
+
+    const requestBody = {
+        model: "meta-llama/llama-4-scout-17b-16e-instruct",
+        messages: [{
+            role: "user",
+            content: prompt
+        }],
+        temperature: 0.1
+    };
+
+    const response = await fetch(endpoint, {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+            'Authorization': `Bearer ${apiKey}`
+        },
+        body: JSON.stringify(requestBody)
+    });
+
+    if (!response.ok) {
+        throw new Error(`Groq API Error: ${response.status}`);
+    }
+
+    const data = await response.json();
+    return data.choices[0].message.content;
+}
+
 async function callGeminiAPIText(apiKey, prompt) {
-    const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${apiKey}`;
+    const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent?key=${apiKey}`;
 
     const requestBody = {
         contents: [{
@@ -1327,36 +1423,123 @@ async function sendChatMessage() {
     chatHistory.insertAdjacentHTML('beforeend', loadingHtml);
     chatHistory.scrollTop = chatHistory.scrollHeight;
 
+    let success = false;
+    let aiReply = "";
+
     // 3. Prepare AI request payload (adding new user msg)
-    chatSessionHistory.push({
-        role: "user",
-        parts: [{ text: userMessage }]
-    });
+    // Attempt Gemini first if keys exist
+    if (apiKeys.length > 0) {
+        let geminiAttempts = 0;
+        const maxGeminiAttempts = apiKeys.length;
 
-    const apiKey = apiKeys[0]; // Simple approach: use the first key
-    const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${apiKey}`;
+        // Save the original history state in case we need to fallback
+        const originalHistoryLength = chatSessionHistory.length;
 
-    try {
-        const response = await fetch(url, {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ contents: chatSessionHistory })
+        chatSessionHistory.push({
+            role: "user",
+            parts: [{ text: userMessage }]
         });
 
-        const data = await response.json();
+        while (!success && geminiAttempts < maxGeminiAttempts) {
+            const apiKey = apiKeys[currentApiKeyIndex];
+            const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent?key=${apiKey}`;
 
-        if (data.error) {
-            throw new Error(data.error.message || 'API Error');
+            try {
+                const response = await fetch(url, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ contents: chatSessionHistory })
+                });
+
+                const data = await response.json();
+
+                if (data.error) {
+                    throw new Error(data.error.message || 'API Error');
+                }
+
+                aiReply = data.candidates[0].content.parts[0].text;
+                success = true;
+
+                // Save to history
+                chatSessionHistory.push({
+                    role: "model",
+                    parts: [{ text: aiReply }]
+                });
+
+            } catch (err) {
+                console.warn(`Chat Gemini API Key at index ${currentApiKeyIndex} failed. Trying next...`, err);
+                currentApiKeyIndex = (currentApiKeyIndex + 1) % maxGeminiAttempts;
+                geminiAttempts++;
+            }
         }
 
-        const aiReply = data.candidates[0].content.parts[0].text;
+        // If Gemini failed completely, pop the user message so we can format for Groq
+        if (!success) {
+            chatSessionHistory.pop();
+        }
+    }
 
-        // Save to history
-        chatSessionHistory.push({
-            role: "model",
-            parts: [{ text: aiReply }]
-        });
+    // Fallback to Groq
+    if (!success && groqApiKeys.length > 0) {
+        // Groq uses a different chat history format {role, content}
+        // Let's convert the gemini history to groq format just for this request
+        const groqHistory = chatSessionHistory.map(msg => ({
+            role: msg.role === 'model' ? 'assistant' : msg.role,
+            content: msg.parts[0].text
+        }));
 
+        groqHistory.push({ role: "user", content: userMessage });
+
+        let groqAttempts = 0;
+        const maxGroqAttempts = groqApiKeys.length;
+
+        while (!success && groqAttempts < maxGroqAttempts) {
+            const apiKey = groqApiKeys[currentGroqKeyIndex];
+            const endpoint = `https://api.groq.com/openai/v1/chat/completions`;
+
+            const requestBody = {
+                model: "meta-llama/llama-4-scout-17b-16e-instruct",
+                messages: groqHistory,
+                temperature: 0.3
+            };
+
+            try {
+                const response = await fetch(endpoint, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'Authorization': `Bearer ${apiKey}`
+                    },
+                    body: JSON.stringify(requestBody)
+                });
+
+                if (!response.ok) {
+                    throw new Error(`Groq Chat API Error: ${response.status}`);
+                }
+
+                const data = await response.json();
+                aiReply = data.choices[0].message.content;
+                success = true;
+
+                // Update the global Gemini-formatted history so subsequent calls still work
+                chatSessionHistory.push({
+                    role: "user",
+                    parts: [{ text: userMessage }]
+                });
+                chatSessionHistory.push({
+                    role: "model",
+                    parts: [{ text: aiReply }]
+                });
+
+            } catch (err) {
+                console.warn(`Chat Groq API Key at index ${currentGroqKeyIndex} failed. Trying next...`, err);
+                currentGroqKeyIndex = (currentGroqKeyIndex + 1) % maxGroqAttempts;
+                groqAttempts++;
+            }
+        }
+    }
+
+    if (success) {
         // Parse markdown and render
         let htmlReply = (typeof marked !== 'undefined') ? marked.parse(aiReply) : escapeHtml(aiReply);
         if (typeof DOMPurify !== 'undefined') {
@@ -1372,13 +1555,11 @@ async function sendChatMessage() {
                 <div><strong><i class="fas fa-robot"></i> Ahli AI:</strong><br>${htmlReply}</div>
             `;
         }
-    } catch (err) {
-        console.error("Chat API Error:", err);
+    } else {
+        console.error("Chat API Exhausted");
         const loadingEl = document.getElementById(loadingId);
         if (loadingEl) {
-            loadingEl.innerHTML = `<div><span style="color: red;"><i class="fas fa-exclamation-triangle"></i> Maaf, terjadi kesalahan saat menghubungi AI. Silakan coba lagi nanti.</span></div>`;
-            // Remove the failed user message from history to allow retry
-            chatSessionHistory.pop();
+            loadingEl.innerHTML = `<div><span style="color: red;"><i class="fas fa-exclamation-triangle"></i> Maaf, semua API Key (Gemini & Groq) gagal atau mencapai limit. Silakan coba lagi nanti.</span></div>`;
         }
     }
     chatHistory.scrollTop = chatHistory.scrollHeight;
@@ -1470,11 +1651,20 @@ async function loadApiKeys() {
         } else {
             apiKeys = [];
         }
+
+        const storedGroqKeys = await localforage.getItem('groq_api_keys');
+        if (storedGroqKeys && Array.isArray(storedGroqKeys)) {
+            groqApiKeys = storedGroqKeys;
+        } else {
+            groqApiKeys = [];
+        }
     } catch(e) {
         console.error("Error loading API keys from localforage", e);
         apiKeys = [];
+        groqApiKeys = [];
     }
     renderApiKeys();
+    renderGroqApiKeys();
 }
 
 async function saveApiKeys() {
@@ -1482,6 +1672,14 @@ async function saveApiKeys() {
         await localforage.setItem('gemini_api_keys', apiKeys);
     } catch(e) {
         console.error("Error saving API keys", e);
+    }
+}
+
+async function saveGroqApiKeys() {
+    try {
+        await localforage.setItem('groq_api_keys', groqApiKeys);
+    } catch(e) {
+        console.error("Error saving Groq API keys", e);
     }
 }
 
@@ -1508,13 +1706,47 @@ function addApiKey(inputValue, inputElement) {
         renderApiKeys();
         inputElement.value = '';
         if (duplicateCount > 0) {
-            alert(`${addedCount} API Key berhasil ditambahkan. (${duplicateCount} key diabaikan karena sudah ada).`);
+            alert(`${addedCount} API Key Gemini berhasil ditambahkan. (${duplicateCount} key diabaikan karena sudah ada).`);
         } else {
-            alert(`${addedCount} API Key berhasil ditambahkan!`);
+            alert(`${addedCount} API Key Gemini berhasil ditambahkan!`);
         }
         return true;
     } else if (duplicateCount > 0) {
-        alert("Semua API Key yang dimasukkan sudah ada!");
+        alert("Semua API Key Gemini yang dimasukkan sudah ada!");
+    }
+    return false;
+}
+
+function addGroqApiKey(inputValue, inputElement) {
+    const rawInput = inputValue.trim();
+    if (!rawInput) return false;
+
+    // Split input by comma to support multiple keys pasted at once
+    const keysToAdd = rawInput.split(',').map(k => k.trim()).filter(k => k.length > 0);
+    let addedCount = 0;
+    let duplicateCount = 0;
+
+    keysToAdd.forEach(key => {
+        if (!groqApiKeys.includes(key)) {
+            groqApiKeys.push(key);
+            addedCount++;
+        } else {
+            duplicateCount++;
+        }
+    });
+
+    if (addedCount > 0) {
+        saveGroqApiKeys();
+        renderGroqApiKeys();
+        inputElement.value = '';
+        if (duplicateCount > 0) {
+            alert(`${addedCount} API Key Groq berhasil ditambahkan. (${duplicateCount} key diabaikan karena sudah ada).`);
+        } else {
+            alert(`${addedCount} API Key Groq berhasil ditambahkan!`);
+        }
+        return true;
+    } else if (duplicateCount > 0) {
+        alert("Semua API Key Groq yang dimasukkan sudah ada!");
     }
     return false;
 }
@@ -1525,10 +1757,16 @@ function removeApiKey(index) {
     renderApiKeys();
 }
 
+function removeGroqApiKey(index) {
+    groqApiKeys.splice(index, 1);
+    saveGroqApiKeys();
+    renderGroqApiKeys();
+}
+
 function renderApiKeys() {
     keysList.innerHTML = '';
     if (apiKeys.length === 0) {
-        keysList.innerHTML = '<li>Belum ada API Key tersimpan. Masukkan setidaknya satu untuk fitur AI.</li>';
+        keysList.innerHTML = '<li>Belum ada API Key Gemini tersimpan.</li>';
         return;
     }
 
@@ -1544,8 +1782,30 @@ function renderApiKeys() {
     });
 }
 
+function renderGroqApiKeys() {
+    const groqList = document.getElementById('groq-keys-list');
+    if (!groqList) return;
+    groqList.innerHTML = '';
+    if (groqApiKeys.length === 0) {
+        groqList.innerHTML = '<li>Belum ada API Key Groq tersimpan.</li>';
+        return;
+    }
+
+    groqApiKeys.forEach((key, index) => {
+        const li = document.createElement('li');
+        // Mask the key for display
+        const maskedKey = key.substring(0, 4) + '...' + key.substring(key.length - 4);
+        li.innerHTML = `
+            <span>${maskedKey}</span>
+            <button onclick="removeGroqApiKey(${index})" title="Hapus"><i class="fas fa-trash"></i></button>
+        `;
+        groqList.appendChild(li);
+    });
+}
+
 // Expose functions to global scope for inline event handlers if needed
 window.removeApiKey = removeApiKey;
+window.removeGroqApiKey = removeGroqApiKey;
 
 // Initialize app
 init();
