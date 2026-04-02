@@ -6,6 +6,7 @@ let currentApiKeyIndex = 0;
 
 // DOM Elements
 const homeBtn = document.getElementById('home-btn');
+const mushafBtn = document.getElementById('mushaf-btn');
 const aboutBtn = document.getElementById('about-btn');
 const aboutModal = document.getElementById('about-modal');
 const closeAboutModalBtn = document.getElementById('close-about-modal');
@@ -19,13 +20,11 @@ const settingsModal = document.getElementById('settings-modal');
 const closeSettingsModalBtn = document.getElementById('close-settings-modal');
 const newApiKeyInput = document.getElementById('new-api-key');
 const addKeyBtn = document.getElementById('add-key-btn');
+const newGroqKeyInput = document.getElementById('new-groq-key');
+const addGroqKeyBtn = document.getElementById('add-groq-key-btn');
 const keysList = document.getElementById('keys-list');
 const saveSettingsBtn = document.getElementById('save-settings-btn');
 const welcomeModal = document.getElementById('welcome-modal');
-const closeWelcomeModalBtn = document.getElementById('close-welcome-modal');
-const welcomeApiKeyInput = document.getElementById('welcome-api-key');
-const welcomeSaveKeyBtn = document.getElementById('welcome-save-key-btn');
-
 // Intro Card UI Elements
 const introCard = document.getElementById('intro-card');
 const introTitle = document.getElementById('intro-title');
@@ -52,6 +51,19 @@ const newChatBtn = document.getElementById('new-chat-btn');
 const copyChatBtn = document.getElementById('copy-chat-btn');
 const downloadChatBtn = document.getElementById('download-chat-btn');
 
+// Mushaf Elements
+const mushafDisplay = document.getElementById('mushaf-display');
+const mushafJuzSelect = document.getElementById('mushaf-juz-select');
+const mushafSurahSelect = document.getElementById('mushaf-surah-select');
+const mushafAyahSelect = document.getElementById('mushaf-ayah-select');
+const mushafPageSelect = document.getElementById('mushaf-page-select');
+const mushafContentContainer = document.getElementById('mushaf-content-container');
+const prevMushafPageBtn = document.getElementById('prev-mushaf-page-btn');
+const nextMushafPageBtn = document.getElementById('next-mushaf-page-btn');
+const mushafPageInfo = document.getElementById('mushaf-page-info');
+const mushafTranslationToggle = document.getElementById('mushaf-translation-toggle');
+
+let currentMushafData = { ayahs: [], translations: [] }; // Store current page data
 let currentWordContext = {}; // Store context for detail explanation
 let currentDeepExplainText = ""; // Store plain markdown text for download/copy
 let chatSessionHistory = []; // Store conversational context for the chat API
@@ -119,19 +131,47 @@ function setupEventListeners() {
     settingsBtn.addEventListener('click', () => openModal(settingsModal));
     closeSettingsModalBtn.addEventListener('click', () => closeModal(settingsModal));
     addKeyBtn.addEventListener('click', () => addApiKey(newApiKeyInput.value, newApiKeyInput));
+    addGroqKeyBtn.addEventListener('click', () => addGroqApiKey(newGroqKeyInput.value, newGroqKeyInput));
     saveSettingsBtn.addEventListener('click', () => closeModal(settingsModal));
 
+    // Settings Tabs Navigation
+    const tabBtns = document.querySelectorAll('.tab-btn');
+    const tabContents = document.querySelectorAll('.tab-content');
+    tabBtns.forEach(btn => {
+        btn.addEventListener('click', () => {
+            tabBtns.forEach(b => b.classList.remove('active'));
+            tabContents.forEach(c => c.classList.remove('active'));
+            btn.classList.add('active');
+            document.getElementById(btn.dataset.tab).classList.add('active');
+        });
+    });
+
     // Welcome Modal
-    closeWelcomeModalBtn.addEventListener('click', () => {
-        sessionStorage.setItem('welcome_dismissed', 'true');
-        closeModal(welcomeModal);
-    });
-    welcomeSaveKeyBtn.addEventListener('click', () => {
-        const added = addApiKey(welcomeApiKeyInput.value, welcomeApiKeyInput);
-        if (added) {
+    const welcomeSetupBtn = document.getElementById('welcome-setup-btn');
+    const welcomeSkipBtn = document.getElementById('welcome-skip-btn');
+    const closeWelcomeModalBtn = document.getElementById('close-welcome-modal');
+
+    if (closeWelcomeModalBtn) {
+        closeWelcomeModalBtn.addEventListener('click', () => {
+            sessionStorage.setItem('welcome_dismissed', 'true');
             closeModal(welcomeModal);
-        }
-    });
+        });
+    }
+
+    if (welcomeSkipBtn) {
+        welcomeSkipBtn.addEventListener('click', () => {
+            sessionStorage.setItem('welcome_dismissed', 'true');
+            closeModal(welcomeModal);
+        });
+    }
+
+    if (welcomeSetupBtn) {
+        welcomeSetupBtn.addEventListener('click', () => {
+            sessionStorage.setItem('welcome_dismissed', 'true');
+            closeModal(welcomeModal);
+            openModal(settingsModal);
+        });
+    }
 
     // Navigation Logic
     homeBtn.addEventListener('click', () => {
@@ -140,6 +180,11 @@ function setupEventListeners() {
         closeModal(welcomeModal);
         closeModal(aboutModal);
         closeModal(helpModal);
+        switchMode('home');
+    });
+
+    mushafBtn.addEventListener('click', () => {
+        switchMode('mushaf');
     });
 
     aboutBtn.addEventListener('click', () => {
@@ -302,6 +347,261 @@ function setupEventListeners() {
     audioPlayer.addEventListener('ended', () => {
         playBtn.innerHTML = '<i class="fas fa-play"></i>';
     });
+
+    // Mushaf Listeners
+    mushafJuzSelect.addEventListener('change', (e) => loadMushafByJuz(e.target.value));
+    mushafSurahSelect.addEventListener('change', (e) => loadMushafBySurah(e.target.value));
+    mushafAyahSelect.addEventListener('change', (e) => loadMushafByAyah(mushafSurahSelect.value, e.target.value));
+    mushafPageSelect.addEventListener('change', (e) => fetchMushafPage(e.target.value));
+    prevMushafPageBtn.addEventListener('click', () => changeMushafPage(-1));
+    nextMushafPageBtn.addEventListener('click', () => changeMushafPage(1));
+    mushafTranslationToggle.addEventListener('change', () => renderMushafPage());
+}
+
+// --- View Modes ---
+function switchMode(mode) {
+    const homeSection = document.querySelector('.navigation.card');
+    const introSection = document.getElementById('intro-card');
+    const quranDisplay = document.getElementById('quran-display');
+
+    if (mode === 'home') {
+        homeSection.style.display = 'flex';
+        introSection.style.display = 'block';
+        if (document.getElementById('surah-select').value) {
+            quranDisplay.style.display = 'block';
+        }
+        mushafDisplay.style.display = 'none';
+    } else if (mode === 'mushaf') {
+        homeSection.style.display = 'none';
+        introSection.style.display = 'none';
+        quranDisplay.style.display = 'none';
+        mushafDisplay.style.display = 'block';
+
+        if (mushafPageSelect.options.length === 0) {
+            initMushafNav();
+            fetchMushafPage(1); // Load default page 1
+        }
+    }
+}
+
+// --- Mushaf Navigation Logic ---
+function initMushafNav() {
+    // Populate Juz
+    mushafJuzSelect.innerHTML = '';
+    for(let i=1; i<=30; i++) {
+        mushafJuzSelect.appendChild(new Option(i, i));
+    }
+    // Populate Page
+    mushafPageSelect.innerHTML = '';
+    for(let i=1; i<=604; i++) {
+        mushafPageSelect.appendChild(new Option(i, i));
+    }
+    // Populate Surah
+    mushafSurahSelect.innerHTML = '<option value="">Memuat...</option>';
+    if (surahsData.length > 0) {
+        populateMushafSurahSelect();
+    } else {
+        // We will populate it once surahs are fetched
+        fetchSurahs().then(() => populateMushafSurahSelect());
+    }
+}
+
+function populateMushafSurahSelect() {
+    mushafSurahSelect.innerHTML = '';
+    surahsData.forEach(surah => {
+        mushafSurahSelect.appendChild(new Option(`${surah.number}. ${surah.englishName}`, surah.number));
+    });
+    // Auto populate Ayah for Surah 1
+    populateMushafAyahSelect(1);
+}
+
+function populateMushafAyahSelect(surahNumber) {
+    const surah = surahsData.find(s => s.number == surahNumber);
+    if (!surah) return;
+    mushafAyahSelect.innerHTML = '';
+    for(let i=1; i<=surah.numberOfAyahs; i++) {
+        mushafAyahSelect.appendChild(new Option(i, i));
+    }
+}
+
+async function loadMushafByJuz(juz) {
+    // We need to know which page a Juz starts on.
+    // The easiest way is to hit the Juz API and get the first ayah's page.
+    showLoading();
+    try {
+        const response = await fetch(`${quranApiBaseUrl}/juz/${juz}/en.asad`);
+        const data = await response.json();
+        const page = data.data.ayahs[0].page;
+        mushafPageSelect.value = page;
+        fetchMushafPage(page);
+    } catch(e) {
+        console.error(e);
+    } finally {
+        hideLoading();
+    }
+}
+
+async function loadMushafBySurah(surah) {
+    populateMushafAyahSelect(surah);
+    loadMushafByAyah(surah, 1);
+}
+
+async function loadMushafByAyah(surah, ayah) {
+    // Get the page of this specific ayah
+    showLoading();
+    try {
+        const response = await fetch(`${quranApiBaseUrl}/ayah/${surah}:${ayah}`);
+        const data = await response.json();
+        const page = data.data.page;
+        mushafPageSelect.value = page;
+        fetchMushafPage(page);
+    } catch(e) {
+        console.error(e);
+    } finally {
+        hideLoading();
+    }
+}
+
+function changeMushafPage(direction) {
+    const currentPage = parseInt(mushafPageSelect.value);
+    const newPage = currentPage + direction;
+    if(newPage >= 1 && newPage <= 604) {
+        mushafPageSelect.value = newPage;
+        fetchMushafPage(newPage);
+    }
+}
+
+async function fetchMushafPage(pageNumber) {
+    showLoading();
+    try {
+        const [tajweedRes, translationRes] = await Promise.all([
+            fetch(`${quranApiBaseUrl}/page/${pageNumber}/quran-uthmani`),
+            fetch(`${quranApiBaseUrl}/page/${pageNumber}/id.indonesian`)
+        ]);
+
+        const tajweedData = await tajweedRes.json();
+        const translationData = await translationRes.json();
+
+        // Update info text
+        mushafPageInfo.textContent = `Halaman ${pageNumber}`;
+
+        // Save current page data for toggle re-rendering
+        currentMushafData.ayahs = tajweedData.data.ayahs;
+        currentMushafData.translations = translationData.data.ayahs;
+
+        // Update select values to match current page's first ayah
+        const firstAyah = tajweedData.data.ayahs[0];
+        mushafJuzSelect.value = firstAyah.juz;
+        if(mushafSurahSelect.options.length > 0) {
+            mushafSurahSelect.value = firstAyah.surah.number;
+            populateMushafAyahSelect(firstAyah.surah.number);
+            mushafAyahSelect.value = firstAyah.numberInSurah;
+        }
+
+        renderMushafPage();
+
+        // Update buttons state
+        prevMushafPageBtn.disabled = parseInt(pageNumber) === 1;
+        nextMushafPageBtn.disabled = parseInt(pageNumber) === 604;
+    } catch (error) {
+        console.error("Error fetching mushaf page:", error);
+        mushafContentContainer.innerHTML = '<p>Gagal memuat halaman Mushaf.</p>';
+    } finally {
+        hideLoading();
+    }
+}
+
+function renderMushafPage() {
+    mushafContentContainer.innerHTML = '';
+
+    const showTranslation = mushafTranslationToggle.checked;
+
+    // The format seems to be: [code[text] or [code:id[text]
+    // Regex to match and extract tajweed codes and text
+    const regex = /\[([a-z]+)(?::\d+)?\[([^\]]+)\]/g;
+
+    let htmlContent = '';
+
+    currentMushafData.ayahs.forEach((ayah, index) => {
+        let text = ayah.text;
+
+        // Convert western arabic numerals to eastern arabic numerals for the ayah number
+        const ayahNumAr = ayah.numberInSurah.toString().replace(/\d/g, d => '٠١٢٣٤٥٦٧٨٩'[d]);
+
+        // Remove Hizb/Rub'u marker like in displayAyah
+        text = text.replace(/۞/g, '').trim();
+
+        // Handle Bismillah offset logic identically to Home mode
+        let wordIndexOffset = 0;
+        if (ayah.surah.number !== 1 && ayah.surah.number !== 9 && ayah.numberInSurah === 1) {
+            // Check for various forms of Bismillah to ensure robust removal
+            const bismillahForms = [
+                "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ",
+                "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+                "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ"
+            ];
+
+            let bismillahToRemove = "";
+            for (const form of bismillahForms) {
+                if (text.startsWith(form)) {
+                    bismillahToRemove = form;
+                    break;
+                }
+            }
+
+            if (bismillahToRemove) {
+                // Remove Bismillah from display text
+                text = text.substring(bismillahToRemove.length).trim();
+                // However, since the text in the db still includes Bismillah, we must offset the index
+                // Oh wait! The backend expects index 0 for the first word AFTER bismillah.
+                // So wordIndexOffset = 0 is correct, we just drop the first 4 words.
+            } else if (text.startsWith("بِسْمِ")) {
+                // Fallback, if there's a slight mismatch but starts with Bismillah, let's remove the first 4 words
+                const bismWords = text.split(/\s+/).filter(w => w.trim() !== "");
+                if (bismWords.length > 4) {
+                    text = bismWords.slice(4).join(" ");
+                }
+            }
+            wordIndexOffset = 0;
+        }
+
+        // Split text by space
+        const words = text.split(/\s+/).filter(w => w.trim() !== "");
+
+        // Create HTML for each word
+        let wordsHtml = words.map((w, wIndex) => {
+            let actualWordIndex = wIndex + wordIndexOffset;
+            return `<span class="mushaf-word" data-surah="${ayah.surah.number}" data-ayah="${ayah.numberInSurah}" data-index="${actualWordIndex}">${w}</span>`;
+        }).join(' ');
+
+        if (showTranslation) {
+            const transText = currentMushafData.translations[index].text;
+            htmlContent += `
+            <div class="mushaf-ayah-block">
+                <span class="mushaf-ayah" style="display: inline-block; width: 100%; text-align: right;">
+                    ${wordsHtml} <span class="mushaf-end-ayah-block">۝${ayahNumAr}</span>
+                </span>
+                <span class="mushaf-translation-text">${ayah.numberInSurah}. ${transText}</span>
+            </div>`;
+        } else {
+            // Normal continuous rendering
+            htmlContent += `<span class="mushaf-ayah">${wordsHtml} <span class="mushaf-end-ayah">۝${ayahNumAr}</span> </span>`;
+        }
+    });
+
+    mushafContentContainer.innerHTML = htmlContent;
+
+    // Attach event listeners to words
+    document.querySelectorAll('.mushaf-word').forEach(span => {
+        span.addEventListener('click', (e) => {
+            const surahNum = parseInt(span.dataset.surah);
+            const ayahNum = parseInt(span.dataset.ayah);
+            const wordIndex = parseInt(span.dataset.index);
+            // Reconstruct plain text to pass to handleWordClick
+            const plainWord = span.textContent;
+            handleWordClick(plainWord, surahNum, ayahNum, wordIndex, span);
+        });
+    });
 }
 
 // --- API Integration (Al-Qur'an Cloud) ---
@@ -421,18 +721,20 @@ function displayAyah(ayahNumberInSurah) {
     // Process Arabic text into words
     // We remove the Bismillah if it's not Al-Fatihah Ayah 1, as the API sometimes includes it inline
     let textAr = ayahAr.text;
-    let wordIndexOffset = 0;
 
-    // Remove "Bismillah" from Surah other than Al-Fatihah (Surah 1) for Ayah 1
-    if (currentSurahData.number !== 1 && ayahNumberInSurah === 1) {
+    // Sembunyikan/hilangkan tanda Hizb/Rub'u (۞) agar tidak dihitung sebagai kata
+    textAr = textAr.replace(/۞/g, '').trim();
+
+    let wordIndexOffset = 0; // We now keep this as 0 per user instruction
+
+    // Remove "Bismillah" from Surah other than Al-Fatihah (Surah 1) and At-Taubah (Surah 9) for Ayah 1
+    if (currentSurahData.number !== 1 && currentSurahData.number !== 9 && ayahNumberInSurah === 1) {
         const bismillahStr = "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ ";
         if (textAr.startsWith(bismillahStr)) {
             textAr = textAr.substring(bismillahStr.length).trim();
-            // Since we stripped Bismillah, we need to offset the word indices by the number
-            // of words in the Bismillah prefix (which is 4 words in the API text: بِسۡمِ, ٱللَّهِ, ٱلرَّحۡمَـٰنِ, ٱلرَّحِیمِ)
-            // so the backend can still match `w4`, `w5`, etc.
-            const bismillahWordsCount = bismillahStr.trim().split(/\s+/).filter(w => w.trim() !== "").length;
-            wordIndexOffset = bismillahWordsCount;
+            // User requested to reset the word index to w0 starting from the actual first word
+            // after Bismillah, rather than accounting for the removed Bismillah words.
+            wordIndexOffset = 0;
         }
     }
 
@@ -492,15 +794,37 @@ function handleWordClick(wordText, surahNum, ayahNum, wordIndex, element) {
     // We let the logic check the database first.
     // The welcome modal will only trigger if the database misses AND there are no keys.
 
+    // In Mushaf mode, currentSurahData might not be loaded if jumped directly.
+    // However, we have currentMushafData which holds the ayahs and translations for the page.
+    let fullAyahAr = "";
+    let fullAyahId = "";
+    let surahName = "Al-Qur'an";
+
+    if (currentSurahData && currentSurahData.number === surahNum && currentAyahsIndo) {
+        const ayahIndex = ayahNum - 1;
+        fullAyahAr = currentSurahData.ayahs[ayahIndex].text;
+        fullAyahId = currentAyahsIndo[ayahIndex].text;
+        surahName = currentSurahData.englishName;
+    } else if (currentMushafData && currentMushafData.ayahs) {
+        const mushafAyahIndex = currentMushafData.ayahs.findIndex(a => a.surah.number === surahNum && a.numberInSurah === ayahNum);
+        if (mushafAyahIndex !== -1) {
+            fullAyahAr = currentMushafData.ayahs[mushafAyahIndex].text;
+            // remove tajweed tags from fullAyahAr for clean passing to AI context
+            fullAyahAr = fullAyahAr.replace(/\[[a-z]+(?::\d+)?\[([^\]]+)\]/g, '$1');
+            fullAyahId = currentMushafData.translations[mushafAyahIndex].text;
+            surahName = currentMushafData.ayahs[mushafAyahIndex].surah.englishName;
+        }
+    }
+
     // Store context for deep explanations
-    const ayahIndex = ayahNum - 1;
     currentWordContext = {
         wordText: wordText,
         surahNum: surahNum,
         ayahNum: ayahNum,
         wordIndex: wordIndex,
-        fullAyahAr: currentSurahData.ayahs[ayahIndex].text,
-        fullAyahId: currentAyahsIndo[ayahIndex].text
+        fullAyahAr: fullAyahAr,
+        fullAyahId: fullAyahId,
+        surahName: surahName
     };
 
     // Prepare modal UI
@@ -563,26 +887,27 @@ async function analyzeWordWithAI(wordText, surahNum, ayahNum, wordIndex, element
         console.warn("Failed to contact database, falling back to API", e);
     }
 
-    // 3. If missing from Local and DB, we MUST use Gemini API.
+    // 3. If missing from Local and DB, we MUST use Gemini API or Groq Fallback.
     // Ensure user has keys first.
-    if (apiKeys.length === 0) {
+    if (apiKeys.length === 0 && groqApiKeys.length === 0) {
         closeModal(document.getElementById('word-modal'));
         openModal(welcomeModal);
         return;
     }
 
-    // Prepare full Ayah context for Gemini
+    // Prepare full Ayah context for Gemini/Groq
     const ayahIndex = ayahNum - 1;
-    const fullAyahAr = currentSurahData.ayahs[ayahIndex].text;
-    const fullAyahId = currentAyahsIndo[ayahIndex].text;
+    const fullAyahAr = currentWordContext.fullAyahAr;
+    const fullAyahId = currentWordContext.fullAyahId;
 
-    const aiPrompt = generateAIPrompt(wordText, fullAyahAr, fullAyahId, currentSurahData.englishName, ayahNum);
+    const aiPrompt = generateAIPrompt(wordText, fullAyahAr, fullAyahId, currentWordContext.surahName, ayahNum);
 
     let success = false;
     let attempts = 0;
-    const maxAttempts = apiKeys.length;
+    const maxGeminiAttempts = apiKeys.length;
 
-    while (!success && attempts < maxAttempts) {
+    // Try Gemini First
+    while (!success && attempts < maxGeminiAttempts) {
         const apiKey = apiKeys[currentApiKeyIndex];
         try {
             const result = await callGeminiAPI(apiKey, aiPrompt);
@@ -605,6 +930,46 @@ async function analyzeWordWithAI(wordText, surahNum, ayahNum, wordIndex, element
             // Move to next key on failure
             currentApiKeyIndex = (currentApiKeyIndex + 1) % apiKeys.length;
             attempts++;
+        }
+    }
+
+    // Fallback to Groq API
+    let groqAttempts = 0;
+    while (!success && groqAttempts < groqApiKeys.length) {
+        const apiKey = groqApiKeys[currentGroqKeyIndex];
+        try {
+            const resultText = await callGroqAPI(apiKey, aiPrompt);
+            const cleanedJsonText = resultText.replace(/```json/g, '').replace(/```/g, '').trim();
+            const rawData = JSON.parse(cleanedJsonText);
+
+            // Map JSON schema to internal expected structure
+            const mappedData = {
+                transliteration: rawData.identitas_kata.transliterasi,
+                role: rawData.identitas_kata.jenis_kata,
+                arti: rawData.identitas_kata.arti_harfiah,
+                akarKata: rawData.analisis_sharaf.akar_kata,
+                maknaDasar: rawData.analisis_sharaf.makna_dasar,
+                wazan: rawData.analisis_sharaf.wazan_dan_perubahan,
+                kedudukan: rawData.analisis_nahwu.kedudukan_kalimat,
+                irab: rawData.analisis_nahwu.tanda_irab_dan_logika,
+                kesimpulan: rawData.kesimpulan.makna_dan_hikmah
+            };
+
+            // Cache the result locally in IndexedDB
+            try { await localforage.setItem(cacheKey, mappedData); } catch(e) {}
+
+            // Render it immediately for the user
+            displayWordDetails(mappedData);
+            updateWordElementRole(element, mappedData.role);
+
+            success = true;
+
+            // 4. (Asynchronous) Save this new analysis to the Google Sheet Backend!
+            saveToCommunityDatabase(surahNum, ayahNum, wordIndex, wordText, mappedData);
+        } catch (error) {
+            console.warn(`Groq API Key at index ${currentGroqKeyIndex} failed. Trying next...`);
+            currentGroqKeyIndex = (currentGroqKeyIndex + 1) % groqApiKeys.length;
+            groqAttempts++;
         }
     }
 
@@ -644,7 +1009,7 @@ function saveToCommunityDatabase(surahNum, ayahNum, wordIndex, wordText, aiResul
 }
 
 async function callGeminiAPI(apiKey, prompt) {
-    const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${apiKey}`;
+    const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent?key=${apiKey}`;
 
     const requestBody = {
         contents: [{
@@ -672,8 +1037,37 @@ async function callGeminiAPI(apiKey, prompt) {
     return data.candidates[0].content.parts[0].text;
 }
 
+async function callGroqAPI(apiKey, prompt) {
+    const endpoint = `https://api.groq.com/openai/v1/chat/completions`;
+
+    const requestBody = {
+        model: "meta-llama/llama-4-scout-17b-16e-instruct",
+        messages: [{
+            role: "user",
+            content: prompt
+        }],
+        temperature: 0.1
+    };
+
+    const response = await fetch(endpoint, {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+            'Authorization': `Bearer ${apiKey}`
+        },
+        body: JSON.stringify(requestBody)
+    });
+
+    if (!response.ok) {
+        throw new Error(`Groq API Error: ${response.status}`);
+    }
+
+    const data = await response.json();
+    return data.choices[0].message.content;
+}
+
 async function callGeminiAPIText(apiKey, prompt) {
-    const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${apiKey}`;
+    const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent?key=${apiKey}`;
 
     const requestBody = {
         contents: [{
@@ -1029,36 +1423,123 @@ async function sendChatMessage() {
     chatHistory.insertAdjacentHTML('beforeend', loadingHtml);
     chatHistory.scrollTop = chatHistory.scrollHeight;
 
+    let success = false;
+    let aiReply = "";
+
     // 3. Prepare AI request payload (adding new user msg)
-    chatSessionHistory.push({
-        role: "user",
-        parts: [{ text: userMessage }]
-    });
+    // Attempt Gemini first if keys exist
+    if (apiKeys.length > 0) {
+        let geminiAttempts = 0;
+        const maxGeminiAttempts = apiKeys.length;
 
-    const apiKey = apiKeys[0]; // Simple approach: use the first key
-    const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${apiKey}`;
+        // Save the original history state in case we need to fallback
+        const originalHistoryLength = chatSessionHistory.length;
 
-    try {
-        const response = await fetch(url, {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ contents: chatSessionHistory })
+        chatSessionHistory.push({
+            role: "user",
+            parts: [{ text: userMessage }]
         });
 
-        const data = await response.json();
+        while (!success && geminiAttempts < maxGeminiAttempts) {
+            const apiKey = apiKeys[currentApiKeyIndex];
+            const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent?key=${apiKey}`;
 
-        if (data.error) {
-            throw new Error(data.error.message || 'API Error');
+            try {
+                const response = await fetch(url, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ contents: chatSessionHistory })
+                });
+
+                const data = await response.json();
+
+                if (data.error) {
+                    throw new Error(data.error.message || 'API Error');
+                }
+
+                aiReply = data.candidates[0].content.parts[0].text;
+                success = true;
+
+                // Save to history
+                chatSessionHistory.push({
+                    role: "model",
+                    parts: [{ text: aiReply }]
+                });
+
+            } catch (err) {
+                console.warn(`Chat Gemini API Key at index ${currentApiKeyIndex} failed. Trying next...`, err);
+                currentApiKeyIndex = (currentApiKeyIndex + 1) % maxGeminiAttempts;
+                geminiAttempts++;
+            }
         }
 
-        const aiReply = data.candidates[0].content.parts[0].text;
+        // If Gemini failed completely, pop the user message so we can format for Groq
+        if (!success) {
+            chatSessionHistory.pop();
+        }
+    }
 
-        // Save to history
-        chatSessionHistory.push({
-            role: "model",
-            parts: [{ text: aiReply }]
-        });
+    // Fallback to Groq
+    if (!success && groqApiKeys.length > 0) {
+        // Groq uses a different chat history format {role, content}
+        // Let's convert the gemini history to groq format just for this request
+        const groqHistory = chatSessionHistory.map(msg => ({
+            role: msg.role === 'model' ? 'assistant' : msg.role,
+            content: msg.parts[0].text
+        }));
 
+        groqHistory.push({ role: "user", content: userMessage });
+
+        let groqAttempts = 0;
+        const maxGroqAttempts = groqApiKeys.length;
+
+        while (!success && groqAttempts < maxGroqAttempts) {
+            const apiKey = groqApiKeys[currentGroqKeyIndex];
+            const endpoint = `https://api.groq.com/openai/v1/chat/completions`;
+
+            const requestBody = {
+                model: "meta-llama/llama-4-scout-17b-16e-instruct",
+                messages: groqHistory,
+                temperature: 0.3
+            };
+
+            try {
+                const response = await fetch(endpoint, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'Authorization': `Bearer ${apiKey}`
+                    },
+                    body: JSON.stringify(requestBody)
+                });
+
+                if (!response.ok) {
+                    throw new Error(`Groq Chat API Error: ${response.status}`);
+                }
+
+                const data = await response.json();
+                aiReply = data.choices[0].message.content;
+                success = true;
+
+                // Update the global Gemini-formatted history so subsequent calls still work
+                chatSessionHistory.push({
+                    role: "user",
+                    parts: [{ text: userMessage }]
+                });
+                chatSessionHistory.push({
+                    role: "model",
+                    parts: [{ text: aiReply }]
+                });
+
+            } catch (err) {
+                console.warn(`Chat Groq API Key at index ${currentGroqKeyIndex} failed. Trying next...`, err);
+                currentGroqKeyIndex = (currentGroqKeyIndex + 1) % maxGroqAttempts;
+                groqAttempts++;
+            }
+        }
+    }
+
+    if (success) {
         // Parse markdown and render
         let htmlReply = (typeof marked !== 'undefined') ? marked.parse(aiReply) : escapeHtml(aiReply);
         if (typeof DOMPurify !== 'undefined') {
@@ -1074,13 +1555,11 @@ async function sendChatMessage() {
                 <div><strong><i class="fas fa-robot"></i> Ahli AI:</strong><br>${htmlReply}</div>
             `;
         }
-    } catch (err) {
-        console.error("Chat API Error:", err);
+    } else {
+        console.error("Chat API Exhausted");
         const loadingEl = document.getElementById(loadingId);
         if (loadingEl) {
-            loadingEl.innerHTML = `<div><span style="color: red;"><i class="fas fa-exclamation-triangle"></i> Maaf, terjadi kesalahan saat menghubungi AI. Silakan coba lagi nanti.</span></div>`;
-            // Remove the failed user message from history to allow retry
-            chatSessionHistory.pop();
+            loadingEl.innerHTML = `<div><span style="color: red;"><i class="fas fa-exclamation-triangle"></i> Maaf, semua API Key (Gemini & Groq) gagal atau mencapai limit. Silakan coba lagi nanti.</span></div>`;
         }
     }
     chatHistory.scrollTop = chatHistory.scrollHeight;
@@ -1172,11 +1651,20 @@ async function loadApiKeys() {
         } else {
             apiKeys = [];
         }
+
+        const storedGroqKeys = await localforage.getItem('groq_api_keys');
+        if (storedGroqKeys && Array.isArray(storedGroqKeys)) {
+            groqApiKeys = storedGroqKeys;
+        } else {
+            groqApiKeys = [];
+        }
     } catch(e) {
         console.error("Error loading API keys from localforage", e);
         apiKeys = [];
+        groqApiKeys = [];
     }
     renderApiKeys();
+    renderGroqApiKeys();
 }
 
 async function saveApiKeys() {
@@ -1184,6 +1672,14 @@ async function saveApiKeys() {
         await localforage.setItem('gemini_api_keys', apiKeys);
     } catch(e) {
         console.error("Error saving API keys", e);
+    }
+}
+
+async function saveGroqApiKeys() {
+    try {
+        await localforage.setItem('groq_api_keys', groqApiKeys);
+    } catch(e) {
+        console.error("Error saving Groq API keys", e);
     }
 }
 
@@ -1210,13 +1706,47 @@ function addApiKey(inputValue, inputElement) {
         renderApiKeys();
         inputElement.value = '';
         if (duplicateCount > 0) {
-            alert(`${addedCount} API Key berhasil ditambahkan. (${duplicateCount} key diabaikan karena sudah ada).`);
+            alert(`${addedCount} API Key Gemini berhasil ditambahkan. (${duplicateCount} key diabaikan karena sudah ada).`);
         } else {
-            alert(`${addedCount} API Key berhasil ditambahkan!`);
+            alert(`${addedCount} API Key Gemini berhasil ditambahkan!`);
         }
         return true;
     } else if (duplicateCount > 0) {
-        alert("Semua API Key yang dimasukkan sudah ada!");
+        alert("Semua API Key Gemini yang dimasukkan sudah ada!");
+    }
+    return false;
+}
+
+function addGroqApiKey(inputValue, inputElement) {
+    const rawInput = inputValue.trim();
+    if (!rawInput) return false;
+
+    // Split input by comma to support multiple keys pasted at once
+    const keysToAdd = rawInput.split(',').map(k => k.trim()).filter(k => k.length > 0);
+    let addedCount = 0;
+    let duplicateCount = 0;
+
+    keysToAdd.forEach(key => {
+        if (!groqApiKeys.includes(key)) {
+            groqApiKeys.push(key);
+            addedCount++;
+        } else {
+            duplicateCount++;
+        }
+    });
+
+    if (addedCount > 0) {
+        saveGroqApiKeys();
+        renderGroqApiKeys();
+        inputElement.value = '';
+        if (duplicateCount > 0) {
+            alert(`${addedCount} API Key Groq berhasil ditambahkan. (${duplicateCount} key diabaikan karena sudah ada).`);
+        } else {
+            alert(`${addedCount} API Key Groq berhasil ditambahkan!`);
+        }
+        return true;
+    } else if (duplicateCount > 0) {
+        alert("Semua API Key Groq yang dimasukkan sudah ada!");
     }
     return false;
 }
@@ -1227,10 +1757,16 @@ function removeApiKey(index) {
     renderApiKeys();
 }
 
+function removeGroqApiKey(index) {
+    groqApiKeys.splice(index, 1);
+    saveGroqApiKeys();
+    renderGroqApiKeys();
+}
+
 function renderApiKeys() {
     keysList.innerHTML = '';
     if (apiKeys.length === 0) {
-        keysList.innerHTML = '<li>Belum ada API Key tersimpan. Masukkan setidaknya satu untuk fitur AI.</li>';
+        keysList.innerHTML = '<li>Belum ada API Key Gemini tersimpan.</li>';
         return;
     }
 
@@ -1246,8 +1782,30 @@ function renderApiKeys() {
     });
 }
 
+function renderGroqApiKeys() {
+    const groqList = document.getElementById('groq-keys-list');
+    if (!groqList) return;
+    groqList.innerHTML = '';
+    if (groqApiKeys.length === 0) {
+        groqList.innerHTML = '<li>Belum ada API Key Groq tersimpan.</li>';
+        return;
+    }
+
+    groqApiKeys.forEach((key, index) => {
+        const li = document.createElement('li');
+        // Mask the key for display
+        const maskedKey = key.substring(0, 4) + '...' + key.substring(key.length - 4);
+        li.innerHTML = `
+            <span>${maskedKey}</span>
+            <button onclick="removeGroqApiKey(${index})" title="Hapus"><i class="fas fa-trash"></i></button>
+        `;
+        groqList.appendChild(li);
+    });
+}
+
 // Expose functions to global scope for inline event handlers if needed
 window.removeApiKey = removeApiKey;
+window.removeGroqApiKey = removeGroqApiKey;
 
 // Initialize app
 init();

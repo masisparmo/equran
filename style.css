@@ -717,6 +717,44 @@ select {
     background-color: rgba(52, 152, 219, 0.15);
 }
 
+/* Settings & Tabs */
+.settings-tabs {
+    display: flex;
+    margin-bottom: 20px;
+    border-bottom: 2px solid var(--border-color);
+}
+
+.tab-btn {
+    flex: 1;
+    background: none;
+    border: none;
+    padding: 10px 15px;
+    font-size: 1rem;
+    font-weight: 500;
+    color: var(--text-muted);
+    cursor: pointer;
+    border-bottom: 3px solid transparent;
+    transition: all 0.3s ease;
+    margin-bottom: -2px; /* Overlap border */
+}
+
+.tab-btn:hover {
+    color: var(--primary-color);
+}
+
+.tab-btn.active {
+    color: var(--secondary-color);
+    border-bottom-color: var(--secondary-color);
+}
+
+.tab-content {
+    display: none;
+}
+
+.tab-content.active {
+    display: block;
+}
+
 .settings-desc {
     margin-bottom: 20px;
     color: #666;
@@ -807,14 +845,30 @@ select {
     .features-target-grid {
         grid-template-columns: 1fr !important;
     }
+    header {
+        flex-direction: column;
+        align-items: center;
+        gap: 15px;
+        padding: 15px;
+    }
+    .logo {
+        width: 100%;
+        justify-content: center;
+        font-size: 1.5rem;
+        white-space: nowrap;
+    }
+    header .controls {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 15px; /* Added explicit gap to center items evenly */
+    }
     header .controls .nav-text {
         display: none;
     }
     .header-logo-img {
-        height: 30px;
-    }
-    .logo {
-        font-size: 1.2rem;
+        height: 35px;
     }
 }
 
@@ -828,5 +882,320 @@ select {
     .ayah-nav-buttons {
         flex-direction: column;
         gap: 10px;
+    }
+}
+
+/* Mushaf Display Mode */
+#mushaf-display {
+    padding: 20px;
+}
+
+.mushaf-header-controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-bottom: 20px;
+    justify-content: center;
+    background: rgba(0,0,0,0.02);
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px solid var(--border-color);
+}
+
+.mushaf-nav-group {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.mushaf-nav-group label {
+    font-weight: bold;
+    color: var(--primary-color);
+    white-space: nowrap;
+}
+
+.mushaf-nav-group select {
+    padding: 8px;
+    border-radius: 4px;
+    border: 1px solid var(--border-color);
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    font-family: var(--font-sans);
+    min-width: 80px;
+}
+
+.mushaf-content-container {
+    font-family: var(--font-arabic);
+    font-size: 2.2rem;
+    line-height: 2;
+    text-align: justify;
+    text-justify: inter-word;
+    direction: rtl;
+    width: 100%;
+    max-width: 100vw;
+    box-sizing: border-box;
+    word-wrap: break-word;
+    overflow-x: hidden;
+    padding: 20px;
+    background-color: #fdfdf0; /* Slightly yellowish paper color for Mushaf */
+    color: #000000; /* Solid black for reading */
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    box-shadow: inset 0 0 10px rgba(0,0,0,0.05);
+}
+
+[data-theme="dark"] .mushaf-content-container {
+    background-color: #1a1a1a;
+    color: #f0f0f0;
+}
+
+.mushaf-ayah {
+    display: inline;
+}
+
+.mushaf-end-ayah {
+    display: inline-block;
+    margin: 0 8px;
+    color: var(--primary-color);
+    font-size: 0.8em;
+}
+
+/* Mushaf Tajweed Colors */
+.tajweed-h { color: #537DF5; } /* Ikhfa, Idgham, dll (biasanya biru/hijau di beberapa mushaf, kita ikut default tajweed api, misal h=ikfa (green/blue)) */
+.tajweed-n { color: #FF7E1E; } /* Ghunnah */
+.tajweed-l { color: #FF7E1E; } /* Idgham with Ghunnah */
+.tajweed-g { color: #FF7E1E; } /* Ghunnah */
+.tajweed-p { color: #537DF5; } /* Qalqalah */
+.tajweed-s { color: #537DF5; } /* Ikhfa Syafawi */
+.tajweed-c { color: #537DF5; } /* Iqlab */
+.tajweed-q { color: #537DF5; } /* Qalqalah */
+.tajweed-o { color: #537DF5; }
+/* Based on global tajweed colors standard:
+   Red: Idgham, Ghunnah
+   Blue: Ikhfa, Iqlab
+   Green: Mad
+   Gray: Silent (not usually colored, but available)
+*/
+
+/* Mapping based on API if possible, let's use some generic colors if we don't know the exact map */
+.tajweed-h { color: #32CD32; } /* green */
+.tajweed-s { color: #1E90FF; } /* blue */
+.tajweed-n { color: #FF4500; } /* red-orange */
+.tajweed-l { color: #FF4500; }
+.tajweed-g { color: #FF4500; }
+.tajweed-p { color: #1E90FF; }
+.tajweed-q { color: #1E90FF; }
+.tajweed-c { color: #1E90FF; }
+
+[data-theme="dark"] .tajweed-h { color: #32CD32; }
+[data-theme="dark"] .tajweed-s { color: #4DA6FF; }
+[data-theme="dark"] .tajweed-n { color: #FF6347; }
+[data-theme="dark"] .tajweed-l { color: #FF6347; }
+[data-theme="dark"] .tajweed-g { color: #FF6347; }
+[data-theme="dark"] .tajweed-p { color: #4DA6FF; }
+[data-theme="dark"] .tajweed-q { color: #4DA6FF; }
+[data-theme="dark"] .tajweed-c { color: #4DA6FF; }
+
+.mushaf-nav-buttons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    padding-top: 15px;
+    border-top: 1px solid var(--border-color);
+}
+
+#mushaf-page-info {
+    font-weight: bold;
+    font-size: 1.1rem;
+    color: var(--primary-color);
+}
+
+@media (max-width: 768px) {
+    .mushaf-content-container {
+        font-size: 1.8rem;
+        padding: 10px;
+    }
+    .mushaf-nav-buttons {
+        flex-direction: column;
+        gap: 15px;
+    }
+}
+
+/* Mushaf Translation Mode Styles */
+.mushaf-ayah-block {
+    display: block;
+    margin-bottom: 25px;
+    padding-bottom: 20px;
+    border-bottom: 1px dashed rgba(0, 0, 0, 0.1);
+}
+
+[data-theme="dark"] .mushaf-ayah-block {
+    border-bottom: 1px dashed rgba(255, 255, 255, 0.1);
+}
+
+.mushaf-ayah-block:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.mushaf-translation-text {
+    display: block;
+    direction: ltr;
+    text-align: left;
+    font-family: var(--font-sans);
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: var(--text-color);
+    margin-top: 15px;
+    padding: 15px;
+    background-color: rgba(0, 0, 0, 0.03);
+    border-left: 4px solid var(--secondary-color);
+    border-radius: 4px;
+}
+
+[data-theme="dark"] .mushaf-translation-text {
+    background-color: rgba(255, 255, 255, 0.05);
+}
+
+.mushaf-end-ayah-block {
+    display: inline-block;
+    margin: 0 8px;
+    color: var(--primary-color);
+    font-size: 0.8em;
+}
+
+@media (max-width: 768px) {
+    .mushaf-translation-text {
+        font-size: 1rem;
+    }
+
+    .mushaf-header-controls {
+        display: grid;
+        grid-template-columns: repeat(6, 1fr);
+        gap: 10px;
+    }
+    .mushaf-nav-group {
+        justify-content: flex-start;
+    }
+    .mushaf-nav-group:nth-child(2) {
+        /* Surah */
+        grid-column: span 4;
+        order: 1;
+    }
+    .mushaf-nav-group:nth-child(3) {
+        /* Ayat */
+        grid-column: span 2;
+        order: 2;
+    }
+    .mushaf-nav-group:nth-child(1) {
+        /* Juz */
+        grid-column: span 2;
+        order: 3;
+    }
+    .mushaf-nav-group:nth-child(4) {
+        /* Halaman */
+        grid-column: span 2;
+        order: 4;
+    }
+    .mushaf-nav-group.toggle-group {
+        /* Terjemah */
+        grid-column: span 2;
+        justify-content: center;
+        margin-left: 0 !important;
+        order: 5;
+    }
+
+    /* Ensure select fields take appropriate width */
+    .mushaf-nav-group select {
+        flex-grow: 1;
+        width: 100%;
+    }
+}
+
+
+@media (max-width: 768px) {
+    .mushaf-ayah-label {
+        display: none;
+    }
+    .mushaf-nav-group:nth-child(2) {
+        /* Surah */
+        grid-column: span 4;
+    }
+    .mushaf-nav-group:nth-child(3) {
+        /* Ayat */
+        grid-column: span 2;
+    }
+
+    #mushaf-juz-select, #mushaf-page-select {
+        width: 50px !important;
+        flex-grow: 0 !important;
+    }
+}
+
+@media (max-width: 768px) {
+    #mushaf-juz-select, #mushaf-page-select {
+        width: 45px !important;
+        padding: 4px;
+    }
+
+    .mushaf-nav-group:nth-child(5) {
+        /* Terjemah Toggle */
+        grid-column: span 2;
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    .mushaf-nav-group:nth-child(5) label {
+        white-space: nowrap;
+        font-size: 0.85rem;
+    }
+}
+
+@media (max-width: 768px) {
+    #mushaf-juz-select, #mushaf-page-select {
+        min-width: 0 !important;
+        width: 100% !important;
+        max-width: 45px !important;
+        padding: 4px 2px !important;
+    }
+    .mushaf-nav-group {
+        gap: 5px;
+    }
+}
+
+@media (max-width: 768px) {
+    #mushaf-juz-select, #mushaf-page-select {
+        max-width: 55px !important;
+        padding: 4px 18px 4px 4px !important; /* give space for native dropdown arrow */
+    }
+}
+
+.mushaf-word {
+    cursor: pointer;
+    transition: background-color 0.2s, opacity 0.2s;
+    border-radius: 4px;
+}
+
+.mushaf-word:hover {
+    background-color: rgba(26, 115, 232, 0.1);
+}
+
+.mushaf-word.active-word {
+    background-color: rgba(26, 115, 232, 0.2);
+}
+
+[data-theme="dark"] .mushaf-word:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+[data-theme="dark"] .mushaf-word.active-word {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+@media (max-width: 768px) {
+    .home-nav-label {
+        display: none;
     }
 }
