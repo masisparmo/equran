@@ -1155,3 +1155,9 @@ select {
 [data-theme="dark"] .mushaf-word.active-word {
     background-color: rgba(255, 255, 255, 0.2);
 }
+
+@media (max-width: 768px) {
+    .home-nav-label {
+        display: none;
+    }
+}
