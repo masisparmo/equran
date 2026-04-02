@@ -449,7 +449,7 @@ async function fetchMushafPage(pageNumber) {
     showLoading();
     try {
         const [tajweedRes, translationRes] = await Promise.all([
-            fetch(`${quranApiBaseUrl}/page/${pageNumber}/quran-tajweed`),
+            fetch(`${quranApiBaseUrl}/page/${pageNumber}/quran-uthmani`),
             fetch(`${quranApiBaseUrl}/page/${pageNumber}/id.indonesian`)
         ]);
 
@@ -508,37 +508,24 @@ function renderMushafPage() {
         // Handle Bismillah offset logic identically to Home mode
         let wordIndexOffset = 0;
         if (ayah.surah.number !== 1 && ayah.numberInSurah === 1) {
-            // The quran-tajweed api might have Bismillah with tajweed tags.
-            // We need to strip it based on raw text comparison or regex.
-            // Actually, quran-tajweed text starts with "بِسْمِ [h:1[ٱ]للَّهِ [h:2[ٱ][l[ل]رَّحْمَ[n[ـٰ]نِ [h:3[ٱ][l[ل]رَّح[p[ِي]مِ"
-            // We'll replace it.
-            const bismillahTajweed = "بِسْمِ [h:1[ٱ]للَّهِ [h:2[ٱ][l[ل]رَّحْمَ[n[ـٰ]نِ [h:3[ٱ][l[ل]رَّح[p[ِي]مِ";
-            const bismillahTajweedFallback = "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ";
-
-            if (text.startsWith(bismillahTajweed)) {
-                text = text.substring(bismillahTajweed.length).trim();
-            } else if (text.replace(/\[[^\]]+\]/g, '').startsWith(bismillahTajweedFallback)) {
-                // If the tags are slightly different but plain text matches
-                let plainText = text.replace(/\[[^\]]+\]/g, '');
-                if (plainText.startsWith(bismillahTajweedFallback)) {
-                    // Try to extract the substring by counting spaces
-                    let words = text.split(' ');
-                    text = words.slice(4).join(' ').trim();
-                }
+            const bismillah = "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ";
+            if (text.startsWith(bismillah)) {
+                // Remove Bismillah from display text
+                text = text.substring(bismillah.length).trim();
+                // However, since the text in the db still includes Bismillah, we must offset the index
+                // Oh wait! The backend expects index 0 for the first word AFTER bismillah.
+                // So wordIndexOffset = 0 is correct, we just drop the first 4 words.
             }
             wordIndexOffset = 0;
         }
 
-        // Split text by space (the spaces are outside tajweed tags in the API)
+        // Split text by space
         const words = text.split(/\s+/).filter(w => w.trim() !== "");
-
-        const tajweedRegex = /\[([a-z]+)(?::\d+)?\[([^\]]+)\]/g;
 
         // Create HTML for each word
         let wordsHtml = words.map((w, wIndex) => {
             let actualWordIndex = wIndex + wordIndexOffset;
-            let htmlW = w.replace(tajweedRegex, '<span class="tajweed-$1">$2</span>');
-            return `<span class="mushaf-word" data-surah="${ayah.surah.number}" data-ayah="${ayah.numberInSurah}" data-index="${actualWordIndex}">${htmlW}</span>`;
+            return `<span class="mushaf-word" data-surah="${ayah.surah.number}" data-ayah="${ayah.numberInSurah}" data-index="${actualWordIndex}">${w}</span>`;
         }).join(' ');
 
         if (showTranslation) {
