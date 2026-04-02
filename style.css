@@ -237,10 +237,12 @@ select {
 .arabic-text {
     font-family: var(--font-arabic);
     font-size: 2.5rem;
-    line-height: 2.5;
+    line-height: 3;
     text-align: right;
     direction: rtl;
     margin-bottom: 15px;
+    text-rendering: optimizeLegibility;
+    font-feature-settings: "kern", "liga", "clig", "calt";
 }
 
 /* Word Styles */
@@ -927,10 +929,12 @@ select {
 .mushaf-content-container {
     font-family: var(--font-arabic);
     font-size: 2.2rem;
-    line-height: 2;
+    line-height: 2.8;
     text-align: justify;
     text-justify: inter-word;
     direction: rtl;
+    text-rendering: optimizeLegibility;
+    font-feature-settings: "kern", "liga", "clig", "calt";
     width: 100%;
     max-width: 100vw;
     box-sizing: border-box;
@@ -1072,43 +1076,18 @@ select {
     }
 
     .mushaf-header-controls {
-        display: grid;
-        grid-template-columns: repeat(6, 1fr);
+        display: flex;
+        flex-wrap: wrap;
         gap: 10px;
+        justify-content: center;
     }
     .mushaf-nav-group {
         justify-content: flex-start;
-    }
-    .mushaf-nav-group:nth-child(2) {
-        /* Surah */
-        grid-column: span 4;
-        order: 1;
-    }
-    .mushaf-nav-group:nth-child(3) {
-        /* Ayat */
-        grid-column: span 2;
-        order: 2;
-    }
-    .mushaf-nav-group:nth-child(1) {
-        /* Juz */
-        grid-column: span 2;
-        order: 3;
-    }
-    .mushaf-nav-group:nth-child(4) {
-        /* Halaman */
-        grid-column: span 2;
-        order: 4;
-    }
-    .mushaf-nav-group.toggle-group {
-        /* Terjemah */
-        grid-column: span 2;
-        justify-content: center;
-        margin-left: 0 !important;
-        order: 5;
+        flex: 1 1 auto;
     }
 
-    /* Ensure select fields take appropriate width */
-    .mushaf-nav-group select {
+    /* Ensure inputs take appropriate width */
+    .mushaf-nav-group select, .mushaf-nav-group input {
         flex-grow: 1;
         width: 100%;
     }
@@ -1117,7 +1096,7 @@ select {
 
 @media (max-width: 768px) {
     .mushaf-ayah-label {
-        display: none;
+        display: block;
     }
     .mushaf-nav-group:nth-child(2) {
         /* Surah */
@@ -1128,15 +1107,15 @@ select {
         grid-column: span 2;
     }
 
-    #mushaf-juz-select, #mushaf-page-select {
-        width: 50px !important;
+    #mushaf-juz-input, #mushaf-page-input {
+        width: 80px !important;
         flex-grow: 0 !important;
     }
 }
 
 @media (max-width: 768px) {
-    #mushaf-juz-select, #mushaf-page-select {
-        width: 45px !important;
+    #mushaf-juz-input, #mushaf-page-input {
+        width: 60px !important;
         padding: 4px;
     }
 
@@ -1154,10 +1133,10 @@ select {
 }
 
 @media (max-width: 768px) {
-    #mushaf-juz-select, #mushaf-page-select {
+    #mushaf-juz-input, #mushaf-page-input {
         min-width: 0 !important;
         width: 100% !important;
-        max-width: 45px !important;
+        max-width: 60px !important;
         padding: 4px 2px !important;
     }
     .mushaf-nav-group {
@@ -1166,9 +1145,9 @@ select {
 }
 
 @media (max-width: 768px) {
-    #mushaf-juz-select, #mushaf-page-select {
-        max-width: 55px !important;
-        padding: 4px 18px 4px 4px !important; /* give space for native dropdown arrow */
+    #mushaf-juz-input, #mushaf-page-input {
+        max-width: 60px !important;
+        padding: 4px 4px 4px 4px !important;
     }
 }
 
