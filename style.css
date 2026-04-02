@@ -981,3 +981,53 @@ select {
         gap: 15px;
     }
 }
+
+/* Mushaf Translation Mode Styles */
+.mushaf-ayah-block {
+    display: block;
+    margin-bottom: 25px;
+    padding-bottom: 20px;
+    border-bottom: 1px dashed rgba(0, 0, 0, 0.1);
+}
+
+[data-theme="dark"] .mushaf-ayah-block {
+    border-bottom: 1px dashed rgba(255, 255, 255, 0.1);
+}
+
+.mushaf-ayah-block:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.mushaf-translation-text {
+    display: block;
+    direction: ltr;
+    text-align: left;
+    font-family: var(--font-sans);
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: var(--text-color);
+    margin-top: 15px;
+    padding: 15px;
+    background-color: rgba(0, 0, 0, 0.03);
+    border-left: 4px solid var(--secondary-color);
+    border-radius: 4px;
+}
+
+[data-theme="dark"] .mushaf-translation-text {
+    background-color: rgba(255, 255, 255, 0.05);
+}
+
+.mushaf-end-ayah-block {
+    display: inline-block;
+    margin: 0 8px;
+    color: var(--primary-color);
+    font-size: 0.8em;
+}
+
+@media (max-width: 768px) {
+    .mushaf-translation-text {
+        font-size: 1rem;
+    }
+}

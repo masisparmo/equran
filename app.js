@@ -63,7 +63,9 @@ const mushafContentContainer = document.getElementById('mushaf-content-container
 const prevMushafPageBtn = document.getElementById('prev-mushaf-page-btn');
 const nextMushafPageBtn = document.getElementById('next-mushaf-page-btn');
 const mushafPageInfo = document.getElementById('mushaf-page-info');
+const mushafTranslationToggle = document.getElementById('mushaf-translation-toggle');
 
+let currentMushafData = { ayahs: [], translations: [] }; // Store current page data
 let currentWordContext = {}; // Store context for detail explanation
 let currentDeepExplainText = ""; // Store plain markdown text for download/copy
 let chatSessionHistory = []; // Store conversational context for the chat API
@@ -327,6 +329,7 @@ function setupEventListeners() {
     mushafPageSelect.addEventListener('change', (e) => fetchMushafPage(e.target.value));
     prevMushafPageBtn.addEventListener('click', () => changeMushafPage(-1));
     nextMushafPageBtn.addEventListener('click', () => changeMushafPage(1));
+    mushafTranslationToggle.addEventListener('change', () => renderMushafPage());
 }
 
 // --- View Modes ---
@@ -445,14 +448,23 @@ function changeMushafPage(direction) {
 async function fetchMushafPage(pageNumber) {
     showLoading();
     try {
-        const response = await fetch(`${quranApiBaseUrl}/page/${pageNumber}/quran-tajweed`);
-        const data = await response.json();
+        const [tajweedRes, translationRes] = await Promise.all([
+            fetch(`${quranApiBaseUrl}/page/${pageNumber}/quran-tajweed`),
+            fetch(`${quranApiBaseUrl}/page/${pageNumber}/id.indonesian`)
+        ]);
+
+        const tajweedData = await tajweedRes.json();
+        const translationData = await translationRes.json();
 
         // Update info text
         mushafPageInfo.textContent = `Halaman ${pageNumber}`;
 
+        // Save current page data for toggle re-rendering
+        currentMushafData.ayahs = tajweedData.data.ayahs;
+        currentMushafData.translations = translationData.data.ayahs;
+
         // Update select values to match current page's first ayah
-        const firstAyah = data.data.ayahs[0];
+        const firstAyah = tajweedData.data.ayahs[0];
         mushafJuzSelect.value = firstAyah.juz;
         if(mushafSurahSelect.options.length > 0) {
             mushafSurahSelect.value = firstAyah.surah.number;
@@ -460,7 +472,7 @@ async function fetchMushafPage(pageNumber) {
             mushafAyahSelect.value = firstAyah.numberInSurah;
         }
 
-        renderMushafPage(data.data.ayahs);
+        renderMushafPage();
 
         // Update buttons state
         prevMushafPageBtn.disabled = parseInt(pageNumber) === 1;
@@ -473,8 +485,10 @@ async function fetchMushafPage(pageNumber) {
     }
 }
 
-function renderMushafPage(ayahs) {
+function renderMushafPage() {
     mushafContentContainer.innerHTML = '';
+
+    const showTranslation = mushafTranslationToggle.checked;
 
     // The format seems to be: [code[text] or [code:id[text]
     // Regex to match and extract tajweed codes and text
@@ -482,22 +496,28 @@ function renderMushafPage(ayahs) {
 
     let htmlContent = '';
 
-    // We want the text to wrap continuously.
-    ayahs.forEach((ayah, index) => {
+    currentMushafData.ayahs.forEach((ayah, index) => {
         let text = ayah.text;
 
         // Convert tajweed codes to spans with classes
         text = text.replace(regex, '<span class="tajweed-$1">$2</span>');
 
-        // Bismillah handling:
-        // The API might include Bismillah as part of the first ayah.
-        // For Mushaf display, we just render what API gives us.
-        // We add an end-of-ayah marker.
-
         // Convert western arabic numerals to eastern arabic numerals for the ayah number
         const ayahNumAr = ayah.numberInSurah.toString().replace(/\d/g, d => '٠١٢٣٤٥٦٧٨٩'[d]);
 
-        htmlContent += `<span class="mushaf-ayah">${text} <span class="mushaf-end-ayah">۝${ayahNumAr}</span> </span>`;
+        if (showTranslation) {
+            const transText = currentMushafData.translations[index].text;
+            htmlContent += `
+            <div class="mushaf-ayah-block">
+                <span class="mushaf-ayah" style="display: inline-block; width: 100%; text-align: right;">
+                    ${text} <span class="mushaf-end-ayah-block">۝${ayahNumAr}</span>
+                </span>
+                <span class="mushaf-translation-text">${ayah.numberInSurah}. ${transText}</span>
+            </div>`;
+        } else {
+            // Normal continuous rendering
+            htmlContent += `<span class="mushaf-ayah">${text} <span class="mushaf-end-ayah">۝${ayahNumAr}</span> </span>`;
+        }
     });
 
     mushafContentContainer.innerHTML = htmlContent;
