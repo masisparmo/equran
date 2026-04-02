@@ -1035,29 +1035,38 @@ select {
 
     .mushaf-header-controls {
         display: grid;
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: repeat(6, 1fr);
         gap: 10px;
     }
     .mushaf-nav-group {
         justify-content: flex-start;
     }
     .mushaf-nav-group:nth-child(2) {
-        grid-column: span 2; /* Surah takes full width */
-        order: -1; /* Surah appears first */
-    }
-    .mushaf-nav-group:nth-child(1) {
-        order: 0; /* Juz */
-    }
-    .mushaf-nav-group:nth-child(4) {
-        order: 1; /* Halaman */
+        /* Surah */
+        grid-column: span 4;
+        order: 1;
     }
     .mushaf-nav-group:nth-child(3) {
-        order: 2; /* Ayat */
+        /* Ayat */
+        grid-column: span 2;
+        order: 2;
+    }
+    .mushaf-nav-group:nth-child(1) {
+        /* Juz */
+        grid-column: span 2;
+        order: 3;
+    }
+    .mushaf-nav-group:nth-child(4) {
+        /* Halaman */
+        grid-column: span 2;
+        order: 4;
     }
     .mushaf-nav-group.toggle-group {
-        justify-content: flex-start;
+        /* Terjemah */
+        grid-column: span 2;
+        justify-content: center;
         margin-left: 0 !important;
-        order: 3; /* Terjemah next to Ayat */
+        order: 5;
     }
 
     /* Ensure select fields take appropriate width */
