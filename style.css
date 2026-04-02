@@ -1055,11 +1055,9 @@ select {
         order: 2; /* Ayat */
     }
     .mushaf-nav-group.toggle-group {
-        grid-column: span 2;
-        justify-content: center;
+        justify-content: flex-start;
         margin-left: 0 !important;
-        margin-top: 5px;
-        order: 3; /* Terjemah on bottom */
+        order: 3; /* Terjemah next to Ayat */
     }
 
     /* Ensure select fields take appropriate width */
