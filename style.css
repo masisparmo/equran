@@ -821,8 +821,10 @@ select {
     }
     header .controls {
         width: 100%;
+        display: flex;
         justify-content: center;
         flex-wrap: wrap;
+        gap: 15px; /* Added explicit gap to center items evenly */
     }
     header .controls .nav-text {
         display: none;
@@ -1029,5 +1031,40 @@ select {
 @media (max-width: 768px) {
     .mushaf-translation-text {
         font-size: 1rem;
+    }
+
+    .mushaf-header-controls {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 10px;
+    }
+    .mushaf-nav-group {
+        justify-content: flex-start;
+    }
+    .mushaf-nav-group:nth-child(2) {
+        grid-column: span 2; /* Surah takes full width */
+        order: -1; /* Surah appears first */
+    }
+    .mushaf-nav-group:nth-child(1) {
+        order: 0; /* Juz */
+    }
+    .mushaf-nav-group:nth-child(4) {
+        order: 1; /* Halaman */
+    }
+    .mushaf-nav-group:nth-child(3) {
+        order: 2; /* Ayat */
+    }
+    .mushaf-nav-group.toggle-group {
+        grid-column: span 2;
+        justify-content: center;
+        margin-left: 0 !important;
+        margin-top: 5px;
+        order: 3; /* Terjemah on bottom */
+    }
+
+    /* Ensure select fields take appropriate width */
+    .mushaf-nav-group select {
+        flex-grow: 1;
+        width: 100%;
     }
 }
