@@ -1133,3 +1133,25 @@ select {
         padding: 4px 18px 4px 4px !important; /* give space for native dropdown arrow */
     }
 }
+
+.mushaf-word {
+    cursor: pointer;
+    transition: background-color 0.2s, opacity 0.2s;
+    border-radius: 4px;
+}
+
+.mushaf-word:hover {
+    background-color: rgba(26, 115, 232, 0.1);
+}
+
+.mushaf-word.active-word {
+    background-color: rgba(26, 115, 232, 0.2);
+}
+
+[data-theme="dark"] .mushaf-word:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+[data-theme="dark"] .mushaf-word.active-word {
+    background-color: rgba(255, 255, 255, 0.2);
+}

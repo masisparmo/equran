@@ -499,28 +499,76 @@ function renderMushafPage() {
     currentMushafData.ayahs.forEach((ayah, index) => {
         let text = ayah.text;
 
-        // Convert tajweed codes to spans with classes
-        text = text.replace(regex, '<span class="tajweed-$1">$2</span>');
-
         // Convert western arabic numerals to eastern arabic numerals for the ayah number
         const ayahNumAr = ayah.numberInSurah.toString().replace(/\d/g, d => '٠١٢٣٤٥٦٧٨٩'[d]);
+
+        // Remove Hizb/Rub'u marker like in displayAyah
+        text = text.replace(/۞/g, '').trim();
+
+        // Handle Bismillah offset logic identically to Home mode
+        let wordIndexOffset = 0;
+        if (ayah.surah.number !== 1 && ayah.numberInSurah === 1) {
+            // The quran-tajweed api might have Bismillah with tajweed tags.
+            // We need to strip it based on raw text comparison or regex.
+            // Actually, quran-tajweed text starts with "بِسْمِ [h:1[ٱ]للَّهِ [h:2[ٱ][l[ل]رَّحْمَ[n[ـٰ]نِ [h:3[ٱ][l[ل]رَّح[p[ِي]مِ"
+            // We'll replace it.
+            const bismillahTajweed = "بِسْمِ [h:1[ٱ]للَّهِ [h:2[ٱ][l[ل]رَّحْمَ[n[ـٰ]نِ [h:3[ٱ][l[ل]رَّح[p[ِي]مِ";
+            const bismillahTajweedFallback = "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ";
+
+            if (text.startsWith(bismillahTajweed)) {
+                text = text.substring(bismillahTajweed.length).trim();
+            } else if (text.replace(/\[[^\]]+\]/g, '').startsWith(bismillahTajweedFallback)) {
+                // If the tags are slightly different but plain text matches
+                let plainText = text.replace(/\[[^\]]+\]/g, '');
+                if (plainText.startsWith(bismillahTajweedFallback)) {
+                    // Try to extract the substring by counting spaces
+                    let words = text.split(' ');
+                    text = words.slice(4).join(' ').trim();
+                }
+            }
+            wordIndexOffset = 0;
+        }
+
+        // Split text by space (the spaces are outside tajweed tags in the API)
+        const words = text.split(/\s+/).filter(w => w.trim() !== "");
+
+        const tajweedRegex = /\[([a-z]+)(?::\d+)?\[([^\]]+)\]/g;
+
+        // Create HTML for each word
+        let wordsHtml = words.map((w, wIndex) => {
+            let actualWordIndex = wIndex + wordIndexOffset;
+            let htmlW = w.replace(tajweedRegex, '<span class="tajweed-$1">$2</span>');
+            return `<span class="mushaf-word" data-surah="${ayah.surah.number}" data-ayah="${ayah.numberInSurah}" data-index="${actualWordIndex}">${htmlW}</span>`;
+        }).join(' ');
 
         if (showTranslation) {
             const transText = currentMushafData.translations[index].text;
             htmlContent += `
             <div class="mushaf-ayah-block">
                 <span class="mushaf-ayah" style="display: inline-block; width: 100%; text-align: right;">
-                    ${text} <span class="mushaf-end-ayah-block">۝${ayahNumAr}</span>
+                    ${wordsHtml} <span class="mushaf-end-ayah-block">۝${ayahNumAr}</span>
                 </span>
                 <span class="mushaf-translation-text">${ayah.numberInSurah}. ${transText}</span>
             </div>`;
         } else {
             // Normal continuous rendering
-            htmlContent += `<span class="mushaf-ayah">${text} <span class="mushaf-end-ayah">۝${ayahNumAr}</span> </span>`;
+            htmlContent += `<span class="mushaf-ayah">${wordsHtml} <span class="mushaf-end-ayah">۝${ayahNumAr}</span> </span>`;
         }
     });
 
     mushafContentContainer.innerHTML = htmlContent;
+
+    // Attach event listeners to words
+    document.querySelectorAll('.mushaf-word').forEach(span => {
+        span.addEventListener('click', (e) => {
+            const surahNum = parseInt(span.dataset.surah);
+            const ayahNum = parseInt(span.dataset.ayah);
+            const wordIndex = parseInt(span.dataset.index);
+            // Reconstruct plain text to pass to handleWordClick
+            const plainWord = span.textContent;
+            handleWordClick(plainWord, surahNum, ayahNum, wordIndex, span);
+        });
+    });
 }
 
 // --- API Integration (Al-Qur'an Cloud) ---
@@ -713,15 +761,37 @@ function handleWordClick(wordText, surahNum, ayahNum, wordIndex, element) {
     // We let the logic check the database first.
     // The welcome modal will only trigger if the database misses AND there are no keys.
 
+    // In Mushaf mode, currentSurahData might not be loaded if jumped directly.
+    // However, we have currentMushafData which holds the ayahs and translations for the page.
+    let fullAyahAr = "";
+    let fullAyahId = "";
+    let surahName = "Al-Qur'an";
+
+    if (currentSurahData && currentSurahData.number === surahNum && currentAyahsIndo) {
+        const ayahIndex = ayahNum - 1;
+        fullAyahAr = currentSurahData.ayahs[ayahIndex].text;
+        fullAyahId = currentAyahsIndo[ayahIndex].text;
+        surahName = currentSurahData.englishName;
+    } else if (currentMushafData && currentMushafData.ayahs) {
+        const mushafAyahIndex = currentMushafData.ayahs.findIndex(a => a.surah.number === surahNum && a.numberInSurah === ayahNum);
+        if (mushafAyahIndex !== -1) {
+            fullAyahAr = currentMushafData.ayahs[mushafAyahIndex].text;
+            // remove tajweed tags from fullAyahAr for clean passing to AI context
+            fullAyahAr = fullAyahAr.replace(/\[[a-z]+(?::\d+)?\[([^\]]+)\]/g, '$1');
+            fullAyahId = currentMushafData.translations[mushafAyahIndex].text;
+            surahName = currentMushafData.ayahs[mushafAyahIndex].surah.englishName;
+        }
+    }
+
     // Store context for deep explanations
-    const ayahIndex = ayahNum - 1;
     currentWordContext = {
         wordText: wordText,
         surahNum: surahNum,
         ayahNum: ayahNum,
         wordIndex: wordIndex,
-        fullAyahAr: currentSurahData.ayahs[ayahIndex].text,
-        fullAyahId: currentAyahsIndo[ayahIndex].text
+        fullAyahAr: fullAyahAr,
+        fullAyahId: fullAyahId,
+        surahName: surahName
     };
 
     // Prepare modal UI
@@ -794,10 +864,10 @@ async function analyzeWordWithAI(wordText, surahNum, ayahNum, wordIndex, element
 
     // Prepare full Ayah context for Gemini
     const ayahIndex = ayahNum - 1;
-    const fullAyahAr = currentSurahData.ayahs[ayahIndex].text;
-    const fullAyahId = currentAyahsIndo[ayahIndex].text;
+    const fullAyahAr = currentWordContext.fullAyahAr;
+    const fullAyahId = currentWordContext.fullAyahId;
 
-    const aiPrompt = generateAIPrompt(wordText, fullAyahAr, fullAyahId, currentSurahData.englishName, ayahNum);
+    const aiPrompt = generateAIPrompt(wordText, fullAyahAr, fullAyahId, currentWordContext.surahName, ayahNum);
 
     let success = false;
     let attempts = 0;
