@@ -507,14 +507,34 @@ function renderMushafPage() {
 
         // Handle Bismillah offset logic identically to Home mode
         let wordIndexOffset = 0;
-        if (ayah.surah.number !== 1 && ayah.numberInSurah === 1) {
-            const bismillah = "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ";
-            if (text.startsWith(bismillah)) {
+        if (ayah.surah.number !== 1 && ayah.surah.number !== 9 && ayah.numberInSurah === 1) {
+            // Check for various forms of Bismillah to ensure robust removal
+            const bismillahForms = [
+                "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ",
+                "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+                "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ"
+            ];
+
+            let bismillahToRemove = "";
+            for (const form of bismillahForms) {
+                if (text.startsWith(form)) {
+                    bismillahToRemove = form;
+                    break;
+                }
+            }
+
+            if (bismillahToRemove) {
                 // Remove Bismillah from display text
-                text = text.substring(bismillah.length).trim();
+                text = text.substring(bismillahToRemove.length).trim();
                 // However, since the text in the db still includes Bismillah, we must offset the index
                 // Oh wait! The backend expects index 0 for the first word AFTER bismillah.
                 // So wordIndexOffset = 0 is correct, we just drop the first 4 words.
+            } else if (text.startsWith("بِسْمِ")) {
+                // Fallback, if there's a slight mismatch but starts with Bismillah, let's remove the first 4 words
+                const bismWords = text.split(/\s+/).filter(w => w.trim() !== "");
+                if (bismWords.length > 4) {
+                    text = bismWords.slice(4).join(" ");
+                }
             }
             wordIndexOffset = 0;
         }
@@ -681,8 +701,8 @@ function displayAyah(ayahNumberInSurah) {
 
     let wordIndexOffset = 0; // We now keep this as 0 per user instruction
 
-    // Remove "Bismillah" from Surah other than Al-Fatihah (Surah 1) for Ayah 1
-    if (currentSurahData.number !== 1 && ayahNumberInSurah === 1) {
+    // Remove "Bismillah" from Surah other than Al-Fatihah (Surah 1) and At-Taubah (Surah 9) for Ayah 1
+    if (currentSurahData.number !== 1 && currentSurahData.number !== 9 && ayahNumberInSurah === 1) {
         const bismillahStr = "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ ";
         if (textAr.startsWith(bismillahStr)) {
             textAr = textAr.substring(bismillahStr.length).trim();
