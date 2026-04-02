@@ -1114,3 +1114,22 @@ select {
         font-size: 0.85rem;
     }
 }
+
+@media (max-width: 768px) {
+    #mushaf-juz-select, #mushaf-page-select {
+        min-width: 0 !important;
+        width: 100% !important;
+        max-width: 45px !important;
+        padding: 4px 2px !important;
+    }
+    .mushaf-nav-group {
+        gap: 5px;
+    }
+}
+
+@media (max-width: 768px) {
+    #mushaf-juz-select, #mushaf-page-select {
+        max-width: 55px !important;
+        padding: 4px 18px 4px 4px !important; /* give space for native dropdown arrow */
+    }
+}
