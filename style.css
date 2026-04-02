@@ -1075,3 +1075,42 @@ select {
         width: 100%;
     }
 }
+
+
+@media (max-width: 768px) {
+    .mushaf-ayah-label {
+        display: none;
+    }
+    .mushaf-nav-group:nth-child(2) {
+        /* Surah */
+        grid-column: span 4;
+    }
+    .mushaf-nav-group:nth-child(3) {
+        /* Ayat */
+        grid-column: span 2;
+    }
+
+    #mushaf-juz-select, #mushaf-page-select {
+        width: 50px !important;
+        flex-grow: 0 !important;
+    }
+}
+
+@media (max-width: 768px) {
+    #mushaf-juz-select, #mushaf-page-select {
+        width: 45px !important;
+        padding: 4px;
+    }
+
+    .mushaf-nav-group:nth-child(5) {
+        /* Terjemah Toggle */
+        grid-column: span 2;
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    .mushaf-nav-group:nth-child(5) label {
+        white-space: nowrap;
+        font-size: 0.85rem;
+    }
+}
