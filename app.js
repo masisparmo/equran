@@ -6,6 +6,7 @@ let currentApiKeyIndex = 0;
 
 // DOM Elements
 const homeBtn = document.getElementById('home-btn');
+const mushafBtn = document.getElementById('mushaf-btn');
 const aboutBtn = document.getElementById('about-btn');
 const aboutModal = document.getElementById('about-modal');
 const closeAboutModalBtn = document.getElementById('close-about-modal');
@@ -51,6 +52,17 @@ const sendChatBtn = document.getElementById('send-chat-btn');
 const newChatBtn = document.getElementById('new-chat-btn');
 const copyChatBtn = document.getElementById('copy-chat-btn');
 const downloadChatBtn = document.getElementById('download-chat-btn');
+
+// Mushaf Elements
+const mushafDisplay = document.getElementById('mushaf-display');
+const mushafJuzSelect = document.getElementById('mushaf-juz-select');
+const mushafSurahSelect = document.getElementById('mushaf-surah-select');
+const mushafAyahSelect = document.getElementById('mushaf-ayah-select');
+const mushafPageSelect = document.getElementById('mushaf-page-select');
+const mushafContentContainer = document.getElementById('mushaf-content-container');
+const prevMushafPageBtn = document.getElementById('prev-mushaf-page-btn');
+const nextMushafPageBtn = document.getElementById('next-mushaf-page-btn');
+const mushafPageInfo = document.getElementById('mushaf-page-info');
 
 let currentWordContext = {}; // Store context for detail explanation
 let currentDeepExplainText = ""; // Store plain markdown text for download/copy
@@ -140,6 +152,11 @@ function setupEventListeners() {
         closeModal(welcomeModal);
         closeModal(aboutModal);
         closeModal(helpModal);
+        switchMode('home');
+    });
+
+    mushafBtn.addEventListener('click', () => {
+        switchMode('mushaf');
     });
 
     aboutBtn.addEventListener('click', () => {
@@ -302,6 +319,188 @@ function setupEventListeners() {
     audioPlayer.addEventListener('ended', () => {
         playBtn.innerHTML = '<i class="fas fa-play"></i>';
     });
+
+    // Mushaf Listeners
+    mushafJuzSelect.addEventListener('change', (e) => loadMushafByJuz(e.target.value));
+    mushafSurahSelect.addEventListener('change', (e) => loadMushafBySurah(e.target.value));
+    mushafAyahSelect.addEventListener('change', (e) => loadMushafByAyah(mushafSurahSelect.value, e.target.value));
+    mushafPageSelect.addEventListener('change', (e) => fetchMushafPage(e.target.value));
+    prevMushafPageBtn.addEventListener('click', () => changeMushafPage(-1));
+    nextMushafPageBtn.addEventListener('click', () => changeMushafPage(1));
+}
+
+// --- View Modes ---
+function switchMode(mode) {
+    const homeSection = document.querySelector('.navigation.card');
+    const introSection = document.getElementById('intro-card');
+    const quranDisplay = document.getElementById('quran-display');
+
+    if (mode === 'home') {
+        homeSection.style.display = 'flex';
+        introSection.style.display = 'block';
+        if (document.getElementById('surah-select').value) {
+            quranDisplay.style.display = 'block';
+        }
+        mushafDisplay.style.display = 'none';
+    } else if (mode === 'mushaf') {
+        homeSection.style.display = 'none';
+        introSection.style.display = 'none';
+        quranDisplay.style.display = 'none';
+        mushafDisplay.style.display = 'block';
+
+        if (mushafPageSelect.options.length === 0) {
+            initMushafNav();
+            fetchMushafPage(1); // Load default page 1
+        }
+    }
+}
+
+// --- Mushaf Navigation Logic ---
+function initMushafNav() {
+    // Populate Juz
+    mushafJuzSelect.innerHTML = '';
+    for(let i=1; i<=30; i++) {
+        mushafJuzSelect.appendChild(new Option(i, i));
+    }
+    // Populate Page
+    mushafPageSelect.innerHTML = '';
+    for(let i=1; i<=604; i++) {
+        mushafPageSelect.appendChild(new Option(i, i));
+    }
+    // Populate Surah
+    mushafSurahSelect.innerHTML = '<option value="">Memuat...</option>';
+    if (surahsData.length > 0) {
+        populateMushafSurahSelect();
+    } else {
+        // We will populate it once surahs are fetched
+        fetchSurahs().then(() => populateMushafSurahSelect());
+    }
+}
+
+function populateMushafSurahSelect() {
+    mushafSurahSelect.innerHTML = '';
+    surahsData.forEach(surah => {
+        mushafSurahSelect.appendChild(new Option(`${surah.number}. ${surah.englishName}`, surah.number));
+    });
+    // Auto populate Ayah for Surah 1
+    populateMushafAyahSelect(1);
+}
+
+function populateMushafAyahSelect(surahNumber) {
+    const surah = surahsData.find(s => s.number == surahNumber);
+    if (!surah) return;
+    mushafAyahSelect.innerHTML = '';
+    for(let i=1; i<=surah.numberOfAyahs; i++) {
+        mushafAyahSelect.appendChild(new Option(i, i));
+    }
+}
+
+async function loadMushafByJuz(juz) {
+    // We need to know which page a Juz starts on.
+    // The easiest way is to hit the Juz API and get the first ayah's page.
+    showLoading();
+    try {
+        const response = await fetch(`${quranApiBaseUrl}/juz/${juz}/en.asad`);
+        const data = await response.json();
+        const page = data.data.ayahs[0].page;
+        mushafPageSelect.value = page;
+        fetchMushafPage(page);
+    } catch(e) {
+        console.error(e);
+    } finally {
+        hideLoading();
+    }
+}
+
+async function loadMushafBySurah(surah) {
+    populateMushafAyahSelect(surah);
+    loadMushafByAyah(surah, 1);
+}
+
+async function loadMushafByAyah(surah, ayah) {
+    // Get the page of this specific ayah
+    showLoading();
+    try {
+        const response = await fetch(`${quranApiBaseUrl}/ayah/${surah}:${ayah}`);
+        const data = await response.json();
+        const page = data.data.page;
+        mushafPageSelect.value = page;
+        fetchMushafPage(page);
+    } catch(e) {
+        console.error(e);
+    } finally {
+        hideLoading();
+    }
+}
+
+function changeMushafPage(direction) {
+    const currentPage = parseInt(mushafPageSelect.value);
+    const newPage = currentPage + direction;
+    if(newPage >= 1 && newPage <= 604) {
+        mushafPageSelect.value = newPage;
+        fetchMushafPage(newPage);
+    }
+}
+
+async function fetchMushafPage(pageNumber) {
+    showLoading();
+    try {
+        const response = await fetch(`${quranApiBaseUrl}/page/${pageNumber}/quran-tajweed`);
+        const data = await response.json();
+
+        // Update info text
+        mushafPageInfo.textContent = `Halaman ${pageNumber}`;
+
+        // Update select values to match current page's first ayah
+        const firstAyah = data.data.ayahs[0];
+        mushafJuzSelect.value = firstAyah.juz;
+        if(mushafSurahSelect.options.length > 0) {
+            mushafSurahSelect.value = firstAyah.surah.number;
+            populateMushafAyahSelect(firstAyah.surah.number);
+            mushafAyahSelect.value = firstAyah.numberInSurah;
+        }
+
+        renderMushafPage(data.data.ayahs);
+
+        // Update buttons state
+        prevMushafPageBtn.disabled = parseInt(pageNumber) === 1;
+        nextMushafPageBtn.disabled = parseInt(pageNumber) === 604;
+    } catch (error) {
+        console.error("Error fetching mushaf page:", error);
+        mushafContentContainer.innerHTML = '<p>Gagal memuat halaman Mushaf.</p>';
+    } finally {
+        hideLoading();
+    }
+}
+
+function renderMushafPage(ayahs) {
+    mushafContentContainer.innerHTML = '';
+
+    // The format seems to be: [code[text] or [code:id[text]
+    // Regex to match and extract tajweed codes and text
+    const regex = /\[([a-z]+)(?::\d+)?\[([^\]]+)\]/g;
+
+    let htmlContent = '';
+
+    // We want the text to wrap continuously.
+    ayahs.forEach((ayah, index) => {
+        let text = ayah.text;
+
+        // Convert tajweed codes to spans with classes
+        text = text.replace(regex, '<span class="tajweed-$1">$2</span>');
+
+        // Bismillah handling:
+        // The API might include Bismillah as part of the first ayah.
+        // For Mushaf display, we just render what API gives us.
+        // We add an end-of-ayah marker.
+
+        // Convert western arabic numerals to eastern arabic numerals for the ayah number
+        const ayahNumAr = ayah.numberInSurah.toString().replace(/\d/g, d => '٠١٢٣٤٥٦٧٨٩'[d]);
+
+        htmlContent += `<span class="mushaf-ayah">${text} <span class="mushaf-end-ayah">۝${ayahNumAr}</span> </span>`;
+    });
+
+    mushafContentContainer.innerHTML = htmlContent;
 }
 
 // --- API Integration (Al-Qur'an Cloud) ---

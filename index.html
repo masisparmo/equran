@@ -29,6 +29,7 @@
         </div>
         <div class="controls">
             <button id="home-btn" title="Kembali ke Beranda"><i class="fas fa-home"></i> <span class="nav-text">Home</span></button>
+            <button id="mushaf-btn" title="Mode Mushaf Madinah"><i class="fas fa-quran"></i> <span class="nav-text">Mushaf</span></button>
             <button id="help-btn" title="Panduan Nahwu & Sharaf"><i class="fas fa-book"></i> <span class="nav-text">Help</span></button>
             <button id="about-btn" title="Tentang Aplikasi"><i class="fas fa-info-circle"></i> <span class="nav-text">About</span></button>
             <button id="theme-toggle" title="Toggle Dark/Light Mode"><i class="fas fa-moon"></i></button>
@@ -94,6 +95,38 @@
         <div id="loading-indicator" class="loading" style="display: none;">
             <i class="fas fa-spinner fa-spin"></i> Memuat data...
         </div>
+
+        <!-- Mushaf Display Area -->
+        <section id="mushaf-display" class="card" style="display: none;">
+            <div class="mushaf-header-controls">
+                <div class="mushaf-nav-group">
+                    <label for="mushaf-juz-select">Juz:</label>
+                    <select id="mushaf-juz-select"></select>
+                </div>
+                <div class="mushaf-nav-group">
+                    <label for="mushaf-surah-select">Surah:</label>
+                    <select id="mushaf-surah-select"></select>
+                </div>
+                <div class="mushaf-nav-group">
+                    <label for="mushaf-ayah-select">Ayat:</label>
+                    <select id="mushaf-ayah-select"></select>
+                </div>
+                <div class="mushaf-nav-group">
+                    <label for="mushaf-page-select">Hal:</label>
+                    <select id="mushaf-page-select"></select>
+                </div>
+            </div>
+
+            <div id="mushaf-content-container" class="mushaf-content-container" dir="rtl">
+                <!-- Mushaf page content will be injected here -->
+            </div>
+
+            <div class="mushaf-nav-buttons">
+                <button id="next-mushaf-page-btn"><i class="fas fa-chevron-left"></i> Hal Berikutnya</button>
+                <span id="mushaf-page-info">Halaman 1</span>
+                <button id="prev-mushaf-page-btn">Hal Sebelumnya <i class="fas fa-chevron-right"></i></button>
+            </div>
+        </section>
 
     </main>
 
