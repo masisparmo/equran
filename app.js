@@ -1146,7 +1146,7 @@ function saveToCommunityDatabase(surahNum, ayahNum, wordIndex, wordText, aiResul
 }
 
 async function callGeminiAPI(apiKey, prompt) {
-    const endpoint = `https://generativelanguage.googleapis.com/v1alpha/models/gemini-3-flash-preview:generateContent?key=${apiKey}`;
+    const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent?key=${apiKey}`;
 
     const requestBody = {
         contents: [{
@@ -1204,7 +1204,7 @@ async function callGroqAPI(apiKey, prompt) {
 }
 
 async function callGeminiAPIText(apiKey, prompt) {
-    const endpoint = `https://generativelanguage.googleapis.com/v1alpha/models/gemini-3-flash-preview:generateContent?key=${apiKey}`;
+    const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent?key=${apiKey}`;
 
     const requestBody = {
         contents: [{
@@ -1634,7 +1634,7 @@ async function sendChatMessage() {
 
         while (!success && geminiAttempts < maxGeminiAttempts) {
             const apiKey = apiKeys[currentApiKeyIndex];
-            const url = `https://generativelanguage.googleapis.com/v1alpha/models/gemini-3-flash-preview:generateContent?key=${apiKey}`;
+            const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent?key=${apiKey}`;
 
             try {
                 const response = await fetch(url, {
