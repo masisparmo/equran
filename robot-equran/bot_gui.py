@@ -339,11 +339,13 @@ class PlaywrightWorker(QThread):
                         for result in ai_results:
                             word_idx = result.get('index')
                             word_text = result.get('word', '')
-                            analysis_md = result.get('analysis', '')
+                            analysis_json_obj = result.get('analysis_json', {})
 
-                            if word_idx is not None and analysis_md:
+                            if word_idx is not None and analysis_json_obj:
+                                import json
+                                analysis_str = json.dumps(analysis_json_obj)
                                 self.log_updated.emit(f"🔄 Mengirim data kata '{word_text}' (index {word_idx}) ke GAS...")
-                                success = self.send_to_gas(self.surah, self.ayah, word_idx, analysis_md)
+                                success = self.send_to_gas(self.surah, self.ayah, word_idx, analysis_str)
                                 if success:
                                     self.log_updated.emit(f"✔️ Analisis kata '{word_text}' sukses dikirim ke GAS.")
                                     self.word_completed.emit(self.surah, self.ayah, word_idx)
@@ -374,7 +376,7 @@ class PlaywrightWorker(QThread):
         # Build prompt
         words_list_str = "\n".join([f"- Index {w['index']}: {w['word']}" for w in words_batch])
         prompt = f"""
-Anda adalah seorang ahli bahasa Arab dan pakar Tafsir Al-Qur'an.
+Anda adalah seorang ahli bahasa Arab dan pakar Tafsir Al-Qur'an untuk pemula.
 Saya memiliki beberapa kata dari Surah {self.surah}, Ayat {self.ayah}.
 Terjemahan ayat ini adalah: "{translation}"
 
@@ -382,13 +384,19 @@ Tolong analisis kata-kata berikut secara berurutan:
 {words_list_str}
 
 Untuk setiap kata, berikan hasil analisis dalam format JSON array yang valid.
-Struktur setiap objek dalam array HARUS seperti ini:
+Struktur setiap objek dalam array HARUS BENAR-BENAR SEPERTI INI:
 {{
   "index": (integer, index kata sesuai yang saya berikan),
   "word": "(string, teks Arab kata tersebut)",
-  "analysis": "(string, narasi penjelasan analisis tata bahasa, sharaf, nahwu, i'rab, dan makna yang cocok untuk pemula, menggunakan bahasa Indonesia yang baik, gunakan format markdown untuk emphasis/bold)"
+  "analysis_json": {{
+    "identitas_kata": "(string, misal: Isim/Fi'il/Huruf, jenisnya, dll)",
+    "analisis_sharaf": "(string, akar kata, wazan, bentuk kata)",
+    "analisis_nahwu": "(string, kedudukan kata dalam kalimat, i'rab, tanda i'rab)",
+    "kesimpulan_makna": "(string, makna kata dan hikmahnya)"
+  }}
 }}
 
+PENTING: Pastikan semua teks penjelasan di dalam object "analysis_json" menggunakan format markdown dan berbahasa Indonesia yang mudah dipahami.
 Kembalikan HANYA JSON array yang valid, tanpa tambahan teks apapun di awal atau akhir, agar bisa langsung diparsing oleh program.
 """
         max_retries = len(self.api_keys)
@@ -448,7 +456,7 @@ Kembalikan HANYA JSON array yang valid, tanpa tambahan teks apapun di awal atau 
         self.log_updated.emit("❌ [Fatal] Semua API Key gagal atau limit terlampaui.")
         return None
 
-    def send_to_gas(self, surah, ayah, word_index, analysis_markdown):
+    def send_to_gas(self, surah, ayah, word_index, analysis_json_string):
         # The specific endpoint is inferred from the app structure. It requires form-urlencoded data.
         # This mirrors the fetch call in the main web app
         gas_url = "https://script.google.com/macros/s/AKfycbw63-L0D5aD9K_P3R-b5tHh87J2J3l_lS_7s72O4R2P1V6_xZ4sU2N_w1Q7A-K5j6-Z/exec"
@@ -457,7 +465,7 @@ Kembalikan HANYA JSON array yang valid, tanpa tambahan teks apapun di awal atau 
             "surah": surah,
             "ayah": ayah,
             "wordIndex": word_index,
-            "analysis": analysis_markdown,
+            "analisis": analysis_json_string,
             "version": "1.0",
             "source": "PythonRobotBatch"
         }
