@@ -1167,7 +1167,8 @@ async function callGeminiAPI(apiKey, prompt) {
     });
 
     if (!response.ok) {
-        throw new Error(`API Error: ${response.status}`);
+        const errorText = await response.text();
+        throw new Error(`API Error: ${response.status} - ${errorText}`);
     }
 
     const data = await response.json();
@@ -1178,7 +1179,7 @@ async function callGroqAPI(apiKey, prompt) {
     const endpoint = `https://api.groq.com/openai/v1/chat/completions`;
 
     const requestBody = {
-        model: "llama3-8b-8192",
+        model: "openai/gpt-oss-120b",
         messages: [{
             role: "user",
             content: prompt
@@ -1196,7 +1197,8 @@ async function callGroqAPI(apiKey, prompt) {
     });
 
     if (!response.ok) {
-        throw new Error(`Groq API Error: ${response.status}`);
+        const errorText = await response.text();
+        throw new Error(`Groq API Error: ${response.status} - ${errorText}`);
     }
 
     const data = await response.json();
@@ -1225,7 +1227,8 @@ async function callGeminiAPIText(apiKey, prompt) {
     });
 
     if (!response.ok) {
-        throw new Error(`API Error: ${response.status}`);
+        const errorText = await response.text();
+        throw new Error(`API Error: ${response.status} - ${errorText}`);
     }
 
     const data = await response.json();
@@ -1237,7 +1240,7 @@ async function callGroqAPIText(apiKey, prompt) {
     const endpoint = `https://api.groq.com/openai/v1/chat/completions`;
 
     const requestBody = {
-        model: "llama3-8b-8192",
+        model: "openai/gpt-oss-120b",
         messages: [{
             role: "user",
             content: prompt
@@ -1255,7 +1258,8 @@ async function callGroqAPIText(apiKey, prompt) {
     });
 
     if (!response.ok) {
-        throw new Error(`Groq API Error: ${response.status}`);
+        const errorText = await response.text();
+        throw new Error(`Groq API Error: ${response.status} - ${errorText}`);
     }
 
     const data = await response.json();
@@ -1680,7 +1684,7 @@ async function sendChatMessage() {
             content: msg.parts[0].text
         }));
 
-        groqHistory.push({ role: "user", content: userMessage });
+        // Removed groqHistory.push since chatSessionHistory already contains the userMessage
 
         let groqAttempts = 0;
         const maxGroqAttempts = groqApiKeys.length;
@@ -1690,7 +1694,7 @@ async function sendChatMessage() {
             const endpoint = `https://api.groq.com/openai/v1/chat/completions`;
 
             const requestBody = {
-                model: "llama3-8b-8192",
+                model: "openai/gpt-oss-120b",
                 messages: groqHistory,
                 temperature: 0.3
             };
