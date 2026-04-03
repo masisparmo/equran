@@ -2,9 +2,7 @@ name: Build Robot EXE
 
 on:
   push:
-    branches: [ main ]
-    paths:
-      - 'robot-equran/**'
+    branches: [ '**' ]
   workflow_dispatch:
 
 jobs:
@@ -27,10 +25,10 @@ jobs:
     - name: Build EXE with PyInstaller
       run: |
         cd robot-equran
-        pyinstaller --noconfirm --onedir --windowed --icon "app_icon.ico" --name "Robot_E_Quran" --add-data "app_icon.png;."  "bot_gui.py"
+        pyinstaller --noconfirm --onefile --windowed --icon "app_icon.ico" --name "Robot_E_Quran" --add-data "app_icon.png;."  "bot_gui.py"
 
     - name: Upload Artifact
       uses: actions/upload-artifact@v4
       with:
         name: Robot_E_Quran_Windows
-        path: robot-equran/dist/Robot_E_Quran/
+        path: robot-equran/dist/Robot_E_Quran.exe

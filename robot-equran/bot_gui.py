@@ -119,54 +119,29 @@ class PlaywrightWorker(QThread):
         try:
             with sync_playwright() as p:
                 self.status_updated.emit("Meluncurkan Browser...")
-                self.log_updated.emit("🌐 Membuka browser (Chromium)...")
-                browser = p.chromium.launch(
-                    headless=self.headless,
-                    args=['--ignore-certificate-errors']
-                )
+                self.log_updated.emit("🌐 Membuka browser bawaan OS (Edge/Chrome)...")
+                try:
+                    # Try using Edge first (default on Windows)
+                    browser = p.chromium.launch(
+                        headless=self.headless,
+                        channel="msedge",
+                        args=['--ignore-certificate-errors']
+                    )
+                except Exception as e:
+                    try:
+                        # Fallback to Chrome
+                        browser = p.chromium.launch(
+                            headless=self.headless,
+                            channel="chrome",
+                            args=['--ignore-certificate-errors']
+                        )
+                    except Exception as e2:
+                        self.error_occurred.emit(f"Gagal membuka browser bawaan. Pastikan Microsoft Edge atau Google Chrome terinstall.\n{e2}")
+                        self.finished_task.emit()
+                        return
+
                 context = browser.new_context(ignore_https_errors=True)
                 page = context.new_page()
-
-                # Listener Google Sheet & Error Detection
-                def on_response(response):
-                    self.handle_response(response)
-                    if "generativelanguage.googleapis.com" in response.url:
-                        # Extract key from query param if possible for logging
-                        from urllib.parse import urlparse, parse_qs
-                        parsed = urlparse(response.url)
-                        api_key_used = parse_qs(parsed.query).get('key', [''])[0]
-                        masked_key = (api_key_used[:4] + "..." + api_key_used[-4:]) if len(api_key_used) > 8 else "Unknown"
-
-                        if response.status == 429:
-                            self.log_updated.emit(f"⚠️ [QUOTA] Limit Key {masked_key} terlampaui (429).")
-                        elif response.status >= 400:
-                            try:
-                                err_data = response.json()
-                                reason = err_data.get('error', {}).get('message', 'Unknown Error')
-                                self.log_updated.emit(f"❌ [API Error] {response.status} (Key {masked_key}): {reason}")
-                            except:
-                                self.log_updated.emit(f"❌ [API Error] Status {response.status} (Key {masked_key})")
-
-                page.on("response", on_response)
-
-                # Hotfix: Intercept old/wrong models and redirect to Gemini 3 Flash Preview
-                def handle_route(route):
-                    url = route.request.url
-                    # Pattern for any old gemini version
-                    if "/models/gemini-" in url and "gemini-3-flash-preview" not in url:
-                        new_url = url
-                        for old in ["gemini-1.5-flash", "gemini-2.0-flash", "gemini-2.5-flash"]:
-                            new_url = new_url.replace(old, "gemini-3-flash-preview")
-
-                        if new_url != url:
-                            self.log_updated.emit(f"🔄 [Hotfix] Mengalihkan request model ke gemini-3-flash-preview...")
-                            route.continue_(url=new_url)
-                        else:
-                            route.continue_()
-                    else:
-                        route.continue_()
-
-                page.route("**/models/gemini-*", handle_route)
 
                 self.status_updated.emit("Membuka equran.isparmo.com via HTTP...")
                 page.goto("http://equran.isparmo.com/", wait_until="domcontentloaded")
