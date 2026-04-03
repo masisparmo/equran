@@ -1018,9 +1018,9 @@ async function analyzeWordWithAI(wordText, surahNum, ayahNum, wordIndex, element
 // Function to save newly generated AI data back to Google Sheets
 function saveToCommunityDatabase(surahNum, ayahNum, wordIndex, wordText, aiResult) {
     const payload = {
-        surah: surahNum,
-        ayah: ayahNum,
-        wordIndex: wordIndex,
+        surah: Number(surahNum),
+        ayah: Number(ayahNum),
+        wordIndex: Number(wordIndex),
         kata_arab: wordText,
         analisis: aiResult
     };
