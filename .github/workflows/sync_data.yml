@@ -2,7 +2,7 @@ name: Sinkronisasi Data GAS ke GitHub JSON
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Menjalankan otomatis setiap jam 12 malam
+    - cron: '0 17 * * *' # Menjalankan otomatis setiap jam 12 malam (WIB / UTC+7)
   workflow_dispatch: # Memungkinkan jalankan manual via GitHub UI
 
 jobs:
