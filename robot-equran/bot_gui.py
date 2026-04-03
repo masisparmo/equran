@@ -57,7 +57,11 @@ class PlaywrightWorker(QThread):
         self.ayah = ayah
         self.target_word = target_word  # 'all' or start index integer
         self.total_app_words = total_app_words # From the API text we know approx size
-        self.api_keys = [k.strip() for k in api_key.split(',') if k.strip()]
+        # Parse comma-separated api keys
+        if api_key and isinstance(api_key, str):
+            self.api_keys = [k.strip() for k in api_key.split(',') if k.strip()]
+        else:
+            self.api_keys = []
         self.current_key_idx = 0
         self.headless = headless
 
@@ -115,9 +119,8 @@ class PlaywrightWorker(QThread):
         try:
             with sync_playwright() as p:
                 self.status_updated.emit("Meluncurkan Browser...")
-                self.log_updated.emit("🌐 Membuka browser (Microsoft Edge)...")
+                self.log_updated.emit("🌐 Membuka browser (Chromium)...")
                 browser = p.chromium.launch(
-                    channel="msedge",
                     headless=self.headless,
                     args=['--ignore-certificate-errors']
                 )
@@ -176,9 +179,18 @@ class PlaywrightWorker(QThread):
                     return
 
                 # Handle Welcome Modal (No API key injected into UI in Jalur 1)
-                if page.locator("#welcome-modal").is_visible():
-                    page.click("#close-welcome-modal")
-                    self.log_updated.emit("🔑 Modal API Key di-close. Robot (Python) akan menggunakan API Key secara mandiri.")
+                welcome_locator = page.locator("#welcome-modal")
+                try:
+                    if welcome_locator.is_visible(timeout=5000):
+                        try:
+                            page.click("#close-welcome-modal", timeout=3000)
+                            self.log_updated.emit("🔑 Modal API Key di-close. Robot (Python) akan menggunakan API Key secara mandiri.")
+                        except:
+                            # If click fails (e.g. element not interactable or ID changed), try force hide
+                            page.evaluate("document.getElementById('welcome-modal').style.display = 'none';")
+                            self.log_updated.emit("🔑 Modal API Key di-hide via JS.")
+                except:
+                    pass
 
                 self.block_if_paused()
                 if not self.is_running:
@@ -227,7 +239,7 @@ class PlaywrightWorker(QThread):
                     let words = document.querySelectorAll('#arabic-container span.word');
 
                     // Menghilangkan Bismillah (4 kata pertama) untuk ayat 1 (kecuali Alfatihah & At-Taubah)
-                    if ({strip_bismillah}) {{
+                    if ({strip_bismillah} && words.length > 4) {{
                         for (let k = 0; k < 4; k++) {{
                             if (words.length > 0) {{
                                 words[0].parentNode.removeChild(words[0]);
@@ -254,10 +266,13 @@ class PlaywrightWorker(QThread):
                     return words.length;
                 }}
                 """
+
+                # Give the page a tiny bit more time before evaluating
+                page.wait_for_timeout(2000)
                 total_web_words = page.evaluate(inject_js)
 
                 if total_web_words == 0:
-                    self.error_occurred.emit("Tidak ada kata ditemukan di browser.")
+                    self.error_occurred.emit("Tidak ada kata ditemukan di browser. Coba periksa apakah loading web apps lambat.")
                     browser.close()
                     self.finished_task.emit()
                     return
@@ -279,7 +294,12 @@ class PlaywrightWorker(QThread):
                 self.log_updated.emit(f"🚀 Memulai ekstraksi dari index {start_index} sampai {total_web_words-1}. Total diproses: {len(target_indices)}")
 
                 # Get context translations
-                indo_translation = page.locator("#translation-container p").inner_text()
+                indo_translation = ""
+                try:
+                    if page.locator("#translation-container").is_visible(timeout=5000):
+                        indo_translation = page.locator("#translation-container").inner_text()
+                except Exception as e:
+                    self.log_updated.emit(f"⚠️ Terjemahan tidak ditemukan.")
 
                 # Retrieve word texts from the DOM using page.evaluate to ensure we get the text after DOM changes
                 word_texts = page.evaluate("""
@@ -341,7 +361,9 @@ class PlaywrightWorker(QThread):
                 self.finished_task.emit()
 
         except Exception as e:
-            self.error_occurred.emit(str(e))
+            import traceback
+            err_trace = ''.join(traceback.format_exception(type(e), e, e.__traceback__))
+            self.error_occurred.emit(f"{str(e)}\n{err_trace}")
             self.finished_task.emit()
 
     def process_batch_with_ai(self, words_batch, translation):
@@ -665,7 +687,8 @@ class MainWindow(QMainWindow):
 
         # Remove Bismillah if Surah != 1 and Surah != 9 and Ayah == 1
         if surah_num != 1 and surah_num != 9 and ayah_num == 1:
-            words = words[4:]
+            if len(words) > 4:
+                words = words[4:]
 
         # Build HTML for viewer
         html = "<div dir='rtl' style='text-align: right; line-height: 2.5;'>"
