@@ -74,6 +74,7 @@ let chatSessionHistory = []; // Store conversational context for the chat API
 // --- API Variables ---
 const quranApiBaseUrl = 'https://api.alquran.cloud/v1';
 const gasBackendUrl = 'https://script.google.com/macros/s/AKfycbz6LH6bOoAYpzqtS91sn-g_ZHH-WJZvg_1eK4lBg4Vqvly9iTe8SPIxMSRQ-5Ox4vt6SA/exec';
+const githubDataUrl = 'https://equran.isparmo.com/equran-data';
 let surahsData = [];
 let currentSurahData = null; // Store fetched data for current surah
 let currentAyahsIndo = null; // Store translations
@@ -178,15 +179,7 @@ function setupEventListeners() {
 
     // Welcome Modal
     const welcomeSetupBtn = document.getElementById('welcome-setup-btn');
-    const welcomeSkipBtn = document.getElementById('welcome-skip-btn');
-    const closeWelcomeModalBtn = document.getElementById('close-welcome-modal');
-
-    if (closeWelcomeModalBtn) {
-        closeWelcomeModalBtn.addEventListener('click', () => {
-            sessionStorage.setItem('welcome_dismissed', 'true');
-            closeModal(welcomeModal);
-        });
-    }
+    const welcomeSkipBtn = document.getElementById('close-welcome-btn');
 
     if (welcomeSkipBtn) {
         welcomeSkipBtn.addEventListener('click', () => {
@@ -915,6 +908,7 @@ function handleWordClick(wordText, surahNum, ayahNum, wordIndex, element) {
 // --- AI Logic, Backend, & Caching ---
 async function analyzeWordWithAI(wordText, surahNum, ayahNum, wordIndex, element) {
     const cacheKey = `quran_ai_v3_${surahNum}_${ayahNum}_${wordIndex}`;
+    const ayahCacheKey = `quran_ayah_json_${surahNum}_${ayahNum}`;
 
     // 1. Check IndexedDB First (Fastest & Largest Storage)
     try {
@@ -928,10 +922,42 @@ async function analyzeWordWithAI(wordText, surahNum, ayahNum, wordIndex, element
         console.warn("Failed to read from IndexedDB:", err);
     }
 
+    // 2. Check GitHub JSON (Static Content Delivery)
+    // We try to fetch the whole ayah JSON because it contains all words
+    try {
+        let ayahData = await localforage.getItem(ayahCacheKey);
+
+        if (!ayahData) {
+            const githubUrl = `${githubDataUrl}/surah/${surahNum}/${ayahNum}.json`;
+            const ghResponse = await fetch(githubUrl);
+            if (ghResponse.ok) {
+                ayahData = await ghResponse.json();
+                // Cache the whole ayah for subsequent word clicks in the same ayah
+                await localforage.setItem(ayahCacheKey, ayahData);
+            }
+        }
+
+        if (ayahData && ayahData.words) {
+            // Find the word by index. User uses 1-based index in their example,
+            // but let's be flexible.
+            const wordData = ayahData.words.find(w => w.index == wordIndex || w.index == (wordIndex + 1));
+            if (wordData) {
+                // Save this specific word to individual cache for consistency
+                await localforage.setItem(cacheKey, wordData);
+                displayWordDetails(wordData);
+                updateWordElementRole(element, wordData.role);
+                console.log("Data retrieved from GitHub Static CDN!");
+                return;
+            }
+        }
+    } catch (e) {
+        console.warn("GitHub JSON not available or error:", e);
+    }
+
     // Prepare to hit external sources
     const idKata = `s${surahNum}_a${ayahNum}_w${wordIndex}`;
 
-    // 2. Check the Google Sheets Backend (Crowdsourced DB)
+    // 3. Check the Google Sheets Backend (Crowdsourced DB)
     try {
         // We use mode: 'cors' and bypass the pre-flight if possible,
         // GAS often handles GETs seamlessly but sometimes requires it.
@@ -967,7 +993,7 @@ async function analyzeWordWithAI(wordText, surahNum, ayahNum, wordIndex, element
         console.warn("Failed to contact database, falling back to API", e);
     }
 
-    // 3. If missing from Local and DB, we MUST use Gemini API or Groq Fallback.
+    // 4. If missing from Local, GitHub, and DB, we MUST use Gemini API or Groq Fallback.
     // Ensure user has keys first.
     if (apiKeys.length === 0 && groqApiKeys.length === 0) {
         closeModal(document.getElementById('word-modal'));
@@ -1002,7 +1028,7 @@ async function analyzeWordWithAI(wordText, surahNum, ayahNum, wordIndex, element
 
             success = true;
 
-            // 4. (Asynchronous) Save this new analysis to the Google Sheet Backend!
+            // 5. (Asynchronous) Save this new analysis to the Google Sheet Backend!
             saveToCommunityDatabase(surahNum, ayahNum, wordIndex, wordText, parsedResult);
 
         } catch (error) {
@@ -1031,7 +1057,7 @@ async function analyzeWordWithAI(wordText, surahNum, ayahNum, wordIndex, element
 
             success = true;
 
-            // 4. (Asynchronous) Save this new analysis to the Google Sheet Backend!
+            // 5. (Asynchronous) Save this new analysis to the Google Sheet Backend!
             saveToCommunityDatabase(surahNum, ayahNum, wordIndex, wordText, parsedResult);
         } catch (error) {
             console.warn(`Groq API Key at index ${currentGroqKeyIndex} failed. Trying next...`);
@@ -1175,18 +1201,16 @@ function generateAIPrompt(word, ayahAr, ayahId, surahName, ayahNum) {
 
     Tolong gunakan bahasa Indonesia yang sederhana dan hindari penjelasan berbelit-belit. Untuk kata ini, jabarkan analisis DALAM BENTUK JSON SAJA dengan skema berikut:
     {
-      "identitas_kata": {
-        "tulisan_arab": "Tulisan Arab dari kata tersebut",
-        "transliterasi": "Cara bacanya dalam huruf latin",
-        "jenis_kata": "Isim (Kata Benda), Fi'il (Kata Kerja), atau Harf (Huruf)",
-        "arti_harfiah": "Arti dasar/harfiah dari kata tersebut"
-      },
-      "analisis_sharaf": {
+      "kata_arab": "Tulisan Arab dari kata tersebut",
+      "transliterasi": "Cara bacanya dalam huruf latin",
+      "jenis_kata": "Isim (Kata Benda), Fi'il (Kata Kerja), atau Harf (Huruf)",
+      "arti": "Arti dasar/harfiah dari kata tersebut",
+      "sharaf": {
         "akar_kata": "Akar kata (root word) huruf Arab, misal: ك ت ب. Jika tidak ada isikan null",
         "makna_dasar": "Makna dasar dari akar kata tersebut",
         "wazan_perubahan": "Bagaimana perubahan bentuknya (wazan) dan apa makna dari perubahan tersebut. Jika tidak ada isikan null"
       },
-      "analisis_nahwu": {
+      "nahwu": {
         "kedudukan": "Kedudukan kata ini dalam kalimat (misal: subjek, predikat, huruf jar, dll) dengan bahasa awam",
         "irab_dan_logika": "Penjelasan mengapa harakat huruf terakhirnya seperti itu (misal: mengapa kasrah, bukan fathah/dhammah). Jelaskan I'rab ini dengan logika yang mudah dipahami orang awam."
       },
@@ -1212,10 +1236,10 @@ function displayWordDetails(data) {
         return html;
     };
 
-    // Support both new nested structure and legacy flat structure
-    const identitas = data.identitas_kata || {};
-    const sharaf = data.analisis_sharaf || {};
-    const nahwu = data.analisis_nahwu || {};
+    // Support multiple JSON structures (AI Prompt structure, Static JSON structure, and legacy flat structure)
+    const identitas = data.identitas_kata || data || {};
+    const sharaf = data.analisis_sharaf || data.sharaf || {};
+    const nahwu = data.analisis_nahwu || data.nahwu || {};
 
     // Section 1: Identitas Kata
     document.getElementById('modal-transliterasi').textContent = identitas.transliterasi || data.transliteration || '-';
@@ -1249,7 +1273,7 @@ function displayWordDetails(data) {
 
     // Kesimpulan
     const kesimpulanEl = document.getElementById('modal-kesimpulan-makna');
-    const kesimpulanVal = data.kesimpulan_makna || data.kesimpulan;
+    const kesimpulanVal = data.kesimpulan_makna || data.kesimpulan || data.hikmah;
     if (kesimpulanVal && kesimpulanVal !== "null" && kesimpulanVal !== "-") {
         kesimpulanEl.innerHTML = renderMarkdown(kesimpulanVal);
     } else {
