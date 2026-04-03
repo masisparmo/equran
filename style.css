@@ -1081,73 +1081,39 @@ select {
         gap: 10px;
         justify-content: center;
     }
+
     .mushaf-nav-group {
         justify-content: flex-start;
         flex: 1 1 auto;
+        gap: 5px;
     }
 
-    /* Ensure inputs take appropriate width */
     .mushaf-nav-group select, .mushaf-nav-group input {
         flex-grow: 1;
         width: 100%;
     }
-}
 
-
-@media (max-width: 768px) {
     .mushaf-ayah-label {
         display: block;
     }
-    .mushaf-nav-group:nth-child(2) {
-        /* Surah */
-        grid-column: span 4;
-    }
-    .mushaf-nav-group:nth-child(3) {
-        /* Ayat */
-        grid-column: span 2;
-    }
 
-    #mushaf-juz-input, #mushaf-page-input {
-        width: 80px !important;
-        flex-grow: 0 !important;
-    }
-}
-
-@media (max-width: 768px) {
-    #mushaf-juz-input, #mushaf-page-input {
-        width: 60px !important;
-        padding: 4px;
-    }
-
-    .mushaf-nav-group:nth-child(5) {
-        /* Terjemah Toggle */
-        grid-column: span 2;
-        display: flex;
-        justify-content: flex-end;
-    }
-
-    .mushaf-nav-group:nth-child(5) label {
-        white-space: nowrap;
-        font-size: 0.85rem;
-    }
-}
-
-@media (max-width: 768px) {
     #mushaf-juz-input, #mushaf-page-input {
         min-width: 0 !important;
         width: 100% !important;
         max-width: 60px !important;
-        padding: 4px 2px !important;
+        padding: 4px !important;
+        flex-grow: 0 !important;
     }
-    .mushaf-nav-group {
-        gap: 5px;
-    }
-}
 
-@media (max-width: 768px) {
-    #mushaf-juz-input, #mushaf-page-input {
-        max-width: 60px !important;
-        padding: 4px 4px 4px 4px !important;
+    .mushaf-nav-group.toggle-group {
+        display: flex;
+        justify-content: flex-end;
+        flex: 0 0 auto;
+    }
+
+    .mushaf-nav-group.toggle-group label {
+        white-space: nowrap;
+        font-size: 0.85rem;
     }
 }
 

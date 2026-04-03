@@ -976,32 +976,19 @@ async function analyzeWordWithAI(wordText, surahNum, ayahNum, wordIndex, element
         try {
             const resultText = await callGroqAPI(apiKey, aiPrompt);
             const cleanedJsonText = resultText.replace(/```json/g, '').replace(/```/g, '').trim();
-            const rawData = JSON.parse(cleanedJsonText);
-
-            // Map JSON schema to internal expected structure
-            const mappedData = {
-                transliteration: rawData.identitas_kata.transliterasi,
-                role: rawData.identitas_kata.jenis_kata,
-                arti: rawData.identitas_kata.arti_harfiah,
-                akarKata: rawData.analisis_sharaf.akar_kata,
-                maknaDasar: rawData.analisis_sharaf.makna_dasar,
-                wazan: rawData.analisis_sharaf.wazan_dan_perubahan,
-                kedudukan: rawData.analisis_nahwu.kedudukan_kalimat,
-                irab: rawData.analisis_nahwu.tanda_irab_dan_logika,
-                kesimpulan: rawData.kesimpulan.makna_dan_hikmah
-            };
+            const parsedResult = JSON.parse(cleanedJsonText);
 
             // Cache the result locally in IndexedDB
-            try { await localforage.setItem(cacheKey, mappedData); } catch(e) {}
+            try { await localforage.setItem(cacheKey, parsedResult); } catch(e) {}
 
             // Render it immediately for the user
-            displayWordDetails(mappedData);
-            updateWordElementRole(element, mappedData.role);
+            displayWordDetails(parsedResult);
+            updateWordElementRole(element, parsedResult.role);
 
             success = true;
 
             // 4. (Asynchronous) Save this new analysis to the Google Sheet Backend!
-            saveToCommunityDatabase(surahNum, ayahNum, wordIndex, wordText, mappedData);
+            saveToCommunityDatabase(surahNum, ayahNum, wordIndex, wordText, parsedResult);
         } catch (error) {
             console.warn(`Groq API Key at index ${currentGroqKeyIndex} failed. Trying next...`);
             currentGroqKeyIndex = (currentGroqKeyIndex + 1) % groqApiKeys.length;
@@ -1181,46 +1168,46 @@ function displayWordDetails(data) {
         return html;
     };
 
-    // Fill the data - Section 1: Identitas Kata
-    if (data.identitas_kata) {
-        document.getElementById('modal-transliterasi').textContent = data.identitas_kata.transliterasi || '-';
-        document.getElementById('modal-jenis-kata').textContent = data.identitas_kata.jenis_kata || '-';
-        document.getElementById('modal-arti-harfiah').textContent = data.identitas_kata.arti_harfiah || '-';
+    // Support both new nested structure and legacy flat structure
+    const identitas = data.identitas_kata || {};
+    const sharaf = data.analisis_sharaf || {};
+    const nahwu = data.analisis_nahwu || {};
+
+    // Section 1: Identitas Kata
+    document.getElementById('modal-transliterasi').textContent = identitas.transliterasi || data.transliteration || '-';
+    document.getElementById('modal-jenis-kata').textContent = identitas.jenis_kata || data.role || '-';
+    document.getElementById('modal-arti-harfiah').textContent = identitas.arti_harfiah || data.arti || '-';
+
+    // Section 2: Analisis Sharaf
+    const akarKata = sharaf.akar_kata || data.akarKata;
+    document.getElementById('modal-akar-kata').textContent = (akarKata && akarKata !== "null") ? akarKata : '-';
+    document.getElementById('modal-makna-dasar').innerHTML = renderMarkdown(sharaf.makna_dasar || data.maknaDasar);
+
+    const wazanEl = document.getElementById('modal-wazan-perubahan');
+    const wazanVal = sharaf.wazan_perubahan || data.wazan;
+    if (wazanVal && wazanVal !== "null" && wazanVal !== "-") {
+        wazanEl.innerHTML = `<strong>Wazan & Perubahan:</strong> ${renderMarkdown(wazanVal)}`;
+        wazanEl.style.display = 'block';
+    } else {
+        wazanEl.style.display = 'none';
     }
 
-    // Fill the data - Section 2: Analisis Sharaf
-    if (data.analisis_sharaf) {
-        const akarKata = data.analisis_sharaf.akar_kata;
-        document.getElementById('modal-akar-kata').textContent = (akarKata && akarKata !== "null") ? akarKata : '-';
-        document.getElementById('modal-makna-dasar').innerHTML = renderMarkdown(data.analisis_sharaf.makna_dasar);
-
-        const wazanEl = document.getElementById('modal-wazan-perubahan');
-        const wazanVal = data.analisis_sharaf.wazan_perubahan;
-        if (wazanVal && wazanVal !== "null" && wazanVal !== "-") {
-            wazanEl.innerHTML = `<strong>Wazan & Perubahan:</strong> ${renderMarkdown(wazanVal)}`;
-            wazanEl.style.display = 'block';
-        } else {
-            wazanEl.style.display = 'none';
-        }
+    // Section 3: Analisis Nahwu
+    document.getElementById('modal-kedudukan').innerHTML = renderMarkdown(nahwu.kedudukan || data.kedudukan);
+    const irabEl = document.getElementById('modal-irab-logika');
+    const irabVal = nahwu.irab_dan_logika || data.irab;
+    if (irabVal && irabVal !== "null" && irabVal !== "-") {
+        irabEl.innerHTML = `<strong>Logika Tata Bahasa:</strong> ${renderMarkdown(irabVal)}`;
+        irabEl.style.display = 'block';
+    } else {
+        irabEl.style.display = 'none';
     }
 
-    // Fill the data - Section 3: Analisis Nahwu
-    if (data.analisis_nahwu) {
-        document.getElementById('modal-kedudukan').innerHTML = renderMarkdown(data.analisis_nahwu.kedudukan);
-        const irabEl = document.getElementById('modal-irab-logika');
-        const irabVal = data.analisis_nahwu.irab_dan_logika;
-        if (irabVal && irabVal !== "null" && irabVal !== "-") {
-            irabEl.innerHTML = `<strong>Logika Tata Bahasa:</strong> ${renderMarkdown(irabVal)}`;
-            irabEl.style.display = 'block';
-        } else {
-            irabEl.style.display = 'none';
-        }
-    }
-
-    // Fill the data - Kesimpulan
+    // Kesimpulan
     const kesimpulanEl = document.getElementById('modal-kesimpulan-makna');
-    if (data.kesimpulan_makna && data.kesimpulan_makna !== "null" && data.kesimpulan_makna !== "-") {
-        kesimpulanEl.innerHTML = renderMarkdown(data.kesimpulan_makna);
+    const kesimpulanVal = data.kesimpulan_makna || data.kesimpulan;
+    if (kesimpulanVal && kesimpulanVal !== "null" && kesimpulanVal !== "-") {
+        kesimpulanEl.innerHTML = renderMarkdown(kesimpulanVal);
     } else {
         kesimpulanEl.innerHTML = "-";
     }
