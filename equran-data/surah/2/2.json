@@ -4,25 +4,7 @@
   "words": [
     {
       "index": 0,
-      "kata_arab": "ذَ",
-      "transliterasi": "dza",
-      "jenis_kata": "Isim (Kata Benda)",
-      "arti": "Ini/Itu (sebagai inti dari kata tunjuk)",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "Kata \"ذَ\" adalah bagian inti dari kata tunjuk \"ذَٰلِكَ\" (itu). Dalam ayat ini, \"ذَٰلِكَ\" secara keseluruhan berfungsi sebagai *Mubtada'* (Subjek kalimat) yang sedang dibicarakan. Jadi, \"ذَ\" adalah bagian dari subjek utama.",
-        "irab_dan_logika": "Kata \"ذَٰلِكَ\" (yang mengandung \"ذَ\") termasuk dalam kategori *Isim Mabni*. Artinya, bentuk dan harakat akhirnya (termasuk fathah pada huruf \"ذَ\") tidak akan berubah meskipun kedudukannya dalam kalimat berubah. Ia selalu tetap seperti itu. Dalam konteks ini, \"ذَٰلِكَ\" berada dalam posisi *rafa'* (kedudukan subjek), namun harakatnya tidak berubah menjadi dhammah karena sifatnya yang mabni. Fathah pada \"ذَ\" adalah bagian dari bentuk aslinya yang tetap."
-      },
-      "hikmah": "\"ذَ\" adalah inti dari kata tunjuk \"ذَٰلِكَ\" yang berarti \"itu\". Dalam ayat ini, penggunaan \"ذَٰلِكَ\" (itu) daripada \"هَٰذَا\" (ini) memiliki makna yang sangat dalam. Ia menunjuk pada Al-Quran seolah-olah dari kejauhan, bukan jarak fisik, melainkan jarak keagungan dan kemuliaan. Ini menunjukkan bahwa Al-Quran adalah Kitab yang sangat agung, mulia, dan telah dikenal kebenarannya, sehingga tidak ada keraguan sedikit pun padanya. Ini adalah penekanan sastra yang luar biasa untuk menegaskan otoritas dan kebesaran Al-Quran, seolah-olah menunjuk pada sesuatu yang sudah mapan dan tidak perlu dipertanyakan lagi.",
-      "role": "subject"
-    },
-    {
-      "index": 1,
-      "kata_arab": "ٰ⁠لِكَ",
+      "kata_arab": "ٰذَ ⁠لِكَ",
       "transliterasi": "Dzaalika",
       "jenis_kata": "Isim (Kata Benda) - lebih spesifik lagi, Isim Isyarah (Kata Tunjuk)",
       "arti": "Itu, itu dia",
@@ -39,7 +21,7 @@
       "role": "subject"
     },
     {
-      "index": 2,
+      "index": 1,
       "kata_arab": "ٱلۡكِتَـٰبُ",
       "transliterasi": "Al-Kitāb",
       "jenis_kata": "Isim (Kata Benda)",
@@ -57,7 +39,7 @@
       "role": "predicate"
     },
     {
-      "index": 3,
+      "index": 2,
       "kata_arab": "لَا",
       "transliterasi": "lā",
       "jenis_kata": "Harf (Huruf)",
@@ -75,7 +57,7 @@
       "role": "none"
     },
     {
-      "index": 4,
+      "index": 3,
       "kata_arab": "رَیۡبَۛ",
       "transliterasi": "rayba",
       "jenis_kata": "Isim (Kata Benda)",
@@ -93,7 +75,7 @@
       "role": "none"
     },
     {
-      "index": 5,
+      "index": 4,
       "kata_arab": "فِیهِۛ",
       "transliterasi": "fīhi",
       "jenis_kata": "Gabungan dari Harf (kata depan) dan Isim (kata ganti)",
@@ -111,7 +93,7 @@
       "role": "predicate"
     },
     {
-      "index": 6,
+      "index": 5,
       "kata_arab": "هُدࣰى",
       "transliterasi": "Hudā",
       "jenis_kata": "Isim (Kata Benda)",
@@ -129,7 +111,7 @@
       "role": "predicate"
     },
     {
-      "index": 7,
+      "index": 6,
       "kata_arab": "لِّلۡمُتَّقِینَ",
       "transliterasi": "li-l-muttaqīn",
       "jenis_kata": "Isim (Kata Benda)",
