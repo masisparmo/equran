@@ -1178,7 +1178,7 @@ async function callGroqAPI(apiKey, prompt) {
     const endpoint = `https://api.groq.com/openai/v1/chat/completions`;
 
     const requestBody = {
-        model: "meta-llama/llama-4-scout-17b-16e-instruct",
+        model: "llama3-8b-8192",
         messages: [{
             role: "user",
             content: prompt
@@ -1230,6 +1230,36 @@ async function callGeminiAPIText(apiKey, prompt) {
 
     const data = await response.json();
     return data.candidates[0].content.parts[0].text;
+}
+
+
+async function callGroqAPIText(apiKey, prompt) {
+    const endpoint = `https://api.groq.com/openai/v1/chat/completions`;
+
+    const requestBody = {
+        model: "llama3-8b-8192",
+        messages: [{
+            role: "user",
+            content: prompt
+        }],
+        temperature: 0.3
+    };
+
+    const response = await fetch(endpoint, {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+            'Authorization': `Bearer ${apiKey}`
+        },
+        body: JSON.stringify(requestBody)
+    });
+
+    if (!response.ok) {
+        throw new Error(`Groq API Error: ${response.status}`);
+    }
+
+    const data = await response.json();
+    return data.choices[0].message.content;
 }
 
 function generateAIPrompt(word, ayahAr, ayahId, surahName, ayahNum) {
@@ -1329,7 +1359,7 @@ function displayWordDetails(data) {
 }
 
 async function handleDeepExplain(type) {
-    if (apiKeys.length === 0) {
+    if (apiKeys.length === 0 && groqApiKeys.length === 0) {
         openModal(welcomeModal);
         return;
     }
@@ -1463,23 +1493,50 @@ Terjemahan: ${fullAyahId}`;
 
     // 3. Call AI
     let success = false;
-    let attempts = 0;
-    const maxAttempts = apiKeys.length;
 
-    while (!success && attempts < maxAttempts) {
-        const apiKey = apiKeys[currentApiKeyIndex];
-        try {
-            const result = await callGeminiAPIText(apiKey, prompt);
+    // Try Gemini First
+    if (apiKeys.length > 0) {
+        let attempts = 0;
+        const maxAttempts = apiKeys.length;
 
-            // Cache the plain text result
-            try { await localforage.setItem(cacheKey, result); } catch(e) {}
+        while (!success && attempts < maxAttempts) {
+            const apiKey = apiKeys[currentApiKeyIndex];
+            try {
+                const result = await callGeminiAPIText(apiKey, prompt);
 
-            renderDeepExplainContent(result);
-            success = true;
-        } catch (error) {
-            console.error(`Error deep explain with API Key ${currentApiKeyIndex}:`, error);
-            currentApiKeyIndex = (currentApiKeyIndex + 1) % apiKeys.length;
-            attempts++;
+                // Cache the plain text result
+                try { await localforage.setItem(cacheKey, result); } catch(e) {}
+
+                renderDeepExplainContent(result);
+                success = true;
+            } catch (error) {
+                console.error(`Error deep explain with Gemini API Key ${currentApiKeyIndex}:`, error);
+                currentApiKeyIndex = (currentApiKeyIndex + 1) % apiKeys.length;
+                attempts++;
+            }
+        }
+    }
+
+    // Fallback to Groq API
+    if (!success && groqApiKeys.length > 0) {
+        let groqAttempts = 0;
+        const maxGroqAttempts = groqApiKeys.length;
+
+        while (!success && groqAttempts < maxGroqAttempts) {
+            const apiKey = groqApiKeys[currentGroqKeyIndex];
+            try {
+                const result = await callGroqAPIText(apiKey, prompt);
+
+                // Cache the plain text result
+                try { await localforage.setItem(cacheKey, result); } catch(e) {}
+
+                renderDeepExplainContent(result);
+                success = true;
+            } catch (error) {
+                console.warn(`Error deep explain with Groq API Key ${currentGroqKeyIndex}. Trying next...`, error);
+                currentGroqKeyIndex = (currentGroqKeyIndex + 1) % groqApiKeys.length;
+                groqAttempts++;
+            }
         }
     }
 
@@ -1633,7 +1690,7 @@ async function sendChatMessage() {
             const endpoint = `https://api.groq.com/openai/v1/chat/completions`;
 
             const requestBody = {
-                model: "meta-llama/llama-4-scout-17b-16e-instruct",
+                model: "llama3-8b-8192",
                 messages: groqHistory,
                 temperature: 0.3
             };
