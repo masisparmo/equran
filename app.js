@@ -504,6 +504,12 @@ async function loadMushafByAyah(surah, ayah) {
         const data = await response.json();
         const page = data.data.page;
         mushafPageInput.value = page;
+
+        mushafSurahSelect.value = surah;
+        mushafSurahNumberInput.value = surah;
+        populateMushafAyahSelect(surah);
+        mushafAyahInput.value = ayah;
+
         fetchMushafPage(page);
     } catch(e) {
         console.error(e);
@@ -543,11 +549,29 @@ async function fetchMushafPage(pageNumber) {
         const firstAyah = tajweedData.data.ayahs[0];
         mushafJuzInput.value = firstAyah.juz;
         mushafPageInput.value = pageNumber;
+
+        // Only update if not navigating by surah/ayah directly
+        // We can check if the current surah selection is valid for this page
+        // Page 604 contains Surah 112, 113, 114. We don't want to force it to 112 if user selected 114.
+        const currentSelectedSurah = parseInt(mushafSurahNumberInput.value);
+        let surahExistsOnPage = false;
+
+        if (currentSelectedSurah && !isNaN(currentSelectedSurah)) {
+            for (let i = 0; i < tajweedData.data.ayahs.length; i++) {
+                if (tajweedData.data.ayahs[i].surah.number === currentSelectedSurah) {
+                    surahExistsOnPage = true;
+                    break;
+                }
+            }
+        }
+
         if(mushafSurahSelect.options.length > 0) {
-            mushafSurahSelect.value = firstAyah.surah.number;
-            mushafSurahNumberInput.value = firstAyah.surah.number;
-            populateMushafAyahSelect(firstAyah.surah.number);
-            mushafAyahInput.value = firstAyah.numberInSurah;
+            if (!surahExistsOnPage) {
+                mushafSurahSelect.value = firstAyah.surah.number;
+                mushafSurahNumberInput.value = firstAyah.surah.number;
+                populateMushafAyahSelect(firstAyah.surah.number);
+                mushafAyahInput.value = firstAyah.numberInSurah;
+            }
         }
 
         renderMushafPage();
