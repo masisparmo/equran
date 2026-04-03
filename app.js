@@ -506,6 +506,12 @@ async function loadMushafByAyah(surah, ayah) {
         const data = await response.json();
         const page = data.data.page;
         mushafPageInput.value = page;
+
+        mushafSurahSelect.value = surah;
+        mushafSurahNumberInput.value = surah;
+        populateMushafAyahSelect(surah);
+        mushafAyahInput.value = ayah;
+
         fetchMushafPage(page);
     } catch(e) {
         console.error(e);
@@ -545,11 +551,29 @@ async function fetchMushafPage(pageNumber) {
         const firstAyah = tajweedData.data.ayahs[0];
         mushafJuzInput.value = firstAyah.juz;
         mushafPageInput.value = pageNumber;
+
+        // Only update if not navigating by surah/ayah directly
+        // We can check if the current surah selection is valid for this page
+        // Page 604 contains Surah 112, 113, 114. We don't want to force it to 112 if user selected 114.
+        const currentSelectedSurah = parseInt(mushafSurahNumberInput.value);
+        let surahExistsOnPage = false;
+
+        if (currentSelectedSurah && !isNaN(currentSelectedSurah)) {
+            for (let i = 0; i < tajweedData.data.ayahs.length; i++) {
+                if (tajweedData.data.ayahs[i].surah.number === currentSelectedSurah) {
+                    surahExistsOnPage = true;
+                    break;
+                }
+            }
+        }
+
         if(mushafSurahSelect.options.length > 0) {
-            mushafSurahSelect.value = firstAyah.surah.number;
-            mushafSurahNumberInput.value = firstAyah.surah.number;
-            populateMushafAyahSelect(firstAyah.surah.number);
-            mushafAyahInput.value = firstAyah.numberInSurah;
+            if (!surahExistsOnPage) {
+                mushafSurahSelect.value = firstAyah.surah.number;
+                mushafSurahNumberInput.value = firstAyah.surah.number;
+                populateMushafAyahSelect(firstAyah.surah.number);
+                mushafAyahInput.value = firstAyah.numberInSurah;
+            }
         }
 
         renderMushafPage();
@@ -703,8 +727,8 @@ async function handleSurahChange(e) {
 
     showLoading();
     try {
-        // Fetch Arabic text
-        const arResponse = await fetch(`${quranApiBaseUrl}/surah/${surahNumber}`);
+        // Fetch Arabic text (Using quran-uthmani to ensure consistent grammatical word spacing like Mushaf mode)
+        const arResponse = await fetch(`${quranApiBaseUrl}/surah/${surahNumber}/quran-uthmani`);
         const arData = await arResponse.json();
         currentSurahData = arData.data;
 
@@ -789,11 +813,31 @@ function displayAyah(ayahNumberInSurah) {
 
     // Remove "Bismillah" from Surah other than Al-Fatihah (Surah 1) and At-Taubah (Surah 9) for Ayah 1
     if (currentSurahData.number !== 1 && currentSurahData.number !== 9 && ayahNumberInSurah === 1) {
-        const bismillahStr = "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ ";
-        if (textAr.startsWith(bismillahStr)) {
-            textAr = textAr.substring(bismillahStr.length).trim();
-            // User requested to reset the word index to w0 starting from the actual first word
-            // after Bismillah, rather than accounting for the removed Bismillah words.
+            // Check for various forms of Bismillah to ensure robust removal across different editions
+            const bismillahForms = [
+                "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ", // Tajweed / standard
+                "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ", // Simple
+                "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+                "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ ۙ" // Uthmani might have pause marks
+            ];
+
+            let bismillahToRemove = "";
+            for (const form of bismillahForms) {
+                if (textAr.startsWith(form)) {
+                    bismillahToRemove = form;
+                    break;
+                }
+            }
+
+            if (bismillahToRemove) {
+                textAr = textAr.substring(bismillahToRemove.length).trim();
+                wordIndexOffset = 0;
+            } else if (textAr.startsWith("بِسْمِ") || textAr.startsWith("بِسۡمِ")) {
+                // Fallback: If it starts with Bismillah but didn't match the exact string, remove first 4 words.
+                const bismWords = textAr.split(/\s+/).filter(w => w.trim() !== "");
+                if (bismWords.length > 4) {
+                    textAr = bismWords.slice(4).join(" ");
+                }
             wordIndexOffset = 0;
         }
     }
