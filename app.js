@@ -725,8 +725,8 @@ async function handleSurahChange(e) {
 
     showLoading();
     try {
-        // Fetch Arabic text
-        const arResponse = await fetch(`${quranApiBaseUrl}/surah/${surahNumber}`);
+        // Fetch Arabic text (Using quran-uthmani to ensure consistent grammatical word spacing like Mushaf mode)
+        const arResponse = await fetch(`${quranApiBaseUrl}/surah/${surahNumber}/quran-uthmani`);
         const arData = await arResponse.json();
         currentSurahData = arData.data;
 
@@ -811,11 +811,31 @@ function displayAyah(ayahNumberInSurah) {
 
     // Remove "Bismillah" from Surah other than Al-Fatihah (Surah 1) and At-Taubah (Surah 9) for Ayah 1
     if (currentSurahData.number !== 1 && currentSurahData.number !== 9 && ayahNumberInSurah === 1) {
-        const bismillahStr = "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ ";
-        if (textAr.startsWith(bismillahStr)) {
-            textAr = textAr.substring(bismillahStr.length).trim();
-            // User requested to reset the word index to w0 starting from the actual first word
-            // after Bismillah, rather than accounting for the removed Bismillah words.
+            // Check for various forms of Bismillah to ensure robust removal across different editions
+            const bismillahForms = [
+                "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ", // Tajweed / standard
+                "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ", // Simple
+                "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+                "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ ۙ" // Uthmani might have pause marks
+            ];
+
+            let bismillahToRemove = "";
+            for (const form of bismillahForms) {
+                if (textAr.startsWith(form)) {
+                    bismillahToRemove = form;
+                    break;
+                }
+            }
+
+            if (bismillahToRemove) {
+                textAr = textAr.substring(bismillahToRemove.length).trim();
+                wordIndexOffset = 0;
+            } else if (textAr.startsWith("بِسْمِ") || textAr.startsWith("بِسۡمِ")) {
+                // Fallback: If it starts with Bismillah but didn't match the exact string, remove first 4 words.
+                const bismWords = textAr.split(/\s+/).filter(w => w.trim() !== "");
+                if (bismWords.length > 4) {
+                    textAr = bismWords.slice(4).join(" ");
+                }
             wordIndexOffset = 0;
         }
     }
