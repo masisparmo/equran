@@ -3,6 +3,8 @@ let currentSurah = null;
 let currentAyah = null;
 let apiKeys = [];
 let currentApiKeyIndex = 0;
+let groqApiKeys = [];
+let currentGroqKeyIndex = 0;
 
 // DOM Elements
 const homeBtn = document.getElementById('home-btn');
@@ -89,14 +91,41 @@ async function migrateLocalStorageToIndexedDB() {
         const keys = localStorage.getItem('gemini_api_keys');
         if (keys) {
             try {
-                const parsedKeys = JSON.parse(keys);
-                if (Array.isArray(parsedKeys)) {
+                let parsedKeys;
+                try {
+                    parsedKeys = JSON.parse(keys);
+                } catch(e) {
+                    // If not valid JSON, treat as a single key string
+                    parsedKeys = [keys.trim()];
+                }
+
+                if (Array.isArray(parsedKeys) && parsedKeys.length > 0) {
                     await localforage.setItem('gemini_api_keys', parsedKeys);
+                    localStorage.removeItem('gemini_api_keys');
                 }
             } catch (e) {
-                console.warn('Migration: Failed to parse old api keys');
+                console.warn('Migration: Failed to migrate gemini keys', e);
             }
-            localStorage.removeItem('gemini_api_keys');
+        }
+
+        const groqKeys = localStorage.getItem('groq_api_keys');
+        if (groqKeys) {
+            try {
+                let parsedGroqKeys;
+                try {
+                    parsedGroqKeys = JSON.parse(groqKeys);
+                } catch(e) {
+                    // If not valid JSON, treat as a single key string
+                    parsedGroqKeys = [groqKeys.trim()];
+                }
+
+                if (Array.isArray(parsedGroqKeys) && parsedGroqKeys.length > 0) {
+                    await localforage.setItem('groq_api_keys', parsedGroqKeys);
+                    localStorage.removeItem('groq_api_keys');
+                }
+            } catch (e) {
+                console.warn('Migration: Failed to migrate groq keys', e);
+            }
         }
         console.log('Migration check complete.');
     } catch(e) {
@@ -910,13 +939,28 @@ async function analyzeWordWithAI(wordText, surahNum, ayahNum, wordIndex, element
         if (response.ok) {
             const dbData = await response.json();
             if (dbData.status === 'success' && dbData.data) {
-                // Save to local IndexedDB cache
-                try { await localforage.setItem(cacheKey, dbData.data); } catch(e) {}
+                let analysisData = dbData.data;
 
-                displayWordDetails(dbData.data);
-                updateWordElementRole(element, dbData.data.role);
-                console.log("Data retrieved from community database!");
-                return; // Stop here, no need to use API Key
+                // Ensure we have a valid object and it's not a generic failure string
+                if (analysisData && (typeof analysisData === 'object' || (typeof analysisData === 'string' && analysisData.trim().startsWith('{')))) {
+                    // If the data is returned as a string, parse it
+                    if (typeof analysisData === 'string') {
+                        try {
+                            analysisData = JSON.parse(analysisData);
+                        } catch (e) {
+                            console.warn("Database returned non-JSON string for analysis", analysisData);
+                            throw new Error("Invalid analysis data format");
+                        }
+                    }
+
+                    // Save to local IndexedDB cache
+                    try { await localforage.setItem(cacheKey, analysisData); } catch(e) {}
+
+                    displayWordDetails(analysisData);
+                    updateWordElementRole(element, analysisData.role);
+                    console.log("Data retrieved from community database!");
+                    return; // Stop here, no need to use API Key
+                }
             }
         }
     } catch (e) {
