@@ -53,17 +53,23 @@
 
         <!-- Navigation Controls -->
         <section class="navigation card">
-            <div class="nav-group">
+            <div class="nav-group" style="flex: 2;">
                 <label for="surah-select" class="home-nav-label">Surah:</label>
-                <select id="surah-select">
-                    <option value="">Memuat Surah...</option>
-                </select>
+                <div style="display: flex; gap: 5px;">
+                    <input type="number" id="surah-number-input" min="1" max="114" placeholder="No" style="width: 60px; padding: 10px; border-radius: 5px; border: 1px solid var(--border-color); background-color: var(--bg-color); color: var(--text-color);">
+                    <select id="surah-select">
+                        <option value="">Memuat Surah...</option>
+                    </select>
+                </div>
             </div>
             <div class="nav-group">
                 <label for="ayah-select" class="home-nav-label">Ayat:</label>
-                <select id="ayah-select" disabled>
-                    <option value="">Pilih Surah Dulu</option>
-                </select>
+                <div style="display: flex; gap: 5px;">
+                    <input type="number" id="ayah-number-input" min="1" placeholder="No" style="width: 60px; padding: 10px; border-radius: 5px; border: 1px solid var(--border-color); background-color: var(--bg-color); color: var(--text-color);" disabled>
+                    <select id="ayah-select" disabled>
+                        <option value="">Pilih Surah Dulu</option>
+                    </select>
+                </div>
             </div>
         </section>
 
@@ -100,20 +106,23 @@
         <section id="mushaf-display" class="card" style="display: none;">
             <div class="mushaf-header-controls">
                 <div class="mushaf-nav-group">
-                    <label for="mushaf-juz-select">Juz:</label>
-                    <select id="mushaf-juz-select"></select>
+                    <label for="mushaf-juz-input">Juz:</label>
+                    <input type="number" id="mushaf-juz-input" min="1" max="30" style="width: 50px; padding: 8px; border-radius: 4px; border: 1px solid var(--border-color); background-color: var(--bg-color); color: var(--text-color);">
                 </div>
                 <div class="mushaf-nav-group">
                     <label for="mushaf-surah-select">Surah:</label>
-                    <select id="mushaf-surah-select"></select>
+                    <div style="display: flex; gap: 2px;">
+                        <input type="number" id="mushaf-surah-number-input" min="1" max="114" style="width: 45px; padding: 8px; border-radius: 4px; border: 1px solid var(--border-color); background-color: var(--bg-color); color: var(--text-color);">
+                        <select id="mushaf-surah-select"></select>
+                    </div>
                 </div>
                 <div class="mushaf-nav-group">
-                    <label for="mushaf-ayah-select" class="mushaf-ayah-label">Ayat:</label>
-                    <select id="mushaf-ayah-select"></select>
+                    <label for="mushaf-ayah-input" class="mushaf-ayah-label">Ayat:</label>
+                    <input type="number" id="mushaf-ayah-input" min="1" style="width: 50px; padding: 8px; border-radius: 4px; border: 1px solid var(--border-color); background-color: var(--bg-color); color: var(--text-color);">
                 </div>
                 <div class="mushaf-nav-group">
-                    <label for="mushaf-page-select">Hal:</label>
-                    <select id="mushaf-page-select"></select>
+                    <label for="mushaf-page-input">Hal:</label>
+                    <input type="number" id="mushaf-page-input" min="1" max="604" style="width: 60px; padding: 8px; border-radius: 4px; border: 1px solid var(--border-color); background-color: var(--bg-color); color: var(--text-color);">
                 </div>
                 <div class="mushaf-nav-group toggle-group" style="margin-left: auto;">
                     <label for="mushaf-translation-toggle" style="display: flex; align-items: center; gap: 5px; cursor: pointer;">

@@ -53,10 +53,11 @@ const downloadChatBtn = document.getElementById('download-chat-btn');
 
 // Mushaf Elements
 const mushafDisplay = document.getElementById('mushaf-display');
-const mushafJuzSelect = document.getElementById('mushaf-juz-select');
+const mushafJuzInput = document.getElementById('mushaf-juz-input');
 const mushafSurahSelect = document.getElementById('mushaf-surah-select');
-const mushafAyahSelect = document.getElementById('mushaf-ayah-select');
-const mushafPageSelect = document.getElementById('mushaf-page-select');
+const mushafSurahNumberInput = document.getElementById('mushaf-surah-number-input');
+const mushafAyahInput = document.getElementById('mushaf-ayah-input');
+const mushafPageInput = document.getElementById('mushaf-page-input');
 const mushafContentContainer = document.getElementById('mushaf-content-container');
 const prevMushafPageBtn = document.getElementById('prev-mushaf-page-btn');
 const nextMushafPageBtn = document.getElementById('next-mushaf-page-btn');
@@ -326,8 +327,38 @@ function setupEventListeners() {
     }
 
     // Navigation Listeners
-    document.getElementById('surah-select').addEventListener('change', handleSurahChange);
-    document.getElementById('ayah-select').addEventListener('change', handleAyahChange);
+    const surahSelect = document.getElementById('surah-select');
+    const surahNumberInput = document.getElementById('surah-number-input');
+    const ayahSelect = document.getElementById('ayah-select');
+    const ayahNumberInput = document.getElementById('ayah-number-input');
+
+    surahSelect.addEventListener('change', (e) => {
+        surahNumberInput.value = e.target.value;
+        handleSurahChange(e);
+    });
+
+    surahNumberInput.addEventListener('change', (e) => {
+        const val = e.target.value;
+        if (val >= 1 && val <= 114) {
+            surahSelect.value = val;
+            handleSurahChange({ target: { value: val } });
+        }
+    });
+
+    ayahSelect.addEventListener('change', (e) => {
+        ayahNumberInput.value = e.target.value;
+        handleAyahChange(e);
+    });
+
+    ayahNumberInput.addEventListener('change', (e) => {
+        const val = e.target.value;
+        const maxAyahs = currentSurahData ? currentSurahData.numberOfAyahs : 0;
+        if (val >= 1 && (maxAyahs === 0 || val <= maxAyahs)) {
+            ayahSelect.value = val;
+            handleAyahChange({ target: { value: val } });
+        }
+    });
+
     document.getElementById('prev-ayah-btn').addEventListener('click', () => changeAyah(-1));
     document.getElementById('next-ayah-btn').addEventListener('click', () => changeAyah(1));
 
@@ -349,10 +380,20 @@ function setupEventListeners() {
     });
 
     // Mushaf Listeners
-    mushafJuzSelect.addEventListener('change', (e) => loadMushafByJuz(e.target.value));
-    mushafSurahSelect.addEventListener('change', (e) => loadMushafBySurah(e.target.value));
-    mushafAyahSelect.addEventListener('change', (e) => loadMushafByAyah(mushafSurahSelect.value, e.target.value));
-    mushafPageSelect.addEventListener('change', (e) => fetchMushafPage(e.target.value));
+    mushafJuzInput.addEventListener('change', (e) => loadMushafByJuz(e.target.value));
+    mushafSurahSelect.addEventListener('change', (e) => {
+        mushafSurahNumberInput.value = e.target.value;
+        loadMushafBySurah(e.target.value);
+    });
+    mushafSurahNumberInput.addEventListener('change', (e) => {
+        const val = e.target.value;
+        if (val >= 1 && val <= 114) {
+            mushafSurahSelect.value = val;
+            loadMushafBySurah(val);
+        }
+    });
+    mushafAyahInput.addEventListener('change', (e) => loadMushafByAyah(mushafSurahSelect.value, e.target.value));
+    mushafPageInput.addEventListener('change', (e) => fetchMushafPage(e.target.value));
     prevMushafPageBtn.addEventListener('click', () => changeMushafPage(-1));
     nextMushafPageBtn.addEventListener('click', () => changeMushafPage(1));
     mushafTranslationToggle.addEventListener('change', () => renderMushafPage());
@@ -377,7 +418,7 @@ function switchMode(mode) {
         quranDisplay.style.display = 'none';
         mushafDisplay.style.display = 'block';
 
-        if (mushafPageSelect.options.length === 0) {
+        if (!mushafPageInput.value) {
             initMushafNav();
             fetchMushafPage(1); // Load default page 1
         }
@@ -386,16 +427,6 @@ function switchMode(mode) {
 
 // --- Mushaf Navigation Logic ---
 function initMushafNav() {
-    // Populate Juz
-    mushafJuzSelect.innerHTML = '';
-    for(let i=1; i<=30; i++) {
-        mushafJuzSelect.appendChild(new Option(i, i));
-    }
-    // Populate Page
-    mushafPageSelect.innerHTML = '';
-    for(let i=1; i<=604; i++) {
-        mushafPageSelect.appendChild(new Option(i, i));
-    }
     // Populate Surah
     mushafSurahSelect.innerHTML = '<option value="">Memuat...</option>';
     if (surahsData.length > 0) {
@@ -418,10 +449,7 @@ function populateMushafSurahSelect() {
 function populateMushafAyahSelect(surahNumber) {
     const surah = surahsData.find(s => s.number == surahNumber);
     if (!surah) return;
-    mushafAyahSelect.innerHTML = '';
-    for(let i=1; i<=surah.numberOfAyahs; i++) {
-        mushafAyahSelect.appendChild(new Option(i, i));
-    }
+    mushafAyahInput.max = surah.numberOfAyahs;
 }
 
 async function loadMushafByJuz(juz) {
@@ -432,7 +460,7 @@ async function loadMushafByJuz(juz) {
         const response = await fetch(`${quranApiBaseUrl}/juz/${juz}/en.asad`);
         const data = await response.json();
         const page = data.data.ayahs[0].page;
-        mushafPageSelect.value = page;
+        mushafPageInput.value = page;
         fetchMushafPage(page);
     } catch(e) {
         console.error(e);
@@ -453,7 +481,7 @@ async function loadMushafByAyah(surah, ayah) {
         const response = await fetch(`${quranApiBaseUrl}/ayah/${surah}:${ayah}`);
         const data = await response.json();
         const page = data.data.page;
-        mushafPageSelect.value = page;
+        mushafPageInput.value = page;
         fetchMushafPage(page);
     } catch(e) {
         console.error(e);
@@ -463,10 +491,10 @@ async function loadMushafByAyah(surah, ayah) {
 }
 
 function changeMushafPage(direction) {
-    const currentPage = parseInt(mushafPageSelect.value);
+    const currentPage = parseInt(mushafPageInput.value);
     const newPage = currentPage + direction;
     if(newPage >= 1 && newPage <= 604) {
-        mushafPageSelect.value = newPage;
+        mushafPageInput.value = newPage;
         fetchMushafPage(newPage);
     }
 }
@@ -489,13 +517,15 @@ async function fetchMushafPage(pageNumber) {
         currentMushafData.ayahs = tajweedData.data.ayahs;
         currentMushafData.translations = translationData.data.ayahs;
 
-        // Update select values to match current page's first ayah
+        // Update input values to match current page's first ayah
         const firstAyah = tajweedData.data.ayahs[0];
-        mushafJuzSelect.value = firstAyah.juz;
+        mushafJuzInput.value = firstAyah.juz;
+        mushafPageInput.value = pageNumber;
         if(mushafSurahSelect.options.length > 0) {
             mushafSurahSelect.value = firstAyah.surah.number;
+            mushafSurahNumberInput.value = firstAyah.surah.number;
             populateMushafAyahSelect(firstAyah.surah.number);
-            mushafAyahSelect.value = firstAyah.numberInSurah;
+            mushafAyahInput.value = firstAyah.numberInSurah;
         }
 
         renderMushafPage();
@@ -682,6 +712,10 @@ async function handleSurahChange(e) {
 
 function populateAyahSelect(totalAyahs) {
     const ayahSelect = document.getElementById('ayah-select');
+    const ayahNumberInput = document.getElementById('ayah-number-input');
+    ayahNumberInput.disabled = false;
+    ayahNumberInput.max = totalAyahs;
+
     ayahSelect.innerHTML = '';
     for (let i = 1; i <= totalAyahs; i++) {
         const option = document.createElement('option');
@@ -700,12 +734,14 @@ function handleAyahChange(e) {
 
 function changeAyah(direction) {
     const ayahSelect = document.getElementById('ayah-select');
+    const ayahNumberInput = document.getElementById('ayah-number-input');
     const currentIndex = parseInt(ayahSelect.value);
     const totalAyahs = currentSurahData.ayahs.length;
     let newIndex = currentIndex + direction;
 
     if (newIndex >= 1 && newIndex <= totalAyahs) {
         ayahSelect.value = newIndex;
+        ayahNumberInput.value = newIndex;
         displayAyah(newIndex);
     }
 }
@@ -940,32 +976,19 @@ async function analyzeWordWithAI(wordText, surahNum, ayahNum, wordIndex, element
         try {
             const resultText = await callGroqAPI(apiKey, aiPrompt);
             const cleanedJsonText = resultText.replace(/```json/g, '').replace(/```/g, '').trim();
-            const rawData = JSON.parse(cleanedJsonText);
-
-            // Map JSON schema to internal expected structure
-            const mappedData = {
-                transliteration: rawData.identitas_kata.transliterasi,
-                role: rawData.identitas_kata.jenis_kata,
-                arti: rawData.identitas_kata.arti_harfiah,
-                akarKata: rawData.analisis_sharaf.akar_kata,
-                maknaDasar: rawData.analisis_sharaf.makna_dasar,
-                wazan: rawData.analisis_sharaf.wazan_dan_perubahan,
-                kedudukan: rawData.analisis_nahwu.kedudukan_kalimat,
-                irab: rawData.analisis_nahwu.tanda_irab_dan_logika,
-                kesimpulan: rawData.kesimpulan.makna_dan_hikmah
-            };
+            const parsedResult = JSON.parse(cleanedJsonText);
 
             // Cache the result locally in IndexedDB
-            try { await localforage.setItem(cacheKey, mappedData); } catch(e) {}
+            try { await localforage.setItem(cacheKey, parsedResult); } catch(e) {}
 
             // Render it immediately for the user
-            displayWordDetails(mappedData);
-            updateWordElementRole(element, mappedData.role);
+            displayWordDetails(parsedResult);
+            updateWordElementRole(element, parsedResult.role);
 
             success = true;
 
             // 4. (Asynchronous) Save this new analysis to the Google Sheet Backend!
-            saveToCommunityDatabase(surahNum, ayahNum, wordIndex, wordText, mappedData);
+            saveToCommunityDatabase(surahNum, ayahNum, wordIndex, wordText, parsedResult);
         } catch (error) {
             console.warn(`Groq API Key at index ${currentGroqKeyIndex} failed. Trying next...`);
             currentGroqKeyIndex = (currentGroqKeyIndex + 1) % groqApiKeys.length;
@@ -982,9 +1005,9 @@ async function analyzeWordWithAI(wordText, surahNum, ayahNum, wordIndex, element
 // Function to save newly generated AI data back to Google Sheets
 function saveToCommunityDatabase(surahNum, ayahNum, wordIndex, wordText, aiResult) {
     const payload = {
-        surah: surahNum,
-        ayah: ayahNum,
-        wordIndex: wordIndex,
+        surah: Number(surahNum),
+        ayah: Number(ayahNum),
+        wordIndex: Number(wordIndex),
         kata_arab: wordText,
         analisis: aiResult
     };
@@ -1145,46 +1168,46 @@ function displayWordDetails(data) {
         return html;
     };
 
-    // Fill the data - Section 1: Identitas Kata
-    if (data.identitas_kata) {
-        document.getElementById('modal-transliterasi').textContent = data.identitas_kata.transliterasi || '-';
-        document.getElementById('modal-jenis-kata').textContent = data.identitas_kata.jenis_kata || '-';
-        document.getElementById('modal-arti-harfiah').textContent = data.identitas_kata.arti_harfiah || '-';
+    // Support both new nested structure and legacy flat structure
+    const identitas = data.identitas_kata || {};
+    const sharaf = data.analisis_sharaf || {};
+    const nahwu = data.analisis_nahwu || {};
+
+    // Section 1: Identitas Kata
+    document.getElementById('modal-transliterasi').textContent = identitas.transliterasi || data.transliteration || '-';
+    document.getElementById('modal-jenis-kata').textContent = identitas.jenis_kata || data.role || '-';
+    document.getElementById('modal-arti-harfiah').textContent = identitas.arti_harfiah || data.arti || '-';
+
+    // Section 2: Analisis Sharaf
+    const akarKata = sharaf.akar_kata || data.akarKata;
+    document.getElementById('modal-akar-kata').textContent = (akarKata && akarKata !== "null") ? akarKata : '-';
+    document.getElementById('modal-makna-dasar').innerHTML = renderMarkdown(sharaf.makna_dasar || data.maknaDasar);
+
+    const wazanEl = document.getElementById('modal-wazan-perubahan');
+    const wazanVal = sharaf.wazan_perubahan || data.wazan;
+    if (wazanVal && wazanVal !== "null" && wazanVal !== "-") {
+        wazanEl.innerHTML = `<strong>Wazan & Perubahan:</strong> ${renderMarkdown(wazanVal)}`;
+        wazanEl.style.display = 'block';
+    } else {
+        wazanEl.style.display = 'none';
     }
 
-    // Fill the data - Section 2: Analisis Sharaf
-    if (data.analisis_sharaf) {
-        const akarKata = data.analisis_sharaf.akar_kata;
-        document.getElementById('modal-akar-kata').textContent = (akarKata && akarKata !== "null") ? akarKata : '-';
-        document.getElementById('modal-makna-dasar').innerHTML = renderMarkdown(data.analisis_sharaf.makna_dasar);
-
-        const wazanEl = document.getElementById('modal-wazan-perubahan');
-        const wazanVal = data.analisis_sharaf.wazan_perubahan;
-        if (wazanVal && wazanVal !== "null" && wazanVal !== "-") {
-            wazanEl.innerHTML = `<strong>Wazan & Perubahan:</strong> ${renderMarkdown(wazanVal)}`;
-            wazanEl.style.display = 'block';
-        } else {
-            wazanEl.style.display = 'none';
-        }
+    // Section 3: Analisis Nahwu
+    document.getElementById('modal-kedudukan').innerHTML = renderMarkdown(nahwu.kedudukan || data.kedudukan);
+    const irabEl = document.getElementById('modal-irab-logika');
+    const irabVal = nahwu.irab_dan_logika || data.irab;
+    if (irabVal && irabVal !== "null" && irabVal !== "-") {
+        irabEl.innerHTML = `<strong>Logika Tata Bahasa:</strong> ${renderMarkdown(irabVal)}`;
+        irabEl.style.display = 'block';
+    } else {
+        irabEl.style.display = 'none';
     }
 
-    // Fill the data - Section 3: Analisis Nahwu
-    if (data.analisis_nahwu) {
-        document.getElementById('modal-kedudukan').innerHTML = renderMarkdown(data.analisis_nahwu.kedudukan);
-        const irabEl = document.getElementById('modal-irab-logika');
-        const irabVal = data.analisis_nahwu.irab_dan_logika;
-        if (irabVal && irabVal !== "null" && irabVal !== "-") {
-            irabEl.innerHTML = `<strong>Logika Tata Bahasa:</strong> ${renderMarkdown(irabVal)}`;
-            irabEl.style.display = 'block';
-        } else {
-            irabEl.style.display = 'none';
-        }
-    }
-
-    // Fill the data - Kesimpulan
+    // Kesimpulan
     const kesimpulanEl = document.getElementById('modal-kesimpulan-makna');
-    if (data.kesimpulan_makna && data.kesimpulan_makna !== "null" && data.kesimpulan_makna !== "-") {
-        kesimpulanEl.innerHTML = renderMarkdown(data.kesimpulan_makna);
+    const kesimpulanVal = data.kesimpulan_makna || data.kesimpulan;
+    if (kesimpulanVal && kesimpulanVal !== "null" && kesimpulanVal !== "-") {
+        kesimpulanEl.innerHTML = renderMarkdown(kesimpulanVal);
     } else {
         kesimpulanEl.innerHTML = "-";
     }
