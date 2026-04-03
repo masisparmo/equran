@@ -74,7 +74,9 @@ let chatSessionHistory = []; // Store conversational context for the chat API
 // --- API Variables ---
 const quranApiBaseUrl = 'https://api.alquran.cloud/v1';
 const gasBackendUrl = 'https://script.google.com/macros/s/AKfycbz6LH6bOoAYpzqtS91sn-g_ZHH-WJZvg_1eK4lBg4Vqvly9iTe8SPIxMSRQ-5Ox4vt6SA/exec';
-const githubDataUrl = 'https://equran.isparmo.com/equran-data';
+const githubDataUrl = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1'
+    ? './equran-data'
+    : 'https://equran.isparmo.com/equran-data';
 let surahsData = [];
 let currentSurahData = null; // Store fetched data for current surah
 let currentAyahsIndo = null; // Store translations
