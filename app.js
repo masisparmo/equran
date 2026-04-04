@@ -818,14 +818,22 @@ async function downloadFile(url, filename) {
     document.body.removeChild(a);
 }
 
+// Helper to construct everyayah.com URL
+function getEveryAyahUrl(surahNum, ayahNum) {
+    const formattedSurah = surahNum.toString().padStart(3, '0');
+    const formattedAyah = ayahNum.toString().padStart(3, '0');
+    return `https://everyayah.com/data/Alafasy_128kbps/${formattedSurah}${formattedAyah}.mp3`;
+}
+
 async function downloadCurrentAyahAudio() {
     if (!currentSurahData || !currentAudioUrls) return;
     const surahNum = parseInt(document.getElementById('surah-select').value);
     const ayahNum = parseInt(document.getElementById('ayah-select').value);
-    const ayahIndex = ayahNum - 1;
-    const audioUrl = currentAudioUrls[ayahIndex].audio;
     const surahName = currentSurahData.englishName.replace(/\s+/g, '_');
     const filename = `${surahName}_Ayat_${ayahNum}.mp3`;
+
+    // Use everyayah.com which supports CORS, instead of cdn.islamic.network
+    const audioUrl = getEveryAyahUrl(surahNum, ayahNum);
 
     // Tampilkan indikator loading di tombol
     const btn = document.getElementById('download-ayah-btn');
@@ -859,7 +867,8 @@ async function downloadCurrentSurahAudio() {
     if (confirm(`Anda akan mendownload ${totalAyahs} file audio ayat secara berurutan. Lanjutkan?`)) {
         for (let i = 0; i < totalAyahs; i++) {
             const ayahNum = i + 1;
-            const audioUrl = currentAudioUrls[i].audio;
+            // Use everyayah.com which supports CORS
+            const audioUrl = getEveryAyahUrl(surahNum, ayahNum);
             const filename = `${surahName}_Ayat_${ayahNum}.mp3`;
 
             btn.innerHTML = `<i class="fas fa-spinner fa-spin"></i> ${ayahNum}/${totalAyahs}`;
