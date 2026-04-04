@@ -247,9 +247,8 @@ select {
 
 /* Word Styles */
 .word {
-    display: inline-block;
+    display: inline;
     cursor: pointer;
-    padding: 0 5px;
     border-radius: 4px;
     transition: background-color 0.2s, color 0.2s;
     position: relative;
@@ -1118,6 +1117,7 @@ select {
 }
 
 .mushaf-word {
+    display: inline;
     cursor: pointer;
     transition: background-color 0.2s, opacity 0.2s;
     border-radius: 4px;
