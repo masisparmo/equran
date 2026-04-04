@@ -801,7 +801,10 @@ function changeAyah(direction) {
 async function downloadFile(url, filename) {
     // Wajib fetch Blob untuk memaksa atribut 'download' dan kustomisasi nama file.
     // Jika server merespon tanpa header CORS, fetch akan melempar TypeError.
-    const response = await fetch(url);
+    // Gunakan public proxy AllOrigins untuk menembus CORS karena Github Pages tidak ada backend.
+    const proxyUrl = `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}`;
+
+    const response = await fetch(proxyUrl);
     if (!response.ok) throw new Error(`Network response was not ok: ${response.statusText}`);
     const blob = await response.blob();
     const downloadUrl = window.URL.createObjectURL(blob);
