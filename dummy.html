@@ -1,0 +1,44 @@
+
+    <!DOCTYPE html>
+    <html>
+    <body>
+        <select id="surah-select"><option value="1">1</option></select>
+        <select id="ayah-select"><option value="1">1</option></select>
+        <button id="download-ayah-btn">Download</button>
+
+        <script>
+            let currentSurahData = { englishName: "Al Fatihah" };
+            let currentAudioUrls = ["url1"];
+
+            function getEveryAyahUrl(surahNum, ayahNum) {
+                const formattedSurah = surahNum.toString().padStart(3, '0');
+                const formattedAyah = ayahNum.toString().padStart(3, '0');
+                return `https://everyayah.com/data/Alafasy_128kbps/${formattedSurah}${formattedAyah}.mp3`;
+            }
+
+            function downloadFile(url, filename) {
+                window.open(url, '_blank');
+            }
+
+            async function downloadCurrentAyahAudio() {
+                if (!currentSurahData || !currentAudioUrls) return;
+                const surahSelect = document.getElementById('surah-select');
+                const ayahSelect = document.getElementById('ayah-select');
+                const surahNum = parseInt(surahSelect.value);
+                const ayahNum = parseInt(ayahSelect.value);
+                const surahName = currentSurahData.englishName.replace(/\s+/g, '_');
+                const filename = `${surahName}_Ayat_${ayahNum}.mp3`;
+
+                const audioUrl = getEveryAyahUrl(surahNum, ayahNum);
+
+                try {
+                    downloadFile(audioUrl, filename);
+                } catch (error) {
+                    console.error('Download failed:', error);
+                }
+            }
+
+            document.getElementById('download-ayah-btn').addEventListener('click', downloadCurrentAyahAudio);
+        </script>
+    </body>
+    </html>

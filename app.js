@@ -798,27 +798,10 @@ function changeAyah(direction) {
 
 // --- Audio Download Logic ---
 
-async function downloadFile(url, filename) {
-    // Wajib fetch Blob untuk memaksa atribut 'download' dan kustomisasi nama file.
-    // Jika server merespon tanpa header CORS, fetch akan melempar TypeError.
-    // Gunakan public proxy AllOrigins untuk menembus CORS karena Github Pages tidak ada backend.
-    const proxyUrl = `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}`;
-
-    const response = await fetch(proxyUrl);
-    if (!response.ok) throw new Error(`Network response was not ok: ${response.statusText}`);
-    const blob = await response.blob();
-    const downloadUrl = window.URL.createObjectURL(blob);
-
-    const a = document.createElement('a');
-    a.style.display = 'none';
-    a.href = downloadUrl;
-    a.download = filename;
-    document.body.appendChild(a);
-    a.click();
-
-    // Bersihkan memory
-    window.URL.revokeObjectURL(downloadUrl);
-    document.body.removeChild(a);
+function downloadFile(url, filename) {
+    // Biarkan browser yang mengambil alih proses membuka file
+    // Cara ini kebal dari blokir CORS karena tidak melalui fetch di JavaScript
+    window.open(url, '_blank');
 }
 
 // Helper to construct everyayah.com URL
@@ -830,8 +813,10 @@ function getEveryAyahUrl(surahNum, ayahNum) {
 
 async function downloadCurrentAyahAudio() {
     if (!currentSurahData || !currentAudioUrls) return;
-    const surahNum = parseInt(document.getElementById('surah-select').value);
-    const ayahNum = parseInt(document.getElementById('ayah-select').value);
+    const surahSelect = document.getElementById('surah-select');
+    const ayahSelect = document.getElementById('ayah-select');
+    const surahNum = parseInt(surahSelect.value);
+    const ayahNum = parseInt(ayahSelect.value);
     const surahName = currentSurahData.englishName.replace(/\s+/g, '_');
     const filename = `${surahName}_Ayat_${ayahNum}.mp3`;
 
@@ -845,10 +830,10 @@ async function downloadCurrentAyahAudio() {
     btn.disabled = true;
 
     try {
-        await downloadFile(audioUrl, filename);
+        downloadFile(audioUrl, filename);
     } catch (error) {
         console.error('Download failed:', error);
-        alert('Gagal mendownload audio secara langsung karena kebijakan keamanan browser (CORS). Anda dapat mengunduhnya secara manual dengan mengklik kanan pada audio player lalu pilih "Save audio as...".');
+        alert('Gagal membuka tautan audio. Silakan coba lagi.');
     }
 
     // Kembalikan teks tombol
@@ -859,7 +844,8 @@ async function downloadCurrentAyahAudio() {
 async function downloadCurrentSurahAudio() {
     if (!currentSurahData || !currentAudioUrls) return;
 
-    const surahNum = parseInt(document.getElementById('surah-select').value);
+    const surahSelect = document.getElementById('surah-select');
+    const surahNum = parseInt(surahSelect.value);
     const totalAyahs = currentAudioUrls.length;
     const surahName = currentSurahData.englishName.replace(/\s+/g, '_');
 
@@ -877,13 +863,13 @@ async function downloadCurrentSurahAudio() {
             btn.innerHTML = `<i class="fas fa-spinner fa-spin"></i> ${ayahNum}/${totalAyahs}`;
 
             try {
-                await downloadFile(audioUrl, filename);
-                // Jeda 500ms antar file untuk mencegah browser memblokir unduhan beruntun
-                await new Promise(resolve => setTimeout(resolve, 500));
+                downloadFile(audioUrl, filename);
+                // Jeda agak lama antar tab baru agar popup blocker tidak agresif
+                await new Promise(resolve => setTimeout(resolve, 800));
             } catch (error) {
-                console.error(`Download failed at ayah ${ayahNum}:`, error);
-                alert(`Download massal terhenti pada ayat ${ayahNum} karena dihalangi kebijakan keamanan browser (CORS). Mohon gunakan fitur download manual per ayat melalui audio player.`);
-                break; // Hentikan loop untuk menghindari UX buruk (error bertubi-tubi)
+                console.error(`Gagal membuka ayat ${ayahNum}:`, error);
+                alert(`Membuka tab terhenti pada ayat ${ayahNum}. Proses dihentikan.`);
+                break;
             }
         }
         // Hanya tampilkan alert sukses jika loop selesai tanpa break (berada di ayat terakhir)
