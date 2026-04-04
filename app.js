@@ -846,36 +846,24 @@ async function downloadCurrentSurahAudio() {
 
     const surahSelect = document.getElementById('surah-select');
     const surahNum = parseInt(surahSelect.value);
-    const totalAyahs = currentAudioUrls.length;
     const surahName = currentSurahData.englishName.replace(/\s+/g, '_');
 
     const btn = document.getElementById('download-surah-btn');
     const originalText = btn.innerHTML;
     btn.disabled = true;
+    btn.innerHTML = `<i class="fas fa-spinner fa-spin"></i> Membuka...`;
 
-    if (confirm(`Anda akan mendownload ${totalAyahs} file audio ayat secara berurutan. Lanjutkan?`)) {
-        for (let i = 0; i < totalAyahs; i++) {
-            const ayahNum = i + 1;
-            // Use everyayah.com which supports CORS
-            const audioUrl = getEveryAyahUrl(surahNum, ayahNum);
-            const filename = `${surahName}_Ayat_${ayahNum}.mp3`;
+    // Gunakan server MP3Quran untuk mendapatkan 1 file full per surah
+    // Format: https://server8.mp3quran.net/afs/001.mp3
+    const formattedSurahNum = surahNum.toString().padStart(3, '0');
+    const audioUrl = `https://server8.mp3quran.net/afs/${formattedSurahNum}.mp3`;
+    const filename = `Surah_${formattedSurahNum}_${surahName}_Full.mp3`;
 
-            btn.innerHTML = `<i class="fas fa-spinner fa-spin"></i> ${ayahNum}/${totalAyahs}`;
-
-            try {
-                downloadFile(audioUrl, filename);
-                // Jeda agak lama antar tab baru agar popup blocker tidak agresif
-                await new Promise(resolve => setTimeout(resolve, 800));
-            } catch (error) {
-                console.error(`Gagal membuka ayat ${ayahNum}:`, error);
-                alert(`Membuka tab terhenti pada ayat ${ayahNum}. Proses dihentikan.`);
-                break;
-            }
-        }
-        // Hanya tampilkan alert sukses jika loop selesai tanpa break (berada di ayat terakhir)
-        if (btn.innerHTML.includes(`${totalAyahs}/${totalAyahs}`)) {
-            alert('Download surah selesai.');
-        }
+    try {
+        downloadFile(audioUrl, filename);
+    } catch (error) {
+        console.error(`Gagal membuka full surah:`, error);
+        alert(`Gagal membuka tautan audio. Silakan coba lagi.`);
     }
 
     btn.innerHTML = originalText;
