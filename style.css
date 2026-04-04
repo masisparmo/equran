@@ -232,6 +232,7 @@ select {
 
 .ayah-content {
     margin-bottom: 20px;
+    overflow-x: visible; /* Prevent clipping */
 }
 
 .arabic-text {
@@ -243,6 +244,8 @@ select {
     margin-bottom: 15px;
     text-rendering: optimizeLegibility;
     font-feature-settings: "kern", "liga", "clig", "calt";
+    padding-left: 20px; /* Increased padding to prevent clipping of long diacritics */
+    padding-right: 20px;
 }
 
 /* Word Styles */
@@ -938,8 +941,9 @@ select {
     max-width: 100vw;
     box-sizing: border-box;
     word-wrap: break-word;
-    overflow-x: hidden;
-    padding: 20px;
+    /* allow overflow so diacritics aren't clipped */
+    overflow-x: visible;
+    padding: 20px 30px; /* Increased horizontal padding to prevent clipping */
     background-color: #fdfdf0; /* Slightly yellowish paper color for Mushaf */
     color: #000000; /* Solid black for reading */
     border: 1px solid var(--border-color);
