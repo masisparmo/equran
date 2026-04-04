@@ -401,6 +401,10 @@ function setupEventListeners() {
         playBtn.innerHTML = '<i class="fas fa-play"></i>';
     });
 
+    // Download Audio Listeners
+    document.getElementById('download-ayah-btn').addEventListener('click', downloadCurrentAyahAudio);
+    document.getElementById('download-surah-btn').addEventListener('click', downloadCurrentSurahAudio);
+
     // Mushaf Listeners
     mushafJuzInput.addEventListener('change', (e) => loadMushafByJuz(e.target.value));
     mushafSurahSelect.addEventListener('change', (e) => {
@@ -790,6 +794,80 @@ function changeAyah(direction) {
         ayahNumberInput.value = newIndex;
         displayAyah(newIndex);
     }
+}
+
+// --- Audio Download Logic ---
+
+async function downloadFile(url, filename) {
+    try {
+        const response = await fetch(url);
+        if (!response.ok) throw new Error(`Network response was not ok: ${response.statusText}`);
+        const blob = await response.blob();
+        const downloadUrl = window.URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.style.display = 'none';
+        a.href = downloadUrl;
+        a.download = filename;
+        document.body.appendChild(a);
+        a.click();
+        window.URL.revokeObjectURL(downloadUrl);
+        document.body.removeChild(a);
+    } catch (error) {
+        console.error('Download failed:', error);
+        alert('Gagal mendownload audio. Silakan coba lagi.');
+    }
+}
+
+async function downloadCurrentAyahAudio() {
+    if (!currentSurahData || !currentAudioUrls) return;
+    const surahNum = parseInt(surahSelect.value);
+    const ayahNum = parseInt(ayahSelect.value);
+    const ayahIndex = ayahNum - 1;
+    const audioUrl = currentAudioUrls[ayahIndex].audio;
+    const surahName = currentSurahData.englishName.replace(/\s+/g, '_');
+    const filename = `${surahName}_Ayat_${ayahNum}.mp3`;
+
+    // Tampilkan indikator loading di tombol
+    const btn = document.getElementById('download-ayah-btn');
+    const originalText = btn.innerHTML;
+    btn.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Loading...';
+    btn.disabled = true;
+
+    await downloadFile(audioUrl, filename);
+
+    // Kembalikan teks tombol
+    btn.innerHTML = originalText;
+    btn.disabled = false;
+}
+
+async function downloadCurrentSurahAudio() {
+    if (!currentSurahData || !currentAudioUrls) return;
+
+    const surahNum = parseInt(surahSelect.value);
+    const totalAyahs = currentAudioUrls.length;
+    const surahName = currentSurahData.englishName.replace(/\s+/g, '_');
+
+    const btn = document.getElementById('download-surah-btn');
+    const originalText = btn.innerHTML;
+    btn.disabled = true;
+
+    if (confirm(`Anda akan mendownload ${totalAyahs} file audio ayat secara berurutan. Lanjutkan?`)) {
+        for (let i = 0; i < totalAyahs; i++) {
+            const ayahNum = i + 1;
+            const audioUrl = currentAudioUrls[i].audio;
+            const filename = `${surahName}_Ayat_${ayahNum}.mp3`;
+
+            btn.innerHTML = `<i class="fas fa-spinner fa-spin"></i> ${ayahNum}/${totalAyahs}`;
+
+            await downloadFile(audioUrl, filename);
+            // Jeda 500ms antar file untuk mencegah browser memblokir unduhan beruntun
+            await new Promise(resolve => setTimeout(resolve, 500));
+        }
+        alert('Download surah selesai.');
+    }
+
+    btn.innerHTML = originalText;
+    btn.disabled = false;
 }
 
 function displayAyah(ayahNumberInSurah) {

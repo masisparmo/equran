@@ -215,11 +215,17 @@ select {
     margin-bottom: 15px;
 }
 
+.ayah-audio-controls {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+}
+
 .ayah-audio-controls button {
     background-color: var(--secondary-color);
     color: #fff;
     border: none;
-    padding: 10px 15px;
+    padding: 8px 12px;
     border-radius: 5px;
     cursor: pointer;
     font-size: 1rem;
