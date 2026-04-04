@@ -2087,3 +2087,39 @@ function unescapeHtml(safe) {
          .replace(/&quot;/g, "\"")
          .replace(/&#039;/g, "'");
 }
+
+// --- Global Tooltip Logic ---
+document.addEventListener('DOMContentLoaded', () => {
+    const globalTooltip = document.getElementById('global-tooltip');
+
+    document.body.addEventListener('mouseover', (e) => {
+        const target = e.target.closest('[data-tooltip]');
+        if (target) {
+            const text = target.getAttribute('data-tooltip');
+            if (text) {
+                globalTooltip.textContent = text;
+                const rect = target.getBoundingClientRect();
+
+                // Position above the word (centered horizontally)
+                let top = rect.top;
+                let left = rect.left + (rect.width / 2);
+
+                globalTooltip.style.top = top + 'px';
+                globalTooltip.style.left = left + 'px';
+                globalTooltip.classList.add('visible');
+            }
+        }
+    });
+
+    document.body.addEventListener('mouseout', (e) => {
+        const target = e.target.closest('[data-tooltip]');
+        if (target) {
+            globalTooltip.classList.remove('visible');
+        }
+    });
+
+    // Also hide tooltip on scroll to prevent floating orphans
+    window.addEventListener('scroll', () => {
+        if(globalTooltip) globalTooltip.classList.remove('visible');
+    }, { passive: true });
+});

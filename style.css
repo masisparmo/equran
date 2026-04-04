@@ -254,7 +254,7 @@ select {
     cursor: pointer;
     border-radius: 4px;
     transition: background-color 0.2s, color 0.2s;
-    position: relative;
+    /* Do NOT use position: relative here! It clips large arabic glyphs in inline containers */
     color: var(--text-color);
 }
 
@@ -274,28 +274,7 @@ select {
 }
 
 /* Tooltip for words */
-.word::after {
-    content: attr(data-tooltip);
-    position: absolute;
-    bottom: 100%;
-    left: 50%;
-    transform: translateX(-50%);
-    background-color: rgba(0,0,0,0.8);
-    color: #fff;
-    padding: 5px 8px;
-    border-radius: 4px;
-    font-size: 0.9rem;
-    font-family: var(--font-sans);
-    white-space: nowrap;
-    opacity: 0;
-    pointer-events: none;
-    transition: opacity 0.2s;
-    z-index: 10;
-}
 
-.word:hover::after {
-    opacity: 1;
-}
 
 .translation-text {
     font-size: 1.2rem;
@@ -1147,4 +1126,30 @@ select {
     .home-nav-label {
         display: none;
     }
+}
+
+/* Global Tooltip for words */
+#global-tooltip {
+    position: fixed;
+    background-color: rgba(0,0,0,0.8);
+    color: #fff;
+    padding: 6px 10px;
+    border-radius: 4px;
+    font-size: 0.9rem;
+    font-family: var(--font-sans);
+    white-space: nowrap;
+    pointer-events: none;
+    z-index: 3000;
+    opacity: 0;
+    transition: opacity 0.15s ease-in-out;
+    visibility: hidden;
+    /* initial placement */
+    top: -999px;
+    left: -999px;
+    transform: translate(-50%, -100%);
+    margin-top: -8px; /* small gap */
+}
+#global-tooltip.visible {
+    opacity: 1;
+    visibility: visible;
 }
