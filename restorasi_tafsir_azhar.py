@@ -43,7 +43,8 @@ def restore_chunk(rotator, chunk_text, context_info="", is_first=True, is_last=T
         "You are an expert Indonesian linguist and Tafsir Al-Quran scholar specializing in the works of Buya Hamka.\n"
         "Your task is to restore text from a Tafsir Al-Azhar OCR result. Fix typos (tatsir -> tafsir, Alij -> Alif), "
         "remove page numbers/headers, and fix word spacing while keeping Buya Hamka's original formal style.\n"
-        "IMPORTANT: Return ONLY the cleaned/restored text. No explanations.\n\n"
+        "MANDATORY FORMAT: Group logical semantic ideas into neat paragraphs using double new lines (\\n\\n). This is very important for readability.\n"
+        "IMPORTANT: Do NOT change the meaning or interpretation. Return ONLY the restored text.\n\n"
         f"Context: {context_info}"
     )
     if not is_first:
@@ -103,8 +104,9 @@ def process_surah(rotator, surah_number):
                 all_restored.append(chunk) # Fallback to original
         
         # Bersihkan hasil penggabungan
-        final_text = " ".join(all_restored)
-        final_text = re.sub(r'\s+', ' ', final_text).strip()
+        final_text = "\n\n".join(all_restored)
+        final_text = re.sub(r' +', ' ', final_text)  # Hanya buang spasi ganda
+        final_text = re.sub(r'\n\s*\n', '\n\n', final_text).strip() # Normalisasi double newline
         ayah["al_azhar"] = final_text
         print(f"    [OK] Selesai.")
         time.sleep(0.5)
