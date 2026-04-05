@@ -215,11 +215,17 @@ select {
     margin-bottom: 15px;
 }
 
+.ayah-audio-controls {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+}
+
 .ayah-audio-controls button {
     background-color: var(--secondary-color);
     color: #fff;
     border: none;
-    padding: 10px 15px;
+    padding: 8px 12px;
     border-radius: 5px;
     cursor: pointer;
     font-size: 1rem;
@@ -232,6 +238,7 @@ select {
 
 .ayah-content {
     margin-bottom: 20px;
+    overflow-x: visible; /* Prevent clipping */
 }
 
 .arabic-text {
@@ -243,16 +250,17 @@ select {
     margin-bottom: 15px;
     text-rendering: optimizeLegibility;
     font-feature-settings: "kern", "liga", "clig", "calt";
+    padding-left: 20px; /* Increased padding to prevent clipping of long diacritics */
+    padding-right: 20px;
 }
 
 /* Word Styles */
 .word {
-    display: inline-block;
+    display: inline;
     cursor: pointer;
-    padding: 0 5px;
     border-radius: 4px;
     transition: background-color 0.2s, color 0.2s;
-    position: relative;
+    /* Do NOT use position: relative here! It clips large arabic glyphs in inline containers */
     color: var(--text-color);
 }
 
@@ -272,28 +280,7 @@ select {
 }
 
 /* Tooltip for words */
-.word::after {
-    content: attr(data-tooltip);
-    position: absolute;
-    bottom: 100%;
-    left: 50%;
-    transform: translateX(-50%);
-    background-color: rgba(0,0,0,0.8);
-    color: #fff;
-    padding: 5px 8px;
-    border-radius: 4px;
-    font-size: 0.9rem;
-    font-family: var(--font-sans);
-    white-space: nowrap;
-    opacity: 0;
-    pointer-events: none;
-    transition: opacity 0.2s;
-    z-index: 10;
-}
 
-.word:hover::after {
-    opacity: 1;
-}
 
 .translation-text {
     font-size: 1.2rem;
@@ -939,8 +926,9 @@ select {
     max-width: 100vw;
     box-sizing: border-box;
     word-wrap: break-word;
-    overflow-x: hidden;
-    padding: 20px;
+    /* allow overflow so diacritics aren't clipped */
+    overflow-x: visible;
+    padding: 20px 30px; /* Increased horizontal padding to prevent clipping */
     background-color: #fdfdf0; /* Slightly yellowish paper color for Mushaf */
     color: #000000; /* Solid black for reading */
     border: 1px solid var(--border-color);
@@ -1118,6 +1106,7 @@ select {
 }
 
 .mushaf-word {
+    display: inline;
     cursor: pointer;
     transition: background-color 0.2s, opacity 0.2s;
     border-radius: 4px;
@@ -1143,4 +1132,30 @@ select {
     .home-nav-label {
         display: none;
     }
+}
+
+/* Global Tooltip for words */
+#global-tooltip {
+    position: fixed;
+    background-color: rgba(0,0,0,0.8);
+    color: #fff;
+    padding: 6px 10px;
+    border-radius: 4px;
+    font-size: 0.9rem;
+    font-family: var(--font-sans);
+    white-space: nowrap;
+    pointer-events: none;
+    z-index: 3000;
+    opacity: 0;
+    transition: opacity 0.15s ease-in-out;
+    visibility: hidden;
+    /* initial placement */
+    top: -999px;
+    left: -999px;
+    transform: translate(-50%, -100%);
+    margin-top: -8px; /* small gap */
+}
+#global-tooltip.visible {
+    opacity: 1;
+    visibility: visible;
 }

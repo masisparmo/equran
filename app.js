@@ -401,6 +401,10 @@ function setupEventListeners() {
         playBtn.innerHTML = '<i class="fas fa-play"></i>';
     });
 
+    // Download Audio Listeners
+    document.getElementById('download-ayah-btn').addEventListener('click', downloadCurrentAyahAudio);
+    document.getElementById('download-surah-btn').addEventListener('click', downloadCurrentSurahAudio);
+
     // Mushaf Listeners
     mushafJuzInput.addEventListener('change', (e) => loadMushafByJuz(e.target.value));
     mushafSurahSelect.addEventListener('change', (e) => {
@@ -790,6 +794,80 @@ function changeAyah(direction) {
         ayahNumberInput.value = newIndex;
         displayAyah(newIndex);
     }
+}
+
+// --- Audio Download Logic ---
+
+function downloadFile(url, filename) {
+    // Biarkan browser yang mengambil alih proses membuka file
+    // Cara ini kebal dari blokir CORS karena tidak melalui fetch di JavaScript
+    window.open(url, '_blank');
+}
+
+// Helper to construct everyayah.com URL
+function getEveryAyahUrl(surahNum, ayahNum) {
+    const formattedSurah = surahNum.toString().padStart(3, '0');
+    const formattedAyah = ayahNum.toString().padStart(3, '0');
+    return `https://everyayah.com/data/Alafasy_128kbps/${formattedSurah}${formattedAyah}.mp3`;
+}
+
+async function downloadCurrentAyahAudio() {
+    if (!currentSurahData || !currentAudioUrls) return;
+    const surahSelect = document.getElementById('surah-select');
+    const ayahSelect = document.getElementById('ayah-select');
+    const surahNum = parseInt(surahSelect.value);
+    const ayahNum = parseInt(ayahSelect.value);
+    const surahName = currentSurahData.englishName.replace(/\s+/g, '_');
+    const filename = `${surahName}_Ayat_${ayahNum}.mp3`;
+
+    // Use everyayah.com which supports CORS, instead of cdn.islamic.network
+    const audioUrl = getEveryAyahUrl(surahNum, ayahNum);
+
+    // Tampilkan indikator loading di tombol
+    const btn = document.getElementById('download-ayah-btn');
+    const originalText = btn.innerHTML;
+    btn.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Loading...';
+    btn.disabled = true;
+
+    try {
+        downloadFile(audioUrl, filename);
+    } catch (error) {
+        console.error('Download failed:', error);
+        alert('Gagal membuka tautan audio. Silakan coba lagi.');
+    }
+
+    // Kembalikan teks tombol
+    btn.innerHTML = originalText;
+    btn.disabled = false;
+}
+
+async function downloadCurrentSurahAudio() {
+    if (!currentSurahData || !currentAudioUrls) return;
+
+    const surahSelect = document.getElementById('surah-select');
+    const surahNum = parseInt(surahSelect.value);
+    const surahName = currentSurahData.englishName.replace(/\s+/g, '_');
+
+    const btn = document.getElementById('download-surah-btn');
+    const originalText = btn.innerHTML;
+    btn.disabled = true;
+    btn.innerHTML = `<i class="fas fa-spinner fa-spin"></i> Membuka...`;
+
+    // Gunakan server MP3Quran untuk mendapatkan 1 file full per surah
+    // Format: https://server8.mp3quran.net/afs/001.mp3
+    const formattedSurahNum = surahNum.toString().padStart(3, '0');
+    const audioUrl = `https://server8.mp3quran.net/afs/${formattedSurahNum}.mp3`;
+    const filename = `Surah_${formattedSurahNum}_${surahName}_Full.mp3`;
+
+    try {
+        downloadFile(audioUrl, filename);
+    } catch (error) {
+        console.error(`Gagal membuka full surah:`, error);
+        alert(`Gagal membuka tautan audio. Silakan coba lagi.`);
+    }
+
+    btn.innerHTML = originalText;
+    btn.disabled = false;
 }
 
 function displayAyah(ayahNumberInSurah) {
@@ -2087,3 +2165,39 @@ function unescapeHtml(safe) {
          .replace(/&quot;/g, "\"")
          .replace(/&#039;/g, "'");
 }
+
+// --- Global Tooltip Logic ---
+document.addEventListener('DOMContentLoaded', () => {
+    const globalTooltip = document.getElementById('global-tooltip');
+
+    document.body.addEventListener('mouseover', (e) => {
+        const target = e.target.closest('[data-tooltip]');
+        if (target) {
+            const text = target.getAttribute('data-tooltip');
+            if (text) {
+                globalTooltip.textContent = text;
+                const rect = target.getBoundingClientRect();
+
+                // Position above the word (centered horizontally)
+                let top = rect.top;
+                let left = rect.left + (rect.width / 2);
+
+                globalTooltip.style.top = top + 'px';
+                globalTooltip.style.left = left + 'px';
+                globalTooltip.classList.add('visible');
+            }
+        }
+    });
+
+    document.body.addEventListener('mouseout', (e) => {
+        const target = e.target.closest('[data-tooltip]');
+        if (target) {
+            globalTooltip.classList.remove('visible');
+        }
+    });
+
+    // Also hide tooltip on scroll to prevent floating orphans
+    window.addEventListener('scroll', () => {
+        if(globalTooltip) globalTooltip.classList.remove('visible');
+    }, { passive: true });
+});

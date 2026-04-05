@@ -3,22 +3,418 @@
   "ayah": 80,
   "words": [
     {
-      "index": 3,
-      "kata_arab": "ٱلنَّارُ",
-      "transliterasi": "An-Nāru",
-      "jenis_kata": "Isim (Kata Benda)",
-      "arti": "Api",
+      "index": 0,
+      "kata_arab": "وَقَالُوا۟",
+      "transliterasi": "Wa qaaloo",
+      "jenis_kata": "Huruf + Fi'il",
+      "arti": "Dan mereka berkata",
       "sharaf": {
-        "akar_kata": "ن و ر",
-        "makna_dasar": "Cahaya, menerangi, membakar. Api adalah sumber cahaya dan panas, serta memiliki sifat membakar.",
-        "wazan_perubahan": "Kata \"نار\" (nār) adalah bentuk isim (kata benda). Akar katanya adalah ن و ر (N-W-R). Huruf wawu (و) di tengah berubah menjadi alif (ا) karena kaidah perubahan huruf illat (huruf lemah) dalam bahasa Arab, khususnya ketika wawu berharakat dan sebelumnya ada huruf berharakat fathah, atau ketika menjadi bagian dari isim yang menunjukkan makna api/cahaya. Bentuk jamaknya adalah نيران (nīrān). Dalam ayat ini, \"النار\" adalah bentuk tunggal dengan tambahan \"ال\" (alif lam) di depannya."
+        "akar_kata": "ق و ل (Q-W-L)",
+        "makna_dasar": "Berbicara, mengatakan",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau), jama' mudzakkar gha'ib (mereka laki-laki) dari wazan فَعَلَ (fa'ala)"
       },
       "nahwu": {
-        "kedudukan": "Kata \"ٱلنَّارُ\" di sini berfungsi sebagai *fa'il* (pelaku) dari kata kerja \"تَمَسَّنَا\" (tamassanā - akan menyentuh kami). Jadi, \"api\" adalah yang melakukan tindakan \"menyentuh\" (dalam konteks negatif: tidak menyentuh).",
-        "irab_dan_logika": "Harakat huruf terakhirnya adalah dhammah (ـُ) pada huruf ra (ر). Ini karena \"ٱلنَّارُ\" adalah *fa'il* (pelaku) dari kata kerja \"تَمَسَّنَا\". Dalam tata bahasa Arab (ilmu Nahwu), *fa'il* selalu dalam keadaan *marfu'* (rafa'), dan tanda *rafa'* yang paling umum untuk isim mufrad (kata benda tunggal) adalah dhammah. Oleh karena itu, \"النارُ\" dibaca dengan dhammah di akhir, menunjukkan kedudukannya sebagai subjek atau pelaku."
+        "kedudukan": "Huruf 'athaf (و) diikuti oleh Fi'il Madhi",
+        "irab_dan_logika": "`و` (wawu) adalah huruf 'athaf (penghubung) yang tidak memiliki kedudukan i'rab. `قالوا` adalah Fi'il Madhi mabni (tetap) di atas dammah karena bersambung dengan wawu al-jama'ah. Wawu al-jama'ah adalah fa'il (subjek) dalam posisi rafa'."
       },
-      "hikmah": "Pada ayat ini, \"ٱلنَّارُ\" secara spesifik merujuk pada \"api neraka\". Penggunaan *alif lam* (ال) di awal kata menjadikannya *ma'rifah* (definite), yang berarti api yang dimaksud bukanlah sembarang api, melainkan api yang sudah dikenal dan spesifik, yaitu api neraka yang dijanjikan Allah bagi orang-orang yang ingkar. Hikmah atau keunikan sastranya terletak pada bagaimana kata ini digunakan dalam konteks klaim kaum Yahudi (pada masa Nabi Muhammad) yang merasa aman dari siksa neraka, atau hanya akan merasakannya sebentar saja. Penggunaan \"النار\" yang definite ini menegaskan bahwa mereka berbicara tentang api neraka yang sesungguhnya, namun dengan pemahaman yang keliru tentang durasi siksanya. Ini menunjukkan kesombongan dan keyakinan diri yang salah, yang kemudian dibantah oleh Allah melalui pertanyaan retoris kepada Nabi Muhammad.",
-      "role": "subject"
+      "hikmah": "Kata ini menunjukkan kelanjutan narasi dan tindakan kelompok yang berbicara, yaitu Bani Israil, yang mengungkapkan keyakinan mereka. Penggunaan bentuk lampau (Madhi) menunjukkan bahwa pernyataan ini adalah sesuatu yang sudah mereka katakan atau yakini.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "لَن",
+      "transliterasi": "Lan",
+      "jenis_kata": "Huruf",
+      "arti": "Tidak akan pernah",
+      "sharaf": {
+        "akar_kata": "N/A (huruf)",
+        "makna_dasar": "Penafian masa depan yang tegas",
+        "wazan_perubahan": "N/A (huruf)"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf nashab (penegas penafian)",
+        "irab_dan_logika": "Ini adalah huruf nashab yang berfungsi menashabkan fi'il mudhari' setelahnya, sekaligus memberikan makna penafian yang kuat dan mutlak di masa depan. Tidak memiliki kedudukan i'rab."
+      },
+      "hikmah": "Mengindikasikan keyakinan yang sangat kuat dan mutlak dari Bani Israil bahwa mereka tidak akan disentuh api neraka secara permanen. Ini menunjukkan rasa aman yang berlebihan dan tanpa dasar.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "تَمَسَّنَا",
+      "transliterasi": "Tamassanaa",
+      "jenis_kata": "Fi'il",
+      "arti": "Akan menyentuh kami",
+      "sharaf": {
+        "akar_kata": "م س س (M-S-S)",
+        "makna_dasar": "Menyentuh, menjamah",
+        "wazan_perubahan": "Fi'il Mudhari' (kata kerja sekarang/masa depan), mufrad mu'annats gha'ib (dia perempuan) dari wazan فَعَلَ (fa'ala) dengan idgham. Nun taukid (penegas) dan dhamir nashab (نا)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' manshub (dinashabkan) oleh `لَن`. `نا` adalah maf'ul bih (objek).",
+        "irab_dan_logika": "`تَمَسَّ` adalah Fi'il Mudhari' manshub dengan fathah karena didahului oleh `لَن`. Fa'ilnya adalah `ٱلنَّارُ` (api neraka) yang akan datang. `نَا` adalah dhamir muttashil (kata ganti bersambung) dalam posisi nashab sebagai maf'ul bih (objek)."
+      },
+      "hikmah": "Kata ini menggambarkan tindakan 'menyentuh' atau 'menimpa' secara fisik oleh api neraka. Dengan adanya `لَن`, mereka yakin hal itu tidak akan terjadi pada mereka, menunjukkan penolakan terhadap konsekuensi dosa.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "ٱلنَّارُ",
+      "transliterasi": "An-naaru",
+      "jenis_kata": "Isim",
+      "arti": "Api (neraka)",
+      "sharaf": {
+        "akar_kata": "ن و ر (N-W-R)",
+        "makna_dasar": "Cahaya, api",
+        "wazan_perubahan": "Isim Mufrad (kata benda tunggal)"
+      },
+      "nahwu": {
+        "kedudukan": "Fa'il (subjek) dari fi'il `تَمَسَّنَا`.",
+        "irab_dan_logika": "Isim marfu' (dirafa'kan) dengan dammah zhahirah karena ia adalah fa'il (subjek) dari fi'il `تَمَسَّنَا`. Alif lam (ال) menunjukkan makna definitif, merujuk pada 'api' yang spesifik, yaitu api neraka."
+      },
+      "hikmah": "Merujuk secara spesifik pada api neraka (Jahannam), yang merupakan konsekuensi dari dosa-dosa dan kekufuran. Keyakinan mereka adalah bahwa api ini tidak akan menimpa mereka, menunjukkan pengabaian terhadap ancaman ilahi.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "إِلَّاۤ",
+      "transliterasi": "Illaa",
+      "jenis_kata": "Huruf",
+      "arti": "Kecuali",
+      "sharaf": {
+        "akar_kata": "N/A (huruf)",
+        "makna_dasar": "Pengecualian",
+        "wazan_perubahan": "N/A (huruf)"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf istitsna' (pengecualian)",
+        "irab_dan_logika": "Ini adalah huruf istitsna' yang berfungsi untuk mengecualikan sesuatu dari hukum sebelumnya. Tidak memiliki kedudukan i'rab."
+      },
+      "hikmah": "Kata ini menunjukkan adanya batasan atau kondisi tertentu pada penafian mutlak sebelumnya. Mereka tidak akan disentuh api, *kecuali* untuk periode tertentu, yang menunjukkan adanya 'celah' dalam keyakinan mereka yang salah.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "أَیَّامࣰا",
+      "transliterasi": "Ayyaaman",
+      "jenis_kata": "Isim",
+      "arti": "Beberapa hari",
+      "sharaf": {
+        "akar_kata": "ی و م (Y-W-M)",
+        "makna_dasar": "Hari",
+        "wazan_perubahan": "Isim jamak taksir (plural tidak beraturan) dari `يَوْم` (hari)."
+      },
+      "nahwu": {
+        "kedudukan": "Zharaf zaman (keterangan waktu) atau Maf'ul Fih, manshub.",
+        "irab_dan_logika": "Isim manshub dengan fathatain (tanwin fathah). Dalam konteks ini, ia berfungsi sebagai zharaf zaman (keterangan waktu) yang menjelaskan durasi pengecualian, atau bisa juga dianggap sebagai mustatsna (yang dikecualikan) yang manshub."
+      },
+      "hikmah": "Kata ini mengungkapkan keyakinan mereka bahwa jika pun mereka masuk neraka, itu hanya akan berlangsung dalam waktu yang sangat singkat, yaitu 'beberapa hari' saja. Ini menunjukkan rasa aman yang keliru dan meremehkan ancaman azab Allah.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "مَّعۡدُودَةࣰۚ",
+      "transliterasi": "ma'dūdah",
+      "jenis_kata": "Isim",
+      "arti": "yang terhitung, terbatas, beberapa",
+      "sharaf": {
+        "akar_kata": "ع د د",
+        "makna_dasar": "menghitung, jumlah",
+        "wazan_perubahan": "Isim Maf'ul dari Fi'il Tsulatsi Mujarrad (fa'ala) - مفعولة (maf'ūlah)"
+      },
+      "nahwu": {
+        "kedudukan": "Na'at (sifat) dari 'أَيَّامًا' (hari-hari) yang tersirat atau disebutkan sebelumnya",
+        "irab_dan_logika": "Mansub (berharakat fathah) karena menjadi Na'at (sifat) dari Man'ut (yang disifati) yang juga Mansub (yaitu 'أَيَّامًا' yang tersirat atau disebutkan sebelumnya)."
+      },
+      "hikmah": "Kata ini menggarisbawahi keyakinan keliru kaum Yahudi bahwa siksa neraka bagi mereka hanya akan berlangsung singkat dan terbatas, menunjukkan kesombongan dan penolakan mereka terhadap kebenaran.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "قُلۡ",
+      "transliterasi": "qul",
+      "jenis_kata": "Fi'il",
+      "arti": "Katakanlah!",
+      "sharaf": {
+        "akar_kata": "ق و ل",
+        "makna_dasar": "berkata, mengatakan",
+        "wazan_perubahan": "Fi'il Amr (Kata Kerja Perintah) dari Fi'il Tsulatsi Mujarrad (fa'ala) - افعل (if'al), dengan penghilangan huruf illat (waw) karena sukun bertemu sukun. Asalnya: قُوْلْ (qūl)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Amr, berfungsi sebagai perintah langsung dari Allah kepada Nabi Muhammad SAW.",
+        "irab_dan_logika": "Mabni (tetap) di atas sukun karena Fi'il Amr yang sahih akhir."
+      },
+      "hikmah": "Ini adalah perintah tegas dari Allah kepada Nabi Muhammad SAW untuk menantang klaim palsu kaum Yahudi, menegaskan pentingnya menyampaikan kebenaran dan membantah kesesatan.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "أَتَّخَذۡتُمۡ",
+      "transliterasi": "attakhaztum",
+      "jenis_kata": "Fi'il",
+      "arti": "Apakah kalian telah mengambil/menerima?",
+      "sharaf": {
+        "akar_kata": "أ خ ذ",
+        "makna_dasar": "mengambil, menerima",
+        "wazan_perubahan": "Fi'il Madhi (Kata Kerja Lampau) dari wazan افتعل (ifta'ala), dengan penambahan hamzah istifham (pertanyaan) di awal. Asalnya: اتَّخَذَ (ittakhadha)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Madhi, berfungsi sebagai pertanyaan retoris yang menantang klaim mereka.",
+        "irab_dan_logika": "Mabni (tetap) di atas sukun karena bersambung dengan Ta' Fa'il (تُم - tum) yang merupakan dhomir rafa' muttashil. Hamzah di awal adalah hamzah istifham (kata tanya) yang tidak mempengaruhi i'rab."
+      },
+      "hikmah": "Ini adalah pertanyaan retoris yang menohok, menuntut bukti atas klaim mereka, dan secara implisit menunjukkan bahwa klaim tersebut tidak berdasar pada janji Allah.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "عِندَ",
+      "transliterasi": "inda",
+      "jenis_kata": "Isim",
+      "arti": "di sisi, di dekat, pada",
+      "sharaf": {
+        "akar_kata": "ع ن د",
+        "makna_dasar": "di sisi, di dekat",
+        "wazan_perubahan": "Isim Makan (Keterangan Tempat) atau Isim Zaman (Keterangan Waktu), sering berfungsi sebagai Zharaf."
+      },
+      "nahwu": {
+        "kedudukan": "Zharaf Makan (keterangan tempat), mansub sebagai maf'ul fih.",
+        "irab_dan_logika": "Mansub (berharakat fathah) karena berfungsi sebagai Zharaf (keterangan tempat/waktu). Ia juga mudhaf (yang disandarkan) kepada 'ٱللَّهِ'."
+      },
+      "hikmah": "Kata ini menunjukkan sumber atau pihak yang memberikan janji, yaitu Allah SWT. Penempatan kata ini menekankan bahwa janji yang dimaksud harus berasal langsung dari Allah, bukan sekadar asumsi manusia.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "ٱللَّهِ",
+      "transliterasi": "Allāhi",
+      "jenis_kata": "Isim",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "أ ل ه",
+        "makna_dasar": "Tuhan, yang disembah",
+        "wazan_perubahan": "Isim 'Alam (Nama Diri), nama khusus bagi Tuhan Yang Maha Esa."
+      },
+      "nahwu": {
+        "kedudukan": "Mudhaf Ilaih (yang disandari) dari 'عِندَ'.",
+        "irab_dan_logika": "Majrur (berharakat kasrah) karena menjadi Mudhaf Ilaih dari 'عِندَ' (zharaf yang berfungsi sebagai mudhaf)."
+      },
+      "hikmah": "Ini adalah Nama Dzat Yang Maha Agung, menegaskan bahwa janji yang sah dan benar hanya bisa datang dari-Nya. Ini menyoroti kesucian dan keagungan Allah sebagai satu-satunya sumber kebenaran.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "عَهۡدࣰا",
+      "transliterasi": "ahdan",
+      "jenis_kata": "Isim",
+      "arti": "janji, perjanjian",
+      "sharaf": {
+        "akar_kata": "ع ه د",
+        "makna_dasar": "berjanji, mengadakan perjanjian",
+        "wazan_perubahan": "Isim Mashdar (Kata Benda Verbal) dari Fi'il Tsulatsi Mujarrad (fa'ala) - فَعْل (fa'l)."
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul Bih (objek) dari Fi'il 'أَتَّخَذۡتُمۡ'.",
+        "irab_dan_logika": "Mansub (berharakat fathah) karena menjadi Maf'ul Bih (objek) dari kata kerja 'أَتَّخَذۡتُمۡ' (apakah kalian telah mengambil/menerima)."
+      },
+      "hikmah": "Kata ini merujuk pada janji atau perjanjian yang sah, menekankan bahwa klaim mereka tentang siksa neraka yang singkat harus didasarkan pada janji yang jelas dari Allah, bukan sekadar angan-angan.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "فَلَن",
+      "transliterasi": "fa-lan",
+      "jenis_kata": "Huruf",
+      "arti": "maka tidak akan / lalu tidak akan",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Athaf/Isti'naf dan Huruf Nashab",
+        "irab_dan_logika": "`فَ` (fa') adalah huruf athaf atau isti'naf (permulaan kalimat baru) yang tidak memiliki i'rab. `لَن` adalah huruf nashab yang berfungsi menashabkan (memfathahkan) fi'il mudhari' setelahnya, sekaligus memberikan makna peniadaan di masa depan secara mutlak."
+      },
+      "hikmah": "Gabungan huruf ini menunjukkan konsekuensi atau kelanjutan dari pertanyaan sebelumnya, sekaligus menegaskan penolakan atau peniadaan suatu tindakan di masa depan dengan penekanan.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "یُخۡلِفَ",
+      "transliterasi": "yukhli-fa",
+      "jenis_kata": "Fi'il",
+      "arti": "Dia akan mengingkari / Dia akan menyalahi",
+      "sharaf": {
+        "akar_kata": "خ ل ف (kha-lam-fa)",
+        "makna_dasar": "Mengganti, menyalahi, mengingkari, datang setelah.",
+        "wazan_perubahan": "Fi'il Mudhari' dari Bab IV (أَفْعَلَ - يُفْعِلُ), yaitu أَخْلَفَ - يُخْلِفُ. Bentuknya adalah mudhari' ma'lum (aktif)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Manshub",
+        "irab_dan_logika": "Fi'il mudhari' ini dinashabkan oleh huruf `لَن` sebelumnya, sehingga harakat akhirnya adalah fathah (يُخْلِفَ). Fa'il (pelaku) dari fi'il ini adalah `ٱللَّهُ` (Allah) yang datang setelahnya."
+      },
+      "hikmah": "Kata ini menjelaskan tindakan mengingkari atau menyalahi janji. Dalam konteks ayat, ini menegaskan bahwa Allah mustahil melakukan pengingkaran janji, menunjukkan kesempurnaan dan kebenaran-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "ٱللَّهُ",
+      "transliterasi": "Allāhu",
+      "jenis_kata": "Isim",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "ا ل ه (a-lam-ha) – Isim Dzat yang unik",
+        "makna_dasar": "Tuhan, yang disembah.",
+        "wazan_perubahan": "N/A (Isim Dzat)"
+      },
+      "nahwu": {
+        "kedudukan": "Fa'il (subjek/pelaku)",
+        "irab_dan_logika": "Isim ini marfu' (dirafa'kan) dengan tanda dhammah (ٱللَّهُ) karena ia adalah fa'il dari fi'il `یُخۡلِفَ`. Fa'il selalu dalam keadaan marfu'."
+      },
+      "hikmah": "Merujuk kepada Dzat Yang Maha Kuasa, pencipta alam semesta. Dalam konteks ayat, penempatannya sebagai fa'il menekankan bahwa Allah-lah yang tidak akan mengingkari janji-Nya, menunjukkan keagungan dan kebenaran janji-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "عَهۡدَهُۥۤۖ",
+      "transliterasi": "ahdahu",
+      "jenis_kata": "Isim + Dhamir",
+      "arti": "janji-Nya",
+      "sharaf": {
+        "akar_kata": "ع ه د ('ain-ha-dal)",
+        "makna_dasar": "Janji, perjanjian, sumpah, ikatan.",
+        "wazan_perubahan": "`عَهْد` adalah isim (kata benda). `هُ` adalah dhamir muttasil (kata ganti sambung)."
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul Bih (objek)",
+        "irab_dan_logika": "`عَهْدَ` adalah manshub (dinashabkan) dengan tanda fathah karena ia adalah maf'ul bih dari fi'il `یُخۡلِفَ`. Maf'ul bih selalu manshub. `هُ` adalah dhamir muttasil yang majrur secara mahal (posisi) sebagai mudhaf ilaih dari `عَهْدَ`, merujuk kepada `ٱللَّهُ`."
+      },
+      "hikmah": "Menekankan pentingnya janji Allah, yang tidak mungkin diingkari. Ini menjadi dasar kepercayaan bagi orang-orang beriman dan menunjukkan bahwa janji Allah adalah kebenaran mutlak.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "أَمۡ",
+      "transliterasi": "am",
+      "jenis_kata": "Huruf",
+      "arti": "ataukah",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Athaf (penghubung)",
+        "irab_dan_logika": "Huruf athaf yang berfungsi untuk memberikan pilihan atau pertanyaan alternatif, seringkali setelah pertanyaan sebelumnya. Tidak memiliki i'rab (mabni)."
+      },
+      "hikmah": "Menunjukkan adanya dua kemungkinan atau pilihan yang saling berlawanan, mendorong pendengar untuk merenungkan mana di antara keduanya yang benar dan logis. Ini adalah alat retoris untuk menantang klaim yang tidak berdasar.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "تَقُولُونَ",
+      "transliterasi": "taqūlūna",
+      "jenis_kata": "Fi'il",
+      "arti": "kalian mengatakan / kalian berkata",
+      "sharaf": {
+        "akar_kata": "ق و ل (qaf-waw-lam)",
+        "makna_dasar": "Berkata, mengatakan, berbicara.",
+        "wazan_perubahan": "Fi'il Mudhari' dari Bab I (فَعَلَ - يَفْعُلُ), yaitu قَالَ - يَقُولُ. Bentuknya adalah fi'il mudhari' marfu' dengan nun (af'alul khamsah) untuk dhamir antum (kalian laki-laki jamak)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Marfu'",
+        "irab_dan_logika": "Fi'il ini marfu' karena tidak didahului oleh huruf nashab atau jazm. Tanda rafa'nya adalah tetapnya nun (ثبوت النون) karena termasuk Af'alul Khamsah (lima fi'il). Wau (و) yang melekat padanya adalah fa'ilnya."
+      },
+      "hikmah": "Menyoroti tindakan berbicara atau membuat pernyataan. Dalam konteks ayat, ini secara khusus merujuk pada tindakan mengatakan sesuatu yang tidak didasari ilmu, bukti, atau janji dari Allah, menunjukkan kesembronoan dalam berbicara tentang hal-hal ilahi.",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "عَلَى",
+      "transliterasi": "ala",
+      "jenis_kata": "Huruf",
+      "arti": "di atas, atas, terhadap, mengenai",
+      "sharaf": {
+        "akar_kata": "Tidak memiliki akar kata sharaf (huruf)",
+        "makna_dasar": "Tidak memiliki makna dasar sharaf (huruf)",
+        "wazan_perubahan": "Tidak memiliki wazan (huruf)"
+      },
+      "nahwu": {
+        "kedudukan": "Harf Jar (preposisi)",
+        "irab_dan_logika": "Huruf mabni (tetap) di atas sukun. Berfungsi men-jar-kan (membuat majrur) isim setelahnya. Dalam konteks ini, ia menunjukkan objek dari perkataan atau tuduhan."
+      },
+      "hikmah": "Dalam ayat ini, `عَلَى` digunakan untuk menunjukkan bahwa perkataan atau tuduhan yang tidak berdasar itu diarahkan 'terhadap' atau 'mengenai' Allah. Ini menekankan keseriusan tindakan berbicara tanpa ilmu tentang Dzat Yang Maha Tinggi.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "ٱللَّهِ",
+      "transliterasi": "Allahi",
+      "jenis_kata": "Isim",
+      "arti": "Allah (Nama Dzat Tuhan)",
+      "sharaf": {
+        "akar_kata": "ا ل ه (ilah)",
+        "makna_dasar": "Tuhan, yang disembah",
+        "wazan_perubahan": "Isim Dzat Allah adalah Isim Alam (nama diri) dan tidak di-wazan-kan seperti fi'il atau isim musytaq lainnya."
+      },
+      "nahwu": {
+        "kedudukan": "Isim Majrur",
+        "irab_dan_logika": "Majrur karena didahului oleh Harf Jar `عَلَى`. Tanda jarnya adalah kasrah di akhir. Ini menunjukkan bahwa Allah adalah objek dari perkataan yang tidak berdasar tersebut."
+      },
+      "hikmah": "Merujuk kepada Dzat Tuhan Yang Maha Esa. Dalam konteks ayat, ini adalah objek dari perkataan atau tuduhan yang tidak memiliki dasar pengetahuan, menunjukkan betapa lancangnya mereka berbicara tentang Allah tanpa ilmu.",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "مَا",
+      "transliterasi": "ma",
+      "jenis_kata": "Isim Maushul",
+      "arti": "apa yang, sesuatu yang",
+      "sharaf": {
+        "akar_kata": "Tidak memiliki akar kata sharaf (huruf/isim maushul)",
+        "makna_dasar": "Tidak memiliki makna dasar sharaf (huruf/isim maushul)",
+        "wazan_perubahan": "Tidak memiliki wazan (huruf/isim maushul)"
+      },
+      "nahwu": {
+        "kedudukan": "Isim Maushul",
+        "irab_dan_logika": "Isim maushul mabni (tetap) di atas sukun. Dalam konteks ini, ia berfungsi sebagai objek dari fi'il `تَقُولُونَ` (yang tersirat dari konteks ayat sebelumnya atau sebagai pengganti dari `تَقُولُونَهُ`). Ini berarti 'apa yang kamu katakan'."
+      },
+      "hikmah": "Di sini, `مَا` berfungsi sebagai isim maushul (kata sambung) yang berarti 'apa yang' atau 'sesuatu yang'. Ini menghubungkan perbuatan 'mengatakan' dengan objeknya, yaitu 'apa yang tidak diketahui'. Ini menunjukkan bahwa perkataan mereka tidak memiliki dasar kebenaran.",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "لَا",
+      "transliterasi": "la",
+      "jenis_kata": "Huruf",
+      "arti": "tidak, jangan",
+      "sharaf": {
+        "akar_kata": "Tidak memiliki akar kata sharaf (huruf)",
+        "makna_dasar": "Tidak memiliki makna dasar sharaf (huruf)",
+        "wazan_perubahan": "Tidak memiliki wazan (huruf)"
+      },
+      "nahwu": {
+        "kedudukan": "Harf Nafi (huruf peniadaan)",
+        "irab_dan_logika": "Huruf mabni (tetap) di atas sukun. Berfungsi menafikan (meniadakan) fi'il mudhari' setelahnya tanpa mengubah harakatnya. Ia meniadakan perbuatan 'mengetahui'."
+      },
+      "hikmah": "Menunjukkan penolakan atau peniadaan. Dalam konteks ini, ia menafikan pengetahuan, sehingga menjadi 'tidak mengetahui'. Ini menegaskan bahwa perkataan mereka tentang Allah tidak didasari oleh pengetahuan yang benar.",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "تَعۡلَمُونَ",
+      "transliterasi": "ta'lamūna",
+      "jenis_kata": "Fi'il",
+      "arti": "kalian mengetahui",
+      "sharaf": {
+        "akar_kata": "ع ل م ('ain-lam-mim)",
+        "makna_dasar": "Mengetahui, ilmu, belajar",
+        "wazan_perubahan": "Fi'il Mudhari' dari Bab IV (أَفْعَلَ - يُفْعِلُ) yaitu dari `عَلِمَ - يَعْلَمُ`. Wazan `تَفْعَلُونَ` (untuk jamak mudzakkar mukhatab)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Marfu'",
+        "irab_dan_logika": "Fi'il mudhari' marfu' karena tidak didahului oleh amil nashab atau jazm. Tanda rafa'nya adalah tetapnya nun (`ن`) karena termasuk *al-af'al al-khamsah*. Wau (`و`) adalah fa'il (subjek) yang kembali kepada 'kalian'."
+      },
+      "hikmah": "Menunjukkan tindakan mengetahui yang dilakukan oleh orang kedua jamak (kalian). Dalam konteks ayat, ini menekankan bahwa mereka berbicara tentang Allah tanpa dasar pengetahuan yang benar, menunjukkan kebodohan atau kesengajaan mereka dalam membuat klaim palsu.",
+      "role": "none"
     }
   ]
 }

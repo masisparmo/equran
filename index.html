@@ -78,7 +78,9 @@
             <div class="ayah-header">
                 <h2 id="current-surah-name">Surah Name</h2>
                 <div class="ayah-audio-controls">
-                     <button id="play-audio-btn" title="Mainkan Audio"><i class="fas fa-play"></i></button>
+                     <button id="play-audio-btn" title="Mainkan Audio Ayat"><i class="fas fa-play"></i></button>
+                     <button id="download-ayah-btn" title="Download Audio Ayat Ini"><i class="fas fa-download"></i> Ayat</button>
+                     <button id="download-surah-btn" title="Download Audio Semua Ayat di Surah Ini (Kontinyu)"><i class="fas fa-download"></i> Surah</button>
                      <audio id="ayah-audio" src=""></audio>
                 </div>
             </div>
@@ -712,6 +714,9 @@
             </div>
         </div>
     </div>
+
+    <!-- Global Tooltip for Words -->
+    <div id="global-tooltip"></div>
 
     <script src="app.js"></script>
 </body>
