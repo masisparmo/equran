@@ -1,0 +1,420 @@
+{
+  "surah": 2,
+  "ayah": 271,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "إِن",
+      "transliterasi": "in",
+      "jenis_kata": "Huruf",
+      "arti": "jika",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "حرف شرط في بداية الجملة",
+        "irab_dan_logika": "مبني على السكون لا محل له من الإعراب"
+      },
+      "hikmah": "**إِن** menegaskan syarat; menekankan bahwa apa yang akan disebutkan selanjutnya bersifat kondisional.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "تُبْدُوا۟",
+      "transliterasi": "tubdu",
+      "jenis_kata": "Fi'il",
+      "arti": "menampakkan",
+      "sharaf": {
+        "akar_kata": "ب د ي",
+        "makna_dasar": "menunjukkan, memperlihatkan",
+        "wazan_perubahan": "فعل مضارع"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مجزوم بحذف النون بسبب إِن",
+        "irab_dan_logika": "مجزوم لأنه بعد حرف مشبه بجزم"
+      },
+      "hikmah": "**تُبْدُوا** menekankan pentingnya menampakkan sedekah secara terbuka.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "ٱلصَّدَقَٰتِ",
+      "transliterasi": "as-sadaqāti",
+      "jenis_kata": "Isim",
+      "arti": "sedekah",
+      "sharaf": {
+        "akar_kata": "ص د ق",
+        "makna_dasar": "memberi secara sukarela",
+        "wazan_perubahan": "اسم فاعل (صَدةقة)"
+      },
+      "nahwu": {
+        "kedudukan": "اسم منصوب بالفتحة، مفعول به للفعل",
+        "irab_dan_logika": "منصوب لأنه مفعول به"
+      },
+      "hikmah": "**ٱلصَّدَقَاتِ** merupakan objek amal yang dianjurkan, menandakan nilai tinggi dari memberi.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "فَنِعِمَّا",
+      "transliterasi": "fa-ni‘immā",
+      "jenis_kata": "Huruf + Isim",
+      "arti": "maka betapa baik",
+      "sharaf": {
+        "akar_kata": "ن ع م",
+        "makna_dasar": "baik, nikmat",
+        "wazan_perubahan": "فَعِلَّ"
+      },
+      "nahwu": {
+        "kedudukan": "فَ حرف عطف، نِعِمَّا اسم شرط جازم مرفوع",
+        "irab_dan_logika": "نِعِمَّا مرفوع بالضمة لأنه اسم شرط"
+      },
+      "hikmah": "**فَنِعِمَّا** menegaskan keutamaan menampakkan sedekah; “betapa baiknya” hal itu bagi pemberi.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "هِيَ",
+      "transliterasi": "hiya",
+      "jenis_kata": "Isim (kata ganti)",
+      "arti": "dia (perempuan)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "merujuk kepada الصدقات",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "ضمير منفصل في محل رفع مبتدأ",
+        "irab_dan_logika": "مرفوع بالضمة لأنه مبتدأ"
+      },
+      "hikmah": "**هِيَ** mengacu pada الصدقات, menegaskan bahwa sedekah itu sendiri adalah sesuatu yang sangat baik.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "ۖ",
+      "transliterasi": "",
+      "jenis_kata": "Tanda baca",
+      "arti": "tanda berhenti",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Tidak memiliki إعراب، merupakan علامة وقف",
+        "irab_dan_logika": "Tidak berlaku"
+      },
+      "hikmah": "**ۖ** menandai jeda dalam bacaan, memberi kesempatan bagi pendengar merenungkan makna sebelumnya.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "وَإِن",
+      "transliterasi": "wa‑in",
+      "jenis_kata": "Huruf",
+      "arti": "dan jika",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "حرف عطف + حرف شرط يربط الجملة الشرطية بالسابقة",
+        "irab_dan_logika": "مبني على السكون لا يتغير؛ يسبق الفعل الشرطي **تُخْفُوهَا** ويعطي معنى الشرط"
+      },
+      "hikmah": "Menegaskan bahwa apa yang akan disebutkan selanjutnya bersifat bersyarat: *jika* kamu menyembunyikannya...",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "تُخْفُوهَا",
+      "transliterasi": "tukhfūhā",
+      "jenis_kata": "Fi'il",
+      "arti": "kamu (jamak) menyembunyikannya",
+      "sharaf": {
+        "akar_kata": "خ ف ي",
+        "makna_dasar": "menyembunyikan, menghilangkan dari pandangan",
+        "wazan_perubahan": "فَعَلَ – فعل مضارع مرفوع بالضمة"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع بالضمة، والواو للواو الجماعية، والهاء ضمير متصل في محل نصب مفعول به",
+        "irab_dan_logika": "الواو للواو الجماعية لأنها مخاطبة جماعية، والهاء يعود على الصدقة (ها) منصوباً"
+      },
+      "hikmah": "Menunjukkan tindakan menutup kebaikan dari mata publik, yang tetap bernilai meski tersembunyi.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "وَتُؤْتُوهَا",
+      "transliterasi": "wa‑tuʾtūhā",
+      "jenis_kata": "Fi'il",
+      "arti": "dan kamu (jamak) memberikannya",
+      "sharaf": {
+        "akar_kata": "أ و ت",
+        "makna_dasar": "memberi, menyalurkan",
+        "wazan_perubahan": "فَعَلَ – فعل مضارع مرفوع بالضمة"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع بالضمة، والواو للواو الجماعية، والهاء ضمير متصل في محل نصب مفعول به",
+        "irab_dan_logika": "الواو للواو الجماعية لأنها مخاطبة جماعية، والهاء يعود على الصدقة (ها) منصوباً"
+      },
+      "hikmah": "Menekankan aksi memberi kepada yang membutuhkan, menambah nilai amal ketika disalurkan secara tersembunyi.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "ٱلْفُقَرَآءَ",
+      "transliterasi": "al‑fuqārāʾ",
+      "jenis_kata": "Isim",
+      "arti": "orang‑orang miskin",
+      "sharaf": {
+        "akar_kata": "ف ق ر",
+        "makna_dasar": "kekurangan, kemiskinan",
+        "wazan_perubahan": "فُعْلَاء – جمع مذكر سالم"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به للفعل **تُؤْتُوهَا**",
+        "irab_dan_logika": "منصوب بالفتحة لأنه مفعول به منصوب، وهو مضاف مع التعريف (ال) للدلالة على الفقراء كجماعة محددة"
+      },
+      "hikmah": "Menunjukkan bahwa penerima sedekah adalah mereka yang berada dalam keadaan kekurangan, sehingga amal menjadi lebih bernilai.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "فَهُوَ",
+      "transliterasi": "fa‑huwa",
+      "jenis_kata": "Huruf + Isim",
+      "arti": "maka dia/itu",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "حرف عطف (fa) + ضمير منفصل (huwa) في محل رفع خبر مقدم أو توكيد للخبر السابق",
+        "irab_dan_logika": "fa مبني على السكون، huwa مرفوع بالضمة لأنه خبر للضمير المستتر \"الصدقة\""
+      },
+      "hikmah": "Menegaskan bahwa apa yang disebutkan (menyembunyikan dan memberi) adalah lebih baik bagi diri sendiri.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "خَيْرٌۭ",
+      "transliterasi": "khayrun",
+      "jenis_kata": "Isim",
+      "arti": "kebaikan, lebih baik",
+      "sharaf": {
+        "akar_kata": "خ ي ر",
+        "makna_dasar": "baik, baik hati, kebaikan",
+        "wazan_perubahan": "فَعْلٌ – اسم مفرد مرفوع"
+      },
+      "nahwu": {
+        "kedudukan": "خبر مرفوع للضمير \"هو\"",
+        "irab_dan_logika": "مرفوع بالضمة لأنه خبر مرفوع، ويعطي معنى التفضيل \"lebih baik\""
+      },
+      "hikmah": "Menyimpulkan bahwa menyembunyikan sedekah dan memberikannya kepada fakir merupakan tindakan yang paling utama dan mendatangkan kebaikan terbesar.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "لَّكُمْ",
+      "transliterasi": "lakkum",
+      "jenis_kata": "Huruf (preposisi + kata ganti)",
+      "arti": "bagi kamu",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Bagian dari frasa جار ومجرور yang menerangkan kata خَيْرٌ sebelumnya",
+        "irab_dan_logika": "مجرور بالكسرة بسبب حرف الجر لَ (li‑) dan berakhiran dammah pada كُ بسبب الضمائر المتصلة"
+      },
+      "hikmah": "Menunjukkan bahwa kebaikan itu ditujukan khusus untuk orang-orang Muslim",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "ۚ",
+      "transliterasi": "ٰ",
+      "jenis_kata": "Huruf (tanda waqf)",
+      "arti": "tanda jeda/berhenti",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqf yang memisahkan dua bagian kalimat",
+        "irab_dan_logika": "Tidak berirab, berfungsi sebagai pemisah makna"
+      },
+      "hikmah": "Memberi jeda untuk menekankan perbedaan antara kebaikan yang ditampakkan dan yang disembunyikan",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "وَيُكَفِّرُ",
+      "transliterasi": "wa-yukaffiru",
+      "jenis_kata": "Fi'il (verb)",
+      "arti": "dan Dia mengampuni",
+      "sharaf": {
+        "akar_kata": "ك-ف-ر",
+        "makna_dasar": "menutupi, menebus, mengampuni",
+        "wazan_perubahan": "bentuk I (فَعَلَ) pada mudhariʿ dengan awalan وَ"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il mudhariʿ marfūʿ, diawali dengan huruf عطف وَ",
+        "irab_dan_logika": "مرفوع بالضمة لأن الفعل مضارع مرفوع بالضمة"
+      },
+      "hikmah": "Allah menghapus dosa-dosa yang ditutupi oleh amal baik yang disembunyikan",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "عَنكُم",
+      "transliterasi": "ʿankum",
+      "jenis_kata": "Huruf (preposisi) + kata ganti",
+      "arti": "dari kamu",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "جار ومجرور yang menerangkan فعل يُكَفِّرُ",
+        "irab_dan_logika": "مجرور بالكسرة لأن حرف العَـنْ جرّ"
+      },
+      "hikmah": "Menunjukkan objek pengampunan, yaitu dosa‑dosa yang berasal dari diri mereka",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "مِّن",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf (preposisi)",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر يجر ما بعده",
+        "irab_dan_logika": "حرف جر لا إعراب له"
+      },
+      "hikmah": "Menunjukkan sumber atau asal penghapusan dosa",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "سَيِّـَٔاتِكُمْ",
+      "transliterasi": "sayyiʾātikum",
+      "jenis_kata": "Isim (noun)",
+      "arti": "keburukan/kesalahan kalian",
+      "sharaf": {
+        "akar_kata": "س-و-ء",
+        "makna_dasar": "buruk, jahat",
+        "wazan_perubahan": "صيغة جمع مؤنث سالم (فَعْلَة)"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به مجرور بحرف الجر مِّن",
+        "irab_dan_logika": "مجرور بالكسرة لأنّها مضاف إليه بحرف الجر"
+      },
+      "hikmah": "Mengacu pada segala perbuatan dosa yang dihapuskan Allah bila sedekah disembunyikan",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "ۗ",
+      "transliterasi": "—",
+      "jenis_kata": "Huruf",
+      "arti": "*tanda akhir ayat (waqf)*",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "penanda akhir ayat",
+        "irab_dan_logika": "tidak memiliki i‘rāb karena merupakan tanda baca"
+      },
+      "hikmah": "menandai batas akhir ayat, memisahkan satu ayat dari ayat berikutnya",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "وَاللَّهُ",
+      "transliterasi": "wa‑llāhu",
+      "jenis_kata": "Isim",
+      "arti": "*dan Allah*",
+      "sharaf": {
+        "akar_kata": "الله",
+        "makna_dasar": "nama Allah, zat yang Maha Esa",
+        "wazan_perubahan": "bentuk mudharabah dengan huruf wa (و) sebagai huruf al‑wasl"
+      },
+      "nahwu": {
+        "kedudukan": "kata sambung (wa) + isim (Allah) di awal kalimat",
+        "irab_dan_logika": "marfu‘ (مرفوع) dengan dhammah karena berfungsi sebagai mubtada’ tersambung"
+      },
+      "hikmah": "menegaskan bahwa segala pengetahuan dan pengawasan berada pada Allah semata",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "بِمَا",
+      "transliterasi": "bimā",
+      "jenis_kata": "Huruf",
+      "arti": "*dengan apa*",
+      "sharaf": {
+        "akar_kata": "ب",
+        "makna_dasar": "preposisi yang menunjukkan sarana atau sebab",
+        "wazan_perubahan": "b + mā (ما) sebagai majmu‘ ma‘ni"
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar (jar majrur) yang menghubungkan kata kerja berikutnya",
+        "irab_dan_logika": "jar (majrur) karena berfungsi sebagai preposisi, tidak berharakat i‘rāb"
+      },
+      "hikmah": "menunjukkan bahwa Allah mengetahui segala sesuatu *dengan apa* yang dikerjakan manusia",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "تَعْمَلُونَ",
+      "transliterasi": "taʿmalūna",
+      "jenis_kata": "Fiʿil",
+      "arti": "*kamu melakukan*",
+      "sharaf": {
+        "akar_kata": "ع م ل",
+        "makna_dasar": "bekerja, melakukan",
+        "wazan_perubahan": "formulir imperfect (madhi) dengan awalan ta‑ dan akhiran ‑ūna (madhi mudhari‘)"
+      },
+      "nahwu": {
+        "kedudukan": "fiʿil mudhari‘ majzum (مجرور) karena berjar dengan بِمَا",
+        "irab_dan_logika": "marfu‘ bila menjadi predikat, namun dalam konteks ini menjadi majzum karena terikat preposisi بِ"
+      },
+      "hikmah": "menyiratkan bahwa segala perbuatan manusia berada dalam pengawasan Allah",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "خَبِيرٌ",
+      "transliterasi": "khabīrun",
+      "jenis_kata": "Isim",
+      "arti": "*yang Maha Mengetahui*",
+      "sharaf": {
+        "akar_kata": "خ ب ر",
+        "makna_dasar": "mengetahui, mengamati",
+        "wazan_perubahan": "isim fa‘īl (فَعِيل)"
+      },
+      "nahwu": {
+        "kedudukan": "isim sifat (khabīr) yang marfu‘ karena berakhir dengan tanwin dammah",
+        "irab_dan_logika": "marfu‘ (مرفوع) karena menjadi predikat nominal setelah al‑jumuʿah"
+      },
+      "hikmah": "menegaskan sifat Allah yang mengetahui segala sesuatu secara detail dan sempurna",
+      "role": "none"
+    }
+  ]
+}

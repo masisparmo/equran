@@ -79,6 +79,7 @@
                 <h2 id="current-surah-name">Surah Name</h2>
                 <div class="ayah-audio-controls">
                      <button id="play-audio-btn" title="Mainkan Audio Ayat"><i class="fas fa-play"></i></button>
+                     <button id="tafsir-btn" title="Baca Tafsir Ibnu Katsir"><i class="fas fa-book-open"></i> Tafsir</button>
                      <button id="download-ayah-btn" title="Download Audio Ayat Ini"><i class="fas fa-download"></i> Ayat</button>
                      <button id="download-surah-btn" title="Download Audio Semua Ayat di Surah Ini (Kontinyu)"><i class="fas fa-download"></i> Surah</button>
                      <audio id="ayah-audio" src=""></audio>
@@ -259,6 +260,32 @@
                 <button id="send-chat-btn" class="detail-btn" style="background-color: var(--secondary-color); color: #fff; padding: 10px 20px;">
                     <i class="fas fa-paper-plane"></i> Kirim
                 </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Tafsir Modal -->
+    <div id="tafsir-modal" class="modal">
+        <div class="modal-content card" style="max-width: 750px;">
+            <span class="close-btn" id="close-tafsir-modal">&times;</span>
+            <div class="modal-header-tafsir" style="border-bottom: 2px solid var(--border-color); padding-bottom: 10px; margin-bottom: 15px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px;">
+                <div>
+                    <h2 style="color: var(--primary-color); font-size: 1.5rem; margin: 0;"><i class="fas fa-book-open"></i> Tafsir Al-Quran</h2>
+                    <p id="tafsir-title-info" style="font-size: 0.9rem; margin-top: 5px; color: #666;">Surah & Ayat</p>
+                </div>
+                <div class="tafsir-selector-wrapper">
+                    <label for="tafsir-source-select" style="font-size: 0.8rem; font-weight: bold; display: block; margin-bottom: 3px; color: var(--text-muted);">Pilih Sumber:</label>
+                    <select id="tafsir-source-select" style="padding: 6px 12px; border-radius: 6px; border: 1px solid var(--border-color); font-family: var(--font-sans); cursor: pointer; background-color: var(--bg-color); color: var(--text-color); font-size: 0.9rem; outline: none; transition: border-color 0.2s;">
+                        <option value="ibnukatsir">Ibnu Katsir</option>
+                        <option value="alazhar">Al-Azhar (Buya Hamka)</option>
+                    </select>
+                </div>
+            </div>
+            <div id="tafsir-loading" class="loading" style="display: none;">
+                <i class="fas fa-spinner fa-spin"></i> Memuat Tafsir...
+            </div>
+            <div id="tafsir-content" class="tafsir-text-container" style="overflow-y: auto; max-height: 60vh; line-height: 1.8; font-size: 1.1rem; padding-right: 10px;">
+                <!-- Tafsir text will be injected here -->
             </div>
         </div>
     </div>

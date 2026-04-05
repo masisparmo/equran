@@ -236,9 +236,37 @@ select {
     background-color: var(--primary-color);
 }
 
+#tafsir-btn {
+    background-color: var(--primary-color);
+    border: 1px solid var(--border-color);
+}
+
+#tafsir-btn:hover {
+    background-color: var(--secondary-color);
+}
+
+[data-theme="dark"] #tafsir-btn {
+    background-color: var(--card-bg);
+}
+
 .ayah-content {
     margin-bottom: 20px;
     overflow-x: visible; /* Prevent clipping */
+}
+
+.mushaf-end-ayah, .mushaf-end-ayah-block {
+    font-family: var(--font-arabic);
+    font-size: 1.5rem;
+    color: var(--secondary-color);
+    margin-right: 5px;
+    cursor: pointer;
+    transition: transform 0.2s, color 0.2s;
+    display: inline-block;
+}
+
+.mushaf-end-ayah:hover, .mushaf-end-ayah-block:hover {
+    color: var(--primary-color);
+    transform: scale(1.2);
 }
 
 .arabic-text {
@@ -338,6 +366,10 @@ select {
     z-index: 3000;
 }
 
+#tafsir-modal {
+    z-index: 3500;
+}
+
 /* Chat History Styling */
 .chat-message {
     padding: 12px 15px;
@@ -399,7 +431,7 @@ select {
 }
 
 .modal.show {
-    display: flex;
+    display: flex !important;
     animation: fadeIn 0.3s;
 }
 
@@ -472,6 +504,27 @@ select {
 
 [data-theme="dark"] .summary-box {
     background-color: rgba(3, 218, 198, 0.1);
+}
+
+.mushaf-end-ayah, .mushaf-end-ayah-block, .mushaf-tafsir-btn {
+    cursor: pointer;
+    color: var(--primary-color);
+    margin-left: 5px;
+    padding: 2px 8px;
+    border-radius: 50%;
+    transition: all 0.2s;
+    user-select: none;
+    display: inline-block;
+    vertical-align: middle;
+    background: transparent;
+    border: none;
+    font-size: inherit;
+    font-family: inherit;
+}
+
+.mushaf-end-ayah:hover, .mushaf-end-ayah-block:hover, .mushaf-tafsir-btn:hover {
+    background-color: rgba(var(--primary-color-rgb), 0.1);
+    transform: scale(1.1);
 }
 
 .badge {
@@ -1158,4 +1211,75 @@ select {
 #global-tooltip.visible {
     opacity: 1;
     visibility: visible;
+}
+/* Tafsir Styles */
+.tafsir-text-container {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    color: var(--text-color);
+    text-align: justify;
+    padding: 10px 5px;
+}
+
+.tafsir-text {
+    line-height: 1.8;
+    font-size: 1.15rem;
+    margin-bottom: 1.5rem;
+}
+
+/* Tafsir Selector Styles */
+.tafsir-selector-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+#tafsir-source-select {
+    padding: 6px 12px;
+    border-radius: 6px;
+    border: 1px solid var(--border-color);
+    font-family: var(--font-sans);
+    cursor: pointer;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    font-size: 0.9rem;
+    outline: none;
+    transition: all 0.2s ease;
+}
+
+#tafsir-source-select:hover {
+    border-color: var(--secondary-color);
+}
+
+#tafsir-source-select:focus {
+    border-color: var(--secondary-color);
+    box-shadow: 0 0 0 2px rgba(26, 188, 156, 0.1);
+}
+
+[data-theme="dark"] #tafsir-source-select {
+    background-color: #2d2d2d;
+    border-color: #444;
+}
+
+.mushaf-tafsir-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--primary-color);
+    color: #fff;
+    border-radius: 4px;
+    padding: 2px 6px;
+    font-size: 0.8rem;
+    cursor: pointer;
+    margin-right: 5px;
+    transition: background-color 0.2s;
+    vertical-align: middle;
+}
+
+.mushaf-tafsir-btn:hover {
+    background-color: var(--secondary-color);
+}
+
+[data-theme="dark"] .tafsir-text-container {
+    color: #bbb;
 }

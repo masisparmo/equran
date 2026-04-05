@@ -5,6 +5,7 @@ let apiKeys = [];
 let currentApiKeyIndex = 0;
 let groqApiKeys = [];
 let currentGroqKeyIndex = 0;
+let currentTafsirSource = 'ibnukatsir';
 
 // DOM Elements
 const homeBtn = document.getElementById('home-btn');
@@ -66,10 +67,20 @@ const nextMushafPageBtn = document.getElementById('next-mushaf-page-btn');
 const mushafPageInfo = document.getElementById('mushaf-page-info');
 const mushafTranslationToggle = document.getElementById('mushaf-translation-toggle');
 
+// Tafsir Elements
+const tafsirModal = document.getElementById('tafsir-modal');
+const closeTafsirModalBtn = document.getElementById('close-tafsir-modal');
+const tafsirTitleInfo = document.getElementById('tafsir-title-info');
+const tafsirContent = document.getElementById('tafsir-content');
+const tafsirLoading = document.getElementById('tafsir-loading');
+const tafsirBtn = document.getElementById('tafsir-btn');
+
 let currentMushafData = { ayahs: [], translations: [] }; // Store current page data
 let currentWordContext = {}; // Store context for detail explanation
 let currentDeepExplainText = ""; // Store plain markdown text for download/copy
 let chatSessionHistory = []; // Store conversational context for the chat API
+let currentTafsirSurahData = null; // Cache for current surah tafsir
+let currentTafsirSurahSource = null; // Cache source tracking
 
 // --- API Variables ---
 const quranApiBaseUrl = 'https://api.alquran.cloud/v1';
@@ -140,7 +151,8 @@ async function init() {
     await loadTheme();
     await loadApiKeys();
     setupEventListeners();
-    fetchSurahs();
+    initTafsirSelector();
+    loadApiKeys();
 
     // Check if we need to show welcome modal on first load
     if (apiKeys.length === 0 && !sessionStorage.getItem('welcome_dismissed')) {
@@ -160,7 +172,7 @@ function setupEventListeners() {
 
     // Settings Modal
     settingsBtn.addEventListener('click', () => openModal(settingsModal));
-    closeSettingsModalBtn.addEventListener('click', () => closeModal(settingsModal));
+    closeSettingsModalBtn.addEventListener('click', () => { console.log('Closing Settings Modal'); closeModal(settingsModal); });
     addKeyBtn.addEventListener('click', () => addApiKey(newApiKeyInput.value, newApiKeyInput));
     addGroqKeyBtn.addEventListener('click', () => addGroqApiKey(newGroqKeyInput.value, newGroqKeyInput));
     saveSettingsBtn.addEventListener('click', () => closeModal(settingsModal));
@@ -184,6 +196,7 @@ function setupEventListeners() {
     if (welcomeSkipBtn) {
         welcomeSkipBtn.addEventListener('click', () => {
             sessionStorage.setItem('welcome_dismissed', 'true');
+            console.log('Closing Welcome Modal');
             closeModal(welcomeModal);
         });
     }
@@ -191,6 +204,7 @@ function setupEventListeners() {
     if (welcomeSetupBtn) {
         welcomeSetupBtn.addEventListener('click', () => {
             sessionStorage.setItem('welcome_dismissed', 'true');
+            console.log('Closing Welcome Modal');
             closeModal(welcomeModal);
             openModal(settingsModal);
         });
@@ -214,21 +228,18 @@ function setupEventListeners() {
         openModal(aboutModal);
     });
 
-    closeAboutModalBtn.addEventListener('click', () => {
-        closeModal(aboutModal);
-    });
+    closeAboutModalBtn.addEventListener('click', () => { console.log('Closing About Modal'); closeModal(aboutModal); });
 
     helpBtn.addEventListener('click', () => {
         openModal(helpModal);
     });
 
-    closeHelpModalBtn.addEventListener('click', () => {
-        closeModal(helpModal);
-    });
+    closeHelpModalBtn.addEventListener('click', () => { console.log('Closing Help Modal'); closeModal(helpModal); });
 
     // Deep Detail Modal
     if (closeDeepDetailModalBtn) {
         closeDeepDetailModalBtn.addEventListener('click', () => {
+            console.log('Closing Deep Detail Modal');
             closeModal(deepDetailModal);
         });
     }
@@ -265,6 +276,7 @@ function setupEventListeners() {
 
     if (closeAiChatModalBtn) {
         closeAiChatModalBtn.addEventListener('click', () => {
+            console.log('Closing AI Chat Modal');
             closeModal(aiChatModal);
         });
     }
@@ -296,48 +308,62 @@ function setupEventListeners() {
         btn.addEventListener('click', (e) => {
             const closestBtn = e.target.closest('.detail-btn');
             const type = closestBtn.getAttribute('data-type');
-            // Hanya jalankan jika atribut data-type ada (untuk menghindari pemicuan dari tombol Ask AI Expert & Send Chat)
             if (type) {
                 handleDeepExplain(type);
             }
         });
     });
 
-    // Close Modals on outside click
+    // Global Click Handler (Backdrop & Centralized Delegation)
     window.addEventListener('click', (e) => {
-        if (e.target === settingsModal) closeModal(settingsModal);
-        if (e.target === aboutModal) closeModal(aboutModal);
-        if (e.target === helpModal) closeModal(helpModal);
-        if (e.target === deepDetailModal) closeModal(deepDetailModal);
-        if (e.target === aiChatModal) closeModal(aiChatModal);
-        if (e.target === welcomeModal) {
-            sessionStorage.setItem('welcome_dismissed', 'true');
-            closeModal(welcomeModal);
+        // 1. Close Modals on outside click (Backdrop)
+        const activeModal = document.querySelector('.modal.show');
+        if (activeModal && e.target === activeModal) {
+            console.log(`Backdrop click: Closing ${activeModal.id}`);
+            if (activeModal.id === 'welcome-modal') {
+                sessionStorage.setItem('welcome_dismissed', 'true');
+            }
+            closeModal(activeModal);
         }
-        if (e.target === document.getElementById('word-modal')) closeModal(document.getElementById('word-modal'));
+
+        // 2. Handle Mushaf/Home Dynamic Content (Tafsir & Word Click)
+        const tafsirTarget = e.target.closest('.mushaf-tafsir-btn, .mushaf-end-ayah-block, .mushaf-end-ayah');
+        if (tafsirTarget) {
+            e.preventDefault();
+            const surahNum = parseInt(tafsirTarget.dataset.surah);
+            const ayahNum = parseInt(tafsirTarget.dataset.ayah);
+            if (!isNaN(surahNum) && !isNaN(ayahNum)) {
+                openTafsirModal(surahNum, ayahNum);
+            }
+            return;
+        }
+
+        const wordTarget = e.target.closest('.mushaf-word');
+        if (wordTarget) {
+            const surahNum = parseInt(wordTarget.dataset.surah);
+            const ayahNum = parseInt(wordTarget.dataset.ayah);
+            const wordIndex = parseInt(wordTarget.dataset.index);
+            const plainWord = wordTarget.textContent;
+            handleWordClick(plainWord, surahNum, ayahNum, wordIndex, wordTarget);
+        }
     });
 
     // Close Modals with Escape key
     window.addEventListener('keydown', (e) => {
         if (e.key === 'Escape') {
-            if (welcomeModal.classList.contains('show')) {
-                sessionStorage.setItem('welcome_dismissed', 'true');
-                closeModal(welcomeModal);
-            }
-            if (settingsModal.classList.contains('show')) closeModal(settingsModal);
-            if (aboutModal.classList.contains('show')) closeModal(aboutModal);
-            if (helpModal.classList.contains('show')) closeModal(helpModal);
-            if (aiChatModal.classList.contains('show')) {
-                closeModal(aiChatModal);
-            } else if (deepDetailModal.classList.contains('show')) {
-                closeModal(deepDetailModal);
-            } else if (document.getElementById('word-modal').classList.contains('show')) {
-                closeModal(document.getElementById('word-modal'));
+            const activeModal = document.querySelector('.modal.show');
+            if (activeModal) {
+                console.log(`ESC: Closing ${activeModal.id}`);
+                if (activeModal.id === 'welcome-modal') {
+                    sessionStorage.setItem('welcome_dismissed', 'true');
+                }
+                closeModal(activeModal);
             }
         }
     });
 
     document.getElementById('close-word-modal').addEventListener('click', () => {
+        console.log('Closing Word Modal');
         closeModal(document.getElementById('word-modal'));
     });
 
@@ -404,6 +430,25 @@ function setupEventListeners() {
     // Download Audio Listeners
     document.getElementById('download-ayah-btn').addEventListener('click', downloadCurrentAyahAudio);
     document.getElementById('download-surah-btn').addEventListener('click', downloadCurrentSurahAudio);
+
+    // Tafsir Listener (Home)
+    if (tafsirBtn) {
+        tafsirBtn.addEventListener('click', () => {
+            if (!currentSurahData) return;
+            const ayahSelect = document.getElementById('ayah-select');
+            const surahNum = currentSurahData.number;
+            const ayahNum = parseInt(ayahSelect.value);
+            openTafsirModal(surahNum, ayahNum);
+        });
+    }
+
+    if (closeTafsirModalBtn) {
+        closeTafsirModalBtn.addEventListener('click', (e) => {
+            console.log("Close button (x) click: Closing Tafsir Modal");
+            e.stopPropagation(); // Mencegah pemicu backdrop
+            closeModal(tafsirModal || document.getElementById('tafsir-modal'));
+        });
+    }
 
     // Mushaf Listeners
     mushafJuzInput.addEventListener('change', (e) => loadMushafByJuz(e.target.value));
@@ -659,29 +704,20 @@ function renderMushafPage() {
             htmlContent += `
             <div class="mushaf-ayah-block">
                 <span class="mushaf-ayah" style="display: inline-block; width: 100%; text-align: right;">
-                    ${wordsHtml} <span class="mushaf-end-ayah-block">۝${ayahNumAr}</span>
+                    ${wordsHtml} <button class="mushaf-end-ayah-block" data-surah="${ayah.surah.number}" data-ayah="${ayah.numberInSurah}" aria-label="Tafsir Ayat ${ayah.numberInSurah}">۝${ayahNumAr}</button>
                 </span>
-                <span class="mushaf-translation-text">${ayah.numberInSurah}. ${transText}</span>
+                <span class="mushaf-translation-text">
+                    <button class="mushaf-tafsir-btn" data-surah="${ayah.surah.number}" data-ayah="${ayah.numberInSurah}" title="Lihat Tafsir Ibnu Katsir"><i class="fas fa-book-open"></i></button>
+                    ${ayah.numberInSurah}. ${transText}
+                </span>
             </div>`;
         } else {
             // Normal continuous rendering
-            htmlContent += `<span class="mushaf-ayah">${wordsHtml} <span class="mushaf-end-ayah">۝${ayahNumAr}</span> </span>`;
+            htmlContent += `<span class="mushaf-ayah">${wordsHtml} <button class="mushaf-end-ayah" data-surah="${ayah.surah.number}" data-ayah="${ayah.numberInSurah}" aria-label="Tafsir Ayat ${ayah.numberInSurah}">۝${ayahNumAr}</button> </span>`;
         }
     });
 
     mushafContentContainer.innerHTML = htmlContent;
-
-    // Attach event listeners to words
-    document.querySelectorAll('.mushaf-word').forEach(span => {
-        span.addEventListener('click', (e) => {
-            const surahNum = parseInt(span.dataset.surah);
-            const ayahNum = parseInt(span.dataset.ayah);
-            const wordIndex = parseInt(span.dataset.index);
-            // Reconstruct plain text to pass to handleWordClick
-            const plainWord = span.textContent;
-            handleWordClick(plainWord, surahNum, ayahNum, wordIndex, span);
-        });
-    });
 }
 
 // --- API Integration (Al-Qur'an Cloud) ---
@@ -1909,11 +1945,20 @@ function updateThemeIcon(theme) {
 
 // --- Modals ---
 function openModal(modal) {
+    if (!modal) return;
     modal.classList.add('show');
+    modal.setAttribute('aria-hidden', 'false');
 }
 
 function closeModal(modal) {
+    if (!modal) return;
+    console.log(`Closing modal: ${modal.id || 'unknown'}`);
     modal.classList.remove('show');
+    // Bersihkan gaya inline agar kembali ke default CSS (display: none)
+    modal.style.display = '';
+    
+    // Tambahan keamanan: pastikan aria-hidden jika digunakan (opsional tapi baik untuk aksesibilitas)
+    modal.setAttribute('aria-hidden', 'true');
 }
 
 // --- API Keys Management ---
@@ -2201,3 +2246,146 @@ document.addEventListener('DOMContentLoaded', () => {
         if(globalTooltip) globalTooltip.classList.remove('visible');
     }, { passive: true });
 });
+
+// --- Tafsir Feature ---
+async function fetchTafsir(surahNumber, source = 'ibnukatsir') {
+    const subFolder = source === 'alazhar' ? 'json/' : '';
+    const localTafsirPath = `equran-data/tafsir/${source}/${subFolder}Alquran_${surahNumber}.json`;
+    const tafsirBaseUrlGitHub = 'https://raw.githubusercontent.com/renpwn/alquran.js/v2/json';
+    
+    // 1. Check internal session cache first (fastest)
+    if (currentTafsirSurahData && currentTafsirSurahData.number == surahNumber && currentTafsirSurahSource === source) {
+        return currentTafsirSurahData;
+    }
+
+    // 2. Check local folder
+    try {
+        const localResponse = await fetch(localTafsirPath);
+        if (localResponse.ok) {
+            const localData = await localResponse.json();
+            console.log(`Tafsir Surah ${surahNumber} (${source}) dimuat dari FOLDER LOKAL.`);
+            currentTafsirSurahData = localData;
+            currentTafsirSurahSource = source;
+            return localData;
+        }
+    } catch (localErr) {
+        console.warn(`Local fetch failed for surah ${surahNumber} (${source}), falling back to cache.`, localErr);
+    }
+
+    // Untuk Ibnu Katsir, kita punya fallback ke GitHub
+    if (source === 'ibnukatsir') {
+        const storeKey = `tafsir_surah_ibnukatsir_${surahNumber}`;
+        try {
+            const storedData = await localforage.getItem(storeKey);
+            if (storedData) {
+                console.log(`Tafsir Surah ${surahNumber} dimuat dari IndexedDB cache.`);
+                currentTafsirSurahData = storedData;
+                currentTafsirSurahSource = source;
+                return storedData;
+            }
+        } catch (e) {
+            console.warn("LocalForage: Gagal membaca tafsir dari storage permanen", e);
+        }
+
+        // 4. Final fallback: Fetch from GitHub
+        const url = `${tafsirBaseUrlGitHub}/Alquran_${surahNumber}.json`;
+        try {
+            const response = await fetch(url);
+            if (!response.ok) throw new Error("Gagal mengunduh tafsir dari repositori GitHub");
+            const data = await response.json();
+            
+            // Save to permanent storage for offline use
+            try {
+                await localforage.setItem(storeKey, data);
+                console.log(`Tafsir Surah ${surahNumber} disimpan ke IndexedDB cache.`);
+            } catch(storageErr) {
+                console.warn("Gagal menyimpan tafsir ke storage permanen:", storageErr);
+            }
+            
+            currentTafsirSurahData = data;
+            currentTafsirSurahSource = source;
+            return data;
+        } catch (error) {
+            console.error("fetchTafsir Error:", error);
+            throw error;
+        }
+    } else {
+        // Source lain (seperti Al-Azhar) saat ini hanya tersedia lokal
+        throw new Error(`Data tafsir source '${source}' tidak ditemukan secara lokal.`);
+    }
+}
+
+let activeTafsirSurah = null;
+let activeTafsirAyah = null;
+
+function initTafsirSelector() {
+    const selector = document.getElementById('tafsir-source-select');
+    if (selector) {
+        selector.addEventListener('change', (e) => {
+            currentTafsirSource = e.target.value;
+            if (activeTafsirSurah && activeTafsirAyah) {
+                openTafsirModal(activeTafsirSurah, activeTafsirAyah);
+            }
+        });
+    }
+}
+
+async function openTafsirModal(surahNum, ayahNum) {
+    if (!tafsirModal) {
+        console.error("tafsirModal element not found!");
+        return;
+    }
+    
+    // Simpan state aktif untuk reload saat ganti sumber
+    activeTafsirSurah = surahNum;
+    activeTafsirAyah = ayahNum;
+
+    console.log(`Menampilkan Modal Tafsir (${currentTafsirSource}): QS ${surahNum}:${ayahNum}`);
+    
+    // Pastikan selector sinkron dengan state
+    const selector = document.getElementById('tafsir-source-select');
+    if (selector) selector.value = currentTafsirSource;
+
+    openModal(tafsirModal);
+    
+    tafsirLoading.style.display = 'flex';
+    tafsirContent.style.display = 'none';
+    tafsirTitleInfo.textContent = `Menyiapkan Tafsir ${currentTafsirSource === 'alazhar' ? 'Al-Azhar' : 'Ibnu Katsir'} Surah ${surahNum}, Ayat ${ayahNum}...`;
+    tafsirContent.innerHTML = '';
+
+    try {
+        const surahTafsirData = await fetchTafsir(surahNum, currentTafsirSource);
+        
+        // Cek apakah data ayat ada
+        const ayahTafsir = surahTafsirData.ayahs[ayahNum - 1];
+        
+        if (ayahTafsir) {
+            const surahObj = surahsData.find(s => s.number == surahNum);
+            const surahName = surahObj ? surahObj.englishName : `Surah ${surahNum}`;
+            
+            const sourceLabel = currentTafsirSource === 'alazhar' ? 'Al-Azhar' : 'Ibnu Katsir';
+            const tafsirText = currentTafsirSource === 'alazhar' ? ayahTafsir.al_azhar : (ayahTafsir.ibnu_katsir || ayahTafsir.tafsir);
+
+            if (tafsirText) {
+                tafsirTitleInfo.textContent = `Surah ${surahName} (${surahNum}), Ayat ${ayahNum} - ${sourceLabel}`;
+                tafsirContent.innerHTML = `<div class="tafsir-text">${tafsirText}</div>`;
+                tafsirContent.style.display = 'block';
+            } else {
+                tafsirTitleInfo.textContent = `Tafsir Tidak Ditemukan`;
+                tafsirContent.innerHTML = `<p>Mohon maaf, teks Tafsir ${sourceLabel} untuk ayat ini belum tersedia.</p>`;
+                tafsirContent.style.display = 'block';
+            }
+        } else {
+            tafsirTitleInfo.textContent = `Ayat Tidak Ditemukan`;
+            tafsirContent.innerHTML = `<p>Data untuk ayat ${ayahNum} tidak tersedia dalam database tafsir ini.</p>`;
+            tafsirContent.style.display = 'block';
+        }
+    } catch (error) {
+        console.error("Modal Tafsir Error:", error);
+        tafsirTitleInfo.textContent = "Kesalahan Muat Data";
+        tafsirContent.innerHTML = `<p>Gagal mengambil data Tafsir. Pastikan file JSON tersedia di folder <code>equran-data/tafsir/${currentTafsirSource}/</code>.</p>`;
+        tafsirContent.style.display = 'block';
+    } finally {
+        tafsirLoading.style.display = 'none';
+    }
+}

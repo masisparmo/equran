@@ -1,0 +1,438 @@
+{
+  "surah": 2,
+  "ayah": 272,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "لَّيْسَ",
+      "transliterasi": "laysa",
+      "jenis_kata": "Huruf (kata negatif)",
+      "arti": "bukan",
+      "sharaf": {
+        "akar_kata": "ل-ا",
+        "makna_dasar": "tidak ada (negasi)",
+        "wazan_perubahan": "tidak berlaku (partikel)"
+      },
+      "nahwu": {
+        "kedudukan": "Khabar (predikat) dalam jumla ismiyyah (kalimat nominal)",
+        "irab_dan_logika": "Dhammah karena berfungsi sebagai fi'il mudhari‘ (khabar)"
+      },
+      "hikmah": "Menegaskan bahwa tidak ada kewajiban pada diri kita untuk memberi petunjuk, melainkan hanya Allah yang dapat melakukannya.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "عَلَيْكَ",
+      "transliterasi": "ʿalayka",
+      "jenis_kata": "Huruf (preposisi) dengan zamir",
+      "arti": "atasmu",
+      "sharaf": {
+        "akar_kata": "ع-ل-ى",
+        "makna_dasar": "di atas, mengenai",
+        "wazan_perubahan": "preposisi + suffiks pronominal"
+      },
+      "nahwu": {
+        "kedudukan": "Jar (preposisi) yang menghubungkan laysa dengan hudāhum",
+        "irab_dan_logika": "Mujarrab kasrah karena preposisi"
+      },
+      "hikmah": "Menunjukkan bahwa tidak ada beban (kewajiban) yang ditimpakan kepadamu dalam hal memberi petunjuk.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "هُدَاهُمْ",
+      "transliterasi": "hudāhum",
+      "jenis_kata": "Isim (kata benda)",
+      "arti": "petunjuk mereka",
+      "sharaf": {
+        "akar_kata": "ه-د-ي",
+        "makna_dasar": "petunjuk, hidayah",
+        "wazan_perubahan": "فُعْلًا (hudā) + ضمير متصل (hum)"
+      },
+      "nahwu": {
+        "kedudukan": "Khabar (predikat) untuk laysa",
+        "irab_dan_logika": "Mansūb (berkasrah) karena menjadi khabar laysa"
+      },
+      "hikmah": "Petunjuk itu milik Allah, bukan beban yang harus ditanggung manusia.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "وَلَٰكِنَّ",
+      "transliterasi": "walâkinna",
+      "jenis_kata": "Huruf (kata sambung)",
+      "arti": "tetapi",
+      "sharaf": {
+        "akar_kata": "ك-ن-ن",
+        "makna_dasar": "menyatakan pertentangan",
+        "wazan_perubahan": "kata sambung"
+      },
+      "nahwu": {
+        "kedudukan": "Harf 'ataf (kata hubung)",
+        "irab_dan_logika": "Tidak berirab, menghubungkan dua kalimat"
+      },
+      "hikmah": "Memberi peralihan makna, menegaskan bahwa yang berikutnya adalah realitas yang berbeda.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "ٱللَّهَ",
+      "transliterasi": "Allāha",
+      "jenis_kata": "Isim (nama Allah)",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "ل-ه",
+        "makna_dasar": "Tuhan, Sang Pencipta",
+        "wazan_perubahan": "Ism al-Muʿallaq"
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada' (subjek) untuk fi'il yahdī setelah wa‑lakinna",
+        "irab_dan_logika": "Mansūb (berkasrah) karena wa‑lakinna bersifat 'inna'"
+      },
+      "hikmah": "Allah-lah yang memiliki hak mutlak memberi petunjuk kepada siapa yang dikehendaki-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "يَهْدِي",
+      "transliterasi": "yahdī",
+      "jenis_kata": "Fi'il (kata kerja)",
+      "arti": "menunjukkan jalan, memberi petunjuk",
+      "sharaf": {
+        "akar_kata": "ه-د-ي",
+        "makna_dasar": "hidayah, petunjuk",
+        "wazan_perubahan": "فَعَلَ (fa‘ala) – bentuk mudhari‘"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il mudhari‘ (verb) yang berhubungan dengan mubtada' Allah",
+        "irab_dan_logika": "Marfu‘ (berdhammah) karena fi'il mudhari‘"
+      },
+      "hikmah": "Allah-lah yang menuntun siapa saja yang dikehendaki-Nya ke jalan yang benar.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "مَن",
+      "transliterasi": "man",
+      "jenis_kata": "Isim",
+      "arti": "siapa",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "siapa",
+        "wazan_perubahan": "bentuk asli (tanpa wazan)"
+      },
+      "nahwu": {
+        "kedudukan": "isim ma'rifah sebagai objek (مفعول به) pada fi'il يَهْدِي",
+        "irab_dan_logika": "مَن منصوب بالكسرة لأنّه مفعول به"
+      },
+      "hikmah": "Allah memberi petunjuk kepada siapa yang Dia kehendaki, menegaskan bahwa petunjuk bukan hak manusia melainkan kehendak Allah",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "يَشَآءُ",
+      "transliterasi": "yashā'u",
+      "jenis_kata": "Fi'il",
+      "arti": "dia menghendaki",
+      "sharaf": {
+        "akar_kata": "ش-ا-ء",
+        "makna_dasar": "ingin, menghendaki",
+        "wazan_perubahan": "فعل مضارع غير مزيد"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il مضارع مرفوع يعمل خبرًا للـمَن",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فعل مضارع مرفوع"
+      },
+      "hikmah": "Menunjukkan kekuasaan mutlak Allah dalam menentukan siapa yang diberi petunjuk",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "ۗ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf",
+      "arti": "tanda berhenti (waqf)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "menandai akhir bagian ayat",
+        "irab_dan_logika": "tidak berirab, berfungsi sebagai tanda baca"
+      },
+      "hikmah": "Memberi jeda untuk memaknai ayat secara terpisah",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "وَمَا",
+      "transliterasi": "wa-mā",
+      "jenis_kata": "Huruf+Isim",
+      "arti": "dan apa",
+      "sharaf": {
+        "akar_kata": "م-ا-",
+        "makna_dasar": "apa (kata tanya)",
+        "wazan_perubahan": "اسم استفهام مبني"
+      },
+      "nahwu": {
+        "kedudukan": "حرف عطف يربط الجملة السابقة بالآية التالية، و\"مَا\" اسم استفهام مفعول به للفعل تُنفِقُوا",
+        "irab_dan_logika": "مَا منصوب لأنه مفعول به"
+      },
+      "hikmah": "Mengajak pembaca menimbang apa yang mereka infakkan demi mencari keridhaan Allah",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "تُنفِقُوا۟",
+      "transliterasi": "tunfiqū",
+      "jenis_kata": "Fi'il",
+      "arti": "kamu menginfakkan",
+      "sharaf": {
+        "akar_kata": "ن-ف-ق",
+        "makna_dasar": "mengeluarkan harta",
+        "wazan_perubahan": "فعل مضارع مرفوع بالضمة"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع يعمل فعلًا رئيسيًا في الجملة",
+        "irab_dan_logika": "مرفوع بالضمة الظاهرة على آخره لأنّه فعل مضارع"
+      },
+      "hikmah": "Menegaskan bahwa setiap infak yang baik akan dibalas Allah dengan pahala yang cukup",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "مِنْ",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر يجر ما بعده (خَيْرٍ)",
+        "irab_dan_logika": "حرف جر لا يُعرب، يجر الاسم إلى حالة الجر"
+      },
+      "hikmah": "Menunjukkan sumber atau asal harta yang diinfakkan, yaitu dari apa yang baik dan halal",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "خَيْرٍۢ",
+      "transliterasi": "khairin",
+      "jenis_kata": "Isim (isim mufrad, mudhari‘ marfu‘ bi‑tanwīn kasra)",
+      "arti": "kebaikan, manfaat, sesuatu yang baik",
+      "sharaf": {
+        "akar_kata": "خ‑ي‑ر",
+        "makna_dasar": "baik, baik hati, kebaikan",
+        "wazan_perubahan": "kata dasar (isim) tanpa wazan khusus; ditambahkan tanwīn kasra untuk menandai keadaan nakirah"
+      },
+      "nahwu": {
+        "kedudukan": "objek (ma‘rif) dalam kalimat, berfungsi sebagai **mansoob** setelah kata kerja *tunaqilu* (jika ada) atau sebagai **mubtada’** bila berdiri sendiri",
+        "irab_dan_logika": "مُنصَبٌ بالكسرة لأنّها مضاف إليه غير معرفة (tanwīn kasra) – menandakan bahwa kata ini bersifat **nakirah** dan tidak ditentukan"
+      },
+      "hikmah": "*Kebaikan* di sini menegaskan bahwa apa‑apa yang diberikan dalam bentuk **amal saleh** akan menghasilkan **pahala** yang baik bagi pemberinya.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "فَلِأَنفُسِكُمْ",
+      "transliterasi": "fa li‑anfusikum",
+      "jenis_kata": "Kombinasi huruf (فَ) + huruf jar (لِ) + isim (أنفُس) + ضمير (كُمْ)",
+      "arti": "maka untuk dirimu sendiri",
+      "sharaf": {
+        "akar_kata": "ن‑ف‑س",
+        "makna_dasar": "diri, jiwa, nafsu",
+        "wazan_perubahan": "isim jamak (أنفُس) + ضمير متصل (كُمْ) → “nafus‑kum”; huruf “لِ” menambah arti kepemilikan/tujuan"
+      },
+      "nahwu": {
+        "kedudukan": "keterangan tujuan (حَرف جر + اسم مجرور) yang menjelaskan manfaat *pahala* bagi *mereka*",
+        "irab_dan_logika": "مجرور بالكسرة بسبب حرف الجر *لِ*، والضمير المتصل *كُمْ* يضيف kasrah pada akhir kata (أنفُسِكُمْ)"
+      },
+      "hikmah": "Pahala yang diberikan **untuk diri sendiri**; Allah tidak memaksa manusia, melainkan memberi kesempatan agar tiap individu memperoleh **keberkahan** bagi dirinya.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "ۚ",
+      "transliterasi": "—",
+      "jenis_kata": "Isyarah (tanda waqf / pause)",
+      "arti": "tanda jeda/berhenti",
+      "sharaf": {
+        "akar_kata": "—",
+        "makna_dasar": "—",
+        "wazan_perubahan": "—"
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca yang menandai **akhir ayat** atau **istirahat** singkat dalam bacaan",
+        "irab_dan_logika": "Tidak memiliki i‘rāb karena bukan kata; fungsinya memberi **istirahat** bagi pembaca untuk menimbang makna sebelumnya"
+      },
+      "hikmah": "Menunjukkan **penekanan** pada makna yang baru saja diucapkan, memberi ruang bagi pendengar merenungkan **hikmah** ayat tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "ٱبْتِغَآءَ",
+      "transliterasi": "ib'tighā'i",
+      "jenis_kata": "Isim",
+      "arti": "mencari, mengharapkan",
+      "sharaf": {
+        "akar_kata": "ب-غ-ى",
+        "makna_dasar": "ingin, menginginkan",
+        "wazan_perubahan": "مصدر فعل (مَفْعَل)"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به غير مباشر (مجرور) من الفعل \"تُنفِقُوا\"",
+        "irab_dan_logika": "منصوب بالفتحة الظاهرة على آخره لأنّه مصدر منصوب من الفعل"
+      },
+      "hikmah": "menunjukkan tujuan utama pengeluaran harta, yaitu mencari keridhaan Allah",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "وَجْهِ",
+      "transliterasi": "wajhi",
+      "jenis_kata": "Isim",
+      "arti": "wajah",
+      "sharaf": {
+        "akar_kata": "و-ج-ه",
+        "makna_dasar": "menghadap, mengarahkan",
+        "wazan_perubahan": "مفعل"
+      },
+      "nahwu": {
+        "kedudukan": "مضاف إليه في إعراب الإضافة",
+        "irab_dan_logika": "مجرور بالكسرة لأنه مضاف إليه"
+      },
+      "hikmah": "menunjuk kepada arah atau tujuan yang diharapkan, yaitu menghadap Allah",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "ٱللَّهِ",
+      "transliterasi": "Allāhi",
+      "jenis_kata": "Isim",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "أ-ل-ه",
+        "makna_dasar": "Tuhan, Sang Pencipta",
+        "wazan_perubahan": "اسم علم"
+      },
+      "nahwu": {
+        "kedudukan": "مضاف إليه في الإضافة",
+        "irab_dan_logika": "مجرور بالكسرة لأنه ثاني كلمة في الإضافة"
+      },
+      "hikmah": "menegaskan bahwa tujuan pencarian adalah kepada Allah semata",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "ۚ",
+      "transliterasi": "(waqf)",
+      "jenis_kata": "Huruf",
+      "arti": "tanda berhenti",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "علامة وقف (تنوين) بين جملتين",
+        "irab_dan_logika": "تُستعمل لتقسيم النص وتبيين الوقف"
+      },
+      "hikmah": "menandakan akhir bagian pertama dan mempersiapkan lanjutan ayat",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "وَمَا",
+      "transliterasi": "wamā",
+      "jenis_kata": "Huruf",
+      "arti": "dan apa",
+      "sharaf": {
+        "akar_kata": "م-ا",
+        "makna_dasar": "apa",
+        "wazan_perubahan": "اسم موصول"
+      },
+      "nahwu": {
+        "kedudukan": "حرف عطف يربط ما قبلها بما بعده",
+        "irab_dan_logika": "مستقر لا يتغير إعرابه"
+      },
+      "hikmah": "menghubungkan perintah dengan penjelasan tentang apa yang dikeluarkan",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "تُنفِقُوا۟",
+      "transliterasi": "tunfiqū",
+      "jenis_kata": "Fi'il",
+      "arti": "kamu menginfakkan",
+      "sharaf": {
+        "akar_kata": "ن-ف-ق",
+        "makna_dasar": "mengeluarkan harta",
+        "wazan_perubahan": "فعل مضارع"
+      },
+      "nahwu": {
+        "kedudukan": "فعل أمر نهي (جزم) مسبوق بـ لا",
+        "irab_dan_logika": "جزم لأنه مسبوق بـ لا الناهية"
+      },
+      "hikmah": "menegaskan larangan menginfakkan kecuali dengan niat yang benar dan ikhlas",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "مِنْ",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "menunjuk asal atau sumber",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar yang memerintah isim setelahnya (خَيْرٍ)",
+        "irab_dan_logika": "jar (kasrah) pada huruf karena berfungsi sebagai preposisi"
+      },
+      "hikmah": "menunjukkan bahwa kebaikan yang disebutkan bersumber dari sesuatu, menekankan asalnya",
+      "role": "none"
+    },
+    {
+      "index": 25,
+      "kata_arab": "خَيْرٍۢ",
+      "transliterasi": "khairin",
+      "jenis_kata": "Isim",
+      "arti": "kebaikan",
+      "sharaf": {
+        "akar_kata": "خ-ي-ر",
+        "makna_dasar": "kebaikan, kebajikan",
+        "wazan_perubahan": "maf‘ul"
+      },
+      "nahwu": {
+        "kedudukan": "isim majrur setelah huruf jar مِنْ",
+        "irab_dan_logika": "kasrah karena majrur"
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 30,
+      "kata_arab": "تُظْlَمُونَ",
+      "transliterasi": "tuẓlamūna",
+      "jenis_kata": "Fi'il",
+      "arti": "kamu (dengan) dihalangi/dioppress",
+      "sharaf": {
+        "akar_kata": "ظ-ل-م",
+        "makna_dasar": "menzalimi, menindas",
+        "wazan_perubahan": "faʿala → tuẓlamūna (passive present)"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il mudhari' (present) sebagai predikat setelah \"لا\"",
+        "irab_dan_logika": "marfu' dengan damma pada ن karena berfungsi sebagai fi'il mudhari' yang menyatakan larangan/ketentuan"
+      },
+      "hikmah": "**Hikmah:** Allah tidak akan menzalimi orang yang menafkahkan harta di jalan-Nya; mereka dijamin tidak akan dirugikan.",
+      "role": "none"
+    }
+  ]
+}

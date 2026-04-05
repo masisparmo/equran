@@ -1,0 +1,582 @@
+{
+  "surah": 2,
+  "ayah": 214,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "أَمْ",
+      "transliterasi": "am",
+      "jenis_kata": "Huruf",
+      "arti": "atau, apakah",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Istifham (pertanyaan) atau Huruf 'Athaf (penghubung)",
+        "irab_dan_logika": "Huruf mabni (tetap) di atas sukun, tidak memiliki kedudukan i'rab. Dalam konteks ini, ia berfungsi sebagai `Hamzah al-Istifham` (pertanyaan) yang bermakna ingkar atau ta'ajjub (keheranan), mengindikasikan sangkaan yang keliru."
+      },
+      "hikmah": "Menunjukkan pertanyaan retoris yang mengandung pengingkaran atau keheranan, mengindikasikan bahwa anggapan masuk surga tanpa cobaan adalah keliru dan tidak sesuai dengan sunnatullah.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "حَسِبْتُمْ",
+      "transliterasi": "hasibtum",
+      "jenis_kata": "Fi'il",
+      "arti": "kamu mengira/menyangka",
+      "sharaf": {
+        "akar_kata": "ح س ب (H-S-B)",
+        "makna_dasar": "Mengira, menyangka, menghitung.",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau), wazan فَعِلَ (fa'ila) untuk fi'il tsulatsi mujarrad. Bentuk jamak mudzakkar mukhatab (kalian laki-laki)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Madhi",
+        "irab_dan_logika": "Fi'il Madhi mabni di atas sukun karena bersambung dengan `ta' fa'il` (تُمْ). `تُمْ` adalah dhamir rafa' muttasil (kata ganti subjek yang bersambung) yang berkedudukan sebagai fa'il (subjek)."
+      },
+      "hikmah": "Menyoroti asumsi atau anggapan manusia yang keliru tentang kemudahan jalan menuju surga, tanpa memahami hakikat ujian dan cobaan yang harus dilalui.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "أَن",
+      "transliterasi": "an",
+      "jenis_kata": "Huruf",
+      "arti": "bahwa, untuk",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Mashdariyah dan Nashibah",
+        "irab_dan_logika": "Huruf mabni di atas sukun, tidak memiliki kedudukan i'rab. Berfungsi sebagai huruf yang menashabkan fi'il mudhari' setelahnya dan mengubahnya menjadi makna mashdar (kata benda). Bersama fi'il setelahnya membentuk `mashdar mu'awwal` yang menjadi maf'ul bih (objek) dari `حَسِبْتُمْ`."
+      },
+      "hikmah": "Menghubungkan fi'il sebelumnya (mengira) dengan fi'il setelahnya (masuk), membentuk sebuah 'mashdar mu'awwal' yang menjadi objek dari sangkaan. Mengindikasikan isi dari sangkaan tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "تَدْخُلُوا۟",
+      "transliterasi": "tadkhulū",
+      "jenis_kata": "Fi'il",
+      "arti": "kalian masuk",
+      "sharaf": {
+        "akar_kata": "د خ ل (D-KH-L)",
+        "makna_dasar": "Masuk, memasuki.",
+        "wazan_perubahan": "Fi'il Mudhari' (kata kerja sekarang/akan datang), wazan تَفْعُلُونَ (taf'ulūna) untuk fi'il tsulatsi mujarrad. Bentuk jamak mudzakkar mukhatab (kalian laki-laki). Nun telah dibuang karena dinashabkan oleh `أَن`."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Manshub",
+        "irab_dan_logika": "Fi'il Mudhari' manshub (dinashabkan) oleh `أَن` dengan tanda nashabnya adalah membuang nun (حذف النون) karena termasuk Af'alul Khamsah. Wau jama'ah (و) adalah fa'il (subjek)."
+      },
+      "hikmah": "Merujuk pada tindakan memasuki surga, yang menjadi objek dari sangkaan yang keliru. Menekankan bahwa tindakan ini tidak semudah yang dibayangkan dan memiliki syarat-syarat yang harus dipenuhi.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "ٱلْجَنَّةَ",
+      "transliterasi": "al-jannata",
+      "jenis_kata": "Isim",
+      "arti": "surga",
+      "sharaf": {
+        "akar_kata": "ج ن ن (J-N-N)",
+        "makna_dasar": "Menutupi, menyembunyikan (karena surga tertutup oleh pepohonan atau tersembunyi dari pandangan).",
+        "wazan_perubahan": "Isim Mufrad Muannats (kata benda tunggal perempuan)."
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul Bih (objek)",
+        "irab_dan_logika": "Maf'ul bih manshub (dinashabkan) dengan tanda nashab fathah zhahirah karena ia adalah isim mufrad. Objek dari fi'il `تَدْخُلُوا۟`."
+      },
+      "hikmah": "Tujuan akhir yang didambakan oleh setiap mukmin. Namun, konteks ayat ini mengingatkan bahwa jalan menuju surga tidaklah mudah dan memerlukan pengorbanan serta kesabaran dalam menghadapi cobaan hidup.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "وَلَمَّا",
+      "transliterasi": "wa lammā",
+      "jenis_kata": "Huruf",
+      "arti": "padahal belum, dan belum",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf 'Athaf (penghubung) dan Huruf Jazm (penjasm)",
+        "irab_dan_logika": "`و` (wawu) adalah huruf 'athaf atau wawu haliyah (menjelaskan keadaan). `لَمَّا` adalah huruf jazm yang menafikan fi'il mudhari' dan menjazmkannya, serta menunjukkan bahwa kejadian tersebut belum terjadi hingga sekarang tetapi diharapkan akan terjadi. Mabni di atas sukun, tidak memiliki kedudukan i'rab."
+      },
+      "hikmah": "Menunjukkan kondisi yang kontras atau belum terpenuhi. Menggarisbawahi bahwa syarat untuk masuk surga (yaitu datangnya cobaan) belum terjadi pada mereka yang beranggapan demikian. Ini adalah penegasan bahwa cobaan adalah keniscayaan sebelum mencapai surga.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "يَأْتِكُم",
+      "transliterasi": "Ya'tikum",
+      "jenis_kata": "Fi'il",
+      "arti": "datang kepada kalian",
+      "sharaf": {
+        "akar_kata": "أ ت ي (a-t-y)",
+        "makna_dasar": "Datang, tiba, membawa.",
+        "wazan_perubahan": "Fi'il Mudhari' (kata kerja masa kini/mendatang) yang majzum (dijazmkan). Bentuk aslinya adalah يَأْتِي (ya'ti), namun huruf illat (huruf lemah) 'ي' dihilangkan karena didahului oleh 'لَمْ' (lam nafi jazm). 'كُم' adalah dhamir muttashil (kata ganti sambung) sebagai objek."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Majzum (kata kerja masa kini/mendatang yang dijazmkan). 'كُم' (kum) adalah dhamir muttashil sebagai Maf'ul Bih (objek).",
+        "irab_dan_logika": "Majzum dengan membuang huruf illat 'ي' (ya) karena didahului oleh 'لَمْ' (lam nafi jazm). 'كُم' (kum) adalah dhamir mabni (tidak berubah) dalam posisi nashab sebagai objek."
+      },
+      "hikmah": "Kata ini menekankan bahwa cobaan belum *datang* kepada mereka, menunjukkan bahwa ujian adalah keniscayaan sebelum mencapai surga, dan Allah menunda datangnya ujian sebagai bentuk rahmat atau persiapan bagi hamba-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "مَّثَلُ",
+      "transliterasi": "Mathalu",
+      "jenis_kata": "Isim",
+      "arti": "perumpamaan, contoh, keadaan, halnya",
+      "sharaf": {
+        "akar_kata": "م ث ل (m-th-l)",
+        "makna_dasar": "Menyerupai, menjadi contoh, perumpamaan.",
+        "wazan_perubahan": "Isim (kata benda) dari wazan فَعَلٌ (fa'alun)."
+      },
+      "nahwu": {
+        "kedudukan": "Fa'il (subjek) dari fi'il يَأْتِكُم. Maknanya adalah 'belum datang kepada kalian *perumpamaan* orang-orang sebelum kalian'.",
+        "irab_dan_logika": "Marfu' (rafa') dengan dhammah karena sebagai Fa'il."
+      },
+      "hikmah": "Kata ini menggarisbawahi bahwa ujian yang akan datang bukanlah hal baru, melainkan *perumpamaan* atau pola yang sama dengan apa yang dialami umat-umat terdahulu, menegaskan sunnatullah (ketetapan Allah) dalam menguji hamba-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "ٱلَّذِينَ",
+      "transliterasi": "Alladzīna",
+      "jenis_kata": "Isim Maushul",
+      "arti": "orang-orang yang",
+      "sharaf": {
+        "akar_kata": "Tidak memiliki akar kata dalam arti sharaf biasa karena ini adalah Isim Maushul.",
+        "makna_dasar": "Menghubungkan kalimat, merujuk pada sekelompok orang.",
+        "wazan_perubahan": "Isim Maushul jamak mudzakkar (kata sambung untuk jamak laki-laki)."
+      },
+      "nahwu": {
+        "kedudukan": "Mudhaf Ilaih (kata yang disandarkan kepadanya) dari مَّثَلُ.",
+        "irab_dan_logika": "Mabni (tidak berubah) di atas fathah dalam posisi jar (karena sebagai Mudhaf Ilaih). Isim maushul selalu mabni."
+      },
+      "hikmah": "Kata ini menghubungkan cobaan yang akan datang dengan pengalaman *orang-orang yang* telah berlalu, menunjukkan kesinambungan sejarah ujian keimanan dan bahwa Allah tidak membebani suatu kaum dengan sesuatu yang belum pernah dialami oleh kaum sebelumnya.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "خَلَوْا۟",
+      "transliterasi": "Khalaw",
+      "jenis_kata": "Fi'il",
+      "arti": "telah berlalu, telah lewat, telah terdahulu",
+      "sharaf": {
+        "akar_kata": "خ ل و (kh-l-w)",
+        "makna_dasar": "Kosong, berlalu, menyendiri.",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau) jamak mudzakkar ghaib (mereka laki-laki). Asalnya خَلَا (khala), kemudian ditambahkan wawu alif untuk menunjukkan jamak."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Madhi (kata kerja lampau). 'وَا۟' (wawu alif) adalah Fa'il (subjek) yang kembali kepada ٱلَّذِينَ.",
+        "irab_dan_logika": "Mabni (tidak berubah) di atas dhammah karena bersambung dengan wawu jama'ah."
+      },
+      "hikmah": "Kata ini menggambarkan bahwa ujian adalah bagian dari sejarah *yang telah berlalu* bagi umat-umat terdahulu, menegaskan bahwa kesabaran dan keteguhan adalah kunci untuk melewati fase-fase sulit tersebut, sebagaimana mereka yang terdahulu telah membuktikannya.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "مِن",
+      "transliterasi": "Min",
+      "jenis_kata": "Huruf",
+      "arti": "dari, daripada",
+      "sharaf": {
+        "akar_kata": "Tidak memiliki akar kata karena ini adalah huruf.",
+        "makna_dasar": "Menunjukkan permulaan, sebagian, penjelasan, atau perbandingan.",
+        "wazan_perubahan": "Huruf Jar (kata depan)."
+      },
+      "nahwu": {
+        "kedudukan": "Harf Jar (kata depan).",
+        "irab_dan_logika": "Mabni (tidak berubah) di atas sukun. Berfungsi menjarkan isim setelahnya."
+      },
+      "hikmah": "Kata ini menunjukkan batasan atau asal mula waktu, yaitu *dari* masa sebelum mereka, menekankan bahwa ujian adalah fenomena yang berulang sepanjang sejarah umat manusia, bukan sesuatu yang baru atau unik bagi generasi tertentu.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "قَبْلِكُم",
+      "transliterasi": "Qablikum",
+      "jenis_kata": "Isim",
+      "arti": "sebelum kalian",
+      "sharaf": {
+        "akar_kata": "ق ب ل (q-b-l)",
+        "makna_dasar": "Menghadap, bertemu, sebelumnya.",
+        "wazan_perubahan": "Isim makan/zaman (kata benda tempat/waktu), sering berfungsi sebagai zharaf (keterangan). 'كُم' adalah dhamir muttashil sebagai mudhaf ilaih."
+      },
+      "nahwu": {
+        "kedudukan": "Isim Majrur (kata benda yang dijarkan) oleh مِن. 'كُم' (kum) adalah dhamir muttashil sebagai Mudhaf Ilaih.",
+        "irab_dan_logika": "Majrur dengan kasrah karena didahului oleh Harf Jar مِن. 'كُم' (kum) adalah dhamir mabni dalam posisi jar sebagai Mudhaf Ilaih."
+      },
+      "hikmah": "Kata ini menegaskan bahwa cobaan yang dialami umat-umat *sebelum kalian* adalah pola yang harus dilalui, mengingatkan bahwa kesabaran dan ketabahan adalah warisan spiritual yang diwariskan dari generasi ke generasi.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "ۖ",
+      "transliterasi": "waqf mutlaq",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "Tanda berhenti mutlak",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Tidak berlaku",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Tidak berlaku",
+        "irab_dan_logika": "Tidak berlaku"
+      },
+      "hikmah": "Tanda waqaf mutlaq (berhenti sempurna) yang menunjukkan bahwa pembaca disunahkan untuk berhenti di sini. Ini membantu dalam pemahaman makna ayat dengan memisahkan satu gagasan dari gagasan berikutnya.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "مَّسَّتْهُمُ",
+      "transliterasi": "massathumu",
+      "jenis_kata": "Fi'il",
+      "arti": "menimpa mereka",
+      "sharaf": {
+        "akar_kata": "م س س (m-s-s)",
+        "makna_dasar": "menyentuh, menimpa, mengenai",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau), bentuk muannats ghaibah (dia perempuan), bersambung dengan dhamir 'hum' (mereka) sebagai objek."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il (kata kerja) dan Maf'ul Bih (objek)",
+        "irab_dan_logika": "Kata ini adalah fi'il madhi yang mabniyyun 'ala al-fath al-muqaddar (fathah yang diperkirakan) karena adanya ta' at-ta'nis as-sakinah (تْ) yang menunjukkan subjek perempuan. Ta' at-ta'nis ini tidak memiliki kedudukan i'rab. Dhamir 'hum' (هُمُ) adalah dhamir muttasil (kata ganti bersambung) yang mabniyyun 'ala ad-dham (berharakat dhammah) dan berada pada posisi nashab sebagai maf'ul bih (objek). Harakat dhammah pada mim (مُ) adalah karena pertemuan dua sukun (mim sukun bertemu alif lam pada kata berikutnya), sehingga mim diberi harakat dhammah."
+      },
+      "hikmah": "Kata ini menggambarkan permulaan penderitaan yang secara langsung 'menyentuh' atau 'menimpa' mereka, menunjukkan intensitas dan kedekatan cobaan yang dialami. Ini bukan sekadar 'datang', melainkan 'mengenai' atau 'menimpa' dengan dampak langsung.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "ٱلْبَأْسَآءُ",
+      "transliterasi": "al-ba'sā'u",
+      "jenis_kata": "Isim",
+      "arti": "kemalangan, kesengsaraan, penderitaan fisik",
+      "sharaf": {
+        "akar_kata": "ب أ س (b-'-s)",
+        "makna_dasar": "kesulitan, penderitaan, keberanian",
+        "wazan_perubahan": "Isim mashdar (kata benda abstrak) dengan wazan فَعْلَاءُ (fa'lā'u) yang sering digunakan untuk menunjukkan intensitas atau jenis penderitaan, khususnya yang bersifat fisik atau lahiriah."
+      },
+      "nahwu": {
+        "kedudukan": "Fa'il (subjek)",
+        "irab_dan_logika": "Kata ini marfu' (rafa') dengan tanda dhammah (ـُ) di akhirnya karena berfungsi sebagai fa'il (subjek) dari fi'il مَّسَّتْهُمُ. Artinya, 'kemalangan' inilah yang 'menimpa mereka'."
+      },
+      "hikmah": "Merujuk pada penderitaan fisik, kemiskinan, penyakit, atau kesulitan lahiriah yang menimpa umat terdahulu. Ini adalah ujian yang menguji ketahanan fisik dan materi mereka, bagian dari cobaan yang harus dilalui sebelum mencapai surga.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "وَٱلضَّرَّآءُ",
+      "transliterasi": "waḍ-ḍarrā'u",
+      "jenis_kata": "Isim",
+      "arti": "dan kesengsaraan, kerugian, bahaya, penderitaan batin",
+      "sharaf": {
+        "akar_kata": "ض ر ر (ḍ-r-r)",
+        "makna_dasar": "bahaya, kerugian, mudarat",
+        "wazan_perubahan": "Isim mashdar dengan wazan فَعْلَاءُ (fa'lā'u), serupa dengan ٱلْبَأْسَآءُ, menunjukkan intensitas atau jenis penderitaan, khususnya yang bersifat batiniah atau non-fisik."
+      },
+      "nahwu": {
+        "kedudukan": "Ma'thuf (diikuti) kepada ٱلْبَأْسَآءُ",
+        "irab_dan_logika": "Huruf wawu (و) adalah huruf 'athaf (penghubung) yang menjadikan kata ini mengikuti i'rab kata sebelumnya, yaitu ٱلْبَأْسَآءُ. Karena ٱلْبَأْسَآءُ adalah fa'il yang marfu', maka وَٱلضَّرَّآءُ juga marfu' dengan tanda dhammah (ـُ) di akhirnya."
+      },
+      "hikmah": "Melengkapi makna ٱلْبَأْسَآءُ, kata ini merujuk pada penderitaan batin, kesedihan, ketakutan, atau kerugian yang bersifat non-fisik. Bersama ٱلْبَأْسَآءُ, ini menunjukkan ujian yang komprehensif, baik fisik maupun mental, yang harus dihadapi oleh orang-orang beriman.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "وَزُلْزِلُوا۟",
+      "transliterasi": "wa zulzilū",
+      "jenis_kata": "Fi'il",
+      "arti": "dan mereka diguncangkan (dengan hebat)",
+      "sharaf": {
+        "akar_kata": "ز ل ز ل (z-l-z-l)",
+        "makna_dasar": "mengguncang, menggoncangkan, menggetarkan",
+        "wazan_perubahan": "Fi'il Madhi Majhul (kata kerja lampau pasif) dari fi'il ruba'i mujarrad (empat huruf asli), dengan wazan فُعْلِلُوا (fu'lilū). Dhamir wawu al-jama'ah (و۟) adalah Na'ibul Fa'il (pengganti subjek)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Majhul (kata kerja pasif) dan Na'ibul Fa'il (pengganti subjek)",
+        "irab_dan_logika": "Huruf wawu (و) adalah huruf 'athaf. Kata ini adalah fi'il madhi majhul yang mabniyyun 'ala ad-dham (berharakat dhammah) karena bersambung dengan wawu al-jama'ah (و۟). Wawu al-jama'ah adalah dhamir muttasil (kata ganti bersambung) yang mabniyyun 'ala as-sukun (berharakat sukun) dan berada pada posisi rafa' sebagai na'ibul fa'il (pengganti subjek)."
+      },
+      "hikmah": "Menggambarkan intensitas dan kedahsyatan cobaan yang menimpa mereka, seolah-olah mereka diguncang dari fondasi keyakinan dan ketahanan mereka. Ini adalah ujian yang menguji iman hingga ke akarnya, membuat mereka merasa sangat terguncang dan tidak stabil.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "حَتَّىٰ",
+      "transliterasi": "ḥattā",
+      "jenis_kata": "Huruf",
+      "arti": "sehingga, sampai",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Batas akhir, tujuan, konsekuensi",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf ghayah (batas akhir) atau ta'lil (sebab-akibat)",
+        "irab_dan_logika": "Kata ini adalah huruf yang mabniyyun 'ala as-sukun (berharakat sukun) dan tidak memiliki kedudukan i'rab. Dalam konteks ini, ia berfungsi sebagai huruf ghayah (batas akhir) yang menunjukkan bahwa guncangan dan penderitaan itu terus terjadi *sampai* suatu titik ekstrem, yaitu ketika Rasul dan orang-orang beriman bertanya tentang pertolongan Allah."
+      },
+      "hikmah": "Menunjukkan puncak atau batas akhir dari penderitaan dan guncangan yang dialami. Ini mengindikasikan bahwa cobaan itu berlangsung hingga mencapai titik ekstrem, memicu keputusasaan sesaat dan pertanyaan tentang kapan pertolongan Allah akan datang, yang merupakan bagian dari ujian keimanan.",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "يَقُولَ",
+      "transliterasi": "Yaqūla",
+      "jenis_kata": "Fi'il",
+      "arti": "Berkata, mengatakan",
+      "sharaf": {
+        "akar_kata": "ق و ل (Qāf-Wāw-Lām)",
+        "makna_dasar": "Mengucapkan, berbicara, berpendapat.",
+        "wazan_perubahan": "Fi'il Mudhari' (Kata Kerja Sekarang/Akan Datang) dari Bab I (فَعَلَ - يَفْعُلُ). Bentuk asalnya adalah يَفْعُلُ, namun di sini dinashabkan."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Manshub (Kata Kerja Mudhari' yang dinashabkan)",
+        "irab_dan_logika": "Dinashabkan dengan fathah di akhir karena didahului oleh 'an' (أَنْ) yang tersembunyi setelah 'hatta' (حَتَّى) yang berfungsi sebagai huruf jar. 'Hatta' di sini menunjukkan tujuan atau akibat, sehingga 'an' tersembunyi menashabkan fi'il mudhari' setelahnya."
+      },
+      "hikmah": "Kata ini menandai puncak dari penderitaan dan kesengsaraan, di mana bahkan Rasul dan orang-orang beriman pun mencapai batas kesabaran dan mulai **bertanya** tentang kapan datangnya pertolongan Allah. Ini menunjukkan betapa beratnya cobaan yang mereka alami.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "ٱلرَّسُولُ",
+      "transliterasi": "Ar-Rasūlu",
+      "jenis_kata": "Isim",
+      "arti": "Rasul, Utusan",
+      "sharaf": {
+        "akar_kata": "ر س ل (Rā'-Sīn-Lām)",
+        "makna_dasar": "Mengutus, mengirim, menyampaikan.",
+        "wazan_perubahan": "Isim Fa'il (Pelaku) dengan wazan فَعُولٌ (fa'ūlun) yang menunjukkan makna mubalaghah (berlebihan) atau sifat yang melekat, yaitu 'yang banyak diutus' atau 'yang memiliki sifat diutus'."
+      },
+      "nahwu": {
+        "kedudukan": "Fa'il (Subjek) dari kata kerja يَقُولَ (yaqūla)",
+        "irab_dan_logika": "Marfu' (dirafa'kan) dengan dhammah di akhir karena ia adalah fa'il (pelaku) dari fi'il يَقُولَ. Fa'il selalu marfu'."
+      },
+      "hikmah": "Merujuk pada Nabi atau utusan Allah, yang memimpin umatnya. Kehadiran Rasul dalam pertanyaan ini menunjukkan bahwa ujian yang dihadapi begitu berat sehingga bahkan seorang pemimpin spiritual pun merasakan tekanan dan kerinduan akan pertolongan ilahi, menegaskan universalitas cobaan.",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "وَٱلَّذِينَ",
+      "transliterasi": "Wal-ladhīna",
+      "jenis_kata": "Huruf + Isim Maushul",
+      "arti": "Dan orang-orang yang",
+      "sharaf": {
+        "akar_kata": "Tidak ada akar kata untuk huruf 'waw'. 'Alladhīna' adalah isim maushul jamak.",
+        "makna_dasar": "Waw' berfungsi sebagai penghubung. 'Alladhīna' berfungsi untuk menghubungkan kalimat setelahnya dengan kata sebelumnya, merujuk pada sekelompok orang.",
+        "wazan_perubahan": "Waw' adalah huruf 'athaf' (penghubung). 'Alladhīna' adalah isim maushul jamak mudzakkar salim, yang bentuknya tetap (mabni)."
+      },
+      "nahwu": {
+        "kedudukan": "Ma'thuf (dihubungkan) kepada ٱلرَّسُولُ (Ar-Rasūlu)",
+        "irab_dan_logika": "Waw' adalah huruf 'athaf', sehingga 'alladhīna' mengikuti i'rab dari 'ar-rasūlu'. Karena 'ar-rasūlu' marfu', maka 'alladhīna' juga dalam posisi rafa'. Namun, 'alladhīna' adalah isim mabni (tidak berubah harakat akhirnya), sehingga ia berada dalam posisi rafa' secara mahal (posisi i'rab)."
+      },
+      "hikmah": "Menunjukkan bahwa bukan hanya Rasul, tetapi juga para pengikutnya yang beriman, turut merasakan penderitaan dan keraguan yang sama. Ini menegaskan **solidaritas dan kebersamaan** dalam menghadapi cobaan, di mana seluruh komunitas merasakan dampaknya.",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "ءَامَنُوا۟",
+      "transliterasi": "Āmanū",
+      "jenis_kata": "Fi'il",
+      "arti": "Mereka beriman",
+      "sharaf": {
+        "akar_kata": "أ م ن (Alif-Mīm-Nūn)",
+        "makna_dasar": "Aman, percaya, beriman, merasa tenang.",
+        "wazan_perubahan": "Fi'il Madhi (Kata Kerja Lampau) dari Bab IV (أَفْعَلَ - يُفْعِلُ). Bentuknya adalah أَفْعَلُوا (af'alū), menunjukkan tindakan 'membuat aman' atau 'beriman'."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il dan Fa'il (kata kerja dan subjeknya)",
+        "irab_dan_logika": "Fi'il Madhi mabni 'ala ad-dhamm (dibangun di atas dhammah) karena bersambung dengan waw al-jama'ah (و). Waw al-jama'ah adalah dhamir mabni yang berfungsi sebagai fa'il (subjek) dalam posisi rafa'. Jumlah fi'liyah ini (fi'il dan fa'il) adalah shilah maushul (kalimat penghubung) bagi 'alladhīna', yang tidak memiliki kedudukan i'rab."
+      },
+      "hikmah": "Menggambarkan tindakan iman yang telah dilakukan oleh para pengikut Rasul. Meskipun mereka adalah orang-orang yang **telah beriman**, ayat ini menunjukkan bahwa iman tidak serta-merta menghindarkan seseorang dari ujian berat, melainkan menjadi fondasi untuk bertahan di dalamnya.",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "مَعَهُۥ",
+      "transliterasi": "Ma'ahū",
+      "jenis_kata": "Zharf Makan + Dhamir",
+      "arti": "Bersamanya",
+      "sharaf": {
+        "akar_kata": "م ع ي (Mīm-'Ain-Yā') untuk 'ma'a'. 'Hū' adalah dhamir.",
+        "makna_dasar": "Menunjukkan kebersamaan atau penyertaan.",
+        "wazan_perubahan": "Ma'a' adalah zharf makan (keterangan tempat/kebersamaan). 'Hū' adalah dhamir muttashil (kata ganti bersambung) untuk orang ketiga tunggal laki-laki."
+      },
+      "nahwu": {
+        "kedudukan": "Zharf makan manshub (keterangan tempat yang dinashabkan). 'Hū' adalah mudhaf ilaih (yang disandarkan kepadanya) dalam posisi jar.",
+        "irab_dan_logika": "Ma'a' adalah zharf, dan zharf umumnya manshub. 'Hū' adalah dhamir mabni yang berada di posisi jar sebagai mudhaf ilaih. Zharf ini berkaitan dengan fi'il ءَامَنُوا۟ (āmanū), menjelaskan bahwa mereka beriman *bersama* Rasul."
+      },
+      "hikmah": "Menekankan **kebersamaan dan kesatuan** antara Rasul dan para pengikutnya dalam menghadapi ujian. Ini menunjukkan bahwa mereka adalah satu komunitas yang berbagi pengalaman, saling menguatkan, dan bersama-sama menghadapi kesulitan.",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "مَتَىٰ",
+      "transliterasi": "Matā",
+      "jenis_kata": "Isim Istifham",
+      "arti": "Bilakah, Kapan",
+      "sharaf": {
+        "akar_kata": "Tidak ada akar kata yang jelas untuk isim istifham.",
+        "makna_dasar": "Menanyakan waktu atau periode.",
+        "wazan_perubahan": "Isim istifham (kata tanya) yang bentuknya tetap (mabni)."
+      },
+      "nahwu": {
+        "kedudukan": "Khabar Muqaddam (Predikat yang didahulukan) dari mubtada' mu'akhkhar (subjek yang diakhirkan) yang tersembunyi (yaitu 'pertolongan Allah').",
+        "irab_dan_logika": "Isim istifham mabni 'ala as-sukūn (dibangun di atas sukun) pada alif maqsurah. Berada di posisi rafa' sebagai khabar muqaddam. Pertanyaan ini secara implisit menanyakan 'Kapan pertolongan Allah itu datang?'."
+      },
+      "hikmah": "Mengungkapkan pertanyaan yang penuh **keputusasaan, kerinduan, dan penantian** akan pertolongan Allah. Ini adalah puncak dari penderitaan dan batas kesabaran manusiawi, di mana harapan akan intervensi ilahi menjadi sangat kuat.",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "نَصْرُ",
+      "transliterasi": "Naṣru",
+      "jenis_kata": "Isim",
+      "arti": "Pertolongan",
+      "sharaf": {
+        "akar_kata": "ن ص ر (N-Ṣ-R)",
+        "makna_dasar": "Menolong, membantu, mendukung.",
+        "wazan_perubahan": "Bentuk *maṣdar* (kata benda verbal) dari *fi'il* (kata kerja) *naṣara* (نَصَرَ)."
+      },
+      "nahwu": {
+        "kedudukan": "*Mubtada'* (subjek) yang diakhirkan dan *muḍāf* (kata yang disandarkan).",
+        "irab_dan_logika": "Kata ini *marfūʿ* (berharakat *ḍammah*) karena menjadi *mubtada'* (subjek) dari kalimat tanya 'مَتَىٰ نَصْرُ ٱللَّهِ' (Bilakah pertolongan Allah?)."
+      },
+      "hikmah": "Kata ini menekankan esensi pertolongan ilahi yang menjadi harapan utama bagi orang-orang beriman di tengah kesulitan. Ini bukan sekadar bantuan fisik, melainkan dukungan spiritual dan kekuatan dari Allah.",
+      "role": "none"
+    },
+    {
+      "index": 25,
+      "kata_arab": "ٱللَّهِ",
+      "transliterasi": "Allāhi",
+      "jenis_kata": "Isim",
+      "arti": "Allah (Nama Tuhan)",
+      "sharaf": {
+        "akar_kata": "ا ل ه (A-L-H)",
+        "makna_dasar": "Tuhan, yang disembah.",
+        "wazan_perubahan": "*Lafẓul Jalālah* (Nama Agung Allah), bentuk khusus yang tidak mengikuti wazan umum."
+      },
+      "nahwu": {
+        "kedudukan": "*Muḍāf ilayh* (kata yang disandari).",
+        "irab_dan_logika": "Kata ini *majrūr* (berharakat *kasrah*) karena menjadi *muḍāf ilayh* dari kata sebelumnya, نَصْرُ (pertolongan). Ini menunjukkan bahwa pertolongan tersebut berasal dari Allah."
+      },
+      "hikmah": "Menegaskan bahwa sumber segala pertolongan dan kekuatan adalah Allah semata. Ini menanamkan tauhid dan ketergantungan mutlak kepada-Nya, terutama di saat-saat genting.",
+      "role": "none"
+    },
+    {
+      "index": 26,
+      "kata_arab": "ۗ",
+      "transliterasi": "-",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "Tanda berhenti (waqaf jaiz)",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca Al-Qur'an.",
+        "irab_dan_logika": "Tidak memiliki *i'rab* karena bukan bagian dari struktur kalimat. Ini adalah tanda *waqaf jaiz* (boleh berhenti atau melanjutkan), menunjukkan jeda ringan."
+      },
+      "hikmah": "Memberikan jeda bagi pembaca untuk merenungkan pertanyaan sebelumnya ('Bilakah datangnya pertolongan Allah?') sebelum melanjutkan ke jawaban dan penegasan berikutnya.",
+      "role": "none"
+    },
+    {
+      "index": 27,
+      "kata_arab": "أَلَآ",
+      "transliterasi": "Alā",
+      "jenis_kata": "Huruf",
+      "arti": "Ingatlah!, Ketahuilah!, Sesungguhnya!",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "Menarik perhatian, penekanan.",
+        "wazan_perubahan": "Partikel (huruf) yang tidak mengalami perubahan *wazan*."
+      },
+      "nahwu": {
+        "kedudukan": "*Ḥarf istiftāḥ* (partikel pembuka/penarik perhatian).",
+        "irab_dan_logika": "Tidak memiliki *i'rab* karena merupakan huruf. Fungsinya adalah untuk menarik perhatian dan memberikan penekanan kuat pada kalimat yang mengikutinya."
+      },
+      "hikmah": "Mengisyaratkan adanya informasi penting yang akan disampaikan, berfungsi sebagai penarik perhatian yang kuat, seolah-olah Allah berfirman, 'Perhatikan baik-baik!' Ini mempersiapkan pendengar untuk menerima janji yang agung.",
+      "role": "none"
+    },
+    {
+      "index": 28,
+      "kata_arab": "إِنَّ",
+      "transliterasi": "Inna",
+      "jenis_kata": "Huruf",
+      "arti": "Sesungguhnya, sungguh.",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "Penekanan, penguatan.",
+        "wazan_perubahan": "Partikel (huruf) yang tidak mengalami perubahan *wazan*."
+      },
+      "nahwu": {
+        "kedudukan": "*Ḥarf tawkīd wa naṣb* (partikel penegas dan penashab).",
+        "irab_dan_logika": "Tidak memiliki *i'rab* karena merupakan huruf. Fungsinya adalah untuk menguatkan makna kalimat yang mengikutinya dan menashabkan *isim*-nya (menjadikannya *manṣūb*)."
+      },
+      "hikmah": "Memberikan penegasan yang sangat kuat terhadap kebenaran pernyataan yang akan disampaikan. Ini menghilangkan keraguan dan menanamkan keyakinan penuh pada janji Allah.",
+      "role": "none"
+    },
+    {
+      "index": 29,
+      "kata_arab": "نَصْرَ",
+      "transliterasi": "Naṣra",
+      "jenis_kata": "Isim",
+      "arti": "Pertolongan",
+      "sharaf": {
+        "akar_kata": "ن ص ر (N-Ṣ-R)",
+        "makna_dasar": "Menolong, membantu, mendukung.",
+        "wazan_perubahan": "Bentuk *maṣdar* (kata benda verbal) dari *fi'il* (kata kerja) *naṣara* (نَصَرَ)."
+      },
+      "nahwu": {
+        "kedudukan": "*Isim Inna* (subjek dari *Inna*).",
+        "irab_dan_logika": "Kata ini *manṣūb* (berharakat *fatḥah*) karena menjadi *isim Inna*. *Inna* menashabkan *isim*-nya dan merafa'kan *khabar*-nya."
+      },
+      "hikmah": "Mengulangi kata 'pertolongan' setelah penegasan 'أَلَآ إِنَّ' untuk menekankan kembali bahwa pertolongan yang dinanti-nantikan itu pasti datang dan sangat dekat. Perubahan harakat dari *ḍammah* (pada نَصْرُ sebelumnya) menjadi *fatḥah* (نَصْرَ) menunjukkan perubahan fungsi gramatikalnya dalam kalimat, namun maknanya tetap sama: pertolongan.",
+      "role": "none"
+    },
+    {
+      "index": 30,
+      "kata_arab": "ٱللَّهِ",
+      "transliterasi": "Allāhi",
+      "jenis_kata": "Isim",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "Tidak memiliki akar kata dalam arti sharaf biasa karena ini adalah Isim Dzat yang unik.",
+        "makna_dasar": "Nama Dzat Tuhan Yang Maha Esa, pencipta alam semesta.",
+        "wazan_perubahan": "Tidak berlaku untuk Isim Dzat."
+      },
+      "nahwu": {
+        "kedudukan": "Mudhaf ilaih (kata sandaran) dari kata sebelumnya, yaitu 'نَصْرُ' (pertolongan).",
+        "irab_dan_logika": "Majrur (berharakat kasrah) karena berfungsi sebagai mudhaf ilaih. Dalam tata bahasa Arab, mudhaf ilaih selalu dalam keadaan majrur."
+      },
+      "hikmah": "Penyebutan nama Allah dalam konteks ini menekankan bahwa pertolongan yang dinanti-nantikan adalah pertolongan yang datang dari Dzat Yang Maha Kuasa, menunjukkan keagungan dan kemahakuasaan-Nya dalam memberikan jalan keluar dari segala kesulitan. Ini menguatkan keyakinan bahwa hanya Allah-lah sumber segala pertolongan.",
+      "role": "none"
+    },
+    {
+      "index": 31,
+      "kata_arab": "قَرِيبٌۭ",
+      "transliterasi": "qarībun",
+      "jenis_kata": "Isim",
+      "arti": "dekat",
+      "sharaf": {
+        "akar_kata": "ق ر ب (q-r-b)",
+        "makna_dasar": "Mendekat, mendekatkan, menjadi dekat.",
+        "wazan_perubahan": "فَعِيلٌ (fa'īlun) - menunjukkan sifat atau pelaku yang memiliki sifat tersebut secara intens atau permanen. Dalam konteks ini, sebagai kata sifat."
+      },
+      "nahwu": {
+        "kedudukan": "Khabar (predikat) dari 'إِنَّ' (sesungguhnya) yang mana 'نَصْرَ ٱللَّهِ' (pertolongan Allah) adalah isimnya. Jadi, 'قَرِيبٌۭ' adalah khabar inna.",
+        "irab_dan_logika": "Marfu' (berharakat dhammah) karena menjadi khabar inna. Khabar inna selalu dalam keadaan marfu'."
+      },
+      "hikmah": "Kata 'قَرِيبٌۭ' (dekat) memberikan harapan dan ketenangan yang mendalam bagi orang-orang beriman yang sedang menghadapi cobaan berat. Ini menegaskan bahwa meskipun pertolongan Allah mungkin terasa lambat di mata manusia, sesungguhnya ia sudah sangat dekat dan pasti akan datang pada waktu yang tepat, menguji kesabaran dan keimanan hamba-Nya. Ini adalah janji yang menguatkan hati.",
+      "role": "none"
+    }
+  ]
+}
