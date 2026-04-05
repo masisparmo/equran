@@ -1,0 +1,582 @@
+{
+  "surah": 2,
+  "ayah": 114,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "وَمَنْ",
+      "transliterasi": "Wa man",
+      "jenis_kata": "Huruf (Waw) + Isim (Man)",
+      "arti": "Dan siapa",
+      "sharaf": {
+        "akar_kata": "N/A (untuk Waw), م ن ي (untuk Man)",
+        "makna_dasar": "Penghubung (Waw), Interogatif/Relatif (Man)",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Waw: Huruf Athaf. Man: Isim Istifham/Maushul, berkedudukan sebagai mubtada'.",
+        "irab_dan_logika": "Waw: Harf athaf, mabniyyun 'alal fath, tidak memiliki kedudukan i'rab. Man: Isim istifham/maushul, mabniyyun 'alas sukun, berada pada posisi rafa' sebagai mubtada'."
+      },
+      "hikmah": "Kata ini memulai sebuah pertanyaan retoris yang sangat kuat, menyiratkan bahwa tidak ada kezaliman yang lebih besar daripada perbuatan yang akan disebutkan selanjutnya. 'Waw' berfungsi sebagai penghubung, sementara 'man' menanyakan 'siapa' dalam konteks perbandingan.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "أَظْلَمُ",
+      "transliterasi": "Azhlamu",
+      "jenis_kata": "Isim (Isim Tafdhil)",
+      "arti": "Lebih zalim",
+      "sharaf": {
+        "akar_kata": "ظ ل م (Zha-La-Ma)",
+        "makna_dasar": "Kezaliman, kegelapan, menempatkan sesuatu bukan pada tempatnya",
+        "wazan_perubahan": "أَفْعَلُ (Af'alu) - Wazan Isim Tafdhil"
+      },
+      "nahwu": {
+        "kedudukan": "Khabar dari mubtada' 'man' (pada وَمَنْ).",
+        "irab_dan_logika": "Khabar marfu', tanda rafa'nya adalah dhammah. Kata ini adalah isim tafdhil yang tidak beralif lam dan tidak diidhafahkan, sehingga ia termasuk 'mamnu' minash sharaf' (tidak menerima tanwin dan kasrah), oleh karena itu tanda rafa'nya hanya dhammah tanpa tanwin."
+      },
+      "hikmah": "Menegaskan puncak kezaliman. Penggunaan isim tafdhil 'azhlamu' (lebih zalim) menunjukkan bahwa perbuatan yang akan dijelaskan adalah kezaliman tertinggi, tidak ada yang bisa menandinginya dalam tingkat keburukan dan dosanya di sisi Allah.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "مِمَّن",
+      "transliterasi": "Mimman",
+      "jenis_kata": "Huruf (Min) + Isim (Man)",
+      "arti": "Daripada orang yang",
+      "sharaf": {
+        "akar_kata": "N/A (untuk Min), م ن ي (untuk Man)",
+        "makna_dasar": "Perbandingan (Min), Relatif (Man)",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Jar Majrur (Min adalah huruf jar, Man adalah Isim Maushul yang majrur).",
+        "irab_dan_logika": "Min: Harf jar, mabniyyun 'alas sukun (telah diidghamkan ke mim berikutnya). Man: Isim maushul, mabniyyun 'alas sukun, berada pada posisi jarr karena didahului oleh huruf jar 'min'."
+      },
+      "hikmah": "Frasa ini berfungsi untuk memulai perbandingan, menunjukkan bahwa kezaliman yang dibicarakan adalah 'daripada' atau 'lebih dari' kezaliman yang dilakukan oleh 'orang yang' memiliki sifat-sifat tertentu. Ini mengarahkan perhatian pada jenis pelaku kezaliman yang spesifik.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "مَّنَعَ",
+      "transliterasi": "Mana'a",
+      "jenis_kata": "Fi'il (Fi'il Madhi)",
+      "arti": "Menghalangi, mencegah",
+      "sharaf": {
+        "akar_kata": "م ن ع (Ma-Na-'a)",
+        "makna_dasar": "Menghalangi, mencegah, melarang, menahan",
+        "wazan_perubahan": "فَعَلَ (Fa'ala) - Wazan Fi'il Madhi Tsulatsi Mujarrad"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il madhi, menjadi shilah maushul (kalimat penghubung) bagi 'man' sebelumnya. Fa'ilnya (pelaku) adalah dhamir mustatir (tersembunyi) yang kembali kepada 'man'.",
+        "irab_dan_logika": "Fi'il madhi, mabniyyun 'alal fath. Fa'ilnya adalah dhamir mustatir jawazan takdiruhu huwa (dia), kembali kepada 'man'."
+      },
+      "hikmah": "Kata ini menggambarkan tindakan aktif dan sengaja untuk menghalangi atau mencegah. Ini menunjukkan bahwa kezaliman yang dimaksud bukanlah kelalaian semata, melainkan upaya yang disengaja untuk menghentikan sesuatu yang seharusnya terjadi, yaitu ibadah di masjid.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "مَسَٰجِدَ",
+      "transliterasi": "Masajida",
+      "jenis_kata": "Isim (Jama' Taksir)",
+      "arti": "Masjid-masjid",
+      "sharaf": {
+        "akar_kata": "س ج د (Sa-Ja-Da)",
+        "makna_dasar": "Sujud, tunduk, tempat sujud",
+        "wazan_perubahan": "مَفَاعِلُ (Mafaa'ilu) - Wazan jama' taksir, sighah muntahal jumu' (bentuk jamak paling akhir)"
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul bih (objek) dari fi'il 'mana'a'.",
+        "irab_dan_logika": "Maf'ul bih manshub, tanda nashabnya adalah fathah. Karena ia adalah 'sighah muntahal jumu'' (bentuk jamak yang tidak menerima tanwin dan kasrah), maka tanda nashabnya adalah fathah tanpa tanwin."
+      },
+      "hikmah": "Penggunaan bentuk jamak 'masajida' (masjid-masjid) menunjukkan bahwa penghalangan ini tidak terbatas pada satu masjid saja, melainkan mencakup semua tempat ibadah yang didirikan untuk Allah. Ini menekankan luasnya kejahatan dan dampak dari tindakan tersebut, yaitu menghalangi ibadah di banyak tempat suci.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "ٱللَّهِ",
+      "transliterasi": "Allahi",
+      "jenis_kata": "Isim (Isim Jalalah)",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "أ ل ه (A-La-Ha)",
+        "makna_dasar": "Tuhan, yang disembah, yang berhak diibadahi",
+        "wazan_perubahan": "N/A (Isim 'Alam)"
+      },
+      "nahwu": {
+        "kedudukan": "Mudhaf ilaih (kata yang disandarkan) dari 'masajida'.",
+        "irab_dan_logika": "Mudhaf ilaih majrur, tanda jarrnya adalah kasrah. Ini menunjukkan kepemilikan atau hubungan antara masjid-masjid tersebut dengan Allah."
+      },
+      "hikmah": "Menegaskan bahwa masjid-masjid tersebut adalah milik Allah, bukan milik manusia. Oleh karena itu, menghalangi penyebutan nama Allah di dalamnya adalah bentuk kezaliman yang langsung ditujukan kepada hak Allah SWT. Ini meningkatkan bobot dosa dari perbuatan tersebut, karena menyerang hak Dzat Yang Maha Agung.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "أَن",
+      "transliterasi": "An",
+      "jenis_kata": "Huruf",
+      "arti": "Bahwa, untuk",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Nashab",
+        "irab_dan_logika": "Merupakan huruf nashab yang berfungsi menashabkan fi'il mudhari' setelahnya. Dalam konteks ayat ini, ia menghubungkan perbuatan 'menghalang-halangi' dengan tujuan 'agar disebutkan nama Allah'."
+      },
+      "hikmah": "Menunjukkan tujuan atau hasil dari tindakan menghalang-halangi, yaitu agar nama Allah tidak disebutkan. Ini menekankan kesengajaan dalam perbuatan tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "يُذْكَرَ",
+      "transliterasi": "Yudhkara",
+      "jenis_kata": "Fi'il",
+      "arti": "Disebutkan, diingat",
+      "sharaf": {
+        "akar_kata": "ذ ك ر (dh-k-r)",
+        "makna_dasar": "Mengingat, menyebut, berzikir.",
+        "wazan_perubahan": "Fi'il Mudhari' Majhul (pasif) dari Wazan I (فَعَلَ - يَفْعُلُ/يَفْعَلُ). Bentuk aktifnya adalah يَذْكُرُ (yadhkuru)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Majhul Manshub",
+        "irab_dan_logika": "Manshub (dinashabkan) karena didahului oleh huruf nashab 'أَن'. Tanda nashabnya adalah fathah pada huruf ra (ـرَ). Karena ia adalah fi'il majhul, maka ia memiliki Na'ibul Fa'il (pengganti subjek) setelahnya."
+      },
+      "hikmah": "Menekankan bahwa yang dihalang-halangi adalah tindakan pasif 'disebutkannya' nama Allah. Ini menunjukkan bahwa pihak yang aniaya berusaha mencegah agar nama Allah tidak diagungkan di tempat-tempat ibadah-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "فِيهَا",
+      "transliterasi": "Fīhā",
+      "jenis_kata": "Huruf + Isim Dhomir",
+      "arti": "Di dalamnya, di sana",
+      "sharaf": {
+        "akar_kata": "N/A (huruf) + هـ و (ha-wa) untuk dhomir",
+        "makna_dasar": "N/A (huruf) + dia (feminin tunggal)",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Jar Majrur",
+        "irab_dan_logika": "فِي' adalah huruf jar, sehingga 'هَا' (dhomir muttasil) berada dalam posisi jar. Dhomir 'هَا' merujuk kepada 'مَسَاجِدِهِ' (masjid-masjid-Nya) yang disebutkan sebelumnya dalam ayat."
+      },
+      "hikmah": "Menentukan lokasi spesifik di mana nama Allah seharusnya disebut, yaitu di dalam masjid-masjid. Ini mempertegas kesucian dan fungsi utama masjid sebagai tempat zikir dan ibadah kepada Allah.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "ٱسْمُهُۥ",
+      "transliterasi": "Ismuhu",
+      "jenis_kata": "Isim + Isim Dhomir",
+      "arti": "Nama-Nya",
+      "sharaf": {
+        "akar_kata": "س م و (s-m-w) untuk 'اسم' + هـ و (ha-wa) untuk dhomir",
+        "makna_dasar": "Nama, tanda.",
+        "wazan_perubahan": "N/A (isim jamid)"
+      },
+      "nahwu": {
+        "kedudukan": "Na'ibul Fa'il",
+        "irab_dan_logika": "Marfu' (dirafa'kan) karena ia adalah Na'ibul Fa'il dari fi'il majhul 'يُذْكَرَ'. Tanda rafa'nya adalah dhommah pada huruf mim (ـمُ). Dhomir 'هُۥ' (hu) adalah mudhaf ilaih, merujuk kepada Allah."
+      },
+      "hikmah": "Menegaskan bahwa yang dihalang-halangi untuk disebut adalah 'Nama Allah' itu sendiri, bukan hal lain. Ini menunjukkan betapa besar dan seriusnya kejahatan tersebut, karena menyangkut penghinaan terhadap Dzat Allah.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "وَسَعَىٰ",
+      "transliterasi": "Wa sa'ā",
+      "jenis_kata": "Huruf + Fi'il",
+      "arti": "Dan berusaha, dan berupaya",
+      "sharaf": {
+        "akar_kata": "س ع ي (s-'-y)",
+        "makna_dasar": "Berjalan cepat, berusaha, berjuang.",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau) dari Wazan I (فَعَلَ)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Madhi Ma'thuf",
+        "irab_dan_logika": "Fi'il madhi mabni (tetap) di atas fathah muqaddarah (tersembunyi) pada alif layyinah karena ada halangan. Huruf 'وَ' adalah huruf 'athaf (penghubung) yang menghubungkan perbuatan ini dengan perbuatan menghalang-halangi sebelumnya, menunjukkan dua tindakan keji yang dilakukan secara bersamaan."
+      },
+      "hikmah": "Menunjukkan bahwa tindakan aniaya tersebut bukan hanya pasif (menghalangi), tetapi juga aktif dan disengaja, dengan upaya keras dan sungguh-sungguh untuk merusak atau menghancurkan. Ini menambah bobot kejahatan dan niat buruk pelakunya.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "فِى",
+      "transliterasi": "Fī",
+      "jenis_kata": "Huruf",
+      "arti": "Di, dalam",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Jar",
+        "irab_dan_logika": "Huruf jar yang menyebabkan isim setelahnya menjadi majrur. Dalam konteks ini, ia menunjukkan tujuan atau arah dari upaya yang dilakukan, yaitu 'dalam' atau 'untuk' merobohkan masjid."
+      },
+      "hikmah": "Menjelaskan konteks atau tujuan dari 'usaha' yang dilakukan, yaitu 'dalam' atau 'untuk' merobohkan masjid. Ini menunjukkan bahwa upaya mereka diarahkan langsung pada penghancuran fisik atau fungsional masjid.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "خَرَابِهَآ",
+      "transliterasi": "kharābihā",
+      "jenis_kata": "Isim",
+      "arti": "kehancurannya, perobohannya",
+      "sharaf": {
+        "akar_kata": "خ ر ب",
+        "makna_dasar": "Merusak, menghancurkan, menjadi reruntuhan.",
+        "wazan_perubahan": "Kata `خَرَاب` adalah *mashdar* (verbal noun) dari `خَرَبَ` (kharaba - merusak) dengan wazan `فَعَال`. Penambahan `ها` (hā) adalah *dhamir muttasil* (kata ganti sambung) yang merujuk pada 'masjid-masjid'."
+      },
+      "nahwu": {
+        "kedudukan": "*Majrur* (dijarkan) oleh huruf *jar* `فِي`.",
+        "irab_dan_logika": "Kata `خَرَابِ` berharakat *kasrah* karena didahului oleh huruf *jar* `فِي`. Huruf `ها` (hā) adalah *dhamir muttasil* yang berada dalam posisi *mahall jar idafah* (sebagai *mudhaf ilaih*)."
+      },
+      "hikmah": "Kata ini menekankan tindakan merusak atau menghancurkan masjid, baik secara fisik maupun fungsional, sebagai bentuk kezaliman yang sangat besar dan tercela.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "Huruf",
+      "arti": "Tanda berhenti (waqaf lazim)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "N/A",
+        "irab_dan_logika": "N/A"
+      },
+      "hikmah": "Tanda waqaf ini menunjukkan bahwa kalimat sebelumnya telah selesai dan ada jeda makna yang kuat sebelum memulai kalimat berikutnya. Ini memisahkan dua gagasan utama: kezaliman menghalangi dan merusak masjid, dengan hukuman bagi pelakunya.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "أُو۟لَٰٓئِكَ",
+      "transliterasi": "ulā'ika",
+      "jenis_kata": "Isim Isyarah",
+      "arti": "Mereka itu",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "Menunjuk kepada sekelompok orang atau benda yang jauh.",
+        "wazan_perubahan": "Ini adalah bentuk jamak dari kata tunjuk `ذَلِكَ` (dzālika) atau `تِلْكَ` (tilka) untuk yang berakal."
+      },
+      "nahwu": {
+        "kedudukan": "*Mubtada'* (subjek) dari kalimat baru.",
+        "irab_dan_logika": "*Isim isyarah* adalah *mabni* (tetap) di atas *kasrah* pada huruf terakhirnya (kaf), tetapi dalam posisi *rafa'* sebagai *mubtada'*."
+      },
+      "hikmah": "Kata ini berfungsi sebagai penunjuk tegas kepada orang-orang yang telah melakukan kezaliman yang disebutkan sebelumnya (menghalangi dan merusak masjid), menegaskan bahwa hukuman yang akan datang adalah khusus bagi mereka.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "مَا",
+      "transliterasi": "mā",
+      "jenis_kata": "Huruf",
+      "arti": "Tidak",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "Menafikan, meniadakan.",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf *nafiyah* (peniadaan).",
+        "irab_dan_logika": "Huruf *mabni* yang tidak memiliki *i'rab*. Fungsinya adalah menafikan atau meniadakan makna dari *fi'il nāqis* `كَانَ` yang mengikutinya."
+      },
+      "hikmah": "Penggunaan `مَا` di sini sangat penting untuk menegaskan penolakan atau larangan keras. Ini menunjukkan bahwa sama sekali tidak pantas atau tidak seharusnya bagi mereka untuk masuk ke masjid kecuali dalam keadaan takut.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "كَانَ",
+      "transliterasi": "kāna",
+      "jenis_kata": "Fi'il Nāqis",
+      "arti": "Adalah, seharusnya, pantas",
+      "sharaf": {
+        "akar_kata": "ك و ن",
+        "makna_dasar": "Ada, terjadi, menjadi.",
+        "wazan_perubahan": "`كَانَ` adalah *fi'il mādhī* (kata kerja lampau) dari *fi'il ajwaf* (huruf tengah illat) dengan wazan `فَعَلَ`. Ini adalah *fi'il nāqis* yang berfungsi mengangkat *isim* dan menasabkan *khabar*."
+      },
+      "nahwu": {
+        "kedudukan": "*Fi'il mādhī nāqis*.",
+        "irab_dan_logika": "*Fi'il mādhī* adalah *mabni* (tetap) di atas *fathah*. Di sini, `كَانَ` berfungsi sebagai *fi'il nāqis* yang memerlukan *isim* dan *khabar*. *Isim* `كَانَ` adalah `أَن يَدْخُلُوهَآ` (bahwa mereka masuk ke dalamnya) yang berada dalam posisi *rafa'*, sedangkan *khabar* `كَانَ` adalah `لَهُمْ` (bagi mereka) yang berada dalam posisi *nasb* secara *mahalli* (karena *jar majrur*)."
+      },
+      "hikmah": "`كَانَ` di sini tidak hanya berarti 'adalah' di masa lampau, tetapi lebih kepada 'seharusnya' atau 'pantas'. Ketika digabungkan dengan `مَا` (mā kāna), maknanya menjadi 'tidak seharusnya' atau 'tidak pantas sama sekali'. Ini menekankan ketidaklayakan mereka untuk memasuki masjid kecuali dengan rasa takut.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "لَهُمْ",
+      "transliterasi": "lahum",
+      "jenis_kata": "Huruf + Isim",
+      "arti": "Bagi mereka",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "`لَـ` (li) menunjukkan kepemilikan, tujuan, atau keberadaan. `هُمْ` (hum) adalah kata ganti orang ketiga jamak laki-laki.",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "*Jar Majrur* (huruf *jar* dan *isim majrur*). Berfungsi sebagai *khabar muqaddam* (khabar yang didahulukan) dari `كَانَ`.",
+        "irab_dan_logika": "`لَـ` adalah huruf *jar* yang *mabni* di atas *fathah*. `هُمْ` adalah *dhamir muttasil* yang *mabni* di atas *sukun* (pada mim) dan berada dalam posisi *mahall jar* sebagai *majrur* oleh huruf `لَـ`. Gabungan `لَهُمْ` secara keseluruhan berada dalam posisi *nasb* sebagai *khabar* dari `كَانَ`."
+      },
+      "hikmah": "Frasa ini menegaskan bahwa 'bagi mereka' (orang-orang zalim tersebut) tidak ada hak atau kelayakan untuk masuk ke masjid. Ini menyoroti bahwa hak masuk ke rumah Allah adalah bagi mereka yang bertakwa dan menghormatinya, bukan bagi mereka yang merusaknya.",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "أَن",
+      "transliterasi": "an",
+      "jenis_kata": "Huruf",
+      "arti": "bahwa, untuk, agar",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk huruf",
+        "makna_dasar": "Partikel penegas/penghubung",
+        "wazan_perubahan": "Tidak berlaku untuk huruf"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Nashab (penghubung dan penashab fi'il mudhari')",
+        "irab_dan_logika": "Berfungsi sebagai huruf nashab yang menashabkan fi'il mudhari' setelahnya. Dalam konteks ini, ia menashabkan fi'il 'yadkhulūhā' (yang asalnya 'yadkhulūna')."
+      },
+      "hikmah": "Partikel ini berfungsi sebagai penghubung dan penegas, seringkali mengindikasikan tujuan atau hasil. Dalam ayat ini, ia menunjukkan bahwa mereka tidak seharusnya masuk kecuali dalam kondisi tertentu, atau sebagai masdariyah yang mengubah fi'il menjadi makna mashdar.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "يَدْخُلُوهَآ",
+      "transliterasi": "yadkhulūhā",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka memasukinya",
+      "sharaf": {
+        "akar_kata": "د خ ل (d-kh-l)",
+        "makna_dasar": "Masuk",
+        "wazan_perubahan": "Fi'il Mudhari' (bentuk jamak laki-laki, dhomir hum)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Manshub",
+        "irab_dan_logika": "Manshub (dinasabkan) dengan membuang nun (ن) karena termasuk Af'alul Khamsah dan didahului oleh 'أَن' yang menashabkan. Huruf 'هَا' adalah dhomir muttashil sebagai Maf'ul Bih (objek) yang kembali ke 'masjid-masjid'."
+      },
+      "hikmah": "Menggambarkan tindakan masuk ke dalam masjid. Dalam konteks ayat, ini adalah tindakan yang seharusnya dilakukan dengan rasa takut dan hormat, bukan dengan kesombongan atau niat merusak. Ini menekankan pentingnya adab saat memasuki rumah ibadah.",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "إِلَّا",
+      "transliterasi": "illā",
+      "jenis_kata": "Huruf",
+      "arti": "kecuali",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk huruf",
+        "makna_dasar": "Partikel pengecualian",
+        "wazan_perubahan": "Tidak berlaku untuk huruf"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Istitsna' (pengecualian)",
+        "irab_dan_logika": "Berfungsi sebagai alat pengecualian. Dalam kalimat ini, ia membentuk pengecualian dari larangan masuk, yaitu mereka boleh masuk *kecuali* dalam keadaan tertentu. Lebih tepatnya, 'mereka tidak sepatutnya masuk kecuali dalam keadaan takut', yang berarti mereka *harus* masuk dalam keadaan takut. Ini adalah istitsna' mufarragh yang memberikan penekanan pada kondisi."
+      },
+      "hikmah": "Menunjukkan pengecualian atau pembatasan kondisi. Dalam ayat ini, ia menekankan bahwa satu-satunya cara yang pantas bagi mereka untuk masuk masjid adalah dengan rasa takut dan hormat kepada Allah, bukan dengan niat buruk atau kesombongan.",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "خَآئِفِينَ",
+      "transliterasi": "khā'ifīn",
+      "jenis_kata": "Isim",
+      "arti": "orang-orang yang takut",
+      "sharaf": {
+        "akar_kata": "خ و ف (kh-w-f)",
+        "makna_dasar": "Takut, khawatir",
+        "wazan_perubahan": "Isim Fa'il (pelaku) dari fi'il tsulatsi mujarrad, wazan فاعل (fā'il). Bentuk jamak mudzakkar salim."
+      },
+      "nahwu": {
+        "kedudukan": "Hal (kata keterangan keadaan)",
+        "irab_dan_logika": "Manshub karena menjadi Hal (kata keterangan keadaan) bagi dhamir 'و' (wau jama'ah) pada 'يَدْخُلُوهَا'. Tanda nashabnya adalah 'ي' (ya') karena ia adalah jamak mudzakkar salim."
+      },
+      "hikmah": "Menggambarkan kondisi mental dan spiritual yang seharusnya dimiliki oleh seseorang ketika memasuki rumah Allah. Ini adalah rasa takut yang disertai pengagungan dan penghormatan kepada Allah, bukan rasa takut yang melumpuhkan. Ini menunjukkan adab dan ketundukan yang wajib.",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqaf lazim)",
+      "jenis_kata": "Tanda Baca",
+      "arti": "Tanda waqaf lazim (harus berhenti)",
+      "sharaf": {
+        "akar_kata": "Bukan kata",
+        "makna_dasar": "Bukan kata",
+        "wazan_perubahan": "Bukan kata"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf",
+        "irab_dan_logika": "Menunjukkan tempat berhenti yang dianjurkan atau wajib untuk memahami makna ayat dengan benar, karena kalimat sebelumnya telah lengkap maknanya."
+      },
+      "hikmah": "Tanda ini mengindikasikan bahwa kalimat sebelumnya telah lengkap maknanya dan pembaca dianjurkan untuk berhenti sejenak sebelum melanjutkan ke bagian berikutnya, untuk memastikan pemahaman yang utuh dan menghindari kesalahpahaman makna.",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "لَهُمْ",
+      "transliterasi": "lahum",
+      "jenis_kata": "Huruf + Dhomir",
+      "arti": "bagi mereka, untuk mereka",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk huruf dan dhomir",
+        "makna_dasar": "Menunjukkan kepemilikan atau konsekuensi",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Jar Majrur (Huruf Jar + Isim Majrur)",
+        "irab_dan_logika": "لَ' (lam) adalah huruf jar yang menyebabkan dhomir 'هُمْ' (mereka) menjadi majrur secara mahal (posisi). Gabungan jar majrur ini berfungsi sebagai khabar muqaddam (predikat yang didahulukan) atau muta'alliq (terkait) dengan sesuatu yang dibuang. Dalam konteks ini, ia memulai kalimat baru yang menjelaskan konsekuensi bagi mereka."
+      },
+      "hikmah": "Menunjukkan kepemilikan, hak, atau konsekuensi yang akan menimpa 'mereka' (orang-orang yang menghalangi dan merobohkan masjid). Ini memperkenalkan bagian ayat yang menjelaskan balasan berat bagi perbuatan buruk mereka di dunia dan akhirat.",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "فِى",
+      "transliterasi": "fī",
+      "jenis_kata": "Huruf",
+      "arti": "di, di dalam",
+      "sharaf": {
+        "akar_kata": "Tidak ada",
+        "makna_dasar": "Tidak ada",
+        "wazan_perubahan": "Tidak ada"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Jar",
+        "irab_dan_logika": "Huruf Jar berfungsi menjadikan kata setelahnya majrur (berharakat kasrah)."
+      },
+      "hikmah": "Menunjukkan tempat atau konteks terjadinya suatu peristiwa atau keadaan.",
+      "role": "none"
+    },
+    {
+      "index": 25,
+      "kata_arab": "ٱلدُّنْيَا",
+      "transliterasi": "ad-dunyā",
+      "jenis_kata": "Isim",
+      "arti": "dunia",
+      "sharaf": {
+        "akar_kata": "د ن و (d-n-w)",
+        "makna_dasar": "Dekat, rendah, yang paling dekat.",
+        "wazan_perubahan": "Isim Tafdhil (bentuk superlatif) muannats dari akar kata tersebut, kemudian menjadi isim yang merujuk pada 'dunia'."
+      },
+      "nahwu": {
+        "kedudukan": "Isim Majrur",
+        "irab_dan_logika": "Majrur karena didahului oleh huruf Jar `فِى`. Harakat akhirnya adalah alif maqsurah (ى) yang menunjukkan i'rab muqaddar (diperkirakan) karena sulit diucapkan."
+      },
+      "hikmah": "Merujuk pada kehidupan duniawi yang fana, sebagai lawan dari akhirat. Dalam konteks ayat ini, ia adalah tempat kehinaan bagi orang-orang zalim.",
+      "role": "none"
+    },
+    {
+      "index": 26,
+      "kata_arab": "خِزْىٌۭ",
+      "transliterasi": "khizyun",
+      "jenis_kata": "Isim",
+      "arti": "kehinaan, kerugian",
+      "sharaf": {
+        "akar_kata": "خ ز ي (kh-z-y)",
+        "makna_dasar": "Hina, malu, celaka.",
+        "wazan_perubahan": "Isim Masdar (kata benda verbal) dari fi'il `خَزِيَ` (khaziya)."
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada' mu'akhkhar (subjek yang diakhirkan)",
+        "irab_dan_logika": "Marfu' (berharakat dhammah tanwin) karena kedudukannya sebagai mubtada' mu'akhkhar, dengan `لَهُمْ` (bagi mereka) sebagai khabar muqaddam (predikat yang didahulukan)."
+      },
+      "hikmah": "Menekankan konsekuensi buruk berupa kehinaan dan kerugian yang akan menimpa mereka yang menghalangi jalan Allah dan merusak tempat ibadah-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 27,
+      "kata_arab": "وَلَهُمْ",
+      "transliterasi": "wa lahum",
+      "jenis_kata": "Huruf + Huruf + Dhamir",
+      "arti": "dan bagi mereka",
+      "sharaf": {
+        "akar_kata": "Tidak ada",
+        "makna_dasar": "Tidak ada",
+        "wazan_perubahan": "Tidak ada"
+      },
+      "nahwu": {
+        "kedudukan": "`و` (waw) adalah huruf athaf (penghubung). `لَهُمْ` adalah Jar Majrur (huruf Jar `لِ` + dhamir `هُمْ`) yang berfungsi sebagai khabar muqaddam (predikat yang didahulukan).",
+        "irab_dan_logika": "`لِ` adalah huruf Jar. `هُمْ` adalah dhamir muttasil mabniyyun 'ala as-sukun fi mahalli jarrin (dhamir bersambung yang tetap pada sukun, pada posisi majrur). Keseluruhan `لَهُمْ` berada pada posisi rafa' sebagai khabar muqaddam."
+      },
+      "hikmah": "Menunjukkan kepemilikan atau konsekuensi yang akan menimpa mereka, yaitu siksa yang berat di akhirat, sebagai tambahan dari kehinaan di dunia.",
+      "role": "none"
+    },
+    {
+      "index": 28,
+      "kata_arab": "فِى",
+      "transliterasi": "fī",
+      "jenis_kata": "Huruf",
+      "arti": "di, di dalam",
+      "sharaf": {
+        "akar_kata": "Tidak ada",
+        "makna_dasar": "Tidak ada",
+        "wazan_perubahan": "Tidak ada"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Jar",
+        "irab_dan_logika": "Huruf Jar berfungsi menjadikan kata setelahnya majrur (berharakat kasrah)."
+      },
+      "hikmah": "Menunjukkan tempat atau konteks terjadinya suatu peristiwa atau keadaan.",
+      "role": "none"
+    },
+    {
+      "index": 29,
+      "kata_arab": "ٱلْءَاخِرَةِ",
+      "transliterasi": "al-ākhirah",
+      "jenis_kata": "Isim",
+      "arti": "akhirat",
+      "sharaf": {
+        "akar_kata": "أ خ ر (a-kh-r)",
+        "makna_dasar": "Akhir, belakang, yang terakhir.",
+        "wazan_perubahan": "Isim Fa'il (pelaku) atau Isim Zaman/Makan (tempat/waktu) dari akar kata tersebut, dengan penambahan ta' marbutah untuk menunjukkan bentuk muannats dan merujuk pada 'kehidupan akhirat'."
+      },
+      "nahwu": {
+        "kedudukan": "Isim Majrur",
+        "irab_dan_logika": "Majrur (berharakat kasrah) karena didahului oleh huruf Jar `فِى`."
+      },
+      "hikmah": "Merujuk pada kehidupan setelah kematian, sebagai lawan dari dunia, tempat pembalasan yang kekal dan adil bagi setiap perbuatan manusia.",
+      "role": "none"
+    },
+    {
+      "index": 30,
+      "kata_arab": "عَذَابٌ",
+      "transliterasi": "Adhābun",
+      "jenis_kata": "Isim",
+      "arti": "siksaan, azab, hukuman",
+      "sharaf": {
+        "akar_kata": "ع-ذ-ب",
+        "makna_dasar": "menahan, mencegah, menyakiti (dari sini berkembang menjadi siksaan)",
+        "wazan_perubahan": "فَعَالٌ (fa'ālun) - Bentuk mashdar yang menunjukkan tindakan atau hasil tindakan."
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada' mu'akhkhar (subjek yang diakhirkan)",
+        "irab_dan_logika": "Marfu' (rafa') dengan dhammah tanwin (-un) karena ia adalah mubtada' mu'akhkhar. Mubtada' selalu dalam keadaan rafa'."
+      },
+      "hikmah": "Kata `azab` atau `siksaan` di sini merujuk pada hukuman berat dari Allah SWT bagi orang-orang yang menghalangi ibadah di masjid dan berusaha merobohkannya. Ini menunjukkan konsekuensi serius dari perbuatan tersebut, baik di dunia maupun di akhirat.",
+      "role": "none"
+    },
+    {
+      "index": 31,
+      "kata_arab": "عَظِيمٌۭ",
+      "transliterasi": "Aẓīmun",
+      "jenis_kata": "Isim (kata sifat/na'at)",
+      "arti": "besar, agung, hebat",
+      "sharaf": {
+        "akar_kata": "ع-ظ-م",
+        "makna_dasar": "menjadi besar, agung, penting",
+        "wazan_perubahan": "فَعِيلٌ (fa'īlun) - Bentuk shifat musyabbahah (kata sifat yang menyerupai isim fa'il) yang menunjukkan sifat tetap atau melekat."
+      },
+      "nahwu": {
+        "kedudukan": "Na'at (kata sifat/adjektiva) dari عَذَابٌ",
+        "irab_dan_logika": "Marfu' (rafa') dengan dhammah tanwin (-un) karena ia adalah na'at (kata sifat) yang mengikuti man'ut (kata yang disifati) yaitu عَذَابٌ. Karena عَذَابٌ adalah marfu', maka عَظِيمٌ juga harus marfu'."
+      },
+      "hikmah": "Kata `'Aẓīm` (besar/agung) berfungsi sebagai penegas dan penguat makna `'Adhāb` (siksaan). Ini mengindikasikan bahwa siksaan yang akan diterima oleh para pelaku kezaliman tersebut bukanlah siksaan biasa, melainkan siksaan yang sangat berat, dahsyat, dan tidak terperikan, sesuai dengan keagungan dan keadilan Allah SWT.",
+      "role": "none"
+    }
+  ]
+}

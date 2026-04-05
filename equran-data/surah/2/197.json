@@ -1,0 +1,600 @@
+{
+  "surah": 2,
+  "ayah": 197,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "ٱلْحَجُّ",
+      "transliterasi": "Al-Ḥajj",
+      "jenis_kata": "Isim",
+      "arti": "Haji, ziarah ke Ka'bah",
+      "sharaf": {
+        "akar_kata": "ح ج ج (Ḥa-Ja-Ja)",
+        "makna_dasar": "Bermaksud, bertujuan, pergi ke suatu tempat. Dalam konteks syariat, bermaksud ke Baitullah untuk ibadah tertentu.",
+        "wazan_perubahan": "Isim Masdar dari Fi'il Tsulatsi Mujarrad (حَجَّ - يَحُجُّ - حَجًّا). Wazan فَعْلٌ (fa'lun)."
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada' (subjek)",
+        "irab_dan_logika": "Marfu' dengan dhammah (ضمة) karena sebagai mubtada' yang memulai kalimat. Alif lam (ال) menunjukkan kemakrifatan (definite)."
+      },
+      "hikmah": "Kata ini mengacu pada ibadah haji itu sendiri, yang merupakan salah satu rukun Islam. Penempatannya di awal ayat menunjukkan pentingnya ibadah ini sebagai topik utama yang akan dijelaskan.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "أَشْهُرٌۭ",
+      "transliterasi": "Ashhurun",
+      "jenis_kata": "Isim",
+      "arti": "Bulan-bulan (jamak dari شهر)",
+      "sharaf": {
+        "akar_kata": "ش ه ر (Sha-Ha-Ra)",
+        "makna_dasar": "Terkenal, tampak, bulan (waktu).",
+        "wazan_perubahan": "Jamak taksir (plural pecah) dari شَهْرٌ (syahrun). Wazan أَفْعُلٌ (af'ulun)."
+      },
+      "nahwu": {
+        "kedudukan": "Khabar (predikat) dari mubtada' \"ٱلْحَجُّ\".",
+        "irab_dan_logika": "Marfu' dengan dhammah (ضمة) karena sebagai khabar dari mubtada'. Tanwin menunjukkan nakirah (indefinite)."
+      },
+      "hikmah": "Kata ini menjelaskan bahwa ibadah haji memiliki waktu-waktu tertentu yang telah ditetapkan, yaitu beberapa bulan yang dimaklumi. Ini menunjukkan batasan waktu pelaksanaan haji.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "مَّعْلُومَٰتٌۭ",
+      "transliterasi": "Ma'lūmātun",
+      "jenis_kata": "Isim",
+      "arti": "Yang diketahui, yang dimaklumi",
+      "sharaf": {
+        "akar_kata": "ع ل م (Ain-Lam-Mim)",
+        "makna_dasar": "Mengetahui, ilmu, tanda.",
+        "wazan_perubahan": "Isim Maf'ul (kata benda yang dikenai pekerjaan) dari Fi'il Tsulatsi Mazid (أَعْلَمَ - يُعْلِمُ - إِعْلَامًا). Bentuk jamak muannats salim (plural feminin teratur) dari مَعْلُومَةٌ (ma'lūmah). Wazan مَفْعُولَاتٌ (maf'ūlātun)."
+      },
+      "nahwu": {
+        "kedudukan": "Na'at (sifat/adjektiva) untuk \"أَشْهُرٌۭ\".",
+        "irab_dan_logika": "Marfu' dengan dhammah (ضمة) karena mengikuti ma'tufnya (yang disifati) yaitu \"أَشْهُرٌۭ\" yang marfu'. Jamak muannats salim di sini marfu' dengan dhammah. Tanwin menunjukkan nakirah."
+      },
+      "hikmah": "Kata ini menekankan bahwa waktu-waktu haji bukanlah rahasia, melainkan sudah *diketahui* dan *dimaklumi* oleh umat Islam, merujuk pada bulan Syawal, Zulkaidah, dan sepuluh hari pertama Zulhijjah.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "ۚ",
+      "transliterasi": "(Tanda Waqaf Lazim)",
+      "jenis_kata": "Huruf",
+      "arti": "Tanda berhenti wajib (waqaf lazim)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf lazim.",
+        "irab_dan_logika": "Tidak memiliki i'rab karena bukan bagian dari struktur gramatikal kalimat. Fungsinya adalah untuk menunjukkan tempat berhenti yang dianjurkan agar makna ayat tidak berubah."
+      },
+      "hikmah": "Tanda ini menandakan akhir dari satu klausa atau ide, dan permulaan ide baru. Dalam konteks ini, setelah menjelaskan waktu haji, ayat beralih ke aturan-aturan selama haji.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "فَمَن",
+      "transliterasi": "Fa-man",
+      "jenis_kata": "Huruf + Isim Syarat",
+      "arti": "Maka barangsiapa",
+      "sharaf": {
+        "akar_kata": "م ن (Mim-Nun) untuk 'man'",
+        "makna_dasar": "`Fa` (فَ) adalah huruf athaf atau istinaf yang berarti 'maka' atau 'lalu'. `Man` (مَنْ) adalah isim syarat yang berarti 'barangsiapa'.",
+        "wazan_perubahan": "`Fa` adalah huruf. `Man` adalah isim mabni (tidak berubah harakat akhirnya)."
+      },
+      "nahwu": {
+        "kedudukan": "`Fa` adalah huruf athaf/istinaf. `Man` adalah mubtada' (subjek) dalam kalimat syarat.",
+        "irab_dan_logika": "`Fa` tidak memiliki i'rab. `Man` adalah isim mabniyyun 'ala as-sukūn fī mahallī raf'in (mabni di atas sukun pada posisi rafa') sebagai mubtada'."
+      },
+      "hikmah": "Gabungan kata ini memulai klausa syarat, menunjukkan konsekuensi atau aturan yang berlaku bagi *siapa saja* yang melakukan tindakan yang akan disebutkan selanjutnya. Ini adalah transisi dari informasi umum tentang haji ke aturan spesifik bagi pelaksananya.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "فَرَضَ",
+      "transliterasi": "Faraḍa",
+      "jenis_kata": "Fi'il",
+      "arti": "Menetapkan, mewajibkan, berniat (dalam konteks ini)",
+      "sharaf": {
+        "akar_kata": "ف ر ض (Fa-Ra-Dha)",
+        "makna_dasar": "Memotong, menentukan, mewajibkan, menetapkan.",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau) Tsulatsi Mujarrad, bab نَصَرَ - يَنْصُرُ (naṣara - yanṣuru). Wazan فَعَلَ (fa'ala)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Syarat (kata kerja syarat) untuk \"مَن\". Fa'il (pelaku) adalah dhamir mustatir (tersembunyi) takdiruhu هو (dia), kembali kepada \"مَن\".",
+        "irab_dan_logika": "Fi'il Madhi mabniyyun 'ala al-fatḥi (mabni di atas fathah). Dalam kalimat syarat, fi'il madhi tetap mabni, namun secara makna berfungsi sebagai fi'il syarat."
+      },
+      "hikmah": "Kata ini menunjukkan tindakan *menetapkan niat* atau *mewajibkan diri* untuk melaksanakan haji. Ini adalah titik awal komitmen seorang Muslim terhadap ibadah haji, yang kemudian akan diikuti oleh serangkaian aturan dan larangan.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "فِيهِنَّ",
+      "transliterasi": "fīhinna",
+      "jenis_kata": "Huruf (preposisi) + Isim (dhamir)",
+      "arti": "di dalamnya (merujuk pada bulan-bulan haji)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk huruf (فِي) dan dhamir (هُنَّ).",
+        "makna_dasar": "Menunjukkan keberadaan di dalam (فِي) dan merujuk pada jamak perempuan (هُنَّ).",
+        "wazan_perubahan": "Tidak berlaku untuk huruf dan dhamir."
+      },
+      "nahwu": {
+        "kedudukan": "Jar Majrur (frasa preposisional)",
+        "irab_dan_logika": "فِي adalah huruf jar, yang menjadikan هُنَّ (dhamir muttasil) berada pada posisi majrur secara mahal (posisi i'rab)."
+      },
+      "hikmah": "Kata ini menekankan bahwa larangan-larangan yang akan disebutkan berlaku secara spesifik dan eksklusif *selama* bulan-bulan haji yang telah dimaklumi, menandakan periode waktu yang sakral.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "ٱلْحَجَّ",
+      "transliterasi": "al-ḥajja",
+      "jenis_kata": "Isim (kata benda)",
+      "arti": "haji (ibadah)",
+      "sharaf": {
+        "akar_kata": "ح ج ج (H-J-J)",
+        "makna_dasar": "Niat, tujuan, mengelilingi, berziarah ke tempat suci.",
+        "wazan_perubahan": "Isim Masdar (kata kerja yang dibendakan) dari Fi'il Tsulatsi Mujarrad (حَجَّ يَحُجُّ). Wazan: فَعْلٌ (fa'lun)."
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul Bih (objek)",
+        "irab_dan_logika": "Manshub (berharakat fathah) karena menjadi maf'ul bih dari fi'il 'فَرَضَ' (menetapkan niat/mewajibkan) yang mendahuluinya. Artinya, 'barangsiapa yang menetapkan niatnya untuk haji'."
+      },
+      "hikmah": "Kata ini merujuk pada ibadah haji itu sendiri, menegaskan bahwa niat untuk melaksanakannya di bulan-bulan tersebut adalah titik awal dimulainya kewajiban dan konsekuensi hukum terkait ibadah haji.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "فَلَا",
+      "transliterasi": "fa-lā",
+      "jenis_kata": "Huruf ('athaf + nahi/nafi)",
+      "arti": "maka tidak / maka jangan",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk huruf.",
+        "makna_dasar": "فَ (fa') menunjukkan konsekuensi atau akibat dari perbuatan sebelumnya. لَا (la) adalah huruf nahi (larangan) atau nafi (peniadaan). Dalam konteks ini, ia adalah 'لا النافية للجنس' yang meniadakan jenis secara mutlak.",
+        "wazan_perubahan": "Tidak berlaku."
+      },
+      "nahwu": {
+        "kedudukan": "Huruf 'athaf dan huruf 'لا النافية للجنس'",
+        "irab_dan_logika": "Huruf, tidak memiliki i'rab. فَ menghubungkan kalimat ini dengan kalimat sebelumnya sebagai akibat. لَا berfungsi meniadakan jenis perbuatan yang akan disebutkan setelahnya, beramal seperti إِنَّ (menashabkan isim dan merafa'kan khabar)."
+      },
+      "hikmah": "Gabungan huruf ini menandai dimulainya serangkaian larangan ketat yang harus dipatuhi oleh orang yang telah berniat haji, sebagai konsekuensi dari niat tersebut. Ini adalah penanda dimulainya kondisi ihram.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "رَفَثَ",
+      "transliterasi": "rafaṡa",
+      "jenis_kata": "Isim (masdar)",
+      "arti": "perkataan/perbuatan cabul, hubungan intim",
+      "sharaf": {
+        "akar_kata": "ر ف ث (R-F-TS)",
+        "makna_dasar": "Perkataan atau perbuatan yang tidak senonoh, khususnya yang berkaitan dengan hubungan suami istri atau hal-hal yang membangkitkan syahwat.",
+        "wazan_perubahan": "Isim Masdar. Wazan: فَعَلٌ (fa'alun) atau فَعْثٌ (fa'tsun)."
+      },
+      "nahwu": {
+        "kedudukan": "Isim 'لا النافية للجنس'",
+        "irab_dan_logika": "Manshub (berharakat fathah) karena menjadi isim dari 'لا النافية للجنس' yang beramal seperti 'إِنَّ'. Ia meniadakan segala jenis 'rafats' secara mutlak."
+      },
+      "hikmah": "Larangan keras terhadap segala bentuk perkataan atau perbuatan yang mengarah pada syahwat atau hubungan intim selama ihram. Ini adalah upaya menjaga kesucian ibadah dan fokus spiritual jamaah haji.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "وَلَا",
+      "transliterasi": "wa-lā",
+      "jenis_kata": "Huruf ('athaf + nahi/nafi)",
+      "arti": "dan tidak / dan jangan",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk huruf.",
+        "makna_dasar": "وَ (waw) adalah huruf 'athaf (penghubung) yang menggabungkan larangan ini dengan larangan sebelumnya. لَا (la) adalah 'لا النافية للجنس' yang meniadakan jenis secara mutlak.",
+        "wazan_perubahan": "Tidak berlaku."
+      },
+      "nahwu": {
+        "kedudukan": "Huruf 'athaf dan huruf 'لا النافية للجنس'",
+        "irab_dan_logika": "Huruf, tidak memiliki i'rab. وَ meng-athaf-kan larangan berikutnya kepada larangan 'rafats'. لَا berfungsi meniadakan jenis perbuatan yang akan disebutkan setelahnya, beramal seperti 'إِنَّ'."
+      },
+      "hikmah": "Kata ini menegaskan adanya larangan tambahan setelah larangan 'rafats', menunjukkan bahwa ada beberapa jenis pelanggaran yang harus dihindari secara mutlak selama ibadah haji, dan semuanya memiliki tingkat kepentingan yang sama dalam larangan.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "فُسُوقَ",
+      "transliterasi": "fusūqa",
+      "jenis_kata": "Isim (masdar)",
+      "arti": "kefasikan, perbuatan dosa, keluar dari ketaatan",
+      "sharaf": {
+        "akar_kata": "ف س ق (F-S-Q)",
+        "makna_dasar": "Keluar dari batas-batas syariat, berbuat dosa, durhaka, melanggar perintah Allah.",
+        "wazan_perubahan": "Isim Masdar dari Fi'il Tsulatsi Mujarrad (فَسَقَ يَفْسُقُ). Wazan: فُعُولٌ (fu'ūlun)."
+      },
+      "nahwu": {
+        "kedudukan": "Isim 'لا النافية للجنس' yang di-athaf-kan",
+        "irab_dan_logika": "Manshub (berharakat fathah) karena di-athaf-kan kepada 'رَفَثَ' yang juga manshub sebagai isim 'لا النافية للجنس'. Ini menunjukkan larangan mutlak terhadap segala bentuk kefasikan."
+      },
+      "hikmah": "Larangan terhadap segala bentuk kefasikan atau perbuatan dosa, baik yang kecil maupun besar, selama ibadah haji. Ini mencakup semua pelanggaran syariat yang dapat mengurangi kesempurnaan dan keberkahan ibadah, menekankan pentingnya menjaga akhlak dan ketaatan penuh kepada Allah.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "وَلَا",
+      "transliterasi": "wa-lā",
+      "jenis_kata": "Huruf",
+      "arti": "dan tidak / jangan",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf 'Athaf dan Huruf Nahi",
+        "irab_dan_logika": "Terdiri dari dua huruf:\n*   `و` (wawu): Huruf 'athaf (penghubung) yang menyambungkan larangan ini dengan larangan sebelumnya (`rafats` dan `fusuq`).\n*   `لَا` (lā): Huruf nahi (larangan) yang berfungsi melarang perbuatan `jidal` (berbantah-bantahan). Dalam konteks ini, ia menjadikan isim setelahnya (jidal) sebagai isim `لَا` Nafiyah Lil Jins."
+      },
+      "hikmah": "Gabungan `وَلَا` ini berfungsi sebagai penegas larangan, menunjukkan bahwa perbuatan `jidal` (berbantah-bantahan) adalah salah satu hal yang harus dihindari secara mutlak selama pelaksanaan ibadah haji, sama seperti larangan `rafats` dan `fusuq`.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "جِدَالَ",
+      "transliterasi": "jidāla",
+      "jenis_kata": "Isim (Masdar)",
+      "arti": "berbantah-bantahan / berdebat",
+      "sharaf": {
+        "akar_kata": "ج د ل (j-d-l)",
+        "makna_dasar": "Berdebat, bertengkar, beradu argumen.",
+        "wazan_perubahan": "Masdar dari Fi'il Tsulatsi Mazid (Bab Mufa'alah - فاعَلَ - يُفاعِلُ - مُفاعَلَةً/فِعَالاً). Di sini menggunakan wazan فِعَالٌ."
+      },
+      "nahwu": {
+        "kedudukan": "Isim `لَا` Nafiyah Lil Jins",
+        "irab_dan_logika": "Manshub (dinashabkan) karena menjadi isim dari `لَا` Nafiyah Lil Jins. `لَا` Nafiyah Lil Jins menafikan jenis perdebatan secara total. Jika isimnya nakirah (tidak ada alif lam) dan tidak ada pemisah antara `لَا` dan isimnya, maka isim tersebut manshub."
+      },
+      "hikmah": "Kata ini secara spesifik melarang segala bentuk perdebatan, pertengkaran, atau adu argumen yang tidak perlu selama haji. Tujuannya adalah untuk menjaga kedamaian, persatuan, dan fokus spiritual para jamaah, agar ibadah dapat dilaksanakan dengan khusyuk dan tanpa gangguan.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "فِى",
+      "transliterasi": "fī",
+      "jenis_kata": "Huruf",
+      "arti": "di dalam / pada / dalam",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Jar",
+        "irab_dan_logika": "Huruf Jar, berfungsi mengkasrahkan isim setelahnya (menjadikannya majrur). Dalam konteks ini, ia menunjukkan keterangan waktu atau tempat, yaitu 'di dalam' atau 'selama' pelaksanaan haji."
+      },
+      "hikmah": "Huruf `فِى` ini berfungsi untuk membatasi atau mengkhususkan berlakunya larangan-larangan sebelumnya (rafats, fusuq, jidal) hanya pada periode atau musim ibadah haji. Ini menegaskan bahwa kekhususan dan kesucian haji menuntut perilaku yang sangat terjaga.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "ٱلْحَجِّ",
+      "transliterasi": "al-ḥajj",
+      "jenis_kata": "Isim (Masdar)",
+      "arti": "haji / ibadah haji",
+      "sharaf": {
+        "akar_kata": "ح ج ج (ḥ-j-j)",
+        "makna_dasar": "Bermaksud, menuju, berziarah ke Ka'bah.",
+        "wazan_perubahan": "Masdar dari Fi'il Tsulatsi Mujarrad (فَعْلٌ)."
+      },
+      "nahwu": {
+        "kedudukan": "Isim Majrur",
+        "irab_dan_logika": "Majrur (dikaserahkan) karena didahului oleh Huruf Jar `فِى`. Tanda jarnya adalah kasrah yang tampak di akhir kata."
+      },
+      "hikmah": "Kata ini merujuk pada ibadah haji itu sendiri, yang merupakan rukun Islam kelima. Penempatannya setelah `فِى` menegaskan bahwa semua larangan dan anjuran yang disebutkan sebelumnya secara spesifik berlaku selama pelaksanaan ibadah haji, sebagai bagian dari kesempurnaan dan kekhusyukan ibadah tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "ۗ",
+      "transliterasi": "N/A",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "N/A",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda Baca",
+        "irab_dan_logika": "Tanda waqaf jaiz (boleh berhenti, boleh melanjutkan). Menunjukkan akhir dari satu klausa atau ide yang utuh, memberikan kesempatan bagi pembaca untuk mengambil napas dan memahami makna bagian tersebut sebelum melanjutkan ke bagian berikutnya."
+      },
+      "hikmah": "Tanda waqaf ini menandai transisi dari pembahasan tentang larangan-larangan selama haji ke bagian selanjutnya yang membahas tentang pentingnya berbuat kebaikan dan bertakwa. Ini membantu pembaca memahami struktur dan alur makna dalam ayat.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "وَمَا",
+      "transliterasi": "wa-mā",
+      "jenis_kata": "Huruf dan Isim",
+      "arti": "dan apa / dan apapun",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf 'Athaf dan Isim Syarat",
+        "irab_dan_logika": "Terdiri dari dua bagian:\n*   `و` (wawu): Huruf 'athaf (penghubung) yang menyambungkan kalimat ini dengan kalimat sebelumnya, menunjukkan kelanjutan atau konsekuensi.\n*   `مَا` (mā): Isim Syarat (مَا الشرطية) yang bermakna umum 'apa saja' atau 'apapun'. Ia berfungsi menjazemkan dua fi'il setelahnya (fi'il syarat dan jawab syarat). Dalam konteks ayat ini, `مَا` adalah mubtada' (subjek) dan jumlah (klausa) setelahnya adalah khabar (predikat)."
+      },
+      "hikmah": "Gabungan `وَمَا` ini membuka bagian baru dalam ayat yang menekankan prinsip balasan atas perbuatan. Ini adalah pengingat bahwa setiap kebaikan yang dilakukan, sekecil apapun, akan diketahui dan diperhitungkan oleh Allah, mendorong jamaah untuk senantiasa berbuat baik selama haji dan dalam kehidupan sehari-hari.",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "تَفْعَلُوا۟",
+      "transliterasi": "taf'alū",
+      "jenis_kata": "Fi'il",
+      "arti": "kalian melakukan/mengerjakan",
+      "sharaf": {
+        "akar_kata": "ف ع ل (fa'ala)",
+        "makna_dasar": "melakukan, mengerjakan, berbuat",
+        "wazan_perubahan": "Fi'il Mudhari' Majzum (dijazmkan) dengan membuang Nun (حذف النون) karena didahului oleh 'مَا' (ma) syartiyyah (kondisional). Bentuk asalnya adalah تَفْعَلُونَ (taf'alūna)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Syarat (فعل الشرط) dari 'مَا' (ma) syartiyyah.",
+        "irab_dan_logika": "Majzum (dijazmkan) dengan tanda حذف النون (membuang huruf nun) karena termasuk Af'alul Khamsah (kata kerja lima). Wau jama'ah (و) adalah fa'il (subjek) yang kembali kepada 'kalian' (orang-orang yang berakal)."
+      },
+      "hikmah": "Menekankan bahwa setiap perbuatan, sekecil apapun, yang dilakukan oleh manusia akan diperhitungkan. Ini adalah bagian dari kalimat syarat-jawab yang menunjukkan konsekuensi dari perbuatan.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "مِنْ",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf",
+      "arti": "dari, berupa",
+      "sharaf": {
+        "akar_kata": "Tidak memiliki akar kata karena ini adalah huruf.",
+        "makna_dasar": "Menunjukkan jenis, bagian, atau penjelasan.",
+        "wazan_perubahan": "Tidak berlaku untuk huruf."
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Jar (حرف جر).",
+        "irab_dan_logika": "Huruf jar yang berfungsi menjelaskan jenis dari 'مَا' (ma) sebelumnya, yaitu 'kebaikan'. Dalam konteks ini, 'مَا' (ma) adalah mubham (umum) dan 'مِنْ خَيْرٍ' (min khairin) berfungsi sebagai bayan (penjelasan) untuk 'مَا'. Kata setelahnya (خَيْرٍ) akan majrur."
+      },
+      "hikmah": "Menjelaskan bahwa 'apa saja' yang dimaksud adalah 'berupa kebaikan'. Ini memperjelas cakupan perbuatan yang dimaksud, yaitu perbuatan baik.",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "خَيْرٍۢ",
+      "transliterasi": "khairin",
+      "jenis_kata": "Isim",
+      "arti": "kebaikan",
+      "sharaf": {
+        "akar_kata": "خ ي ر (khayara)",
+        "makna_dasar": "baik, pilihan terbaik, kebaikan",
+        "wazan_perubahan": "Isim Masdar atau Isim Biasa."
+      },
+      "nahwu": {
+        "kedudukan": "Isim Majrur (اسم مجرور) oleh huruf jar 'مِنْ'.",
+        "irab_dan_logika": "Majrur (dijarkan) dengan tanda kasrah (kasratain) karena didahului oleh huruf jar 'مِنْ'."
+      },
+      "hikmah": "Merujuk pada segala bentuk kebaikan, baik yang besar maupun kecil, yang dilakukan oleh hamba. Ini menunjukkan bahwa Allah mengetahui setiap detail kebaikan.",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "يَعْلَمْهُ",
+      "transliterasi": "ya'lamhu",
+      "jenis_kata": "Fi'il",
+      "arti": "Dia (Allah) mengetahuinya",
+      "sharaf": {
+        "akar_kata": "ع ل م (alima)",
+        "makna_dasar": "mengetahui, ilmu",
+        "wazan_perubahan": "Fi'il Mudhari' Majzum (dijazmkan) dengan tanda sukun (سكون) pada huruf mim (م). Huruf 'هُ' (hu) adalah dhamir muttasil (kata ganti sambung) sebagai maf'ul bih (objek)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Jawab Syarat (فعل جواب الشرط) dari 'مَا' (ma) syartiyyah.",
+        "irab_dan_logika": "Majzum (dijazmkan) dengan tanda sukun karena menjadi jawab syarat. Dhamir 'هُ' (hu) adalah maf'ul bih yang kembali kepada 'مَا' (ma) atau 'خَيْرٍ' (khairin)."
+      },
+      "hikmah": "Menegaskan sifat Allah Yang Maha Mengetahui (Al-'Alim). Tidak ada satupun kebaikan yang luput dari pengetahuan-Nya, dan ini menjadi motivasi bagi mukmin untuk senantiasa berbuat baik.",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "ٱللَّهُ",
+      "transliterasi": "Allāhu",
+      "jenis_kata": "Isim",
+      "arti": "Allah (Nama Tuhan)",
+      "sharaf": {
+        "akar_kata": "ا ل ه (alifa-lam-ha)",
+        "makna_dasar": "Tuhan, yang disembah",
+        "wazan_perubahan": "Isim 'alam (nama diri), tidak memiliki wazan sharaf."
+      },
+      "nahwu": {
+        "kedudukan": "Fa'il (subjek) dari fi'il 'يَعْلَمْهُ'.",
+        "irab_dan_logika": "Marfu' (dirafa'kan) dengan tanda dhammah (ضمة) karena sebagai fa'il (subjek) dari fi'il 'يَعْلَمْهُ'."
+      },
+      "hikmah": "Menegaskan bahwa Allah SWT adalah Dzat yang Maha Mengetahui segala perbuatan baik hamba-Nya. Ini menguatkan keyakinan akan pengawasan ilahi dan balasan atas setiap amal.",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "ۗ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "Tanda Baca",
+      "arti": "Tanda waqaf lazim (berhenti di sini lebih utama)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku karena ini adalah tanda baca.",
+        "makna_dasar": "Menunjukkan tempat berhenti dalam bacaan Al-Qur'an.",
+        "wazan_perubahan": "Tidak berlaku untuk tanda baca."
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf.",
+        "irab_dan_logika": "Bukan bagian dari i'rab karena bukan kata. Ini adalah tanda untuk pembaca Al-Qur'an."
+      },
+      "hikmah": "Menunjukkan jeda yang dianjurkan dalam bacaan, memberikan penekanan pada kalimat sebelumnya bahwa Allah mengetahui segala kebaikan, sebelum beralih ke perintah berikutnya ('Berbekallah...').",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "وَتَزَوَّدُوا۟",
+      "transliterasi": "wa tazawwadu",
+      "jenis_kata": "Fi'il",
+      "arti": "dan berbekallah",
+      "sharaf": {
+        "akar_kata": "ز و د (Z-W-D)",
+        "makna_dasar": "bekal, persediaan",
+        "wazan_perubahan": "تَفَعَّلُوا۟ (tafa''alu) - bentuk perintah dari bab V (تَفَعَّلَ)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Amar (kata kerja perintah)",
+        "irab_dan_logika": "Fi'il Amar *mabni* (tetap) atas *hadzfun nun* (penghapusan nun) karena termasuk *af'alul khamsah* (lima fi'il) yang bersambung dengan *wawul jama'ah*. *Wawul jama'ah* (و) di sini berfungsi sebagai *fa'il* (subjek)."
+      },
+      "hikmah": "Ini adalah perintah langsung dari Allah SWT kepada hamba-Nya untuk mempersiapkan bekal. Bekal ini tidak hanya bersifat materi untuk perjalanan fisik, tetapi juga bekal spiritual dan moral untuk perjalanan hidup secara keseluruhan, terutama dalam konteks ibadah haji.",
+      "role": "none"
+    },
+    {
+      "index": 25,
+      "kata_arab": "فَإِنَّ",
+      "transliterasi": "fa inna",
+      "jenis_kata": "Huruf",
+      "arti": "maka sesungguhnya",
+      "sharaf": {
+        "akar_kata": "N/A (huruf)",
+        "makna_dasar": "N/A (huruf)",
+        "wazan_perubahan": "N/A (huruf)"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf *istinaf* (memulai kalimat baru) dan *taukid* (penguat makna)",
+        "irab_dan_logika": "Terdiri dari dua huruf: *Fa* (فَ) yang berfungsi sebagai *fa sababiyah* atau *ta'liliyah* (menunjukkan sebab atau penjelasan), dan *Inna* (إِنَّ) yang merupakan *harf taukid wa nasb*. Keduanya adalah huruf *mabni* (tetap) yang tidak memiliki kedudukan *i'rab*. *Inna* berfungsi menashabkan *isimnya* dan merofa'kan *khabarnya*."
+      },
+      "hikmah": "Penggunaan *fa inna* di sini berfungsi untuk menguatkan dan menjelaskan alasan di balik perintah 'berbekallah'. Ini menekankan bahwa ada sesuatu yang sangat penting dan pasti yang akan disampaikan setelahnya, yaitu tentang kualitas bekal terbaik.",
+      "role": "none"
+    },
+    {
+      "index": 26,
+      "kata_arab": "خَيْرَ",
+      "transliterasi": "khayra",
+      "jenis_kata": "Isim",
+      "arti": "sebaik-baik, yang terbaik",
+      "sharaf": {
+        "akar_kata": "خ ي ر (Kh-Y-R)",
+        "makna_dasar": "baik, kebaikan",
+        "wazan_perubahan": "Isim Tafdhil (bentuk superlatif), meskipun tidak selalu mengikuti wazan *af'alu* secara eksplisit, namun maknanya adalah 'yang paling baik'."
+      },
+      "nahwu": {
+        "kedudukan": "Isim *Inna* yang *manshub* (berharakat fathah)",
+        "irab_dan_logika": "Kata ini *manshub* (berharakat fathah) karena menjadi *isim Inna*. Selain itu, ia juga berfungsi sebagai *mudhaf* (kata yang disandarkan) kepada kata setelahnya (*az-zadi*)."
+      },
+      "hikmah": "Kata ini menunjukkan perbandingan kualitas, menegaskan bahwa ada satu jenis bekal yang memiliki keutamaan dan nilai yang jauh lebih tinggi dibandingkan bekal lainnya. Ini mengarahkan perhatian pada esensi bekal yang sesungguhnya.",
+      "role": "none"
+    },
+    {
+      "index": 27,
+      "kata_arab": "ٱلزَّادِ",
+      "transliterasi": "az-zadi",
+      "jenis_kata": "Isim",
+      "arti": "bekal, persediaan",
+      "sharaf": {
+        "akar_kata": "ز و د (Z-W-D)",
+        "makna_dasar": "bekal, persediaan",
+        "wazan_perubahan": "Isim (bentuk dasar)"
+      },
+      "nahwu": {
+        "kedudukan": "Mudhaf ilaih (kata yang disandari)",
+        "irab_dan_logika": "Kata ini *majrur* (berharakat kasrah) karena menjadi *mudhaf ilaih* dari kata sebelumnya (*khayra*). *Alif lam* (ال) menunjukkan bahwa bekal yang dimaksud adalah bekal secara umum."
+      },
+      "hikmah": "Kata ini merujuk pada segala bentuk bekal yang diperlukan untuk sebuah perjalanan, baik perjalanan fisik maupun metaforis. Ketika disandingkan dengan 'khayra', ia mengindikasikan bahwa di antara semua jenis bekal, ada satu yang paling utama.",
+      "role": "none"
+    },
+    {
+      "index": 28,
+      "kata_arab": "ٱلتَّقْوَىٰ",
+      "transliterasi": "at-taqwa",
+      "jenis_kata": "Isim",
+      "arti": "ketakwaan, takut kepada Allah",
+      "sharaf": {
+        "akar_kata": "و ق ي (W-Q-Y)",
+        "makna_dasar": "menjaga diri, melindungi, takut",
+        "wazan_perubahan": "Isim *mashdar* (kata benda dari kata kerja) dari *ittaqaa* (bertaqwa), yang mengikuti pola *ifti'al* (bab VIII) dengan perubahan huruf."
+      },
+      "nahwu": {
+        "kedudukan": "Khabar *Inna* yang *marfu'* (berharakat dhammah tersembunyi)",
+        "irab_dan_logika": "Kata ini *marfu'* (berharakat dhammah) karena menjadi *khabar Inna*. Harakat dhammahnya tidak tampak (disebut *dhammah muqaddarah*) karena diakhiri dengan *alif maqsurah* (ٰ) yang menghalangi munculnya harakat."
+      },
+      "hikmah": "Ini adalah puncak dari pesan ayat ini. *At-Taqwa* (ketakwaan) adalah bekal terbaik yang dimaksud. Ia mencakup kesadaran akan kehadiran Allah, ketaatan pada perintah-Nya, dan menjauhi larangan-Nya. Taqwa adalah bekal yang melindungi manusia dari keburukan dunia dan akhirat, serta membimbingnya menuju kebaikan sejati.",
+      "role": "none"
+    },
+    {
+      "index": 29,
+      "kata_arab": "ۚ",
+      "transliterasi": "N/A",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "Tanda waqaf jaiz (boleh berhenti, boleh lanjut)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca dalam mushaf",
+        "irab_dan_logika": "Ini adalah simbol *waqaf jaiz* (boleh berhenti atau melanjutkan bacaan) dalam penulisan mushaf Al-Qur'an. Bukan bagian dari struktur gramatikal kalimat Arab."
+      },
+      "hikmah": "Tanda ini memberikan fleksibilitas bagi pembaca Al-Qur'an untuk berhenti sejenak dan mengambil napas, atau melanjutkan bacaan jika memungkinkan. Dalam konteks makna, ia menandai akhir dari satu bagian penting dalam kalimat, yaitu penegasan tentang bekal terbaik.",
+      "role": "none"
+    },
+    {
+      "index": 30,
+      "kata_arab": "وَٱتَّقُونِ",
+      "transliterasi": "wa-ttaquuni",
+      "jenis_kata": "Fi'il",
+      "arti": "dan bertakwalah kepada-Ku",
+      "sharaf": {
+        "akar_kata": "و ق ي (W-Q-Y)",
+        "makna_dasar": "menjaga diri, melindungi, takut (dalam konteks Allah: bertakwa)",
+        "wazan_perubahan": "Fi'il Amar (kata kerja perintah) dari wazan افتعل (ifta'ala), yaitu اتقى (ittaqaa). Bentuk asalnya adalah اتقوا (ittaqū) yang merupakan perintah untuk jamak. Kemudian ditambahkan Nun Wiqayah (ن) untuk melindungi fi'il dari kasrah Ya' Mutakallim (ي) yang menunjukkan 'kepada-Ku'. Ya' Mutakallim tersebut dihilangkan karena ringan, namun tanda kasrah pada Nun Wiqayah tetap menunjukkan keberadaannya."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Amar (kata kerja perintah)",
+        "irab_dan_logika": "Fi'il Amar ini mabni (tetap) atas hadzfun-nun (penghapusan huruf nun) karena ia berasal dari fi'il mudhari' yang majzum. Wawu (و) adalah fa'il (subjek) yang menunjukkan jamak. Nun (ن) adalah Nun Wiqayah (nun pelindung). Ya' Mutakallim (ي) yang dibuang (mahdzuf) adalah maf'ul bih (objek) yang menunjukkan 'kepada-Ku', dan tanda keberadaannya adalah kasrah pada Nun Wiqayah."
+      },
+      "hikmah": "Ini adalah perintah langsung dari Allah SWT kepada hamba-Nya untuk senantiasa bertakwa, yaitu menjaga diri dari siksa-Nya dengan menjalankan segala perintah dan menjauhi segala larangan-Nya. Perintah ini datang setelah penyebutan 'sebaik-baik bekal adalah takwa', menegaskan urgensi takwa sebagai bekal utama dalam kehidupan dunia dan akhirat.",
+      "role": "none"
+    },
+    {
+      "index": 31,
+      "kata_arab": "يَٰٓأُو۟لِى",
+      "transliterasi": "yaa uulii",
+      "jenis_kata": "Huruf (yaa) dan Isim (uulii)",
+      "arti": "wahai orang-orang yang memiliki",
+      "sharaf": {
+        "akar_kata": "أ و ل (A-W-L)",
+        "makna_dasar": "memiliki, pemilik, yang empunya",
+        "wazan_perubahan": "أولي (uulii) adalah bentuk jamak dari ذو (dzuu) atau ذات (dzaat) yang berarti 'pemilik'. Ia termasuk isim mulhaq bil jam'i al-mudzakkar as-salim (serupa dengan jamak mudzakkar salim dalam i'rabnya), yang tidak memiliki bentuk mufrad dari lafaznya sendiri."
+      },
+      "nahwu": {
+        "kedudukan": "Yaa (يا) adalah Harf Nida' (huruf panggilan). Uulii (أولي) adalah Munada (yang dipanggil).",
+        "irab_dan_logika": "Yaa (يا) adalah Harf Nida' mabni 'ala as-sukun (tetap atas sukun) dan tidak memiliki kedudukan i'rab. Uulii (أولي) adalah Munada manshub (objek panggilan yang dinashabkan) dengan tanda nashabnya adalah huruf ya' (ي), karena ia termasuk mulhaq bil jam'i al-mudzakkar as-salim yang dinashabkan dengan ya' dan dirafa'kan dengan wawu. Ia juga berkedudukan sebagai mudhaf (kata yang disandarkan)."
+      },
+      "hikmah": "Panggilan 'Yaa Uulii' adalah seruan khusus dari Allah SWT yang menarik perhatian. Ini menunjukkan bahwa perintah dan nasihat yang disampaikan selanjutnya, khususnya tentang takwa, ditujukan secara spesifik kepada mereka yang memiliki akal dan pemahaman yang mendalam, bukan sekadar akal biasa.",
+      "role": "none"
+    },
+    {
+      "index": 32,
+      "kata_arab": "ٱلْأَلْبَٰبِ",
+      "transliterasi": "al-albaab",
+      "jenis_kata": "Isim",
+      "arti": "akal, pikiran, inti",
+      "sharaf": {
+        "akar_kata": "ل ب ب (L-B-B)",
+        "makna_dasar": "inti, sari, akal murni, pemahaman mendalam",
+        "wazan_perubahan": "ألباب (albaab) adalah jamak taksir dari لُبّ (lubb), yang secara harfiah berarti 'inti' atau 'sari'. Dalam konteks ini, ia merujuk pada akal yang murni dan jernih."
+      },
+      "nahwu": {
+        "kedudukan": "Mudhaf Ilaih (kata yang disandarkan kepadanya)",
+        "irab_dan_logika": "Al-albaab (الألباب) adalah Mudhaf Ilaih majrur (kata yang disandarkan kepadanya dan dikasrahkan) dengan tanda jarr-nya adalah kasrah (ِ) yang tampak pada huruf ba' (ب) di akhirnya. Ini karena ia adalah isim jamak taksir yang majrur."
+      },
+      "hikmah": "Kata 'Al-Albaab' merujuk pada akal yang murni, jernih, dan mampu membedakan antara yang hak dan batil, yang baik dan buruk. Ini adalah akal yang tidak tertipu oleh hawa nafsu dan mampu menerima kebenaran ilahi. Panggilan 'Ulil Albab' (orang-orang yang berakal) adalah pujian dan dorongan untuk menggunakan akal secara optimal dalam memahami dan mengamalkan ajaran agama, khususnya dalam konteks takwa.",
+      "role": "none"
+    }
+  ]
+}

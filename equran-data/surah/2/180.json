@@ -1,0 +1,312 @@
+{
+  "surah": 2,
+  "ayah": 180,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "كُتِبَ",
+      "transliterasi": "kutiba",
+      "jenis_kata": "Fi'il",
+      "arti": "ditulis / ditetapkan",
+      "sharaf": {
+        "akar_kata": "ك ت ب",
+        "makna_dasar": "menulis, mencatat",
+        "wazan_perubahan": "bentuk pasif (mudzakkar) pada pola *fuʿila*"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja pertama (fi'il madhi) dalam ayat",
+        "irab_dan_logika": "marfu' dengan dhammah karena berfungsi sebagai predikat utama"
+      },
+      "hikmah": "Menegaskan bahwa perintah wasiat ini adalah ketetapan Allah, tidak dapat diubah-ubah.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "عَلَيْكُمْ",
+      "transliterasi": "ʿalaykum",
+      "jenis_kata": "Huruf",
+      "arti": "atas kalian",
+      "sharaf": {
+        "akar_kata": "ع ل ي",
+        "makna_dasar": "menunjuk pada tempat atau keadaan",
+        "wazan_perubahan": "huruf jar (ʿala) + ضمير متصل (kum)"
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar yang menempel pada kata sebelumnya (كُتِبَ)",
+        "irab_dan_logika": "marfu' karena berfungsi sebagai mudhaf ilayh (terkait dengan kata sebelumnya)"
+      },
+      "hikmah": "Menunjukkan bahwa kewajiban ini bersifat mengikat bagi semua orang yang termasuk dalam kelompok pendengar ayat.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "إِذَا",
+      "transliterasi": "idhā",
+      "jenis_kata": "Huruf",
+      "arti": "jika",
+      "sharaf": {
+        "akar_kata": "ذ و",
+        "makna_dasar": "menunjuk pada waktu atau kondisi",
+        "wazan_perubahan": "huruf jar (ʾi) + kata syarat"
+      },
+      "nahwu": {
+        "kedudukan": "huruf syarat yang mengawali klausa kondisi",
+        "irab_dan_logika": "marfu' karena tidak berharakat akhir (hamzah) dan berfungsi menghubungkan dua bagian kalimat"
+      },
+      "hikmah": "Menyiratkan bahwa perintah wasiat berlaku bila kondisi tertentu (kedatangan maut) terpenuhi.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "حَضَرَ",
+      "transliterasi": "ḥaḍara",
+      "jenis_kata": "Fi'il",
+      "arti": "hadir, datang",
+      "sharaf": {
+        "akar_kata": "ح ض ر",
+        "makna_dasar": "menyatakan kehadiran atau kedatangan",
+        "wazan_perubahan": "bentuk madhi pada pola *faʿala*"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja kedua (fi'il madhi) yang menjadi bagian dari klausa syarat setelah إِذَا",
+        "irab_dan_logika": "marfu' karena menjadi predikat dalam klausa syarat"
+      },
+      "hikmah": "Menggambarkan momen kedatangan maut sebagai titik awal kewajiban wasiat.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "أَحَدَكُمُ",
+      "transliterasi": "aḥadakumu",
+      "jenis_kata": "Isim",
+      "arti": "salah satu dari kalian",
+      "sharaf": {
+        "akar_kata": "أ ح د",
+        "makna_dasar": "satu, individu",
+        "wazan_perubahan": "isim mufrad dengan tambahan ضمير متصل (kum)"
+      },
+      "nahwu": {
+        "kedudukan": "isim maf'ul (subjek) dalam klausa syarat",
+        "irab_dan_logika": "marfu' karena berfungsi sebagai mubtada' dan diikuti huruf jar (على)"
+      },
+      "hikmah": "Menegaskan bahwa perintah ini berlaku bagi setiap individu, tanpa pengecualian.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "ٱلْمَوْتُ",
+      "transliterasi": "al-mawtu",
+      "jenis_kata": "Isim",
+      "arti": "kematian",
+      "sharaf": {
+        "akar_kata": "م و ت",
+        "makna_dasar": "menyatakan keadaan mati",
+        "wazan_perubahan": "isim dengan alif lam (al-) sebagai alif al-ta'rif"
+      },
+      "nahwu": {
+        "kedudukan": "isim maf'ul (objek) dari kata kerja حَضَرَ",
+        "irab_dan_logika": "marfu' karena menjadi maf'ul mutlaq setelah fi'il madhi"
+      },
+      "hikmah": "Menunjukkan bahwa kematian adalah pemicu utama untuk melaksanakan wasiat yang ditetapkan.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "إِن",
+      "transliterasi": "in",
+      "jenis_kata": "Huruf",
+      "arti": "sesungguhnya, menegaskan",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf syarat (kata penghubung) yang mengawali klausa bersyarat",
+        "irab_dan_logika": "Tidak berharakat karena huruf, berfungsi menegaskan kondisi"
+      },
+      "hikmah": "Menegaskan pentingnya perintah yang akan diikuti, memberi bobot pada pernyataan selanjutnya",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "تَرَكَ",
+      "transliterasi": "taraka",
+      "jenis_kata": "Fi'il",
+      "arti": "meninggalkan",
+      "sharaf": {
+        "akar_kata": "ر ك ي",
+        "makna_dasar": "meninggalkan, melepaskan",
+        "wazan_perubahan": "fa'ala (bentuk sederhana)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il madhi (kata kerja lampau) dalam klausa syarat setelah إِن",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فعل ماضٍ"
+      },
+      "hikmah": "Menunjukkan tindakan meninggalkan harta atau kebaikan yang menjadi dasar wajib wasiat",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "خَيْرًا",
+      "transliterasi": "khairan",
+      "jenis_kata": "Isim",
+      "arti": "kebaikan, harta yang baik",
+      "sharaf": {
+        "akar_kata": "خ ي ر",
+        "makna_dasar": "baik, kebaikan",
+        "wazan_perubahan": "fa'il (isim mudhari) dengan tanwin"
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul bih (objek) dari فعل تَرَكَ",
+        "irab_dan_logika": "منصوب بالفتحة لأنه مفعول به منصوب"
+      },
+      "hikmah": "Menekankan bahwa yang ditinggalkan harus berupa sesuatu yang baik, bukan sekadar apa saja",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "ٱلْوَصِيَّةُ",
+      "transliterasi": "al-wasiyyatu",
+      "jenis_kata": "Isim",
+      "arti": "wasiat, perintah",
+      "sharaf": {
+        "akar_kata": "و ص ي",
+        "makna_dasar": "menasihati, memberi petunjuk",
+        "wazan_perubahan": "fa'ila"
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada' (subjek) dalam kalimat nominal setelah فَلْيَكُنْ",
+        "irab_dan_logika": "مرفوع بالضمة لأنه مبتدأ"
+      },
+      "hikmah": "Menjadi inti perintah: harta yang ditinggalkan harus dijadikan wasiat",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "لِلْوَالِدَيْنِ",
+      "transliterasi": "lilwalidayni",
+      "jenis_kata": "Huruf jar + Isim",
+      "arti": "bagi orang tua",
+      "sharaf": {
+        "akar_kata": "و ل د",
+        "makna_dasar": "orang tua",
+        "wazan_perubahan": "fa'ala"
+      },
+      "nahwu": {
+        "kedudukan": "Majrur (keterangan) yang melengkapi وَصِيَّةٌ",
+        "irab_dan_logika": "مجرور بالكسرة لأن اللام حرف جر"
+      },
+      "hikmah": "Menegaskan bahwa wasiat harus mencakup hak orang tua sebagai prioritas",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "وَٱلْأَقْرَبِينَ",
+      "transliterasi": "wal-aqrabeena",
+      "jenis_kata": "Huruf wa + Isim",
+      "arti": "dan kerabat",
+      "sharaf": {
+        "akar_kata": "ق ر ب",
+        "makna_dasar": "dekat, kerabat",
+        "wazan_perubahan": "fa'ila"
+      },
+      "nahwu": {
+        "kedudukan": "Majrur (keterangan tambahan) yang melengkapi وَصِيَّةٌ",
+        "irab_dan_logika": "مجرور بالكسرة لأنه مجرور باللام من اللفظ السابق"
+      },
+      "hikmah": "Menambah cakupan wasiat kepada kerabat terdekat setelah orang tua",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "بِٱلْمَعْرُفِ",
+      "transliterasi": "bi‑al‑ma‘rūfi",
+      "jenis_kata": "Isim (isim majrur)",
+      "arti": "dengan yang baik/yang dikenal",
+      "sharaf": {
+        "akar_kata": "ع ر ف",
+        "makna_dasar": "mengetahui, mengenal",
+        "wazan_perubahan": "ma‘rūf (isim al‑maf‘ūl)"
+      },
+      "nahwu": {
+        "kedudukan": "keterangan cara (jar) dalam perintah “أَصْلِحُوا بَيْنَ النَّاسِ بِالْمَعْرُوفِ”",
+        "irab_dan_logika": "majrur kasrah karena preposisi bi‑"
+      },
+      "hikmah": "Melakukan perbaikan dengan cara yang baik, dikenal, dan sesuai syariat.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "ۖ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda jeda (koma)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "memisahkan dua perintah dalam ayat",
+        "irab_dan_logika": "tidak berirab, berfungsi sebagai waqf"
+      },
+      "hikmah": "Menandakan jeda untuk memberi ruang pemahaman antara “بِالْمَعْرُوفِ” dan “حَقًّا”.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "حَقًّا",
+      "transliterasi": "ḥaqqan",
+      "jenis_kata": "Isim (maf‘ūl) dengan tanwin dammah, berfungsi sebagai naṣb (keterangan cara)",
+      "arti": "sebenarnya, dengan hak",
+      "sharaf": {
+        "akar_kata": "ح ق ق",
+        "makna_dasar": "kebenaran, hak",
+        "wazan_perubahan": "fa‘l (حَقّ)"
+      },
+      "nahwu": {
+        "kedudukan": "keterangan cara (naṣb) yang memperkuat arti “بِالْمَعْرُوفِ”",
+        "irab_dan_logika": "naṣb karena tanwin dammah, menandakan keadaan"
+      },
+      "hikmah": "Menegaskan bahwa perbaikan harus dilakukan secara adil dan benar, sesuai hak.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "عَلَى",
+      "transliterasi": "ʿalā",
+      "jenis_kata": "Huruf jar (preposisi)",
+      "arti": "atas, mengenai",
+      "sharaf": {
+        "akar_kata": "ع ل ي",
+        "makna_dasar": "tinggi, mengarah",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "preposisi yang menghubungkan ke “ٱلْمُتَّقِينَ”",
+        "irab_dan_logika": "menjadikan kata berikutnya majrur (kasrah)"
+      },
+      "hikmah": "Menunjukkan bahwa kewajiban ini bersifat atas (kewajiban) orang-orang yang bertakwa.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "ٱلْمُتَّقِينَ",
+      "transliterasi": "al‑muttaqīna",
+      "jenis_kata": "Isim (isim majrur) jamak maskulin",
+      "arti": "orang‑orang yang bertakwa",
+      "sharaf": {
+        "akar_kata": "و ق ي",
+        "makna_dasar": "menjaga diri dari dosa",
+        "wazan_perubahan": "mutaqq (fa‘‘āl)"
+      },
+      "nahwu": {
+        "kedudukan": "keterangan (jar) setelah preposisi “عَلَى”",
+        "irab_dan_logika": "majrur kasrah karena preposisi"
+      },
+      "hikmah": "Menegaskan bahwa perintah ini khusus bagi mereka yang berketakwa, sebagai landasan moral dalam perbaikan.",
+      "role": "none"
+    }
+  ]
+}
