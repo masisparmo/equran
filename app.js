@@ -152,6 +152,7 @@ async function init() {
     await loadApiKeys();
     setupEventListeners();
     initTafsirSelector();
+    fetchSurahs();
     loadApiKeys();
 
     // Check if we need to show welcome modal on first load
