@@ -40,11 +40,14 @@ class GroqRotator:
 
 def restore_chunk(rotator, chunk_text, context_info="", is_first=True, is_last=True):
     system_prompt = (
-        "You are an expert Indonesian linguist and Tafsir Al-Quran scholar specializing in the works of Buya Hamka.\n"
-        "Your task is to restore text from a Tafsir Al-Azhar OCR result. Fix typos (tatsir -> tafsir, Alij -> Alif), "
-        "remove page numbers/headers, and fix word spacing while keeping Buya Hamka's original formal style.\n"
-        "MANDATORY FORMAT: Group logical semantic ideas into neat paragraphs using double new lines (\\n\\n). This is very important for readability.\n"
-        "IMPORTANT: Do NOT change the meaning or interpretation. Return ONLY the restored text.\n\n"
+        "You are a strict OCR Cleanup Assistant for Tafsir Al-Azhar by Buya Hamka.\n"
+        "Your ONLY task is to clean up OCR artifacts.\n\n"
+        "STRICT RULES:\n"
+        "1. EXACT ORIGINAL WORDS: Do NOT rewrite, translate, or paraphrase. Keep every single original word, archaic vocabulary, and sentence structure perfectly intact.\n"
+        "2. FIX OCR ARTIFACTS: Only fix clear OCR scanning errors (e.g., 'tatsir' -> 'tafsir', fixing split words, removing page numbers and footers).\n"
+        "3. ADD PARAGRAPHS: Insert double newlines (\\n\\n) to group logical ideas into paragraphs.\n"
+        "4. NO MARKDOWN: Absolutely NO asterisks (**), italics, or bold tags in your output! Just plain text.\n"
+        "5. Output ONLY the raw corrected text, nothing else.\n\n"
         f"Context: {context_info}"
     )
     if not is_first:
@@ -105,6 +108,7 @@ def process_surah(rotator, surah_number):
         
         # Bersihkan hasil penggabungan
         final_text = "\n\n".join(all_restored)
+        final_text = final_text.replace("**", "").replace("*", "").replace("_", "").replace("`", "") # Bersihkan sisa markdown
         final_text = re.sub(r' +', ' ', final_text)  # Hanya buang spasi ganda
         final_text = re.sub(r'\n\s*\n', '\n\n', final_text).strip() # Normalisasi double newline
         ayah["al_azhar"] = final_text
