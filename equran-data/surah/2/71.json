@@ -3,94 +3,472 @@
   "ayah": 71,
   "words": [
     {
-      "index": 6,
-      "kata_arab": "ذَلُولࣱ",
-      "transliterasi": "Dzalūlun",
-      "jenis_kata": "Isim (Kata Benda)",
-      "arti": "Jinak, patuh, mudah dikendalikan, terlatih",
+      "index": 0,
+      "kata_arab": "قَالَ",
+      "transliterasi": "Qāla",
+      "jenis_kata": "Fi'il",
+      "arti": "Dia berkata/telah berkata",
       "sharaf": {
-        "akar_kata": "ذ ل ل",
-        "makna_dasar": "Keadaan tunduk, patuh, rendah hati, mudah dikendalikan, jinak",
-        "wazan_perubahan": "Kata \"ذَلُول\" (Dzalūl) mengikuti pola wazan فَعُول (fa'ūl). Wazan ini sering digunakan untuk menunjukkan sifat yang melekat, intensitas, atau sesuatu yang memiliki sifat tersebut secara kuat. Dalam konteks ini, ia menunjukkan sifat 'sangat jinak' atau 'yang sudah terbiasa dan terlatih untuk pekerjaan'."
+        "akar_kata": "ق و ل (Qāf-Wāw-Lām)",
+        "makna_dasar": "Berbicara, mengatakan",
+        "wazan_perubahan": "Fi'il Madhi (Kata Kerja Lampau), wazan فَعَلَ (fa'ala)"
       },
       "nahwu": {
-        "kedudukan": "Dalam ayat ini, kata \"ذَلُولࣱ\" berfungsi sebagai sifat (na'at) dari kata \"بَقَرَةࣱ\" (sapi betina). Jadi, ia menjelaskan ciri-ciri dari sapi betina tersebut. Karena didahului oleh \"لَّا\" (tidak), maka frasa \"لَّا ذَلُولࣱ\" berarti 'tidak jinak' atau 'belum terlatih'.",
-        "irab_dan_logika": "Kata \"ذَلُولࣱ\" berharakat dhammahtain (tanwin dhammah) pada huruf terakhirnya (ل). Ini karena ia adalah sifat (na'at) dari kata \"بَقَرَةࣱ\" (baqaratun). Dalam tata bahasa Arab, sifat (na'at) harus mengikuti kata yang disifatinya (man'ut) dalam hal harakat akhir (i'rab), jenis (laki-laki/perempuan), jumlah (tunggal/ganda/jamak), dan kejelasan (umum/khusus).\n\nKata \"بَقَرَةࣱ\" sendiri berharakat dhammahtain karena ia adalah khabar (predikat) yang marfu' (berharakat dhammah) dan nakirah (umum). Oleh karena itu, \"ذَلُولࣱ\" sebagai sifatnya juga harus marfu' (berharakat dhammah) dan nakirah (umum), sehingga berharakat dhammahtain."
+        "kedudukan": "Fi'il Madhi, berfungsi sebagai predikat awal kalimat.",
+        "irab_dan_logika": "Mabni (tetap) di atas Fathah (harakat 'a') karena tidak bersambung dengan dhamir rafa' mutaharrik atau wawu jama'. Fa'il (subjek)nya adalah dhamir mustatir (tersembunyi) yang kembali kepada Musa (عليه السلام)."
       },
-      "hikmah": "Berdasarkan analisis tata bahasa di atas, kata \"ذَلُولࣱ\" dalam ayat ini, yang didahului oleh \"لَّا\" (tidak), berarti 'tidak jinak', 'belum terlatih', atau 'belum pernah dipakai untuk pekerjaan berat seperti membajak tanah atau mengairi tanaman'.\n\nHikmah luar biasa atau keunikan sastra dari penggunaan kata ini adalah penekanan pada detail yang sangat spesifik dalam perintah Allah. Sapi yang dicari bukan sembarang sapi, melainkan sapi yang belum pernah 'dijinakkan' atau 'dimanfaatkan' untuk pekerjaan duniawi. Ini menunjukkan kesucian dan kekhususan sapi tersebut untuk tujuan kurban yang diperintahkan. Detail ini juga menjadi ujian bagi Bani Israil yang terus-menerus bertanya dan mempersulit diri sendiri, hingga akhirnya mendapatkan deskripsi yang sangat rinci.",
+      "hikmah": "Menunjukkan permulaan perkataan atau jawaban Musa (عليه السلام) kepada kaumnya, menegaskan bahwa perkataan tersebut berasal dari Allah.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "إِنَّهُۥ",
+      "transliterasi": "Innahu",
+      "jenis_kata": "Huruf + Isim (Dhamir)",
+      "arti": "Sesungguhnya Dia",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk huruf. Untuk dhamir, هو (Huwa) adalah dhamir ghaib mudzakkar mufrad.",
+        "makna_dasar": "Penekanan (Inna) + Dia (Hu)",
+        "wazan_perubahan": "Inna adalah huruf taukid (penegas). Hu adalah dhamir muttasil (kata ganti sambung)."
+      },
+      "nahwu": {
+        "kedudukan": "Inna adalah huruf nasikh (yang menasabkan isim dan merafa'kan khabar). Dhamir 'hu' (هُ) adalah Isim Inna, mansub (berharakat fathah) secara mahal (posisi).",
+        "irab_dan_logika": "Inna menasabkan isimnya. Dhamir 'hu' adalah dhamir muttasil mabni 'ala ad-dhamm (tetap di atas dhommah) pada posisi nasab sebagai isim Inna."
+      },
+      "hikmah": "Menegaskan bahwa perkataan selanjutnya adalah firman Allah (Dia), bukan perkataan Musa pribadi, memberikan otoritas ilahi pada penjelasan yang akan disampaikan.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "يَقُولُ",
+      "transliterasi": "Yaqūlu",
+      "jenis_kata": "Fi'il",
+      "arti": "Dia berkata/sedang berkata",
+      "sharaf": {
+        "akar_kata": "ق و ل (Qāf-Wāw-Lām)",
+        "makna_dasar": "Berbicara, mengatakan",
+        "wazan_perubahan": "Fi'il Mudhari' (Kata Kerja Sekarang/Akan Datang), wazan يَفْعُلُ (yaf'ulu)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' marfu' (rafa') sebagai khabar dari Inna (إِنَّهُۥ).",
+        "irab_dan_logika": "Marfu' dengan dhommah zhahirah (jelas) karena tidak didahului oleh amil nasib (penashab) atau amil jazim (penjazam). Fa'ilnya adalah dhamir mustatir (tersembunyi) yang kembali kepada Allah (هُوَ)."
+      },
+      "hikmah": "Menunjukkan bahwa Allah (Dia) sedang berfirman atau menyampaikan penjelasan, menekankan keberlangsungan atau kejelasan firman tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "إِنَّهَا",
+      "transliterasi": "Innahā",
+      "jenis_kata": "Huruf + Isim (Dhamir)",
+      "arti": "Sesungguhnya ia (sapi betina itu)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk huruf. Untuk dhamir, هي (Hiya) adalah dhamir ghaib muannats mufrad.",
+        "makna_dasar": "Penekanan (Inna) + Ia (Hā)",
+        "wazan_perubahan": "Inna adalah huruf taukid. Hā adalah dhamir muttasil."
+      },
+      "nahwu": {
+        "kedudukan": "Inna adalah huruf nasikh. Dhamir 'hā' (هَا) adalah Isim Inna, mansub secara mahal.",
+        "irab_dan_logika": "Inna menasabkan isimnya. Dhamir 'hā' adalah dhamir muttasil mabni 'ala as-sukūn (tetap di atas sukun) pada posisi nasab sebagai isim Inna. Dhamir ini kembali kepada 'sapi betina' (بَقَرَةٌ)."
+      },
+      "hikmah": "Memulai penjelasan rinci tentang sifat-sifat sapi betina yang dimaksud, dengan penekanan bahwa sifat-sifat ini adalah bagian dari perintah Allah.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "بَقَرَةٌۭ",
+      "transliterasi": "Baqaratun",
+      "jenis_kata": "Isim",
+      "arti": "Sapi betina",
+      "sharaf": {
+        "akar_kata": "ب ق ر (Bā-Qāf-Rā)",
+        "makna_dasar": "Membelah, membuka (dari sini, sapi yang membajak tanah) atau hewan ternak secara umum.",
+        "wazan_perubahan": "Isim Mufrad Muannats (Kata Benda Tunggal Perempuan)."
+      },
+      "nahwu": {
+        "kedudukan": "Khabar dari Inna (إِنَّهَا), marfu'.",
+        "irab_dan_logika": "Marfu' dengan dhommah tanwin (dhommatain) zhahirah karena merupakan isim nakirah (umum) dan khabar dari Inna yang marfu'."
+      },
+      "hikmah": "Menyebutkan objek utama dari perintah tersebut, yaitu 'sapi betina', sebagai identifikasi awal sebelum dijelaskan sifat-sifatnya.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "لَّا",
+      "transliterasi": "Lā",
+      "jenis_kata": "Huruf",
+      "arti": "Tidak",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk huruf.",
+        "makna_dasar": "Penafian (negasi).",
+        "wazan_perubahan": "Huruf Nafi (penafian)."
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Nafi.",
+        "irab_dan_logika": "Huruf mabni 'ala as-sukūn (tetap di atas sukun), tidak memiliki kedudukan i'rab. Berfungsi menafikan kata atau kalimat setelahnya."
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "ذَلُولٌۭ",
+      "transliterasi": "Dhalūlun",
+      "jenis_kata": "Isim",
+      "arti": "Yang jinak, yang patuh, yang belum terlatih",
+      "sharaf": {
+        "akar_kata": "ذ ل ل (dh-l-l)",
+        "makna_dasar": "Kelembutan, kepatuhan, kerendahan, kemudahan",
+        "wazan_perubahan": "فَعُولٌ (fa'ūlun)"
+      },
+      "nahwu": {
+        "kedudukan": "Na'at (sifat) dari 'sapi betina' (بَقَرَةٌ) yang disebutkan sebelumnya",
+        "irab_dan_logika": "Marfu' (rafa') dengan dhammah tanwin (dhammahtain) karena ia adalah na'at dari isim yang marfu'. Na'at mengikuti man'utnya dalam i'rab."
+      },
+      "hikmah": "Kata ini menekankan kondisi sapi yang belum pernah dimanfaatkan untuk pekerjaan berat seperti membajak atau mengairi. Ini menunjukkan kesucian dan kesempurnaannya untuk tujuan kurban, menyingkirkan sapi yang sudah 'lelah' atau 'rusak' karena pekerjaan duniawi. Sapi yang 'jinak' dalam konteks ini berarti belum pernah 'dijinakkan' untuk bekerja.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "تُثِيرُ",
+      "transliterasi": "Tuthīru",
+      "jenis_kata": "Fi'il",
+      "arti": "Ia (sapi betina) membajak/menggali",
+      "sharaf": {
+        "akar_kata": "ث و ر (th-w-r)",
+        "makna_dasar": "Menggerakkan, membangkitkan, menggali, memberontak",
+        "wazan_perubahan": "Fi'il Mudhari' dari Bab IV (أَفْعَلَ - يُفْعِلُ), bentuk muannats ghaibah (dia perempuan)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Marfu'",
+        "irab_dan_logika": "Marfu' dengan dhammah karena tidak didahului oleh amil nashab (penashab) atau amil jazm (penjazm). Fa'il (subjek)nya adalah dhamir mustatir (tersembunyi) تقديره هي (taqdīruhā hiya) yang kembali kepada 'sapi betina'."
+      },
+      "hikmah": "Kata kerja ini menggambarkan aktivitas spesifik sapi yang digunakan untuk membajak tanah. Penafian dari aktivitas ini (لَا تُثِيرُ) menegaskan bahwa sapi tersebut belum pernah dipakai untuk pekerjaan pertanian yang berat, menjadikannya lebih murni dan belum 'tercemar' oleh kerja keras duniawi. Ini adalah salah satu ciri kesempurnaan sapi kurban.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "ٱلْأَرْضَ",
+      "transliterasi": "Al-Arḍa",
+      "jenis_kata": "Isim",
+      "arti": "Bumi, tanah",
+      "sharaf": {
+        "akar_kata": "أ ر ض (a-r-ḍ)",
+        "makna_dasar": "Daratan, permukaan bumi",
+        "wazan_perubahan": "Isim jamid (kata benda dasar)"
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul Bih (objek penderita) dari fi'il تُثِيرُ",
+        "irab_dan_logika": "Manshub (nashab) dengan fathah karena ia adalah maf'ul bih. Maf'ul bih selalu manshub."
+      },
+      "hikmah": "Kata ini menjelaskan objek dari pekerjaan membajak. Dengan menafikan sapi itu membajak tanah, Al-Qur'an menekankan kondisi sapi yang belum pernah berinteraksi dengan pekerjaan berat di ladang. Ini adalah bagian dari deskripsi sapi yang ideal untuk kurban, yaitu yang belum 'terpakai' untuk pekerjaan duniawi.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "وَلَا",
+      "transliterasi": "Wa lā",
+      "jenis_kata": "Huruf",
+      "arti": "Dan tidak",
+      "sharaf": {
+        "akar_kata": "Tidak ada akar kata untuk huruf",
+        "makna_dasar": "Huruf 'waw' (و) adalah huruf athaf (penghubung) yang berarti 'dan'. Huruf 'lā' (لَا) adalah huruf nafi (penafian) yang berarti 'tidak'.",
+        "wazan_perubahan": "Huruf mabni (tetap)"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf athaf dan huruf nafi",
+        "irab_dan_logika": "Mabni 'ala al-fath (waw) dan mabni 'ala as-sukūn (la), tidak memiliki kedudukan i'rab karena huruf."
+      },
+      "hikmah": "Gabungan huruf ini berfungsi untuk menghubungkan penafian sebelumnya (tidak membajak tanah) dengan penafian berikutnya (tidak mengairi tanaman). Ini adalah penegasan ganda atas kondisi sapi yang belum pernah dipakai bekerja, menunjukkan bahwa sapi tersebut benar-benar belum tersentuh oleh pekerjaan berat pertanian, sehingga lebih murni dan sempurna untuk kurban.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "تَسْقِى",
+      "transliterasi": "Tasqī",
+      "jenis_kata": "Fi'il",
+      "arti": "Ia (sapi betina) mengairi/menyirami",
+      "sharaf": {
+        "akar_kata": "س ق ي (s-q-y)",
+        "makna_dasar": "Memberi minum, mengairi",
+        "wazan_perubahan": "Fi'il Mudhari' dari Bab I (فَعَلَ - يَفْعِلُ), bentuk muannats ghaibah (dia perempuan)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Marfu'",
+        "irab_dan_logika": "Marfu' dengan dhammah muqaddarah (diperkirakan) di atas huruf ya' karena beratnya pengucapan (ثقل). Tidak didahului oleh amil nashab atau jazm. Fa'il (subjek)nya adalah dhamir mustatir (tersembunyi) تقديره هي (taqdīruhā hiya) yang kembali kepada 'sapi betina'."
+      },
+      "hikmah": "Kata kerja ini menggambarkan aktivitas spesifik sapi yang digunakan untuk mengairi tanaman (misalnya, menarik alat pengairan). Penafian dari aktivitas ini (وَلَا تَسْقِي) semakin memperkuat gambaran sapi yang belum pernah dimanfaatkan untuk pekerjaan pertanian yang berat, menunjukkan kemurnian dan kesempurnaannya sebagai hewan kurban yang belum 'terpakai' untuk tujuan duniawi.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "ٱلْحَرْثَ",
+      "transliterasi": "Al-Ḥartha",
+      "jenis_kata": "Isim",
+      "arti": "Tanaman, ladang, sawah, hasil pertanian",
+      "sharaf": {
+        "akar_kata": "ح ر ث (ḥ-r-th)",
+        "makna_dasar": "Membajak, menanam, bercocok tanam, hasil pertanian",
+        "wazan_perubahan": "Isim masdar yang juga berfungsi sebagai isim makan (tempat) atau isim maf'ul (objek)"
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul Bih (objek penderita) dari fi'il تَسْقِى",
+        "irab_dan_logika": "Manshub (nashab) dengan fathah karena ia adalah maf'ul bih. Maf'ul bih selalu manshub."
+      },
+      "hikmah": "Kata ini menjelaskan objek dari pekerjaan mengairi. Dengan menafikan sapi itu mengairi tanaman, Al-Qur'an menekankan kondisi sapi yang belum pernah terlibat dalam pekerjaan berat di ladang. Ini melengkapi deskripsi sapi yang ideal untuk kurban, yaitu yang belum 'terpakai' untuk pekerjaan duniawi, sehingga memenuhi syarat kesempurnaan yang diminta.",
       "role": "none"
     },
     {
       "index": 12,
-      "kata_arab": "مُسَلَّمَةࣱ",
-      "transliterasi": "musallamah",
+      "kata_arab": "مُسَلَّمَةٌۭ",
+      "transliterasi": "musallamatun",
       "jenis_kata": "Isim (Kata Benda)",
-      "arti": "yang diselamatkan, yang diserahkan, yang utuh, yang tanpa cacat",
+      "arti": "yang selamat, yang sempurna, yang tidak bercacat",
       "sharaf": {
-        "akar_kata": "س ل م",
-        "makna_dasar": "Selamat, damai, utuh, menyerahkan, tunduk",
-        "wazan_perubahan": "Kata ini berasal dari akar kata س ل م (S-L-M). Bentuk dasarnya adalah سَلِمَ (salima) yang berarti 'selamat' atau سَلَّمَ (sallama) yang berarti 'menyerahkan' atau 'menyelamatkan'. Kata مُسَلَّمَةࣱ adalah bentuk Isim Maf'ul (kata benda pasif) dari wazan (pola) فَعَّلَ (fa''ala), yaitu سَلَّمَ. Isim Maf'ul dari wazan ini adalah مُفَعَّلٌ (mufa''alun) untuk maskulin dan مُفَعَّلَةٌ (mufa''alatun) untuk feminin. Jadi, مُسَلَّمَةࣱ berarti 'yang dijadikan selamat', 'yang diserahkan (dari cacat)', atau 'yang bebas dari cacat'."
+        "akar_kata": "س ل م (S-L-M)",
+        "makna_dasar": "selamat, damai, sempurna, menyerah",
+        "wazan_perubahan": "Isim Maf'ul dari Fi'il Tsulatsi Mazid (bab تَفْعِيل - فَعَّلَ), yaitu سَلَّمَ (sallama) -> يُسَلِّمُ (yusallimu) -> مُسَلَّمٌ (musallamun). Bentuk muannatsnya مُسَلَّمَةٌ."
       },
       "nahwu": {
-        "kedudukan": "Kata ini berfungsi sebagai sifat (kata sifat) atau na'at dari kata sebelumnya, yaitu بَقَرَةࣱ (sapi betina). Ia menjelaskan kondisi sapi tersebut.",
-        "irab_dan_logika": "Harakat huruf terakhirnya adalah dhammah tanwin (ـَةࣱ). Ini karena ia adalah sifat (na'at) dari kata بَقَرَةࣱ. Dalam tata bahasa Arab, sifat harus mengikuti kata yang disifati (man'ut) dalam hal 'i'rab' (keadaan gramatikalnya). Kata بَقَرَةࣱ sendiri berkedudukan sebagai khabar (predikat) dari 'inna' (إِنَّهَا), dan khabar dari 'inna' biasanya berstatus marfu' (ditandai dengan harakat dhammah). Karena بَقَرَةࣱ berstatus marfu' (dengan dhammah tanwin), maka sifatnya, مُسَلَّمَةࣱ, juga harus berstatus marfu' (dengan dhammah tanwin). Logikanya, jika kita mengatakan 'sapi yang bersih', maka 'sapi' dan 'bersih' harus memiliki 'status' yang sama dalam kalimat."
+        "kedudukan": "Na'at (sifat) dari بَقَرَةٌ (baqaratun - sapi betina) yang disebutkan sebelumnya dalam ayat.",
+        "irab_dan_logika": "Marfu' (rafa') dengan dhammah tanwin (ٌ) karena ia adalah na'at dari بَقَرَةٌ yang juga marfu'. Sifat mengikuti yang disifati dalam i'rab."
       },
-      "hikmah": "Berdasarkan analisis tata bahasa, مُسَلَّمَةࣱ dalam ayat ini berarti 'yang selamat dari segala cacat', 'yang utuh', atau 'yang tidak memiliki kekurangan sedikit pun'. Ini menekankan bahwa sapi tersebut harus sempurna, baik secara fisik maupun fungsional (belum pernah dipakai membajak atau mengairi). Hikmah luar biasa dari penggunaan kata ini adalah untuk menggambarkan tingkat kemurnian dan kesempurnaan yang sangat tinggi, seolah-olah sapi itu 'dijaga' atau 'diselamatkan' dari segala bentuk kekurangan. Ini juga menunjukkan betapa spesifiknya tuntutan Allah, yang pada akhirnya dipersulit sendiri oleh Bani Israil dengan pertanyaan-pertanyaan detail mereka.",
+      "hikmah": "Kata ini menekankan kesempurnaan dan ketiadaan cacat pada sapi tersebut, menjadikannya istimewa dan sesuai untuk kurban. Ini menunjukkan tuntutan Allah akan kualitas terbaik dalam ibadah dan pengorbanan.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "لَّا",
+      "transliterasi": "lā",
+      "jenis_kata": "Huruf (Partikel)",
+      "arti": "tidak, bukan",
+      "sharaf": {
+        "akar_kata": "N/A (huruf)",
+        "makna_dasar": "Penafian, negasi",
+        "wazan_perubahan": "N/A (huruf tidak memiliki wazan sharaf)"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Nafi (penafian)",
+        "irab_dan_logika": "Harakatnya sukun secara asal, namun di sini ditulis dengan alif kecil di atas lam, menunjukkan mad (pemanjangan) jika diikuti oleh hamzah washal atau untuk penekanan. Tidak memiliki kedudukan i'rab karena huruf."
+      },
+      "hikmah": "Huruf ini mengawali penafian sifat-sifat buruk atau cacat pada sapi, menegaskan bahwa sapi tersebut bebas dari kekurangan yang akan disebutkan selanjutnya. Ini adalah 'la' an-nafiyah lil-jins (penafian jenis).",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "شِيَةَ",
+      "transliterasi": "shīyata",
+      "jenis_kata": "Isim (Kata Benda)",
+      "arti": "belang, warna lain, tanda",
+      "sharaf": {
+        "akar_kata": "و ش ي (W-Sh-Y)",
+        "makna_dasar": "menandai, menghias, memberi warna berbeda",
+        "wazan_perubahan": "Isim dari Fi'il Ajwaf Wawi (وَشَى - يَشِي). Bentuk asalnya وَشْيٌ, namun di sini dalam bentuk شِيَةٌ (dengan ta' marbutah)."
+      },
+      "nahwu": {
+        "kedudukan": "Isim `la` an-nafiyah lil-jins (isim 'la' yang menafikan jenis secara keseluruhan).",
+        "irab_dan_logika": "Manshub (nashab) dengan fathah (َ) karena ia adalah isim `la` an-nafiyah lil-jins. `La` ini beramal seperti `inna` (menashabkan isim dan merofa'kan khabar), dan `shīyata` adalah isimnya."
+      },
+      "hikmah": "Kata ini menegaskan bahwa sapi tersebut sama sekali tidak memiliki belang atau warna yang berbeda dari warna utamanya, menunjukkan keseragaman dan kemurnian warnanya. Ini adalah salah satu ciri kesempurnaan yang dituntut.",
       "role": "none"
     },
     {
       "index": 15,
-      "kata_arab": "فِیهَاۚ",
+      "kata_arab": "فِيهَا",
       "transliterasi": "fīhā",
-      "jenis_kata": "Harf (Huruf) + Isim (Kata Ganti)",
-      "arti": "di dalamnya / padanya",
+      "jenis_kata": "Gabungan Huruf dan Dhomir (Preposisi + Kata Ganti)",
+      "arti": "di dalamnya, padanya",
       "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "Kata ini terdiri dari dua bagian: 'فِي' (fī) yang berarti 'di dalam' atau 'pada', dan 'هَا' (hā) yang merupakan kata ganti orang ketiga tunggal perempuan yang berarti 'dia' atau 'nya'. Jadi, makna dasarnya adalah 'di dalam dia (perempuan)' atau 'padanya (perempuan)'.",
-        "wazan_perubahan": ""
+        "akar_kata": "N/A untuk `fī`, H-A untuk `hā` (dhomir)",
+        "makna_dasar": "`fī` (di, dalam), `hā` (dia perempuan)",
+        "wazan_perubahan": "N/A (gabungan huruf dan dhomir tidak memiliki wazan sharaf)"
       },
       "nahwu": {
-        "kedudukan": "Kata 'فِیهَا' ini adalah gabungan dari huruf jar (preposisi) 'فِي' dan kata ganti (dhamir) 'هَا'. Dalam kalimat 'لَّا شِیَةَ فِیهَاۚ' (tidak ada belangnya padanya), 'فِیهَا' berfungsi sebagai keterangan tempat atau pelengkap yang menjelaskan di mana 'belang' itu tidak ada. Secara tata bahasa, ia adalah 'jar majrur' (frasa preposisional) yang kedudukannya sebagai 'khabar muqaddam' (predikat yang didahulukan) untuk 'شِیَةَ' (belang) yang menjadi 'mubtada' mu'akhkhar' (subjek yang diakhirkan). Sederhananya, ia menjelaskan 'di mana' sifat 'tidak ada belang' itu berlaku, yaitu 'pada sapi betina itu'.",
-        "irab_dan_logika": "Huruf 'فِي' adalah huruf jar, yang artinya ia tidak berubah harakat akhirnya (mabni). Tugas huruf jar adalah membuat kata benda setelahnya menjadi 'majrur' (berharakat kasrah atau yang setara). Kata 'هَا' adalah kata ganti (dhamir) yang juga tidak berubah harakat akhirnya (mabni). Meskipun harakat akhirnya terlihat fathah, ia tetap pada bentuknya. Karena ia datang setelah huruf jar 'فِي', maka kita katakan 'هَا' ini berada pada posisi 'jar' (fi mahalli jarrin), seolah-olah ia berharakat kasrah jika ia adalah isim mu'rab (kata benda yang bisa berubah harakatnya). Logikanya, 'هَا' adalah 'objek' dari preposisi 'فِي'."
+        "kedudukan": "Jar Majrur (preposisi dan objeknya) yang berfungsi sebagai khabar `la` an-nafiyah lil-jins.",
+        "irab_dan_logika": "`fī` adalah huruf jar, `hā` adalah dhomir muttasil mabniyyun 'ala as-sukun fi mahalli jarr bi al-harf. Secara keseluruhan, `fīhā` adalah syibhul jumlah (mirip kalimat) yang berada pada posisi rafa' sebagai khabar dari `la` an-nafiyah lil-jins."
       },
-      "hikmah": "Pada ayat ini, 'فِیهَا' berarti 'padanya' atau 'di dalam sapi itu'. Penggunaannya sangat spesifik untuk menegaskan bahwa tidak ada sedikit pun belang atau cacat *pada tubuh sapi itu sendiri*. Ini bukan hanya tidak ada belang di sekitarnya, tapi *di dalam* atau *pada* sapi itu sendiri. Hikmahnya adalah menunjukkan betapa telitinya Allah dalam memberikan sifat sapi yang harus disembelih, tanpa cela sedikit pun, yang menambah kesulitan bagi Bani Israil dalam menemukannya. Ini juga menunjukkan keunikan sastra Al-Quran dalam menggambarkan sesuatu dengan sangat presisi.",
-      "role": "predicate"
+      "hikmah": "Gabungan ini menjelaskan lokasi ketiadaan belang, yaitu *pada sapi betina itu sendiri*. Ini mempertegas bahwa sapi tersebut murni tanpa cacat warna, baik di bagian luar maupun dalam, sesuai dengan tuntutan Allah.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "ۚ",
+      "transliterasi": "N/A",
+      "jenis_kata": "Tanda Waqaf (Simbol)",
+      "arti": "N/A",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "Tanda berhenti yang dianjurkan (waqaf jaiz)",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "N/A (bukan kata dalam tata bahasa Arab)",
+        "irab_dan_logika": "N/A"
+      },
+      "hikmah": "Tanda ini menunjukkan tempat yang baik untuk berhenti membaca, memberikan jeda untuk memahami makna sebelumnya sebelum melanjutkan ke bagian berikutnya dari ayat. Ini membantu dalam pemahaman dan tadabbur Al-Qur'an.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "قَالُوا۟",
+      "transliterasi": "qālū",
+      "jenis_kata": "Fi'il (Kata Kerja)",
+      "arti": "mereka berkata",
+      "sharaf": {
+        "akar_kata": "ق و ل (Q-W-L)",
+        "makna_dasar": "berkata, mengatakan",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau), Tsulatsi Ajwaf Wawi (asalnya قَوَلَ, berubah menjadi قَالُوا karena illat dan dhomir jamak). Wazan فَعَلُوا."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il (kata kerja) dan Fa'il (subjek) berupa wawu al-jama'ah.",
+        "irab_dan_logika": "Fi'il Madhi mabniyyun 'ala ad-dhamm (mabni di atas dhammah) karena bersambung dengan wawu al-jama'ah. Wawu al-jama'ah adalah dhomir rafa' yang menjadi fa'il."
+      },
+      "hikmah": "Kata ini menunjukkan respons atau perkataan dari Bani Israil setelah Musa menjelaskan sifat sapi. Ini menandai transisi dalam narasi dan menunjukkan bahwa mereka akhirnya mendapatkan kejelasan yang mereka minta, meskipun dengan banyak pertanyaan sebelumnya.",
+      "role": "none"
     },
     {
       "index": 18,
-      "kata_arab": "جِئۡتَ",
-      "transliterasi": "Ji'ta",
-      "jenis_kata": "Fi'il (Kata Kerja)",
-      "arti": "Kamu telah datang / Engkau telah datang",
+      "kata_arab": "ٱلْـَٰٔنَ",
+      "transliterasi": "al-āna",
+      "jenis_kata": "Isim",
+      "arti": "sekarang, kini",
       "sharaf": {
-        "akar_kata": "ج ي ء",
-        "makna_dasar": "Datang, tiba, membawa",
-        "wazan_perubahan": "Kata ini berasal dari kata kerja lampau (Fi'il Madhi) 'جَاءَ' (ja'a) yang berarti 'dia telah datang'. Bentuk 'جِئۡتَ' adalah perubahan (konjugasi) dari kata kerja tersebut untuk menunjukkan pelaku 'kamu (laki-laki tunggal)'. Wazan (pola) dasarnya adalah فَعَلَ (fa'ala), dan untuk 'جِئۡتَ' polanya adalah فَعَلْتَ (fa'alta). Perubahan ini menunjukkan bahwa tindakan 'datang' dilakukan oleh 'kamu' di masa lampau."
+        "akar_kata": "أ و ن",
+        "makna_dasar": "waktu sekarang",
+        "wazan_perubahan": "Isim Zaman (kata keterangan waktu)"
       },
       "nahwu": {
-        "kedudukan": "Dalam kalimat ini, 'جِئۡتَ' adalah kata kerja (fi'il). Huruf 'تَ' (ta dengan fathah) yang bersambung di akhir kata kerja ini adalah kata ganti (dhomir) yang berfungsi sebagai pelaku atau subjek (Fa'il) dari pekerjaan 'datang'. Jadi, 'kamu' adalah pelakunya.",
-        "irab_dan_logika": "Kata 'جِئۡتَ' adalah kata kerja lampau (Fi'il Madhi) yang hukumnya 'mabni' (tetap). Fi'il Madhi biasanya mabni di atas fathah (seperti 'كَتَبَ' - kataba), tetapi ketika bersambung dengan dhomir rafa' muttasil (kata ganti yang menjadi subjek dan bersambung), seperti 'تَ' ini, maka fi'il madhi menjadi mabni di atas sukun pada huruf terakhirnya (huruf 'hamzah' pada 'جِئْـ'). Adapun huruf 'تَ' itu sendiri adalah dhomir (kata ganti) yang mabni di atas fathah, dan kedudukannya sebagai fa'il (pelaku) yang 'marfu'' (berkedudukan rafa'). Logikanya, sukun pada 'جِئْـ' adalah untuk memudahkan pengucapan ketika dhomir 'تَ' disambungkan, dan fathah pada 'تَ' menunjukkan bahwa pelakunya adalah 'kamu' (laki-laki tunggal)."
+        "kedudukan": "Zharaf Zaman (keterangan waktu)",
+        "irab_dan_logika": "Mabni 'ala al-fath (tetap fathah) karena sifatnya sebagai isim ghair mutasharrif (tidak berubah bentuk), berfungsi sebagai keterangan waktu untuk fi'il `جِئْتَ`."
       },
-      "hikmah": "Pada ayat ini, 'جِئۡتَ' berarti 'kamu telah datang' atau 'engkau telah membawa'. Ketika Bani Israil berkata, 'الْآنَ جِئْتَ بِالْحَقِّ' (Sekarang barulah kamu menerangkan hakikat sapi betina yang sebenarnya), ini menunjukkan bahwa setelah sekian lama mereka berbelit-belit dan bertanya terlalu banyak, akhirnya Nabi Musa memberikan deskripsi yang sangat spesifik dan tidak bisa lagi mereka bantah atau tunda. Penggunaan 'جِئْتَ بِالْحَقِّ' (kamu datang dengan kebenaran) secara sastra menunjukkan bahwa deskripsi sebelumnya dianggap kurang jelas atau tidak cukup meyakinkan bagi mereka, padahal itu adalah ujian dari Allah. Hikmahnya adalah penekanan pada kejelasan dan ketegasan setelah sebelumnya ada keraguan dan penundaan yang tidak perlu.",
-      "role": "predicate"
+      "hikmah": "Kata ini menekankan momen saat ini sebagai titik kejelasan atau pemahaman setelah sebelumnya ada keraguan atau pertanyaan yang berlarut-larut dari Bani Israil.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "جِئْتَ",
+      "transliterasi": "ji'ta",
+      "jenis_kata": "Fi'il",
+      "arti": "engkau (laki-laki) telah datang/membawa",
+      "sharaf": {
+        "akar_kata": "ج ي أ",
+        "makna_dasar": "datang, membawa",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau), wazan فَعَلَ (fa'ala), dhomir أنتَ (anta - engkau laki-laki)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Madhi, fa'ilnya adalah dhomir muttasil تاء الفاعل (ta'ul fa'il) yang merujuk kepada Nabi Musa.",
+        "irab_dan_logika": "Mabni 'ala as-sukun (tetap sukun) karena bersambung dengan ta'ul fa'il (تَ)."
+      },
+      "hikmah": "Menunjukkan tindakan Nabi Musa yang membawa atau menyampaikan sesuatu, dalam konteks ini adalah kejelasan atau kebenaran yang diminta oleh Bani Israil mengenai sifat sapi betina.",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "بِٱلْحَقِّ",
+      "transliterasi": "bil-ḥaqq",
+      "jenis_kata": "Huruf (Ba') + Isim (al-Haqq)",
+      "arti": "dengan kebenaran",
+      "sharaf": {
+        "akar_kata": "ح ق ق",
+        "makna_dasar": "kebenaran, hak, nyata",
+        "wazan_perubahan": "Isim Masdar (kata benda dari kata kerja), wazan فَعْلٌ (fa'lun)."
+      },
+      "nahwu": {
+        "kedudukan": "Jar Majrur (Huruf Jar 'Ba' dan Isim Majrur 'al-Haqq'). Berfungsi sebagai keterangan cara atau alat bagi fi'il `جِئْتَ`.",
+        "irab_dan_logika": "Huruf Ba' (بِ) adalah huruf jar yang menyebabkan isim setelahnya (الحق) menjadi majrur (kasrah). Tanda jar-nya adalah kasrah pada huruf Qaf (ق)."
+      },
+      "hikmah": "Menegaskan bahwa apa yang disampaikan atau dibawa oleh Nabi Musa adalah sesuatu yang benar, jelas, dan tidak ada keraguan di dalamnya, sehingga tidak ada alasan lagi bagi Bani Israil untuk bertanya.",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqaf lazim)",
+      "jenis_kata": "Tanda baca Al-Qur'an",
+      "arti": "(tanda berhenti wajib)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "N/A",
+        "irab_dan_logika": "N/A"
+      },
+      "hikmah": "Tanda ini menunjukkan akhir dari satu bagian kalimat atau makna yang utuh, dan disarankan untuk berhenti membaca di sini sebelum melanjutkan ke bagian berikutnya untuk menjaga kesempurnaan makna.",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "فَذَبَحُوهَا",
+      "transliterasi": "fa-dhabaḥūhā",
+      "jenis_kata": "Huruf (Fa') + Fi'il (dhabaḥū) + Dhomir (hā)",
+      "arti": "maka mereka menyembelihnya (sapi betina itu)",
+      "sharaf": {
+        "akar_kata": "ذ ب ح",
+        "makna_dasar": "menyembelih",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau), wazan فَعَلُوا (fa'alū) untuk dhomir هُمْ (hum - mereka laki-laki). Dhomir هَا (hā) adalah dhomir nashab muttasil untuk muannats ghaibah (dia perempuan)."
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Fa' (فَ) adalah huruf 'athaf (penghubung) yang menunjukkan urutan dan akibat. Fi'il Madhi `ذَبَحُوا` adalah fi'il, dengan wawu jama'ah (و) sebagai fa'il (pelaku). Dhomir `هَا` adalah maf'ul bih (objek) yang kembali kepada sapi betina (البقرة).",
+        "irab_dan_logika": "Fi'il Madhi `ذَبَحُوا` mabni 'ala adh-dhamm (tetap dhammah) karena bersambung dengan wawu jama'ah. Dhomir `هَا` adalah dhomir nashab muttasil, mabni 'ala as-sukun (tetap sukun) pada posisi nashab sebagai maf'ul bih."
+      },
+      "hikmah": "Menunjukkan tindakan Bani Israil yang akhirnya melaksanakan perintah penyembelihan sapi betina setelah mendapatkan penjelasan yang mereka anggap cukup. Huruf 'fa' (فَ) menunjukkan konsekuensi langsung dari kejelasan yang diberikan, yaitu tindakan penyembelihan.",
+      "role": "none"
     },
     {
       "index": 23,
-      "kata_arab": "یَفۡعَلُونَ",
-      "transliterasi": "yaf'alūna",
-      "jenis_kata": "Fi'il (Kata Kerja)",
-      "arti": "Mereka melakukan/mengerjakan",
+      "kata_arab": "وَمَا",
+      "transliterasi": "wa-mā",
+      "jenis_kata": "Huruf (Wawu) + Huruf (Ma)",
+      "arti": "dan tidak",
       "sharaf": {
-        "akar_kata": "ف ع ل",
-        "makna_dasar": "Melakukan, mengerjakan, berbuat",
-        "wazan_perubahan": "Kata ini adalah bentuk Fi'il Mudhari' (kata kerja masa kini/akan datang) dari akar kata فَعَلَ (fa'ala). Wazan aslinya adalah يَفْعَلُ (yaf'alu). Penambahan 'و ن' (waw dan nun) di akhir menunjukkan bahwa pelakunya adalah 'mereka' (laki-laki, jamak, orang ketiga). Jadi, يَفْعَلُونَ berarti 'mereka sedang/akan melakukan'."
+        "akar_kata": "N/A",
+        "makna_dasar": "penghubung (wawu), penafian (ma)",
+        "wazan_perubahan": "N/A"
       },
       "nahwu": {
-        "kedudukan": "Dalam kalimat \"وَمَا كَادُوا۟ یَفۡعَلُونَ\", kata \"یَفۡعَلُونَ\" berfungsi sebagai predikat (khabar) dari kata kerja \"كَادُوا۟\" (kādū), yang berarti 'mereka hampir'. Jadi, \"یَفۡعَلُونَ\" menjelaskan apa yang hampir tidak mereka lakukan.",
-        "irab_dan_logika": "Kata \"یَفۡعَلُونَ\" adalah Fi'il Mudhari' yang termasuk dalam kelompok 'Al-Af'al Al-Khamsah' (lima kata kerja). Ciri khas dari kelompok ini adalah adanya huruf nun (ن) di akhir ketika dalam keadaan 'rafa'' (marfu'). Karena tidak ada huruf atau partikel yang mendahuluinya yang menyebabkan ia menjadi 'nashab' (mansub) atau 'jazm' (majzum) (yang akan menghilangkan nun), maka ia tetap dalam keadaan 'rafa''. Tanda 'rafa''-nya adalah tetapnya huruf nun di akhir. Logikanya, karena tidak ada 'penarik' yang mengubah bentuknya, maka ia tetap pada bentuk dasarnya yang menunjukkan 'mereka sedang/akan melakukan'."
+        "kedudukan": "Huruf Wawu (وَ) adalah huruf 'athaf (penghubung). Huruf Ma (مَا) adalah Ma Nafi (peniadaan) yang berfungsi menafikan fi'il madhi setelahnya.",
+        "irab_dan_logika": "Keduanya adalah huruf, sehingga mabni (tetap) dan tidak memiliki kedudukan i'rab. Ma Nafi tidak mempengaruhi i'rab fi'il madhi."
       },
-      "hikmah": "Kata \"یَفۡعَلُونَ\" dalam ayat ini berarti 'mereka melakukan/melaksanakan'. Namun, karena didahului oleh \"وَمَا كَادُوا۟\" (dan hampir saja mereka tidak), maka maknanya menjadi 'mereka hampir saja tidak melaksanakannya'. Hikmah luar biasa atau keunikan sastranya terletak pada penggunaan fi'il mudhari' ini setelah 'kādū'. Ini menggambarkan keengganan, keraguan, dan penundaan yang panjang dari Bani Israil dalam menjalankan perintah Allah untuk menyembelih sapi. Mereka hampir saja tidak melakukannya, menunjukkan betapa beratnya bagi mereka untuk patuh, bahkan setelah semua pertanyaan dan penjelasan yang berbelit-belit. Kata ini secara ringkas menangkap suasana hati mereka yang tidak sepenuhnya tunduk dan patuh.",
-      "role": "predicate"
+      "hikmah": "Menghubungkan kalimat sebelumnya dengan kalimat penafian berikutnya, menunjukkan adanya kesulitan, keengganan, atau hampir tidak terlaksananya perintah tersebut oleh Bani Israil meskipun akhirnya mereka menyembelihnya. 'Ma' di sini adalah 'Ma Nafi' yang berarti 'tidak'.",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "كَادُوا۟",
+      "transliterasi": "kādū",
+      "jenis_kata": "Fi'il",
+      "arti": "Mereka hampir saja",
+      "sharaf": {
+        "akar_kata": "ك و د (K-W-D)",
+        "makna_dasar": "Mendekati, hampir terjadi, nyaris.",
+        "wazan_perubahan": "Fi'il Madhi (Kata Kerja Lampau) untuk jamak mudzakkar ghaib (mereka laki-laki). Kata ini termasuk dalam kategori 'Fi'il Naqish' (kata kerja kurang) yang beramal seperti 'kana dan saudara-saudaranya'. Bentuk asalnya adalah كَادَ - يَكَادُ."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Naqish (Kata Kerja Kurang). Ia mengangkat Isim dan menashabkan Khabar. Di sini, `وَا۟` (wau jamak) adalah Isim-nya, dan kalimat `يَفْعَلُونَ` adalah Khabar-nya.",
+        "irab_dan_logika": "كَادُوا۟ adalah fi'il madhi mabni 'ala ad-dhamm (dibangun di atas dhammah) karena bersambung dengan wawu jamak. Wawu jamak (وَا۟) adalah dhamir muttashil mabni 'ala as-sukun fi mahalli raf'in (dhamir yang bersambung, dibangun di atas sukun, pada posisi rafa') sebagai Isim Kādā."
+      },
+      "hikmah": "Kata ini menunjukkan makna 'hampir saja' atau 'nyaris'. Dalam konteks ayat, ini menggambarkan keraguan dan keengganan Bani Israil untuk melaksanakan perintah Allah, bahkan setelah semua pertanyaan dan penjelasan yang berbelit-belit. Mereka hampir tidak melakukannya, menunjukkan betapa sulitnya mereka menerima dan mematuhi perintah.",
+      "role": "none"
+    },
+    {
+      "index": 25,
+      "kata_arab": "يَفْعَلُونَ",
+      "transliterasi": "yaf'alūna",
+      "jenis_kata": "Fi'il",
+      "arti": "Mereka melakukan/mengerjakan",
+      "sharaf": {
+        "akar_kata": "ف ع ل (F-'-L)",
+        "makna_dasar": "Melakukan, mengerjakan, berbuat. Ini adalah akar kata yang sangat umum dan generik untuk 'melakukan'.",
+        "wazan_perubahan": "Fi'il Mudhari' (Kata Kerja Sekarang/Akan Datang) untuk jamak mudzakkar ghaib (mereka laki-laki). Ini adalah salah satu dari 'al-af'al al-khamsah' (lima bentuk fi'il mudhari' yang memiliki nun di akhirnya)."
+      },
+      "nahwu": {
+        "kedudukan": "Khabar dari Fi'il Naqish 'كَادُوا۟'. Kalimat fi'liyah (kalimat yang diawali fi'il) dalam posisi nashab sebagai khabar Kādā.",
+        "irab_dan_logika": "يَفْعَلُونَ adalah fi'il mudhari' marfu' (di-rafa'kan) dengan tanda raf' berupa tetapnya nun (tsubut an-nun) karena termasuk 'al-af'al al-khamsah'. Wawu jamak (و) di dalamnya adalah dhamir muttashil mabni 'ala as-sukun fi mahalli raf'in (dhamir yang bersambung, dibangun di atas sukun, pada posisi rafa') sebagai Fa'il (pelaku) dari يَفْعَلُونَ. Secara keseluruhan, kalimat يَفْعَلُونَ berada pada posisi nashab (fi mahalli nasbin) sebagai Khabar Kādā."
+      },
+      "hikmah": "Kata ini secara harfiah berarti 'mereka melakukan' atau 'mereka mengerjakan'. Dalam konteks ayat, ia merujuk pada tindakan menyembelih sapi betina yang diperintahkan. Ketika digabungkan dengan 'كَادُوا۟', maknanya menjadi 'mereka hampir saja tidak melakukannya', yang menegaskan keengganan dan penundaan mereka dalam melaksanakan perintah Allah. Ini menunjukkan betapa beratnya bagi mereka untuk patuh, bahkan setelah semua penjelasan yang mereka minta.",
+      "role": "none"
     }
   ]
 }
