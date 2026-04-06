@@ -145,6 +145,8 @@ async function migrateLocalStorageToIndexedDB() {
     }
 }
 
+let fullQuranDataCache = null;
+
 // Initialization
 async function init() {
     await migrateLocalStorageToIndexedDB();
@@ -154,6 +156,7 @@ async function init() {
     initTafsirSelector();
     fetchSurahs();
     loadApiKeys();
+    initQuranSearchData();
 
     // Check if we need to show welcome modal on first load
     if (apiKeys.length === 0 && !sessionStorage.getItem('welcome_dismissed')) {
@@ -174,6 +177,9 @@ function setupEventListeners() {
     // Settings Modal
     settingsBtn.addEventListener('click', () => openModal(settingsModal));
     closeSettingsModalBtn.addEventListener('click', () => { console.log('Closing Settings Modal'); closeModal(settingsModal); });
+
+    // Initialize search keyboard listeners
+    initKeyboardListeners();
     addKeyBtn.addEventListener('click', () => addApiKey(newApiKeyInput.value, newApiKeyInput));
     addGroqKeyBtn.addEventListener('click', () => addGroqApiKey(newGroqKeyInput.value, newGroqKeyInput));
     saveSettingsBtn.addEventListener('click', () => closeModal(settingsModal));
@@ -722,6 +728,198 @@ function renderMushafPage() {
 }
 
 // --- API Integration (Al-Qur'an Cloud) ---
+async function initQuranSearchData() {
+    try {
+        const cached = await localforage.getItem('quran_search_data_v1');
+        if (cached) {
+            fullQuranDataCache = cached;
+            return;
+        }
+
+        // Fetch Arabic text
+        const arResponse = await fetch(`${quranApiBaseUrl}/quran/quran-uthmani`);
+        if (!arResponse.ok) return;
+        const arData = await arResponse.json();
+
+        // Fetch Indonesian translation
+        const idResponse = await fetch(`${quranApiBaseUrl}/quran/id.indonesian`);
+        if (!idResponse.ok) return;
+        const idData = await idResponse.json();
+
+        if (arData.data && idData.data) {
+            fullQuranDataCache = {
+                arabic: arData.data.surahs,
+                translation: idData.data.surahs
+            };
+            await localforage.setItem('quran_search_data_v1', fullQuranDataCache);
+        }
+    } catch (error) {
+        console.error("Gagal memuat data pencarian Al-Quran:", error);
+    }
+}
+
+function removeHarakat(str) {
+    return str.replace(/[\u0617-\u061A\u064B-\u0652]/g, "");
+}
+
+function performSearch(query, searchType) {
+    if (!fullQuranDataCache || !fullQuranDataCache.arabic || !fullQuranDataCache.translation) {
+        alert("Data Al-Qur'an sedang dimuat, silakan coba beberapa saat lagi.");
+        return;
+    }
+
+    const modal = document.getElementById('search-modal');
+    const container = document.getElementById('search-results-container');
+    const status = document.getElementById('search-status');
+
+    container.innerHTML = '';
+    status.textContent = 'Mencari...';
+    openModal(modal);
+
+    setTimeout(() => {
+        const results = [];
+        const isArabic = searchType === 'arabic';
+        const normalizedQuery = isArabic ? removeHarakat(query) : query.toLowerCase();
+
+        for (let sIdx = 0; sIdx < fullQuranDataCache.arabic.length; sIdx++) {
+            const surahAr = fullQuranDataCache.arabic[sIdx];
+            const surahId = fullQuranDataCache.translation[sIdx];
+
+            for (let aIdx = 0; aIdx < surahAr.ayahs.length; aIdx++) {
+                const ayahAr = surahAr.ayahs[aIdx];
+                const ayahId = surahId.ayahs[aIdx];
+
+                let match = false;
+                if (isArabic) {
+                    const textNoHarakat = removeHarakat(ayahAr.text);
+                    if (textNoHarakat.includes(normalizedQuery)) match = true;
+                } else {
+                    if (ayahId.text.toLowerCase().includes(normalizedQuery)) match = true;
+                }
+
+                if (match) {
+                    results.push({
+                        surahNumber: surahAr.number,
+                        surahName: surahAr.englishName,
+                        ayahNumber: ayahAr.numberInSurah,
+                        textAr: ayahAr.text,
+                        textId: ayahId.text
+                    });
+                }
+
+                if (results.length >= 50) break; // Limit to 50 results
+            }
+            if (results.length >= 50) break;
+        }
+
+        if (results.length === 0) {
+            status.textContent = 'Tidak ditemukan hasil untuk: ' + query;
+        } else {
+            status.textContent = `Ditemukan ${results.length}${results.length === 50 ? '+' : ''} hasil untuk: ` + query;
+            results.forEach(res => {
+                const item = document.createElement('div');
+                item.className = 'search-result-item';
+                item.innerHTML = `
+                    <div class="search-result-surah">${res.surahNumber}. ${res.surahName} - Ayat ${res.ayahNumber}</div>
+                    <div class="search-result-text" style="font-family: var(--font-arabic); font-size: 1.3rem; text-align: right; margin-top: 5px;">${res.textAr}</div>
+                    <div class="search-result-text">${res.textId}</div>
+                `;
+                item.addEventListener('click', () => {
+                    closeModal(modal);
+                    document.getElementById('home-view-btn').click(); // switch to home
+                    const surahSelect = document.getElementById('surah-select');
+                    surahSelect.value = res.surahNumber;
+                    surahSelect.dispatchEvent(new Event('change'));
+
+                    // After surah loads, jump to ayah
+                    setTimeout(() => {
+                        const ayahSelect = document.getElementById('ayah-select');
+                        if(ayahSelect) {
+                            ayahSelect.value = res.ayahNumber;
+                            ayahSelect.dispatchEvent(new Event('change'));
+                        }
+                    }, 1000);
+                });
+                container.appendChild(item);
+            });
+        }
+    }, 100);
+}
+
+// Setup Keyboard Listeners
+function initKeyboardListeners() {
+    let activeSearchInput = null;
+    const kbModal = document.getElementById('arabic-keyboard');
+
+    document.getElementById('home-search-input').addEventListener('focus', function() {
+        activeSearchInput = this;
+        const searchType = document.querySelector('input[name="search_type_home"]:checked').value;
+        if (searchType === 'arabic') showKeyboard(this);
+    });
+
+    document.getElementById('mushaf-search-input').addEventListener('focus', function() {
+        activeSearchInput = this;
+        const searchType = document.querySelector('input[name="search_type_mushaf"]:checked').value;
+        if (searchType === 'arabic') showKeyboard(this);
+    });
+
+    document.querySelectorAll('input[name="search_type_home"], input[name="search_type_mushaf"]').forEach(radio => {
+        radio.addEventListener('change', (e) => {
+            const inputId = e.target.name === 'search_type_home' ? 'home-search-input' : 'mushaf-search-input';
+            const input = document.getElementById(inputId);
+            if (e.target.value === 'arabic' && document.activeElement === input) {
+                activeSearchInput = input;
+                showKeyboard(input);
+            } else {
+                kbModal.style.display = 'none';
+            }
+        });
+    });
+
+    document.getElementById('close-keyboard-btn').addEventListener('click', () => {
+        kbModal.style.display = 'none';
+    });
+
+    document.querySelectorAll('.kbd-key').forEach(keyBtn => {
+        keyBtn.addEventListener('click', function(e) {
+            e.preventDefault();
+            if (!activeSearchInput) return;
+
+            if (this.id === 'kbd-backspace') {
+                activeSearchInput.value = activeSearchInput.value.slice(0, -1);
+            } else {
+                const char = this.textContent === 'Space' ? ' ' : this.textContent;
+                activeSearchInput.value += char;
+            }
+            activeSearchInput.focus();
+        });
+    });
+
+    function showKeyboard(inputEl) {
+        const rect = inputEl.getBoundingClientRect();
+        kbModal.style.top = (window.scrollY + rect.bottom + 5) + 'px';
+        kbModal.style.left = rect.left + 'px';
+        kbModal.style.display = 'block';
+    }
+
+    document.getElementById('home-search-btn').addEventListener('click', () => {
+        const query = document.getElementById('home-search-input').value.trim();
+        const type = document.querySelector('input[name="search_type_home"]:checked').value;
+        if (query) performSearch(query, type);
+    });
+
+    document.getElementById('mushaf-search-btn').addEventListener('click', () => {
+        const query = document.getElementById('mushaf-search-input').value.trim();
+        const type = document.querySelector('input[name="search_type_mushaf"]:checked').value;
+        if (query) performSearch(query, type);
+    });
+
+    // Close modal event
+    document.getElementById('close-search-modal').addEventListener('click', () => {
+        closeModal(document.getElementById('search-modal'));
+    });
+}
+
 async function fetchSurahs() {
     const surahSelect = document.getElementById('surah-select');
     showLoading();

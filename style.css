@@ -1300,3 +1300,51 @@ select {
 [data-theme="dark"] .tafsir-text-container {
     color: #bbb;
 }
+
+/* Search Results styling */
+.search-result-item {
+    padding: 10px;
+    border-bottom: 1px solid var(--border-color);
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+.search-result-item:hover {
+    background-color: var(--secondary-color);
+    color: white;
+}
+.search-result-item:last-child {
+    border-bottom: none;
+}
+.search-result-surah {
+    font-weight: bold;
+    font-size: 1.1rem;
+    color: var(--primary-color);
+}
+.search-result-item:hover .search-result-surah {
+    color: white;
+}
+.search-result-text {
+    font-size: 0.9rem;
+    margin-top: 5px;
+    line-height: 1.4;
+}
+
+/* Keyboard styling */
+.kbd-key {
+    padding: 10px 0;
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: background-color 0.1s;
+    font-family: var(--font-arabic);
+}
+.kbd-key:hover {
+    background-color: var(--primary-color);
+    color: white;
+}
+[data-theme="dark"] #arabic-keyboard {
+    background-color: var(--card-bg);
+}

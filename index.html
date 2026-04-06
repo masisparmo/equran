@@ -51,6 +51,20 @@
             </div>
         </section>
 
+        <!-- Global Search Control Home -->
+        <section class="search-card card" id="home-search-section">
+            <div class="search-group" style="display: flex; gap: 10px; align-items: center; justify-content: center; flex-wrap: wrap;">
+                <div class="search-type-toggle">
+                    <label style="margin-right: 15px; cursor: pointer;"><input type="radio" name="search_type_home" value="translation" checked> Terjemahan (ID)</label>
+                    <label style="cursor: pointer;"><input type="radio" name="search_type_home" value="arabic"> Teks Arab</label>
+                </div>
+                <div style="display: flex; gap: 5px; flex-grow: 1; min-width: 250px;">
+                    <input type="text" id="home-search-input" placeholder="Cari kata di Al-Qur'an..." style="flex-grow: 1; padding: 10px; border-radius: 5px; border: 1px solid var(--border-color); background-color: var(--bg-color); color: var(--text-color);">
+                    <button id="home-search-btn" style="padding: 10px 15px; border-radius: 5px; border: none; background-color: var(--primary-color); color: white; cursor: pointer;"><i class="fas fa-search"></i> Cari</button>
+                </div>
+            </div>
+        </section>
+
         <!-- Navigation Controls -->
         <section class="navigation card">
             <div class="nav-group" style="flex: 2;">
@@ -107,6 +121,18 @@
 
         <!-- Mushaf Display Area -->
         <section id="mushaf-display" class="card" style="display: none;">
+            <!-- Global Search Control Mushaf -->
+            <div class="search-group" id="mushaf-search-section" style="display: flex; gap: 10px; align-items: center; justify-content: center; flex-wrap: wrap; margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed var(--border-color);">
+                <div class="search-type-toggle">
+                    <label style="margin-right: 15px; cursor: pointer;"><input type="radio" name="search_type_mushaf" value="translation" checked> Terjemahan (ID)</label>
+                    <label style="cursor: pointer;"><input type="radio" name="search_type_mushaf" value="arabic"> Teks Arab</label>
+                </div>
+                <div style="display: flex; gap: 5px; flex-grow: 1; min-width: 250px;">
+                    <input type="text" id="mushaf-search-input" placeholder="Cari kata di Al-Qur'an..." style="flex-grow: 1; padding: 8px; border-radius: 4px; border: 1px solid var(--border-color); background-color: var(--bg-color); color: var(--text-color);">
+                    <button id="mushaf-search-btn" style="padding: 8px 12px; border-radius: 4px; border: none; background-color: var(--primary-color); color: white; cursor: pointer;"><i class="fas fa-search"></i> Cari</button>
+                </div>
+            </div>
+
             <div class="mushaf-header-controls">
                 <div class="mushaf-nav-group">
                     <label for="mushaf-juz-input">Juz:</label>
@@ -261,6 +287,40 @@
                     <i class="fas fa-paper-plane"></i> Kirim
                 </button>
             </div>
+        </div>
+    </div>
+
+    <!-- Search Results Modal -->
+    <div id="search-modal" class="modal">
+        <div class="modal-content card" style="max-width: 600px; max-height: 80vh; display: flex; flex-direction: column;">
+            <span class="close-btn" id="close-search-modal">&times;</span>
+            <h2 style="color: var(--primary-color); border-bottom: 1px solid var(--border-color); padding-bottom: 10px; margin-bottom: 15px;"><i class="fas fa-search"></i> Hasil Pencarian</h2>
+            <div id="search-status" style="margin-bottom: 10px; font-weight: bold;"></div>
+            <div id="search-results-container" style="overflow-y: auto; flex-grow: 1; padding-right: 10px;">
+                <!-- Search results will be injected here -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Virtual Arabic Keyboard (Hidden by default, positioned absolute or relative to input) -->
+    <div id="arabic-keyboard" class="card" style="display: none; position: absolute; z-index: 1000; padding: 10px; background: var(--bg-color); border: 1px solid var(--border-color); border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); max-width: 350px;">
+        <div class="keyboard-header" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; border-bottom: 1px solid var(--border-color); padding-bottom: 5px;">
+            <span style="font-weight: bold; font-size: 0.9rem;">Keyboard Arab</span>
+            <button id="close-keyboard-btn" style="background: none; border: none; font-size: 1.2rem; cursor: pointer; color: var(--text-color);">&times;</button>
+        </div>
+        <div class="keyboard-grid" style="display: grid; grid-template-columns: repeat(7, 1fr); gap: 5px;">
+            <!-- Row 1 -->
+            <button class="kbd-key">ض</button><button class="kbd-key">ص</button><button class="kbd-key">ث</button><button class="kbd-key">ق</button><button class="kbd-key">ف</button><button class="kbd-key">غ</button><button class="kbd-key">ع</button>
+            <!-- Row 2 -->
+            <button class="kbd-key">ه</button><button class="kbd-key">خ</button><button class="kbd-key">ح</button><button class="kbd-key">ج</button><button class="kbd-key">د</button><button class="kbd-key">ش</button><button class="kbd-key">س</button>
+            <!-- Row 3 -->
+            <button class="kbd-key">ي</button><button class="kbd-key">ب</button><button class="kbd-key">ل</button><button class="kbd-key">ا</button><button class="kbd-key">ت</button><button class="kbd-key">ن</button><button class="kbd-key">م</button>
+            <!-- Row 4 -->
+            <button class="kbd-key">ك</button><button class="kbd-key">ط</button><button class="kbd-key">ذ</button><button class="kbd-key">ر</button><button class="kbd-key">ؤ</button><button class="kbd-key">ء</button><button class="kbd-key">ئ</button>
+            <!-- Row 5 -->
+            <button class="kbd-key" style="grid-column: span 2;">Space</button>
+            <button class="kbd-key">و</button><button class="kbd-key">ة</button><button class="kbd-key">ى</button><button class="kbd-key">ز</button><button class="kbd-key">ظ</button>
+            <button class="kbd-key" id="kbd-backspace" style="grid-column: span 2; background-color: #ffcccc; color: #cc0000;"><i class="fas fa-backspace"></i></button>
         </div>
     </div>
 
