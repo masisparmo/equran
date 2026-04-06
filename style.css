@@ -1385,3 +1385,8 @@ select {
 .quran-link:hover {
     color: var(--primary-color);
 }
+
+/* Hide HR lines in AI chat messages */
+.chat-message.ai hr {
+    display: none;
+}

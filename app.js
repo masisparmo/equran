@@ -2493,24 +2493,86 @@ function handleChatAction(actionType) {
     });
 
     if (actionType === 'copy') {
-        navigator.clipboard.writeText(fullChatLog).then(() => {
-            alert('Seluruh riwayat obrolan berhasil disalin!');
-        }).catch(err => {
-            console.error('Gagal menyalin riwayat chat:', err);
-            alert('Gagal menyalin obrolan.');
+        // Collect HTML content
+        let htmlLog = `<h2>Riwayat Diskusi Ahli AI - Kata: ${currentWordContext.wordText || 'Tanya Jawab'}</h2>`;
+        htmlLog += `<p><em>Tanggal: ${new Date().toLocaleString()}</em></p><hr>`;
+
+        messages.forEach(msg => {
+            const sender = msg.getAttribute('data-sender') || (msg.classList.contains('ai') ? 'Ahli AI' : 'Anda');
+            // AI messages already have parsed HTML in their div. User messages are plain text.
+            let contentHtml = msg.querySelector('div').innerHTML;
+
+            if (msg.classList.contains('user')) {
+                htmlLog += `<p><strong>[${sender}]</strong><br>${contentHtml}</p>`;
+            } else {
+                // For AI, the contentHtml already includes <strong>Ahli AI:</strong>
+                htmlLog += `<div>${contentHtml}</div><br>`;
+            }
         });
+
+        try {
+            const blob = new Blob([htmlLog], { type: 'text/html' });
+            const clipboardItem = new ClipboardItem({ 'text/html': blob });
+
+            navigator.clipboard.write([clipboardItem]).then(() => {
+                alert('Seluruh riwayat obrolan berhasil disalin (Rich Text)!');
+            }).catch(err => {
+                console.error('Gagal menyalin riwayat chat:', err);
+                // Fallback to plain text
+                navigator.clipboard.writeText(fullChatLog).then(() => {
+                    alert('Seluruh riwayat obrolan berhasil disalin (Teks Biasa)!');
+                }).catch(err2 => alert('Gagal menyalin obrolan.'));
+            });
+        } catch (e) {
+            console.error('Clipboard API error:', e);
+            navigator.clipboard.writeText(fullChatLog).then(() => {
+                alert('Seluruh riwayat obrolan berhasil disalin (Teks Biasa)!');
+            }).catch(err2 => alert('Gagal menyalin obrolan.'));
+        }
     } else if (actionType === 'download') {
+        let htmlLog = `<!DOCTYPE html><html><head><meta charset="UTF-8"><title>Riwayat Chat E-Quran</title></head><body style="font-family: Arial, sans-serif;">`;
+        htmlLog += `<h2>Riwayat Diskusi Ahli AI - Kata: ${currentWordContext.wordText || 'Tanya Jawab'}</h2>`;
+        htmlLog += `<p><em>Tanggal: ${new Date().toLocaleString()}</em></p><hr>`;
+
+        messages.forEach(msg => {
+            const sender = msg.getAttribute('data-sender') || (msg.classList.contains('ai') ? 'Ahli AI' : 'Anda');
+            let contentHtml = msg.querySelector('div').innerHTML;
+
+            if (msg.classList.contains('user')) {
+                htmlLog += `<p style="margin-bottom: 20px;"><strong>[${sender}]</strong><br>${contentHtml}</p>`;
+            } else {
+                htmlLog += `<div style="margin-bottom: 20px;">${contentHtml}</div>`;
+            }
+        });
+        htmlLog += `</body></html>`;
+
         const timestamp = new Date().toISOString().replace(/[:.]/g, '-').substring(0, 19);
-        const fileName = `Riwayat_Chat_EQuran_${currentWordContext.wordText || 'AI'}_${timestamp}.txt`;
-        const blob = new Blob([fullChatLog], { type: 'text/plain;charset=utf-8' });
-        const url = URL.createObjectURL(blob);
-        const a = document.createElement('a');
-        a.href = url;
-        a.download = fileName;
-        document.body.appendChild(a);
-        a.click();
-        document.body.removeChild(a);
-        URL.revokeObjectURL(url);
+        const fileName = `Riwayat_Chat_EQuran_${currentWordContext.wordText || 'AI'}_${timestamp}.docx`;
+
+        try {
+            // Generate .docx blob using html-docx-js
+            const converted = htmlDocx.asBlob(htmlLog);
+            const url = URL.createObjectURL(converted);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = fileName;
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+        } catch (error) {
+            console.error("Gagal menggenerate DOCX", error);
+            // Fallback to text download
+            const blob = new Blob([fullChatLog], { type: 'text/plain;charset=utf-8' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = `Riwayat_Chat_EQuran_${currentWordContext.wordText || 'AI'}_${timestamp}.txt`;
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+        }
     }
 }
 
@@ -2699,49 +2761,115 @@ async function initGlobalChat() {
 
     if (copyGlobalChatBtn) {
         copyGlobalChatBtn.addEventListener('click', () => {
-            const rawTextElements = globalChatHistory.querySelectorAll('.chat-message');
-            let fullText = "=== Obrolan Ahli AI Al-Quran ===\n\n";
-            rawTextElements.forEach(el => {
-                const sender = el.getAttribute('data-sender');
-                let text = el.getAttribute('data-raw-text') || el.innerText;
-                // Remove formatting wrapper if we used innerText
-                if(!el.getAttribute('data-raw-text')) {
-                    text = text.replace(/Ahli AI:\n/g, '').replace(/Anda:\n/g, '').trim();
+            const messages = globalChatHistory.querySelectorAll('.chat-message');
+            if (messages.length === 0) return;
+
+            let htmlLog = `<h2>=== Obrolan Ahli AI Al-Quran ===</h2>`;
+            htmlLog += `<p><em>Tanggal: ${new Date().toLocaleString()}</em></p><hr>`;
+
+            let plainText = "=== Obrolan Ahli AI Al-Quran ===\n\n";
+
+            messages.forEach(msg => {
+                const sender = msg.getAttribute('data-sender') || (msg.classList.contains('ai') ? 'Ahli AI' : 'Anda');
+                let contentHtml = msg.querySelector('div').innerHTML;
+
+                let rawText = msg.getAttribute('data-raw-text') || msg.innerText;
+                if(!msg.getAttribute('data-raw-text')) {
+                    rawText = rawText.replace(/Ahli AI:\n/g, '').replace(/Anda:\n/g, '').trim();
                 }
-                fullText += `${sender}: ${text}\n\n`;
+                plainText += `${sender}: ${rawText}\n\n`;
+
+                if (msg.classList.contains('user')) {
+                    htmlLog += `<p><strong>[${sender}]</strong><br>${contentHtml}</p>`;
+                } else {
+                    htmlLog += `<div>${contentHtml}</div><br>`;
+                }
             });
 
-            navigator.clipboard.writeText(fullText).then(() => {
-                const originalHtml = copyGlobalChatBtn.innerHTML;
-                copyGlobalChatBtn.innerHTML = '<i class="fas fa-check" style="color: var(--secondary-color);"></i>';
-                setTimeout(() => { copyGlobalChatBtn.innerHTML = originalHtml; }, 2000);
-            }).catch(err => {
-                console.error("Copy failed: ", err);
-                alert("Gagal mengcopy teks.");
-            });
+            try {
+                const blob = new Blob([htmlLog], { type: 'text/html' });
+                const clipboardItem = new ClipboardItem({ 'text/html': blob });
+
+                navigator.clipboard.write([clipboardItem]).then(() => {
+                    const originalHtml = copyGlobalChatBtn.innerHTML;
+                    copyGlobalChatBtn.innerHTML = '<i class="fas fa-check" style="color: var(--secondary-color);"></i>';
+                    setTimeout(() => { copyGlobalChatBtn.innerHTML = originalHtml; }, 2000);
+                }).catch(err => {
+                    console.error("Copy failed: ", err);
+                    // Fallback to plain text
+                    navigator.clipboard.writeText(plainText).then(() => {
+                        const originalHtml = copyGlobalChatBtn.innerHTML;
+                        copyGlobalChatBtn.innerHTML = '<i class="fas fa-check" style="color: var(--secondary-color);"></i>';
+                        setTimeout(() => { copyGlobalChatBtn.innerHTML = originalHtml; }, 2000);
+                    }).catch(err2 => alert("Gagal mengcopy teks."));
+                });
+            } catch (e) {
+                console.error('Clipboard API error:', e);
+                navigator.clipboard.writeText(plainText).then(() => {
+                    const originalHtml = copyGlobalChatBtn.innerHTML;
+                    copyGlobalChatBtn.innerHTML = '<i class="fas fa-check" style="color: var(--secondary-color);"></i>';
+                    setTimeout(() => { copyGlobalChatBtn.innerHTML = originalHtml; }, 2000);
+                }).catch(err2 => alert("Gagal mengcopy teks."));
+            }
         });
     }
 
     if (downloadGlobalChatBtn) {
         downloadGlobalChatBtn.addEventListener('click', () => {
-            const rawTextElements = globalChatHistory.querySelectorAll('.chat-message');
-            let fullText = "=== Obrolan Ahli AI Al-Quran ===\n\n";
-            rawTextElements.forEach(el => {
-                const sender = el.getAttribute('data-sender');
-                let text = el.getAttribute('data-raw-text') || el.innerText;
-                 if(!el.getAttribute('data-raw-text')) {
-                    text = text.replace(/Ahli AI:\n/g, '').replace(/Anda:\n/g, '').trim();
-                }
-                fullText += `${sender}: ${text}\n\n`;
-            });
+            const messages = globalChatHistory.querySelectorAll('.chat-message');
+            if (messages.length === 0) return;
 
-            const blob = new Blob([fullText], { type: "text/plain;charset=utf-8" });
-            const url = URL.createObjectURL(blob);
-            const a = document.createElement("a");
-            a.href = url;
-            a.download = `Tanya_Ahli_AI_Global_${Date.now()}.txt`;
-            a.click();
-            URL.revokeObjectURL(url);
+            let htmlLog = `<!DOCTYPE html><html><head><meta charset="UTF-8"><title>Obrolan Ahli AI Al-Quran</title></head><body style="font-family: Arial, sans-serif;">`;
+            htmlLog += `<h2>=== Obrolan Ahli AI Al-Quran ===</h2>`;
+            htmlLog += `<p><em>Tanggal: ${new Date().toLocaleString()}</em></p><hr>`;
+
+            messages.forEach(msg => {
+                const sender = msg.getAttribute('data-sender') || (msg.classList.contains('ai') ? 'Ahli AI' : 'Anda');
+                let contentHtml = msg.querySelector('div').innerHTML;
+
+                if (msg.classList.contains('user')) {
+                    htmlLog += `<p style="margin-bottom: 20px;"><strong>[${sender}]</strong><br>${contentHtml}</p>`;
+                } else {
+                    htmlLog += `<div style="margin-bottom: 20px;">${contentHtml}</div>`;
+                }
+            });
+            htmlLog += `</body></html>`;
+
+            const fileName = `Tanya_Ahli_AI_Global_${Date.now()}.docx`;
+
+            try {
+                // Generate .docx blob using html-docx-js
+                const converted = htmlDocx.asBlob(htmlLog);
+                const url = URL.createObjectURL(converted);
+                const a = document.createElement("a");
+                a.href = url;
+                a.download = fileName;
+                document.body.appendChild(a);
+                a.click();
+                document.body.removeChild(a);
+                URL.revokeObjectURL(url);
+            } catch(error) {
+                console.error("Gagal menggenerate DOCX global chat", error);
+
+                // Fallback to text download
+                let fullText = "=== Obrolan Ahli AI Al-Quran ===\n\n";
+                messages.forEach(msg => {
+                    const sender = msg.getAttribute('data-sender') || (msg.classList.contains('ai') ? 'Ahli AI' : 'Anda');
+                    let rawText = msg.getAttribute('data-raw-text') || msg.innerText;
+                    if(!msg.getAttribute('data-raw-text')) {
+                        rawText = rawText.replace(/Ahli AI:\n/g, '').replace(/Anda:\n/g, '').trim();
+                    }
+                    fullText += `${sender}: ${rawText}\n\n`;
+                });
+
+                const blob = new Blob([fullText], { type: "text/plain;charset=utf-8" });
+                const url = URL.createObjectURL(blob);
+                const a = document.createElement("a");
+                a.href = url;
+                a.download = `Tanya_Ahli_AI_Global_${Date.now()}.txt`;
+                a.click();
+                URL.revokeObjectURL(url);
+            }
         });
     }
 }
