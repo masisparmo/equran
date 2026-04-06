@@ -779,6 +779,53 @@ function removeHarakat(str) {
     return str.replace(/[\u0617-\u061A\u064B-\u0652]/g, "");
 }
 
+function levenshteinDistance(a, b) {
+    const matrix = [];
+    for (let i = 0; i <= b.length; i++) {
+        matrix[i] = [i];
+    }
+    for (let j = 0; j <= a.length; j++) {
+        matrix[0][j] = j;
+    }
+    for (let i = 1; i <= b.length; i++) {
+        for (let j = 1; j <= a.length; j++) {
+            if (b.charAt(i - 1) === a.charAt(j - 1)) {
+                matrix[i][j] = matrix[i - 1][j - 1];
+            } else {
+                matrix[i][j] = Math.min(matrix[i - 1][j - 1] + 1, Math.min(matrix[i][j - 1] + 1, matrix[i - 1][j] + 1));
+            }
+        }
+    }
+    return matrix[b.length][a.length];
+}
+
+function fuzzyMatchText(text, query) {
+    const textWords = text.toLowerCase().split(/\s+/);
+    const queryWords = query.toLowerCase().split(/\s+/);
+
+    for (const qWord of queryWords) {
+        let wordMatched = false;
+
+        if (qWord.length < 4) {
+            if (textWords.includes(qWord)) wordMatched = true;
+        } else {
+            const maxTypos = qWord.length >= 6 ? 2 : 1;
+
+            for (const tWord of textWords) {
+                if (Math.abs(tWord.length - qWord.length) <= maxTypos) {
+                    if (levenshteinDistance(tWord, qWord) <= maxTypos) {
+                        wordMatched = true;
+                        break;
+                    }
+                }
+            }
+        }
+
+        if (!wordMatched) return false;
+    }
+    return true;
+}
+
 function performSearch(query, searchType) {
     if (!fullQuranDataCache || !fullQuranDataCache.arabic || !fullQuranDataCache.translation) {
         alert("Data Al-Qur'an sedang dimuat, silakan coba beberapa saat lagi.");
@@ -797,6 +844,8 @@ function performSearch(query, searchType) {
         const results = [];
         const isArabic = searchType === 'arabic';
         const normalizedQuery = isArabic ? removeHarakat(query) : query.toLowerCase();
+
+        let usedFuzzy = false;
 
         for (let sIdx = 0; sIdx < fullQuranDataCache.arabic.length; sIdx++) {
             const surahAr = fullQuranDataCache.arabic[sIdx];
@@ -829,10 +878,41 @@ function performSearch(query, searchType) {
             if (results.length >= 50) break;
         }
 
+        // --- FUZZY SEARCH FALLBACK ---
+        // If exact match failed and it's translation search, try fuzzy search
+        if (results.length === 0 && !isArabic && normalizedQuery.length >= 4) {
+            for (let sIdx = 0; sIdx < fullQuranDataCache.translation.length; sIdx++) {
+                const surahAr = fullQuranDataCache.arabic[sIdx];
+                const surahId = fullQuranDataCache.translation[sIdx];
+
+                for (let aIdx = 0; aIdx < surahId.ayahs.length; aIdx++) {
+                    const ayahAr = surahAr.ayahs[aIdx];
+                    const ayahId = surahId.ayahs[aIdx];
+
+                    if (fuzzyMatchText(ayahId.text, normalizedQuery)) {
+                        results.push({
+                            surahNumber: surahId.number,
+                            surahName: surahId.englishName,
+                            ayahNumber: ayahId.numberInSurah,
+                            textAr: ayahAr.text,
+                            textId: ayahId.text
+                        });
+                    }
+                    if (results.length >= 50) break;
+                }
+                if (results.length >= 50) break;
+            }
+            if (results.length > 0) usedFuzzy = true;
+        }
+
         if (results.length === 0) {
             status.textContent = 'Tidak ditemukan hasil untuk: ' + query;
         } else {
-            status.textContent = `Ditemukan ${results.length}${results.length === 50 ? '+' : ''} hasil untuk: ` + query;
+            if (usedFuzzy) {
+                status.textContent = `Menemukan ${results.length}${results.length === 50 ? '+' : ''} hasil yang mirip dengan: ` + query;
+            } else {
+                status.textContent = `Ditemukan ${results.length}${results.length === 50 ? '+' : ''} hasil untuk: ` + query;
+            }
             results.forEach(res => {
                 const item = document.createElement('div');
                 item.className = 'search-result-item';
