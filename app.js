@@ -911,10 +911,26 @@ function initKeyboardListeners() {
         if (query) performSearch(query, type);
     });
 
+    document.getElementById('home-search-input').addEventListener('keypress', (e) => {
+        if (e.key === 'Enter') {
+            const query = e.target.value.trim();
+            const type = document.querySelector('input[name="search_type_home"]:checked').value;
+            if (query) performSearch(query, type);
+        }
+    });
+
     document.getElementById('mushaf-search-btn').addEventListener('click', () => {
         const query = document.getElementById('mushaf-search-input').value.trim();
         const type = document.querySelector('input[name="search_type_mushaf"]:checked').value;
         if (query) performSearch(query, type);
+    });
+
+    document.getElementById('mushaf-search-input').addEventListener('keypress', (e) => {
+        if (e.key === 'Enter') {
+            const query = e.target.value.trim();
+            const type = document.querySelector('input[name="search_type_mushaf"]:checked').value;
+            if (query) performSearch(query, type);
+        }
     });
 
     // Close modal event
