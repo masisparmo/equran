@@ -394,6 +394,7 @@ select {
     color: var(--primary-color);
     align-self: flex-start;
     border-bottom-left-radius: 0;
+    max-width: 100%; /* User requested to use the empty space on the right */
 }
 
 /* Chat Message Action Buttons Container */
@@ -449,6 +450,16 @@ select {
     position: relative;
     max-height: 90vh;
     overflow-y: auto;
+    transition: width 0.3s, height 0.3s, max-width 0.3s, max-height 0.3s, border-radius 0.3s;
+}
+
+.modal-content.fullscreen {
+    width: 100vw !important;
+    height: 100vh !important;
+    max-width: 100vw !important;
+    max-height: 100vh !important;
+    border-radius: 0 !important;
+    margin: 0 !important;
 }
 
 .close-btn {

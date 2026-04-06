@@ -51,8 +51,7 @@ const chatHistory = document.getElementById('chat-history');
 const chatInput = document.getElementById('chat-input');
 const sendChatBtn = document.getElementById('send-chat-btn');
 const newChatBtn = document.getElementById('new-chat-btn');
-const copyChatBtn = document.getElementById('copy-chat-btn');
-const downloadChatBtn = document.getElementById('download-chat-btn');
+const fullscreenChatBtn = document.getElementById('fullscreen-chat-btn');
 
 // Global Chat Elements
 const globalChatFloatBtn = document.getElementById('global-chat-float-btn');
@@ -62,8 +61,7 @@ const globalChatHistory = document.getElementById('global-chat-history');
 const globalChatInput = document.getElementById('global-chat-input');
 const sendGlobalChatBtn = document.getElementById('send-global-chat-btn');
 const newGlobalChatBtn = document.getElementById('new-global-chat-btn');
-const copyGlobalChatBtn = document.getElementById('copy-global-chat-btn');
-const downloadGlobalChatBtn = document.getElementById('download-global-chat-btn');
+const fullscreenGlobalChatBtn = document.getElementById('fullscreen-global-chat-btn');
 
 // Mushaf Elements
 const mushafDisplay = document.getElementById('mushaf-display');
@@ -316,12 +314,13 @@ function setupEventListeners() {
         newChatBtn.addEventListener('click', startNewChat);
     }
 
-    if (copyChatBtn) {
-        copyChatBtn.addEventListener('click', () => handleChatAction('copy'));
+    // Fullscreen Toggles
+    if (fullscreenChatBtn) {
+        fullscreenChatBtn.addEventListener('click', () => toggleFullscreen(aiChatModal, fullscreenChatBtn));
     }
 
-    if (downloadChatBtn) {
-        downloadChatBtn.addEventListener('click', () => handleChatAction('download'));
+    if (fullscreenGlobalChatBtn) {
+        fullscreenGlobalChatBtn.addEventListener('click', () => toggleFullscreen(globalAiChatModal, fullscreenGlobalChatBtn));
     }
 
     // Detail Buttons inside Word Modal
@@ -1932,6 +1931,10 @@ function openAiChatModal() {
     chatHistory.innerHTML = `
         <div class="chat-message ai" data-raw-text="${escapeHtml(greetingText)}" data-sender="Ahli AI">
             <div><strong><i class="fas fa-robot"></i> Ahli AI:</strong><br>${htmlReply}</div>
+            <div class="msg-actions">
+                <button class="msg-action-btn msg-copy-btn" title="Copy Pesan Ini"><i class="fas fa-copy"></i></button>
+                <button class="msg-action-btn msg-download-btn" title="Download Pesan Ini"><i class="fas fa-download"></i></button>
+            </div>
         </div>
     `;
 
@@ -2095,6 +2098,10 @@ async function sendChatMessage() {
             loadingEl.setAttribute('data-sender', 'Ahli AI');
             loadingEl.innerHTML = `
                 <div><strong><i class="fas fa-robot"></i> Ahli AI:</strong><br>${htmlReply}</div>
+                <div class="msg-actions">
+                    <button class="msg-action-btn msg-copy-btn" title="Copy Pesan Ini"><i class="fas fa-copy"></i></button>
+                    <button class="msg-action-btn msg-download-btn" title="Download Pesan Ini"><i class="fas fa-download"></i></button>
+                </div>
             `;
         }
     } else {
@@ -2385,6 +2392,10 @@ function startNewChat() {
     chatHistory.innerHTML = `
         <div class="chat-message ai" data-raw-text="${escapeHtml(greetingText)}" data-sender="Ahli AI">
             <div><strong><i class="fas fa-robot"></i> Ahli AI:</strong><br>${htmlReply}</div>
+            <div class="msg-actions">
+                <button class="msg-action-btn msg-copy-btn" title="Copy Pesan Ini"><i class="fas fa-copy"></i></button>
+                <button class="msg-action-btn msg-download-btn" title="Download Pesan Ini"><i class="fas fa-download"></i></button>
+            </div>
         </div>
     `;
 
@@ -2617,54 +2628,82 @@ async function initGlobalChat() {
         });
     }
 
-    if (copyGlobalChatBtn) {
-        copyGlobalChatBtn.addEventListener('click', () => {
-            const rawTextElements = globalChatHistory.querySelectorAll('.chat-message');
-            let fullText = "=== Obrolan Ahli AI Al-Quran ===\n\n";
-            rawTextElements.forEach(el => {
-                const sender = el.getAttribute('data-sender');
-                let text = el.getAttribute('data-raw-text') || el.innerText;
-                // Remove formatting wrapper if we used innerText
-                if(!el.getAttribute('data-raw-text')) {
-                    text = text.replace(/Ahli AI:\n/g, '').replace(/Anda:\n/g, '').trim();
-                }
-                fullText += `${sender}: ${text}\n\n`;
-            });
-
-            navigator.clipboard.writeText(fullText).then(() => {
-                const originalHtml = copyGlobalChatBtn.innerHTML;
-                copyGlobalChatBtn.innerHTML = '<i class="fas fa-check" style="color: var(--secondary-color);"></i>';
-                setTimeout(() => { copyGlobalChatBtn.innerHTML = originalHtml; }, 2000);
-            }).catch(err => {
-                console.error("Copy failed: ", err);
-                alert("Gagal mengcopy teks.");
-            });
-        });
-    }
-
-    if (downloadGlobalChatBtn) {
-        downloadGlobalChatBtn.addEventListener('click', () => {
-            const rawTextElements = globalChatHistory.querySelectorAll('.chat-message');
-            let fullText = "=== Obrolan Ahli AI Al-Quran ===\n\n";
-            rawTextElements.forEach(el => {
-                const sender = el.getAttribute('data-sender');
-                let text = el.getAttribute('data-raw-text') || el.innerText;
-                 if(!el.getAttribute('data-raw-text')) {
-                    text = text.replace(/Ahli AI:\n/g, '').replace(/Anda:\n/g, '').trim();
-                }
-                fullText += `${sender}: ${text}\n\n`;
-            });
-
-            const blob = new Blob([fullText], { type: "text/plain;charset=utf-8" });
-            const url = URL.createObjectURL(blob);
-            const a = document.createElement("a");
-            a.href = url;
-            a.download = `Tanya_Ahli_AI_Global_${Date.now()}.txt`;
-            a.click();
-            URL.revokeObjectURL(url);
-        });
-    }
 }
+
+    // Helper to handle fullscreen toggle
+    function toggleFullscreen(modalElement, btnElement) {
+        if (!modalElement) return;
+        const content = modalElement.querySelector('.modal-content');
+        if (!content) return;
+
+        content.classList.toggle('fullscreen');
+        const icon = btnElement.querySelector('i');
+
+        if (content.classList.contains('fullscreen')) {
+            if (icon) {
+                icon.classList.remove('fa-expand');
+                icon.classList.add('fa-compress');
+            }
+            btnElement.setAttribute('title', 'Perkecil Layar');
+        } else {
+            if (icon) {
+                icon.classList.remove('fa-compress');
+                icon.classList.add('fa-expand');
+            }
+            btnElement.setAttribute('title', 'Layar Penuh');
+        }
+    }
+
+    // Delegated event listener for per-message copy/download buttons
+    document.addEventListener('click', (e) => {
+        const copyBtn = e.target.closest('.msg-copy-btn');
+        if (copyBtn) {
+            handleSingleMessageAction('copy', copyBtn);
+        }
+
+        const downloadBtn = e.target.closest('.msg-download-btn');
+        if (downloadBtn) {
+            handleSingleMessageAction('download', downloadBtn);
+        }
+    });
+
+    function handleSingleMessageAction(action, btnElement) {
+        const aiMessageNode = btnElement.closest('.chat-message.ai');
+        if (!aiMessageNode) return;
+
+        let userMessageNode = aiMessageNode.previousElementSibling;
+        let contentToProcess = "";
+
+        if (userMessageNode && userMessageNode.classList.contains('user')) {
+            const userSender = userMessageNode.getAttribute('data-sender') || 'User';
+            const userText = userMessageNode.getAttribute('data-raw-text') || '';
+            contentToProcess += `${userSender}:\n${userText}\n\n`;
+        }
+
+        const aiSender = aiMessageNode.getAttribute('data-sender') || 'Ahli AI';
+        const aiText = aiMessageNode.getAttribute('data-raw-text') || '';
+        contentToProcess += `${aiSender}:\n${aiText}`;
+
+        if (action === 'copy') {
+            navigator.clipboard.writeText(contentToProcess)
+                .then(() => alert('Tanya Jawab disalin ke clipboard!'))
+                .catch(err => {
+                    console.error('Gagal menyalin:', err);
+                    alert('Gagal menyalin teks.');
+                });
+        } else if (action === 'download') {
+            const blob = new Blob([contentToProcess], { type: 'text/plain;charset=utf-8' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            const filenameText = aiText.substring(0, 20).replace(/[^a-zA-Z0-9]/g, '_');
+            a.download = `Tanya_Jawab_AI_${filenameText}.txt`;
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+        }
+    }
 
 function renderGlobalChatHistory() {
     globalChatHistory.innerHTML = '';
@@ -2682,6 +2721,10 @@ function renderGlobalChatHistory() {
             const html = `
                 <div class="chat-message ai" data-raw-text="${escapeHtml(msg.content)}" data-sender="Ahli AI">
                     <div><strong><i class="fas fa-robot"></i> Ahli AI:</strong><br>${parsedHtml}</div>
+                    <div class="msg-actions">
+                        <button class="msg-action-btn msg-copy-btn" title="Copy Pesan Ini"><i class="fas fa-copy"></i></button>
+                        <button class="msg-action-btn msg-download-btn" title="Download Pesan Ini"><i class="fas fa-download"></i></button>
+                    </div>
                 </div>
             `;
             globalChatHistory.insertAdjacentHTML('beforeend', html);
@@ -2698,6 +2741,10 @@ function addGlobalAiMessage(text, isRaw = true) {
     const html = `
         <div class="chat-message ai" data-raw-text="${escapeHtml(text)}" data-sender="Ahli AI">
             <div><strong><i class="fas fa-robot"></i> Ahli AI:</strong><br>${parsedHtml}</div>
+            <div class="msg-actions">
+                <button class="msg-action-btn msg-copy-btn" title="Copy Pesan Ini"><i class="fas fa-copy"></i></button>
+                <button class="msg-action-btn msg-download-btn" title="Download Pesan Ini"><i class="fas fa-download"></i></button>
+            </div>
         </div>
     `;
     globalChatHistory.insertAdjacentHTML('beforeend', html);
