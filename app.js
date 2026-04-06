@@ -482,10 +482,12 @@ function switchMode(mode) {
     const homeSection = document.querySelector('.navigation.card');
     const introSection = document.getElementById('intro-card');
     const quranDisplay = document.getElementById('quran-display');
+    const homeSearchSection = document.getElementById('home-search-section');
 
     if (mode === 'home') {
         homeSection.style.display = 'flex';
         introSection.style.display = 'block';
+        homeSearchSection.style.display = 'block';
         if (document.getElementById('surah-select').value) {
             quranDisplay.style.display = 'block';
         }
@@ -494,6 +496,7 @@ function switchMode(mode) {
         homeSection.style.display = 'none';
         introSection.style.display = 'none';
         quranDisplay.style.display = 'none';
+        homeSearchSection.style.display = 'none';
         mushafDisplay.style.display = 'block';
 
         if (!mushafPageInput.value) {
@@ -826,7 +829,7 @@ function performSearch(query, searchType) {
                 `;
                 item.addEventListener('click', () => {
                     closeModal(modal);
-                    document.getElementById('home-view-btn').click(); // switch to home
+                    document.getElementById('home-btn').click(); // switch to home
                     const surahSelect = document.getElementById('surah-select');
                     surahSelect.value = res.surahNumber;
                     surahSelect.dispatchEvent(new Event('change'));
