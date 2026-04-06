@@ -54,6 +54,17 @@ const newChatBtn = document.getElementById('new-chat-btn');
 const copyChatBtn = document.getElementById('copy-chat-btn');
 const downloadChatBtn = document.getElementById('download-chat-btn');
 
+// Global Chat Elements
+const globalChatFloatBtn = document.getElementById('global-chat-float-btn');
+const globalAiChatModal = document.getElementById('global-ai-chat-modal');
+const closeGlobalAiChatModalBtn = document.getElementById('close-global-ai-chat-modal');
+const globalChatHistory = document.getElementById('global-chat-history');
+const globalChatInput = document.getElementById('global-chat-input');
+const sendGlobalChatBtn = document.getElementById('send-global-chat-btn');
+const newGlobalChatBtn = document.getElementById('new-global-chat-btn');
+const copyGlobalChatBtn = document.getElementById('copy-global-chat-btn');
+const downloadGlobalChatBtn = document.getElementById('download-global-chat-btn');
+
 // Mushaf Elements
 const mushafDisplay = document.getElementById('mushaf-display');
 const mushafJuzInput = document.getElementById('mushaf-juz-input');
@@ -79,6 +90,7 @@ let currentMushafData = { ayahs: [], translations: [] }; // Store current page d
 let currentWordContext = {}; // Store context for detail explanation
 let currentDeepExplainText = ""; // Store plain markdown text for download/copy
 let chatSessionHistory = []; // Store conversational context for the chat API
+let globalChatSessionHistory = []; // Store conversational context for global chat
 let currentTafsirSurahData = null; // Cache for current surah tafsir
 let currentTafsirSurahSource = null; // Cache source tracking
 
@@ -167,6 +179,8 @@ async function init() {
     if (window.innerWidth <= 768 && introCard) {
         introCard.classList.add('is-collapsed');
     }
+
+    initGlobalChat();
 }
 
 // Event Listeners
@@ -2546,6 +2560,314 @@ function initTafsirSelector() {
             }
         });
     }
+}
+
+// --- Global Chat Feature ---
+async function initGlobalChat() {
+    // Load history from IndexedDB
+    try {
+        const savedHistory = await localforage.getItem('globalChatHistory');
+        if (savedHistory && savedHistory.length > 0) {
+            globalChatSessionHistory = savedHistory;
+            renderGlobalChatHistory();
+        } else {
+            // Initialize with system prompt
+            globalChatSessionHistory = [{
+                role: "system",
+                content: "Anda adalah Ahli Al-Quran, Tafsir, dan Guru Bahasa Arab yang sangat berpengalaman. Berikan penjelasan yang ditujukan untuk orang awam sehingga harus menggunakan bahasa Indonesia yang mudah dipahami tapi tetap detail dan akurat. Jika jawaban Anda mengacu atau mengutip pada ayat Al-Quran, Anda WAJIB MENGGUNAKAN FORMAT [NomorSurah:NomorAyat] (sebagai contoh: [2:15] atau [114:5]). Jangan gunakan spasi di dalam kurung siku."
+            }];
+        }
+    } catch (e) {
+        console.error("Failed to load global chat history", e);
+    }
+
+    if (globalChatFloatBtn) {
+        globalChatFloatBtn.addEventListener('click', () => {
+            openModal(globalAiChatModal);
+            globalChatHistory.scrollTop = globalChatHistory.scrollHeight;
+            if (globalChatSessionHistory.length <= 1) {
+                // If only system prompt exists, add a greeting
+                addGlobalAiMessage("Assalamu'alaikum! Saya adalah Ahli AI Al-Quran. Silakan tanyakan apa saja seputar Al-Quran, Tafsir, atau Bahasa Arab.");
+            }
+        });
+    }
+
+    if (closeGlobalAiChatModalBtn) {
+        closeGlobalAiChatModalBtn.addEventListener('click', () => closeModal(globalAiChatModal));
+    }
+
+    if (sendGlobalChatBtn && globalChatInput) {
+        sendGlobalChatBtn.addEventListener('click', sendGlobalChatMessage);
+        globalChatInput.addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') sendGlobalChatMessage();
+        });
+    }
+
+    if (newGlobalChatBtn) {
+        newGlobalChatBtn.addEventListener('click', async () => {
+            if (confirm('Yakin ingin memulai obrolan baru? Riwayat obrolan ini akan dihapus permanen.')) {
+                globalChatHistory.innerHTML = '';
+                globalChatSessionHistory = [{
+                    role: "system",
+                    content: "Anda adalah Ahli Al-Quran, Tafsir, dan Guru Bahasa Arab yang sangat berpengalaman. Berikan penjelasan yang ditujukan untuk orang awam sehingga harus menggunakan bahasa Indonesia yang mudah dipahami tapi tetap detail dan akurat. Jika jawaban Anda mengacu atau mengutip pada ayat Al-Quran, Anda WAJIB MENGGUNAKAN FORMAT [NomorSurah:NomorAyat] (sebagai contoh: [2:15] atau [114:5]). Jangan gunakan spasi di dalam kurung siku."
+                }];
+                await localforage.setItem('globalChatHistory', globalChatSessionHistory);
+                addGlobalAiMessage("Assalamu'alaikum! Obrolan baru telah dimulai. Apa yang ingin Anda tanyakan?");
+            }
+        });
+    }
+
+    if (copyGlobalChatBtn) {
+        copyGlobalChatBtn.addEventListener('click', () => {
+            const rawTextElements = globalChatHistory.querySelectorAll('.chat-message');
+            let fullText = "=== Obrolan Ahli AI Al-Quran ===\n\n";
+            rawTextElements.forEach(el => {
+                const sender = el.getAttribute('data-sender');
+                let text = el.getAttribute('data-raw-text') || el.innerText;
+                // Remove formatting wrapper if we used innerText
+                if(!el.getAttribute('data-raw-text')) {
+                    text = text.replace(/Ahli AI:\n/g, '').replace(/Anda:\n/g, '').trim();
+                }
+                fullText += `${sender}: ${text}\n\n`;
+            });
+
+            navigator.clipboard.writeText(fullText).then(() => {
+                const originalHtml = copyGlobalChatBtn.innerHTML;
+                copyGlobalChatBtn.innerHTML = '<i class="fas fa-check" style="color: var(--secondary-color);"></i>';
+                setTimeout(() => { copyGlobalChatBtn.innerHTML = originalHtml; }, 2000);
+            }).catch(err => {
+                console.error("Copy failed: ", err);
+                alert("Gagal mengcopy teks.");
+            });
+        });
+    }
+
+    if (downloadGlobalChatBtn) {
+        downloadGlobalChatBtn.addEventListener('click', () => {
+            const rawTextElements = globalChatHistory.querySelectorAll('.chat-message');
+            let fullText = "=== Obrolan Ahli AI Al-Quran ===\n\n";
+            rawTextElements.forEach(el => {
+                const sender = el.getAttribute('data-sender');
+                let text = el.getAttribute('data-raw-text') || el.innerText;
+                 if(!el.getAttribute('data-raw-text')) {
+                    text = text.replace(/Ahli AI:\n/g, '').replace(/Anda:\n/g, '').trim();
+                }
+                fullText += `${sender}: ${text}\n\n`;
+            });
+
+            const blob = new Blob([fullText], { type: "text/plain;charset=utf-8" });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement("a");
+            a.href = url;
+            a.download = `Tanya_Ahli_AI_Global_${Date.now()}.txt`;
+            a.click();
+            URL.revokeObjectURL(url);
+        });
+    }
+}
+
+function renderGlobalChatHistory() {
+    globalChatHistory.innerHTML = '';
+    globalChatSessionHistory.forEach(msg => {
+        if (msg.role === 'user') {
+            const escapedUserMsg = escapeHtml(msg.content);
+            const html = `
+                <div class="chat-message user" data-raw-text="${escapedUserMsg}" data-sender="Anda">
+                    <div>${escapedUserMsg}</div>
+                </div>
+            `;
+            globalChatHistory.insertAdjacentHTML('beforeend', html);
+        } else if (msg.role === 'assistant') {
+            const parsedHtml = DOMPurify.sanitize(marked.parse(msg.content));
+            const html = `
+                <div class="chat-message ai" data-raw-text="${escapeHtml(msg.content)}" data-sender="Ahli AI">
+                    <div><strong><i class="fas fa-robot"></i> Ahli AI:</strong><br>${parsedHtml}</div>
+                </div>
+            `;
+            globalChatHistory.insertAdjacentHTML('beforeend', html);
+        }
+    });
+    parseQuranLinks();
+}
+
+function addGlobalAiMessage(text, isRaw = true) {
+    globalChatSessionHistory.push({ role: "assistant", content: text });
+    localforage.setItem('globalChatHistory', globalChatSessionHistory);
+
+    const parsedHtml = isRaw ? DOMPurify.sanitize(marked.parse(text)) : text;
+    const html = `
+        <div class="chat-message ai" data-raw-text="${escapeHtml(text)}" data-sender="Ahli AI">
+            <div><strong><i class="fas fa-robot"></i> Ahli AI:</strong><br>${parsedHtml}</div>
+        </div>
+    `;
+    globalChatHistory.insertAdjacentHTML('beforeend', html);
+    globalChatHistory.scrollTop = globalChatHistory.scrollHeight;
+    parseQuranLinks();
+}
+
+async function sendGlobalChatMessage() {
+    const userMessage = globalChatInput.value.trim();
+    if (!userMessage) return;
+
+    if (groqApiKeys.length === 0) {
+        alert("Fitur ini membutuhkan API Key Groq. Silakan masukkan di Settings.");
+        openModal(document.getElementById('settings-modal'));
+        return;
+    }
+
+    // Context awareness: Check active view and attach to user message internally if possible
+    let contextInfo = "";
+    const activeSurahSelect = document.getElementById('surah-select');
+    const activeAyahSelect = document.getElementById('ayah-select');
+    const mushafDisplay = document.getElementById('mushaf-display');
+
+    if (mushafDisplay.style.display === 'block' && currentMushafData && currentMushafData.ayahs.length > 0) {
+         contextInfo = `User saat ini sedang berada di mode Mushaf. Data halaman saat ini: Hal ${mushafPageInput.value}, rentang ayat: Surah ${currentMushafData.ayahs[0].surah.number}:${currentMushafData.ayahs[0].numberInSurah} hingga Surah ${currentMushafData.ayahs[currentMushafData.ayahs.length-1].surah.number}:${currentMushafData.ayahs[currentMushafData.ayahs.length-1].numberInSurah}`;
+    } else if (activeSurahSelect.value && activeAyahSelect.value) {
+         const sName = activeSurahSelect.options[activeSurahSelect.selectedIndex]?.text || "Surah " + activeSurahSelect.value;
+         contextInfo = `User saat ini sedang membaca/berada di ${sName} Ayat ${activeAyahSelect.value}`;
+    }
+
+    // 1. Display User Message
+    const escapedUserMsg = escapeHtml(userMessage);
+    const userMsgHtml = `
+        <div class="chat-message user" data-raw-text="${escapedUserMsg}" data-sender="Anda">
+            <div>${escapedUserMsg}</div>
+        </div>
+    `;
+    globalChatHistory.insertAdjacentHTML('beforeend', userMsgHtml);
+    globalChatInput.value = '';
+    globalChatHistory.scrollTop = globalChatHistory.scrollHeight;
+
+    // 2. Add to history payload
+    // We add the context as a system prompt if there is context, to avoid showing context on reload
+    if (contextInfo) {
+        globalChatSessionHistory.push({ role: "system", content: contextInfo });
+    }
+    globalChatSessionHistory.push({ role: "user", content: userMessage });
+    await localforage.setItem('globalChatHistory', globalChatSessionHistory);
+
+    // 3. Display Loading Indicator
+    const loadingId = 'global-loading-' + Date.now();
+    const loadingHtml = `
+        <div id="${loadingId}" class="chat-message ai">
+            <div><strong><i class="fas fa-robot fa-spin"></i> Ahli AI:</strong><br><em>Sedang berpikir...</em></div>
+        </div>
+    `;
+    globalChatHistory.insertAdjacentHTML('beforeend', loadingHtml);
+    globalChatHistory.scrollTop = globalChatHistory.scrollHeight;
+
+    // 4. API Call
+    let success = false;
+    let aiReply = "";
+
+    const apiKey = groqApiKeys[Math.floor(Math.random() * groqApiKeys.length)];
+    const endpoint = `https://api.groq.com/openai/v1/chat/completions`;
+
+    const requestBody = {
+        model: "openai/gpt-oss-120b",
+        messages: globalChatSessionHistory,
+        temperature: 0.3
+    };
+
+    try {
+        const response = await fetch(endpoint, {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+                'Authorization': `Bearer ${apiKey}`
+            },
+            body: JSON.stringify(requestBody)
+        });
+
+        if (!response.ok) {
+            const errorText = await response.text();
+            throw new Error(`API Error: ${response.status} - ${errorText}`);
+        }
+
+        const data = await response.json();
+        aiReply = data.choices[0].message.content;
+        success = true;
+    } catch (e) {
+        console.error("Groq Global Chat error:", e);
+        aiReply = "Maaf, terjadi kesalahan saat menghubungi AI Groq. " + e.message;
+        // Revert user message from history on fail
+        globalChatSessionHistory.pop();
+        await localforage.setItem('globalChatHistory', globalChatSessionHistory);
+    }
+
+    // 5. Remove loading and render
+    const loadingEl = document.getElementById(loadingId);
+    if (loadingEl) loadingEl.remove();
+
+    if (success) {
+        addGlobalAiMessage(aiReply, true);
+    } else {
+        const errorHtml = `
+            <div class="chat-message ai" data-sender="Ahli AI">
+                <div style="color: red;"><strong><i class="fas fa-exclamation-triangle"></i> Error:</strong><br>${escapeHtml(aiReply)}</div>
+            </div>
+        `;
+        globalChatHistory.insertAdjacentHTML('beforeend', errorHtml);
+        globalChatHistory.scrollTop = globalChatHistory.scrollHeight;
+    }
+}
+
+function parseQuranLinks() {
+    // Replace [Surah:Ayah] with clickable links
+    const messages = globalChatHistory.querySelectorAll('.chat-message.ai div:not(.parsed-links)');
+    messages.forEach(msgDiv => {
+        let html = msgDiv.innerHTML;
+        // Regex to find [SurahNumber:AyahNumber] e.g., [2:15]
+        const regex = /\[(\d+):(\d+)\]/g;
+        if (regex.test(html)) {
+            html = html.replace(regex, (match, surahNum, ayahNum) => {
+                // Try to find the surah name if we have data
+                let surahName = `Surah ${surahNum}`;
+                if (surahsData && surahsData.length >= surahNum) {
+                    surahName = surahsData[surahNum - 1].englishName;
+                }
+                return `<a href="#" class="quran-link" data-surah="${surahNum}" data-ayah="${ayahNum}" title="Buka ${surahName} Ayat ${ayahNum}">${surahName} Ayat ${ayahNum}</a>`;
+            });
+            msgDiv.innerHTML = html;
+        }
+        msgDiv.classList.add('parsed-links');
+
+        // Attach click events to new links
+        const links = msgDiv.querySelectorAll('.quran-link:not(.bound)');
+        links.forEach(link => {
+            link.classList.add('bound');
+            link.addEventListener('click', (e) => {
+                e.preventDefault();
+                const surah = e.target.getAttribute('data-surah');
+                const ayah = e.target.getAttribute('data-ayah');
+
+                // Close modal and navigate
+                closeModal(globalAiChatModal);
+                document.getElementById('home-btn').click(); // Switch to home view
+
+                // Trigger navigation
+                const surahSelect = document.getElementById('surah-select');
+                surahSelect.value = surah;
+                surahSelect.dispatchEvent(new Event('change'));
+
+                // Wait for surah to load then select ayah
+                setTimeout(() => {
+                    const ayahSelect = document.getElementById('ayah-select');
+                    if (ayahSelect) {
+                        ayahSelect.value = ayah;
+                        ayahSelect.dispatchEvent(new Event('change'));
+
+                        // Scroll to the specific ayah smoothly
+                        setTimeout(() => {
+                            const ayahEl = document.querySelector(`.ayah-word-group[data-ayah="${ayah}"]`);
+                            if(ayahEl) ayahEl.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                        }, 500);
+                    }
+                }, 1500);
+            });
+        });
+    });
 }
 
 async function openTafsirModal(surahNum, ayahNum) {

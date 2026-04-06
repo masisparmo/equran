@@ -1348,3 +1348,40 @@ select {
 [data-theme="dark"] #arabic-keyboard {
     background-color: var(--card-bg);
 }
+
+/* Floating Button */
+.floating-btn {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    width: 60px;
+    height: 60px;
+    background-color: var(--secondary-color);
+    color: white;
+    border-radius: 50%;
+    border: none;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+    font-size: 24px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000; /* below standard modal 2000 */
+    transition: transform 0.3s, background-color 0.3s;
+}
+
+.floating-btn:hover {
+    transform: scale(1.1);
+    background-color: var(--primary-color);
+}
+
+/* Link in Global Chat */
+.quran-link {
+    color: var(--secondary-color);
+    text-decoration: underline;
+    font-weight: bold;
+    cursor: pointer;
+}
+.quran-link:hover {
+    color: var(--primary-color);
+}
