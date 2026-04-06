@@ -397,6 +397,25 @@ select {
     max-width: 100%; /* User requested to use the empty space on the right */
 }
 
+/* Markdown Spacing within Chat AI Bubble */
+.chat-message.ai div > p,
+.chat-message.ai div > ul,
+.chat-message.ai div > ol {
+    margin-bottom: 12px;
+}
+
+.chat-message.ai div > ul > li,
+.chat-message.ai div > ol > li {
+    margin-bottom: 6px;
+    margin-left: 20px;
+}
+
+.chat-message.ai div > p:last-child,
+.chat-message.ai div > ul:last-child,
+.chat-message.ai div > ol:last-child {
+    margin-bottom: 0;
+}
+
 /* Chat Message Action Buttons Container */
 .msg-actions {
     display: flex;
@@ -413,22 +432,25 @@ select {
 
 /* Base style for message action buttons */
 .msg-action-btn {
-    background: none;
-    border: none;
+    background-color: var(--card-bg); /* Use card background for better visibility */
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
     cursor: pointer;
-    font-size: 0.9rem;
-    padding: 4px;
-    opacity: 0.7;
-    transition: opacity 0.2s, transform 0.1s;
-    color: inherit; /* Inherits white for user, primary-color for AI */
+    font-size: 0.85rem;
+    padding: 6px 12px;
+    opacity: 0.9;
+    transition: all 0.2s;
+    color: var(--text-color); /* Explicitly set the text color */
     display: flex;
     align-items: center;
     justify-content: center;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
 }
 
 .msg-action-btn:hover {
     opacity: 1;
-    transform: scale(1.1);
+    transform: scale(1.05);
+    background-color: var(--hover-bg);
 }
 
 .modal.show {
