@@ -697,6 +697,12 @@ select {
 }
 
 /* Help Modal Styling enhancements */
+.help-content .large-arabic {
+    font-size: 2.2rem;
+    margin-bottom: 5px;
+    line-height: 1.8;
+}
+
 .edu-section {
     margin-bottom: 30px;
     padding-bottom: 20px;
