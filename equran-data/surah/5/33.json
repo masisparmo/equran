@@ -1,0 +1,654 @@
+{
+  "surah": 5,
+  "ayah": 33,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "إِنَّمَا",
+      "transliterasi": "Innamā",
+      "jenis_kata": "Huruf",
+      "arti": "Sesungguhnya hanyalah, hanyalah",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk huruf",
+        "makna_dasar": "Tidak berlaku untuk huruf",
+        "wazan_perubahan": "Tidak berlaku untuk huruf"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Istiftaḥ (pembuka kalimat) dan Huruf Qasr (pembatasan)",
+        "irab_dan_logika": "`إِنَّ` (inna) adalah huruf taukid (penegas) dan nasikh (yang menasabkan isim dan merafa'kan khabar). Ketika disambung dengan `مَا` (ma) kaffah (penghalang), ia kehilangan fungsinya sebagai nasikh dan hanya berfungsi sebagai huruf taukid dan qasr (pembatasan). Oleh karena itu, kalimat setelahnya tidak terpengaruh oleh `إِنَّ` secara i'rab."
+      },
+      "hikmah": "Menunjukkan penegasan dan pembatasan, artinya 'hanyalah' atau 'sesungguhnya hanyalah'. Ini mengindikasikan bahwa hukuman yang disebutkan setelahnya adalah satu-satunya balasan bagi perbuatan tersebut, tidak ada pilihan lain.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "جَزَٰٓؤُا۟",
+      "transliterasi": "Jazā'u",
+      "jenis_kata": "Isim",
+      "arti": "Balasan, ganjaran",
+      "sharaf": {
+        "akar_kata": "ج ز ي (J-Z-Y)",
+        "makna_dasar": "Membalas, memberi ganjaran, mencukupi",
+        "wazan_perubahan": "Isim Masdar (bentuk dasar kata kerja) dari fi'il جَزَى - يَجْزِي"
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada' (subjek)",
+        "irab_dan_logika": "Marfu' dengan dhammah (`ـُ`) karena merupakan mubtada'. Mubtada' selalu marfu'. Di sini, ia juga mudhaf (kata yang disandarkan) kepada `ٱلَّذِينَ`."
+      },
+      "hikmah": "Menunjukkan konsekuensi atau hasil dari suatu perbuatan, baik positif maupun negatif. Dalam konteks ayat ini, merujuk pada balasan atau hukuman atas kejahatan.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "ٱلَّذِينَ",
+      "transliterasi": "Alladhīna",
+      "jenis_kata": "Isim Maushul (kata sambung)",
+      "arti": "Orang-orang yang",
+      "sharaf": {
+        "akar_kata": "Tidak memiliki akar kata dalam arti sharaf tradisional",
+        "makna_dasar": "Tidak memiliki makna dasar sharaf",
+        "wazan_perubahan": "Tidak memiliki wazan perubahan sharaf"
+      },
+      "nahwu": {
+        "kedudukan": "Mudhaf ilaih (kata yang disandari)",
+        "irab_dan_logika": "Majrur secara mahal (posisi) karena menjadi mudhaf ilaih dari `جَزَٰٓؤُا۟`. Isim maushul adalah isim mabni (tidak berubah harakat akhirnya), sehingga harakatnya tetap `ـَ` (fathah) meskipun posisinya majrur."
+      },
+      "hikmah": "Berfungsi sebagai penghubung antara kata `جَزَٰٓؤُا۟` (balasan) dengan kalimat yang menjelaskan siapa yang akan menerima balasan tersebut, yaitu 'orang-orang yang...'.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "يُحَارِبُونَ",
+      "transliterasi": "Yuḥāribūna",
+      "jenis_kata": "Fi'il Mudhari' (kata kerja sekarang/akan datang)",
+      "arti": "Mereka memerangi",
+      "sharaf": {
+        "akar_kata": "ح ر ب (Ḥ-R-B)",
+        "makna_dasar": "Perang, bermusuhan",
+        "wazan_perubahan": "Fi'il Mudhari' dari Bab Mufā'alah (فَاعَلَ - يُفَاعِلُ). Bentuk jamak mudzakkar ghaib (mereka laki-laki)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il (kata kerja) dan Shilah Maushul (kalimat penghubung)",
+        "irab_dan_logika": "Marfu' dengan tetapnya nun (`ثبوت النون`) karena merupakan fi'il mudhari' dari af'alul khamsah (lima bentuk fi'il yang di-rafa'kan dengan nun). Ia menjadi shilah maushul bagi `ٱلَّذِينَ`, menjelaskan perbuatan 'orang-orang yang'. Fa'il (subjek) dari fi'il ini adalah wawu jama'ah (`و`) yang tersembunyi di dalamnya, merujuk kepada `ٱلَّذِينَ`."
+      },
+      "hikmah": "Menggambarkan tindakan aktif dan berkelanjutan dari permusuhan atau peperangan. Penggunaan wazan Mufā'alah (فاعَلَ) seringkali menunjukkan interaksi atau tindakan timbal balik, dalam konteks ini berarti 'saling memerangi' atau 'memerangi dengan sungguh-sungguh'.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "ٱللَّهَ",
+      "transliterasi": "Allāha",
+      "jenis_kata": "Isim (Nama Dzat Allah)",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "Tidak memiliki akar kata dalam arti sharaf tradisional, dianggap sebagai Isim Dzat",
+        "makna_dasar": "Tidak memiliki makna dasar sharaf",
+        "wazan_perubahan": "Tidak memiliki wazan perubahan sharaf"
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul Bih (objek)",
+        "irab_dan_logika": "Manshub dengan fathah (`ـَ`) karena menjadi maf'ul bih dari fi'il `يُحَارِبُونَ`. Maf'ul bih selalu manshub."
+      },
+      "hikmah": "Merujuk pada Dzat Tuhan Yang Maha Esa. Dalam konteks ayat, 'memerangi Allah' diartikan sebagai memerangi syariat-Nya, hukum-Nya, atau orang-orang yang beriman kepada-Nya, serta membuat kerusakan di bumi.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "وَرَسُولَهُۥ",
+      "transliterasi": "Wa Rasūlahu",
+      "jenis_kata": "Huruf (wawu) dan Isim (Rasul)",
+      "arti": "Dan Rasul-Nya",
+      "sharaf": {
+        "akar_kata": "ر س ل (R-S-L) untuk `رَسُول`",
+        "makna_dasar": "Mengutus, mengirim",
+        "wazan_perubahan": "Isim Fa'il (pelaku) atau Isim Maf'ul (yang diutus) dalam bentuk `فَعُول` yang bermakna mubalaghah (berlebihan) atau sifat tetap. Di sini, `رَسُول` adalah utusan."
+      },
+      "nahwu": {
+        "kedudukan": "Ma'thuf (diikuti) kepada `ٱللَّهَ`",
+        "irab_dan_logika": "`وَ` (wawu) adalah huruf 'athaf (penghubung). `رَسُولَ` manshub dengan fathah (`ـَ`) karena di-athaf-kan kepada `ٱللَّهَ` yang manshub. `ـهُ` (hu) adalah dhamir muttashil (kata ganti sambung) yang majrur secara mahal karena menjadi mudhaf ilaih dari `رَسُولَ`."
+      },
+      "hikmah": "Menunjukkan bahwa permusuhan tidak hanya ditujukan kepada Allah, tetapi juga kepada Rasul-Nya, yang berarti menentang ajaran dan syariat yang dibawa oleh Rasulullah ﷺ. Ini menekankan kesatuan antara ketaatan kepada Allah dan ketaatan kepada Rasul-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "وَيَسْعَوْنَ",
+      "transliterasi": "wa yasa'awna",
+      "jenis_kata": "Fi'il",
+      "arti": "dan mereka berusaha/berjalan/berbuat",
+      "sharaf": {
+        "akar_kata": "س ع ي",
+        "makna_dasar": "Berusaha, berjalan, bergegas, melakukan.",
+        "wazan_perubahan": "Fi'il Mudhari' (kata kerja sekarang/akan datang), jama' mudzakkar ghaib (mereka laki-laki), dari Bab I (فَعَلَ - يَفْعَلُ). Bentuknya adalah يَفْعَلُونَ (yaf'alūna), dengan tambahan wawu dan nun sebagai tanda rafa' untuk fi'il mudhari' af'alul khamsah."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Marfu'",
+        "irab_dan_logika": "Marfu' karena tidak didahului oleh amil nashab (penashab) atau amil jazm (penjazm). Tanda rafa'nya adalah tetapnya huruf nun (ثبوت النون) karena termasuk Af'alul Khamsah (lima kata kerja). Huruf wawu (و) di awal adalah wawu 'athaf (penghubung) yang menghubungkan dengan kalimat sebelumnya 'يُحَارِبُونَ اللَّهَ وَرَسُولَهُ'."
+      },
+      "hikmah": "Kata ini menunjukkan kelanjutan dari tindakan memerangi Allah dan Rasul-Nya, yaitu 'berusaha' atau 'berbuat' kerusakan di muka bumi. Ini menekankan aspek kesengajaan dan upaya aktif dalam melakukan kejahatan.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "فِى",
+      "transliterasi": "fī",
+      "jenis_kata": "Huruf",
+      "arti": "di dalam, di",
+      "sharaf": {
+        "akar_kata": "Tidak memiliki akar kata dalam sharaf.",
+        "makna_dasar": "Menunjukkan tempat (zharf makan) atau konteks.",
+        "wazan_perubahan": "Huruf jar, tidak ada wazan."
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Jar",
+        "irab_dan_logika": "Huruf jar adalah mabni (tetap) dan tidak berubah harakatnya. Ia berfungsi men-jar-kan isim setelahnya."
+      },
+      "hikmah": "Menunjukkan lokasi atau konteks di mana perbuatan 'berusaha membuat kerusakan' itu terjadi, yaitu 'di muka bumi'.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "ٱلْأَرْضِ",
+      "transliterasi": "al-ardhi",
+      "jenis_kata": "Isim",
+      "arti": "bumi",
+      "sharaf": {
+        "akar_kata": "أ ر ض",
+        "makna_dasar": "Tanah, bumi, daratan.",
+        "wazan_perubahan": "Isim mufrad (kata benda tunggal), tidak ada wazan sharaf khusus seperti fi'il."
+      },
+      "nahwu": {
+        "kedudukan": "Isim Majrur",
+        "irab_dan_logika": "Majrur karena didahului oleh huruf jar 'فِى'. Tanda jarnya adalah kasrah (ِ) di akhir."
+      },
+      "hikmah": "Merujuk pada 'bumi' sebagai tempat di mana kerusakan itu ditebarkan. Ini menunjukkan cakupan luas dari kejahatan mereka, tidak hanya terbatas pada individu tetapi berdampak pada tatanan sosial dan lingkungan.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "فَسَادًا",
+      "transliterasi": "fasādan",
+      "jenis_kata": "Isim",
+      "arti": "kerusakan, kekacauan",
+      "sharaf": {
+        "akar_kata": "ف س د",
+        "makna_dasar": "Rusak, busuk, kacau, tidak baik.",
+        "wazan_perubahan": "Masdar (kata benda verbal) dari Fi'il Tsulatsi Mujarrad (فَسَدَ - يَفْسُدُ) dengan wazan فَعَالٌ."
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul Mutlaq atau Maf'ul Bih",
+        "irab_dan_logika": "Manshub (berharakat fathah tanwin) karena berfungsi sebagai *maf'ul mutlaq* (objek absolut) yang menjelaskan jenis perbuatan dari 'يَسْعَوْنَ' (mereka berusaha/berbuat) atau *maf'ul bih* (objek langsung) dari fi'il yang tersirat, yaitu 'يُحْدِثُونَ فَسَادًا' (mereka membuat kerusakan). Dalam konteks ini, lebih tepat sebagai *maf'ul mutlaq* yang menjelaskan tujuan atau jenis usaha mereka."
+      },
+      "hikmah": "Kata ini adalah inti dari kejahatan yang dilakukan, yaitu 'kerusakan'. Ini mencakup segala bentuk kekacauan, ketidakadilan, dan kejahatan yang mengganggu kedamaian dan ketertiban di masyarakat.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "أَن",
+      "transliterasi": "an",
+      "jenis_kata": "Huruf",
+      "arti": "bahwa, untuk, agar",
+      "sharaf": {
+        "akar_kata": "Tidak memiliki akar kata.",
+        "makna_dasar": "Partikel penashab fi'il mudhari' atau partikel masdariyah.",
+        "wazan_perubahan": "Huruf, tidak ada wazan."
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Nashab (penashab)",
+        "irab_dan_logika": "Huruf 'أَن' adalah huruf nashab yang menashabkan fi'il mudhari' setelahnya. Ia juga merupakan huruf masdariyah, yang mengubah fi'il mudhari' setelahnya menjadi makna masdar (kata benda verbal)."
+      },
+      "hikmah": "Berfungsi sebagai penghubung yang menjelaskan 'pembalasan' (جَزَاءُ) yang akan diterima oleh mereka. Ini mengindikasikan bahwa hukuman yang disebutkan setelahnya adalah *bentuk* dari pembalasan tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "يُقَتَّلُوٓا۟",
+      "transliterasi": "yuqattalū",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka dibunuh",
+      "sharaf": {
+        "akar_kata": "ق ت ل",
+        "makna_dasar": "Membunuh, memerangi.",
+        "wazan_perubahan": "Fi'il Mudhari' Majhul (kata kerja pasif), jama' mudzakkar ghaib (mereka laki-laki), dari Bab II (فَعَّلَ - يُفَعِّلُ). Bentuk aslinya adalah يُقَتِّلُونَ (yuqattilūna) jika aktif, tetapi karena majhul menjadi يُقَتَّلُونَ (yuqattalūna). Karena didahului 'أَن' (amil nashab), nun dihilangkan, menjadi يُقَتَّلُوا۟."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Manshub",
+        "irab_dan_logika": "Manshub karena didahului oleh huruf nashab 'أَن'. Tanda nashabnya adalah dihapusnya huruf nun (حذف النون) karena termasuk Af'alul Khamsah. Wawu alif (وَا) adalah dhamir naibul fa'il (pengganti subjek) yang kembali kepada 'orang-orang yang memerangi Allah dan Rasul-Nya'."
+      },
+      "hikmah": "Ini adalah salah satu bentuk hukuman yang disebutkan dalam ayat, yaitu 'dibunuh'. Bentuk pasif (majhul) menunjukkan bahwa tindakan pembunuhan ini dilakukan oleh pihak berwenang sebagai penegakan hukum, bukan oleh individu secara sembarangan. Ini menekankan beratnya kejahatan mereka yang pantas mendapatkan hukuman mati.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "أَوْ",
+      "transliterasi": "aw",
+      "jenis_kata": "Huruf",
+      "arti": "atau",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk huruf",
+        "makna_dasar": "Pilihan, keraguan, perincian",
+        "wazan_perubahan": "Tidak berlaku untuk huruf"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf 'athaf (penghubung)",
+        "irab_dan_logika": "*Huruf mabni* (tetap), tidak mengalami perubahan i'rab. Berfungsi menghubungkan dua pilihan atau lebih dalam konteks hukuman."
+      },
+      "hikmah": "Menunjukkan adanya beberapa opsi hukuman yang bisa diterapkan, bukan berarti semua hukuman harus dijalankan sekaligus. Ini memberikan fleksibilitas dalam penegakan hukum sesuai kondisi dan tingkat kejahatan.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "يُصَلَّبُوٓا۟",
+      "transliterasi": "yuṣallabū",
+      "jenis_kata": "Fi'il (kata kerja)",
+      "arti": "mereka disalib",
+      "sharaf": {
+        "akar_kata": "ص ل ب (ṣ-l-b)",
+        "makna_dasar": "menyalib, mengikat pada tiang salib",
+        "wazan_perubahan": "*Fi'il Mudhari' Majhul* (pasif), wazan تَفْعِيل (*taf'īl*) dari Fi'il Madhi صَلَّبَ (*ṣallaba*). Bentuk jamak mudhari' majhul adalah يُصَلَّبُونَ (*yuṣallabūna*), namun nun dibuang karena manshub."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Majhul Manshub",
+        "irab_dan_logika": "*Fi'il Mudhari' Majhul* (kata kerja pasif bentuk sekarang/akan datang) yang *manshub* (berharakat fathah atau tanda manshub lainnya). Tanda manshubnya adalah *membuang nun* (حذف النون) karena termasuk *Af'alul Khamsah* (kata kerja lima). Ia manshub karena diathafkan (dihubungkan) dengan huruf 'athaf *أَوْ* pada fi'il sebelumnya yang juga manshub (yaitu *يُقَتَّلُوا* yang tersirat dari konteks hukuman \"dibunuh\" yang disebutkan sebelumnya dalam ayat). Wawu (و) pada akhir kata adalah *Na'ibul Fa'il* (pengganti subjek) yang kembali kepada \"orang-orang yang memerangi Allah dan Rasul-Nya\"."
+      },
+      "hikmah": "Hukuman penyaliban adalah salah satu bentuk hukuman berat yang menunjukkan kekejaman kejahatan mereka. Penyaliban pada masa itu seringkali dilakukan setelah pembunuhan atau sebagai bentuk hukuman mati yang dipermalukan di depan umum, untuk memberikan efek jera dan menunjukkan kekuasaan hukum.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "أَوْ",
+      "transliterasi": "aw",
+      "jenis_kata": "Huruf",
+      "arti": "atau",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk huruf",
+        "makna_dasar": "Pilihan, keraguan, perincian",
+        "wazan_perubahan": "Tidak berlaku untuk huruf"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf 'athaf (penghubung)",
+        "irab_dan_logika": "*Huruf mabni* (tetap), tidak mengalami perubahan i'rab. Berfungsi menghubungkan pilihan hukuman berikutnya."
+      },
+      "hikmah": "Sama seperti 'أَوْ' sebelumnya, ini menegaskan bahwa ada berbagai opsi hukuman yang bisa dipilih, bukan akumulasi semua hukuman. Ini menunjukkan keadilan Islam dalam memberikan hukuman yang proporsional.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "تُقَطَّعَ",
+      "transliterasi": "tuqaṭṭa'a",
+      "jenis_kata": "Fi'il (kata kerja)",
+      "arti": "dipotong",
+      "sharaf": {
+        "akar_kata": "ق ط ع (q-ṭ-'-)",
+        "makna_dasar": "memotong, memutuskan",
+        "wazan_perubahan": "*Fi'il Mudhari' Majhul* (pasif), wazan تَفْعِيل (*taf'īl*) dari Fi'il Madhi قَطَّعَ (*qaṭṭa'a*) yang berarti \"memotong-motong\" atau \"memotong banyak\". Di sini berharakat fathah di akhir karena manshub."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Majhul Manshub",
+        "irab_dan_logika": "*Fi'il Mudhari' Majhul* (kata kerja pasif bentuk sekarang/akan datang) yang *manshub* (berharakat fathah). Ia manshub karena diathafkan (dihubungkan) dengan huruf 'athaf *أَوْ* pada fi'il sebelumnya yang juga manshub (yaitu *يُقَتَّلُوا* atau *يُصَلَّبُوا*). Harakat fathah pada huruf akhirnya adalah tanda manshub yang jelas. *Na'ibul Fa'il* (pengganti subjek) untuk fi'il ini adalah *أَيْدِيهِمْ* (tangan-tangan mereka) dan *أَرْجُلُهُم* (kaki-kaki mereka)."
+      },
+      "hikmah": "Hukuman pemotongan tangan dan kaki secara bersilang adalah bentuk hukuman yang sangat berat dan memalukan, yang bertujuan untuk melumpuhkan kemampuan pelaku kejahatan dalam melakukan kerusakan dan memberikan efek jera yang mendalam. Ini sering dikaitkan dengan kejahatan perampokan atau terorisme di jalanan.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "أَيْدِيهِمْ",
+      "transliterasi": "aydīhim",
+      "jenis_kata": "Isim (kata benda)",
+      "arti": "tangan-tangan mereka",
+      "sharaf": {
+        "akar_kata": "ي د ي (y-d-y)",
+        "makna_dasar": "tangan",
+        "wazan_perubahan": "Bentuk *jamak taksir* dari يَدٌ (*yadun* - tangan). Dhomir هِمْ (*him*) adalah *dhomir muttashil* (kata ganti sambung) yang menunjukkan kepemilikan jamak laki-laki."
+      },
+      "nahwu": {
+        "kedudukan": "Na'ibul Fa'il (pengganti subjek)",
+        "irab_dan_logika": "*Na'ibul Fa'il* dari fi'il majhul *تُقَطَّعَ*. Na'ibul Fa'il selalu dalam keadaan *marfu'* (berharakat dhammah atau tanda marfu' lainnya). Tanda marfu'nya adalah *dhammah muqaddarah* (dhammah yang diperkirakan) di atas huruf ya' (ي) karena merupakan *isim manqus* (isim yang diakhiri ya' yang sebelumnya berharakat kasrah) atau karena beratnya pengucapan. Dhomir *هِمْ* (mereka) adalah *mudhaf ilaih* (yang disandarkan kepadanya) dan dalam posisi *majrur* (berharakat kasrah atau tanda majrur lainnya) secara mahal (posisi)."
+      },
+      "hikmah": "Tangan adalah simbol kekuatan dan alat untuk berbuat, baik kebaikan maupun kejahatan. Pemotongan tangan melambangkan pelumpuhan kemampuan mereka untuk berbuat kerusakan, sekaligus sebagai balasan setimpal atas tindakan mereka yang menggunakan tangan untuk kejahatan.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "وَأَرْجُلُهُم",
+      "transliterasi": "wa arjuluhum",
+      "jenis_kata": "Isim (kata benda)",
+      "arti": "dan kaki-kaki mereka",
+      "sharaf": {
+        "akar_kata": "ر ج ل (r-j-l)",
+        "makna_dasar": "kaki",
+        "wazan_perubahan": "Bentuk *jamak taksir* dari رِجْلٌ (*rijlun* - kaki). Dhomir هُم (*hum*) adalah *dhomir muttashil* (kata ganti sambung) yang menunjukkan kepemilikan jamak laki-laki."
+      },
+      "nahwu": {
+        "kedudukan": "Ma'thuf (yang diathafkan) pada Na'ibul Fa'il",
+        "irab_dan_logika": "Huruf *وَ* (wa) adalah *huruf 'athaf* (penghubung) yang berarti \"dan\". Kata *أَرْجُلُهُم* diathafkan (dihubungkan) pada *أَيْدِيهِمْ*, sehingga memiliki hukum i'rab yang sama. Karena *أَيْدِيهِمْ* adalah *Na'ibul Fa'il* yang marfu', maka *أَرْجُلُهُم* juga *marfu'*. Tanda marfu'nya adalah *dhammah* yang jelas pada huruf lam (ل). Dhomir *هُم* (mereka) adalah *mudhaf ilaih* (yang disandarkan kepadanya) dan dalam posisi *majrur* (berharakat kasrah atau tanda majrur lainnya) secara mahal (posisi)."
+      },
+      "hikmah": "Kaki adalah alat untuk bergerak dan berpindah tempat. Pemotongan kaki, bersama dengan tangan, melambangkan pelumpuhan total terhadap kemampuan bergerak dan beraksi para pelaku kejahatan, terutama dalam konteks perampokan atau terorisme yang melibatkan mobilitas.",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "مِّنْ",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf",
+      "arti": "dari, sebagian, karena",
+      "sharaf": {
+        "akar_kata": "Tidak memiliki akar kata (huruf)",
+        "makna_dasar": "Tidak memiliki makna dasar (huruf)",
+        "wazan_perubahan": "Tidak memiliki wazan (huruf)"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Jar",
+        "irab_dan_logika": "Berfungsi sebagai huruf jar yang menyebabkan isim setelahnya (خِلَٰفٍ) menjadi majrur (berharakat kasrah). Dalam konteks ini, ia menunjukkan makna 'dari' atau 'secara' dalam frasa 'مِّنْ خِلَٰفٍ' yang berarti 'secara bersilang' atau 'bertimbal balik'."
+      },
+      "hikmah": "Penggunaan 'مِّنْ' di sini menjelaskan cara atau metode hukuman, yaitu pemotongan yang dilakukan secara 'bersilang' atau 'bertimbal balik', menekankan kekejaman dan penghinaan dari hukuman tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "خِلَٰفٍ",
+      "transliterasi": "khilāfin",
+      "jenis_kata": "Isim",
+      "arti": "perbedaan, pertentangan, bertimbal balik, bersilang",
+      "sharaf": {
+        "akar_kata": "خ ل ف (kha-lam-fa)",
+        "makna_dasar": "Mengganti, berbeda, menyalahi.",
+        "wazan_perubahan": "Isim Masdar dari Fi'il Tsulatsi Mazid (خالف - يُخالف - مخالفة / خلاف). Berwazan فِعَال (fi'āl)."
+      },
+      "nahwu": {
+        "kedudukan": "Isim Majrur",
+        "irab_dan_logika": "Majrur karena didahului oleh Huruf Jar 'مِّنْ'. Tanda jarnya adalah kasrah tanwin. Berfungsi sebagai keterangan cara (hal) pemotongan, yaitu secara bersilang atau bertimbal balik (misalnya tangan kanan dan kaki kiri)."
+      },
+      "hikmah": "Kata ini menggambarkan metode hukuman yang sangat keras dan memalukan, yaitu pemotongan anggota badan secara bersilang. Ini bukan hanya hukuman fisik, tetapi juga simbol penghinaan dan pembalasan atas kerusakan yang mereka timbulkan.",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "أَوْ",
+      "transliterasi": "aw",
+      "jenis_kata": "Huruf",
+      "arti": "atau",
+      "sharaf": {
+        "akar_kata": "Tidak memiliki akar kata (huruf)",
+        "makna_dasar": "Tidak memiliki makna dasar (huruf)",
+        "wazan_perubahan": "Tidak memiliki wazan (huruf)"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf 'Athaf (penghubung)",
+        "irab_dan_logika": "Menghubungkan antara pilihan hukuman sebelumnya (dibunuh, disalib, dipotong tangan dan kaki) dengan pilihan hukuman berikutnya (diusir dari negeri). Menunjukkan pilihan atau alternatif hukuman yang bisa diterapkan."
+      },
+      "hikmah": "Penggunaan 'أَوْ' menunjukkan bahwa Allah SWT memberikan beberapa opsi hukuman yang bisa diterapkan, memberikan fleksibilitas dalam penegakan hukum sesuai dengan tingkat kejahatan dan kondisi yang relevan, namun semua opsi tersebut adalah hukuman yang berat.",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "يُنفَوْا۟",
+      "transliterasi": "yunfaw",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka diusir, mereka dibuang, mereka diasingkan",
+      "sharaf": {
+        "akar_kata": "ن ف ي (nun-fa-ya)",
+        "makna_dasar": "Menyingkirkan, menghilangkan, mengusir.",
+        "wazan_perubahan": "Fi'il Mudhari' Majhul (pasif) dari Bab I (فَعَلَ - يَفْعُلُ/يَفْعِلُ). Bentuk aslinya نَفَى - يَنْفِي. Di sini dalam bentuk pasif يُنْفَى. Karena ada wawu jama'ah, menjadi يُنْفَوْا۟."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Majhul Manshub",
+        "irab_dan_logika": "Manshub karena di-'athaf-kan kepada Fi'il Mudhari' Manshub sebelumnya (تُقَطَّعَ). Tanda nashabnya adalah حذف النون (dihilangkannya nun) karena termasuk Af'alul Khamsah (fi'il lima). Wawu jama'ah (و) adalah Naibul Fa'il (pengganti subjek) yang kembali kepada 'orang-orang yang memerangi Allah dan Rasul-Nya'."
+      },
+      "hikmah": "Hukuman pengasingan atau pengusiran ini menunjukkan bahwa pelaku kejahatan tidak layak lagi berada di tengah masyarakat yang damai. Ini adalah bentuk pembersihan masyarakat dari elemen perusak dan juga pelajaran bagi pelaku serta pencegah bagi orang lain.",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "مِنَ",
+      "transliterasi": "mina",
+      "jenis_kata": "Huruf",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "Tidak memiliki akar kata (huruf)",
+        "makna_dasar": "Tidak memiliki makna dasar (huruf)",
+        "wazan_perubahan": "Tidak memiliki wazan (huruf)"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Jar",
+        "irab_dan_logika": "Berfungsi sebagai huruf jar yang menyebabkan isim setelahnya (ٱلْأَرْضِ) menjadi majrur. Di sini, ia menunjukkan permulaan tempat pengusiran, yaitu 'dari' bumi atau negeri. Harakat nun diubah menjadi fathah (مِنَ) karena bertemu dengan alif lam (ٱلْأَرْضِ) untuk memudahkan pengucapan (kaidah iltiga' as-sakinain)."
+      },
+      "hikmah": "Penggunaan 'مِنَ' menjelaskan batasan atau titik awal dari mana pengusiran itu dilakukan, yaitu dari tempat kediaman mereka. Ini menegaskan bahwa mereka tidak lagi berhak tinggal di sana dan harus meninggalkan wilayah tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "ٱلْأَرْضِ",
+      "transliterasi": "al-arḍi",
+      "jenis_kata": "Isim",
+      "arti": "bumi, tanah, negeri",
+      "sharaf": {
+        "akar_kata": "أ ر ض (alif-ra-dhad)",
+        "makna_dasar": "Tanah, bumi, daratan.",
+        "wazan_perubahan": "Isim Jamid (tidak memiliki wazan sharaf yang aktif karena bukan turunan fi'il secara langsung dalam konteks ini, atau dianggap isim asli)."
+      },
+      "nahwu": {
+        "kedudukan": "Isim Majrur",
+        "irab_dan_logika": "Majrur karena didahului oleh Huruf Jar 'مِنَ'. Tanda jarnya adalah kasrah. Dalam konteks ayat ini, 'ٱلْأَرْضِ' merujuk pada negeri atau wilayah tempat mereka melakukan kerusakan, bukan bumi secara keseluruhan."
+      },
+      "hikmah": "Kata ini menegaskan bahwa hukuman pengusiran bukan hanya dari satu tempat spesifik, melainkan dari wilayah atau negeri secara keseluruhan. Ini menunjukkan bahwa mereka tidak layak lagi menjadi bagian dari masyarakat tersebut dan harus diasingkan sepenuhnya.",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "ۚ",
+      "transliterasi": "Waqf Ja'iz",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "Tanda berhenti (boleh berhenti atau melanjutkan)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Tidak berlaku",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca",
+        "irab_dan_logika": "Tidak memiliki i'rab, berfungsi sebagai penanda jeda yang dianjurkan dalam bacaan Al-Qur'an untuk membantu pemahaman makna."
+      },
+      "hikmah": "Tanda ini menunjukkan bahwa pembaca boleh berhenti sejenak di sini untuk mengambil napas atau melanjutkan bacaan. Berhenti di sini tidak mengubah makna ayat secara signifikan dan membantu dalam memahami struktur kalimat.",
+      "role": "none"
+    },
+    {
+      "index": 25,
+      "kata_arab": "ذَٰلِكَ",
+      "transliterasi": "Dzaalika",
+      "jenis_kata": "Isim Isyarah (Kata Tunjuk)",
+      "arti": "Itu, demikian itu",
+      "sharaf": {
+        "akar_kata": "ذ ل ك (Dzal-Lam-Kaf)",
+        "makna_dasar": "Menunjuk sesuatu yang jauh atau sesuatu yang telah disebutkan sebelumnya. Merupakan *isim isyarah* yang *mabni* (tidak berubah bentuk).",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada' (Subjek)",
+        "irab_dan_logika": "*Mabni* (tetap) di atas *fathah* pada posisi *rafa'*, sebagai *mubtada'*. Ia merujuk pada hukuman-hukuman yang telah disebutkan sebelumnya (dibunuh, disalib, dipotong tangan dan kaki, atau dibuang dari negeri)."
+      },
+      "hikmah": "Kata ini berfungsi sebagai penegasan bahwa semua bentuk hukuman yang telah dijelaskan sebelumnya adalah ketetapan yang pasti dan adil dari Allah. Ini menunjukkan konsekuensi serius dari tindakan memerangi Allah dan Rasul-Nya serta membuat kerusakan di muka bumi.",
+      "role": "none"
+    },
+    {
+      "index": 26,
+      "kata_arab": "لَهُمْ",
+      "transliterasi": "Lahum",
+      "jenis_kata": "Huruf (Lam) + Dhomir (Hum)",
+      "arti": "Bagi mereka, untuk mereka",
+      "sharaf": {
+        "akar_kata": "ل (Lam) + ه م (Ha-Mim)",
+        "makna_dasar": "Menunjukkan kepemilikan, tujuan, atau akibat. Gabungan *huruf jar* (ل) dan *dhomir muttashil* (هُمْ) yang merujuk kepada 'orang-orang yang memerangi Allah dan Rasul-Nya'.",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Jar Majrur (Preposisi dan Objeknya) sebagai Khabar Muqaddam",
+        "irab_dan_logika": "*Lam* adalah *huruf jar* yang menyebabkan *dhomir hum* berada dalam posisi *jar*. *Hum* adalah *dhomir muttashil mabni* di atas *sukun* pada posisi *jar*. Secara keseluruhan, *jar majrur* ini berada pada posisi *rafa'* sebagai *khabar muqaddam* (predikat yang didahulukan) untuk *mubtada'* *خِزْىٌۭ*."
+      },
+      "hikmah": "Penggunaan 'لَهُمْ' secara spesifik mengarahkan dan membatasi bahwa kehinaan dan siksaan yang akan disebutkan selanjutnya adalah *khusus bagi mereka* yang melakukan kejahatan tersebut. Ini menegaskan keadilan Allah dalam memberikan balasan yang tepat sasaran.",
+      "role": "none"
+    },
+    {
+      "index": 27,
+      "kata_arab": "خِزْىٌۭ",
+      "transliterasi": "Khizyun",
+      "jenis_kata": "Isim (Kata Benda)",
+      "arti": "Kehinaan, kerugian, aib",
+      "sharaf": {
+        "akar_kata": "خ ز ي (Kha-Zay-Ya)",
+        "makna_dasar": "Merasa malu, hina, rugi, atau dipermalukan. Kata ini adalah *isim mashdar* yang menunjukkan makna kehinaan atau aib.",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada' Mu'akhkhar (Subjek yang Diakhirkan)",
+        "irab_dan_logika": "*Marfu'* (rafa') dengan *dhammah tanwin* karena sebagai *mubtada' mu'akhkhar*. *Khabar*-nya adalah *jar majrur* *لَهُمْ* yang mendahuluinya. Susunan ini memberikan penekanan pada 'kehinaan' itu sendiri."
+      },
+      "hikmah": "Kata ini menjelaskan esensi dari hukuman di dunia ini, yaitu bukan hanya penderitaan fisik, tetapi juga kehinaan yang mendalam, aib moral, dan kerugian martabat di mata manusia. Ini adalah bentuk hukuman yang merendahkan dan mempermalukan mereka di hadapan umum.",
+      "role": "none"
+    },
+    {
+      "index": 28,
+      "kata_arab": "فِى",
+      "transliterasi": "Fii",
+      "jenis_kata": "Huruf Jar (Preposisi)",
+      "arti": "Di dalam, pada, di",
+      "sharaf": {
+        "akar_kata": "Tidak memiliki akar kata",
+        "makna_dasar": "Menunjukkan tempat, waktu, atau konteks. Berfungsi untuk menghubungkan kata benda setelahnya dengan kata kerja atau kata benda sebelumnya.",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Jar",
+        "irab_dan_logika": "*Huruf jar* yang *mabni* di atas *sukun*. Berfungsi untuk meng-*jar*-kan (membuat *majrur*) *isim* setelahnya."
+      },
+      "hikmah": "Kata 'فِى' ini berfungsi untuk membatasi ruang lingkup kehinaan yang dimaksud. Kehinaan ini secara spesifik terjadi *di* dunia, membedakannya dari siksaan yang lebih besar yang akan mereka terima di akhirat.",
+      "role": "none"
+    },
+    {
+      "index": 29,
+      "kata_arab": "ٱلدُّنْيَا",
+      "transliterasi": "Ad-Dunya",
+      "jenis_kata": "Isim (Kata Benda)",
+      "arti": "Dunia, kehidupan dunia",
+      "sharaf": {
+        "akar_kata": "د ن و (Dal-Nun-Waw)",
+        "makna_dasar": "Berasal dari makna 'dekat' atau 'rendah'. Merujuk pada kehidupan yang paling dekat atau yang paling rendah dibandingkan dengan akhirat. Ini adalah *isim maqshur*.",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Isim Majrur (Objek dari Preposisi)",
+        "irab_dan_logika": "*Majrur* (jar) karena didahului oleh *huruf jar* *فِى*. Tanda *jar*-nya adalah *kasrah muqaddarah* (tersembunyi) di atas *alif maqshurah* (ي) karena terhalang oleh kesulitan pengucapan (ta'addhur)."
+      },
+      "hikmah": "Kata ini menegaskan bahwa kehinaan yang disebutkan adalah kehinaan yang dialami selama kehidupan *dunia* ini. Ini adalah balasan awal atas kejahatan mereka, yang berfungsi sebagai peringatan dan hukuman yang terlihat oleh manusia, sebelum mereka menghadapi siksaan yang jauh lebih berat di akhirat.",
+      "role": "none"
+    },
+    {
+      "index": 30,
+      "kata_arab": "ۖ",
+      "transliterasi": "waqf lazim",
+      "jenis_kata": "Tanda Baca",
+      "arti": "Tanda berhenti sempurna",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Tidak berlaku",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqf (berhenti) dalam Al-Qur'an",
+        "irab_dan_logika": "Tidak berlaku untuk tanda baca"
+      },
+      "hikmah": "Tanda ini menunjukkan bahwa pembaca dianjurkan untuk berhenti secara sempurna pada titik ini untuk memahami makna ayat dengan benar dan menghindari kesalahpahaman.",
+      "role": "none"
+    },
+    {
+      "index": 31,
+      "kata_arab": "وَلَهُمْ",
+      "transliterasi": "wa lahum",
+      "jenis_kata": "Huruf + Huruf + Isim Dhomir",
+      "arti": "dan bagi mereka",
+      "sharaf": {
+        "akar_kata": "ل (lam) - huruf jar; هم (hum) - dhomir",
+        "makna_dasar": "Menunjukkan kepemilikan atau hak (bagi) dan merujuk pada 'mereka' (orang-orang yang memerangi Allah dan Rasul-Nya)",
+        "wazan_perubahan": "Tidak berlaku untuk huruf dan dhomir"
+      },
+      "nahwu": {
+        "kedudukan": "*Wawu* (و) adalah *harf athaf* (kata sambung). *Lam* (ل) adalah *harf jar*. *Hum* (هم) adalah *dhomir muttashil majrur* (kata ganti yang bersambung dan berkedudukan *majrur* karena didahului *harf jar*). Gabungan لَهُمْ membentuk *jar majrur* yang berkedudukan sebagai *khabar muqaddam* (predikat yang didahulukan) untuk *mubtada'* (subjek) عَذَابٌ yang akan datang.",
+        "irab_dan_logika": "و (wawu) adalah *mabni* (tetap) di atas *fathah*. ل (lam) adalah *mabni* di atas *fathah*. هُمْ (hum) adalah *dhomir mabni* di atas *sukun* pada posisi *jar*."
+      },
+      "hikmah": "Kata ini berfungsi sebagai penghubung antara hukuman duniawi yang disebutkan sebelumnya dengan hukuman akhirat. Ia menegaskan bahwa siksaan di akhirat adalah bagian yang pasti dan hak bagi mereka yang melakukan kejahatan tersebut, menunjukkan keadilan ilahi yang menyeluruh.",
+      "role": "none"
+    },
+    {
+      "index": 32,
+      "kata_arab": "فِى",
+      "transliterasi": "fī",
+      "jenis_kata": "Huruf",
+      "arti": "di dalam, pada",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Menunjukkan tempat atau waktu",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "*Harf jar* (kata depan) yang menyebabkan *isim* setelahnya menjadi *majrur*.",
+        "irab_dan_logika": "*Mabni* (tetap) di atas *sukun*."
+      },
+      "hikmah": "Kata ini berfungsi untuk menentukan konteks atau lokasi terjadinya siksaan, yaitu 'di' atau 'pada' kehidupan akhirat, membedakannya dari hukuman di dunia.",
+      "role": "none"
+    },
+    {
+      "index": 33,
+      "kata_arab": "ٱلْءَاخِرَةِ",
+      "transliterasi": "al-ākhirah",
+      "jenis_kata": "Isim",
+      "arti": "akhirat",
+      "sharaf": {
+        "akar_kata": "أ خ ر (a-kh-r)",
+        "makna_dasar": "Belakang, terakhir, kemudian",
+        "wazan_perubahan": "Merupakan *isim* yang berasal dari akar kata 'أخر' (akhir), menunjukkan 'yang terakhir' atau 'kehidupan setelah ini'."
+      },
+      "nahwu": {
+        "kedudukan": "*Isim majrur* karena didahului oleh *harf jar* 'fī'.",
+        "irab_dan_logika": "*Majrur* dengan tanda *kasrah* di akhirnya karena merupakan *isim mufrad* (kata benda tunggal) dan didahului *harf jar*."
+      },
+      "hikmah": "Kata ini merujuk pada kehidupan setelah kematian, menegaskan bahwa hukuman yang sesungguhnya dan abadi menanti di sana, melampaui hukuman duniawi. Ini menekankan dimensi keadilan ilahi yang tidak hanya terbatas pada dunia fana.",
+      "role": "none"
+    },
+    {
+      "index": 34,
+      "kata_arab": "عَذَابٌ",
+      "transliterasi": "ʿadhāb",
+      "jenis_kata": "Isim",
+      "arti": "siksaan, azab",
+      "sharaf": {
+        "akar_kata": "ع ذ ب (ʿ-dh-b)",
+        "makna_dasar": "Menyiksa, menghukum, menjauhkan dari kebaikan",
+        "wazan_perubahan": "Merupakan *mashdar* (kata benda verbal) dari *fi'il madhi* عَذَّبَ (ʿadhdhaba - menyiksa), menunjukkan tindakan atau hasil dari penyiksaan."
+      },
+      "nahwu": {
+        "kedudukan": "*Mubtada' mu'akhkhar* (subjek yang diakhirkan) dari *jumlah ismiyyah* (kalimat nominal) yang dimulai dengan *khabar muqaddam* (predikat yang didahulukan) 'walāhum fī al-ākhirah'.",
+        "irab_dan_logika": "*Marfu'* dengan tanda *dhammah tanwin* di akhirnya karena merupakan *isim mufrad* dan berkedudukan sebagai *mubtada' mu'akhkhar*."
+      },
+      "hikmah": "Kata ini secara langsung menyebutkan jenis hukuman yang akan diterima. Penggunaan *tanwin* (ʿadhābun) bisa menunjukkan keagungan atau kekejaman siksaan tersebut (tanwin at-ta'zhim), mengisyaratkan bahwa ini bukan siksaan biasa, melainkan sesuatu yang sangat berat.",
+      "role": "none"
+    },
+    {
+      "index": 35,
+      "kata_arab": "عَظِيمٌ",
+      "transliterasi": "ʿaẓīm",
+      "jenis_kata": "Isim Sifat (Adjektiva)",
+      "arti": "besar, agung, dahsyat",
+      "sharaf": {
+        "akar_kata": "ع ظ م (ʿ-ẓ-m)",
+        "makna_dasar": "Besar, agung, mulia",
+        "wazan_perubahan": "Merupakan *Shifat Musyabbahah* (kata sifat yang menyerupai *isim fa'il*) atau *Isim Fa'il* dengan wazan فَعِيل (fa'īl), menunjukkan sifat yang melekat dan intens."
+      },
+      "nahwu": {
+        "kedudukan": "*Na'at* (kata sifat) bagi *isim* sebelumnya, yaitu عَذَابٌ (ʿadhāb).",
+        "irab_dan_logika": "*Marfu'* dengan tanda *dhammah tanwin* di akhirnya karena mengikuti *man'ut* (kata yang disifati) عَذَابٌ dalam *i'rab* (keadaan *marfu'*), *nakirah* (indefinit), *mufrad* (tunggal), dan *mudzakkar* (maskulin)."
+      },
+      "hikmah": "Kata ini berfungsi untuk menggambarkan skala dan intensitas siksaan di akhirat. Dengan menyifati 'azab' sebagai 'agung' atau 'dahsyat', Al-Qur'an menekankan bahwa siksaan tersebut bukan sekadar hukuman biasa, melainkan sesuatu yang luar biasa besar dan mengerikan, sesuai dengan keagungan Allah dan beratnya kejahatan mereka.",
+      "role": "none"
+    }
+  ]
+}
