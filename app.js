@@ -62,6 +62,8 @@ const globalChatHistory = document.getElementById('global-chat-history');
 const globalChatInput = document.getElementById('global-chat-input');
 const sendGlobalChatBtn = document.getElementById('send-global-chat-btn');
 const newGlobalChatBtn = document.getElementById('new-global-chat-btn');
+const fullscreenGlobalChatBtn = document.getElementById('fullscreen-global-chat-btn');
+const fullscreenChatBtn = document.getElementById('fullscreen-chat-btn');
 const copyGlobalChatBtn = document.getElementById('copy-global-chat-btn');
 const downloadGlobalChatBtn = document.getElementById('download-global-chat-btn');
 
@@ -309,6 +311,21 @@ function setupEventListeners() {
     if (chatInput) {
         chatInput.addEventListener('keypress', (e) => {
             if (e.key === 'Enter') sendChatMessage();
+        });
+    }
+
+    if (fullscreenChatBtn) {
+        fullscreenChatBtn.addEventListener('click', () => {
+            const modalContent = aiChatModal.querySelector('.modal-content');
+            modalContent.classList.toggle('fullscreen');
+            const icon = fullscreenChatBtn.querySelector('i');
+            if (modalContent.classList.contains('fullscreen')) {
+                icon.classList.remove('fa-expand');
+                icon.classList.add('fa-compress');
+            } else {
+                icon.classList.remove('fa-compress');
+                icon.classList.add('fa-expand');
+            }
         });
     }
 
@@ -2647,6 +2664,21 @@ async function initGlobalChat() {
         sendGlobalChatBtn.addEventListener('click', sendGlobalChatMessage);
         globalChatInput.addEventListener('keypress', (e) => {
             if (e.key === 'Enter') sendGlobalChatMessage();
+        });
+    }
+
+    if (fullscreenGlobalChatBtn) {
+        fullscreenGlobalChatBtn.addEventListener('click', () => {
+            const modalContent = globalAiChatModal.querySelector('.modal-content');
+            modalContent.classList.toggle('fullscreen');
+            const icon = fullscreenGlobalChatBtn.querySelector('i');
+            if (modalContent.classList.contains('fullscreen')) {
+                icon.classList.remove('fa-expand');
+                icon.classList.add('fa-compress');
+            } else {
+                icon.classList.remove('fa-compress');
+                icon.classList.add('fa-expand');
+            }
         });
     }
 
