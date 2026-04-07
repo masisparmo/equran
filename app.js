@@ -2087,7 +2087,7 @@ async function sendChatMessage() {
 
             } catch (err) {
                 console.warn(`Chat Gemini API Key at index ${currentApiKeyIndex} failed. Trying next...`, err);
-                currentApiKeyIndex = (currentApiKeyIndex + 1) % maxGeminiAttempts;
+                currentApiKeyIndex = (currentApiKeyIndex + 1) % apiKeys.length;
                 geminiAttempts++;
             }
         }
@@ -2152,7 +2152,7 @@ async function sendChatMessage() {
 
             } catch (err) {
                 console.warn(`Chat Groq API Key at index ${currentGroqKeyIndex} failed. Trying next...`, err);
-                currentGroqKeyIndex = (currentGroqKeyIndex + 1) % maxGroqAttempts;
+                currentGroqKeyIndex = (currentGroqKeyIndex + 1) % groqApiKeys.length;
                 groqAttempts++;
             }
         }
@@ -2481,18 +2481,6 @@ function startNewChat() {
     setTimeout(() => chatInput.focus(), 100);
 }
 
-            const url = URL.createObjectURL(blob);
-            const a = document.createElement('a');
-            a.href = url;
-            a.download = `Riwayat_Chat_EQuran_${currentWordContext.wordText || 'AI'}_${timestamp}.txt`;
-            document.body.appendChild(a);
-            a.click();
-            document.body.removeChild(a);
-            URL.revokeObjectURL(url);
-        }
-    }
-}
-
 function unescapeHtml(safe) {
     return safe
          .replace(/&amp;/g, "&")
@@ -2786,8 +2774,10 @@ async function sendGlobalChatMessage() {
     // 4. API Call
     let success = false;
     let aiReply = "";
+    let groqAttempts = 0;
+    const maxGroqAttempts = groqApiKeys.length;
+    let lastError = null;
 
-    const apiKey = groqApiKeys[Math.floor(Math.random() * groqApiKeys.length)];
     const endpoint = `https://api.groq.com/openai/v1/chat/completions`;
 
     const requestBody = {
@@ -2796,27 +2786,38 @@ async function sendGlobalChatMessage() {
         temperature: 0.3
     };
 
-    try {
-        const response = await fetch(endpoint, {
-            method: 'POST',
-            headers: {
-                'Content-Type': 'application/json',
-                'Authorization': `Bearer ${apiKey}`
-            },
-            body: JSON.stringify(requestBody)
-        });
+    while (!success && groqAttempts < maxGroqAttempts) {
+        const apiKey = groqApiKeys[currentGroqKeyIndex];
 
-        if (!response.ok) {
-            const errorText = await response.text();
-            throw new Error(`API Error: ${response.status} - ${errorText}`);
+        try {
+            const response = await fetch(endpoint, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'Authorization': `Bearer ${apiKey}`
+                },
+                body: JSON.stringify(requestBody)
+            });
+
+            if (!response.ok) {
+                const errorText = await response.text();
+                throw new Error(`API Error: ${response.status} - ${errorText}`);
+            }
+
+            const data = await response.json();
+            aiReply = data.choices[0].message.content;
+            success = true;
+        } catch (e) {
+            console.warn(`Groq Global Chat error at index ${currentGroqKeyIndex}:`, e);
+            lastError = e;
+            currentGroqKeyIndex = (currentGroqKeyIndex + 1) % groqApiKeys.length;
+            groqAttempts++;
         }
+    }
 
-        const data = await response.json();
-        aiReply = data.choices[0].message.content;
-        success = true;
-    } catch (e) {
-        console.error("Groq Global Chat error:", e);
-        aiReply = "Maaf, terjadi kesalahan saat menghubungi AI Groq. " + e.message;
+    if (!success) {
+        console.error("All Groq Global Chat attempts failed.");
+        aiReply = "Maaf, terjadi kesalahan saat menghubungi AI Groq setelah mencoba semua API Key. " + (lastError ? lastError.message : "");
         // Revert user message from history on fail
         globalChatSessionHistory.pop();
         await localforage.setItem('globalChatHistory', globalChatSessionHistory);
