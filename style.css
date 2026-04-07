@@ -396,6 +396,38 @@ select {
     border-bottom-left-radius: 0;
 }
 
+/* Formatting for markdown content inside AI chat messages */
+.chat-message.ai p {
+    margin-bottom: 12px;
+}
+.chat-message.ai p:last-of-type {
+    margin-bottom: 0;
+}
+.chat-message.ai h1,
+.chat-message.ai h2,
+.chat-message.ai h3,
+.chat-message.ai h4,
+.chat-message.ai h5,
+.chat-message.ai h6 {
+    margin-top: 15px;
+    margin-bottom: 8px;
+    font-weight: 600;
+}
+.chat-message.ai h1 { font-size: 1.4rem; }
+.chat-message.ai h2 { font-size: 1.25rem; }
+.chat-message.ai h3 { font-size: 1.15rem; }
+.chat-message.ai h4 { font-size: 1.05rem; }
+.chat-message.ai h5, .chat-message.ai h6 { font-size: 1rem; }
+
+.chat-message.ai ul,
+.chat-message.ai ol {
+    margin-left: 20px;
+    margin-bottom: 12px;
+}
+.chat-message.ai li {
+    margin-bottom: 4px;
+}
+
 /* Chat Message Action Buttons Container */
 .msg-actions {
     display: flex;
@@ -616,14 +648,29 @@ select {
     color: var(--text-color);
 }
 
-.rich-text-container h2, .rich-text-container h3, .rich-text-container h4 {
+.rich-text-container h1,
+.rich-text-container h2,
+.rich-text-container h3,
+.rich-text-container h4,
+.rich-text-container h5,
+.rich-text-container h6 {
     color: var(--primary-color);
-    margin-top: 20px;
-    margin-bottom: 10px;
+    margin-top: 15px;
+    margin-bottom: 8px;
+    font-weight: 600;
 }
+
+.rich-text-container h1 { font-size: 1.4rem; }
+.rich-text-container h2 { font-size: 1.25rem; }
+.rich-text-container h3 { font-size: 1.15rem; }
+.rich-text-container h4 { font-size: 1.05rem; }
+.rich-text-container h5, .rich-text-container h6 { font-size: 1rem; }
 
 .rich-text-container p {
     margin-bottom: 12px;
+}
+.rich-text-container p:last-of-type {
+    margin-bottom: 0;
 }
 
 .rich-text-container ul, .rich-text-container ol {
