@@ -62,6 +62,8 @@ const globalChatHistory = document.getElementById('global-chat-history');
 const globalChatInput = document.getElementById('global-chat-input');
 const sendGlobalChatBtn = document.getElementById('send-global-chat-btn');
 const newGlobalChatBtn = document.getElementById('new-global-chat-btn');
+const fullscreenGlobalChatBtn = document.getElementById('fullscreen-global-chat-btn');
+const fullscreenChatBtn = document.getElementById('fullscreen-chat-btn');
 const copyGlobalChatBtn = document.getElementById('copy-global-chat-btn');
 const downloadGlobalChatBtn = document.getElementById('download-global-chat-btn');
 
@@ -309,6 +311,21 @@ function setupEventListeners() {
     if (chatInput) {
         chatInput.addEventListener('keypress', (e) => {
             if (e.key === 'Enter') sendChatMessage();
+        });
+    }
+
+    if (fullscreenChatBtn) {
+        fullscreenChatBtn.addEventListener('click', () => {
+            const modalContent = aiChatModal.querySelector('.modal-content');
+            modalContent.classList.toggle('fullscreen');
+            const icon = fullscreenChatBtn.querySelector('i');
+            if (modalContent.classList.contains('fullscreen')) {
+                icon.classList.remove('fa-expand');
+                icon.classList.add('fa-compress');
+            } else {
+                icon.classList.remove('fa-compress');
+                icon.classList.add('fa-expand');
+            }
         });
     }
 
@@ -2087,7 +2104,7 @@ async function sendChatMessage() {
 
             } catch (err) {
                 console.warn(`Chat Gemini API Key at index ${currentApiKeyIndex} failed. Trying next...`, err);
-                currentApiKeyIndex = (currentApiKeyIndex + 1) % maxGeminiAttempts;
+                currentApiKeyIndex = (currentApiKeyIndex + 1) % apiKeys.length;
                 geminiAttempts++;
             }
         }
@@ -2152,7 +2169,7 @@ async function sendChatMessage() {
 
             } catch (err) {
                 console.warn(`Chat Groq API Key at index ${currentGroqKeyIndex} failed. Trying next...`, err);
-                currentGroqKeyIndex = (currentGroqKeyIndex + 1) % maxGroqAttempts;
+                currentGroqKeyIndex = (currentGroqKeyIndex + 1) % groqApiKeys.length;
                 groqAttempts++;
             }
         }
@@ -2481,18 +2498,6 @@ function startNewChat() {
     setTimeout(() => chatInput.focus(), 100);
 }
 
-            const url = URL.createObjectURL(blob);
-            const a = document.createElement('a');
-            a.href = url;
-            a.download = `Riwayat_Chat_EQuran_${currentWordContext.wordText || 'AI'}_${timestamp}.txt`;
-            document.body.appendChild(a);
-            a.click();
-            document.body.removeChild(a);
-            URL.revokeObjectURL(url);
-        }
-    }
-}
-
 function unescapeHtml(safe) {
     return safe
          .replace(/&amp;/g, "&")
@@ -2662,6 +2667,21 @@ async function initGlobalChat() {
         });
     }
 
+    if (fullscreenGlobalChatBtn) {
+        fullscreenGlobalChatBtn.addEventListener('click', () => {
+            const modalContent = globalAiChatModal.querySelector('.modal-content');
+            modalContent.classList.toggle('fullscreen');
+            const icon = fullscreenGlobalChatBtn.querySelector('i');
+            if (modalContent.classList.contains('fullscreen')) {
+                icon.classList.remove('fa-expand');
+                icon.classList.add('fa-compress');
+            } else {
+                icon.classList.remove('fa-compress');
+                icon.classList.add('fa-expand');
+            }
+        });
+    }
+
     if (newGlobalChatBtn) {
         newGlobalChatBtn.addEventListener('click', async () => {
             if (confirm('Yakin ingin memulai obrolan baru? Riwayat obrolan ini akan dihapus permanen.')) {
@@ -2786,8 +2806,10 @@ async function sendGlobalChatMessage() {
     // 4. API Call
     let success = false;
     let aiReply = "";
+    let groqAttempts = 0;
+    const maxGroqAttempts = groqApiKeys.length;
+    let lastError = null;
 
-    const apiKey = groqApiKeys[Math.floor(Math.random() * groqApiKeys.length)];
     const endpoint = `https://api.groq.com/openai/v1/chat/completions`;
 
     const requestBody = {
@@ -2796,27 +2818,38 @@ async function sendGlobalChatMessage() {
         temperature: 0.3
     };
 
-    try {
-        const response = await fetch(endpoint, {
-            method: 'POST',
-            headers: {
-                'Content-Type': 'application/json',
-                'Authorization': `Bearer ${apiKey}`
-            },
-            body: JSON.stringify(requestBody)
-        });
+    while (!success && groqAttempts < maxGroqAttempts) {
+        const apiKey = groqApiKeys[currentGroqKeyIndex];
 
-        if (!response.ok) {
-            const errorText = await response.text();
-            throw new Error(`API Error: ${response.status} - ${errorText}`);
+        try {
+            const response = await fetch(endpoint, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'Authorization': `Bearer ${apiKey}`
+                },
+                body: JSON.stringify(requestBody)
+            });
+
+            if (!response.ok) {
+                const errorText = await response.text();
+                throw new Error(`API Error: ${response.status} - ${errorText}`);
+            }
+
+            const data = await response.json();
+            aiReply = data.choices[0].message.content;
+            success = true;
+        } catch (e) {
+            console.warn(`Groq Global Chat error at index ${currentGroqKeyIndex}:`, e);
+            lastError = e;
+            currentGroqKeyIndex = (currentGroqKeyIndex + 1) % groqApiKeys.length;
+            groqAttempts++;
         }
+    }
 
-        const data = await response.json();
-        aiReply = data.choices[0].message.content;
-        success = true;
-    } catch (e) {
-        console.error("Groq Global Chat error:", e);
-        aiReply = "Maaf, terjadi kesalahan saat menghubungi AI Groq. " + e.message;
+    if (!success) {
+        console.error("All Groq Global Chat attempts failed.");
+        aiReply = "Maaf, terjadi kesalahan saat menghubungi AI Groq setelah mencoba semua API Key. " + (lastError ? lastError.message : "");
         // Revert user message from history on fail
         globalChatSessionHistory.pop();
         await localforage.setItem('globalChatHistory', globalChatSessionHistory);

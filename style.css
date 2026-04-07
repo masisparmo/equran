@@ -445,6 +445,16 @@ select {
     position: relative;
     max-height: 90vh;
     overflow-y: auto;
+    transition: all 0.3s ease;
+}
+
+.modal-content.fullscreen {
+    width: 100% !important;
+    max-width: 100% !important;
+    height: 100% !important;
+    max-height: 100% !important;
+    border-radius: 0 !important;
+    margin: 0 !important;
 }
 
 .close-btn {
