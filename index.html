@@ -20,6 +20,8 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/3.0.6/purify.min.js"></script>
     <!-- localForage for asynchronous IndexedDB storage -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/localforage/1.10.0/localforage.min.js"></script>
+    <!-- html-docx-js for generating .docx files from HTML -->
+    <script src="https://unpkg.com/html-docx-js@0.3.1/dist/html-docx.js"></script>
 </head>
 <body>
 
@@ -271,8 +273,6 @@
                     <p style="font-size: 0.9rem; margin-top: 5px; color: #666;">Berdasarkan konteks penjelasan sebelumnya</p>
                 </div>
                 <div class="action-buttons" style="display: flex; gap: 10px; margin-top: 5px; margin-right: 30px;">
-                    <button id="copy-chat-btn" title="Copy Seluruh Obrolan" class="icon-btn" style="background-color: var(--bg-color); border: 1px solid var(--border-color);"><i class="fas fa-copy" style="color: var(--text-color);"></i></button>
-                    <button id="download-chat-btn" title="Download Riwayat Obrolan" class="icon-btn" style="background-color: var(--bg-color); border: 1px solid var(--border-color);"><i class="fas fa-download" style="color: var(--text-color);"></i></button>
                     <button id="new-chat-btn" title="Obrolan Baru (Bersihkan Chat)" class="icon-btn" style="background-color: var(--bg-color); border: 1px solid var(--border-color);"><i class="fas fa-redo-alt" style="color: var(--text-color);"></i></button>
                 </div>
             </div>
@@ -817,8 +817,6 @@
                     <p style="font-size: 0.9rem; margin-top: 5px; color: #666;">Tanya bebas seputar Al-Quran, Tafsir & Bahasa Arab</p>
                 </div>
                 <div class="action-buttons" style="display: flex; gap: 10px; margin-top: 5px; margin-right: 30px;">
-                    <button id="copy-global-chat-btn" title="Copy Seluruh Obrolan" class="icon-btn" style="background-color: var(--bg-color); border: 1px solid var(--border-color);"><i class="fas fa-copy" style="color: var(--text-color);"></i></button>
-                    <button id="download-global-chat-btn" title="Download Riwayat Obrolan" class="icon-btn" style="background-color: var(--bg-color); border: 1px solid var(--border-color);"><i class="fas fa-download" style="color: var(--text-color);"></i></button>
                     <button id="new-global-chat-btn" title="Obrolan Baru (Bersihkan Chat)" class="icon-btn" style="background-color: var(--bg-color); border: 1px solid var(--border-color);"><i class="fas fa-redo-alt" style="color: var(--text-color);"></i></button>
                 </div>
             </div>
