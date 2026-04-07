@@ -2038,6 +2038,12 @@ async function sendChatMessage() {
     const userMessage = chatInput.value.trim();
     if (!userMessage) return;
 
+    if (apiKeys.length === 0 && groqApiKeys.length === 0) {
+        alert("Fitur ini membutuhkan API Key Gemini atau Groq. Silakan masukkan di Settings.");
+        openModal(document.getElementById('settings-modal'));
+        return;
+    }
+
     // 1. Display User Message
     const escapedUserMsg = escapeHtml(userMessage);
     const userMsgHtml = `
@@ -2076,6 +2082,27 @@ async function sendChatMessage() {
             parts: [{ text: userMessage }]
         });
 
+        // Filter out system messages (if any were added in the future, currently word modal uses user role for context, which is valid for first message)
+        const systemMessages = chatSessionHistory.filter(msg => msg.role === 'system').map(msg => msg.parts[0].text).join('\n');
+
+        const geminiHistory = chatSessionHistory
+            .filter(msg => msg.role !== 'system')
+            .map(msg => ({
+                role: msg.role === 'assistant' ? 'model' : msg.role,
+                parts: [{ text: msg.parts[0].text }]
+            }));
+
+        const requestPayload = {
+            contents: geminiHistory
+        };
+
+        if (systemMessages) {
+            requestPayload.systemInstruction = {
+                role: "system",
+                parts: [{ text: systemMessages }]
+            };
+        }
+
         while (!success && geminiAttempts < maxGeminiAttempts) {
             const apiKey = apiKeys[currentApiKeyIndex];
             const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${apiKey}`;
@@ -2084,7 +2111,7 @@ async function sendChatMessage() {
                 const response = await fetch(url, {
                     method: 'POST',
                     headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify({ contents: chatSessionHistory })
+                    body: JSON.stringify(requestPayload)
                 });
 
                 const data = await response.json();
@@ -2158,10 +2185,7 @@ async function sendChatMessage() {
                 success = true;
 
                 // Update the global Gemini-formatted history so subsequent calls still work
-                chatSessionHistory.push({
-                    role: "user",
-                    parts: [{ text: userMessage }]
-                });
+                // Note: userMessage is already in chatSessionHistory at this point
                 chatSessionHistory.push({
                     role: "model",
                     parts: [{ text: aiReply }]
@@ -2755,8 +2779,8 @@ async function sendGlobalChatMessage() {
     const userMessage = globalChatInput.value.trim();
     if (!userMessage) return;
 
-    if (groqApiKeys.length === 0) {
-        alert("Fitur ini membutuhkan API Key Groq. Silakan masukkan di Settings.");
+    if (apiKeys.length === 0 && groqApiKeys.length === 0) {
+        alert("Fitur ini membutuhkan API Key Gemini atau Groq. Silakan masukkan di Settings.");
         openModal(document.getElementById('settings-modal'));
         return;
     }
@@ -2803,53 +2827,111 @@ async function sendGlobalChatMessage() {
     globalChatHistory.insertAdjacentHTML('beforeend', loadingHtml);
     globalChatHistory.scrollTop = globalChatHistory.scrollHeight;
 
-    // 4. API Call
+    // 4. API Call with Fallback (Gemini -> Groq)
     let success = false;
     let aiReply = "";
-    let groqAttempts = 0;
-    const maxGroqAttempts = groqApiKeys.length;
     let lastError = null;
 
-    const endpoint = `https://api.groq.com/openai/v1/chat/completions`;
+    // 4a. Try Gemini First
+    if (apiKeys.length > 0) {
+        let geminiAttempts = 0;
+        const maxGeminiAttempts = apiKeys.length;
 
-    const requestBody = {
-        model: "openai/gpt-oss-120b",
-        messages: globalChatSessionHistory,
-        temperature: 0.3
-    };
+        // Convert global history (system/user/assistant) to Gemini format
+        // Filter out system messages from history to avoid consecutive user roles
+        const systemMessages = globalChatSessionHistory.filter(msg => msg.role === 'system').map(msg => msg.content).join('\n');
 
-    while (!success && groqAttempts < maxGroqAttempts) {
-        const apiKey = groqApiKeys[currentGroqKeyIndex];
+        const geminiHistory = globalChatSessionHistory
+            .filter(msg => msg.role !== 'system')
+            .map(msg => ({
+                role: msg.role === 'assistant' ? 'model' : msg.role,
+                parts: [{ text: msg.content }]
+            }));
 
-        try {
-            const response = await fetch(endpoint, {
-                method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json',
-                    'Authorization': `Bearer ${apiKey}`
-                },
-                body: JSON.stringify(requestBody)
-            });
+        const requestPayload = {
+            contents: geminiHistory
+        };
 
-            if (!response.ok) {
-                const errorText = await response.text();
-                throw new Error(`API Error: ${response.status} - ${errorText}`);
+        if (systemMessages) {
+            requestPayload.systemInstruction = {
+                role: "system",
+                parts: [{ text: systemMessages }]
+            };
+        }
+
+        while (!success && geminiAttempts < maxGeminiAttempts) {
+            const apiKey = apiKeys[currentApiKeyIndex];
+            const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${apiKey}`;
+
+            try {
+                const response = await fetch(url, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify(requestPayload)
+                });
+
+                const data = await response.json();
+
+                if (data.error) {
+                    throw new Error(data.error.message || 'API Error');
+                }
+
+                aiReply = data.candidates[0].content.parts[0].text;
+                success = true;
+            } catch (err) {
+                console.warn(`Gemini Global Chat error at index ${currentApiKeyIndex}:`, err);
+                lastError = err;
+                currentApiKeyIndex = (currentApiKeyIndex + 1) % apiKeys.length;
+                geminiAttempts++;
             }
+        }
+    }
 
-            const data = await response.json();
-            aiReply = data.choices[0].message.content;
-            success = true;
-        } catch (e) {
-            console.warn(`Groq Global Chat error at index ${currentGroqKeyIndex}:`, e);
-            lastError = e;
-            currentGroqKeyIndex = (currentGroqKeyIndex + 1) % groqApiKeys.length;
-            groqAttempts++;
+    // 4b. Fallback to Groq if Gemini failed or no Gemini keys
+    if (!success && groqApiKeys.length > 0) {
+        let groqAttempts = 0;
+        const maxGroqAttempts = groqApiKeys.length;
+
+        const endpoint = `https://api.groq.com/openai/v1/chat/completions`;
+        const requestBody = {
+            model: "openai/gpt-oss-120b",
+            messages: globalChatSessionHistory,
+            temperature: 0.3
+        };
+
+        while (!success && groqAttempts < maxGroqAttempts) {
+            const apiKey = groqApiKeys[currentGroqKeyIndex];
+
+            try {
+                const response = await fetch(endpoint, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'Authorization': `Bearer ${apiKey}`
+                    },
+                    body: JSON.stringify(requestBody)
+                });
+
+                if (!response.ok) {
+                    const errorText = await response.text();
+                    throw new Error(`API Error: ${response.status} - ${errorText}`);
+                }
+
+                const data = await response.json();
+                aiReply = data.choices[0].message.content;
+                success = true;
+            } catch (e) {
+                console.warn(`Groq Global Chat error at index ${currentGroqKeyIndex}:`, e);
+                lastError = e;
+                currentGroqKeyIndex = (currentGroqKeyIndex + 1) % groqApiKeys.length;
+                groqAttempts++;
+            }
         }
     }
 
     if (!success) {
-        console.error("All Groq Global Chat attempts failed.");
-        aiReply = "Maaf, terjadi kesalahan saat menghubungi AI Groq setelah mencoba semua API Key. " + (lastError ? lastError.message : "");
+        console.error("All AI Global Chat attempts failed.");
+        aiReply = "Maaf, terjadi kesalahan saat menghubungi AI setelah mencoba Gemini dan Groq API. " + (lastError ? lastError.message : "");
         // Revert user message from history on fail
         globalChatSessionHistory.pop();
         await localforage.setItem('globalChatHistory', globalChatSessionHistory);
