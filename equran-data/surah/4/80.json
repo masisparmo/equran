@@ -1,0 +1,240 @@
+{
+  "surah": 4,
+  "ayah": 80,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "مَّن",
+      "transliterasi": "Man",
+      "jenis_kata": "Isim",
+      "arti": "Barangsiapa",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "Menunjukkan keumuman dan syarat",
+        "wazan_perubahan": "Isim Syarat"
+      },
+      "nahwu": {
+        "kedudukan": "Isim Syarat, Mubtada'",
+        "irab_dan_logika": "Mabni (tetap) di atas sukun, dalam posisi rafa' sebagai mubtada' (subjek kalimat). Mengawali kalimat syarat."
+      },
+      "hikmah": "Kata 'مَّن' (man) di sini berfungsi sebagai kata syarat yang umum, menunjukkan bahwa *siapa pun* yang memenuhi syarat (mentaati Rasul) akan mendapatkan konsekuensi yang disebutkan selanjutnya. Ini menekankan universalitas dan keadilan hukum Allah.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "يُطِعِ",
+      "transliterasi": "Yuṭi'i",
+      "jenis_kata": "Fi'il",
+      "arti": "Dia mentaati",
+      "sharaf": {
+        "akar_kata": "ط و ع (ṭ-w-'-a)",
+        "makna_dasar": "Patuh, taat, tunduk",
+        "wazan_perubahan": "Fi'il Mudhari' (kata kerja sekarang/akan datang) dari Bab IV (أَفْعَلَ - يُفْعِلُ)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Syarat (kata kerja syarat)",
+        "irab_dan_logika": "Majzum (dijazmkan) karena menjadi fi'il syarat dari isim syarat 'مَّن'. Tanda jazm-nya adalah sukun pada huruf 'ain (ع), namun diubah menjadi kasrah (يُطِعِ) untuk menghindari pertemuan dua sukun dengan alif lam pada kata berikutnya (ٱلرَّسُولَ). Huruf 'ya' (ي) pada bentuk aslinya (يُطِيعُ) dihilangkan karena bertemu dua sukun."
+      },
+      "hikmah": "Kata 'يُطِعِ' (yuṭi'i) menunjukkan tindakan ketaatan yang aktif dan berkelanjutan. Penggunaan fi'il mudhari' di sini mengindikasikan bahwa ketaatan adalah sebuah proses yang harus terus-menerus dilakukan, bukan hanya sekali saja.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "ٱلرَّسُولَ",
+      "transliterasi": "Ar-Rasūla",
+      "jenis_kata": "Isim",
+      "arti": "Rasul itu, Utusan itu",
+      "sharaf": {
+        "akar_kata": "ر س ل (r-s-l)",
+        "makna_dasar": "Mengutus, mengirim",
+        "wazan_perubahan": "Isim Maf'ul (yang diutus) dengan makna fa'il (yang mengemban risalah)"
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul Bih (objek)",
+        "irab_dan_logika": "Mansub (berharakat fathah) karena menjadi objek dari fi'il 'يُطِعِ'. Tanda nasb-nya adalah fathah pada huruf lam (ل)."
+      },
+      "hikmah": "Kata 'ٱلرَّسُولَ' (ar-rasūla) merujuk secara spesifik kepada Nabi Muhammad ﷺ sebagai utusan Allah. Ketaatan kepadanya bukanlah ketaatan kepada pribadi semata, melainkan ketaatan kepada risalah yang dibawanya dari Allah SWT.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "فَقَدْ",
+      "transliterasi": "Faqad",
+      "jenis_kata": "Huruf",
+      "arti": "Maka sungguh, maka sesungguhnya",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "Menghubungkan dan menegaskan",
+        "wazan_perubahan": "Huruf 'athaf (penghubung) dan Huruf Tahqiq (penegas)"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf 'athaf dan Huruf Tahqiq",
+        "irab_dan_logika": "Huruf 'athaf 'فَ' (fa') berfungsi sebagai penghubung antara syarat dan jawab syarat, menunjukkan konsekuensi langsung. Huruf 'قَدْ' (qad) adalah huruf tahqiq yang masuk pada fi'il madhi untuk memberikan penekanan dan kepastian makna. Keduanya mabni (tetap)."
+      },
+      "hikmah": "Gabungan 'فَقَدْ' (faqad) ini sangat penting. Huruf 'فَ' menunjukkan hubungan sebab-akibat yang logis dan langsung, sementara 'قَدْ' memberikan penekanan kuat dan kepastian bahwa konsekuensi dari ketaatan kepada Rasul itu adalah suatu *kenyataan yang pasti*.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "أَطَاعَ",
+      "transliterasi": "Aṭā'a",
+      "jenis_kata": "Fi'il",
+      "arti": "Dia telah mentaati",
+      "sharaf": {
+        "akar_kata": "ط و ع (ṭ-w-'-a)",
+        "makna_dasar": "Patuh, taat, tunduk",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau) dari Bab IV (أَفْعَلَ - يُفْعِلُ)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Madhi, Jawab Syarat (jawaban dari kalimat syarat)",
+        "irab_dan_logika": "Mabni (tetap) di atas fathah. Fa'il (subjek) dari fi'il ini adalah dhamir mustatir (kata ganti tersembunyi) 'هو' (dia) yang kembali kepada 'مَّن' (barangsiapa)."
+      },
+      "hikmah": "Penggunaan fi'il madhi 'أَطَاعَ' (aṭā'a) di sini menunjukkan bahwa ketaatan kepada Allah adalah sebuah *fakta yang telah terjadi dan pasti* sebagai hasil dari ketaatan kepada Rasul. Ini menegaskan bahwa kedua ketaatan tersebut tidak terpisahkan dan memiliki dampak yang sama.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "ٱللَّهَ",
+      "transliterasi": "Allāha",
+      "jenis_kata": "Isim",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "أ ل ه (a-l-h)",
+        "makna_dasar": "Tuhan, yang disembah",
+        "wazan_perubahan": "Isim 'Alam (nama diri), tidak memiliki wazan sharaf dalam arti perubahan bentuk kata kerja/benda."
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul Bih (objek)",
+        "irab_dan_logika": "Mansub (berharakat fathah) karena menjadi objek dari fi'il 'أَطَاعَ'. Tanda nasb-nya adalah fathah pada huruf ha' (ه)."
+      },
+      "hikmah": "Kata 'ٱللَّهَ' (Allāha) sebagai objek ketaatan menegaskan inti dari ajaran Islam: bahwa ketaatan kepada Rasul adalah manifestasi dari ketaatan kepada Allah SWT. Ini menunjukkan bahwa Rasul adalah jembatan penghubung antara hamba dan Tuhannya dalam menyampaikan perintah dan larangan.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "ۖ",
+      "transliterasi": "Waqf Laazim",
+      "jenis_kata": "Tanda Waqf",
+      "arti": "Berhenti wajib",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Titik henti bacaan",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Tidak berlaku",
+        "irab_dan_logika": "Tidak berlaku"
+      },
+      "hikmah": "Tanda *waqf laazim* (وقف لازم) ini menunjukkan bahwa seorang pembaca Al-Qur'an *wajib berhenti* pada titik ini. Hal ini penting untuk menjaga kesempurnaan makna ayat dan menghindari kesalahpahaman jika disambung.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "وَمَن",
+      "transliterasi": "Wa man",
+      "jenis_kata": "Huruf dan Isim",
+      "arti": "Dan barangsiapa",
+      "sharaf": {
+        "akar_kata": "Tidak memiliki akar kata tradisional karena merupakan partikel dan isim mabni.",
+        "makna_dasar": "Penghubung dan syarat",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "`وَ` (wawu) adalah *huruf athaf* (penghubung). `مَن` (man) adalah *isim syarat* (kata benda syarat) yang berkedudukan sebagai *mubtada'* (subjek) dalam kalimat syarat.",
+        "irab_dan_logika": "`وَ` adalah *huruf mabniyyun 'alal fath* (tetap dengan harakat fathah) *laa mahalla lahu minal i'rab* (tidak memiliki kedudukan i'rab). `مَن` adalah *isim syarat mabniyyun 'alas sukun* (tetap dengan harakat sukun) *fi mahalli rafa'* (dalam posisi rafa') sebagai *mubtada'*. Kalimat syarat dan jawabnya menjadi *khabar* (predikat) bagi `مَن`."
+      },
+      "hikmah": "Penggunaan `وَمَن` di sini menunjukkan adanya *kontras* atau *perbandingan* dengan pernyataan sebelumnya. Ia memperkenalkan *kondisi baru* dan *konsekuensi* yang akan terjadi jika seseorang memilih jalan yang berbeda, yaitu berpaling dari ketaatan.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "تَوَلَّىٰ",
+      "transliterasi": "Tawallā",
+      "jenis_kata": "Fi'il Madhi",
+      "arti": "Berpaling",
+      "sharaf": {
+        "akar_kata": "و ل ي (W-L-Y)",
+        "makna_dasar": "Mengikuti, menguasai, membelakangi, berpaling",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau) dari *Bab Tafa''ala* (تَفَعَّلَ). Bentuk aslinya adalah تَوَلَّىٰ."
+      },
+      "nahwu": {
+        "kedudukan": "Sebagai *fi'il syarat* (kata kerja syarat) untuk `مَن`.",
+        "irab_dan_logika": "Ini adalah *fi'il madhi mabniyyun 'alal fath al-muqaddar 'alal alif al-maqsurah* (kata kerja lampau yang tetap dengan fathah yang diperkirakan pada alif maqsurah) karena diakhiri dengan alif. *Fa'il* (subjek)nya adalah *dhomir mustatir jawazan* (kata ganti tersembunyi yang boleh ditampakkan) yang taqdirnya `هو` (dia), kembali kepada `مَن`. Fi'il ini berada *fi mahalli jazm* (dalam posisi jazm) karena merupakan fi'il syarat."
+      },
+      "hikmah": "Kata `تَوَلَّىٰ` secara spesifik menggambarkan tindakan *memalingkan diri* atau *menjauhkan diri* dari ketaatan. Ini bukan sekadar tidak taat, tetapi sebuah *pilihan sadar* untuk berpaling, menunjukkan penolakan terhadap petunjuk yang telah diberikan.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "فَمَآ",
+      "transliterasi": "Fa mā",
+      "jenis_kata": "Huruf",
+      "arti": "Maka tidaklah",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Menyatakan konsekuensi dan penafian",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "`فَ` (fa) adalah *huruf jawab syarat* (huruf yang mengikat jawaban syarat). `مَآ` (ma) adalah *huruf nafiyah* (huruf penafian).",
+        "irab_dan_logika": "Keduanya adalah *huruf mabniyyun* (tetap) *laa mahalla lahuma minal i'rab* (tidak memiliki kedudukan i'rab). `فَ` berfungsi untuk mengikat kalimat jawab syarat, sedangkan `مَآ` menafikan atau meniadakan makna fi'il setelahnya."
+      },
+      "hikmah": "Penggunaan `فَمَآ` di sini secara tegas menunjukkan *konsekuensi langsung* dari tindakan berpaling. `فَ` mengindikasikan hasil yang tak terhindarkan, dan `مَآ` menegaskan *penafian peran* Rasul dalam konteks pemeliharaan bagi mereka yang memilih untuk berpaling.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "أَرْسَلْنَٰكَ",
+      "transliterasi": "Arsalnāka",
+      "jenis_kata": "Fi'il dan Dhomir",
+      "arti": "Kami mengutusmu",
+      "sharaf": {
+        "akar_kata": "ر س ل (R-S-L)",
+        "makna_dasar": "Mengutus, mengirim",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau) dari *Bab Af'ala* (أَفْعَلَ). Bentuk aslinya adalah أَرْسَلَ."
+      },
+      "nahwu": {
+        "kedudukan": "`أَرْسَلْنَا` adalah *fi'il* (kata kerja) dan *fa'il* (subjek) yang berfungsi sebagai *jawab syarat* (jawaban dari kalimat syarat). `كَ` adalah *dhomir muttasil* (kata ganti bersambung) yang berkedudukan sebagai *maf'ul bihi* (objek langsung).",
+        "irab_dan_logika": "`أَرْسَلْنَا` adalah *fi'il madhi mabniyyun 'alas sukun* (tetap dengan harakat sukun) karena bersambung dengan *naa al-fa'ilin* (نا الفاعلين). `نَا` adalah *dhomir muttasil mabniyyun 'alas sukun fi mahalli rafa' fa'il* (kata ganti bersambung yang tetap dengan sukun dalam posisi rafa' sebagai subjek). `كَ` adalah *dhomir muttasil mabniyyun 'alal fath fi mahalli nashb maf'ul bihi* (kata ganti bersambung yang tetap dengan fathah dalam posisi nashb sebagai objek)."
+      },
+      "hikmah": "Pernyataan `أَرْسَلْنَٰكَ` ini adalah *penegasan ilahi* tentang *batas-batas tugas* kenabian. Allah mengutus Rasul untuk menyampaikan risalah, bukan untuk memaksa orang beriman atau menjadi penanggung jawab atas pilihan keimanan mereka. Ini menunjukkan bahwa *hidayah adalah hak prerogatif Allah*, dan tugas Rasul adalah sebagai penyampai.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "عَلَيْهِمْ",
+      "transliterasi": "Alayhim",
+      "jenis_kata": "Huruf dan Dhomir",
+      "arti": "Atas mereka",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Menunjukkan kepemilikan, tanggung jawab, atau arah",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "`عَلَى` adalah *huruf jar* (preposisi). `هِمْ` adalah *dhomir muttasil* (kata ganti bersambung) yang menjadi *majrur* (kata yang di-jar-kan) oleh `عَلَى`. Gabungan *jar majrur* ini *muta'alliq* (terkait) dengan makna 'pemelihara' (حفيظ) yang tersirat dalam konteks ayat, atau dengan fi'il `أَرْسَلْنَٰكَ` dalam konteks penafian.",
+        "irab_dan_logika": "`عَلَى` adalah *huruf jar mabniyyun 'alas sukun* (tetap dengan sukun) *laa mahalla lahu minal i'rab*. `هِمْ` adalah *dhomir muttasil mabniyyun 'alas sukun fi mahalli jarr bi al-harf* (kata ganti bersambung yang tetap dengan sukun dalam posisi jarr karena huruf jar). Jar majrur ini secara makna menjelaskan batas tugas Rasul, yaitu bukan sebagai pengawas *atas mereka*."
+      },
+      "hikmah": "Frasa `عَلَيْهِمْ` ini menegaskan bahwa Rasulullah ﷺ tidak memiliki *otoritas penuh* atau *tanggung jawab mutlak* atas setiap individu yang berpaling. Tugasnya adalah menyampaikan, sementara *pertanggungjawaban akhir* atas pilihan mereka ada pada diri mereka sendiri di hadapan Allah. Ini menekankan prinsip *kebebasan memilih* dan *tanggung jawab pribadi* dalam Islam.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "حَفِيظًۭا",
+      "transliterasi": "Hafizan",
+      "jenis_kata": "Isim",
+      "arti": "Penjaga, pemelihara, pelindung",
+      "sharaf": {
+        "akar_kata": "ح ف ظ (Ha-Fa-Zha)",
+        "makna_dasar": "Menjaga, memelihara, melindungi, menghafal.",
+        "wazan_perubahan": "فَعِيل (Fa'il) - Ini adalah bentuk *sighah mubalaghah* (bentuk intensif) dari *isim fa'il* (pelaku), yang menunjukkan makna 'sangat menjaga' atau 'penjaga yang sempurna/banyak'."
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul Bih Tsani (objek kedua) dari fi'il `أَرْسَلْنَاكَ` (arsalnāka), yang dalam konteks ini bermakna 'menjadikan' atau 'mengutus dalam kapasitas'.",
+        "irab_dan_logika": "Manshub (berharakat fathah) karena merupakan Maf'ul Bih Tsani. Tanda nashabnya adalah fathah tanwin (ـًا)."
+      },
+      "hikmah": "Kata `حَفِيظًۭا` (Hafizan) dalam konteks ayat ini menegaskan bahwa tugas Rasulullah ﷺ adalah menyampaikan risalah, bukan memaksa orang untuk beriman atau menjadi penjaga atas amal perbuatan mereka. Allah-lah satu-satunya Penjaga dan Pemelihara sejati. Ini menunjukkan batasan peran kenabian dan menekankan kebebasan kehendak manusia dalam memilih jalan keimanan atau kekufuran, serta bahwa pertanggungjawaban akhir ada pada Allah.",
+      "role": "none"
+    }
+  ]
+}

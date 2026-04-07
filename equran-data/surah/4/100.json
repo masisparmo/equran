@@ -1,0 +1,510 @@
+{
+  "surah": 4,
+  "ayah": 100,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "وَمَن",
+      "transliterasi": "wa‑man",
+      "jenis_kata": "Isim",
+      "arti": "dan siapa",
+      "sharaf": {
+        "akar_kata": "م ن",
+        "makna_dasar": "siapa",
+        "wazan_perubahan": "مَان"
+      },
+      "nahwu": {
+        "kedudukan": "اسم شرط",
+        "irab_dan_logika": "مرفوع بالضمة لأنه اسم شرط"
+      },
+      "hikmah": "menunjukkan subjek yang belum ditentukan, menekankan bahwa siapa pun yang melakukan hijrah akan memperoleh ganjaran",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "يُهَاجِرْ",
+      "transliterasi": "yuḥājir",
+      "jenis_kata": "Fi'il",
+      "arti": "berhijrah",
+      "sharaf": {
+        "akar_kata": "ه ج ر",
+        "makna_dasar": "hijrah",
+        "wazan_perubahan": "فَعَلَ (يَفْعَل)"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مجزوم",
+        "irab_dan_logika": "مجزوم بالفتحة الظاهرة على آخره (سكون) karena فعل الشرط بعد اسم الشرط \"من\""
+      },
+      "hikmah": "menyiratkan tindakan aktif meninggalkan tempat asal demi Allah",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "فِى",
+      "transliterasi": "fi",
+      "jenis_kata": "Huruf",
+      "arti": "di",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر",
+        "irab_dan_logika": "حرف جر لا إعراب له، والاسم التالي (سَبِيلِ) مجرور"
+      },
+      "hikmah": "menunjukkan tempat atau arah hijrah, yaitu \"di jalan\"",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "سَبِيلِ",
+      "transliterasi": "sabīli",
+      "jenis_kata": "Isim",
+      "arti": "jalan",
+      "sharaf": {
+        "akar_kata": "س ب ل",
+        "makna_dasar": "jalan, cara",
+        "wazan_perubahan": "فَعِل"
+      },
+      "nahwu": {
+        "kedudukan": "اسم مجرور بحرف الجر \"في\"",
+        "irab_dan_logika": "مجرور بالكسرة لأنه مضاف إليه"
+      },
+      "hikmah": "menunjuk pada cara atau jalan yang dituju dalam mengabdi kepada Allah",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "ٱللَّهِ",
+      "transliterasi": "Allāhi",
+      "jenis_kata": "Isim",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "ل ه",
+        "makna_dasar": "Tuhan",
+        "wazan_perubahan": "مُفَعَّل"
+      },
+      "nahwu": {
+        "kedudukan": "مضاف إليه",
+        "irab_dan_logika": "مجرور بالكسرة لأنه مضاف إليه"
+      },
+      "hikmah": "menegaskan bahwa hijrah itu ditujukan kepada Allah semata",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "يَجِدْ",
+      "transliterasi": "yajid",
+      "jenis_kata": "Fi'il",
+      "arti": "menemukan",
+      "sharaf": {
+        "akar_kata": "ج د",
+        "makna_dasar": "temukan",
+        "wazan_perubahan": "يفعل"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مجزوم (جواب الشرط)",
+        "irab_dan_logika": "مجزوم بالفتحة الظاهرة على آخره (سكون) لأنه جواب الشرط"
+      },
+      "hikmah": "menyiratkan janji Allah bahwa hijrah akan dibalas dengan tempat yang luas dan rezeki yang melimpah",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "فِى",
+      "transliterasi": "fi",
+      "jenis_kata": "Huruf (jar)",
+      "arti": "di, dalam",
+      "sharaf": {
+        "akar_kata": "ف-ي",
+        "makna_dasar": "menunjukkan tempat atau keadaan",
+        "wazan_perubahan": "tidak ada (huruf)"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar yang menghubungkan ke kata *الْأَرْضِ*",
+        "irab_dan_logika": "Majrur dengan kasrah karena huruf jar; menandakan hubungan tempat"
+      },
+      "hikmah": "Menunjukkan bahwa apa yang dicari berada **di bumi**.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "ٱلْأَرْضِ",
+      "transliterasi": "al‑arḍi",
+      "jenis_kata": "Isim (isim majrur)",
+      "arti": "bumi, tanah",
+      "sharaf": {
+        "akar_kata": "ر‑ض‑",
+        "makna_dasar": "tanah, permukaan bumi",
+        "wazan_perubahan": "maf‘ala (مَفْعَل)"
+      },
+      "nahwu": {
+        "kedudukan": "Isim majrur setelah huruf jar *فِى*",
+        "irab_dan_logika": "Majrur dengan kasrah (ـِ) karena dipengaruhi huruf jar"
+      },
+      "hikmah": "Menyiratkan bahwa hijrah akan menemukan **tempat di bumi** yang luas.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "مُرَٰغَمًۭا",
+      "transliterasi": "murāghaman",
+      "jenis_kata": "Isim (isim maf‘ūl, mansūb)",
+      "arti": "tempat yang luas, penuh",
+      "sharaf": {
+        "akar_kata": "ر‑غ‑م",
+        "makna_dasar": "menumpuk, melimpah",
+        "wazan_perubahan": "maf‘ala (مُفَعَّل)"
+      },
+      "nahwu": {
+        "kedudukan": "Objek mansūb yang melengkapi predikat *يَجِدُهُ*",
+        "irab_dan_logika": "Dinasb dengan tanwin dammah (ـً) karena berfungsi sebagai maf‘ūl mutlaq"
+      },
+      "hikmah": "Hijrah akan menemukan **tempat yang melimpah dan tidak sempit**.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "كَثِيرًۭا",
+      "transliterasi": "kathīran",
+      "jenis_kata": "Isim (isim sifat, mansūb)",
+      "arti": "banyak",
+      "sharaf": {
+        "akar_kata": "ك‑ث‑ر",
+        "makna_dasar": "kelimpahan, banyaknya",
+        "wazan_perubahan": "fa‘īl (كَثِير)"
+      },
+      "nahwu": {
+        "kedudukan": "Sifat (naṣb) yang menerangkan *رِزْقًا*",
+        "irab_dan_logika": "Mansūb dengan tanwin dammah (ـً) karena menjadi bagian dari objek *رِزْقًا*"
+      },
+      "hikmah": "Rezeki yang diperoleh akan **sangat melimpah**.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "وَسَعَةًۭ",
+      "transliterasi": "wa‑sa‘ahatan",
+      "jenis_kata": "Huruf + Isim (isim maf‘ūl, mansūb)",
+      "arti": "dan kelapangan",
+      "sharaf": {
+        "akar_kata": "س‑ع‑و",
+        "makna_dasar": "luas, ruang yang cukup",
+        "wazan_perubahan": "fa‘ah (سَعَة)"
+      },
+      "nahwu": {
+        "kedudukan": "Isim mansūb yang dihubungkan dengan *و* (wa) sebagai konjungsi",
+        "irab_dan_logika": "Mansūb dengan tanwin dammah (ـً) karena menjadi bagian dari rangkaian objek *مُرَاغَمًا*"
+      },
+      "hikmah": "Selain kelimpahan, hijrah juga memberi **kelapangan ruang hidup**.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "ۚ",
+      "transliterasi": "ۚ",
+      "jenis_kata": "Tanda baca (waqf)",
+      "arti": "tanda berhenti ayat",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Penanda akhir ayat",
+        "irab_dan_logika": "Tidak berirab; berfungsi sebagai pemisah"
+      },
+      "hikmah": "Menandai **akhir** ayat, memberi jeda bagi pembaca.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "وَمَن",
+      "transliterasi": "wa‑man",
+      "jenis_kata": "Huruf (wa) + Isim (man)",
+      "arti": "dan siapa",
+      "sharaf": {
+        "akar_kata": "م‑ن‑",
+        "makna_dasar": "siapa",
+        "wazan_perubahan": "مَن (isim mawsul)"
+      },
+      "nahwu": {
+        "kedudukan": "kata sambung + isim moṣūl yang menjadi مبتدأ (subjek) bagi فعل يَخْرُجْ",
+        "irab_dan_logika": "مَن مرفوع بالضمة المستترة لأنه اسم موصول مبني على الضم في محل رفع مبتدأ"
+      },
+      "hikmah": "Menegaskan bahwa siapa pun yang melakukan tindakan hijrah, termasuk yang keluar dari rumahnya, akan memperoleh pahala.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "يَخْرُجْ",
+      "transliterasi": "yakhruju",
+      "jenis_kata": "Fiʿil (verb)",
+      "arti": "keluar",
+      "sharaf": {
+        "akar_kata": "خ‑ر‑ج",
+        "makna_dasar": "keluar, meninggalkan",
+        "wazan_perubahan": "فَعَلَ (faʿala)"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع",
+        "irab_dan_logika": "مرفوع بالضمة الظاهرة على آخره لأن الفاعل هو من (مَن) وهو مرفوع"
+      },
+      "hikmah": "Menunjukkan tindakan aktif meninggalkan tempat tinggal demi hijrah.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "مِنۢ",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf (preposisi)",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر",
+        "irab_dan_logika": "حرف جر يجر الاسم التالي (بَيْتِهِ) ويُعرب اسمًا مجرورًا"
+      },
+      "hikmah": "Menandakan asal atau titik keberangkatan hijrah, yaitu rumah seseorang.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "بَيْتِهِۦ",
+      "transliterasi": "baytihi",
+      "jenis_kata": "Isim (noun) + ضمير متصل",
+      "arti": "rumahnya",
+      "sharaf": {
+        "akar_kata": "ب‑ي‑ت",
+        "makna_dasar": "rumah, tempat tinggal",
+        "wazan_perubahan": "فَعِل"
+      },
+      "nahwu": {
+        "kedudukan": "اسم مجرور بحرف الجر مِن",
+        "irab_dan_logika": "مجرور بالكسرة لأنه تابع لحرف الجر مِن، والضمير المتصل هِ في محل جر مضاف إليه"
+      },
+      "hikmah": "Menegaskan bahwa hijrah dimulai dari rumah pribadi masing‑masing.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "مُهَاجِرًا",
+      "transliterasi": "muhājiran",
+      "jenis_kata": "Isim (nama fiʿl) – حال منصوب",
+      "arti": "orang yang hijrah",
+      "sharaf": {
+        "akar_kata": "ه‑ج‑ر",
+        "makna_dasar": "hijrah, berpindah",
+        "wazan_perubahan": "مُفَعِل (mu‑faʿil)"
+      },
+      "nahwu": {
+        "kedudukan": "حال منصوبة (مفعول به شبه) مرفقة بالفعل يَخْرُجْ",
+        "irab_dan_logika": "منصوبة بالفتحة لأنها حال منصوب يصف الفعل يَخْرُجْ"
+      },
+      "hikmah": "Menggambarkan kualitas orang yang keluar: ia adalah seorang hijrah, bukan sekadar meninggalkan rumah.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "إِلَى",
+      "transliterasi": "ilā",
+      "jenis_kata": "Huruf (preposisi)",
+      "arti": "kepada",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر",
+        "irab_dan_logika": "حرف جر يجر الاسم التالي (اللَّهِ) ويُعرب اسمًا مجرورًا"
+      },
+      "hikmah": "Menunjukkan tujuan hijrah, yaitu kepada Allah dan Rasul-Nya, bukan sekadar perpindahan fisik.",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "ٱللَّهِ",
+      "transliterasi": "Allāhi",
+      "jenis_kata": "Isim",
+      "arti": "Allah (Tuhan)",
+      "sharaf": {
+        "akar_kata": "ه-ل-ل",
+        "makna_dasar": "Yang Maha Esa, Tuhan",
+        "wazan_perubahan": "Isim mutlak (tidak berubah)"
+      },
+      "nahwu": {
+        "kedudukan": "Mudhaf ilaih (objek preposisi *min*)",
+        "irab_dan_logika": "Majrur dengan kasra karena preposisi *من*"
+      },
+      "hikmah": "Menunjukkan bahwa segala sesuatu, termasuk hijrah, berada dalam kehendak Allah.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "وَرَسُولِهِۦ",
+      "transliterasi": "wa Rasūlihi",
+      "jenis_kata": "Isim",
+      "arti": "dan Rasul-Nya",
+      "sharaf": {
+        "akar_kata": "ر-س-ل",
+        "makna_dasar": "mengirim, mengutus",
+        "wazan_perubahan": "Isim maf‘ūl *rasūl* + i‘rāb mudhaf ilaih *-i* + zamir *-hi*"
+      },
+      "nahwu": {
+        "kedudukan": "Bagian dari frasa *min Allāhi wa Rasūlihi* (mudhaf ilaih)",
+        "irab_dan_logika": "Majrur dengan kasra karena preposisi *من*; *wa* sebagai huruf alif baṣmala menghubungkan dua mudhaf"
+      },
+      "hikmah": "Hijrah ditujukan kepada Allah dan Rasul‑Nya, menegaskan kepatuhan kepada petunjuk ilahi.",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "ثُمَّ",
+      "transliterasi": "thumma",
+      "jenis_kata": "Huruf",
+      "arti": "kemudian",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": "huruf"
+      },
+      "nahwu": {
+        "kedudukan": "Harf istifham/ta‘rīf yang menghubungkan dua peristiwa",
+        "irab_dan_logika": "Tidak ber‑i‘rāb karena termasuk huruf"
+      },
+      "hikmah": "Menunjukkan urutan kronologis antara hijrah dan kedatangan maut.",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "يُدْرِكْهُ",
+      "transliterasi": "yudrik'hu",
+      "jenis_kata": "Fi'il",
+      "arti": "menangkapnya / menimpanya",
+      "sharaf": {
+        "akar_kata": "د-ر-ك",
+        "makna_dasar": "menyentuh, mencapai, menimpa",
+        "wazan_perubahan": "fi‘l mudhari‘ majzūm bi‑sukūn pada huruf akhir karena huruf *hu*"
+      },
+      "nahwu": {
+        "kedudukan": "Fi‘l mudhari‘ (predikat) dengan zamir *hu* sebagai objeknya",
+        "irab_dan_logika": "Majzūm bi‑sukūn karena adanya huruf *hu* yang meniadakan harakat akhir"
+      },
+      "hikmah": "Menegaskan bahwa maut akan menimpa orang yang meninggal sebelum mencapai tujuan hijrah.",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "ٱلْمَوْتُ",
+      "transliterasi": "al‑mawtu",
+      "jenis_kata": "Isim",
+      "arti": "kematian",
+      "sharaf": {
+        "akar_kata": "م-و-ت",
+        "makna_dasar": "mati",
+        "wazan_perubahan": "isim fa‘īl *mawt* dengan al‑*alif lam* definit"
+      },
+      "nahwu": {
+        "kedudukan": "Fa‘il (subjek) dari fi‘l *yudrikhu*",
+        "irab_dan_logika": "Marfū‘ dengan dhammah karena berfungsi sebagai fa‘il"
+      },
+      "hikmah": "Maut menjadi subjek yang menimpa, menegaskan kepastian kematian bagi yang belum sampai tujuan.",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "فَقَدْ",
+      "transliterasi": "fa‑qad",
+      "jenis_kata": "Huruf",
+      "arti": "maka sesungguhnya",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": "huruf"
+      },
+      "nahwu": {
+        "kedudukan": "Harf taf‘īl (penegas) yang mendahului kalimat selanjutnya",
+        "irab_dan_logika": "Tidak ber‑i‘rāb, berfungsi memperkuat makna"
+      },
+      "hikmah": "Menegaskan kepastian pahala bagi orang yang hijrah dan meninggal sebelum tiba di tujuan.",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "وَقَعَ",
+      "transliterasi": "waqa'a",
+      "jenis_kata": "Fi'il",
+      "arti": "terjadi, jatuh",
+      "sharaf": {
+        "akar_kata": "و-ق-ع",
+        "makna_dasar": "jatuh, terjadi",
+        "wazan_perubahan": "فعل ماضٍ"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja utama dalam ayat",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فعل ماضٍ"
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 30,
+      "kata_arab": "ٱللَّهُ",
+      "transliterasi": "Allāhu",
+      "jenis_kata": "Isim",
+      "arti": "Tuhan",
+      "sharaf": {
+        "akar_kata": "أ ل ه",
+        "makna_dasar": "menyembah, mengakui keesaan",
+        "wazan_perubahan": "Ism al‑Mubtada"
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada' (subjek) dalam kalimat nominal",
+        "irab_dan_logika": "Dhammah karena berada di posisi subjek yang memerlukan rafa'"
+      },
+      "hikmah": "Allah disebut sebagai subjek utama yang memiliki sifat Pengampun dan Penyayang, menegaskan keesaan serta keagungan-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 31,
+      "kata_arab": "غَفُورًۭا",
+      "transliterasi": "Ghafūran",
+      "jenis_kata": "Isim sifat (Ism faʿīl)",
+      "arti": "yang Maha Pengampun",
+      "sharaf": {
+        "akar_kata": "غ ف ر",
+        "makna_dasar": "mengampuni",
+        "wazan_perubahan": "Ism faʿīl (فَعُول)"
+      },
+      "nahwu": {
+        "kedudukan": "Khabar (predikat) pertama setelah mubtada'",
+        "irab_dan_logika": "Tanwin fathah menandakan i'rab mansub (accusative) karena adanya waqf (hentian) pada akhir kata, meskipun secara makna berfungsi sebagai rafa'"
+      },
+      "hikmah": "Sifat Allah yang Pengampun menegaskan bahwa segala dosa dapat dihapus bila kembali kepada-Nya dengan ikhlas.",
+      "role": "none"
+    },
+    {
+      "index": 32,
+      "kata_arab": "رَّحِيمًۭا",
+      "transliterasi": "Raḥīman",
+      "jenis_kata": "Isim sifat (Ism faʿīl)",
+      "arti": "yang Maha Penyayang",
+      "sharaf": {
+        "akar_kata": "ر ح م",
+        "makna_dasar": "menyayangi, merasakan belas kasih",
+        "wazan_perubahan": "Ism faʿīl (فَعِيل)"
+      },
+      "nahwu": {
+        "kedudukan": "Khabar (predikat) kedua, melengkapi khabar pertama",
+        "irab_dan_logika": "Tanwin fathah menandakan i'rab mansub (accusative) serupa dengan kata sebelumnya, menunjukkan kesinambungan sifat-sifat Allah"
+      },
+      "hikmah": "Allah tidak hanya mengampuni, tetapi juga penuh kasih sayang kepada hamba‑Nya, memberi harapan akan rahmat yang melimpah.",
+      "role": "none"
+    }
+  ]
+}

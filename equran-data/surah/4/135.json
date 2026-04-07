@@ -1,0 +1,708 @@
+{
+  "surah": 4,
+  "ayah": 135,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "يَٰٓأَيُّهَا",
+      "transliterasi": "yā ayyuhā",
+      "jenis_kata": "Huruf (huruf nida')",
+      "arti": "Wahai",
+      "sharaf": {
+        "akar_kata": "أ ي ه",
+        "makna_dasar": "menunjuk kepada orang yang dipanggil",
+        "wazan_perubahan": "أَيُّهَا (bentuk nashab)"
+      },
+      "nahwu": {
+        "kedudukan": "Kata seru (nama panggilan) di awal ayat",
+        "irab_dan_logika": "مُنصَب بالفتحة لأن حرف النداء \"يا\" يجرّ الاسم المنادى إلى النصب"
+      },
+      "hikmah": "Menunjukkan seruan Allah kepada umat untuk memperhatikan perintah selanjutnya dengan penuh kesungguhan",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "ٱلَّذِينَ",
+      "transliterasi": "alladhīna",
+      "jenis_kata": "Isim (isim mawsul)",
+      "arti": "orang‑orang yang",
+      "sharaf": {
+        "akar_kata": "ل ذ ي",
+        "makna_dasar": "yang berhubungan dengan kepemilikan atau identitas",
+        "wazan_perubahan": "الَّذِي → الَّذِينَ (jamak)"
+      },
+      "nahwu": {
+        "kedudukan": "Subjek (mubtada') bagi fi'il \"آمَنُوا\"",
+        "irab_dan_logika": "مَرْفُوع بالضمة لأنه اسم مرفوع"
+      },
+      "hikmah": "Menegaskan bahwa perintah ini khusus bagi mereka yang beriman",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "ءَامَنُوا۟",
+      "transliterasi": "āmanū",
+      "jenis_kata": "Fi'il (fi'il madhi)",
+      "arti": "mereka beriman",
+      "sharaf": {
+        "akar_kata": "أ م ن",
+        "makna_dasar": "kepercayaan, keamanan",
+        "wazan_perubahan": "فعل ماضٍ ثلاثي مجرد"
+      },
+      "nahwu": {
+        "kedudukan": "Predikat (fi'il) untuk subjek \"ٱلَّذِينَ\"",
+        "irab_dan_logika": "ليس له إعراب لأنه فعل ماضٍ"
+      },
+      "hikmah": "Menegaskan inti keimanan sebagai dasar keadilan",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "كُونُوا۟",
+      "transliterasi": "kūnū",
+      "jenis_kata": "Fi'il (fi'il amar)",
+      "arti": "jadilah",
+      "sharaf": {
+        "akar_kata": "ك و ن",
+        "makna_dasar": "keberadaan, menjadi",
+        "wazan_perubahan": "فعل أمر ثلاثي"
+      },
+      "nahwu": {
+        "kedudukan": "Perintah (fi'il amar) kepada orang beriman",
+        "irab_dan_logika": "ليس له إعراب لأنه فعل أمر مبني على السكون"
+      },
+      "hikmah": "Mengajak umat untuk mengambil sikap aktif dalam menegakkan keadilan",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "قَوَّٰمِينَ",
+      "transliterasi": "qawwāmīna",
+      "jenis_kata": "Isim (isim fa'il)",
+      "arti": "penegak keadilan",
+      "sharaf": {
+        "akar_kata": "ق و م",
+        "makna_dasar": "berdiri tegak, menegakkan",
+        "wazan_perubahan": "فاعل من وزن فاعِل"
+      },
+      "nahwu": {
+        "kedudukan": "Predikat (nama) setelah \"كُونُوا\" (isim al‑kāna)",
+        "irab_dan_logika": "مُنصَب بالفتحة لأن اسم كان منصوب"
+      },
+      "hikmah": "Menekankan sifat konsisten dalam menegakkan keadilan, tidak terpengaruh kepentingan pribadi",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "بِٱلْقِسْطِ",
+      "transliterasi": "bi al‑qiṣṭi",
+      "jenis_kata": "Huruf (حرف جر) + Isim",
+      "arti": "dengan keadilan",
+      "sharaf": {
+        "akar_kata": "ق س ط",
+        "makna_dasar": "keadilan, keseimbangan",
+        "wazan_perubahan": "اسم مجرور بحرف الجر"
+      },
+      "nahwu": {
+        "kedudukan": "Bagian dari keterangan (حرف جر + اسم) yang melengkapi predikat \"قَوَّامِينَ\"",
+        "irab_dan_logika": "مجرور بالكسرة لأن حرف الجر \"بِ\" يجر الاسم إلى الجر"
+      },
+      "hikmah": "Menegaskan bahwa keadilan adalah landasan utama yang harus dijaga dalam setiap tindakan",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "شُهَدَآءَ",
+      "transliterasi": "shuhadā",
+      "jenis_kata": "Isim",
+      "arti": "saksi",
+      "sharaf": {
+        "akar_kata": "ش ه د",
+        "makna_dasar": "menyaksikan",
+        "wazan_perubahan": "bentuk jamak taksir (shuhadā')"
+      },
+      "nahwu": {
+        "kedudukan": "objek (مفعول) setelah فعل كُونُوا, sebagai صفة أو مفعول",
+        "irab_dan_logika": "منصوب بالفتحة الظاهرة على آخره لأن الفعل \"كُونُوا\" يرفع المفعول به إلى نصب"
+      },
+      "hikmah": "Menjadi saksi yang jujur demi Allah, menegakkan keadilan tanpa memihak.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "لِلَّهِ",
+      "transliterasi": "lillāhi",
+      "jenis_kata": "Huruf",
+      "arti": "bagi Allah",
+      "sharaf": {
+        "akar_kata": "ل",
+        "makna_dasar": "kepada, untuk",
+        "wazan_perubahan": "حرف جر + ال التعريف"
+      },
+      "nahwu": {
+        "kedudukan": "جار ومجرور يوضح للّٰه أن الشهادة موجهة إليه",
+        "irab_dan_logika": "مجرور بالكسرة تحت اللام لأن حرف الجر \"لِ\" يجر ما بعده"
+      },
+      "hikmah": "Menegaskan bahwa saksi itu ditujukan kepada Allah, bukan kepada manusia.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "وَلَوْ",
+      "transliterasi": "walaw",
+      "jenis_kata": "Huruf",
+      "arti": "dan jika",
+      "sharaf": {
+        "akar_kata": "و",
+        "makna_dasar": "menyatakan syarat أو شرط",
+        "wazan_perubahan": "حرف شرط"
+      },
+      "nahwu": {
+        "kedudukan": "حرف شرط يربط الجملة الشرطية بالسابقة",
+        "irab_dan_logika": "لا إعراب له، حرف لا يتصرف"
+      },
+      "hikmah": "Menyiratkan kondisi hipotetik untuk menegaskan pentingnya keadilan meski dalam situasi sulit.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "عَلَىٰٓ",
+      "transliterasi": "ʿalā",
+      "jenis_kata": "Huruf",
+      "arti": "atas, terhadap",
+      "sharaf": {
+        "akar_kata": "ع ل ي",
+        "makna_dasar": "menunjuk pada sesuatu",
+        "wazan_perubahan": "حرف جر"
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر يسبق المجرور \"أنفسكم\"",
+        "irab_dan_logika": "مجرور بالكسرة تحت العين لأن حرف الجر \"على\" يجر ما بعده"
+      },
+      "hikmah": "Menunjukkan objek yang menjadi sasaran keadilan, yaitu diri sendiri.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "أَنفُسِكُمْ",
+      "transliterasi": "anfusikum",
+      "jenis_kata": "Isim",
+      "arti": "diri kalian",
+      "sharaf": {
+        "akar_kata": "ن ف س",
+        "makna_dasar": "jiwa, diri",
+        "wazan_perubahan": "فُعْل مع ضمير متصل"
+      },
+      "nahwu": {
+        "kedudukan": "مجرور بحرف الجر \"على\"",
+        "irab_dan_logika": "مجرور وعلامة جره الكسرة الظاهرة على النون، والضمير المتصل \"كم\" في محل جر"
+      },
+      "hikmah": "Menegaskan bahwa keadilan harus ditegakkan bahkan terhadap diri sendiri.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "أَوِ",
+      "transliterasi": "aw",
+      "jenis_kata": "Huruf",
+      "arti": "atau",
+      "sharaf": {
+        "akar_kata": "و",
+        "makna_dasar": "memilih antara",
+        "wazan_perubahan": "حرف عطف"
+      },
+      "nahwu": {
+        "kedudukan": "حرف عطف يربط بين \"أنفسكم\" و\"الوالدين\" و\"الأقربين\"",
+        "irab_dan_logika": "لا إعراب له، حرف لا يتصرف"
+      },
+      "hikmah": "Menyambungkan pilihan antara diri sendiri atau orang tua/kerabat dalam penegakan keadilan.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "ٱلْوَٰلِدَيْنِ",
+      "transliterasi": "al‑wālidayn",
+      "jenis_kata": "Isim",
+      "arti": "orang tua (ayah dan ibu)",
+      "sharaf": {
+        "akar_kata": "و‑ل‑د",
+        "makna_dasar": "melahirkan, menjadi orang tua",
+        "wazan_perubahan": "فَعْلَان (dual)"
+      },
+      "nahwu": {
+        "kedudukan": "objek (mansub) dari kata «شُهَدَاءً»",
+        "irab_dan_logika": "kasra pada akhir kata menandakan kasus accusatif/genitif pada bentuk dual"
+      },
+      "hikmah": "Menegaskan bahwa keadilan harus ditegakkan bahkan terhadap orang tua, yang memiliki kedudukan mulia dalam Islam.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "وَٱلْأَقْرَبِينَ",
+      "transliterasi": "wa‑al‑aqrabīna",
+      "jenis_kata": "Isim",
+      "arti": "dan kaum kerabat terdekat",
+      "sharaf": {
+        "akar_kata": "ق‑ر‑ب",
+        "makna_dasar": "dekat, mendekatkan",
+        "wazan_perubahan": "الأقرب (elatif) + يَن (kasra plural)"
+      },
+      "nahwu": {
+        "kedudukan": "objek (mansub) bersama «الوالدين»",
+        "irab_dan_logika": "kasra menandakan accusatif/genitif pada jamak"
+      },
+      "hikmah": "Keadilan harus meliputi semua kerabat, tidak memihak karena kedekatan darah.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Huruf",
+      "arti": "tanda jeda (pause)",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "simbol waqf yang memisahkan dua bagian kalimat",
+        "irab_dan_logika": "tidak berirab, berfungsi sebagai tanda baca"
+      },
+      "hikmah": "Memberi jeda untuk menekankan pentingnya perintah sebelumnya sebelum masuk pada syarat selanjutnya.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "إِن",
+      "transliterasi": "in",
+      "jenis_kata": "Huruf",
+      "arti": "jika",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "kata penghubung (huruf syarat) yang memperkenalkan klausa syarat",
+        "irab_dan_logika": "tidak berirab, menandakan kondisi yang akan diikuti"
+      },
+      "hikmah": "Menyiratkan bahwa apa yang disebutkan selanjutnya bersifat bersyarat, menegaskan keadilan dalam kondisi apa pun.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "يَكُنْ",
+      "transliterasi": "yakun",
+      "jenis_kata": "Fi'il",
+      "arti": "menjadi, berada",
+      "sharaf": {
+        "akar_kata": "ك‑و‑ن",
+        "makna_dasar": "keberadaan, menjadi",
+        "wazan_perubahan": "فعل مضارع مرفوع بالضمة"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja dalam klausa syarat setelah «إِن»",
+        "irab_dan_logika": "dhamma karena bentuk mudhari‘ (present) yang tidak terikat"
+      },
+      "hikmah": "Menunjukkan keadaan yang mungkin terjadi, yakni seseorang berada dalam keadaan kaya atau miskin.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "غَنِيًّا",
+      "transliterasi": "ghaniyyan",
+      "jenis_kata": "Isim",
+      "arti": "orang yang kaya",
+      "sharaf": {
+        "akar_kata": "غ‑ن‑ي",
+        "makna_dasar": "kekayaan, kelimpahan",
+        "wazan_perubahan": "فعيل (fa‘īl) dengan tanwin"
+      },
+      "nahwu": {
+        "kedudukan": "predikat (khabar) dalam klausa «يَكُنْ غَنِيًّا»",
+        "irab_dan_logika": "kasra karena nasb setelah فعل ناسخ «يَكُنْ»"
+      },
+      "hikmah": "Menegaskan bahwa keadilan harus ditegakkan tanpa memandang status ekonomi; Allah lebih mengetahui kebaikan masing‑masing.",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "أَوْ",
+      "transliterasi": "aw",
+      "jenis_kata": "Huruf (conjunction)",
+      "arti": "atau",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "kata sambung yang menghubungkan dua istilah (غَنِيًّا وَفَقِيرًا)",
+        "irab_dan_logika": "مجرور بحرف العطف لا إعراب له"
+      },
+      "hikmah": "menunjukkan pilihan antara dua keadaan, menegaskan bahwa perintah berlaku bagi siapa saja, kaya maupun miskin",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "فَقِيرًۭا",
+      "transliterasi": "faqīran",
+      "jenis_kata": "Isim (isim maf'ul)",
+      "arti": "orang miskin",
+      "sharaf": {
+        "akar_kata": "ف-ق-ر",
+        "makna_dasar": "kekurangan, kemiskinan",
+        "wazan_perubahan": "فَعِيل"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به منصوب بالفتحة وعلامة النصب تنوين النصب",
+        "irab_dan_logika": "نصب لأنه مفعول به للفظ \"أَوْ\""
+      },
+      "hikmah": "menyatakan bahwa keadilan Allah mencakup pula mereka yang berada dalam keadaan miskin",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "فَٱللَّهُ",
+      "transliterasi": "fa‑Allāh",
+      "jenis_kata": "Huruf (fa) + Isim (Allāh)",
+      "arti": "lalu Allah",
+      "sharaf": {
+        "akar_kata": "الله (nama khusus)",
+        "makna_dasar": "Nama Tuhan Yang Maha Esa",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "حرف عطف يربط الجملة السابقة بالجملة التالية",
+        "irab_dan_logika": "مرفوع بالضمة لأنه اسم علم مرفوع"
+      },
+      "hikmah": "menegaskan bahwa keputusan akhir berada di tangan Allah",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "أَوْلَىٰ",
+      "transliterasi": "awlá",
+      "jenis_kata": "Fi'il (madhi)",
+      "arti": "lebih berhak",
+      "sharaf": {
+        "akar_kata": "و-ل-ى",
+        "makna_dasar": "menjadi lebih berhak, lebih layak",
+        "wazan_perubahan": "أَفْعَل"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع بالضمة لأنه فعل مرفوع لوجود الفاعل الضمير المستتر \"هو\" (الله)",
+        "irab_dan_logika": "مرفوع لأنه فعل"
+      },
+      "hikmah": "Allah lebih berhak (menentukan) atas kedua keadaan itu",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "بِهِمَا",
+      "transliterasi": "bihimā",
+      "jenis_kata": "Huruf (bi) + Isim (himā)",
+      "arti": "dengan keduanya",
+      "sharaf": {
+        "akar_kata": "هُمَا (ضمير مثنى)",
+        "makna_dasar": "menunjuk kepada dua orang (غنيًّا وفقيرًا)",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر + ضمير متصل في محل جر",
+        "irab_dan_logika": "جر لأنه تابع لحرف الجر \"bi\""
+      },
+      "hikmah": "menunjukkan bahwa Allah lebih berhak atas kedua golongan itu sekaligus",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "ۖ",
+      "transliterasi": "(tanda koma)",
+      "jenis_kata": "Isyarat (tanda baca)",
+      "arti": "tanda koma",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "علامة وقف تفصل بين الجملتين",
+        "irab_dan_logika": "ليس له إعراب"
+      },
+      "hikmah": "memungkinkan jeda membaca untuk menekankan makna sebelumnya",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "فَلَا",
+      "transliterasi": "fa-lā",
+      "jenis_kata": "Huruf",
+      "arti": "maka jangan",
+      "sharaf": {
+        "akar_kata": "لا",
+        "makna_dasar": "negasi, larangan",
+        "wazan_perubahan": "Tidak berlaku (huruf)"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf ma'na (negatif) yang menghubungkan perintah sebelumnya dengan larangan selanjutnya",
+        "irab_dan_logika": "Tidak ber‑iʿrāb karena huruf; berfungsi sebagai penghubung makna “jangan”."
+      },
+      "hikmah": "Allah melarang umat‑Nya mengikuti hawa nafsu sehingga tidak menegakkan keadilan.",
+      "role": "none"
+    },
+    {
+      "index": 25,
+      "kata_arab": "تَتَّبِعُوا۟",
+      "transliterasi": "tattabi‘ū",
+      "jenis_kata": "Fiʿil",
+      "arti": "mengikuti",
+      "sharaf": {
+        "akar_kata": "ت-ب-ع",
+        "makna_dasar": "mengikuti, meniru",
+        "wazan_perubahan": "تَفَعَّل (form II) – makna intensif ‘mengikuti secara terus‑menerus’"
+      },
+      "nahwu": {
+        "kedudukan": "Fiʿil amar (perintah) untuk orang kedua jamak",
+        "irab_dan_logika": "مُنصَب بالفتحة لأنّه فعل أمر مبني على الفتح."
+      },
+      "hikmah": "Perintah tegas agar tidak menuruti hawa nafsu dalam tindakan.",
+      "role": "none"
+    },
+    {
+      "index": 26,
+      "kata_arab": "ٱلْهَوَىٰٓ",
+      "transliterasi": "al‑hawā",
+      "jenis_kata": "Isim",
+      "arti": "nafsu, keinginan",
+      "sharaf": {
+        "akar_kata": "ه-و-ى",
+        "makna_dasar": "hasrat, keinginan yang menggelincir",
+        "wazan_perubahan": "مَفْعَل (isim maṣdar) – ‘hawa’"
+      },
+      "nahwu": {
+        "kedudukan": "Mafʿūl bih (objek) dari فعل ‘تَتَّبِعُوا’",
+        "irab_dan_logika": "مُنصَب بالفتحة لأنه مفعول به منصوب."
+      },
+      "hikmah": "Hawa nafsu yang dapat menjerumuskan seseorang dari jalan keadilan.",
+      "role": "none"
+    },
+    {
+      "index": 27,
+      "kata_arab": "أَن",
+      "transliterasi": "an",
+      "jenis_kata": "Huruf",
+      "arti": "bahwa, supaya",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "- (huruf penghubung)"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf nasb yang memperkenalkan جملة فعلية (تَعْدِلُوا)",
+        "irab_dan_logika": "Tidak ber‑iʿrāb karena berfungsi sebagai penghubung."
+      },
+      "hikmah": "Menunjukkan tujuan larangan: agar tidak mengabaikan keadilan.",
+      "role": "none"
+    },
+    {
+      "index": 28,
+      "kata_arab": "تَعْدِلُوا۟",
+      "transliterasi": "taʿdilū",
+      "jenis_kata": "Fiʿil",
+      "arti": "menjadi adil",
+      "sharaf": {
+        "akar_kata": "ع-د-ل",
+        "makna_dasar": "adil, seimbang",
+        "wazan_perubahan": "تَفْعَل (form I) – perintah ‘jadilah adil’"
+      },
+      "nahwu": {
+        "kedudukan": "Fiʿil amar (perintah) untuk orang kedua jamak",
+        "irab_dan_logika": "مُنصَب بالفتحة لأنه فعل أمر مبني على الفتح."
+      },
+      "hikmah": "Seruan kuat untuk menegakkan keadilan tanpa dipengaruhi hawa nafsu.",
+      "role": "none"
+    },
+    {
+      "index": 29,
+      "kata_arab": "ۚ",
+      "transliterasi": "–",
+      "jenis_kata": "Tanda baca",
+      "arti": "tanda berhenti (pause akhir ayat)",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Simbol waqf (tanda berhenti) yang menandai akhir kalimat",
+        "irab_dan_logika": "Tidak ber‑iʿrāb; berfungsi sebagai penanda jeda bacaan."
+      },
+      "hikmah": "Menegaskan bahwa perintah tersebut selesai dan harus dipahami secara utuh.",
+      "role": "none"
+    },
+    {
+      "index": 30,
+      "kata_arab": "وَإِن",
+      "transliterasi": "wa‑in",
+      "jenis_kata": "Huruf",
+      "arti": "*dan jika*",
+      "sharaf": {
+        "akar_kata": "إن",
+        "makna_dasar": "menegaskan kondisi atau syarat",
+        "wazan_perubahan": "حرف ثابت"
+      },
+      "nahwu": {
+        "kedudukan": "حرف شرط يربط الجملة بما قبله",
+        "irab_dan_logika": "حرف لا يُعرب، يُنطق بِكَسْرَةٍ على النون لتبيين النفي الشرطي"
+      },
+      "hikmah": "*Menegaskan bahwa apa yang akan disebutkan selanjutnya bersifat bersyarat, mengajak pembaca untuk memperhatikan perintah berikut.*",
+      "role": "none"
+    },
+    {
+      "index": 31,
+      "kata_arab": "تَلْوُۥٓا۟",
+      "transliterasi": "talawū",
+      "jenis_kata": "Fi'il",
+      "arti": "*berpaling, mengubah*",
+      "sharaf": {
+        "akar_kata": "ل و ي",
+        "makna_dasar": "pindah, mengalihkan",
+        "wazan_perubahan": "فَعَلُوا (imperatif)"
+      },
+      "nahwu": {
+        "kedudukan": "فعل أمر مبني على السكون، يوجه إلى الجمع المخاطب",
+        "irab_dan_logika": "ليس له إعراب؛ علامة الضمة على الواو تدل على صيغة الأمر"
+      },
+      "hikmah": "*Allah memerintahkan agar tidak berpaling dari keadilan, melainkan tetap teguh pada kebenaran.*",
+      "role": "none"
+    },
+    {
+      "index": 32,
+      "kata_arab": "أَوْ",
+      "transliterasi": "aw",
+      "jenis_kata": "Huruf",
+      "arti": "*atau*",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "menghubungkan alternatif",
+        "wazan_perubahan": "حرف عطف ثابت"
+      },
+      "nahwu": {
+        "kedudukan": "حرف عطف يربط بين الفعلين \"تَلْوُوا\" و\"تُعْرِضُوا\"",
+        "irab_dan_logika": "حرف لا يُعرب"
+      },
+      "hikmah": "*Memberi pilihan tindakan, baik berpaling maupun menolak, keduanya dilarang.*",
+      "role": "none"
+    },
+    {
+      "index": 33,
+      "kata_arab": "تُعْرِضُوا۟",
+      "transliterasi": "tu‘riḍū",
+      "jenis_kata": "Fi'il",
+      "arti": "*menolak, menampakkan diri*",
+      "sharaf": {
+        "akar_kata": "ع ر ض",
+        "makna_dasar": "menolak, menampakkan diri",
+        "wazan_perubahan": "فَعِلُوا (imperatif)"
+      },
+      "nahwu": {
+        "kedudukan": "فعل أمر مبني على السكون، موجه إلى الجمع المخاطب",
+        "irab_dan_logika": "ليس له إعراب؛ علامة الضمة على الواو تدل على صيغة الأمر"
+      },
+      "hikmah": "*Allah melarang menolak kebenaran atau menyembunyikannya, baik bagi kaya maupun miskin.*",
+      "role": "none"
+    },
+    {
+      "index": 35,
+      "kata_arab": "ٱللَّهَ",
+      "transliterasi": "Allāh",
+      "jenis_kata": "Isim",
+      "arti": "*Allah*",
+      "sharaf": {
+        "akar_kata": "اللّه",
+        "makna_dasar": "Nama Tuhan Yang Maha Esa",
+        "wazan_perubahan": "اسم علم ثابت"
+      },
+      "nahwu": {
+        "kedudukan": "اسم منصوب بالفتحة بعد حرف توكيد \"إنّ\"",
+        "irab_dan_logika": "الفتحة على آخره دليل النصب لأنّ تُنصب الاسم"
+      },
+      "hikmah": "*Allah adalah saksi yang Maha Mengetahui, menegaskan keadilan dan kebenaran yang harus dipegang oleh orang beriman.*",
+      "role": "none"
+    },
+    {
+      "index": 36,
+      "kata_arab": "كَانَ",
+      "transliterasi": "kaana",
+      "jenis_kata": "Fi'il",
+      "arti": "adalah, menjadi",
+      "sharaf": {
+        "akar_kata": "ك-ا-ن",
+        "makna_dasar": "ada, menjadi",
+        "wazan_perubahan": "فعل ماضٍ"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja (fi'il) sebagai predikat",
+        "irab_dan_logika": "مرفوع بالفتحة لأنّه فعل ماضٍ"
+      },
+      "hikmah": "Menegaskan sifat Allah sebagai Maha Mengetahui, menekankan bahwa Allah **selalu** mengetahui segala perbuatan kita.",
+      "role": "none"
+    },
+    {
+      "index": 37,
+      "kata_arab": "بِمَا",
+      "transliterasi": "bima",
+      "jenis_kata": "Huruf",
+      "arti": "dengan apa",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar (preposisi) yang menghubungkan kata kerja",
+        "irab_dan_logika": "مجرور بالكسرة لأنّها حرف جر"
+      },
+      "hikmah": "Menunjukkan bahwa pengetahuan Allah mencakup **segala hal** yang kita lakukan, tanpa terkecuali.",
+      "role": "none"
+    },
+    {
+      "index": 38,
+      "kata_arab": "تَعْمَلُونَ",
+      "transliterasi": "ta‘malūna",
+      "jenis_kata": "Fi'il",
+      "arti": "kamu melakukan",
+      "sharaf": {
+        "akar_kata": "ع-م-ل",
+        "makna_dasar": "bekerja, melakukan",
+        "wazan_perubahan": "فعل مضارع"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع بالواو لأنه جمع مذكر سالم",
+        "irab_dan_logika": "مرفوع بالواو لأنه فعل مضارع مع الفاعل المستتر (أنتم)"
+      },
+      "hikmah": "Setiap perbuatan manusia, baik besar maupun kecil, berada dalam pengawasan Allah yang **Maha Mengetahui**.",
+      "role": "none"
+    },
+    {
+      "index": 39,
+      "kata_arab": "خَبِيرًۭا",
+      "transliterasi": "khabīran",
+      "jenis_kata": "Isim",
+      "arti": "yang mengetahui",
+      "sharaf": {
+        "akar_kata": "خ-ب-ر",
+        "makna_dasar": "mengetahui, memberi berita",
+        "wazan_perubahan": "اسم فاعل مفعول"
+      },
+      "nahwu": {
+        "kedudukan": "خبر كان منصوب",
+        "irab_dan_logika": "منصوب لأنه خبر كان وعلامة النصب الفتحة"
+      },
+      "hikmah": "Allah adalah **Maha Mengetahui** segala sesuatu; tidak ada tindakan yang luput dari pengetahuan-Nya.",
+      "role": "none"
+    }
+  ]
+}

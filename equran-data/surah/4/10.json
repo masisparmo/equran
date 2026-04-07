@@ -1,0 +1,258 @@
+{
+  "surah": 4,
+  "ayah": 10,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "إِنَّ",
+      "transliterasi": "Inna",
+      "jenis_kata": "Huruf",
+      "arti": "Sesungguhnya, bahwasanya",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk huruf",
+        "makna_dasar": "Penegas, penguat",
+        "wazan_perubahan": "Tidak berlaku untuk huruf"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Nashab dan Taukid (penguat)",
+        "irab_dan_logika": "Inna adalah huruf yang berfungsi menashabkan isim setelahnya (menjadikannya manshub) dan merafa'kan khabarnya (menjadikannya marfu'). Dalam ayat ini, ia menashabkan 'الَّذِينَ' (sebagai isim Inna) dan khabarnya adalah jumlah fi'liyah 'يَأْكُلُونَ أَمْوَٰلَ ٱلْيَتَٰمَىٰ ظُلْمًا'."
+      },
+      "hikmah": "Menekankan dan menguatkan pernyataan yang mengikutinya, memberikan penegasan akan keseriusan dan kepastian hukum yang akan disebutkan.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "ٱلَّذِينَ",
+      "transliterasi": "Alladzīna",
+      "jenis_kata": "Isim (Isim Maushul)",
+      "arti": "Orang-orang yang",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk isim maushul",
+        "makna_dasar": "Menghubungkan kalimat, merujuk pada sekelompok orang",
+        "wazan_perubahan": "Tidak berlaku untuk isim maushul"
+      },
+      "nahwu": {
+        "kedudukan": "Isim Inna (manshub secara mahal)",
+        "irab_dan_logika": "Isim maushul 'الَّذِينَ' adalah isim mabni (tidak berubah harakat akhirnya), namun dalam konteks ini ia berada pada posisi nashab sebagai isim dari 'إِنَّ'. Oleh karena itu, ia manshub secara mahal (kedudukannya manshub)."
+      },
+      "hikmah": "Menunjukkan kelompok orang yang menjadi subjek utama dari peringatan keras ini, yaitu mereka yang melakukan perbuatan yang akan dijelaskan selanjutnya.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "يَأْكُلُونَ",
+      "transliterasi": "Ya'kulūna",
+      "jenis_kata": "Fi'il (Fi'il Mudhari')",
+      "arti": "Mereka makan/memakan",
+      "sharaf": {
+        "akar_kata": "أ ك ل (A-K-L)",
+        "makna_dasar": "Makan, mengonsumsi",
+        "wazan_perubahan": "Fi'il Mudhari' dari Bab I (فَعَلَ - يَفْعُلُ), dengan tambahan wawu dan nun (و ن) sebagai tanda jamak mudzakkar ghaib."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' marfu', bagian dari jumlah fi'liyah yang menjadi khabar Inna",
+        "irab_dan_logika": "Fi'il Mudhari' ini marfu' karena tidak didahului oleh amil nashab (penashab) atau amil jazm (penjazm). Tanda rafa'nya adalah tetapnya huruf nun (ثبوت النون) karena ia termasuk Af'alul Khamsah (lima fi'il). Fa'il (pelaku) dari fi'il ini adalah wawu jamak (و) yang kembali kepada 'الَّذِينَ'. Jumlah fi'liyah ini (يَأْكُلُونَ...) secara keseluruhan berada pada posisi rafa' sebagai khabar dari 'إِنَّ'."
+      },
+      "hikmah": "Menggambarkan tindakan aktif dan berkelanjutan dari memakan harta, menunjukkan bahwa perbuatan ini adalah inti dari pelanggaran yang dimaksud. Penggunaan fi'il mudhari' juga bisa menyiratkan keberlanjutan atau kebiasaan.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "أَمْوَٰلَ",
+      "transliterasi": "Amwāla",
+      "jenis_kata": "Isim (Isim jamak taksir)",
+      "arti": "Harta-harta, kekayaan",
+      "sharaf": {
+        "akar_kata": "م و ل (M-W-L)",
+        "makna_dasar": "Harta, kekayaan, kepemilikan",
+        "wazan_perubahan": "Jamak taksir dari مال (māl) dengan wazan أَفْعَال (af'āl)."
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul Bih (objek) dari fi'il 'يَأْكُلُونَ'",
+        "irab_dan_logika": "أَمْوَٰلَ' adalah maf'ul bih, sehingga ia manshub (berharakat fathah). Tanda nashabnya adalah fathah yang tampak pada huruf lam (ل)."
+      },
+      "hikmah": "Menjelaskan objek dari perbuatan memakan, yaitu 'harta'. Penggunaan bentuk jamak (amwāl) menunjukkan bahwa ini tidak hanya tentang satu jenis harta, melainkan segala bentuk kekayaan yang dimiliki anak yatim.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "ٱلْيَتَٰمَىٰ",
+      "transliterasi": "Al-Yatāmā",
+      "jenis_kata": "Isim (Isim jamak taksir)",
+      "arti": "Anak-anak yatim",
+      "sharaf": {
+        "akar_kata": "ي ت م (Y-T-M)",
+        "makna_dasar": "Kehilangan ayah (sebelum baligh)",
+        "wazan_perubahan": "Jamak taksir dari يَتِيم (yatīm) dengan wazan فَعَالَى (fa'ālā)."
+      },
+      "nahwu": {
+        "kedudukan": "Mudhaf Ilaih (disandarkan kepada) dari 'أَمْوَٰلَ'",
+        "irab_dan_logika": "الْيَتَٰمَىٰ' adalah mudhaf ilaih, sehingga ia majrur (berharakat kasrah). Namun, karena ia adalah isim maqshur (berakhir dengan alif layyinah), tanda jarnya adalah kasrah muqaddarah (diperkirakan) pada alif, yang terhalang untuk tampak karena adanya alif."
+      },
+      "hikmah": "Mengidentifikasi pemilik harta yang dizalimi, yaitu 'anak-anak yatim'. Ini menekankan kerentanan dan ketidakberdayaan mereka, sehingga perbuatan menzalimi mereka menjadi lebih keji di mata Allah.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "ظُلْمًا",
+      "transliterasi": "Dhulmā(n)",
+      "jenis_kata": "Isim (Mashdar)",
+      "arti": "Secara zalim, kezaliman",
+      "sharaf": {
+        "akar_kata": "ظ ل م (Dh-L-M)",
+        "makna_dasar": "Kezaliman, ketidakadilan, menempatkan sesuatu bukan pada tempatnya",
+        "wazan_perubahan": "Mashdar dari fi'il ظَلَمَ (dhalama) dengan wazan فُعْل (fu'l), di sini dalam bentuk nashab sebagai maf'ul mutlaq atau hal."
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul Mutlaq (sebagai penegas jenis perbuatan) atau Hal (keadaan)",
+        "irab_dan_logika": "ظُلْمًا' adalah manshub (berharakat fathatain). Jika dianggap sebagai Maf'ul Mutlaq, ia berfungsi untuk menegaskan bahwa perbuatan memakan harta anak yatim itu adalah *benar-benar* suatu kezaliman. Jika dianggap sebagai Hal, ia menjelaskan keadaan saat perbuatan itu dilakukan, yaitu 'dalam keadaan zalim'. Keduanya menunjukkan penekanan pada sifat kezaliman perbuatan tersebut."
+      },
+      "hikmah": "Menjelaskan *cara* atau *sifat* dari perbuatan memakan harta anak yatim, yaitu dilakukan dengan cara yang zalim. Ini bukan sekadar kesalahan, melainkan pelanggaran hak yang disengaja dan tidak adil, yang menambah bobot dosa perbuatan tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "إِنَّمَا",
+      "transliterasi": "Innamā",
+      "jenis_kata": "Huruf",
+      "arti": "Sesungguhnya hanyalah, hanyalah",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf pembatas (حرف حصر) dan penguat (حرف توكيد)",
+        "irab_dan_logika": "Mabni (tetap) di atas sukun, tidak memiliki kedudukan i'rab. Berfungsi untuk membatasi dan menguatkan makna kalimat."
+      },
+      "hikmah": "Kata ini berfungsi untuk memberikan penekanan dan pembatasan makna. Ini menunjukkan bahwa perbuatan memakan harta anak yatim secara zalim *hanyalah* berarti mereka menelan api, tidak ada hal lain. Ini menguatkan ancaman dan konsekuensi yang pasti.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "يَأْكُلُونَ",
+      "transliterasi": "Ya'kulūna",
+      "jenis_kata": "Fi'il",
+      "arti": "Mereka makan/menelan",
+      "sharaf": {
+        "akar_kata": "أ ك ل (a-k-l)",
+        "makna_dasar": "Makan, mengonsumsi",
+        "wazan_perubahan": "Fi'il Mudhari' (kata kerja sekarang/akan datang) dari Bab I (فَعَلَ - يَفْعُلُ). Bentuk jamak mudzakkar ghaib (mereka laki-laki)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' marfu' (di-rafa'kan)",
+        "irab_dan_logika": "Marfu' dengan tanda tetapnya huruf Nun (ثبوت النون) karena termasuk Af'alul Khamsah (lima kata kerja). Wau jamak (و) adalah fa'il (subjek) yang mabni di atas sukun, dalam posisi rafa'."
+      },
+      "hikmah": "Kata kerja ini menggambarkan tindakan yang sedang atau akan terjadi, yaitu 'memakan' atau 'menelan'. Penggunaan bentuk jamak menunjukkan bahwa ini adalah perbuatan kolektif dari 'orang-orang yang memakan harta anak yatim'. Ini secara langsung menghubungkan tindakan di dunia dengan balasan di akhirat.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "فِى",
+      "transliterasi": "Fī",
+      "jenis_kata": "Huruf",
+      "arti": "Di dalam, pada",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Jar (preposisi)",
+        "irab_dan_logika": "Mabni (tetap) di atas sukun, tidak memiliki kedudukan i'rab. Berfungsi men-jar-kan (membuat majrur) isim setelahnya."
+      },
+      "hikmah": "Huruf ini menunjukkan tempat atau wadah, yaitu 'di dalam'. Dalam konteks ayat, ini memperjelas bahwa api yang ditelan itu akan berada 'di dalam' perut mereka, bukan hanya di permukaan atau di sekitar mereka, memberikan gambaran yang lebih mengerikan.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "بُطُونِهِمْ",
+      "transliterasi": "Buṭūnihim",
+      "jenis_kata": "Isim",
+      "arti": "Perut-perut mereka",
+      "sharaf": {
+        "akar_kata": "ب ط ن (b-ṭ-n)",
+        "makna_dasar": "Perut, bagian dalam",
+        "wazan_perubahan": "Jamak taksir dari بَطْنٌ (baṭn) yang berarti 'perut'. Bentuk jamak adalah بُطُونٌ (buṭūn). Ditambah dengan dhamir هِمْ (him) yang berarti 'mereka'."
+      },
+      "nahwu": {
+        "kedudukan": "Isim Majrur (di-jar-kan)",
+        "irab_dan_logika": "Majrur dengan tanda kasrah (kasrah sebagai tanda jar) karena didahului oleh huruf jar 'fī'. Dhamir 'him' (هم) adalah mudhaf ilaih, mabni di atas sukun, dalam posisi jar."
+      },
+      "hikmah": "Kata ini menegaskan bahwa api itu masuk dan memenuhi bagian paling dalam dari tubuh mereka, yaitu perut. Ini memberikan gambaran yang sangat mengerikan dan langsung tentang siksaan yang akan mereka alami, di mana sumber kehidupan (makanan) berubah menjadi sumber azab.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "نَارًۭا",
+      "transliterasi": "Nārā(n)",
+      "jenis_kata": "Isim",
+      "arti": "Api",
+      "sharaf": {
+        "akar_kata": "ن و ر (n-w-r)",
+        "makna_dasar": "Cahaya, api",
+        "wazan_perubahan": "Isim mufrad (tunggal)."
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul Bih (objek)",
+        "irab_dan_logika": "Manshub (di-nashab-kan) dengan tanda fathah tanwin karena merupakan objek langsung dari fi'il 'ya'kulūna' (mereka makan/menelan)."
+      },
+      "hikmah": "Kata ini adalah inti dari balasan yang mereka terima. Harta haram yang mereka makan di dunia akan berubah menjadi api di akhirat. Ini menunjukkan keadilan ilahi dan konsekuensi yang mengerikan dari perbuatan dosa, di mana kenikmatan sesaat diganti dengan azab yang membakar.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "ۖ",
+      "transliterasi": "N/A",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "Tanda berhenti (waqaf jaiz)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "N/A",
+        "irab_dan_logika": "N/A"
+      },
+      "hikmah": "Tanda waqaf ini menunjukkan tempat yang dianjurkan untuk berhenti membaca, namun boleh juga melanjutkan. Dalam konteks makna, ini menandai selesainya satu bagian dari ancaman (menelan api), sebelum melanjutkan ke konsekuensi berikutnya (masuk neraka), memberikan jeda untuk merenungkan makna yang dalam.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "وَسَيَصْلَوْنَ",
+      "transliterasi": "wa-sa-yaṣlawna",
+      "jenis_kata": "Fi'il (Kata Kerja)",
+      "arti": "dan mereka akan masuk/terbakar",
+      "sharaf": {
+        "akar_kata": "ص ل ي (ṣ-l-y)",
+        "makna_dasar": "Membakar, memanggang, masuk ke dalam api, menderita panas.",
+        "wazan_perubahan": "Fi'il Mudhari' (Kata Kerja Sekarang/Akan Datang) dengan awalan 'sin' (س) yang menunjukkan masa depan. Bentuk aslinya adalah يَصْلَى (yaṣlā) untuk tunggal, kemudian يَصْلَوْنَ (yaṣlawna) untuk jamak laki-laki. Huruf 'waw' (و) di awal adalah huruf 'athaf (penghubung)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Marfu' (Kata Kerja Sekarang/Akan Datang yang dalam keadaan rafa')",
+        "irab_dan_logika": "Huruf waw (و) adalah huruf 'athaf (penghubung) yang menghubungkan dengan kalimat sebelumnya. Huruf sin (س) adalah huruf istiqbal (penunjuk masa depan). يَصْلَوْنَ adalah fi'il mudhari' yang marfu' (rafa') karena tidak didahului oleh amil nashab (penashab) atau amil jazm (penjazm). Tanda rafa'nya adalah tetapnya nun (ثبوت النون) karena termasuk af'alul khamsah (lima kata kerja khusus). Waw (و) adalah fa'il (subjek) yang kembali kepada 'mereka' (orang-orang yang memakan harta anak yatim)."
+      },
+      "hikmah": "Kata ini menekankan kepastian dan konsekuensi yang akan datang bagi mereka yang memakan harta anak yatim secara zalim. Penggunaan fi'il mudhari' dengan 'sin' (س) menunjukkan bahwa azab ini pasti akan terjadi di masa depan, bukan hanya kemungkinan. Makna 'masuk ke dalam api' atau 'terbakar' secara langsung menggambarkan hukuman yang sangat pedih.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "سَعِيرًۭا",
+      "transliterasi": "sa'īran",
+      "jenis_kata": "Isim (Kata Benda)",
+      "arti": "api yang menyala-nyala, neraka yang bergejolak",
+      "sharaf": {
+        "akar_kata": "س ع ر (s-'-r)",
+        "makna_dasar": "Menyala, membakar, bergejolak, panas.",
+        "wazan_perubahan": "Isim (Kata Benda) dengan wazan فَعِيل (fa'īl) yang sering digunakan untuk menunjukkan sifat atau intensitas. Dalam konteks ini, ia merujuk pada api yang sangat panas dan bergejolak."
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul Bih (Objek Penderita)",
+        "irab_dan_logika": "سَعِيرًا adalah isim yang manshub (nashab) karena berfungsi sebagai maf'ul bih (objek) dari fi'il يَصْلَوْنَ. Tanda nashabnya adalah fathah tanwin (ـًۭا) pada huruf ra' (ر). Artinya, 'mereka akan masuk/terbakar *ke dalam* api yang menyala-nyala'."
+      },
+      "hikmah": "Kata ini secara spesifik menyebutkan jenis api neraka yang akan menjadi tempat hukuman. Penggunaan kata 'sa'īran' (سَعِيرًا) bukan hanya sekadar 'api' (نار) tetapi 'api yang menyala-nyala' atau 'api yang bergejolak hebat,' memberikan gambaran yang lebih mengerikan dan intens tentang azab yang akan diterima. Ini menegaskan betapa dahsyatnya hukuman bagi pelaku kezaliman terhadap anak yatim.",
+      "role": "none"
+    }
+  ]
+}

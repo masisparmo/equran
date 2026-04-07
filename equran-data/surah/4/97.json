@@ -1,0 +1,366 @@
+{
+  "surah": 4,
+  "ayah": 97,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "إِنَّ",
+      "transliterasi": "inna",
+      "jenis_kata": "Huruf",
+      "arti": "sesungguhnya",
+      "sharaf": {
+        "akar_kata": "أن",
+        "makna_dasar": "menegaskan, menekankan kebenaran",
+        "wazan_perubahan": "tidak ada (kata partikel)"
+      },
+      "nahwu": {
+        "kedudukan": "حرف توكيد ونصب",
+        "irab_dan_logika": "مُنصوب بالضمة لأن حرف إن يرفع ما بعده إلى حالة النصب"
+      },
+      "hikmah": "Menegaskan bahwa apa yang akan disebutkan selanjutnya adalah fakta yang tidak dapat diperdebatkan",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "ٱلَّذِينَ",
+      "transliterasi": "alladhīna",
+      "jenis_kata": "Isim",
+      "arti": "orang‑orang yang, mereka yang",
+      "sharaf": {
+        "akar_kata": "ذ‑و‑ن",
+        "makna_dasar": "yang, orang yang",
+        "wazan_perubahan": "اسم موصول"
+      },
+      "nahwu": {
+        "kedudukan": "اسم إن منصوب",
+        "irab_dan_logika": "مُنصوب بالكسرة لأنه اسم إن"
+      },
+      "hikmah": "Menunjuk pada kelompok tertentu, yaitu mereka yang mengalami kematian oleh malaikat",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "تَوَفَّاهُمُ",
+      "transliterasi": "tawaffāhum",
+      "jenis_kata": "Fi'il",
+      "arti": "menyebabkan mereka mati",
+      "sharaf": {
+        "akar_kata": "و‑ف‑ى",
+        "makna_dasar": "menyatakan kematian, mematikan",
+        "wazan_perubahan": "فَعَّلَ (form II) dengan ضمير متصل"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ماضٍ مبني على الفتح مع ضمير متصل",
+        "irab_dan_logika": "مرفوع بالضمة لأن الفعل الماضي لا يُعرب، والضمّة على الضمير المتصل"
+      },
+      "hikmah": "Malaikat menegaskan bahwa mereka telah dipanggil mati oleh perintah Allah",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "ٱلْمَلَٰٓئِكَةُ",
+      "transliterasi": "al‑malāʾikatu",
+      "jenis_kata": "Isim",
+      "arti": "para malaikat",
+      "sharaf": {
+        "akar_kata": "م‑ل‑ك",
+        "makna_dasar": "makhluk yang bersifat suci, pembawa perintah Allah",
+        "wazan_perubahan": "جمع تكسير (مَلَائِكَة)"
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "قَالُوا۟",
+      "transliterasi": "qālu",
+      "jenis_kata": "Fi'il (verb)",
+      "arti": "*mereka berkata*",
+      "sharaf": {
+        "akar_kata": "ق-و-ل",
+        "makna_dasar": "*kata* (to say)",
+        "wazan_perubahan": "*فَعَلُوا* (past, third person plural)"
+      },
+      "nahwu": {
+        "kedudukan": "*kata kerja utama* dalam kalimat tanya/penjelasan",
+        "irab_dan_logika": "*مرفوع* karena فعل ماضٍ tidak berubah"
+      },
+      "hikmah": "*Menunjukkan respons orang‑orang yang ditanya oleh malaikat, mengakui keadaan mereka.*",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "مُسْتَضْعَفِينَ",
+      "transliterasi": "musṭaḍʿafīna",
+      "jenis_kata": "Isim",
+      "arti": "orang‑orang yang lemah/tertindas",
+      "sharaf": {
+        "akar_kata": "ض ع ف",
+        "makna_dasar": "lemah",
+        "wazan_perubahan": "مُستَفْعَل"
+      },
+      "nahwu": {
+        "kedudukan": "predikat (خبر) setelah kata كان",
+        "irab_dan_logika": "mansūb karena خبر كان, berakhiran tanwīn kasrah menandakan indefinit"
+      },
+      "hikmah": "*Mereka mengakui bahwa mereka berada dalam keadaan tertindas di bumi*",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "فِى",
+      "transliterasi": "fī",
+      "jenis_kata": "Huruf",
+      "arti": "di, dalam",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "huruf جرّ",
+        "irab_dan_logika": "sukun karena huruf, menghubungkan ke kata berikutnya"
+      },
+      "hikmah": "*Menunjukkan tempat atau ruang lingkup*",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "ٱلْأَرْضِ",
+      "transliterasi": "al‑arḍi",
+      "jenis_kata": "Isim",
+      "arti": "bumi, tanah",
+      "sharaf": {
+        "akar_kata": "ر ض",
+        "makna_dasar": "tanah",
+        "wazan_perubahan": "مَفْعَل"
+      },
+      "nahwu": {
+        "kedudukan": "اسم مجرور بحرف الجر فِى",
+        "irab_dan_logika": "kasrah karena جرّ، يدل على المكان"
+      },
+      "hikmah": "*Tempat di mana mereka berada dalam keadaan tertindas*",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Tanda baca",
+      "arti": "tanda berhenti (waqf)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "simbol waqf",
+        "irab_dan_logika": "menandai akhir ayat, tidak berharakat"
+      },
+      "hikmah": "*Memisahkan bagian kalimat sebelumnya dengan yang berikutnya*",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "قَالُوٓا۟",
+      "transliterasi": "qālū",
+      "jenis_kata": "Fiʿil",
+      "arti": "mereka berkata",
+      "sharaf": {
+        "akar_kata": "ق و ل",
+        "makna_dasar": "katakan",
+        "wazan_perubahan": "فَعَلَ"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ماضٍ مبني على الفتح",
+        "irab_dan_logika": "الواو ضمير متصل في محل رفع فاعل"
+      },
+      "hikmah": "*Menunjukkan pernyataan mereka setelah pertanyaan malaikat*",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "أَلَمْ",
+      "transliterasi": "ʾalam",
+      "jenis_kata": "Huruf",
+      "arti": "apakah tidak",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "حرف استفهام",
+        "irab_dan_logika": "مبني على السكون، يسبق فعل مضارع منصوب بـ نَكُنْ"
+      },
+      "hikmah": "*Menyampaikan pertanyaan retoris yang menegaskan kezaliman mereka*",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "تَكُنْ",
+      "transliterasi": "takun",
+      "jenis_kata": "Fi'il",
+      "arti": "menjadi, berada",
+      "sharaf": {
+        "akar_kata": "ك و ن",
+        "makna_dasar": "keberadaan, eksistensi",
+        "wazan_perubahan": "فَعَلَ (fa‘ala) – bentuk biasa"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja bentuk mudhari‘ (imperf) yang berfungsi sebagai predikat dalam iḍāfah \"أرض الله واسعة\"",
+        "irab_dan_logika": "berharakat sukun pada nun (kasrah) menandakan bentuk jussif/imperatif; di sini berfungsi sebagai kata kerja bantu yang menghubungkan subjek dengan sifat \"واسعةً\""
+      },
+      "hikmah": "Menegaskan bahwa bumi Allah **adalah** sesuatu yang luas; kata ini menambah kepastian dan penegasan makna sifat bumi.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "أَرْضُ",
+      "transliterasi": "arḍu",
+      "jenis_kata": "Isim",
+      "arti": "tanah, bumi",
+      "sharaf": {
+        "akar_kata": "ر ض",
+        "makna_dasar": "permukaan tanah, wilayah",
+        "wazan_perubahan": "مفعل (maf‘al) – bentuk isim"
+      },
+      "nahwu": {
+        "kedudukan": "subjek utama dalam kalimat \"أرض الله واسعة\"",
+        "irab_dan_logika": "berharakat dammah (ُ) menandakan i‘rāb raf‘ (nominatif) karena berfungsi sebagai mubtada’"
+      },
+      "hikmah": "Menunjukkan objek yang dimaksud dalam perintah hijrah, yaitu **bumi** yang dimiliki Allah.",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "ٱللَّهِ",
+      "transliterasi": "Allāhi",
+      "jenis_kata": "Isim",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "ل ه",
+        "makna_dasar": "nama Tuhan yang Maha Esa",
+        "wazan_perubahan": "مُصْدَر (musdar) – tidak berubah"
+      },
+      "nahwu": {
+        "kedudukan": "kata kedua dalam iḍāfah \"أرض الله\"; berfungsi sebagai mudhaf (yang dimiliki)",
+        "irab_dan_logika": "berkasrah (ِ) menandakan i‘rāb majrūr karena berada dalam iḍāfah"
+      },
+      "hikmah": "Menegaskan kepemilikan Allah atas bumi, menambah dimensi spiritual pada perintah hijrah.",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "وَٰسِعَةًۭ",
+      "transliterasi": "wāsi‘atan",
+      "jenis_kata": "Isim",
+      "arti": "luas, lebar",
+      "sharaf": {
+        "akar_kata": "س ع ر",
+        "makna_dasar": "keluasannya",
+        "wazan_perubahan": "فَعِيل (fa‘īl) – bentuk sifat"
+      },
+      "nahwu": {
+        "kedudukan": "sifat (khabar) bagi \"أرض\"; berfungsi sebagai predikat dalam iḍāfah",
+        "irab_dan_logika": "bertanwin fathah (ً) menandakan i‘rāb nasb (accusatif) karena mengikuti kata kerja \"تَكُنْ\" yang mengharuskan sifat dalam keadaan nasb"
+      },
+      "hikmah": "Menyiratkan bahwa bumi Allah **sangat luas**, memberi ruang bagi orang beriman untuk beremigrasi.",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "فَتُهَاجِرُوا۟",
+      "transliterasi": "fa‑tuhājirū",
+      "jenis_kata": "Fi'il",
+      "arti": "maka hijrahlah (kamu semua)",
+      "sharaf": {
+        "akar_kata": "ه ج ر",
+        "makna_dasar": "berpindah, hijrah",
+        "wazan_perubahan": "فَعَلَ (fa‘ala) – bentuk biasa"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja bentuk imperatif (ajr) dengan prefiks \"fa\" sebagai penghubung sebab‑akibat",
+        "irab_dan_logika": "berharakat dhammah pada alif akhir (وا) menandakan bentuk mudhari‘ (imperf) yang dipakai sebagai perintah kolektif; huruf \"فَ\" menghubungkan dengan ayat sebelumnya"
+      },
+      "hikmah": "Perintah ilahi agar umat memanfaatkan keluasaan bumi Allah dengan hijrah, menegaskan solusi praktis atas penindasan.",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "فِيهَا",
+      "transliterasi": "fīhā",
+      "jenis_kata": "Huruf",
+      "arti": "di dalamnya",
+      "sharaf": {
+        "akar_kata": "ف ي",
+        "makna_dasar": "di dalam",
+        "wazan_perubahan": "حرف جر (huruf jar) + ضمير متصل"
+      },
+      "nahwu": {
+        "kedudukan": "keterangan tempat (ظرف مكان) yang melengkapi kata kerja \"تُهَاجِرُوا\"",
+        "irab_dan_logika": "berkasrah pada huruf \"فِ\" menandakan jar; huruf \"هَا\" sebagai zamir mutsal (kata ganti) berfungsi sebagai objek preposisi"
+      },
+      "hikmah": "Menunjukkan lokasi hijrah, yaitu **di dalam bumi Allah** yang luas, menegaskan bahwa tidak ada tempat yang terlalu sempit untuk menegakkan keimanan.",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda baca)",
+      "jenis_kata": "Huruf",
+      "arti": "tanda berhenti atau jeda dalam ayat",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca di akhir ayat, berfungsi sebagai **waqf** (hentian)",
+        "irab_dan_logika": "tidak memiliki i‘rāb karena bukan kata, menandakan jeda untuk memudahkan pemahaman"
+      },
+      "hikmah": "menunjukkan akhir pemikiran atau pernyataan sebelum melanjutkan ke kalimat berikutnya",
+      "role": "none"
+    },
+    {
+      "index": 25,
+      "kata_arab": "فَأُو۟لَٰٓئِكَ",
+      "transliterasi": "fa‑ulā’ika",
+      "jenis_kata": "Isim (isim isyarah)",
+      "arti": "maka mereka itu",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 30,
+      "kata_arab": "مَصِيرًا",
+      "transliterasi": "maṣīran",
+      "jenis_kata": "Isim",
+      "arti": "tujuan, nasib",
+      "sharaf": {
+        "akar_kata": "ص-و-ر",
+        "makna_dasar": "berjalan, bergerak",
+        "wazan_perubahan": "maṣīr (māṣir) dengan pola maf‘ūl"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به (objek) dari فعل \"جَعَلْنَا\"",
+        "irab_dan_logika": "مَصِيرًا منصوب بالفتحة لأنّه مفعول به منصوب للفعل المتعدي"
+      },
+      "hikmah": "**Makna mendalam**: Allah menegaskan bahwa nasib akhir orang-orang yang menolak kebenaran adalah **masir** (tempat tujuan) yang buruk, yaitu neraka. Kata ini mengingatkan bahwa setiap tindakan di dunia menentukan **tujuan akhir** yang akan dihadapi, sehingga menumbuhkan kesadaran akan pentingnya memilih jalan yang benar sebelum sampai pada **masir** yang kekal.",
+      "role": "none"
+    }
+  ]
+}

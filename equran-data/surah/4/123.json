@@ -1,0 +1,348 @@
+{
+  "surah": 4,
+  "ayah": 123,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "لَّيْسَ",
+      "transliterasi": "laysa",
+      "jenis_kata": "Fi'il",
+      "arti": "bukan",
+      "sharaf": {
+        "akar_kata": "ك-و-ن",
+        "makna_dasar": "ada, menjadi",
+        "wazan_perubahan": "laysa (bentuk negatif kaana)"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja utama (fi'il) dalam kalimat",
+        "irab_dan_logika": "marfu' karena fi'il madhi, menegaskan penolakan"
+      },
+      "hikmah": "**Menegaskan** bahwa apa yang dibicarakan bukanlah sesuatu yang bersifat kosong atau sekadar harapan manusia.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "بِأَمَانِيكُمْ",
+      "transliterasi": "bi-amānīkum",
+      "jenis_kata": "Huruf (preposisi)",
+      "arti": "dengan harapanmu",
+      "sharaf": {
+        "akar_kata": "أ-م-ن",
+        "makna_dasar": "aman, harapan",
+        "wazan_perubahan": "bi- + amān (kata benda pola faʿāl)"
+      },
+      "nahwu": {
+        "kedudukan": "frasa preposisional yang menerangkan predikat",
+        "irab_dan_logika": "majrur karena preposisi bi‑, menandakan hubungan kepemilikan"
+      },
+      "hikmah": "**Menunjukkan** bahwa pahala tidak didasarkan pada harapan atau keinginan pribadi manusia.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "وَلَا",
+      "transliterasi": "wa-lā",
+      "jenis_kata": "Huruf (konjungsi)",
+      "arti": "dan tidak",
+      "sharaf": {
+        "akar_kata": "ل-ا",
+        "makna_dasar": "tidak, penolakan",
+        "wazan_perubahan": "particle lā"
+      },
+      "nahwu": {
+        "kedudukan": "kata hubung yang menambah penolakan",
+        "irab_dan_logika": "tidak berirab, berfungsi menghubungkan dua frasa negatif"
+      },
+      "hikmah": "**Menegaskan** penolakan tambahan terhadap harapan orang‑orang beriman.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "أَمَانِى",
+      "transliterasi": "amānī",
+      "jenis_kata": "Isim",
+      "arti": "harapan",
+      "sharaf": {
+        "akar_kata": "أ-م-ن",
+        "makna_dasar": "aman, harapan",
+        "wazan_perubahan": "faʿāl (jamak)"
+      },
+      "nahwu": {
+        "kedudukan": "objek negatif setelah lā",
+        "irab_dan_logika": "nasb karena berada di belakang particle lā (penolakan)"
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "ۗ",
+      "transliterasi": "(tanda ayat)",
+      "jenis_kata": "Huruf (simbol)",
+      "arti": "tanda pemisah ayat",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "simbol pemisah antara dua bagian ayat",
+        "irab_dan_logika": "tidak memiliki i‘rāb karena bukan kata, berfungsi menandai akhir segmen"
+      },
+      "hikmah": "Menunjukkan batas antara pernyataan tentang pahala Allah dan peringatan bagi orang yang berbuat kejahatan",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "مَن",
+      "transliterasi": "man",
+      "jenis_kata": "Isim (nama)",
+      "arti": "siapa",
+      "sharaf": {
+        "akar_kata": "م-ن-",
+        "makna_dasar": "siapa, orang yang",
+        "wazan_perubahan": "nama (isim) tidak berwazn"
+      },
+      "nahwu": {
+        "kedudukan": "isim mawsul (kata sambung) di awal klausa",
+        "irab_dan_logika": "mabni‘ (berkharakat sukun) karena berfungsi sebagai isim mawsul, menandai subjek bagi fi‘il berikutnya"
+      },
+      "hikmah": "Mengawali kalimat dengan menanyakan atau menegaskan siapa yang melakukan perbuatan selanjutnya",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "يَعْمَلْ",
+      "transliterasi": "ya‘mal",
+      "jenis_kata": "Fi‘il (kata kerja)",
+      "arti": "melakukan, mengerjakan",
+      "sharaf": {
+        "akar_kata": "ع-م-ل",
+        "makna_dasar": "bekerja, melakukan sesuatu",
+        "wazan_perubahan": "fi‘il mudhari‘ majzūm (مجزوم) karena setelah اسم شرط \"مَن\""
+      },
+      "nahwu": {
+        "kedudukan": "fi‘il mudhari‘ majzūm (verb) sebagai predikat bagi \"مَن\"",
+        "irab_dan_logika": "juz’ (berakhiran sukun) karena isim mawsul \"مَن\" menuntut fi‘il majzūm"
+      },
+      "hikmah": "Menegaskan bahwa orang yang dimaksud akan melakukan perbuatan, dengan penekanan pada kepastian tindakan",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "سُوٓءًۭا",
+      "transliterasi": "su'an",
+      "jenis_kata": "Isim (kata benda)",
+      "arti": "kejahatan, keburukan",
+      "sharaf": {
+        "akar_kata": "س-و-ء",
+        "makna_dasar": "buruk, jahat",
+        "wazan_perubahan": "isim masdar (sifat)"
+      },
+      "nahwu": {
+        "kedudukan": "maf‘ūl bih (objek) dari fi‘il \"يُجْزَ\"",
+        "irab_dan_logika": "mansūb (berakharakat fathah) dengan tanwīn karena berfungsi sebagai maf‘ūl"
+      },
+      "hikmah": "Menunjukkan jenis perbuatan yang akan mendapat balasan, yaitu kejahatan",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "يُجْزَ",
+      "transliterasi": "yujza",
+      "jenis_kata": "Fi‘il (kata kerja)",
+      "arti": "diberi balasan, dibalas",
+      "sharaf": {
+        "akar_kata": "ج-ز-ى",
+        "makna_dasar": "menjawab, memberi balasan",
+        "wazan_perubahan": "fi‘il mudhari‘ marfū‘ (مرفوع)"
+      },
+      "nahwu": {
+        "kedudukan": "fi‘il mudhari‘ marfū‘ sebagai predikat utama pada klausa kedua",
+        "irab_dan_logika": "marfū‘ (berakhiran dammah) karena tidak berada dalam keadaan jussive atau nasb; subjeknya tersirat (dia/Allah)"
+      },
+      "hikmah": "Menegaskan bahwa setiap kejahatan akan dibalas dengan kejahatan yang setara, tanpa perantara",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "بِهِۦ",
+      "transliterasi": "bihi",
+      "jenis_kata": "Huruf (preposisi) + ضمير متصل",
+      "arti": "dengan itu, oleh itu",
+      "sharaf": {
+        "akar_kata": "ب-ي",
+        "makna_dasar": "dengan, oleh",
+        "wazan_perubahan": "huruf jar + ضمير متصل"
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar yang menghubungkan \"يُجْزَ\" dengan objek \"سُوٓءً\"",
+        "irab_dan_logika": "bihī berkarakter jar (kasrah) karena huruf \"بِ\" memerlukan objek dalam keadaan جر"
+      },
+      "hikmah": "Menunjukkan cara balasan: kejahatan dibalas dengan kejahatan itu sendiri, tanpa perantara lain",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "وَلَا",
+      "transliterasi": "wa-lā",
+      "jenis_kata": "Huruf",
+      "arti": "dan tidak",
+      "sharaf": {
+        "akar_kata": "لَا",
+        "makna_dasar": "penolakan, negasi",
+        "wazan_perubahan": "tidak ada (partikel)"
+      },
+      "nahwu": {
+        "kedudukan": "kata sambung (huruf عطف) yang menolak kata kerja berikutnya",
+        "irab_dan_logika": "huruf لا الناهية, tidak berirab, menandakan fi'il berikutnya harus dalam bentuk مجزوم"
+      },
+      "hikmah": "Menegaskan bahwa tidak ada perlindungan atau penolong selain Allah.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "يَجِدْ",
+      "transliterasi": "yajid",
+      "jenis_kata": "Fi'il",
+      "arti": "menemukan",
+      "sharaf": {
+        "akar_kata": "ج د د",
+        "makna_dasar": "menemukan, memperoleh",
+        "wazan_perubahan": "fa‘ala → yajidu (bentuk mudhari‘ majzum karena لا الناهية)"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il majzum (مجزوم) karena didahului لا الناهية",
+        "irab_dan_logika": "berakhiran sukun (يَجِدْ) menandakan bentuk jussif sebagai respons terhadap لا"
+      },
+      "hikmah": "Tidak ada yang dapat menemukan (pelindung) selain Allah.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "لَهُۥ",
+      "transliterasi": "lahu",
+      "jenis_kata": "Huruf",
+      "arti": "bagi dia",
+      "sharaf": {
+        "akar_kata": "ل",
+        "makna_dasar": "kepada, untuk",
+        "wazan_perubahan": "preposisi + ضمير متصل"
+      },
+      "nahwu": {
+        "kedudukan": "huruf جر (لـ) yang mengikat ضمير متصل هُ",
+        "irab_dan_logika": "حرف جر يجر الاسم أو الضمير إلى حالة الجر؛ الضمير هُ في حالة الجر (kasrah) tidak tampak karena terikat"
+      },
+      "hikmah": "Menunjukkan kepemilikan atau tujuan, yaitu 'bagi dia' (si pelaku kejahatan).",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "مِن",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "م ن",
+        "makna_dasar": "asal, sumber",
+        "wazan_perubahan": "tidak ada (partikel)"
+      },
+      "nahwu": {
+        "kedudukan": "huruf جر (preposisi)",
+        "irab_dan_logika": "menghubungkan kata berikutnya ke dalam keadaan جر; tidak berubah bentuk"
+      },
+      "hikmah": "Menunjukkan sumber atau asal, dalam konteks ini 'dari' yang menolak adanya pelindung selain Allah.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "دُونِ",
+      "transliterasi": "dūni",
+      "jenis_kata": "Isim",
+      "arti": "selain, di bawah",
+      "sharaf": {
+        "akar_kata": "د و ن",
+        "makna_dasar": "bawah, selain",
+        "wazan_perubahan": "fa‘il (دون) dalam bentuk جر karena preposisi مِن"
+      },
+      "nahwu": {
+        "kedudukan": "اسم مجرور بحرف الجر مِن",
+        "irab_dan_logika": "مجرور وعلامة جرّه الكسرة الظاهرة على آخره (دُونِ) لأنّها تابعة لحرف الجر مِن"
+      },
+      "hikmah": "Menguatkan bahwa tidak ada apa pun yang berada di luar (selain) Allah yang dapat menjadi pelindung.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "ٱللَّهِ",
+      "transliterasi": "Allāh",
+      "jenis_kata": "Isim",
+      "arti": "Allah (Tuhan)",
+      "sharaf": {
+        "akar_kata": "ل ه",
+        "makna_dasar": "Tuhan yang Maha Esa",
+        "wazan_perubahan": "nama khusus, tidak berubah bentuk"
+      },
+      "nahwu": {
+        "kedudukan": "اسم مجرور بحرف الجر دُونِ",
+        "irab_dan_logika": "مجرور وعلامة جرّه الكسرة الظاهرة على آخره (ٱللَّهِ) لأنّها تابعة لحرف الجر دُونِ"
+      },
+      "hikmah": "Menegaskan bahwa satu-satunya pelindung dan penolong yang hak adalah Allah.",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "وَلِيًّۭا",
+      "transliterasi": "waliyyan",
+      "jenis_kata": "Isim",
+      "arti": "pelindung, wali, penjaga",
+      "sharaf": {
+        "akar_kata": "و-ل-ي",
+        "makna_dasar": "menjaga, melindungi",
+        "wazan_perubahan": "فَعِيل"
+      },
+      "nahwu": {
+        "kedudukan": "objek (مفعول به) dari فعل النفي \"لا يَجْزِي\"",
+        "irab_dan_logika": "مُنصَب بالفتحة وعلامة النصب تنوين النصب لأنّه مفعول به منصوب"
+      },
+      "hikmah": "*Tidak ada yang menjadi pelindung (wali) bagi orang yang berbuat kejahatan selain Allah.*",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "وَلَا",
+      "transliterasi": "wa la",
+      "jenis_kata": "Huruf",
+      "arti": "dan tidak",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "حرف عطف ونفي يربط بين الجمل وينفي ما بعده",
+        "irab_dan_logika": "ليس له إعراب، يسبق الاسم المنصوب"
+      },
+      "hikmah": "*Menegaskan bahwa tidak ada pelindung maupun penolong.*",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "نَصِيرًۭا",
+      "transliterasi": "nasiran",
+      "jenis_kata": "Isim",
+      "arti": "penolong, penyokong",
+      "sharaf": {
+        "akar_kata": "ن-ص-ر",
+        "makna_dasar": "menolong, membantu",
+        "wazan_perubahan": "فَعِيل"
+      },
+      "nahwu": {
+        "kedudukan": "objek (مفعول به) من الفعل \"لا يَجْزِي\"",
+        "irab_dan_logika": "مُنصَب بالفتحة وعلامة النصب تنوين النصب لأنه مفعول به"
+      },
+      "hikmah": "*Tidak ada yang menjadi penolong (nasir) bagi orang yang berbuat kejahatan selain Allah.*",
+      "role": "none"
+    }
+  ]
+}

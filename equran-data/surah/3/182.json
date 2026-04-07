@@ -1,0 +1,168 @@
+{
+  "surah": 3,
+  "ayah": 182,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "ذَٰلِكَ",
+      "transliterasi": "dhālika",
+      "jenis_kata": "Isim",
+      "arti": "itu (kata tunjuk)",
+      "sharaf": {
+        "akar_kata": "ذ-ل-ك",
+        "makna_dasar": "menunjukkan sesuatu yang telah disebut atau jauh",
+        "wazan_perubahan": "bentuk ism dhālik (demonstratif) tunggal maskulin"
+      },
+      "nahwu": {
+        "kedudukan": "مبتدأ (subjek) dalam جملة اسمية",
+        "irab_dan_logika": "مرفوع بالضمة لأنّه مبتدأ غير مرفوع بحرف جر"
+      },
+      "hikmah": "Menandakan bahwa azab tersebut adalah akibat tindakan manusia sendiri.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "بِمَا",
+      "transliterasi": "bimā",
+      "jenis_kata": "Huruf",
+      "arti": "karena apa / dengan apa",
+      "sharaf": {
+        "akar_kata": "ب-م-ا",
+        "makna_dasar": "menunjukkan sebab atau cara",
+        "wazan_perubahan": "huruf جرّ (bi) + اسم موصول (mā) مجرور"
+      },
+      "nahwu": {
+        "kedudukan": "جار ومجرور يَتَبعُ المبتدأ \"ذَٰلِكَ\"",
+        "irab_dan_logika": "مجرور بالكسرة لأنّها حرف جر يجر ما بعده"
+      },
+      "hikmah": "Menjelaskan bahwa azab itu disebabkan oleh perbuatan yang telah dilakukan.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "قَدَّمَتْ",
+      "transliterasi": "qaddamat",
+      "jenis_kata": "Fi'il",
+      "arti": "menyampaikan, mendahului, mengerjakan",
+      "sharaf": {
+        "akar_kata": "ق-د-م",
+        "makna_dasar": "mendahului, mengerjakan",
+        "wazan_perubahan": "فعل وزن II (faʿʿala) – الماضي المرفوع بالفتحة مع تاء التأنيث"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ماضٍ مبني على الفتح",
+        "irab_dan_logika": "ليس له إعراب؛ الفاعل ضمير مستتر تقديره \"هي\" (العذاب)"
+      },
+      "hikmah": "Azab itu terjadi karena apa yang telah dilakukan (perbuatan) oleh tangan manusia.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "أَيْدِيكُمْ",
+      "transliterasi": "aydikum",
+      "jenis_kata": "Isim",
+      "arti": "tanganmu",
+      "sharaf": {
+        "akar_kata": "ي-د-",
+        "makna_dasar": "tangan",
+        "wazan_perubahan": "جمع مؤنث سالم (أيدي) + ضمير متصل (كم) للملكية"
+      },
+      "nahwu": {
+        "kedudukan": "مضاف إليه مجرور في جملة \"قَدَّمَتْ أَيْدِيكُمْ\"",
+        "irab_dan_logika": "مجرور بالكسرة لأنّها مضاف إليه، والضمير المتصل \"كم\" في محل جر"
+      },
+      "hikmah": "Menegaskan bahwa perbuatan itu berasal dari tindakan pribadi manusia (tangan mereka).",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "وَأَنَّ",
+      "transliterasi": "wa-anna",
+      "jenis_kata": "Huruf",
+      "arti": "dan bahwa",
+      "sharaf": {
+        "akar_kata": "أ-ن-ن",
+        "makna_dasar": "menyatakan kepastian atau penegasan",
+        "wazan_perubahan": "حرف توكيد ونصب (أنّ) مسبوقًا بحرف عطف (و)"
+      },
+      "nahwu": {
+        "kedudukan": "حرف عطف + حرف توكيد (أنّ) يربط الجملة السابقة بالجملة التالية",
+        "irab_dan_logika": "أنّ حرف نصب يجر المبتدأ ويجعل الخبر منصوبًا؛ لذا يأتي بعده اسم منصوب"
+      },
+      "hikmah": "Menghubungkan pernyataan sebelumnya dengan penegasan tentang keadilan Allah.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "ٱللَّهَ",
+      "transliterasi": "Allāha",
+      "jenis_kata": "Isim",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "— (nama khusus)",
+        "makna_dasar": "Nama Tuhan dalam Islam",
+        "wazan_perubahan": "اسم علم لا يتغير"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به (مستقبل) من حرف النصب \"أنّ\"",
+        "irab_dan_logika": "منصوب بالفتحة لأنه مفعول به من أنّ"
+      },
+      "hikmah": "Menegaskan bahwa Allah tidak menganiaya hamba‑Nya.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "لَيْسَ",
+      "transliterasi": "laysa",
+      "jenis_kata": "Isim (kata kerja negasi)",
+      "arti": "bukan",
+      "sharaf": {
+        "akar_kata": "ل س ي",
+        "makna_dasar": "tidak ada, tidak",
+        "wazan_perubahan": "laf‘ maftuh (verb)"
+      },
+      "nahwu": {
+        "kedudukan": "predikat (khabar) dalam kalimat nominal",
+        "irab_dan_logika": "مرفوع بالضمة لأنّها فعل مضارع ناقص يُنفي"
+      },
+      "hikmah": "*ليس* menegaskan bahwa azab tersebut bukan karena kehendak Allah, melainkan akibat perbuatan manusia sendiri.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "بِظَلَّامٍۢ",
+      "transliterasi": "biẓallāmin",
+      "jenis_kata": "Isim (isim majrur)",
+      "arti": "dengan kezaliman",
+      "sharaf": {
+        "akar_kata": "ظ ل م",
+        "makna_dasar": "zalim, kezaliman",
+        "wazan_perubahan": "fa‘lāl"
+      },
+      "nahwu": {
+        "kedudukan": "jar (مجرور) setelah huruf جر *bi*",
+        "irab_dan_logika": "مجرور بالكسرة لأنّها مضافة إلى حرف الجر"
+      },
+      "hikmah": "*بِظَلَّامٍ* menunjukkan bahwa azab datang karena tindakan zalim yang dilakukan manusia.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "لِّلْعَبِيدِ",
+      "transliterasi": "lil‘abīdi",
+      "jenis_kata": "Isim (isim majrur)",
+      "arti": "bagi hamba‑hamba",
+      "sharaf": {
+        "akar_kata": "ع ب د",
+        "makna_dasar": "hamba, budak",
+        "wazan_perubahan": "fa‘īl"
+      },
+      "nahwu": {
+        "kedudukan": "jar (مجرور) setelah huruf الجر *li*",
+        "irab_dan_logika": "مجرور بالكسرة لأنّها مضافة إلى حرف الجر"
+      },
+      "hikmah": "*لِّلْعَبِيدِ* menegaskan bahwa Allah tidak menganiaya hamba‑Nya; keadilan Allah meliputi semua hamba.",
+      "role": "none"
+    }
+  ]
+}

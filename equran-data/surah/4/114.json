@@ -1,0 +1,312 @@
+{
+  "surah": 4,
+  "ayah": 114,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "لَّا",
+      "transliterasi": "lā",
+      "jenis_kata": "Huruf",
+      "arti": "tidak",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Partikel negatif yang mendahului isim **خَيْرَ**",
+        "irab_dan_logika": "Tidak berharakat karena huruf, berfungsi menafikan kata berikutnya"
+      },
+      "hikmah": "Menegaskan ketiadaan kebaikan dalam konteks ayat",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "خَيْرَ",
+      "transliterasi": "khayra",
+      "jenis_kata": "Isim",
+      "arti": "kebaikan",
+      "sharaf": {
+        "akar_kata": "خ-ي-ر",
+        "makna_dasar": "baik, baik hati",
+        "wazan_perubahan": "fa‘il (masdar)"
+      },
+      "nahwu": {
+        "kedudukan": "Objek (مفعول به) dari partikel **لَّا**",
+        "irab_dan_logika": "Berharakat **fatḥa** (نصب) karena setelah **لَّا** yang menuntut nasb"
+      },
+      "hikmah": "Mengacu pada segala bentuk kebaikan yang dapat diukur",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "فِى",
+      "transliterasi": "fī",
+      "jenis_kata": "Huruf",
+      "arti": "di, dalam",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Preposisi yang menghubungkan **خَيْرَ** dengan **كَثِيرٍ**",
+        "irab_dan_logika": "Tidak berharakat; menuntut isim berikutnya berkasrah (جر)"
+      },
+      "hikmah": "Menunjukkan ruang lingkup atau tempat kebaikan yang dibicarakan",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "كَثِيرٍۢ",
+      "transliterasi": "kathīrin",
+      "jenis_kata": "Isim",
+      "arti": "banyak",
+      "sharaf": {
+        "akar_kata": "ك-ث-ر",
+        "makna_dasar": "kelimpahan, banyak",
+        "wazan_perubahan": "fa‘īl (isim sifat)"
+      },
+      "nahwu": {
+        "kedudukan": "Isim majrur setelah preposisi **فِى**",
+        "irab_dan_logika": "Berharakat **kasrah** (كسرة) karena berada dalam posisi jarr"
+      },
+      "hikmah": "Menunjukkan bahwa kebanyakan bisikan tidak mengandung kebaikan",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "مِّن",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Preposisi yang memperkenalkan **نَّجْوَىٰهُمْ**",
+        "irab_dan_logika": "Tidak berharakat; menuntut isim berikutnya berkasrah (جر)"
+      },
+      "hikmah": "Menandakan asal atau sumber bisikan yang dimaksud",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "نَّجْوَىٰهُمْ",
+      "transliterasi": "najwāhum",
+      "jenis_kata": "Isim",
+      "arti": "bisikan mereka",
+      "sharaf": {
+        "akar_kata": "ن-ج-و",
+        "makna_dasar": "bisik, rahasia",
+        "wazan_perubahan": "fa‘la (isim sifat/masdar)"
+      },
+      "nahwu": {
+        "kedudukan": "Isim majrur setelah preposisi **مِّن**",
+        "irab_dan_logika": "Berharakat **kasrah** (كسرة) karena berada dalam posisi jarr; akhiran **هُمْ** menambah kepemilikan"
+      },
+      "hikmah": "Menyiratkan bahwa kebanyakan bisikan pribadi tidak mengandung kebaikan",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "إِلَّا",
+      "transliterasi": "illa",
+      "jenis_kata": "Huruf (harf istisna)",
+      "arti": "kecuali, selain",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "menunjukkan pengecualian",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf istisna yang menghubungkan kata sebelumnya (الْقَوْلِ) dengan kata berikutnya (مَنْ)",
+        "irab_dan_logika": "مبني على السكون لا إعراب له، لكنه يجر ما بعده (مَنْ) ويُنصب لأنه حرف استثناء"
+      },
+      "hikmah": "*إِلَّا* menandakan bahwa hanya orang‑orang tertentu yang dikecualikan dari larangan, yaitu mereka yang memerintahkan sedekah atau ma'ruf.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "مَنْ",
+      "transliterasi": "man",
+      "jenis_kata": "Isim (isim mawsul/اسم موصول)",
+      "arti": "siapa",
+      "sharaf": {
+        "akar_kata": "م‑ن‑",
+        "makna_dasar": "orang yang",
+        "wazan_perubahan": "اسم موصول"
+      },
+      "nahwu": {
+        "kedudukan": "اسم موصول مبني على الضم في محل نصب (مَنْ أَمَرَ)",
+        "irab_dan_logika": "من منصوب لأنه مفعول به من حرف الاستثناء إِلَّا"
+      },
+      "hikmah": "*مَنْ* berfungsi sebagai subjek orang yang melakukan perintah, menegaskan bahwa yang dimaksud adalah “siapa yang memerintahkan”.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "أَمَرَ",
+      "transliterasi": "amara",
+      "jenis_kata": "Fi'il (verb, past tense, 3rd person masc. singular)",
+      "arti": "memerintahkan",
+      "sharaf": {
+        "akar_kata": "أ‑م‑ر",
+        "makna_dasar": "memerintahkan, memberi perintah",
+        "wazan_perubahan": "فعل ماضٍ ثلاثي مجرد"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ماضٍ مبني على الفتح، والفاعل ضمير مستتر تقديره هو (المُؤْمِن)",
+        "irab_dan_logika": "الفعل لا إعراب له، والفاعل مستتر لأنه فعل ماضٍ"
+      },
+      "hikmah": "*أَمَرَ* menegaskan tindakan memberi perintah kepada orang lain untuk melakukan sedekah atau perbuatan baik.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "بِصَدَقَةٍ",
+      "transliterasi": "biṣadaqatin",
+      "jenis_kata": "Huruf (حرف جر) + Isim (اسم مجرور)",
+      "arti": "dengan sedekah",
+      "sharaf": {
+        "akar_kata": "ص‑د‑ق",
+        "makna_dasar": "sedekah, amal memberi",
+        "wazan_perubahan": "اسم فَعَلَة"
+      },
+      "nahwu": {
+        "kedudukan": "اسم مجرور بحرف الجر بِ، وعلامة جره الكسرة",
+        "irab_dan_logika": "الباء حرف جر، والصدقة اسم مجرور بالكسرة لأنه تابع لحرف الجر"
+      },
+      "hikmah": "*بِصَدَقَةٍ* menunjukkan bentuk perintah berupa amal sedekah, yang termasuk dalam perbuatan yang dianjurkan.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "أَوْ",
+      "transliterasi": "aw",
+      "jenis_kata": "Huruf (حرف عطف)",
+      "arti": "atau",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "menyatakan pilihan",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "حرف عطف يربط بين المجرورين (بِصَدَقَةٍ وَمَعْرُوفٍ)",
+        "irab_dan_logika": "مبني على السكون لا إعراب له، يربط بين جزأين متساويين"
+      },
+      "hikmah": "*أَوْ* memperluas pilihan, menyatakan bahwa perintah dapat berupa sedekah **atau** perbuatan ma'ruf.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "مَعْرُوفٍ",
+      "transliterasi": "maʿrūfin",
+      "jenis_kata": "Isim (اسم مجرور)",
+      "arti": "perbuatan baik yang dikenal",
+      "sharaf": {
+        "akar_kata": "ع‑ر‑ف",
+        "makna_dasar": "yang diketahui baik, perbuatan yang diakui baik",
+        "wazan_perubahan": "اسم مَفْعُول"
+      },
+      "nahwu": {
+        "kedudukan": "اسم مجرور بحرف العطف أَوْ، وعلامة جره الكسرة",
+        "irab_dan_logika": "مجرور بالكسرة لأنه تابع لحرف العطف"
+      },
+      "hikmah": "*مَعْرُوفٍ* merujuk pada amal yang secara umum diakui baik, melengkapi konsep perintah selain sedekah.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "أَوْ",
+      "transliterasi": "aw",
+      "jenis_kata": "Huruf",
+      "arti": "atau",
+      "sharaf": {
+        "akar_kata": "أ و",
+        "makna_dasar": "konjungsi yang memberi pilihan",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "يَفْعَلْ",
+      "transliterasi": "yaf‘al",
+      "jenis_kata": "Fi‘il (verb)",
+      "arti": "melakukan",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "نُؤْتِيهِ",
+      "transliterasi": "nuʾtīhi",
+      "jenis_kata": "Fi'il (verb)",
+      "arti": "memberi (kita) kepadanya",
+      "sharaf": {
+        "akar_kata": "أ-و-ت",
+        "makna_dasar": "memberi",
+        "wazan_perubahan": "فعل مضارع مرفوع بالضمة مع ضمير متصل"
+      },
+      "nahwu": {
+        "kedudukan": "Predikat (fi'il) dalam kalimat, subjek tersirat *kami*",
+        "irab_dan_logika": "مرفوع بالضمة لأن الفعل مضارع مرفوع، والضمير المتصل (هِ) في محل جر"
+      },
+      "hikmah": "**Allah** menjanjikan bahwa *pemberian* kepada orang yang beramal akan diberikan dengan **kebaikan** yang besar.",
+      "role": "none"
+    },
+    {
+      "index": 25,
+      "kata_arab": "أَجْرًا",
+      "transliterasi": "ajran",
+      "jenis_kata": "Isim (noun)",
+      "arti": "pahala, upah",
+      "sharaf": {
+        "akar_kata": "ج-ر-",
+        "makna_dasar": "pahala, upah",
+        "wazan_perubahan": "اسم مصدر من الفعل أجرّ (أَفْعَل)"
+      },
+      "nahwu": {
+        "kedudukan": "Maf‘ūl bih (objek) pertama dari fi'il *نُؤْتِيهِ*",
+        "irab_dan_logika": "منصوب بالفتحة وعلامة النصب تنوين الفتح لأنّه مضاف غير معرف"
+      },
+      "hikmah": "Pahala yang dijanjikan bersifat **nyata** dan **berharga**, diberikan kepada yang beramal.",
+      "role": "none"
+    },
+    {
+      "index": 26,
+      "kata_arab": "عَظِيمًۭا",
+      "transliterasi": "ʿaẓīman",
+      "jenis_kata": "Isim (adjective)",
+      "arti": "besar, agung",
+      "sharaf": {
+        "akar_kata": "ع-ظ-م",
+        "makna_dasar": "keagungan, kebesaran",
+        "wazan_perubahan": "صفة فعيل"
+      },
+      "nahwu": {
+        "kedudukan": "Naats (sifat) yang menerangkan *أَجْرًا*",
+        "irab_dan_logika": "منصوب بالفتحة وعلامة النصب تنوين الفتح لأنّ النعت يتبع الممنوع منه في الإعراب"
+      },
+      "hikmah": "Pahala yang diberikan **sangat agung**; menegaskan bahwa balasan Allah tidak sekadar biasa, melainkan **luar biasa**.",
+      "role": "none"
+    }
+  ]
+}

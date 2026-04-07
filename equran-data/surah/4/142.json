@@ -1,0 +1,330 @@
+{
+  "surah": 4,
+  "ayah": 142,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "إِنَّ",
+      "transliterasi": "inna",
+      "jenis_kata": "Huruf (partikel)",
+      "arti": "sesungguhnya",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "menegaskan kebenaran, penegasan",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf مشبه (menyatakan keutamaan) yang memperkenalkan جملة اسمية",
+        "irab_dan_logika": "Tidak memiliki إعراب karena huruf مشبه، tetap مرفوع"
+      },
+      "hikmah": "**إِنَّ** menegaskan bahwa apa yang akan disebutkan selanjutnya adalah fakta yang pasti dan tidak dapat dipertanyakan.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "ٱلْمُنَٰفِقِينَ",
+      "transliterasi": "al‑munāfiqīna",
+      "jenis_kata": "Isim (kata benda)",
+      "arti": "orang‑orang munafik",
+      "sharaf": {
+        "akar_kata": "ن‑ف‑ق",
+        "makna_dasar": "menipu, berkhianat",
+        "wazan_perubahan": "مُفَعِل (bentuk isim muf‘al) – bentuk jamak مَنَافِقُون → مَنَافِقِينَ"
+      },
+      "nahwu": {
+        "kedudukan": "اسم إنّ منصوب (karena setelah حرف إنّ)",
+        "irab_dan_logika": "منصوب بالكسرة لأنّ اسم إنّ منصوب، dan nun tasydid mengubah tanda akhir menjadi kasrah"
+      },
+      "hikmah": "**ٱلْمُنَٰفِقِينَ** menunjukkan kelompok orang yang berpura‑pura beriman, namun hatinya penuh kepalsuan.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "يُخَٰدِعُونَ",
+      "transliterasi": "yukhaḍiʿūna",
+      "jenis_kata": "Fiʿl (kata kerja)",
+      "arti": "menipu",
+      "sharaf": {
+        "akar_kata": "خ‑د‑ع",
+        "makna_dasar": "mengelabui, menipu",
+        "wazan_perubahan": "يَفْعَلون (bentuk فعل مضارع مرفوع)"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع (subjek tersirat mereka)",
+        "irab_dan_logika": "مرفوع بالضمة لأنّ الفعل المضارع يرفع بالضمة إذا لم يسبق بأداة نصب"
+      },
+      "hikmah": "**يُخَٰدِعُونَ** menegaskan tindakan aktif para munafik yang secara sengaja menipu Allah.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "ٱللَّهَ",
+      "transliterasi": "Allāha",
+      "jenis_kata": "Isim (kata benda)",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "ل‑ه (nama Allah)",
+        "makna_dasar": "Nama Tuhan Yang Maha Esa",
+        "wazan_perubahan": "اسم علم"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به أول (objek dari يُخَٰدِعُونَ)",
+        "irab_dan_logika": "منصوب بالفتحة لأنه مفعول به"
+      },
+      "hikmah": "**ٱللَّهَ** adalah target penipuan para munafik; Allah tidak dapat ditipu, melainkan yang menipu mereka.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "وَهُوَ",
+      "transliterasi": "wa huwa",
+      "jenis_kata": "Huruf (واو العطف) + ضمير منفصل",
+      "arti": "dan Dia (Allah)",
+      "sharaf": {
+        "akar_kata": "ه‑و‑ا (kata ganti)",
+        "makna_dasar": "menunjuk kepada Allah sebagai subjek selanjutnya",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "واو العطف لا إعراب له؛ هو مبتدأ مرفوع",
+        "irab_dan_logika": "هو مرفوع بالضمة لأنه مبتدأ في جملة الخبر"
+      },
+      "hikmah": "**وَهُوَ** memperkenalkan fakta bahwa Allah-lah yang menipu mereka, bukan mereka menipu Allah.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "خَٰدِعُهُمْ",
+      "transliterasi": "khādiʿuhum",
+      "jenis_kata": "Isim (اسم فاعل) dengan ضمير متصل",
+      "arti": "penipu mereka",
+      "sharaf": {
+        "akar_kata": "خ‑د‑ع",
+        "makna_dasar": "menipu, mengelabui",
+        "wazan_perubahan": "فَاعِل (اسم فاعل)"
+      },
+      "nahwu": {
+        "kedudukan": "خبر (khabar) untuk هو مرفوع",
+        "irab_dan_logika": "مرفوع بالضمة لأنّ الخبر مرفوع، والضمير المتصل (هم) لا يؤثر على إعراب الاسم"
+      },
+      "hikmah": "**خَٰدِعُهُمْ** menegaskan bahwa Allah-lah yang menipu orang‑orang munafik, menegaskan keadilan dan balasan-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "وَإِذَا",
+      "transliterasi": "wa-idhā",
+      "jenis_kata": "Huruf",
+      "arti": "dan apabila",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "menunjukkan syarat waktu",
+        "wazan_perubahan": "kata hubung, tidak berubah"
+      },
+      "nahwu": {
+        "kedudukan": "kata sambung yang menghubungkan klausa sebelumnya dengan klausa berikutnya",
+        "irab_dan_logika": "marfu‘ karena huruf, tidak berharakat akhir, berfungsi sebagai حرف شرط"
+      },
+      "hikmah": "menunjukkan bahwa tindakan selanjutnya terjadi bila kondisi tertentu terpenuhi",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "قَامُوٓا۟",
+      "transliterasi": "qāmū",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka berdiri",
+      "sharaf": {
+        "akar_kata": "ق-و-م",
+        "makna_dasar": "berdiri",
+        "wazan_perubahan": "madhi thulathi majrur (قَامُوا)"
+      },
+      "nahwu": {
+        "kedudukan": "predikat dalam klausa إِذَا قَامُوا إِلَى الصَّلَاةِ",
+        "irab_dan_logika": "marfu‘ karena فعل ماضٍ, tanda harakat dhammah pada alif"
+      },
+      "hikmah": "menunjukkan kesiapan mereka untuk melakukan shalat, namun dengan niat yang buruk",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "إِلَى",
+      "transliterasi": "ilā",
+      "jenis_kata": "Huruf",
+      "arti": "ke, menuju",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "menunjukkan arah tujuan",
+        "wazan_perubahan": "kata depan, tidak berubah"
+      },
+      "nahwu": {
+        "kedudukan": "menyambungkan فعل قَامُوا dengan objek الصَّلَاةِ",
+        "irab_dan_logika": "jar (majrur) karena huruf, tidak berharakat akhir"
+      },
+      "hikmah": "menunjukkan arah tindakan mereka yaitu menuju shalat",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "ٱلصَّلَوٰةِ",
+      "transliterasi": "aṣ-ṣalāhati",
+      "jenis_kata": "Isim",
+      "arti": "shalat",
+      "sharaf": {
+        "akar_kata": "ص-ل-و",
+        "makna_dasar": "ibadah shalat",
+        "wazan_perubahan": "isim mufradah, bentuk madhi dari فعل صَلّى"
+      },
+      "nahwu": {
+        "kedudukan": "mansoob (majrur) karena preposisi إِلَى",
+        "irab_dan_logika": "kasrah pada akhir karena majrur"
+      },
+      "hikmah": "menunjukkan objek ibadah yang mereka dekati",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "قَامُوا۟",
+      "transliterasi": "qāmū",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka berdiri",
+      "sharaf": {
+        "akar_kata": "ق-و-م",
+        "makna_dasar": "berdiri",
+        "wazan_perubahan": "madhi thulathi majrur (قَامُوا)"
+      },
+      "nahwu": {
+        "kedudukan": "predikat kedua yang menegaskan tindakan yang sama",
+        "irab_dan_logika": "marfu‘ karena فعل ماضٍ, dammah pada akhir"
+      },
+      "hikmah": "menegaskan konsistensi tindakan mereka, tetapi dengan sifat malas",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "كُسَالَىٰ",
+      "transliterasi": "kusālā",
+      "jenis_kata": "Isim",
+      "arti": "malas",
+      "sharaf": {
+        "akar_kata": "ك-س-ل",
+        "makna_dasar": "kemalasan",
+        "wazan_perubahan": "isim sifat jamak taksir (كُسَالَى)"
+      },
+      "nahwu": {
+        "kedudukan": "khabar (predikat) untuk قَامُوا",
+        "irab_dan_logika": "marfu‘ karena menjadi خبر, dammah pada alif"
+      },
+      "hikmah": "menunjukkan bahwa mereka berdiri dengan sifat malas, menandakan niat tidak tulus",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "يُرَآءُونَ",
+      "transliterasi": "yurāʾūna",
+      "jenis_kata": "Fi'il (verb)",
+      "arti": "menunjukkan diri (menampakkan) kepada orang lain",
+      "sharaf": {
+        "akar_kata": "ر-أ-ى",
+        "makna_dasar": "melihat, menampakkan",
+        "wazan_perubahan": "يفاعِلون (bentuk mudhari‘)"
+      },
+      "nahwu": {
+        "kedudukan": "Predikat (fi‘l) yang merujuk pada subjek orang munafik yang tersirat",
+        "irab_dan_logika": "مرفوع بالضمة الظاهرة على الواو لأن الفعل مضارع مرفوع"
+      },
+      "hikmah": "*Mereka menampakkan diri kepada manusia dengan maksud riya.*",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "ٱلنَّاسَ",
+      "transliterasi": "an-nāsa",
+      "jenis_kata": "Isim (noun)",
+      "arti": "manusia",
+      "sharaf": {
+        "akar_kata": "ن-و-س",
+        "makna_dasar": "orang, manusia",
+        "wazan_perubahan": "جمع تكسير"
+      },
+      "nahwu": {
+        "kedudukan": "Objek (مفعول به) dari فعل يُرَاؤُونَ",
+        "irab_dan_logika": "منصوب بالفتحة الظاهرة على آخره"
+      },
+      "hikmah": "*Mereka menampakkan diri **kepada manusia**.*",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "وَلَا",
+      "transliterasi": "walā",
+      "jenis_kata": "Huruf (conjunction)",
+      "arti": "dan tidak",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "huruf عطف ونفي",
+        "wazan_perubahan": "حرف عطف"
+      },
+      "nahwu": {
+        "kedudukan": "Penghubung antara dua predikat (يُرَاؤُونَ … يَذْكُرُونَ)",
+        "irab_dan_logika": "ليس له إعراب، حرف عطف ونفي"
+      },
+      "hikmah": "*Menunjukkan penolakan atau pengecualian pada tindakan berikutnya.*",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "يَذْكُرُونَ",
+      "transliterasi": "yadhkurūna",
+      "jenis_kata": "Fi'il (verb)",
+      "arti": "mengingat, menyebut",
+      "sharaf": {
+        "akar_kata": "ذ-ك-ر",
+        "makna_dasar": "mengingat, menyebut",
+        "wazan_perubahan": "يفعلون (bentuk mudhari‘)"
+      },
+      "nahwu": {
+        "kedudukan": "Predikat (fi‘l) yang berhubungan dengan subjek orang munafik",
+        "irab_dan_logika": "مرفوع بالضمة الظاهرة على النون لأن الفعل مضارع مرفوع"
+      },
+      "hikmah": "*Mereka tidak menyebut Allah.*",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "ٱللَّهَ",
+      "transliterasi": "Allāha",
+      "jenis_kata": "Isim (noun)",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "قَلِيلًۭا",
+      "transliterasi": "qalīlan",
+      "jenis_kata": "Isim (isim sifat)",
+      "arti": "sedikit, dalam jumlah yang tidak banyak",
+      "sharaf": {
+        "akar_kata": "قَلَلَ",
+        "makna_dasar": "mengurangi, menjadi sedikit",
+        "wazan_perubahan": "bentuk isim maf‘ul (qalīlan) dari fi‘il qalala"
+      },
+      "nahwu": {
+        "kedudukan": "maf‘ul (objek) dari fi‘il ‘adhara (menyebut) dalam ayat",
+        "irab_dan_logika": "dengan harakat kasrah dan tanwin kasrah menandakan indefinit (tanwin) sebagai maf‘ul mutlaq"
+      },
+      "hikmah": "menegaskan bahwa orang munafik hanya menyebut Allah dalam jumlah yang sangat sedikit, menyoroti sifat kealpaan dan riya mereka dalam ibadah",
+      "role": "none"
+    }
+  ]
+}

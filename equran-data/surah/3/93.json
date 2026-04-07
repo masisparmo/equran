@@ -1,0 +1,456 @@
+{
+  "surah": 3,
+  "ayah": 93,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "كُلُّ",
+      "transliterasi": "kullu",
+      "jenis_kata": "Isim",
+      "arti": "semua, setiap",
+      "sharaf": {
+        "akar_kata": "ك ل ل (K-L-L)",
+        "makna_dasar": "keseluruhan, kelengkapan",
+        "wazan_perubahan": "Isim (bentuk dasar)"
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada' (subjek)",
+        "irab_dan_logika": "Marfu' dengan dhammah (ضمة) karena sebagai mubtada' yang merupakan awal kalimat nominal."
+      },
+      "hikmah": "Kata ini mengindikasikan cakupan yang universal, bahwa secara prinsip, semua jenis makanan adalah halal.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "ٱلطَّعَامِ",
+      "transliterasi": "ath-tha'āmi",
+      "jenis_kata": "Isim",
+      "arti": "makanan",
+      "sharaf": {
+        "akar_kata": "ط ع م (Ṭ-'-M)",
+        "makna_dasar": "makan, sesuatu yang dimakan",
+        "wazan_perubahan": "Isim (bentuk dasar)"
+      },
+      "nahwu": {
+        "kedudukan": "Mudhaf Ilaih (kata benda yang disandarkan)",
+        "irab_dan_logika": "Majrur dengan kasrah (كسرة) karena sebagai mudhaf ilaih dari kata `كُلُّ`."
+      },
+      "hikmah": "Merujuk pada segala jenis santapan atau rezeki yang dikonsumsi oleh manusia.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "كَانَ",
+      "transliterasi": "kāna",
+      "jenis_kata": "Fi'il Nāqis (kata kerja bantu)",
+      "arti": "adalah, dahulu",
+      "sharaf": {
+        "akar_kata": "ك و ن (K-W-N)",
+        "makna_dasar": "ada, terjadi, menjadi",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Nāqis (kata kerja bantu yang mengangkat mubtada' dan menashabkan khabar)",
+        "irab_dan_logika": "Fi'il madhi mabni (tetap) di atas fathah (فتحة). Mengindikasikan keberadaan atau kondisi di masa lampau."
+      },
+      "hikmah": "Menunjukkan bahwa hukum kehalalan makanan ini adalah kondisi yang berlaku sejak dahulu, sebelum turunnya Taurat.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "حِلًّۭا",
+      "transliterasi": "ḥillan",
+      "jenis_kata": "Isim",
+      "arti": "halal, dibolehkan",
+      "sharaf": {
+        "akar_kata": "ح ل ل (Ḥ-L-L)",
+        "makna_dasar": "membuka ikatan, membolehkan",
+        "wazan_perubahan": "Isim (bentuk dasar, masdar atau sifat)"
+      },
+      "nahwu": {
+        "kedudukan": "Khabar Kāna (predikat dari kāna)",
+        "irab_dan_logika": "Manshub dengan fathatain (فتحتين) karena sebagai khabar dari `كَانَ`."
+      },
+      "hikmah": "Menegaskan status hukum makanan tersebut, yaitu dibolehkan atau tidak ada larangan.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "لِّبَنِىٓ",
+      "transliterasi": "libanī",
+      "jenis_kata": "Huruf + Isim",
+      "arti": "bagi, untuk (huruf lam) + anak-anak, keturunan (bani)",
+      "sharaf": {
+        "akar_kata": "ب ن ي (B-N-Y) untuk بَنِي",
+        "makna_dasar": "membangun, anak, keturunan",
+        "wazan_perubahan": "Huruf Jar + Isim (jamak mudzakkar salim dalam keadaan majrur)"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Jar + Isim Majrur",
+        "irab_dan_logika": "`لِـ` adalah huruf jar, menyebabkan kata setelahnya majrur. `بَنِي` adalah isim majrur dengan ya' (ياء) karena ia adalah jamak mudzakkar salim yang berfungsi sebagai mudhaf."
+      },
+      "hikmah": "Menjelaskan subjek atau pihak yang menjadi penerima hukum kehalalan makanan tersebut, yaitu Bani Israil.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "إِسْرَٰٓءِيلَ",
+      "transliterasi": "isrā'īla",
+      "jenis_kata": "Isim (nama diri)",
+      "arti": "Israil (nama lain Nabi Ya'qub)",
+      "sharaf": {
+        "akar_kata": "Tidak memiliki akar kata Arab klasik (nama diri non-Arab)",
+        "makna_dasar": "Hamba Allah (dalam bahasa Ibrani), atau yang berjalan di malam hari (interpretasi lain)",
+        "wazan_perubahan": "Isim 'alam (nama diri)"
+      },
+      "nahwu": {
+        "kedudukan": "Mudhaf Ilaih",
+        "irab_dan_logika": "Majrur dengan fathah (فتحة) sebagai pengganti kasrah karena ia adalah Isim Ghairu Munsharif (kata benda yang tidak menerima tanwin dan majrur dengan fathah) dan berfungsi sebagai mudhaf ilaih dari `بَنِي`."
+      },
+      "hikmah": "Mengidentifikasi secara spesifik siapa 'Bani' tersebut, yaitu keturunan Nabi Ya'qub (Israil).",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "إِلَّا",
+      "transliterasi": "Illā",
+      "jenis_kata": "Huruf",
+      "arti": "Kecuali, melainkan",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk huruf",
+        "makna_dasar": "Partikel pengecualian yang berfungsi untuk mengeluarkan sesuatu dari hukum sebelumnya.",
+        "wazan_perubahan": "Tidak berlaku untuk huruf"
+      },
+      "nahwu": {
+        "kedudukan": "Harf Istitsna' (partikel pengecualian)",
+        "irab_dan_logika": "Sebagai huruf, `إِلَّا` adalah *mabni* (tetap) dan tidak memiliki i'rab (perubahan harakat akhir). Fungsinya adalah untuk mengecualikan kata atau frasa yang mengikutinya dari hukum yang disebutkan sebelumnya."
+      },
+      "hikmah": "Kata ini sangat penting karena menunjukkan adanya batasan atau pengecualian terhadap kehalalan makanan yang disebutkan di awal ayat. Ini mengindikasikan bahwa tidak semua makanan halal tanpa syarat, melainkan ada yang dikecualikan.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "مَا",
+      "transliterasi": "Mā",
+      "jenis_kata": "Isim Maushul",
+      "arti": "Apa yang, sesuatu yang",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk isim maushul",
+        "makna_dasar": "Menghubungkan kalimat atau frasa, merujuk pada sesuatu yang tidak spesifik namun akan dijelaskan oleh kalimat setelahnya.",
+        "wazan_perubahan": "Tidak berlaku untuk isim maushul"
+      },
+      "nahwu": {
+        "kedudukan": "Isim Maushul, berfungsi sebagai Mustatsna (yang dikecualikan)",
+        "irab_dan_logika": "`مَا` adalah *isim maushul* yang *mabni* (tetap) sehingga harakatnya tidak berubah. Dalam konteks ini, ia berada pada posisi *nashab* sebagai *mustatsna* (yang dikecualikan) setelah `إِلَّا`, merujuk pada 'sesuatu' yang diharamkan."
+      },
+      "hikmah": "Penggunaan `مَا` menunjukkan bahwa pengecualian itu tidak berlaku untuk semua jenis makanan secara umum, melainkan hanya untuk 'apa yang' atau 'sesuatu yang' secara spesifik diharamkan. Ini membatasi cakupan pengecualian tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "حَرَّمَ",
+      "transliterasi": "Harrama",
+      "jenis_kata": "Fi'il Madhi",
+      "arti": "Mengharamkan, melarang",
+      "sharaf": {
+        "akar_kata": "ح ر م (H-R-M)",
+        "makna_dasar": "Melarang, menghalangi, menjadikan sesuatu suci atau terlarang.",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau) dengan wazan فَعَّلَ (Fa''ala). Wazan ini seringkali menunjukkan makna *ta'diyah* (menjadikan transitif, dari 'haram' menjadi 'mengharamkan') atau *taktsir* (melakukan sesuatu secara intensif/banyak)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Madhi",
+        "irab_dan_logika": "Sebagai *fi'il madhi*, `حَرَّمَ` adalah *mabni 'ala al-fath* (tetap berharakat fathah di akhirnya) karena tidak bersambung dengan dhamir rafa' mutaharrik (dhamir subjek yang berharakat)."
+      },
+      "hikmah": "Kata kerja ini menjelaskan tindakan aktif 'mengharamkan'. Ini menunjukkan bahwa ada pihak yang secara sengaja dan spesifik menetapkan larangan terhadap makanan tertentu, bukan sekadar makanan itu haram dengan sendirinya.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "إِسْرَٰٓءِيلُ",
+      "transliterasi": "Isrā'īlu",
+      "jenis_kata": "Isim Alam",
+      "arti": "Israil (nama lain Nabi Ya'qub)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk nama diri non-Arab",
+        "makna_dasar": "Nama diri yang merujuk kepada Nabi Ya'qub 'alaihissalam.",
+        "wazan_perubahan": "Tidak berlaku untuk nama diri non-Arab"
+      },
+      "nahwu": {
+        "kedudukan": "Fa'il (subjek) dari fi'il `حَرَّمَ`",
+        "irab_dan_logika": "`إِسْرَٰٓءِيلُ` adalah *marfu'* (berharakat dhammah) karena ia adalah *fa'il* (pelaku) dari fi'il `حَرَّمَ`. Ia adalah *isim ghairu munsharif* (kata yang tidak menerima tanwin dan kasrah) karena merupakan nama diri ('alamiyah) dan non-Arab ('ujmah), sehingga tanda rafa'nya adalah dhammah."
+      },
+      "hikmah": "Penyebutan 'Israil' secara eksplisit mengidentifikasi pelaku pengharaman tersebut, yaitu Nabi Ya'qub. Ini sangat penting untuk memahami konteks historis dan hukum, bahwa pengharaman itu berasal dari tindakan pribadi Nabi Ya'qub, bukan dari syariat Taurat yang belum diturunkan.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "عَلَىٰ",
+      "transliterasi": "ʿAlā",
+      "jenis_kata": "Huruf Jar",
+      "arti": "Atas, pada, terhadap, untuk",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk huruf",
+        "makna_dasar": "Menunjukkan arah, kepemilikan, kewajiban, atau tujuan.",
+        "wazan_perubahan": "Tidak berlaku untuk huruf"
+      },
+      "nahwu": {
+        "kedudukan": "Harf Jar",
+        "irab_dan_logika": "Sebagai huruf, `عَلَىٰ` adalah *mabni* (tetap) dan tidak memiliki i'rab. Fungsinya adalah menjadikan isim yang mengikutinya menjadi *majrur* (berharakat kasrah atau yang serupa)."
+      },
+      "hikmah": "Dalam konteks ini, `عَلَىٰ` menunjukkan bahwa pengharaman itu ditujukan 'untuk' atau 'terhadap' dirinya sendiri. Ini memperjelas sifat pengharaman tersebut sebagai pilihan pribadi, bukan sebagai perintah umum atau syariat yang mengikat orang lain.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "نَفْسِهِۦ",
+      "transliterasi": "Nafsihi",
+      "jenis_kata": "Isim",
+      "arti": "Dirinya, jiwa, diri",
+      "sharaf": {
+        "akar_kata": "ن ف س (N-F-S)",
+        "makna_dasar": "Merujuk pada diri, jiwa, atau esensi seseorang.",
+        "wazan_perubahan": "Isim mufrad (kata benda tunggal) yang kemudian disambung dengan dhamir (kata ganti)."
+      },
+      "nahwu": {
+        "kedudukan": "Isim `نَفْسِ` adalah *majrur* oleh `عَلَىٰ`. Dhamir `ه` (hi) adalah *mudhaf ilaih* dari `نَفْسِ`.",
+        "irab_dan_logika": "`نَفْسِ` adalah *majrur* dengan tanda kasrah karena didahului oleh *harf jar* `عَلَىٰ`. Dhamir `ه` adalah *dhamir muttasil* (kata ganti sambung) yang *mabni 'ala al-kasr* (tetap berharakat kasrah) dan berada pada posisi *jar* sebagai *mudhaf ilaih* (kata benda yang menunjukkan kepemilikan)."
+      },
+      "hikmah": "Frasa `عَلَىٰ نَفْسِهِۦ` secara tegas menekankan bahwa pengharaman makanan tersebut adalah keputusan pribadi Nabi Ya'qub untuk dirinya sendiri. Ini adalah inti argumen ayat untuk membantah klaim Yahudi bahwa semua makanan tertentu haram sebelum Taurat, karena pengharaman itu adalah pilihan individu, bukan syariat umum.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "مِن",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf",
+      "arti": "dari, sejak",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Harf Jar",
+        "irab_dan_logika": "Huruf mabni (tetap) sukun, tidak memiliki kedudukan i'rab. Berfungsi men-jar-kan (membuat majrur) isim setelahnya."
+      },
+      "hikmah": "Dalam konteks ini, `مِن` menunjukkan permulaan waktu, yaitu peristiwa yang terjadi *sebelum* suatu kejadian lain. Ini menegaskan batasan waktu yang penting dalam argumen ayat.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "قَبْلِ",
+      "transliterasi": "qabli",
+      "jenis_kata": "Isim",
+      "arti": "sebelum",
+      "sharaf": {
+        "akar_kata": "ق ب ل (Q-B-L)",
+        "makna_dasar": "Menghadap, di depan, sebelumnya.",
+        "wazan_perubahan": "Isim Zaraf (kata keterangan waktu)."
+      },
+      "nahwu": {
+        "kedudukan": "Majrur (dijarkan) oleh Harf Jar `مِن`",
+        "irab_dan_logika": "Majrur dengan kasrah karena didahului oleh Harf Jar `مِن`. Kata ini juga berfungsi sebagai mudhaf (kata yang disandarkan) kepada masdar mu'awwal setelahnya."
+      },
+      "hikmah": "Kata `قَبْلِ` secara eksplisit menunjukkan bahwa pengharaman makanan oleh Nabi Ya'qub (Israil) terjadi pada periode waktu *sebelum* Taurat diturunkan. Ini adalah inti dari bantahan Al-Qur'an terhadap klaim Bani Israil.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "أَن",
+      "transliterasi": "an",
+      "jenis_kata": "Huruf",
+      "arti": "bahwa, agar",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Harf Nashab (penashab fi'il mudhari')",
+        "irab_dan_logika": "Huruf mabni sukun, tidak memiliki kedudukan i'rab. Berfungsi menashabkan (membuat manshub) fi'il mudhari' setelahnya. Bersama fi'il mudhari' setelahnya, ia membentuk masdar mu'awwal yang berkedudukan sebagai mudhaf ilaih bagi `قَبْلِ`."
+      },
+      "hikmah": "Huruf `أَن` di sini berfungsi sebagai penghubung yang mengubah fi'il mudhari' setelahnya menjadi makna masdar (kata benda), sehingga frasa `أَن تُنَزَّلَ` berarti 'diturunkannya' atau 'penurunan'.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "تُنَزَّلَ",
+      "transliterasi": "tunazzala",
+      "jenis_kata": "Fi'il",
+      "arti": "diturunkan",
+      "sharaf": {
+        "akar_kata": "ن ز ل (N-Z-L)",
+        "makna_dasar": "Turun, mendarat, datang dari atas.",
+        "wazan_perubahan": "Fi'il Mudhari' Majhul (pasif) dari wazan فَعَّلَ (fa''ala), yang menunjukkan makna intensitas atau berulang. Bentuk aslinya adalah تُنَزَّلُ, namun menjadi manshub karena `أَن`."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Manshub",
+        "irab_dan_logika": "Manshub dengan fathah karena didahului oleh Harf Nashab `أَن`. Merupakan fi'il majhul, sehingga subjeknya adalah na'ibul fa'il (pengganti fa'il) yang akan datang setelahnya."
+      },
+      "hikmah": "Bentuk pasif `تُنَزَّلَ` menunjukkan bahwa tindakan 'menurunkan' dilakukan oleh pihak yang Maha Kuasa (Allah SWT), dan yang menjadi fokus adalah objek yang diturunkan, yaitu Taurat. Ini menekankan bahwa Taurat adalah wahyu ilahi.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "ٱلتَّوْرَىٰةُ",
+      "transliterasi": "at-Tawrāt(u)",
+      "jenis_kata": "Isim",
+      "arti": "Taurat",
+      "sharaf": {
+        "akar_kata": "و ر ي (W-R-Y) atau dari bahasa Ibrani.",
+        "makna_dasar": "Kitab suci yang diturunkan kepada Nabi Musa AS.",
+        "wazan_perubahan": "Isim Mufrad (kata benda tunggal)."
+      },
+      "nahwu": {
+        "kedudukan": "Na'ibul Fa'il (pengganti subjek) dari fi'il majhul `تُنَزَّلَ`",
+        "irab_dan_logika": "Marfu' dengan dhammah karena berfungsi sebagai Na'ibul Fa'il. Ia adalah objek yang 'diturunkan'."
+      },
+      "hikmah": "Kata `ٱلتَّوْرَىٰةُ` merujuk pada kitab suci yang diturunkan kepada Nabi Musa AS. Penempatannya sebagai na'ibul fa'il menegaskan bahwa Taurat adalah wahyu yang diturunkan, dan peristiwa pengharaman makanan oleh Israil terjadi *sebelum* adanya hukum-hukum dalam Taurat.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "ۗ",
+      "transliterasi": "N/A",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "N/A",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca",
+        "irab_dan_logika": "Tidak memiliki i'rab. Ini adalah tanda waqaf jaiz (boleh berhenti atau melanjutkan), yang menunjukkan bahwa berhenti di sini lebih utama."
+      },
+      "hikmah": "Tanda waqaf ini berfungsi sebagai panduan bagi pembaca Al-Qur'an, menunjukkan tempat yang disarankan untuk berhenti membaca guna membantu pemahaman makna ayat. Berhenti di sini akan memberikan jeda setelah menjelaskan batasan waktu 'sebelum Taurat diturunkan'.",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "قُلْ",
+      "transliterasi": "Qul",
+      "jenis_kata": "Fi'il",
+      "arti": "Katakanlah",
+      "sharaf": {
+        "akar_kata": "ق و ل (Q-W-L)",
+        "makna_dasar": "Berbicara, mengatakan",
+        "wazan_perubahan": "Fi'il Amr (Kata Kerja Perintah) dari wazan فَعَلَ (fa'ala) - يَفْعُلُ (yaf'ulu)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Amr, fa'ilnya (pelaku) mustatir (tersembunyi) yang تقديره أنت (engkau), merujuk kepada Nabi Muhammad SAW.",
+        "irab_dan_logika": "Mabni sukun (berharakat mati) karena merupakan fi'il amr yang shahih akhir (tidak berakhiran huruf illat)."
+      },
+      "hikmah": "Perintah langsung dari Allah SWT kepada Nabi Muhammad SAW untuk menyampaikan kebenaran dan berhujjah, menunjukkan otoritas ilahi dalam menghadapi klaim yang salah.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "فَأْتُوا۟",
+      "transliterasi": "Fa'tū",
+      "jenis_kata": "Fi'il",
+      "arti": "Maka bawalah",
+      "sharaf": {
+        "akar_kata": "أ ت ي (A-T-Y)",
+        "makna_dasar": "Datang, membawa",
+        "wazan_perubahan": "Fi'il Amr (Kata Kerja Perintah) dari wazan فَعَلَ (fa'ala) - يَأْتِي (ya'tī). Bentuk jamak mudzakkar mukhatab (kalian laki-laki)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Amr, fa'ilnya (pelaku) adalah wawu al-jama'ah (و) yang kembali kepada Bani Israil atau orang-orang yang menentang.",
+        "irab_dan_logika": "Mabni 'ala hadzfi an-nun (dibangun di atas penghapusan nun) karena termasuk af'alul khamsah (lima kata kerja) yang fi'il amr-nya dibentuk dengan menghilangkan nun."
+      },
+      "hikmah": "Tantangan tegas dari Allah SWT kepada mereka yang meragukan atau membuat klaim palsu, menuntut bukti nyata (Taurat) untuk mendukung argumen mereka. Huruf 'فَ' (fa') di awal menunjukkan konsekuensi atau kelanjutan dari perintah sebelumnya.",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "بِٱلتَّوْرَىٰةِ",
+      "transliterasi": "Bit-Taurāh",
+      "jenis_kata": "Isim",
+      "arti": "Dengan Taurat",
+      "sharaf": {
+        "akar_kata": "و ر ي (W-R-Y) - meskipun ini adalah kata serapan Ibrani, dalam konteks Arab, ini adalah nama kitab suci.",
+        "makna_dasar": "Kitab suci Taurat",
+        "wazan_perubahan": "Isim (nama kitab suci), tidak ada wazan sharaf yang spesifik seperti fi'il."
+      },
+      "nahwu": {
+        "kedudukan": "Majrur (ditarik) oleh huruf jar 'بِ' (bi).",
+        "irab_dan_logika": "Majrur dengan kasrah (berharakat kasrah) karena didahului oleh huruf jar 'بِ'. Alif lam (ال) menunjukkan isim ma'rifah (kata benda tertentu)."
+      },
+      "hikmah": "Menegaskan bahwa Taurat adalah sumber otoritatif yang harus dirujuk untuk menyelesaikan perselisihan, menyoroti pentingnya merujuk pada wahyu ilahi sebagai bukti yang tak terbantahkan.",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "فَٱتْلُوهَآ",
+      "transliterasi": "Fatlūhā",
+      "jenis_kata": "Fi'il",
+      "arti": "Maka bacalah dia (Taurat itu)",
+      "sharaf": {
+        "akar_kata": "ت ل و (T-L-W)",
+        "makna_dasar": "Membaca, mengikuti",
+        "wazan_perubahan": "Fi'il Amr (Kata Kerja Perintah) dari wazan فَعَلَ (fa'ala) - يَتْلُو (yatlu). Bentuk jamak mudzakkar mukhatab (kalian laki-laki). 'هَا' (hā) adalah dhamir muttasil (kata ganti sambung) sebagai maf'ul bih (objek)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Amr, fa'ilnya (pelaku) adalah wawu al-jama'ah (و) yang kembali kepada Bani Israil atau orang-orang yang menentang. 'هَا' (hā) adalah dhamir muttasil yang berfungsi sebagai maf'ul bih (objek) dan kembali kepada 'التَّوْرَىٰةِ'.",
+        "irab_dan_logika": "Mabni 'ala hadzfi an-nun (dibangun di atas penghapusan nun) karena termasuk af'alul khamsah. Dhamir 'هَا' (hā) dalam posisi nashab (objek) karena bersambung dengan fi'il."
+      },
+      "hikmah": "Perintah untuk membaca dan merenungkan isi Taurat secara langsung, menunjukkan bahwa kebenaran akan terungkap melalui teks itu sendiri. Ini adalah tantangan untuk menghadapi fakta dan tidak hanya mengklaim tanpa dasar.",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "إِن",
+      "transliterasi": "In",
+      "jenis_kata": "Huruf",
+      "arti": "Jika",
+      "sharaf": {
+        "akar_kata": "Tidak ada akar kata untuk huruf.",
+        "makna_dasar": "Menunjukkan syarat atau kondisi.",
+        "wazan_perubahan": "Huruf syarat (harf syart) yang menjazemkan dua fi'il (fi'il syarat dan jawab syarat)."
+      },
+      "nahwu": {
+        "kedudukan": "Huruf syarat yang menjazemkan dua fi'il (fi'il syarat dan jawab syarat).",
+        "irab_dan_logika": "Huruf mabni sukun, tidak memiliki kedudukan i'rab (tidak berubah harakatnya)."
+      },
+      "hikmah": "Mengintroduksi sebuah kondisi atau prasyarat, menekankan bahwa kebenaran klaim mereka bergantung pada kemampuan mereka untuk membuktikan dengan Taurat. Ini adalah pembuka untuk kalimat bersyarat.",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "كُنتُمْ",
+      "transliterasi": "Kuntum",
+      "jenis_kata": "Fi'il",
+      "arti": "Kalian adalah / Kalian benar",
+      "sharaf": {
+        "akar_kata": "ك و ن (K-W-N)",
+        "makna_dasar": "Ada, menjadi",
+        "wazan_perubahan": "Fi'il Madhi Naqis (Kata Kerja Lampau Tidak Sempurna) dari wazan فَعَلَ (fa'ala) - يَفْعُلُ (yaf'ulu). Bentuk jamak mudzakkar mukhatab (kalian laki-laki)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il syarat (fi'il syart) dari huruf syarat 'إِن'. 'تُمْ' (tum) adalah isim kana (subjek kana) yang dalam posisi rafa'.",
+        "irab_dan_logika": "Mabni sukun (berharakat mati) karena bersambung dengan ta' fa'il (dhamir rafa' muttasil). 'تُمْ' (tum) adalah dhamir muttasil mabni dhomm dalam posisi rafa' sebagai isim kana."
+      },
+      "hikmah": "Melengkapi kalimat syarat, menantang mereka untuk membuktikan kejujuran klaim mereka dengan merujuk pada Taurat. Ini menunjukkan bahwa kebenaran adalah kunci validitas argumen, dan jika mereka memang 'orang-orang yang benar', mereka harus mampu menunjukkan buktinya.",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "صَٰدِقِينَ",
+      "transliterasi": "ṣādiqīna",
+      "jenis_kata": "Isim",
+      "arti": "orang-orang yang benar/jujur",
+      "sharaf": {
+        "akar_kata": "ص د ق",
+        "makna_dasar": "Kebenaran, kejujuran, kesetiaan.",
+        "wazan_perubahan": "Isim Fa'il (pelaku) dari fi'il tsulatsi mujarrad (kata kerja tiga huruf asli) wazan فاعل (fā'il). Bentuk jamak mudzakkar salim (jamak laki-laki sehat) dengan akhiran -īna karena manshub atau majrur. Bentuk tunggalnya adalah صَادِق (ṣādiq)."
+      },
+      "nahwu": {
+        "kedudukan": "Khabar dari fi'il nāqis (kata kerja tidak sempurna) 'kāna' yang dibuang (تقديره: إن كنتم صادقين - jika kalian adalah orang-orang yang benar).",
+        "irab_dan_logika": "Manshub (berharakat fathah) dengan tanda 'ya'' (ي) karena ia adalah jamak mudzakkar salim (plural maskulin sehat). Kedudukannya sebagai khabar dari 'kāna' yang dibuang, dan khabar 'kāna' selalu manshub."
+      },
+      "hikmah": "Kata 'صَادِقِينَ' menekankan pentingnya kejujuran dan kebenaran dalam berargumen dan mencari bukti. Dalam konteks ayat, tantangan untuk membawa Taurat dan membacanya adalah ujian bagi klaim mereka tentang kebenaran. Ini menunjukkan bahwa klaim harus didukung oleh bukti yang jelas dan otentik, bukan sekadar asumsi atau tradisi yang tidak berdasar. Ini juga menyiratkan bahwa orang yang benar akan selalu siap menunjukkan bukti kebenarannya.",
+      "role": "none"
+    }
+  ]
+}

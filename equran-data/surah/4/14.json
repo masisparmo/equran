@@ -1,0 +1,240 @@
+{
+  "surah": 4,
+  "ayah": 14,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "وَمَن",
+      "transliterasi": "wa man",
+      "jenis_kata": "Huruf dan Isim",
+      "arti": "Dan barangsiapa",
+      "sharaf": {
+        "akar_kata": "N/A (untuk 'wa'), م ن ن (untuk 'man' sebagai isim syarat)",
+        "makna_dasar": "wa' (penghubung), 'man' (siapa/barangsiapa, untuk syarat)",
+        "wazan_perubahan": "N/A (untuk 'wa'), Isim Syarat (untuk 'man')"
+      },
+      "nahwu": {
+        "kedudukan": "wa' (huruf athaf), 'man' (isim syarat, mubtada')",
+        "irab_dan_logika": "`و` (wa) adalah huruf athaf yang berfungsi menghubungkan kalimat ini dengan konteks sebelumnya. `مَن` (man) adalah isim syarat yang mabni (tetap) di atas sukun, menempati kedudukan rafa' sebagai mubtada' (subjek awal kalimat)."
+      },
+      "hikmah": "Kata ini mengawali sebuah kalimat syarat, menunjukkan bahwa ada konsekuensi serius bagi siapa pun yang melakukan tindakan yang akan disebutkan selanjutnya. Ini menekankan pentingnya pilihan dan tanggung jawab individu.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "يَعْصِ",
+      "transliterasi": "ya'ṣi",
+      "jenis_kata": "Fi'il",
+      "arti": "mendurhakai",
+      "sharaf": {
+        "akar_kata": "ع ص ي (ain-shad-ya)",
+        "makna_dasar": "Durhaka, tidak patuh, menentang.",
+        "wazan_perubahan": "Fi'il Mudhari' (kata kerja sekarang/akan datang) dari Bab II (فَعَلَ - يَفْعِلُ), dalam bentuk majzum."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' majzum (dijazmkan)",
+        "irab_dan_logika": "Ini adalah fi'il mudhari' yang dijazmkan karena berfungsi sebagai fi'il syarat dari `مَن` (man). Tanda jazm-nya adalah membuang huruf illat (ya' di akhir), yang asalnya adalah يَعْصِي. Ini menunjukkan tindakan yang terjadi sebagai respons terhadap kondisi syarat."
+      },
+      "hikmah": "Menekankan tindakan pembangkangan atau ketidakpatuhan secara aktif terhadap perintah atau larangan. Penggunaan bentuk jazm menunjukkan bahwa tindakan ini adalah bagian dari kondisi yang akan membawa konsekuensi.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "ٱللَّهَ",
+      "transliterasi": "Allāha",
+      "jenis_kata": "Isim",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "أ ل ه (alif-lam-ha)",
+        "makna_dasar": "Tuhan, Yang Disembah.",
+        "wazan_perubahan": "Isim Mufrad (kata benda tunggal), Isim Jalalah (nama keagungan)."
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul Bih (objek)",
+        "irab_dan_logika": "Kata ini berfungsi sebagai maf'ul bih (objek) dari fi'il `يَعْصِ` (mendurhakai). Tanda nashab-nya adalah fathah yang jelas di akhir huruf ha', menunjukkan bahwa Allah adalah Dzat yang didurhakai."
+      },
+      "hikmah": "Menegaskan bahwa objek utama dari kedurhakaan adalah Allah SWT, Dzat Yang Maha Agung dan Pemilik segala kekuasaan. Ini menunjukkan betapa besar dosa kedurhakaan tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "وَرَسُولَهُۥ",
+      "transliterasi": "wa rasūlahu",
+      "jenis_kata": "Huruf dan Isim",
+      "arti": "dan Rasul-Nya",
+      "sharaf": {
+        "akar_kata": "ر س ل (ra-sin-lam)",
+        "makna_dasar": "Mengutus, mengirim. Rasul: utusan.",
+        "wazan_perubahan": "Isim Mufrad (رسول), Isim Dhamir (هُ)."
+      },
+      "nahwu": {
+        "kedudukan": "wa' (huruf athaf), 'rasūlahu' (ma'thuf 'ala Allah, mudhaf dan mudhaf ilaih)",
+        "irab_dan_logika": "`و` (wa) adalah huruf athaf yang menghubungkan `رَسُولَهُ` (rasūlahu) dengan `ٱللَّهَ` (Allāha). `رَسُولَ` (rasūla) adalah ma'thuf yang manshub (berharakat fathah) karena mengikuti `ٱللَّهَ` yang juga manshub. `هُ` (hu) adalah dhamir muttasil (kata ganti sambung) yang mabni di atas dhammah, menempati kedudukan jar sebagai mudhaf ilaih (kata yang disandarkan)."
+      },
+      "hikmah": "Menunjukkan bahwa durhaka kepada Rasulullah SAW sama dengan durhaka kepada Allah SWT, karena Rasul adalah utusan-Nya yang menyampaikan perintah dan larangan-Nya. Ini menekankan kesatuan ketaatan kepada Allah dan Rasul-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "وَيَتَعَدَّ",
+      "transliterasi": "wa yata'adda",
+      "jenis_kata": "Huruf dan Fi'il",
+      "arti": "dan melanggar",
+      "sharaf": {
+        "akar_kata": "ع د و (ain-dal-waw)",
+        "makna_dasar": "Melampaui batas, melewati, melanggar.",
+        "wazan_perubahan": "Fi'il Mudhari' dari Bab V (تَفَعَّلَ - يَتَفَعَّلُ), dalam bentuk majzum."
+      },
+      "nahwu": {
+        "kedudukan": "wa' (huruf athaf), 'yata'adda' (fi'il mudhari' majzum)",
+        "irab_dan_logika": "`و` (wa) adalah huruf athaf yang mengikutkan fi'il ini kepada fi'il syarat sebelumnya, yaitu `يَعْصِ`. `يَتَعَدَّ` adalah fi'il mudhari' yang dijazmkan karena diathafkan kepada fi'il syarat. Tanda jazm-nya adalah membuang huruf illat (alif maqsurah di akhir), yang asalnya adalah يَتَعَدَّى."
+      },
+      "hikmah": "Menekankan tindakan melampaui batas atau melanggar aturan yang telah ditetapkan. Ini adalah tindakan aktif yang menunjukkan ketidakpatuhan dan pengabaian terhadap batasan-batasan ilahi, yang merupakan dosa besar.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "حُدُودَهُۥ",
+      "transliterasi": "ḥudūdahū",
+      "jenis_kata": "Isim",
+      "arti": "batas-batas-Nya",
+      "sharaf": {
+        "akar_kata": "ح د د (ha-dal-dal)",
+        "makna_dasar": "Batas, ketentuan, had.",
+        "wazan_perubahan": "Isim Jamak Taksir (حدود) dari mufrad حَدّ, Isim Dhamir (هُ)."
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul Bih (objek), Mudhaf dan Mudhaf Ilaih",
+        "irab_dan_logika": "Kata ini berfungsi sebagai maf'ul bih (objek) dari fi'il `يَتَعَدَّ` (melanggar). Tanda nashab-nya adalah fathah yang jelas di akhir huruf dal. `هُ` (hu) adalah dhamir muttasil (kata ganti sambung) yang mabni di atas dhammah, menempati kedudukan jar sebagai mudhaf ilaih (kata yang disandarkan), merujuk kepada Allah SWT."
+      },
+      "hikmah": "Menjelaskan secara spesifik bahwa yang dilanggar adalah batasan-batasan atau ketentuan-ketentuan yang telah ditetapkan oleh Allah. Ini menunjukkan bahwa pelanggaran tersebut bukan hanya tindakan sembarangan, melainkan penolakan terhadap hukum dan aturan ilahi yang memiliki konsekuensi serius.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "يُدْخِلْهُ",
+      "transliterasi": "yudkhilhu",
+      "jenis_kata": "Fi'il",
+      "arti": "Dia akan memasukkannya",
+      "sharaf": {
+        "akar_kata": "د-خ-ل (D-Kh-L)",
+        "makna_dasar": "Masuk",
+        "wazan_perubahan": "Fi'il Mudhari' (kata kerja sekarang/akan datang) dari Bab If'al (أَفْعَلَ - يُفْعِلُ). Bentuknya adalah يُفْعِلُ (yuf'ilu), dengan dhamir 'hu' (هُ) sebagai objek."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Majzum (dijazmkan)",
+        "irab_dan_logika": "Dijazmkan karena merupakan jawab syarat (jawaban dari 'barangsiapa yang mendurhakai...'). Tanda jazmnya adalah sukun pada huruf lam (ل). Huruf 'hu' (هُ) adalah dhamir muttasil (kata ganti bersambung) yang berkedudukan sebagai maf'ul bih (objek)."
+      },
+      "hikmah": "Kata ini menunjukkan kepastian balasan dari Allah bagi orang yang mendurhakai-Nya, yaitu dimasukkan ke dalam neraka. Penggunaan fi'il mudhari' di sini menekankan keberlangsungan atau kepastian di masa depan.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "نَارًا",
+      "transliterasi": "nāran",
+      "jenis_kata": "Isim",
+      "arti": "Api (neraka)",
+      "sharaf": {
+        "akar_kata": "ن-و-ر (N-W-R)",
+        "makna_dasar": "Cahaya, panas, api",
+        "wazan_perubahan": "Isim Mufrad (kata benda tunggal)."
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul Bih Tsani (objek kedua) dari fi'il يُدْخِلْهُ",
+        "irab_dan_logika": "Manshub (dinashabkan) dengan fathatain (tanwin fathah) karena merupakan maf'ul bih tsani. Fi'il 'adkhala' (أَدْخَلَ) termasuk fi'il muta'addi yang bisa memiliki dua objek (memasukkan sesuatu ke dalam sesuatu)."
+      },
+      "hikmah": "Kata ini menegaskan jenis tempat balasan bagi pendurhaka, yaitu api neraka yang dahsyat dan membakar.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "خَٰلِدًۭا",
+      "transliterasi": "khālidan",
+      "jenis_kata": "Isim",
+      "arti": "Kekal, abadi",
+      "sharaf": {
+        "akar_kata": "خ-ل-د (Kh-L-D)",
+        "makna_dasar": "Kekal, abadi, tetap",
+        "wazan_perubahan": "Isim Fa'il (pelaku) dari fi'il tsulatsi mujarrad (kata kerja tiga huruf asli) dengan wazan فَاْعِلٌ (fa'ilun)."
+      },
+      "nahwu": {
+        "kedudukan": "Hal (keadaan)",
+        "irab_dan_logika": "Manshub (dinashabkan) dengan fathatain (tanwin fathah) karena berkedudukan sebagai hal (penjelas keadaan). Hal selalu manshub. Dalam konteks ini, menjelaskan keadaan orang yang dimasukkan ke neraka."
+      },
+      "hikmah": "Kata ini menjelaskan sifat kekekalan siksa neraka bagi pendurhaka, menunjukkan bahwa azab tersebut tidak akan pernah berakhir dan mereka akan terus berada di dalamnya.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "فِيهَا",
+      "transliterasi": "fīhā",
+      "jenis_kata": "Huruf + Isim",
+      "arti": "Di dalamnya (di dalam neraka)",
+      "sharaf": {
+        "akar_kata": "Tidak ada akar kata untuk huruf jar. Dhamir 'hā' (هَا) adalah kata ganti.",
+        "makna_dasar": "Fī' (فِي) berarti 'di dalam', 'hā' (هَا) adalah dhamir muannats tunggal yang merujuk pada 'nāran' (نَارًا).",
+        "wazan_perubahan": "Huruf Jar (kata depan) + Dhamir Muttasil (kata ganti bersambung)."
+      },
+      "nahwu": {
+        "kedudukan": "Jar Majrur (huruf jar dan isim yang di-jar-kan)",
+        "irab_dan_logika": "Fī' adalah huruf jar, sehingga 'hā' (dhamir) berada dalam posisi majrur (di-jar-kan). Jar Majrur ini muta'alliq (berkaitan) dengan 'khālidan' (kekal di dalamnya)."
+      },
+      "hikmah": "Kata ini menegaskan lokasi kekekalan tersebut, yaitu secara spesifik di dalam api neraka yang telah disebutkan sebelumnya, memperkuat gambaran azab yang tak terhindarkan.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "وَلَهُۥ",
+      "transliterasi": "wa lahu",
+      "jenis_kata": "Huruf + Huruf + Isim",
+      "arti": "Dan baginya",
+      "sharaf": {
+        "akar_kata": "Tidak ada akar kata untuk huruf. Dhamir 'hu' (هُ) adalah kata ganti.",
+        "makna_dasar": "Wa' (وَ) berarti 'dan' (kata sambung), 'la' (لَ) berarti 'bagi/untuk', 'hu' (هُ) adalah dhamir mudzakkar tunggal yang merujuk pada 'man' (barangsiapa) yang mendurhakai.",
+        "wazan_perubahan": "Huruf Athaf (kata sambung) + Huruf Jar (kata depan) + Dhamir Muttasil (kata ganti bersambung)."
+      },
+      "nahwu": {
+        "kedudukan": "Wawu' adalah huruf athaf. 'Lahu' adalah Jar Majrur yang berkedudukan sebagai khabar muqaddam (predikat yang didahulukan).",
+        "irab_dan_logika": "Wawu' adalah huruf athaf, tidak memiliki i'rab. 'Lam' adalah huruf jar, 'hu' adalah dhamir majrur. Jar Majrur ini dalam posisi rafa' sebagai khabar muqaddam."
+      },
+      "hikmah": "Kata ini berfungsi sebagai penghubung, menambahkan informasi baru mengenai balasan bagi pendurhaka, yaitu adanya siksa lain yang spesifik bagi mereka, selain kekekalan di neraka.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "عَذَابٌۭ",
+      "transliterasi": "adhābun",
+      "jenis_kata": "Isim",
+      "arti": "Siksa, azab",
+      "sharaf": {
+        "akar_kata": "ع-ذ-ب ('A-Dh-B)",
+        "makna_dasar": "Menyiksa, menghukum, mencegah",
+        "wazan_perubahan": "Isim Mashdar (kata benda dari kata kerja) dari Bab If'al (أَفْعَلَ - يُفْعِلُ - إِفْعَالٌ). Bentuknya adalah فَعَالٌ ('afa'lun)."
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada' Muakhkhar (subjek yang diakhirkan)",
+        "irab_dan_logika": "Marfu' (dirafa'kan) dengan dhammahtain (tanwin dhammah) karena berkedudukan sebagai mubtada' muakhkhar. Khabarnya adalah 'lahu' (baginya) yang didahulukan."
+      },
+      "hikmah": "Kata ini menjelaskan secara umum adanya siksaan, yang kemudian akan diperinci sifatnya pada kata berikutnya (yaitu 'muhīn' - yang menghinakan). Ini menekankan bahwa selain kekekalan, ada juga penderitaan yang spesifik dan berat.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "مُّهِينٌۭ",
+      "transliterasi": "muhīnun",
+      "jenis_kata": "Isim (kata sifat/benda)",
+      "arti": "yang menghinakan, yang merendahkan",
+      "sharaf": {
+        "akar_kata": "ه-و-ن (h-w-n)",
+        "makna_dasar": "kehinaan, kerendahan, kemudahan",
+        "wazan_perubahan": "Kata ini adalah Isim Fa'il (kata pelaku) dari fi'il madhi 'أَهَانَ' (ahāna) yang berwazan 'أَفْعَلَ' (af'ala). Bentuk Isim Fa'il-nya adalah 'مُفْعِلٌ' (muf'ilun). Jadi, 'مُهِينٌ' (muhīnun) berarti 'yang menghinakan' atau 'yang merendahkan'."
+      },
+      "nahwu": {
+        "kedudukan": "Sifat (na'at)",
+        "irab_dan_logika": "Kata 'مُّهِينٌ' (muhīnun) berkedudukan sebagai sifat (na'at) bagi kata 'عَذَابٌ' (adzābun) yang disebutkan sebelumnya dalam ayat (وَلَهُ عَذَابٌ مُّهِينٌ). Karena 'عَذَابٌ' berkedudukan sebagai mubtada' mu'akhkhar (subjek yang diakhirkan) dan marfu' (rafa'), maka sifatnya, 'مُّهِينٌ', juga harus marfu'. Tanda rafa'nya adalah dhammah tanwin (ٌ) pada huruf nun di akhir kata."
+      },
+      "hikmah": "Dalam konteks ayat ini, 'مُّهِينٌ' (yang menghinakan) menekankan bahwa siksaan bagi mereka yang mendurhakai Allah dan Rasul-Nya bukan hanya penderitaan fisik, tetapi juga siksaan yang merendahkan martabat, melucuti kehormatan, dan menimbulkan rasa hina yang mendalam. Ini menunjukkan betapa beratnya konsekuensi dari pembangkangan terhadap perintah Allah, di mana hukuman tidak hanya menyentuh fisik tetapi juga jiwa dan kehormatan seseorang.",
+      "role": "none"
+    }
+  ]
+}

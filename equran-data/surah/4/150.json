@@ -1,0 +1,402 @@
+{
+  "surah": 4,
+  "ayah": 150,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "إِنَّ",
+      "transliterasi": "inna",
+      "jenis_kata": "Huruf",
+      "arti": "sesungguhnya",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "penegasan, menekankan kebenaran",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "huruf takdir di awal ayat, mengharuskan isim setelahnya menjadi majrur",
+        "irab_dan_logika": "berharakat fathah setelah nun, mengikat isim berikutnya dengan kasrah sebagai majrur"
+      },
+      "hikmah": "menegaskan bahwa apa yang akan disebutkan selanjutnya adalah fakta yang tidak dapat diperdebatkan",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "ٱلَّذِينَ",
+      "transliterasi": "alladhina",
+      "jenis_kata": "Isim",
+      "arti": "orang‑orang yang",
+      "sharaf": {
+        "akar_kata": "لذ",
+        "makna_dasar": "menunjuk kepada orang yang melakukan sesuatu",
+        "wazan_perubahan": "isim jamak maskulin dengan alif‑lam dan ya‑ta marbuta"
+      },
+      "nahwu": {
+        "kedudukan": "isim setelah إِنَّ, berfungsi sebagai mudhaf majrur",
+        "irab_dan_logika": "berkasrah karena dipengaruhi oleh إِنَّ yang menuntut majrur"
+      },
+      "hikmah": "menandai kelompok orang yang menolak keimanan",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "يَكْفُرُونَ",
+      "transliterasi": "yakfuruna",
+      "jenis_kata": "Fi'il",
+      "arti": "menolak keimanan",
+      "sharaf": {
+        "akar_kata": "ك ف ر",
+        "makna_dasar": "kufr, penolakan terhadap kebenaran",
+        "wazan_perubahan": "bentuk I, mudhari‘ (verb imperfect) orang maskulin jamak"
+      },
+      "nahwu": {
+        "kedudukan": "fi‘l mudhari‘ sebagai predikat bagi ٱلَّذِينَ",
+        "irab_dan_logika": "marfu‘ dengan dhammah karena fi‘l mudhari‘"
+      },
+      "hikmah": "menyatakan tindakan kafir yang dilakukan oleh orang‑orang tersebut",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "بِٱللَّهِ",
+      "transliterasi": "billahi",
+      "jenis_kata": "Huruf",
+      "arti": "dengan Allah",
+      "sharaf": {
+        "akar_kata": "ب",
+        "makna_dasar": "preposisi yang menunjukkan hubungan sebab‑akibat atau kepemilikan",
+        "wazan_perubahan": "huruf jar (bi) + al‑ (definite article)"
+      },
+      "nahwu": {
+        "kedudukan": "mudhaf (objek) dari preposisi بِ",
+        "irab_dan_logika": "berkasrah karena menjadi objek preposisi"
+      },
+      "hikmah": "menunjukkan bahwa penolakan diarahkan kepada Allah",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "وَرُسُلِهِۦ",
+      "transliterasi": "warusulihi",
+      "jenis_kata": "Isim",
+      "arti": "dan rasul‑rasul‑Nya",
+      "sharaf": {
+        "akar_kata": "ر س ل",
+        "makna_dasar": "utusan Allah",
+        "wazan_perubahan": "jamak maskulin dengan alif‑lam, ditambahkan huruf وَ sebagai huruf sambung"
+      },
+      "nahwu": {
+        "kedudukan": "mudhaf lanjutan dari preposisi بِ bersama ٱللَّهِ",
+        "irab_dan_logika": "berkasrah karena menjadi bagian dari objek preposisi"
+      },
+      "hikmah": "menambah objek penolakan, yaitu kepada para rasul Allah",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "وَيُرِيدُونَ",
+      "transliterasi": "wayuridoona",
+      "jenis_kata": "Fi'il",
+      "arti": "dan mereka bermaksud",
+      "sharaf": {
+        "akar_kata": "ر و د",
+        "makna_dasar": "niat, keinginan",
+        "wazan_perubahan": "bentuk I, mudhari‘ orang maskulin jamak"
+      },
+      "nahwu": {
+        "kedudukan": "fi‘l mudhari‘ sebagai predikat tambahan setelah kata sebelumnya",
+        "irab_dan_logika": "marfu‘ dengan dhammah karena fi‘l mudhari‘"
+      },
+      "hikmah": "menunjukkan maksud atau tujuan orang‑orang kafir dalam tindakan mereka",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "أَن",
+      "transliterasi": "an",
+      "jenis_kata": "Huruf",
+      "arti": "bahwa, bahwa",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "حرف نصب يجر الفعل المضارع بعده",
+        "irab_dan_logika": "حرف نصب يرفع الفعل ويعطي معنى التبعية"
+      },
+      "hikmah": "**أَن** menandakan bahwa apa yang berikutnya adalah pernyataan yang bersifat subordinat, menegaskan hubungan sebab‑akibat dalam ayat.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "يُفَرِّقُوا۟",
+      "transliterasi": "yufarriquū",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka memisahkan",
+      "sharaf": {
+        "akar_kata": "ف ر ق",
+        "makna_dasar": "memisahkan, memecah",
+        "wazan_perubahan": "فَعَّلَ (form II)"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع بالضمة لأنه فعل رئيسي بعد أَن",
+        "irab_dan_logika": "الرفع بالضمة لأن الفعل مضارع غير مجزوم ولا منصوب"
+      },
+      "hikmah": "**يُفَرِّقُوا** menegaskan tindakan sengaja memisahkan keimanan, menyoroti sifat munafik yang ingin memecah‑belah kebenaran.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "بَيْنَ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf",
+      "arti": "antara",
+      "sharaf": {
+        "akar_kata": "ب ي ن",
+        "makna_dasar": "di antara, di tengah",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر يربط بين كلمة الله ورسوله",
+        "irab_dan_logika": "حرف جر يجر ما بعده إلى حالة الجر"
+      },
+      "hikmah": "**بَيْنَ** menunjukkan adanya pemisahan yang tidak sah antara Allah dan rasul‑rasul-Nya, menegaskan bahwa keduanya tidak dapat dipisahkan.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "ٱللَّهِ",
+      "transliterasi": "",
+      "jenis_kata": "Isim",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "إِلَٰه",
+        "makna_dasar": "dewa, yang disembah",
+        "wazan_perubahan": "مُصْدَر"
+      },
+      "nahwu": {
+        "kedudukan": "اسم مجرور بحرف البين وعلامة جره الكسرة",
+        "irab_dan_logika": "الكسرة لأن الباء جرّ الاسم"
+      },
+      "hikmah": "**ٱللَّهِ** sebagai objek preposisi menegaskan bahwa Allah adalah satu‑satunya yang patut diyakini, tidak boleh dipisahkan dengan apapun.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "وَرُسُلِهِۦ",
+      "transliterasi": "",
+      "jenis_kata": "Isim",
+      "arti": "dan rasul‑rasul-Nya",
+      "sharaf": {
+        "akar_kata": "ر س ل",
+        "makna_dasar": "mengirim pesan, utusan",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "اسم معطوف على الله مجرور بالكسرة",
+        "irab_dan_logika": "الكسرة لأن الباء جرّ الاسم المجرور مع الفعل"
+      },
+      "hikmah": "**وَرُسُلِهِۦ** menegaskan bahwa para rasul termasuk dalam satu kesatuan dengan Allah, sehingga memisahkan keduanya adalah khilaf.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "وَيَقُولُونَ",
+      "transliterasi": "",
+      "jenis_kata": "Fi'il",
+      "arti": "dan mereka berkata",
+      "sharaf": {
+        "akar_kata": "ق و ل",
+        "makna_dasar": "mengatakan",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع بالضمة ومعه واو العطف",
+        "irab_dan_logika": "الرفع بالضمة لأن الفعل مضارع غير مجزوم ولا منصوب"
+      },
+      "hikmah": "**وَيَقُولُونَ** menambah unsur perkataan yang menipu, menegaskan bahwa mereka tidak hanya berbuat, tetapi juga mengucapkan kebohongan untuk menjustifikasi pemisahan.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "نُؤْمِنُ",
+      "transliterasi": "nuʾminu",
+      "jenis_kata": "Fi'il",
+      "arti": "kami beriman",
+      "sharaf": {
+        "akar_kata": "أ م ن",
+        "makna_dasar": "aman, percaya",
+        "wazan_perubahan": "نَفْعَلُ (form I, mudhari‘)"
+      },
+      "nahwu": {
+        "kedudukan": "predikat (fiʿl) dalam kalimat",
+        "irab_dan_logika": "مرفوع بالضمة لأنّه فعل مضارع مرفوع بالضمة"
+      },
+      "hikmah": "Menunjukkan keikhlasan iman secara kolektif, menolak sekat antara iman dan kufur.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "بِبَعْضٍ",
+      "transliterasi": "bi‑baʿḍin",
+      "jenis_kata": "Huruf",
+      "arti": "dengan sebagian",
+      "sharaf": {
+        "akar_kata": "ب ع ض",
+        "makna_dasar": "sebagian",
+        "wazan_perubahan": "اسم مجرور بحرف الجر"
+      },
+      "nahwu": {
+        "kedudukan": "objek preposisi yang melengkapi fiʿl «نُؤْمِنُ»",
+        "irab_dan_logika": "مجرور بالكسرة بسبب حرف الجر «بِ»"
+      },
+      "hikmah": "Menegaskan bahwa keimanan tidak selektif, meliputi seluruh bagian.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "وَنَكْفُرُ",
+      "transliterasi": "wa‑nakfuru",
+      "jenis_kata": "Fi'il",
+      "arti": "kami kafir",
+      "sharaf": {
+        "akar_kata": "ك ف ر",
+        "makna_dasar": "menolak, mengingkari",
+        "wazan_perubahan": "نَفْعُلُ (form I, mudhari‘)"
+      },
+      "nahwu": {
+        "kedudukan": "fiʿl مع الواو العاطفة",
+        "irab_dan_logika": "مرفوع بالضمة لأنّه فعل مضارع مرفوع؛ الواو عاطفة لا تغير الإعراب"
+      },
+      "hikmah": "Menegaskan sikap kontradiktif, menggabungkan iman dan kufur dalam satu pernyataan.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "بِبَعْضٍ",
+      "transliterasi": "bi‑baʿḍin",
+      "jenis_kata": "Huruf",
+      "arti": "dengan sebagian",
+      "sharaf": {
+        "akar_kata": "ب ع ض",
+        "makna_dasar": "sebagian",
+        "wazan_perubahan": "اسم مجرور بحرف الجر"
+      },
+      "nahwu": {
+        "kedudukan": "objek preposisi yang melengkapi fiʿl «نَكْفُرُ»",
+        "irab_dan_logika": "مجرور بالكسرة بسبب حرف الجر «بِ»"
+      },
+      "hikmah": "Mengulang penegasan bahwa penolakan tidak bersifat parsial, melainkan mencakup seluruh bagian.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "وَيُرِيدُونَ",
+      "transliterasi": "wa‑yurīdūna",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka ingin",
+      "sharaf": {
+        "akar_kata": "ر و د",
+        "makna_dasar": "ingin, berkehendak",
+        "wazan_perubahan": "يَفْعَلُ (form I, mudhari‘)"
+      },
+      "nahwu": {
+        "kedudukan": "fiʿl مع الواو العاطفة",
+        "irab_dan_logika": "مرفوع بالضمة لأنّه فعل مضارع مرفوع؛ الواو عاطفة"
+      },
+      "hikmah": "Menyoroti niat mereka untuk mengambil jalan tengah antara iman dan kufur.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "أَن",
+      "transliterasi": "an",
+      "jenis_kata": "Huruf",
+      "arti": "bahwa",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "kata sambung yang menandakan tujuan atau maksud",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "huruf نصب",
+        "irab_dan_logika": "حرف نصب يرفع الفعل المضارع إلى مصدر منصوب (يُرِيدُ أَنْ ...)"
+      },
+      "hikmah": "Menandakan maksud atau tujuan tindakan «يُرِيدُونَ» dalam konteks mengambil jalan tengah.",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "يَتَّخِذُوا۟",
+      "transliterasi": "yattakhidhu",
+      "jenis_kata": "Fi'il",
+      "arti": "mengambil, menjadikan",
+      "sharaf": {
+        "akar_kata": "خ ذ ر",
+        "makna_dasar": "mengambil, menjadikan",
+        "wazan_perubahan": "أَفْعَل (form IV)"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il utama dalam ayat, setelah huruf وَ",
+        "irab_dan_logika": "مبني على السكون لأن الفعل الماضي ينتهي بالوا"
+      },
+      "hikmah": "Menunjukkan tindakan mereka memilih jalan tengah antara iman dan kufr",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "بَيْنَ",
+      "transliterasi": "bayna",
+      "jenis_kata": "Huruf",
+      "arti": "antara",
+      "sharaf": {
+        "akar_kata": "ب ي ن",
+        "makna_dasar": "memisahkan, berada di antara",
+        "wazan_perubahan": "Tidak berlaku (huruf)"
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar, menghubungkan kata \"ذَٰلِكَ\" dengan fi'il",
+        "irab_dan_logika": "مبني على الفتح لأن حرف الجر لا يُعرب"
+      },
+      "hikmah": "Menunjukkan hubungan ruang antara dua hal, di sini antara iman dan kufr",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "ذَٰلِكَ",
+      "transliterasi": "dhalika",
+      "jenis_kata": "Isim",
+      "arti": "itu",
+      "sharaf": {
+        "akar_kata": "ذ ل ك",
+        "makna_dasar": "kata tunjuk",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "اسم إشارة مجرور بحرف الجر \"بين\"",
+        "irab_dan_logika": "مجرور بالكسرة لأن له حرف جر"
+      },
+      "hikmah": "Menunjuk kepada hal yang disebut sebelumnya, yaitu iman dan kufr",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "سَبِيلًا",
+      "transliterasi": "sabilan",
+      "jenis_kata": "Isim",
+      "arti": "jalan, cara",
+      "sharaf": {
+        "akar_kata": "س ب ل",
+        "makna_dasar": "jalan, cara",
+        "wazan_perubahan": "فَعِيلًا (mansoob dengan tanwin)"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به للفعل \"اتخذوا\"",
+        "irab_dan_logika": "منصوب بالفتحة وعلامة تنوين الفتح لأنه مفعول به"
+      },
+      "hikmah": "Menggambarkan upaya mereka mengambil jalan tengah yang tidak konsisten dengan keduanya",
+      "role": "none"
+    }
+  ]
+}
