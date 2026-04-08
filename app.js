@@ -727,27 +727,30 @@ function renderMushafPage() {
         // Split text by space
         const words = text.split(/\s+/).filter(w => w.trim() !== "");
 
-        // Create HTML for each word
+        // Build the ayah marker HTML
+        const markerHtml = showTranslation
+            ? `<button class="mushaf-end-ayah-block" data-surah="${ayah.surah.number}" data-ayah="${ayah.numberInSurah}" aria-label="Tafsir Ayat ${ayah.numberInSurah}">۝${ayahNumAr}</button>`
+            : `<button class="mushaf-end-ayah" data-surah="${ayah.surah.number}" data-ayah="${ayah.numberInSurah}" aria-label="Tafsir Ayat ${ayah.numberInSurah}">۝${ayahNumAr}</button>`;
+
+        // Render words as simple inline spans — block div parent handles alignment
         let wordsHtml = words.map((w, wIndex) => {
             let actualWordIndex = wIndex + wordIndexOffset;
             return `<span class="mushaf-word" data-surah="${ayah.surah.number}" data-ayah="${ayah.numberInSurah}" data-index="${actualWordIndex}">${w}</span>`;
-        }).join(' ');
+        }).join(' ') + ' ' + markerHtml;
 
         if (showTranslation) {
             const transText = currentMushafData.translations[index].text;
             htmlContent += `
             <div class="mushaf-ayah-block">
-                <span class="mushaf-ayah" style="display: inline-block; width: 100%; text-align: right;">
-                    ${wordsHtml} <button class="mushaf-end-ayah-block" data-surah="${ayah.surah.number}" data-ayah="${ayah.numberInSurah}" aria-label="Tafsir Ayat ${ayah.numberInSurah}">۝${ayahNumAr}</button>
-                </span>
+                <div class="mushaf-ayah" style="display:block;text-align:right;direction:rtl;word-spacing:normal;">${wordsHtml}</div>
                 <span class="mushaf-translation-text">
                     <button class="mushaf-tafsir-btn" data-surah="${ayah.surah.number}" data-ayah="${ayah.numberInSurah}" title="Lihat Tafsir Ibnu Katsir"><i class="fas fa-book-open"></i></button>
                     ${ayah.numberInSurah}. ${transText}
                 </span>
             </div>`;
         } else {
-            // Normal continuous rendering
-            htmlContent += `<span class="mushaf-ayah">${wordsHtml} <button class="mushaf-end-ayah" data-surah="${ayah.surah.number}" data-ayah="${ayah.numberInSurah}" aria-label="Tafsir Ayat ${ayah.numberInSurah}">۝${ayahNumAr}</button> </span>`;
+            // FORCE right-align via inline style — prevents any browser justify override
+            htmlContent += `<div class="mushaf-ayah" style="display:block;text-align:right;direction:rtl;word-spacing:normal;">${wordsHtml}</div>`;
         }
     });
 
