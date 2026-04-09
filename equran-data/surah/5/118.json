@@ -1,0 +1,222 @@
+{
+  "surah": 5,
+  "ayah": 118,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "إِن",
+      "transliterasi": "in",
+      "jenis_kata": "Huruf",
+      "arti": "sesungguhnya, memang",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "penegasan",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf penguat (harf tasdiq) di awal kalimat, menguatkan pernyataan selanjutnya",
+        "irab_dan_logika": "Berharakat fathah karena huruf, tidak berubah"
+      },
+      "hikmah": "Menegaskan kepastian Allah atas apa yang akan disebutkan selanjutnya",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "تُعَذِّبْهُمْ",
+      "transliterasi": "tuʿaḏḏib-hum",
+      "jenis_kata": "Fi'il",
+      "arti": "Engkau menyiksa mereka",
+      "sharaf": {
+        "akar_kata": "ع-ذ-ب",
+        "makna_dasar": "menyiksa, memberi siksaan",
+        "wazan_perubahan": "فَعَّلَ (faʿʿala) dengan prefiks تُ"
+      },
+      "nahwu": {
+        "kedudukan": "Kata kerja (fi'il) yang menjadi predikat dalam klausa pertama, berhubungan dengan subjek tak tersurat (Allah)",
+        "irab_dan_logika": "Berharakat dammah pada huruf pertama menandakan mudhari' (present) dan sukun pada huruf terakhir karena huruf ب diikuti dhammah pada pronoun suffix -hum"
+      },
+      "hikmah": "Menunjukkan kekuasaan Allah untuk memberi siksaan bila dikehendaki",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "فَإِنَّهُمْ",
+      "transliterasi": "fa-innahum",
+      "jenis_kata": "Huruf",
+      "arti": "lalu sesungguhnya mereka",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "penegasan lanjutan",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf sambung (fa) diikuti huruf tasdiq (inna) yang menguatkan subjek selanjutnya",
+        "irab_dan_logika": "fa berharakat fatha, inna berharakat dammah pada alif, dan -hum berharakat dammah karena i‘raab i‘nna"
+      },
+      "hikmah": "Menyambungkan pernyataan sebelumnya dengan penegasan tentang keadaan mereka",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "عِبَادُكَ",
+      "transliterasi": "ʿibāduka",
+      "jenis_kata": "Isim",
+      "arti": "hamba-hamba-Mu",
+      "sharaf": {
+        "akar_kata": "ع-ب-د",
+        "makna_dasar": "menjadi hamba, beribadah",
+        "wazan_perubahan": "مَفْعُول (mafuʿul) bentuk jamak broken noun"
+      },
+      "nahwu": {
+        "kedudukan": "Isim marfu' (nominatif) sebagai subjek klausa kedua",
+        "irab_dan_logika": "Berharakat dhammah pada dal karena marfu', diikuti huruf kaf sebagai suffiks milik (ka)"
+      },
+      "hikmah": "Menegaskan bahwa mereka tetap hamba Allah meskipun disiksa atau diampuni",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "ۖ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Huruf",
+      "arti": "tanda jeda",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "menandakan berhenti sejenak",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca yang memisahkan bagian kalimat",
+        "irab_dan_logika": "Tidak memiliki i‘raab, berfungsi sebagai waqf"
+      },
+      "hikmah": "Memberi jeda untuk menekankan makna sebelum melanjutkan",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "وَإِن",
+      "transliterasi": "wa-in",
+      "jenis_kata": "Huruf",
+      "arti": "dan jika",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "penghubung kondisi alternatif",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf sambung yang memperkenalkan kondisi lain (pengampunan)",
+        "irab_dan_logika": "wa fatha, in fatha; tidak berubah karena merupakan huruf"
+      },
+      "hikmah": "Menyambungkan ayat dengan kondisi lain, menyiapkan pernyataan tentang pengampunan Allah",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "تَغْفِرْ",
+      "transliterasi": "taghfir",
+      "jenis_kata": "Fi'il (imperatif)",
+      "arti": "mengampuni",
+      "sharaf": {
+        "akar_kata": "غ-ف-ر",
+        "makna_dasar": "menutupi, menghapus dosa",
+        "wazan_perubahan": "فَعَلَ → تَفْعَلُ (imperatif)"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja utama yang menghubungkan dengan subjek (Allah)",
+        "irab_dan_logika": "berharakat fathah pada akhir huruf ر karena bentuk imperatif (madlūb)"
+      },
+      "hikmah": "*Allah menegaskan sifat pengampunan-Nya yang mutlak, menutup dosa hamba‑hamba‑Nya.*",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "لَهُمْ",
+      "transliterasi": "lahum",
+      "jenis_kata": "Huruf jar (preposisi) + ضمير",
+      "arti": "untuk mereka",
+      "sharaf": {
+        "akar_kata": "ل-ه-م",
+        "makna_dasar": "menunjuk kepemilikan atau tujuan",
+        "wazan_perubahan": "لَ + هُمْ (jar + pronoun)"
+      },
+      "nahwu": {
+        "kedudukan": "kata keterangan (jar) yang melengkapi fi'il *taghfir*",
+        "irab_dan_logika": "marfu‘ karena huruf jar, tidak berubah"
+      },
+      "hikmah": "*Pengampunan Allah diarahkan khusus kepada hamba‑Nya, menegaskan hubungan kasih sayang.*",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "فَإِنَّكَ",
+      "transliterasi": "fa‑innaka",
+      "jenis_kata": "Huruf *fa* (konjungsi) + *inna* (huruf takwid) + ضمير",
+      "arti": "maka sesungguhnya Engkau",
+      "sharaf": {
+        "akar_kata": "إ-ن-ن",
+        "makna_dasar": "menegaskan, menekankan",
+        "wazan_perubahan": "إِنَّ + كَ (huruf takwid + ضمير)"
+      },
+      "nahwu": {
+        "kedudukan": "kata sambung + huruf takwid yang memperkuat subjek *anta*",
+        "irab_dan_logika": "*inna* berjarak, menuntut isim (subjek) ber‑i‘rāb *raḍʿ* (مرفوع)"
+      },
+      "hikmah": "*Dengan *inna* Allah menegaskan keagungan‑Nya sebagai pemberi azab maupun pengampunan.*",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "أَنتَ",
+      "transliterasi": "anta",
+      "jenis_kata": "Isim (dhamir)",
+      "arti": "kamu (Allah)",
+      "sharaf": {
+        "akar_kata": "أ-ن-ت",
+        "makna_dasar": "menunjuk orang kedua tunggal maskulin",
+        "wazan_perubahan": "مُستَقلّ"
+      },
+      "nahwu": {
+        "kedudukan": "isim rafa‘ (subjek) setelah *inna*",
+        "irab_dan_logika": "marfu‘ dengan dhammah karena menjadi isim rafa‘"
+      },
+      "hikmah": "*Menegaskan bahwa yang dimaksud adalah Allah SWT, bukan makhluk lain.*",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "ٱلْعَزِيزُ",
+      "transliterasi": "al-‘azīz",
+      "jenis_kata": "Isim (isim sifat)",
+      "arti": "yang Maha Perkasa",
+      "sharaf": {
+        "akar_kata": "ع-ز-ز",
+        "makna_dasar": "kekuatan, keperkasaan",
+        "wazan_perubahan": "فَعِيل"
+      },
+      "nahwu": {
+        "kedudukan": "isim sifat yang menjelaskan *anta* (khabar *inna*)",
+        "irab_dan_logika": "marfu‘ dengan dhammah karena menjadi khabar *inna*"
+      },
+      "hikmah": "*Sifat *‘azīz* menegaskan kekuasaan Allah yang tak terbatas dalam memberi azab maupun rahmat.*",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "ٱلْحَكِيمُ",
+      "transliterasi": "al-ḥakīm",
+      "jenis_kata": "Isim (isim sifat)",
+      "arti": "yang Maha Bijaksana",
+      "sharaf": {
+        "akar_kata": "ح-ك-م",
+        "makna_dasar": "menetapkan, memberi kebijaksanaan",
+        "wazan_perubahan": "فَعِيل"
+      },
+      "nahwu": {
+        "kedudukan": "isim sifat lanjutan yang berkoordinasi dengan *al-‘azīz* (khabar *inna*)",
+        "irab_dan_logika": "marfu‘ dengan dhammah, terhubung dengan *wa* (dalam teks asli) yang menyambung dua sifat"
+      },
+      "hikmah": "*Sifat *ḥakīm* menegaskan bahwa segala keputusan Allah dilandasi kebijaksanaan sempurna, menyeimbangkan kekuasaan dengan keadilan.*",
+      "role": "none"
+    }
+  ]
+}

@@ -1,0 +1,402 @@
+{
+  "surah": 6,
+  "ayah": 14,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "قُلْ",
+      "transliterasi": "qul",
+      "jenis_kata": "Fi'il",
+      "arti": "katakan",
+      "sharaf": {
+        "akar_kata": "ق-و-ل",
+        "makna_dasar": "mengucapkan",
+        "wazan_perubahan": "fa‘ala (bentuk dasar)"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja utama (فعل أمر) dalam ayat",
+        "irab_dan_logika": "berakhiran sukun karena bentuk أمر"
+      },
+      "hikmah": "**Perintah** Allah kepada Nabi untuk menyampaikan pesan-Nya kepada manusia.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "ٱللَّهِ",
+      "transliterasi": "Allahi",
+      "jenis_kata": "Isim",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "أ-ل-ه",
+        "makna_dasar": "Tuhan, Sang Pencipta",
+        "wazan_perubahan": "isim mudhaf"
+      },
+      "nahwu": {
+        "kedudukan": "isim مجرور بعد حرف الجر \"مِن\"",
+        "irab_dan_logika": "kasra karena berada dalam i‘raab جر"
+      },
+      "hikmah": "Menegaskan keesaan dan kekuasaan Allah sebagai pencipta langit dan bumi.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "أَتَّخِذُ",
+      "transliterasi": "attakhidhu",
+      "jenis_kata": "Fi'il",
+      "arti": "aku menjadikan/menyimpan",
+      "sharaf": {
+        "akar_kata": "خ-ذ",
+        "makna_dasar": "mengambil, menjadikan",
+        "wazan_perubahan": "form IV (أَفْعَل)"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع بالضمة مع ضمير متصل",
+        "irab_dan_logika": "ضمة karena فعل مضارع مرفوع"
+      },
+      "hikmah": "Menunjukkan tindakan manusia yang salah bila menaruh kepercayaan pada selain Allah.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "وَلِيًّۭا",
+      "transliterasi": "waliyyan",
+      "jenis_kata": "Isim",
+      "arti": "pelindung, wali",
+      "sharaf": {
+        "akar_kata": "و-ل-ي",
+        "makna_dasar": "menjadi dekat, melindungi",
+        "wazan_perubahan": "اسم فاعل (فَعِيل)"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به للفعل \"أَتَّخِذُ\"",
+        "irab_dan_logika": "منصوب بالفتحة لأنّه مفعول به"
+      },
+      "hikmah": "Menggambarkan apa yang dipilih manusia sebagai pelindung, yang tidak layak.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "فَاطِرِ",
+      "transliterasi": "fāṭiri",
+      "jenis_kata": "Isim",
+      "arti": "pencipta",
+      "sharaf": {
+        "akar_kata": "ف-ط-ر",
+        "makna_dasar": "mencipta",
+        "wazan_perubahan": "اسم فاعل (فَاعِل)"
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "ٱلسَّمَٰوَٰتِ",
+      "transliterasi": "as‑samāwātu",
+      "jenis_kata": "Isim (isim jamak)",
+      "arti": "langit‑langit",
+      "sharaf": {
+        "akar_kata": "س م و",
+        "makna_dasar": "langit",
+        "wazan_perubahan": "fa‘āla → fa‘āwāt (jamak)"
+      },
+      "nahwu": {
+        "kedudukan": "مجرور بالكسرة بسبب حرف الجر \"من\" dan berkoordinasi dengan \"الأرض\" lewat \"و\"",
+        "irab_dan_logika": "مجرور بالكسرة لأنّها مضاف إليه في جملة الجر"
+      },
+      "hikmah": "Menegaskan kebesaran Allah sebagai Pencipta segala langit yang tak terhitung jumlahnya.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "وَٱلْأَرْضِ",
+      "transliterasi": "wal‑arḍi",
+      "jenis_kata": "Isim (isim tunggal)",
+      "arti": "bumi",
+      "sharaf": {
+        "akar_kata": "ر ض ي",
+        "makna_dasar": "tanah, bumi",
+        "wazan_perubahan": "fa‘ala → arḍ (isim)"
+      },
+      "nahwu": {
+        "kedudukan": "مجرور بالكسرة بسبب حرف الجر \"من\" dan terhubung dengan \"السَّمَٰوَٰتِ\" lewat \"و\"",
+        "irab_dan_logika": "مجرور بالكسرة لأنّها مضاف إليه dalam konstruksi \"من السماء والأرض\""
+      },
+      "hikmah": "Menggambarkan bahwa Allah menciptakan bumi yang menjadi tempat hidup makhluk.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "وَهُوَ",
+      "transliterasi": "wa‑huwa",
+      "jenis_kata": "Huruf (wa) + Isim (huwa)",
+      "arti": "dan Dia",
+      "sharaf": {
+        "akar_kata": "ه و ي",
+        "makna_dasar": "kata ganti orang ketiga tunggal (Dia)",
+        "wazan_perubahan": "pronomina"
+      },
+      "nahwu": {
+        "kedudukan": "مبتدأ مرفوع بالضمة لأنّ \"هو\" هو الفاعل بعد \"قال\"",
+        "irab_dan_logika": "مرفوع بالضمة الظاهرة لأنّها مبتدأ مرفوع"
+      },
+      "hikmah": "Menegaskan keesaan Allah sebagai subjek utama dalam ayat ini.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "يُطْعِمُ",
+      "transliterasi": "yuṭʿimu",
+      "jenis_kata": "Fi'il (verb)",
+      "arti": "memberi makan",
+      "sharaf": {
+        "akar_kata": "ط ع م",
+        "makna_dasar": "makan",
+        "wazan_perubahan": "yafʿalu (فَعَلَ)"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع بالضمة الظاهرة لأنه فعل مع \"هو\"",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "Menunjukkan sifat Allah yang memberi rezeki kepada semua makhluk.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "وَلَا",
+      "transliterasi": "wa‑lā",
+      "jenis_kata": "Huruf (wa) + Huruf (lā)",
+      "arti": "dan tidak",
+      "sharaf": {
+        "akar_kata": "ل و",
+        "makna_dasar": "penolakan",
+        "wazan_perubahan": "negasi"
+      },
+      "nahwu": {
+        "kedudukan": "حرف عطف ونفي يربط بين الفعلين \"يُطْعِمُ\" و\"يُطْعَمُ\"",
+        "irab_dan_logika": "ليس له إعراب مستقل، يعمل كحرف عطف ونفي"
+      },
+      "hikmah": "Menegaskan bahwa Allah tidak hanya memberi makan, tetapi juga tidak memberi makan kepada yang tidak dikehendaki.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "يُطْعَمُ",
+      "transliterasi": "yuṭʿamu",
+      "jenis_kata": "Fi'il (verb) pasif",
+      "arti": "",
+      "sharaf": {
+        "akar_kata": "ط ع م",
+        "makna_dasar": "makan",
+        "wazan_perubahan": "yufʿalu (فُعِل)"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع بالضمة الظاهرة لأنه فعل مع \"هو\" في صيغة المبني للمجهول",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "Menggambarkan bahwa ada makhluk yang tidak diberi rezeki, menegaskan keadilan Allah dalam pembagian rezeki.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "ۗ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf",
+      "arti": "tanda ayat (separator)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca, memisahkan ayat",
+        "irab_dan_logika": "tidak berirab karena bukan kata"
+      },
+      "hikmah": "Menandakan akhir atau jeda ayat, mengingatkan pembaca pada keutuhan pesan.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "قُلْ",
+      "transliterasi": "Qul",
+      "jenis_kata": "Fi'il",
+      "arti": "katakan",
+      "sharaf": {
+        "akar_kata": "ق-و-ل",
+        "makna_dasar": "menyampaikan, berbicara",
+        "wazan_perubahan": "bentuk imperatif (أمر)"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja perintah, mudhari' majzum",
+        "irab_dan_logika": "berharakat sukun pada huruf akhir (قُلْ) menandakan perintah langsung"
+      },
+      "hikmah": "Menunjukkan perintah Allah kepada Nabi untuk menyampaikan wahyu dengan tegas.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "إِنِّىٓ",
+      "transliterasi": "Inni",
+      "jenis_kata": "Huruf",
+      "arti": "sesungguhnya aku",
+      "sharaf": {
+        "akar_kata": "إ-ن-ن",
+        "makna_dasar": "penegasan diri",
+        "wazan_perubahan": "bentuk huruf 'inna' dengan penekanan"
+      },
+      "nahwu": {
+        "kedudukan": "huruf penguat (حرف توكيد) yang menguatkan pernyataan selanjutnya",
+        "irab_dan_logika": "berharakat kasrah pada نِ dan sukun pada ي, menandakan i‘raab marfu‘ bila diikuti fi’il"
+      },
+      "hikmah": "Menegaskan keautentikan pernyataan yang akan diucapkan, menambah kekuatan makna.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "أُمِرْتُ",
+      "transliterasi": "Umirtu",
+      "jenis_kata": "Fi'il",
+      "arti": "aku diperintahkan",
+      "sharaf": {
+        "akar_kata": "أ-م-ر",
+        "makna_dasar": "memerintahkan",
+        "wazan_perubahan": "bentuk mudhari' pasif (مُفْعَل) dalam bentuk 1st person"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il madhi majzum, subjek pertama (أنا) tersirat",
+        "irab_dan_logika": "berharakat dammah pada تُ menandakan marfu‘ karena subjeknya adalah saya"
+      },
+      "hikmah": "Menunjukkan ketaatan total kepada perintah Allah, menegaskan posisi hamba yang tunduk.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "أَنْ",
+      "transliterasi": "An",
+      "jenis_kata": "Huruf",
+      "arti": "bahwa / untuk",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "huruf ma'ul (حرف نصب) yang menghubungkan fi'il majzum dengan fi'il mudhari'",
+        "irab_dan_logika": "menyebabkan fi'il setelahnya menjadi majzum (نَصْب)"
+      },
+      "hikmah": "Menyambungkan perintah dengan tujuan atau isi perintah, menandakan hubungan sebab-akibat.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "أَكُونَ",
+      "transliterasi": "Akūna",
+      "jenis_kata": "Fi'il",
+      "arti": "aku menjadi",
+      "sharaf": {
+        "akar_kata": "ك-و-ن",
+        "makna_dasar": "menjadi, eksis",
+        "wazan_perubahan": "bentuk mudhari' majzum (لَام) dengan alif alif"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il mudhari' majzum setelah أَنْ",
+        "irab_dan_logika": "berharakat dammah pada نَ menandakan majzum karena didahului أَنْ"
+      },
+      "hikmah": "Menyatakan niat untuk menjadi (menjadi) sesuatu yang diperintahkan Allah, menegaskan kepasrahan total.",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "أَوَّلَ",
+      "transliterasi": "awwala",
+      "jenis_kata": "Isim",
+      "arti": "pertama",
+      "sharaf": {
+        "akar_kata": "أ و ل",
+        "makna_dasar": "yang pertama, permulaan",
+        "wazan_perubahan": "أَفْعَل (pola perbandingan/superlatif)"
+      },
+      "nahwu": {
+        "kedudukan": "objek (mansub) dari kata kerja sebelumnya, bagian dari frasa “أَوَّلَ مَنْ أَسْلَمَ”",
+        "irab_dan_logika": "Berakhiran fathah karena berfungsi sebagai maf‘ul bih (objek)"
+      },
+      "hikmah": "Menunjukkan urutan, menekankan bahwa yang pertama di antara orang yang beriman adalah yang paling utama.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "مَنْ",
+      "transliterasi": "man",
+      "jenis_kata": "Isim (isim mawsul)",
+      "arti": "siapa",
+      "sharaf": {
+        "akar_kata": "م ن",
+        "makna_dasar": "orang yang",
+        "wazan_perubahan": "اسم موصول مبني على الفتح"
+      },
+      "nahwu": {
+        "kedudukan": "pembatas antara isim “أَوَّلَ” dan fi‘il “أَسْلَمَ”, berfungsi sebagai isim mawsul dalam konstruksi “أَوَّلَ مَنْ أَسْلَمَ”",
+        "irab_dan_logika": "Mansub (kasrah) karena menjadi maf‘ul bih dari “أَوَّلَ”"
+      },
+      "hikmah": "Menyatakan subjek relatif, menegaskan bahwa yang dimaksud ialah orang yang menyerahkan diri kepada Allah.",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "أَسْلَمَ",
+      "transliterasi": "aslama",
+      "jenis_kata": "Fi‘il (madhi, 3rd person masc. singular)",
+      "arti": "menyerahkan diri (kepada Allah), beriman",
+      "sharaf": {
+        "akar_kata": "س ل م",
+        "makna_dasar": "menyembah, menyerahkan diri",
+        "wazan_perubahan": "فَعَلَ (pola sederhana)"
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "مِنَ",
+      "transliterasi": "mina",
+      "jenis_kata": "Huruf (preposisi)",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar yang menghubungkan kata berikutnya (المُشْرِكِينَ)",
+        "irab_dan_logika": "Berkasrah karena merupakan huruf jar; menandakan hubungan kepemilikan atau asal"
+      },
+      "hikmah": "Menunjukkan bahwa larangan itu bersifat *dari* golongan orang musyrik, bukan sekadar perintah umum.",
+      "role": "none"
+    },
+    {
+      "index": 25,
+      "kata_arab": "ٱلْمُشْرِكِينَ",
+      "transliterasi": "",
+      "jenis_kata": "",
+      "arti": "",
+      "sharaf": {
+        "akar_kata": "ش‑ر‑ك",
+        "makna_dasar": "menyekutukan, bersekutu",
+        "wazan_perubahan": "مُفْعِل (mushrik) → مُشْرِكِينَ (jam‘ majrur)"
+      },
+      "nahwu": {
+        "kedudukan": "Objek preposisi منَ, berkasrah sebagai majrur",
+        "irab_dan_logika": "Berakhiran kasrah (ـِين) karena berada di belakang huruf jar منَ; menandakan hubungan kepemilikan"
+      },
+      "hikmah": "Menggarisbawahi bahwa orang yang menolak tauhid (musyrik) adalah kelompok yang harus dihindari, menegaskan pentingnya keikhlasan kepada Allah saja.",
+      "role": "none"
+    }
+  ]
+}

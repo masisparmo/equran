@@ -1,0 +1,438 @@
+{
+  "surah": 6,
+  "ayah": 38,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "وَمَا",
+      "transliterasi": "wa‑mā",
+      "jenis_kata": "Huruf",
+      "arti": "dan tidak",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Awal ayat, berfungsi sebagai huruf sambung (wa) dan huruf nakirah (mā)",
+        "irab_dan_logika": "Kedua huruf ini tidak berharakat karena termasuk huruf, sehingga tidak mempengaruhi irab kata sesudahnya"
+      },
+      "hikmah": "Menegaskan penolakan atau ketiadaan sesuatu, menyiapkan pembacaan ayat selanjutnya yang bersifat negatif",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "مِن",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Preposisi yang menghubungkan kata sebelumnya dengan isim yang mengikutinya",
+        "irab_dan_logika": "Membawa isim berikutnya ke dalam keadaan jar (kasrah) karena sifat huruf jar"
+      },
+      "hikmah": "Menunjukkan asal atau sumber, dalam konteks ayat ini menegaskan bahwa tidak ada makhluk yang diciptakan \"dari\" sesuatu yang terlewatkan",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "دَآبَّةٍۢ",
+      "transliterasi": "dābbatin",
+      "jenis_kata": "Isim",
+      "arti": "makhluk yang merayap",
+      "sharaf": {
+        "akar_kata": "د‑ب‑ب",
+        "makna_dasar": "merayap, bergerak perlahan",
+        "wazan_perubahan": "fa‘‘ala → dābbah (isim fa‘il)"
+      },
+      "nahwu": {
+        "kedudukan": "Isim majrur yang menjadi mudhaf setelah huruf jar \"min\"",
+        "irab_dan_logika": "Berakhiran kasrah (ـٍ) menandakan status majrur karena dipengaruhi huruf \"min\""
+      },
+      "hikmah": "Menunjukkan seluruh makhluk yang bergerak di bumi, menegaskan kebersamaan mereka dengan manusia dalam penciptaan",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "فِى",
+      "transliterasi": "fī",
+      "jenis_kata": "Huruf",
+      "arti": "di",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Preposisi yang menghubungkan kata sebelumnya dengan isim berikutnya",
+        "irab_dan_logika": "Menyebabkan isim berikutnya berada dalam keadaan majrur (kasrah)"
+      },
+      "hikmah": "Menunjukkan tempat atau ruang lingkup, yaitu \"di bumi\"",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "ٱلْأَرْضِ",
+      "transliterasi": "al‑arḍi",
+      "jenis_kata": "Isim",
+      "arti": "bumi",
+      "sharaf": {
+        "akar_kata": "ع‑ر‑ض",
+        "makna_dasar": "tanah, permukaan bumi",
+        "wazan_perubahan": "isim musnad (tanpa wazan khusus)"
+      },
+      "nahwu": {
+        "kedudukan": "Isim majrur yang menjadi mudhaf setelah preposisi \"fī\"",
+        "irab_dan_logika": "Berakhiran kasrah (ـِ) menandakan status majrur karena preposisi \"fī\""
+      },
+      "hikmah": "Menegaskan bahwa semua makhluk yang disebutkan berada di dalam lingkup bumi",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "وَلَا",
+      "transliterasi": "walā",
+      "jenis_kata": "Huruf",
+      "arti": "dan tidak",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf sambung (wa) + huruf nakirah (lā) yang memperkuat penolakan sebelumnya",
+        "irab_dan_logika": "Tidak berharakat karena termasuk huruf, berfungsi menghubungkan klausa selanjutnya dengan makna penolakan"
+      },
+      "hikmah": "Menguatkan pernyataan negatif, menegaskan bahwa tidak ada makhluk lain selain yang telah disebutkan",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "طَٰئِرٍۢ",
+      "transliterasi": "ṭāʾir",
+      "jenis_kata": "Isim",
+      "arti": "yang terbang",
+      "sharaf": {
+        "akar_kata": "ط-و-ر",
+        "makna_dasar": "terbang",
+        "wazan_perubahan": "فَاعِل"
+      },
+      "nahwu": {
+        "kedudukan": "Isim dalam frasa *ma* + *ṭāʾir* (مَا طَائِرٍ)",
+        "irab_dan_logika": "مُنصوب بالكسرة لأنّها مفعول به غير محدد"
+      },
+      "hikmah": "Menunjukkan makhluk yang memiliki kemampuan terbang, menegaskan kebesaran ciptaan Allah",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "يَطِيرُ",
+      "transliterasi": "yaṭīru",
+      "jenis_kata": "Fi'il",
+      "arti": "dia terbang",
+      "sharaf": {
+        "akar_kata": "ط-و-ر",
+        "makna_dasar": "terbang",
+        "wazan_perubahan": "يفعل"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il mudhari‘ (kata kerja) dalam ayat",
+        "irab_dan_logika": "مرفوع بالضمة الظاهرة لأنّه فعل مضارع مرفوع"
+      },
+      "hikmah": "Menegaskan aksi terbang sebagai sifat alami makhluk yang diciptakan",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "بِجَنَاحَيْهِ",
+      "transliterasi": "bijanāḥayhi",
+      "jenis_kata": "Isim (dengan huruf جر)",
+      "arti": "dengan dua sayap‑nya",
+      "sharaf": {
+        "akar_kata": "ج-ن-ح",
+        "makna_dasar": "sayap",
+        "wazan_perubahan": "مفعل"
+      },
+      "nahwu": {
+        "kedudukan": "Isim مجرور بحرف الجر *بِ*",
+        "irab_dan_logika": "مجرور بالكسرة لأنّها مضاف إليه مثنى، والضمير المتصل *هِ* يضيف علامة الجر"
+      },
+      "hikmah": "Menunjukkan sarana terbang yang diberikan Allah kepada makhluk‑makhluk itu",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "إِلَّا",
+      "transliterasi": "illā",
+      "jenis_kata": "Huruf",
+      "arti": "kecuali",
+      "sharaf": {
+        "akar_kata": "لا",
+        "makna_dasar": "penolakan",
+        "wazan_perubahan": "حرف استثناء"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf استثناء مبني على السكون لا محل له من الإعراب",
+        "irab_dan_logika": "تُستعمل لتحديد الاستثناء من ما سبق"
+      },
+      "hikmah": "Menyatakan pengecualian, menegaskan bahwa semua makhluk terbang kecuali yang tidak mampu",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "أُمَمٌ",
+      "transliterasi": "umam",
+      "jenis_kata": "Isim",
+      "arti": "umat, bangsa",
+      "sharaf": {
+        "akar_kata": "أ-م-م",
+        "makna_dasar": "kelompok manusia",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "Isim مرفوع في الجملة الاسمية",
+        "irab_dan_logika": "مرفوع بالضمة لأنه خبر مرفوع"
+      },
+      "hikmah": "Menggambarkan seluruh umat manusia sebagai satu kelompok yang diciptakan",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "أَمْثَالُكُم",
+      "transliterasi": "amthālukum",
+      "jenis_kata": "Isim",
+      "arti": "contoh-contohmu",
+      "sharaf": {
+        "akar_kata": "م-ث-ل",
+        "makna_dasar": "contoh, perumpamaan",
+        "wazan_perubahan": "أَفْعَال"
+      },
+      "nahwu": {
+        "kedudukan": "Isim خبر مرفوع للجملة الاسمية",
+        "irab_dan_logika": "مرفوع بالضمة لأنّه خبر مرفوع، والضمير المتصل *كم* لا يغيّر الإعراب"
+      },
+      "hikmah": "Menunjukkan bahwa setiap umat memiliki contoh atau perumpamaan masing‑masing, menegaskan kesamaan ciptaan",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "ۚ",
+      "transliterasi": "Waqfah Mutlaqah",
+      "jenis_kata": "Huruf",
+      "arti": "Tanda berhenti mutlak",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca",
+        "irab_dan_logika": "Tidak memiliki i'rab. Fungsinya adalah sebagai penanda jeda dalam pembacaan Al-Qur'an untuk membantu pemahaman makna. Dalam konteks ayat ini, ia memisahkan pernyataan tentang binatang dan burung sebagai umat dari pernyataan tentang kesempurnaan Al-Kitab."
+      },
+      "hikmah": "Tanda ini menunjukkan akhir dari satu bagian makna atau kalimat yang sempurna, dan memulai bagian kalimat berikutnya yang mungkin memiliki hubungan makna namun bisa dipahami secara terpisah. Ini membantu pembaca untuk memahami struktur dan alur makna ayat.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "مَّا",
+      "transliterasi": "Mā",
+      "jenis_kata": "Huruf",
+      "arti": "Tidaklah / Tidak",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "Penafian (negation)",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Nafi (penafian)",
+        "irab_dan_logika": "Huruf mabni (tetap), tidak memiliki perubahan i'rab. Berfungsi menafikan atau meniadakan perbuatan yang mengikutinya. Dalam konteks ini, menafikan perbuatan 'kami alpakan'."
+      },
+      "hikmah": "Kata `مَّا` di sini berfungsi sebagai penegas penafian, menunjukkan bahwa Allah sama sekali tidak pernah mengabaikan atau melalaikan sesuatu pun dalam Al-Kitab (Lauhul Mahfuzh atau Al-Qur'an). Ini menekankan kesempurnaan dan kelengkapan catatan ilahi.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "فَرَّطْنَا",
+      "transliterasi": "Farraṭnā",
+      "jenis_kata": "Fi'il (kata kerja)",
+      "arti": "Kami alpakan / Kami lalaikan / Kami abaikan",
+      "sharaf": {
+        "akar_kata": "ف ر ط (Fā-Rā-Ṭā)",
+        "makna_dasar": "Melampaui batas, mendahului, mengabaikan, melalaikan.",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau) dari wazan فَعَّلَ (Fa''ala), yang menunjukkan intensitas atau kausatif. Dalam bentuk ini, maknanya menjadi 'melalaikan dengan sengaja' atau 'mengabaikan'. Bentuk `فَرَّطْنَا` adalah fi'il madhi, mutakallim ma'al ghair (orang pertama jamak - kami)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Madhi, Fa'ilnya adalah `نَا` (dhamir muttasil yang kembali kepada Allah).",
+        "irab_dan_logika": "Fi'il madhi mabni 'ala as-sukun (tetap dengan sukun) karena bersambung dengan dhamir rafa' mutaharrik (`نَا`). Dhamir `نَا` adalah dhamir rafa' muttasil yang berkedudukan sebagai fa'il (subjek) dalam keadaan rafa'."
+      },
+      "hikmah": "Kata ini menegaskan bahwa Allah SWT, dengan segala keagungan-Nya, tidak pernah sedikit pun melalaikan atau mengabaikan sesuatu dalam penciptaan dan pengaturan alam semesta, maupun dalam wahyu-Nya. Ini menunjukkan kesempurnaan ilmu dan kekuasaan Allah.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "فِى",
+      "transliterasi": "Fī",
+      "jenis_kata": "Huruf",
+      "arti": "Di dalam / Pada",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "Menunjukkan tempat (zharf makan) atau konteks.",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Jar",
+        "irab_dan_logika": "Huruf mabni 'ala as-sukun (tetap dengan sukun). Sebagai huruf jar, ia menyebabkan isim yang mengikutinya menjadi majrur (berharakat kasrah)."
+      },
+      "hikmah": "Huruf `فِى` di sini menunjukkan 'di dalam' atau 'terkandung dalam' Al-Kitab. Ini menekankan bahwa segala sesuatu, baik yang besar maupun yang kecil, telah tercatat dan termuat dengan sempurna di dalam Al-Kitab (Lauhul Mahfuzh atau Al-Qur'an), tanpa ada yang terlewatkan.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "ٱلْكِتَٰبِ",
+      "transliterasi": "Al-Kitāb",
+      "jenis_kata": "Isim (kata benda)",
+      "arti": "Kitab / Catatan / Buku",
+      "sharaf": {
+        "akar_kata": "ك ت ب (Kāf-Tā-Bā)",
+        "makna_dasar": "Menulis, mencatat, mengumpulkan.",
+        "wazan_perubahan": "Isim (kata benda) dari wazan فِعَالٌ (Fi'ālun), yang menunjukkan alat atau hasil perbuatan. Dengan `ال` (alif lam ta'rif), menjadi isim ma'rifah (kata benda tertentu)."
+      },
+      "nahwu": {
+        "kedudukan": "Isim Majrur oleh huruf jar `فِى`.",
+        "irab_dan_logika": "Majrur dengan tanda jar kasrah (`ِ`) pada huruf akhirnya (بِ). Ini karena didahului oleh huruf jar `فِى`."
+      },
+      "hikmah": "`ٱلْكِتَٰبِ` dalam konteks ini merujuk pada Lauhul Mahfuzh (Lembaran yang Terpelihara) di sisi Allah, tempat segala sesuatu telah dicatat sebelum penciptaan. Bisa juga merujuk pada Al-Qur'an sebagai kitab yang sempurna. Maknanya adalah bahwa tidak ada satu pun detail, baik besar maupun kecil, yang luput dari catatan ilahi ini, menunjukkan keagungan ilmu dan ketetapan Allah.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "مِن",
+      "transliterasi": "Min",
+      "jenis_kata": "Huruf",
+      "arti": "Dari / Sebagian dari / Sedikit pun",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "Menunjukkan permulaan, sebagian, atau penegasan (zaidah).",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Jar Zaidah (tambahan untuk penegasan)",
+        "irab_dan_logika": "Huruf mabni 'ala as-sukun (tetap dengan sukun). Dalam konteks ini, `مِن` berfungsi sebagai *huruf jar zaidah* (tambahan) untuk penegasan makna penafian. Meskipun secara tata bahasa ia adalah huruf jar, isim yang mengikutinya (yaitu `شَىْءٍ` - sesuatu) secara makna adalah maf'ul bih (objek) dari `فَرَّطْنَا` dan secara lafazh majrur oleh `مِن`. Kehadiran `مِن` di sini memperkuat penafian, artinya 'tidak sedikit pun dari sesuatu'."
+      },
+      "hikmah": "Huruf `مِن` di sini berfungsi untuk memperkuat penafian sebelumnya (`مَّا فَرَّطْنَا`). Ini menegaskan bahwa *tidak ada sedikit pun* atau *tidak satu pun* dari sesuatu yang terlewatkan atau diabaikan dalam Al-Kitab. Ini adalah penekanan mutlak terhadap kesempurnaan dan kelengkapan catatan ilahi.",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "شَىْءٍۢ",
+      "transliterasi": "syai'in",
+      "jenis_kata": "Isim",
+      "arti": "sesuatu, apapun",
+      "sharaf": {
+        "akar_kata": "ش ي ء",
+        "makna_dasar": "adanya sesuatu, hal, benda",
+        "wazan_perubahan": "Isim (kata benda) dari akar kata tersebut, tanpa wazan fi'il tertentu. Bentuk ini adalah bentuk dasar isim."
+      },
+      "nahwu": {
+        "kedudukan": "Isim majrur oleh huruf jar 'مِنْ' (min). Secara makna, ia adalah maf'ul bih.",
+        "irab_dan_logika": "Harakat kasrah tanwin (ٍۢ) menunjukkan bahwa ia adalah isim majrur. Huruf 'مِنْ' di sini adalah 'min zaidah' (tambahan) untuk penekanan makna penafian, sehingga 'شَيْءٍ' berfungsi sebagai maf'ul bih secara makna, namun secara lafazh majrur."
+      },
+      "hikmah": "Kata ini menekankan bahwa *tidak ada satu pun hal*, sekecil apapun, yang terlewat atau dilupakan oleh Allah dalam 'Al-Kitab' (Lauh Mahfuzh atau Al-Qur'an). Ini menunjukkan kesempurnaan ilmu dan pengaturan Allah yang meliputi segala sesuatu.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf",
+      "arti": "(tanda waqaf lazim)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf lazim (harus berhenti).",
+        "irab_dan_logika": "Bukan bagian dari struktur gramatikal kalimat, melainkan tanda baca untuk mempermudah pembacaan dan pemahaman makna."
+      },
+      "hikmah": "Tanda ini menunjukkan tempat berhenti yang dianjurkan atau bahkan wajib dalam bacaan Al-Qur'an untuk memisahkan dua makna atau gagasan yang berbeda namun saling terkait. Di sini, ia memisahkan pernyataan tentang kesempurnaan Al-Kitab dengan pernyataan tentang penghimpunan di hari kiamat.",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "ثُمَّ",
+      "transliterasi": "tsumma",
+      "jenis_kata": "Huruf",
+      "arti": "kemudian, lalu",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "Menunjukkan urutan waktu atau tahapan yang berurutan dengan jeda.",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Harf 'athaf (huruf penghubung/konjungsi).",
+        "irab_dan_logika": "Harf 'athaf mabni (tidak berubah harakatnya), berfungsi menghubungkan kalimat sebelumnya dengan kalimat sesudahnya, menunjukkan urutan waktu."
+      },
+      "hikmah": "Kata ini menunjukkan urutan peristiwa setelah 'tidak ada yang terlewat dalam Al-Kitab', yaitu peristiwa penghimpunan di hari kiamat. Implikasinya adalah ada jeda waktu antara kehidupan di dunia dan hari penghimpunan, serta menunjukkan bahwa penghimpunan itu adalah tahapan berikutnya yang pasti akan terjadi.",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "إِلَىٰ",
+      "transliterasi": "ilaa",
+      "jenis_kata": "Huruf",
+      "arti": "kepada, ke",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "Menunjukkan arah tujuan atau batas akhir.",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Harf jar (huruf penjar).",
+        "irab_dan_logika": "Harf jar mabni (tidak berubah harakatnya), berfungsi menjar-kan isim setelahnya. Dalam kalimat ini, ia menjar-kan 'رَبِّهِمْ'."
+      },
+      "hikmah": "Kata ini menegaskan bahwa tujuan akhir dari penghimpunan seluruh makhluk adalah *hanya kepada Allah SWT*. Ini menunjukkan kekuasaan mutlak Allah atas segala sesuatu dan bahwa semua akan kembali kepada-Nya untuk dihisab.",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "رَبِّهِمْ",
+      "transliterasi": "rabbihim",
+      "jenis_kata": "Isim",
+      "arti": "Tuhan mereka",
+      "sharaf": {
+        "akar_kata": "ر ب ب",
+        "makna_dasar": "memelihara, menguasai, mendidik, Tuhan, pemilik.",
+        "wazan_perubahan": "Isim (kata benda) dalam bentuk mudhaf (yang disandarkan) kepada dhamir 'هِمْ' (mereka)."
+      },
+      "nahwu": {
+        "kedudukan": "Isim majrur oleh harf jar 'إِلَىٰ'. Ia juga mudhaf (yang disandarkan).",
+        "irab_dan_logika": "Harakat kasrah (ِ) pada huruf ba' (ب) menunjukkan bahwa ia adalah isim majrur karena didahului oleh harf jar 'إِلَىٰ'. 'هِمْ' adalah dhamir muttashil (kata ganti sambung) yang berkedudukan sebagai mudhaf ilaih (yang disandari), mabni 'ala sukun fi mahalli jarr."
+      },
+      "hikmah": "Kata ini menguatkan konsep tauhid rububiyah, bahwa Allah adalah satu-satunya Tuhan yang memelihara, mengatur, dan menguasai seluruh makhluk. Penyebutan 'Tuhan mereka' (رَبِّهِمْ) secara spesifik menekankan hubungan kepemilikan dan kekuasaan Allah atas semua makhluk yang akan dihimpun.",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "يُحْشَرُونَ",
+      "transliterasi": "yuhsyarun",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka dihimpunkan",
+      "sharaf": {
+        "akar_kata": "ح ش ر",
+        "makna_dasar": "mengumpulkan, menghimpun, menggiring.",
+        "wazan_perubahan": "Fi'il Mudhari' Majhul (kata kerja aktif bentuk pasif) dari Bab I (فَعَلَ - يَفْعُلُ), dengan tambahan wawu dan nun (ون) untuk menunjukkan jamak mudzakkar ghaib (mereka laki-laki). Bentuk aslinya adalah حَشَرَ (aktif), menjadi يُحْشَرُ (pasif)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Majhul marfu'.",
+        "irab_dan_logika": "Marfu' (dirafa'kan) karena tidak didahului oleh amil nashab (penashab) atau amil jazm (penjazm). Tanda rafa'nya adalah tetapnya nun (ثبوت النون) karena termasuk Af'alul Khamsah (lima fi'il). Wau (و) adalah naibul fa'il (pengganti subjek) yang kembali kepada 'binatang-binatang dan burung-burung' serta 'umat seperti kamu' yang disebutkan sebelumnya."
+      },
+      "hikmah": "Kata ini menegaskan kepastian akan adanya hari kiamat di mana semua makhluk, termasuk manusia dan hewan, akan dikumpulkan di hadapan Allah untuk dihisab. Penggunaan bentuk pasif (dihimpunkan) menunjukkan bahwa penghimpunan ini adalah tindakan Allah, bukan inisiatif makhluk, menekankan kekuasaan dan kehendak-Nya.",
+      "role": "none"
+    }
+  ]
+}

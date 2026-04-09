@@ -1,0 +1,168 @@
+{
+  "surah": 6,
+  "ayah": 74,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "وَإِذْ",
+      "transliterasi": "wa-idh",
+      "jenis_kata": "Huruf",
+      "arti": "dan ketika",
+      "sharaf": {
+        "akar_kata": "إِذ",
+        "makna_dasar": "ketika",
+        "wazan_perubahan": "tidak ada (kata benda/partikel)"
+      },
+      "nahwu": {
+        "kedudukan": "kata sambung pembuka ayat, menandakan waktu",
+        "irab_dan_logika": "مبني على السكون؛ **إِذْ** berfungsi sebagai حرف مشبه لا محل له من الإعراب"
+      },
+      "hikmah": "Menunjukkan bahwa peristiwa yang akan diceritakan terjadi pada waktu tertentu, memberi konteks kronologis pada ucapan Ibrahim.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "قَالَ",
+      "transliterasi": "qāla",
+      "jenis_kata": "Fi'il",
+      "arti": "berkata",
+      "sharaf": {
+        "akar_kata": "ق و ل",
+        "makna_dasar": "mengatakan",
+        "wazan_perubahan": "فعل ماضٍ ثلاثي مجرد"
+      },
+      "nahwu": {
+        "kedudukan": "predikat utama dalam kalimat",
+        "irab_dan_logika": "مرفوع بالضمة لأنّه فعل ماضٍ"
+      },
+      "hikmah": "Menegaskan bahwa Ibrahim adalah subjek yang aktif menyampaikan pesan kepada ayahnya.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "إِبْرَٰهِيمُ",
+      "transliterasi": "Ibrāhīm",
+      "jenis_kata": "Isim",
+      "arti": "Ibrahim (nama nabi)",
+      "sharaf": {
+        "akar_kata": "إ ب ر ه ي م",
+        "makna_dasar": "nama pribadi",
+        "wazan_perubahan": "اسم علم"
+      },
+      "nahwu": {
+        "kedudukan": "فاعل (subjek) dari فعل قَالَ",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فاعل"
+      },
+      "hikmah": "Menunjukkan bahwa pesan ini datang dari Nabi Ibrahim, memberi otoritas spiritual pada pernyataan tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "لِأَبِيهِ",
+      "transliterasi": "li-abīhi",
+      "jenis_kata": "Huruf",
+      "arti": "kepada ayahnya",
+      "sharaf": {
+        "akar_kata": "لِ + أَب",
+        "makna_dasar": "menunjuk kepemilikan atau hubungan",
+        "wazan_perubahan": "حرف جر + اسم مجرور"
+      },
+      "nahwu": {
+        "kedudukan": "مجرور بحرف الجر لِ",
+        "irab_dan_logika": "مجرور بالكسرة لأنّها مضاف إليه"
+      },
+      "hikmah": "Menandakan bahwa ucapan Ibrahim ditujukan secara khusus kepada ayahnya, menekankan kedekatan keluarga.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "آزَرَ",
+      "transliterasi": "Āzar",
+      "jenis_kata": "Isim",
+      "arti": "Azar (nama ayah Ibrahim)",
+      "sharaf": {
+        "akar_kata": "آ ز ر",
+        "makna_dasar": "nama pribadi",
+        "wazan_perubahan": "اسم علم"
+      },
+      "nahwu": {
+        "kedudukan": "مضاف إليه setelah لِأَبِيهِ",
+        "irab_dan_logika": "مجرور بالكسرة لأنه مضاف إليه"
+      },
+      "hikmah": "Memberi identitas jelas kepada sosok yang ditanyai, sehingga pembaca tahu siapa yang dimaksud.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "أَتَتَّخِذُ",
+      "transliterasi": "a-tatakhidhu",
+      "jenis_kata": "Fi'il",
+      "arti": "apakah kamu menjadikan",
+      "sharaf": {
+        "akar_kata": "خ ذ",
+        "makna_dasar": "mengambil, menjadikan",
+        "wazan_perubahan": "فعل مضارع مضعف (تَتَّخِذُ) من وزن تَفْعَل"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع سؤالاً",
+        "irab_dan_logika": "مرفوع بالضمة لأنّه فعل مضارع غير منصوب"
+      },
+      "hikmah": "Pertanyaan retoris yang menegaskan keabsahan penyembahan berhala, mengajak pendengar berpikir kritis tentang kepercayaan mereka.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "أَصْنَامًا",
+      "transliterasi": "aṣnāman",
+      "jenis_kata": "Isim",
+      "arti": "berhala‑berhala",
+      "sharaf": {
+        "akar_kata": "ص ن م",
+        "makna_dasar": "benda yang disembah, patung",
+        "wazan_perubahan": "فَعْلَة (jamak غير مذكر سالم)"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به (objek) dari فعل «جَعَلَ»",
+        "irab_dan_logika": "نصب بالفتحة + تنوين because kata benda tak tentu dalam posisi objek"
+      },
+      "hikmah": "*Menegaskan bahwa berhala‑berhala itu adalah objek penyembahan yang ditolak Ibrahim.*",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "آلِهَةً",
+      "transliterasi": "āhilatan",
+      "jenis_kata": "Isim",
+      "arti": "dewa‑dewa",
+      "sharaf": {
+        "akar_kata": "أ ل ه",
+        "makna_dasar": "sesuatu yang disembah",
+        "wazan_perubahan": "مَفْعَلَة (jamak غير مذكر سالم)"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به (objek) berkoordinasi dengan «أَصْنَامًا» melalui «و»",
+        "irab_dan_logika": "نصب بالفتحة + تنوين karena kata benda tak tentu"
+      },
+      "hikmah": "*Menunjukkan pluralitas dewa yang disembah, memperkuat penolakan Ibrahim terhadap penyembahan berhala.*",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "ۖ",
+      "transliterasi": "—",
+      "jenis_kata": "Huruf (tanda waqf)",
+      "arti": "tanda jeda/berhenti",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda waqf, tidak masuk dalam susunan nahwu",
+        "irab_dan_logika": "tidak berirab, berfungsi memberi jeda dalam bacaan"
+      },
+      "hikmah": "*Memberi jeda bagi pendengar untuk merenungkan pernyataan Ibrahim sebelum melanjutkan ayat.*",
+      "role": "none"
+    }
+  ]
+}

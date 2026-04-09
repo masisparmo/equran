@@ -1,0 +1,1194 @@
+{
+  "surah": 5,
+  "ayah": 110,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "إِذْ",
+      "transliterasi": "idh",
+      "jenis_kata": "Huruf",
+      "arti": "ketika",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf zaman yang memperkenalkan peristiwa",
+        "irab_dan_logika": "Tidak berharakat karena huruf indeklinabel; berfungsi sebagai penghubung temporal"
+      },
+      "hikmah": "*Mengajarkan pentingnya mengingat peristiwa yang Allah sebutkan pada masa lalu*",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "قَالَ",
+      "transliterasi": "qaala",
+      "jenis_kata": "Fi'il",
+      "arti": "berkata",
+      "sharaf": {
+        "akar_kata": "ق-و-ل",
+        "makna_dasar": "mengatakan",
+        "wazan_perubahan": "فعل ماضٍ"
+      },
+      "nahwu": {
+        "kedudukan": "Predikat utama dalam ayat",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فعل ماضٍ"
+      },
+      "hikmah": "*Menegaskan bahwa Allah berbicara langsung kepada Isa, menegaskan otoritas firman-Nya*",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "ٱللَّهُ",
+      "transliterasi": "Allahu",
+      "jenis_kata": "Isim",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada' (subjek)",
+        "irab_dan_logika": "مرفوع بالضمة لأنه مبتدأ"
+      },
+      "hikmah": "*Menunjukkan bahwa segala pernyataan berasal dari Sang Pencipta, menegaskan keesaan-Nya*",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "يَٰعِيسَى",
+      "transliterasi": "ya‘isa",
+      "jenis_kata": "Huruf",
+      "arti": "Hai Isa",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Kata panggilan (nida)",
+        "irab_dan_logika": "Tidak berharakat karena huruf نداء"
+      },
+      "hikmah": "*Menunjukkan keintiman Allah dengan Nabi Isa, memanggilnya secara pribadi*",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "ٱبْنَ",
+      "transliterasi": "ibna",
+      "jenis_kata": "Isim",
+      "arti": "anak",
+      "sharaf": {
+        "akar_kata": "ب-ن-و",
+        "makna_dasar": "anak",
+        "wazan_perubahan": "اسم مجرور"
+      },
+      "nahwu": {
+        "kedudukan": "Bagian pertama dari i‘raab idafa (ibna Maryama)",
+        "irab_dan_logika": "منصوب بالفتحة لأن كلمة النداء تُنصب المضاف"
+      },
+      "hikmah": "*Menegaskan hubungan kekerabatan Isa dengan Maryam, menekankan kemurnian garis keturunan*",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "مَرْيَمَ",
+      "transliterasi": "Maryam",
+      "jenis_kata": "Isim",
+      "arti": "Maryam",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Mudhafa ilayh (penjelas) dalam idafa",
+        "irab_dan_logika": "منصوب بالفتحة لأن الإضافة كلها منصوبة بالنداء"
+      },
+      "hikmah": "*Menghormati ibu Isa, menegaskan peran penting Maryam dalam sejarah kenabian*",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "ٱذْكُرْ",
+      "transliterasi": "adhkur",
+      "jenis_kata": "Fi'il",
+      "arti": "ingatlah",
+      "sharaf": {
+        "akar_kata": "ذ-ك-ر",
+        "makna_dasar": "mengingat, menyebut",
+        "wazan_perubahan": "فَعِل (bentuk I)"
+      },
+      "nahwu": {
+        "kedudukan": "kata perintah (imperatif) yang memerintahkan Nabi Isa",
+        "irab_dan_logika": "مجزوم بالسكن على الر karena perintah (أمر)"
+      },
+      "hikmah": "menekankan pentingnya mengingat nikmat Allah sebagai dasar keimanan",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "نِعْمَتِى",
+      "transliterasi": "ni‘mati",
+      "jenis_kata": "Isim",
+      "arti": "nikmat-Ku",
+      "sharaf": {
+        "akar_kata": "ن-ع-م",
+        "makna_dasar": "kebaikan, karunia",
+        "wazan_perubahan": "مصدر فعل (نِعْمَة) + ضمير متصل -i"
+      },
+      "nahwu": {
+        "kedudukan": "isim mudhaf (milik) yang menempel pada Allah",
+        "irab_dan_logika": "مرفوع بالضمة الظاهرة على النون، والكاف مكسورة لأنها ضمير متصل"
+      },
+      "hikmah": "menunjukkan bahwa segala karunia berasal dari Allah",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "عَلَيْكَ",
+      "transliterasi": "ʿalayka",
+      "jenis_kata": "Huruf",
+      "arti": "atasmu",
+      "sharaf": {
+        "akar_kata": "ع-ل-ى",
+        "makna_dasar": "menunjuk kepada sesuatu yang berada di atas",
+        "wazan_perubahan": "حرف جر مع ضمير متصل"
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar yang menghubungkan 'ni‘mati' dengan pronomina '-ka'",
+        "irab_dan_logika": "مجرور بالكسرة لأنه حرف جر، والكسرة على الياء للضمير المتصل"
+      },
+      "hikmah": "menunjukkan kepemilikan Allah atas nikmat yang diberikan",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "وَعَلَىٰ",
+      "transliterasi": "waʿalā",
+      "jenis_kata": "Huruf",
+      "arti": "dan atas",
+      "sharaf": {
+        "akar_kata": "ع-ل-ى",
+        "makna_dasar": "menambah penegasan pada 'atas ibumu'",
+        "wazan_perubahan": "واو العطف + حرف جر"
+      },
+      "nahwu": {
+        "kedudukan": "huruf ma'ataf (conj) yang menghubungkan frasa sebelumnya dengan frasa berikutnya",
+        "irab_dan_logika": "الواو عاطفة لا إعراب لها، وعَلَى مجرور بالكسرة على الفاء"
+      },
+      "hikmah": "menegaskan bahwa nikmat juga mencakup ibunya",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "وَالِدَتِكَ",
+      "transliterasi": "walidatika",
+      "jenis_kata": "Isim",
+      "arti": "ibumu",
+      "sharaf": {
+        "akar_kata": "و-ل-د",
+        "makna_dasar": "yang melahirkan",
+        "wazan_perubahan": "اسم مضاف إليه مع ضمير متصل"
+      },
+      "nahwu": {
+        "kedudukan": "isim mudhaf (milik) yang menjadi objek preposisi 'ala'",
+        "irab_dan_logika": "مجرور بالكسرة على الدال لأن حرف الجر 'على' يجر الاسم، والكسرة على الكاف للضمير المتصل"
+      },
+      "hikmah": "menunjukkan peran ibunya dalam nikmat yang diberikan",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "إِذْ",
+      "transliterasi": "idh",
+      "jenis_kata": "Huruf",
+      "arti": "ketika",
+      "sharaf": {
+        "akar_kata": "إ-ذ",
+        "makna_dasar": "menunjukkan waktu lampau",
+        "wazan_perubahan": "حرف زمان"
+      },
+      "nahwu": {
+        "kedudukan": "kata sambung yang mengawali klausa waktu",
+        "irab_dan_logika": "مجرور بالكسرة لأنه حرف جر زمان، ولا إعراب له"
+      },
+      "hikmah": "menandai peristiwa yang terjadi di masa lalu sebagai bukti nikmat",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "أَيَّدتُّكَ",
+      "transliterasi": "ayyadttuka",
+      "jenis_kata": "Fi'il",
+      "arti": "Aku menguatkanmu",
+      "sharaf": {
+        "akar_kata": "ي-و-د",
+        "makna_dasar": "menguatkan, menolong",
+        "wazan_perubahan": "أَفْعَل"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja transitif dalam kalimat utama (قَالَ اللَّهُ ... أَيَّدتُّكَ)",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فعل ماضٍ مبني على الفتح، والضمّة على الواو للثقل"
+      },
+      "hikmah": "Makna: Allah menegaskan bahwa Dia telah memberi dukungan ilahi kepada Isa, meneguhkan keimanannya dan kemampuan mukjizatnya.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "بِرُوحِ",
+      "transliterasi": "bi-ruhi",
+      "jenis_kata": "Isim",
+      "arti": "dengan roh",
+      "sharaf": {
+        "akar_kata": "ر-و-ح",
+        "makna_dasar": "roh, jiwa",
+        "wazan_perubahan": "فَعْل"
+      },
+      "nahwu": {
+        "kedudukan": "keterangan cara (jar) yang menjelaskan cara penguatan",
+        "irab_dan_logika": "مجرور بالكسرة لأنه اسم مجرور بحرف الجر"
+      },
+      "hikmah": "Allah menguatkan Isa dengan roh suci, menandakan bantuan spiritual yang luar biasa.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "ٱلْقُدُسِ",
+      "transliterasi": "al-qudusi",
+      "jenis_kata": "Isim",
+      "arti": "yang Maha Suci",
+      "sharaf": {
+        "akar_kata": "ق-د-س",
+        "makna_dasar": "kekudusan, kesucian",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "objek جر من حرف الجر في",
+        "irab_dan_logika": "مجرور بالكسرة لأنه مجرور بحرف الجر"
+      },
+      "hikmah": "Menunjukkan sifat suci Roh yang diberikan Allah kepada Isa, menegaskan keistimewaan mukjizat tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "تُكَلِّمُ",
+      "transliterasi": "tukallimu",
+      "jenis_kata": "Fi'il",
+      "arti": "kamu berbicara (kepada)",
+      "sharaf": {
+        "akar_kata": "ك-ل-م",
+        "makna_dasar": "berkata, berbicara",
+        "wazan_perubahan": "تَفْعَل"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja transitif, subjek tersirat (Isa)",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فعل مضارع مرفوع"
+      },
+      "hikmah": "Isa diberi kemampuan berbicara kepada manusia sebagai tanda mukjizat ilahi.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "ٱلنَّاسَ",
+      "transliterasi": "an-nasa",
+      "jenis_kata": "Isim",
+      "arti": "manusia",
+      "sharaf": {
+        "akar_kata": "ن-و-س",
+        "makna_dasar": "umat manusia",
+        "wazan_perubahan": "اسم"
+      },
+      "nahwu": {
+        "kedudukan": "objek langsung (مفعول به) dari فعل تُكَلِّمُ",
+        "irab_dan_logika": "منصوب بالفتحة لأنه مفعول به"
+      },
+      "hikmah": "Mukjizat berbicara Isa ditujukan kepada seluruh umat manusia, menegaskan universalitas pesannya.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "فِى",
+      "transliterasi": "fi",
+      "jenis_kata": "Huruf",
+      "arti": "di, dalam",
+      "sharaf": {
+        "akar_kata": "ف-ي",
+        "makna_dasar": "menunjukkan tempat/masa",
+        "wazan_perubahan": "حرف جر"
+      },
+      "nahwu": {
+        "kedudukan": "kata depan yang memperkenalkan keterangan tempat (di dalam buaian)",
+        "irab_dan_logika": "حرف جر لا إعراب له"
+      },
+      "hikmah": "Menunjukkan bahwa Isa dapat berbicara sejak masih berada dalam buaian, menegaskan keajaiban sejak usia dini.",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "ٱلْمَهْدِ",
+      "transliterasi": "al‑mahdi",
+      "jenis_kata": "Isim",
+      "arti": "tempat berbaring (bayi)",
+      "sharaf": {
+        "akar_kata": "م ه د",
+        "makna_dasar": "tempat berbaring",
+        "wazan_perubahan": "maf‘al"
+      },
+      "nahwu": {
+        "kedudukan": "keterangan tempat yang mengikuti kata **buaian**",
+        "irab_dan_logika": "jar (kasrah) karena merupakan **mudhaf majrur**"
+      },
+      "hikmah": "menunjukkan bahwa sejak masa bayi, Isa telah berada dalam lindungan dan rahmat Allah, bahkan **mahdi**‑nya dipenuhi nikmat",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "وَكَهْلًۭا",
+      "transliterasi": "wa kahlan",
+      "jenis_kata": "Isim",
+      "arti": "dan kehamilan",
+      "sharaf": {
+        "akar_kata": "ك ه ل",
+        "makna_dasar": "kehamilan",
+        "wazan_perubahan": "faʿlan"
+      },
+      "nahwu": {
+        "kedudukan": "keterangan tambahan setelah **mahdi**",
+        "irab_dan_logika": "nasb (tanwīn ‑ً) karena bersifat **mansūb** sebagai maṣdar"
+      },
+      "hikmah": "menegaskan bahwa Allah menguatkan Isa sejak masa **kehamilan** ibunya, menambah keajaiban kelahiran",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "ۖ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf / Simbol",
+      "arti": "tanda waqf (istirāḥah)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "pemisah ayat/kalimat",
+        "irab_dan_logika": "bukan bagian tata bahasa, berfungsi sebagai **tanda jeda**"
+      },
+      "hikmah": "menunjukkan jeda bacaan, memberi ruang bagi pendengar merenungkan nikmat yang disebutkan",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "وَإِذْ",
+      "transliterasi": "wa‑idh",
+      "jenis_kata": "Huruf",
+      "arti": "dan ketika",
+      "sharaf": {
+        "akar_kata": "إ ذ",
+        "makna_dasar": "menunjuk waktu",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "kata sambung yang memperkenalkan klausa waktu",
+        "irab_dan_logika": "huruf **ʿārijah**; tidak ber‑iʿrāb, menghubungkan dua peristiwa"
+      },
+      "hikmah": "menandai permulaan rangkaian mukjizat yang terjadi pada masa tertentu dalam kehidupan Isa",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "عَلَّمْتُكَ",
+      "transliterasi": "ʿallamtu‑ka",
+      "jenis_kata": "Fiʿil",
+      "arti": "aku mengajarmu",
+      "sharaf": {
+        "akar_kata": "ع ل م",
+        "makna_dasar": "mengetahui, mengajar",
+        "wazan_perubahan": "faʿala"
+      },
+      "nahwu": {
+        "kedudukan": "fiʿil madhi (kata kerja lampau) dengan dhammah pada alif dan sukun pada lam, diikuti dhammah pada huruf ta marbūṭah; akhiran **‑ka** sebagai **dhamir mutaʿarrif** (kata ganti orang kedua)",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "menegaskan bahwa Allah secara langsung memberikan ilmu kepada Isa, menandakan kedudukan kenabian yang istimewa",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "ٱلْكِتَٰبَ",
+      "transliterasi": "al‑kitāba",
+      "jenis_kata": "Isim",
+      "arti": "kitab",
+      "sharaf": {
+        "akar_kata": "ك ت ب",
+        "makna_dasar": "menulis, kitab",
+        "wazan_perubahan": "mafʿal"
+      },
+      "nahwu": {
+        "kedudukan": "objek fiʿil **ʿallamtu‑ka** (mā ʿallamtu‑ka)",
+        "irab_dan_logika": "nasb (fathah) karena berfungsi sebagai **mafʿul bih**"
+      },
+      "hikmah": "menunjukkan bahwa Allah mengajarkan Isa menulis dan menurunkan kitab suci, menegaskan peranannya sebagai pembawa wahyu",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "وَالْحِكْمَةَ",
+      "transliterasi": "wa al-ḥikmah",
+      "jenis_kata": "Isim",
+      "arti": "hikmah (kebijaksanaan)",
+      "sharaf": {
+        "akar_kata": "ح ك م",
+        "makna_dasar": "mengepala, mengatur, bijak",
+        "wazan_perubahan": "fa‘ilah"
+      },
+      "nahwu": {
+        "kedudukan": "objek (maf‘ul bih) dari فعل *a‘lamtuka*",
+        "irab_dan_logika": "مرفوع بالفتحة لأنّه مفعول به منصوب"
+      },
+      "hikmah": "**Allah** memberi Isa kebijaksanaan agar dapat menyampaikan petunjuk dengan penuh kearifan.",
+      "role": "none"
+    },
+    {
+      "index": 25,
+      "kata_arab": "وَالْتَّوْرَاةَ",
+      "transliterasi": "wa al-Tawrata",
+      "jenis_kata": "Isim",
+      "arti": "Taurat (kitab suci)",
+      "sharaf": {
+        "akar_kata": "و ر ي",
+        "makna_dasar": "menulis, mengirimkan",
+        "wazan_perubahan": "taf‘ala"
+      },
+      "nahwu": {
+        "kedudukan": "objek (maf‘ul bih) dari فعل *a‘lamtuka*",
+        "irab_dan_logika": "مفعول به منصوب بالفتحة لتبيين النصب"
+      },
+      "hikmah": "Allah menurunkan Taurat kepada Isa sebagai bukti ilmu dan petunjuk bagi Bani Israil.",
+      "role": "none"
+    },
+    {
+      "index": 26,
+      "kata_arab": "وَالْإِنْجِيلَ",
+      "transliterasi": "wa al-Injīla",
+      "jenis_kata": "Isim",
+      "arti": "Injil (kitab Injil)",
+      "sharaf": {
+        "akar_kata": "ج ل ي",
+        "makna_dasar": "menggembirakan, membawa kabar baik",
+        "wazan_perubahan": "if‘il"
+      },
+      "nahwu": {
+        "kedudukan": "objek (maf‘ul bih) من فعل *a‘lamtuka*",
+        "irab_dan_logika": "مفعول به منصوب بالفتحة لأن الفعل متعدٍ"
+      },
+      "hikmah": "Dengan Injil, Isa diberikan wahyu yang menyampaikan berita gembira tentang petunjuk Allah.",
+      "role": "none"
+    },
+    {
+      "index": 27,
+      "kata_arab": "ۖ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Haruf",
+      "arti": "tanda jeda/berhenti",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "simbol pemisah ayat",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "pemisah antara frasa‑frasa dalam ayat",
+        "irab_dan_logika": "ليس له إعراب؛ هو علامة وقف"
+      },
+      "hikmah": "Menandai jeda untuk memberi ruang renungan pada tiap bagian ayat.",
+      "role": "none"
+    },
+    {
+      "index": 28,
+      "kata_arab": "وَإِذْ",
+      "transliterasi": "wa-idh",
+      "jenis_kata": "Harf",
+      "arti": "dan ketika",
+      "sharaf": {
+        "akar_kata": "إ ذ",
+        "makna_dasar": "menunjukkan waktu lampau",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "حرف عطف ومُستقبل يربط الجملة الفرعية",
+        "irab_dan_logika": "ليس له إعراب؛ يسبق جملة فعلية ماضية"
+      },
+      "hikmah": "Menghubungkan peristiwa mukjizat berikutnya dengan konteks waktu yang spesifik.",
+      "role": "none"
+    },
+    {
+      "index": 29,
+      "kata_arab": "تَخْلُقُ",
+      "transliterasi": "takhluqu",
+      "jenis_kata": "Fi'il",
+      "arti": "mencipta",
+      "sharaf": {
+        "akar_kata": "خ ل ق",
+        "makna_dasar": "mencipta, membuat",
+        "wazan_perubahan": "fa‘ala"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع بالضمة الظاهرة",
+        "irab_dan_logika": "مرفوع لأنه فعل مضارع مرفوع بالضمة، والفاعل مستتر تقديره أنت"
+      },
+      "hikmah": "Allah mengajarkan Isa kemampuan mencipta, menegaskan kuasa Ilahi yang dapat menurunkan ciptaan dari tanah menjadi makhluk hidup.",
+      "role": "none"
+    },
+    {
+      "index": 30,
+      "kata_arab": "مِنَ",
+      "transliterasi": "mina",
+      "jenis_kata": "Huruf (preposisi)",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "—",
+        "makna_dasar": "menunjukkan asal atau sumber",
+        "wazan_perubahan": "—"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar yang menghubungkan kata berikutnya (ٱلطِّينِ)",
+        "irab_dan_logika": "Berharakat **kasrah** (مِنَ) karena berfungsi sebagai preposisi yang menuntut majrur pada kata sesudahnya"
+      },
+      "hikmah": "Menandakan bahwa apa yang disebutkan selanjutnya bersumber dari Allah, menegaskan sifat pemberian‑Nya",
+      "role": "none"
+    },
+    {
+      "index": 31,
+      "kata_arab": "ٱلطِّينِ",
+      "transliterasi": "aṭ-ṭīn",
+      "jenis_kata": "Isim (isim mufrad)",
+      "arti": "buah ara",
+      "sharaf": {
+        "akar_kata": "ط‑ن‑ن",
+        "makna_dasar": "buah yang manis, lembut",
+        "wazan_perubahan": "isim sederhana"
+      },
+      "nahwu": {
+        "kedudukan": "Isim majrur setelah huruf jar **مِنَ**",
+        "irab_dan_logika": "Berharakat **kasrah** (ٱلطِّينِ) karena berada dalam i‘rāb majrur yang dituntut oleh preposisi"
+      },
+      "hikmah": "Menyiratkan salah satu mukjizat Allah berupa penciptaan buah ara yang dapat dijadikan contoh keajaiban",
+      "role": "none"
+    },
+    {
+      "index": 32,
+      "kata_arab": "كَهَيْـَٔةِ",
+      "transliterasi": "ka‑hayʼah",
+      "jenis_kata": "Isim (isim majrur) dengan huruf جر *ka*",
+      "arti": "seperti bentuk",
+      "sharaf": {
+        "akar_kata": "ه‑ي‑ء",
+        "makna_dasar": "bentuk, rupa, citra",
+        "wazan_perubahan": "huruf *ka* + isim (kaf‑isim) yang menandakan perbandingan"
+      },
+      "nahwu": {
+        "kedudukan": "Isim majrur yang tergantung pada preposisi **مِنَ**",
+        "irab_dan_logika": "Berharakat **kasrah** (كَهَيْـَٔةِ) karena majrur; huruf *ka* berfungsi sebagai huruf جر yang menuntut i‘rāb"
+      },
+      "hikmah": "Menggambarkan bahwa ciptaan Allah dapat menyerupai bentuk burung, menegaskan kebijaksanaan dan kuasa-Nya dalam mencipta",
+      "role": "none"
+    },
+    {
+      "index": 33,
+      "kata_arab": "ٱلطَّيْرِ",
+      "transliterasi": "aṭ-ṭayr",
+      "jenis_kata": "Isim (isim mufrad)",
+      "arti": "burung",
+      "sharaf": {
+        "akar_kata": "ط‑ي‑ر",
+        "makna_dasar": "makhluk yang dapat terbang",
+        "wazan_perubahan": "isim sederhana"
+      },
+      "nahwu": {
+        "kedudukan": "Isim majrur setelah huruf جر *ka* (كَهَيْـَٔةِ)",
+        "irab_dan_logika": "Berharakat **kasrah** (ٱلطَّيْرِ) karena berada dalam i‘rāb majrur yang dituntut oleh huruf جر"
+      },
+      "hikmah": "Menunjukkan contoh konkret dari bentuk yang disebutkan, yaitu burung, sebagai bukti keajaiban penciptaan",
+      "role": "none"
+    },
+    {
+      "index": 34,
+      "kata_arab": "بِإِذْنِى",
+      "transliterasi": "bi‑idhni",
+      "jenis_kata": "Huruf (preposisi) + Isim",
+      "arti": "dengan izin-Ku",
+      "sharaf": {
+        "akar_kata": "أ‑ذ‑ن",
+        "makna_dasar": "izin, perintah",
+        "wazan_perubahan": "isim (إِذْن) dengan tambahan huruf جر *bi*"
+      },
+      "nahwu": {
+        "kedudukan": "Preposisi **بِ** menghubungkan kata **إِذْنِ** yang berada dalam i‘rāb majrur",
+        "irab_dan_logika": "إِذْنِ berkasrah karena menjadi majrur setelah preposisi *bi*; keseluruhan berfungsi sebagai keterangan cara"
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 36,
+      "kata_arab": "فِيهَا",
+      "transliterasi": "fīhā",
+      "jenis_kata": "Huruf (preposisi dengan suffiks pronoun)",
+      "arti": "di dalamnya",
+      "sharaf": {
+        "akar_kata": "ف-ي",
+        "makna_dasar": "di dalam (preposisi)",
+        "wazan_perubahan": "tidak ada perubahan, tetap preposisi"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar yang menghubungkan fi'il *تَنفُخُ* dengan objek *طَيْرًا*",
+        "irab_dan_logika": "Berharakat kasrah karena preposisi, tidak berubah"
+      },
+      "hikmah": "Menunjukkan medium atau tempat di mana roh ditiupkan, menegaskan bahwa ciptaan terjadi \"di dalam\" sesuatu.",
+      "role": "none"
+    },
+    {
+      "index": 37,
+      "kata_arab": "فَتَكُونُ",
+      "transliterasi": "fa‑takūnu",
+      "jenis_kata": "Fi'il (verb)",
+      "arti": "maka menjadi",
+      "sharaf": {
+        "akar_kata": "ك-و-ن",
+        "makna_dasar": "menjadi, ada",
+        "wazan_perubahan": "bentuk فعل مضارع"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il mudhari‘ (present) yang مرفوع",
+        "irab_dan_logika": "مرفوع بالضمة لأن الفعل مضارع غير مسبوق بأداة نصب، والـفَ عاطفة توضح السبب"
+      },
+      "hikmah": "Menunjukkan hasil atau konsekuensi dari tindakan meniup, yaitu terbentuknya sesuatu.",
+      "role": "none"
+    },
+    {
+      "index": 38,
+      "kata_arab": "طَيْرًۢا",
+      "transliterasi": "ṭayran",
+      "jenis_kata": "Isim (isim maf‘ūl)",
+      "arti": "burung (objek)",
+      "sharaf": {
+        "akar_kata": "ط-ي-ر",
+        "makna_dasar": "terbang, makhluk bersayap",
+        "wazan_perubahan": "isim maf‘ūl dengan tanwin"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به للفعل *تَكُونُ*",
+        "irab_dan_logika": "منصوب بالفتحة لأنه مفعول به منصوب"
+      },
+      "hikmah": "Menegaskan bahwa ciptaan yang dimaksud adalah burung, simbol keajaiban dan kebebasan.",
+      "role": "none"
+    },
+    {
+      "index": 39,
+      "kata_arab": "بِإِذْنِى",
+      "transliterasi": "bi‑idhni",
+      "jenis_kata": "Huruf (preposisi) + Isim",
+      "arti": "dengan izinku",
+      "sharaf": {
+        "akar_kata": "أ-ذ-ن",
+        "makna_dasar": "izin, perintah",
+        "wazan_perubahan": "isim *إِذْن*"
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر + اسم مجرور",
+        "irab_dan_logika": "حرف الجر *bi* يجر الاسم إلى الجرّ، والاسم *إِذْنِ* مجرور بالكسرة، والياء المتصلة للمتكلم"
+      },
+      "hikmah": "Menekankan bahwa segala mukjizat terjadi semata‑mata atas izin Allah, menegaskan kedaulatan-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 40,
+      "kata_arab": "ۖ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Tanda baca (waqf)",
+      "arti": "(tanda jeda)",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "علامة وقف تُظهر وقفة خفيفة بين الجمل",
+        "irab_dan_logika": "ليس لها إعراب؛ هي علامة توضيحية فقط"
+      },
+      "hikmah": "Memberi jeda ringan untuk memudahkan pemahaman bacaan dan menandai akhir segmen ayat.",
+      "role": "none"
+    },
+    {
+      "index": 41,
+      "kata_arab": "وَتُبْرِئُ",
+      "transliterasi": "wa‑tubriʾu",
+      "jenis_kata": "Fi'il (verb)",
+      "arti": "dan menyembuhkan",
+      "sharaf": {
+        "akar_kata": "ب-ر-ء",
+        "makna_dasar": "menyembuhkan, mengobati",
+        "wazan_perubahan": "bentuk فعل مضارع"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il mudhari‘ مرفوع مع الفاء العاطفة",
+        "irab_dan_logika": "مرفوع بالضمة لأن الفعل مضارع غير مسبوق بأداة نصب، والـواو عاطفة توضح التوازي مع الفعل السابق"
+      },
+      "hikmah": "Menyiratkan kemampuan Nabi Isa dalam menyembuhkan, kembali menegaskan bahwa semua mukjizat berada dalam izin Allah.",
+      "role": "none"
+    },
+    {
+      "index": 42,
+      "kata_arab": "ٱلْأَكْمَهَ",
+      "transliterasi": "al‑akmaha",
+      "jenis_kata": "Isim",
+      "arti": "orang yang buta",
+      "sharaf": {
+        "akar_kata": "ك‑م‑ه",
+        "makna_dasar": "buta",
+        "wazan_perubahan": "أَكْمَى (isim maf‘ul)"
+      },
+      "nahwu": {
+        "kedudukan": "objek (maf‘ul) dari fi‘il *tukh’riju*",
+        "irab_dan_logika": "مُنصوب بالفتحة لأنّه مفعول به"
+      },
+      "hikmah": "**Hikmah:** Allah menegaskan bahwa Nabi Isa dapat menyembuhkan orang yang paling lemah, bahkan yang “buta” sejak dalam rahim, menegaskan kuasa Ilahi atas segala keterbatasan manusia.",
+      "role": "none"
+    },
+    {
+      "index": 43,
+      "kata_arab": "وَٱلْأَبْرَصَ",
+      "transliterasi": "wa al‑abraṣa",
+      "jenis_kata": "Isim",
+      "arti": "dan orang yang kusta",
+      "sharaf": {
+        "akar_kata": "ب‑ر‑ص",
+        "makna_dasar": "kusta, penyakit kulit",
+        "wazan_perubahan": "أَبْرَص (isim maf‘ul)"
+      },
+      "nahwu": {
+        "kedudukan": "objek (maf‘ul) kedua, terhubung dengan *tukh’riju* melalui *wa*",
+        "irab_dan_logika": "مُنصوب بالفتحة لأنّه مفعول به"
+      },
+      "hikmah": "**Hikmah:** Penyembuhan kusta menunjukkan bahwa tidak ada penyakit yang berada di luar jangkauan rahmat Allah; bahkan penyakit yang dianggap “tidak dapat disembuhkan” dapat diatasi dengan izin-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 44,
+      "kata_arab": "بِإِذْنِى",
+      "transliterasi": "bi‑idhni",
+      "jenis_kata": "Huruf",
+      "arti": "dengan izin-Ku",
+      "sharaf": {
+        "akar_kata": "إ‑ذ‑ن",
+        "makna_dasar": "izin, persetujuan",
+        "wazan_perubahan": "اسم مصدر"
+      },
+      "nahwu": {
+        "kedudukan": "keterangan jar (jarr) yang menerangkan cara terjadinya penyembuhan",
+        "irab_dan_logika": "مجرور بالكسرة لأنّها مضافة إلى حرف الجر *bi*"
+      },
+      "hikmah": "**Hikmah:** Semua mukjizat terjadi “dengan izin Allah”, menegaskan bahwa kekuasaan mutlak tetap pada Sang Pencipta, bukan pada manusia atau nabi.",
+      "role": "none"
+    },
+    {
+      "index": 45,
+      "kata_arab": "ۖ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda jeda",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "penanda akhir frasa, memisahkan antara dua bagian ayat",
+        "irab_dan_logika": "tidak berirab, berfungsi sebagai *waqf* untuk memberi jeda bacaan"
+      },
+      "hikmah": "**Hikmah:** Jeda ini memberi kesempatan bagi pendengar untuk merenungkan tiap mukjizat secara terpisah, menambah kekhusyukan dalam pemahaman.",
+      "role": "none"
+    },
+    {
+      "index": 46,
+      "kata_arab": "وَإِذْ",
+      "transliterasi": "wa‑idh",
+      "jenis_kata": "Huruf",
+      "arti": "dan ketika",
+      "sharaf": {
+        "akar_kata": "إ‑ذ",
+        "makna_dasar": "waktu, ketika",
+        "wazan_perubahan": "حرف شرط غير جازم"
+      },
+      "nahwu": {
+        "kedudukan": "kata sambung (حرف عطف) + حرف شرط, memperkenalkan klausa temporal",
+        "irab_dan_logika": "ليس له إعراب، يعمل كحرف ربط يربط بين dua peristiwa"
+      },
+      "hikmah": "**Hikmah:** Menunjukkan kesinambungan kronologis mukjizat, mengaitkan tindakan Allah dengan waktu tertentu, sehingga pembaca menyadari bahwa setiap keajaiban terjadi pada saat yang tepat atas izin-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 47,
+      "kata_arab": "تُخْرِجُ",
+      "transliterasi": "tukh’riju",
+      "jenis_kata": "Fi’il",
+      "arti": "engkau mengeluarkan",
+      "sharaf": {
+        "akar_kata": "خ‑ر‑ج",
+        "makna_dasar": "keluar",
+        "wazan_perubahan": "فعل مضارع مرفوع بالضمة"
+      },
+      "nahwu": {
+        "kedudukan": "verb (fi’il mudhari‘) 3rd maskulin tunggal, subjek tersirat Nabi Isa",
+        "irab_dan_logika": "مرفوع بالضمة لأنّه فعل مضارع مبني على الضم"
+      },
+      "hikmah": "**Hikmah:** Kata kerja ini menegaskan peran aktif Isa sebagai agen yang “mengeluarkan” (menyembuhkan) atas perintah Allah, menegaskan bahwa segala tindakan mukjizat tetap berada di bawah otoritas Ilahi.",
+      "role": "none"
+    },
+    {
+      "index": 48,
+      "kata_arab": "ٱلْمَوْتَىٰ",
+      "transliterasi": "al‑mawta",
+      "jenis_kata": "Isim",
+      "arti": "yang mati",
+      "sharaf": {
+        "akar_kata": "م‑و‑ت",
+        "makna_dasar": "mati",
+        "wazan_perubahan": "maf‘ūl (مَفْعُول)"
+      },
+      "nahwu": {
+        "kedudukan": "objek (maf‘ūl) dari fi‘l **أَخْرَجْتُ**",
+        "irab_dan_logika": "مُنصوب بالفتحة لأن الفعل متعدٍ"
+      },
+      "hikmah": "Menunjukkan kekuasaan Allah yang dapat menghidupkan kembali orang mati, menegaskan kebesaran dan janji kebangkitan.",
+      "role": "none"
+    },
+    {
+      "index": 49,
+      "kata_arab": "بِإِذْنِى",
+      "transliterasi": "bi‑idhni",
+      "jenis_kata": "Huruf (jar)",
+      "arti": "dengan izinku",
+      "sharaf": {
+        "akar_kata": "أ‑ذ‑ن",
+        "makna_dasar": "izin",
+        "wazan_perubahan": "isim maul (إِذْن)"
+      },
+      "nahwu": {
+        "kedudukan": "جار ومجرور تابع للفعل **أَخْرَجْتُ**",
+        "irab_dan_logika": "مجرور بالكسرة لأن حرف الجر **بِ** يجر ما بعده"
+      },
+      "hikmah": "Menegaskan bahwa segala tindakan Allah terjadi dengan izin-Nya, menekankan sifat kehendak‑Nya yang mutlak.",
+      "role": "none"
+    },
+    {
+      "index": 50,
+      "kata_arab": "ۖ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf (tanda waqf)",
+      "arti": "tanda jeda (waqf)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca yang memisahkan antara dua bagian ayat",
+        "irab_dan_logika": "tidak berirab, berfungsi sebagai **waqf** untuk memberi jeda bacaan"
+      },
+      "hikmah": "Memberi kesempatan bagi pendengar merenungkan makna ayat sebelum melanjutkan ke bagian berikutnya.",
+      "role": "none"
+    },
+    {
+      "index": 51,
+      "kata_arab": "وَإِذْ",
+      "transliterasi": "wa‑idh",
+      "jenis_kata": "Huruf (wa + idh)",
+      "arti": "dan ketika",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "huruf sambung (wa) + huruf maushul (idh) yang memperkenalkan klausa waktu",
+        "irab_dan_logika": "مبني على السكون لأنهما حرفان لا يُعربان"
+      },
+      "hikmah": "Menghubungkan peristiwa sebelumnya dengan peristiwa selanjutnya, menandai urutan kronologis dalam narasi.",
+      "role": "none"
+    },
+    {
+      "index": 52,
+      "kata_arab": "كَفَفْتُ",
+      "transliterasi": "kafaf‑tu",
+      "jenis_kata": "Fi‘il (verb)",
+      "arti": "aku menahan/menutup",
+      "sharaf": {
+        "akar_kata": "ك‑ف‑ف",
+        "makna_dasar": "menahan, menutup",
+        "wazan_perubahan": "فَعَلَ (fi‘l madhi)"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ماضٍ مبني على الفتح",
+        "irab_dan_logika": "مرفوع بالفتحة لأنه فعل ماضٍ لا محل له من الإعراب"
+      },
+      "hikmah": "Menunjukkan tindakan Allah yang melindungi Bani Israil dari keinginan mereka membunuh Nabi Isa, menegaskan perlindungan Ilahi.",
+      "role": "none"
+    },
+    {
+      "index": 53,
+      "kata_arab": "بَنِىٓ",
+      "transliterasi": "bani",
+      "jenis_kata": "Isim",
+      "arti": "anak‑anak (keturunan)",
+      "sharaf": {
+        "akar_kata": "ب‑ن‑ي",
+        "makna_dasar": "membangun, keturunan",
+        "wazan_perubahan": "مَفْعُول (bani) sebagai bentuk jamak dari ابن"
+      },
+      "nahwu": {
+        "kedudukan": "مضاف إليه مجرور بعد الفعل **كَفَفْتُ**",
+        "irab_dan_logika": "مجرور بالكسرة لأن كلمة **بَنِى** مضاف إليه"
+      },
+      "hikmah": "Menyiratkan bahwa Allah melindungi seluruh keturunan Bani Israil, bukan hanya individu, menegaskan kasih sayang-Nya kepada umat‑Nya.",
+      "role": "none"
+    },
+    {
+      "index": 54,
+      "kata_arab": "إِسْرَٰٓءِيلَ",
+      "transliterasi": "Isrāʾīla",
+      "jenis_kata": "Isim (nama proper)",
+      "arti": "Israel, Bani Israil (anak-anak Israel)",
+      "sharaf": {
+        "akar_kata": "- (nama asing, tidak memiliki akar Arab)",
+        "makna_dasar": "- (nama tempat/kaum)",
+        "wazan_perubahan": "Ism al-ʿilm (اسم علم) dengan tanwīn fatha pada akhir الكلمة"
+      },
+      "nahwu": {
+        "kedudukan": "Objek preposisi **عَنكَ** dalam kalimat",
+        "irab_dan_logika": "مُنصوب بالفتحة لأنه مفعول به لحرف الجر (عَنْ) المتصل بالضمير"
+      },
+      "hikmah": "**Israel** di sini menandakan umat yang pada masa itu menentang Nabi Isa; Allah melindungi mereka dari bahaya yang ditujukan kepada Isa.",
+      "role": "none"
+    },
+    {
+      "index": 55,
+      "kata_arab": "عَنكَ",
+      "transliterasi": "ʿanka",
+      "jenis_kata": "Huruf (preposisi) + ضمير متصل",
+      "arti": "tentangmu / terhadapmu",
+      "sharaf": {
+        "akar_kata": "ع‑ن‑ك",
+        "makna_dasar": "menunjuk hubungan sebab‑akibat atau kepemilikan",
+        "wazan_perubahan": "حرف جر + ضمير متصل"
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر يربط بين الفعل **جِئْتَهُم** dan الاسم **إِسْرَٰٓءِيلَ**",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "Menegaskan bahwa Allah melarang Bani Israil **menyerang** Nabi Isa; perlindungan itu bersifat khusus **kepada** beliau.",
+      "role": "none"
+    },
+    {
+      "index": 56,
+      "kata_arab": "إِذْ",
+      "transliterasi": "idh",
+      "jenis_kata": "Huruf (kata sambung temporal)",
+      "arti": "ketika",
+      "sharaf": {
+        "akar_kata": "- (kata sambung)",
+        "makna_dasar": "menunjuk waktu lampau",
+        "wazan_perubahan": "حرف مشبه بجملة فعلية"
+      },
+      "nahwu": {
+        "kedudukan": "حرف شرط/زمان يسبق جملة الفعل **جِئْتَهُم**",
+        "irab_dan_logika": "حرف لا يُعرب، يربط الجملة الفرعية بالسابقة"
+      },
+      "hikmah": "Memberi kerangka waktu: **pada saat** Isa menurunkan tanda‑tanda, peristiwa berikutnya terjadi.",
+      "role": "none"
+    },
+    {
+      "index": 57,
+      "kata_arab": "جِئْتَهُم",
+      "transliterasi": "jiʾtahum",
+      "jenis_kata": "Fiʿl (verb)",
+      "arti": "kamu (Isa) membawa/menghadirkan mereka",
+      "sharaf": {
+        "akar_kata": "ج‑ا‑ء",
+        "makna_dasar": "datang, hadir",
+        "wazan_perubahan": "فَعَلَ (ماضٍ) + ضمير متصل"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ماضٍ مبني على السكون، يسبق الفاعل المستتر (أنت) ويُتبع بالضمير المتصل **هُم** كمفعول به",
+        "irab_dan_logika": "الفعل مرفوع بالضمة، والضمير المتصل في محل نصب مفعول به"
+      },
+      "hikmah": "Isa **menyampaikan** tanda‑tanda Allah kepada Bani Israil, menegaskan peran kenabiannya.",
+      "role": "none"
+    },
+    {
+      "index": 58,
+      "kata_arab": "بِٱلْبَيِّنَٰتِ",
+      "transliterasi": "bil-bayyināti",
+      "jenis_kata": "Isim (noun) dengan huruf jar",
+      "arti": "dengan bukti‑bukti yang jelas",
+      "sharaf": {
+        "akar_kata": "ب‑ي‑ن",
+        "makna_dasar": "jelas, terpisah, bukti",
+        "wazan_perubahan": "اسم مجرور بحرف الجر (بِ)"
+      },
+      "nahwu": {
+        "kedudukan": "مجرور بحرف الجر **بِ** تابع للفعل **جِئْتَهُم**",
+        "irab_dan_logika": "مجرور بالكسرة لأن حرف الجر يجر الاسم"
+      },
+      "hikmah": "Tanda‑tanda yang diberikan bersifat **nyata dan tidak dapat disangkal**, menegaskan keaslian mukjizat.",
+      "role": "none"
+    },
+    {
+      "index": 59,
+      "kata_arab": "فَقَالَ",
+      "transliterasi": "fa-qāla",
+      "jenis_kata": "Fiʿl (verb) dengan huruf عطف",
+      "arti": "lalu berkata",
+      "sharaf": {
+        "akar_kata": "ق‑و‑ل",
+        "makna_dasar": "mengucapkan, berkata",
+        "wazan_perubahan": "فَعَلَ (ماضٍ) مع الفاء العاطفة"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ماضٍ مبني على الفتح، يسبق جملة الكلام التي diucapkan oleh orang kafir",
+        "irab_dan_logika": "الفعل مرفوع بالضمة، والـ **فَ** عاطفة تربط ما قبلها بما يلي"
+      },
+      "hikmah": "Menandai **reaksi** orang‑orang kafir yang menolak tanda‑tanda, menyebutnya sebagai sihir, sehingga menegaskan konflik antara iman dan penolakan.",
+      "role": "none"
+    },
+    {
+      "index": 60,
+      "kata_arab": "ٱلَّذِينَ",
+      "transliterasi": "al‑ladhīna",
+      "jenis_kata": "Isim",
+      "arti": "yang (orang)",
+      "sharaf": {
+        "akar_kata": "ل‑ذ‑ي",
+        "makna_dasar": "yang, orang yang",
+        "wazan_perubahan": "اسم موصول"
+      },
+      "nahwu": {
+        "kedudukan": "اسم موصول في محل نصب مفعول به للفعل كفروا",
+        "irab_dan_logika": "منصوب بالفتحة لأنه مفعول به"
+      },
+      "hikmah": "menunjukkan kelompok orang yang menolak iman",
+      "role": "none"
+    },
+    {
+      "index": 61,
+      "kata_arab": "كَفَرُوا۟",
+      "transliterasi": "kafarū",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka kafir",
+      "sharaf": {
+        "akar_kata": "ك‑ف‑ر",
+        "makna_dasar": "menolak keimanan",
+        "wazan_perubahan": "فَعَلَ (ماضي)"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ماضٍ مبني على الفتح",
+        "irab_dan_logika": "لا محل له من الإعراب"
+      },
+      "hikmah": "menyatakan tindakan penolakan keimanan",
+      "role": "none"
+    },
+    {
+      "index": 63,
+      "kata_arab": "إِنْ",
+      "transliterasi": "in",
+      "jenis_kata": "Huruf",
+      "arti": "jika",
+      "sharaf": {
+        "akar_kata": "إ‑ن",
+        "makna_dasar": "menyatakan syarat",
+        "wazan_perubahan": "حرف شرط"
+      },
+      "nahwu": {
+        "kedudukan": "حرف شرط جازم يسبق جملة فعلية",
+        "irab_dan_logika": "لا محل له من الإعراب"
+      },
+      "hikmah": "menandakan adanya kondisi atau syarat",
+      "role": "none"
+    },
+    {
+      "index": 64,
+      "kata_arab": "هَٰذَآ",
+      "transliterasi": "hādhā",
+      "jenis_kata": "Isim",
+      "arti": "ini",
+      "sharaf": {
+        "akar_kata": "ه‑ذ‑ي",
+        "makna_dasar": "yang ini",
+        "wazan_perubahan": "اسم إشارة"
+      },
+      "nahwu": {
+        "kedudukan": "اسم شرط في محل نصب بعد حرف الشرط \"إن\"",
+        "irab_dan_logika": "منصوب بالفتحة لأنه اسم شرط"
+      },
+      "hikmah": "menunjuk pada sesuatu yang sedang dibicarakan",
+      "role": "none"
+    },
+    {
+      "index": 65,
+      "kata_arab": "إِلَّا",
+      "transliterasi": "illā",
+      "jenis_kata": "Huruf",
+      "arti": "kecuali",
+      "sharaf": {
+        "akar_kata": "ل‑و",
+        "makna_dasar": "mengecualikan",
+        "wazan_perubahan": "حرف استثناء"
+      },
+      "nahwu": {
+        "kedudukan": "حرف استثناء مبني على السكون يسبق اسمًا مستثنى",
+        "irab_dan_logika": "لا محل له من الإعراب"
+      },
+      "hikmah": "menegaskan pengecualian terhadap apa yang disebut sebelumnya",
+      "role": "none"
+    },
+    {
+      "index": 66,
+      "kata_arab": "سِحْرٌۭ",
+      "transliterasi": "sihrun",
+      "jenis_kata": "Isim",
+      "arti": "sihir, ilmu menipu",
+      "sharaf": {
+        "akar_kata": "س-ح-ر",
+        "makna_dasar": "menipu, menaklukkan dengan ilahiyah palsu",
+        "wazan_perubahan": "فَعْل (isim fa‘l)"
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada' (subjek) dalam kalimat nominal",
+        "irab_dan_logika": "Dammah + tanwin dammah karena berada di posisi nominatif sebagai mubtada'"
+      },
+      "hikmah": "*Sihir* di sini menegaskan bahwa tuduhan musyrik terhadap mukjizat Isa hanyalah **penipuan** dan **bukan** kekuasaan Allah.",
+      "role": "none"
+    },
+    {
+      "index": 67,
+      "kata_arab": "مُّبِينٌۭ",
+      "transliterasi": "mubinun",
+      "jenis_kata": "Isim",
+      "arti": "jelas, nyata",
+      "sharaf": {
+        "akar_kata": "ب-ي-ن",
+        "makna_dasar": "menjadi jelas, tampak",
+        "wazan_perubahan": "مُفَعِل (isim muf‘il)"
+      },
+      "nahwu": {
+        "kedudukan": "Khabar (predikat) dalam kalimat nominal",
+        "irab_dan_logika": "Dammah + tanwin dammah karena berfungsi sebagai khabar"
+      },
+      "hikmah": "Kata **mubin** menegaskan bahwa tuduhan *sihr* itu **terbukti jelas** sebagai dusta, menolak klaim bahwa mukjizat itu sihir.",
+      "role": "none"
+    }
+  ]
+}

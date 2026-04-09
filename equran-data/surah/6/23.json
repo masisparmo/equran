@@ -1,0 +1,222 @@
+{
+  "surah": 6,
+  "ayah": 23,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "ثُمَّ",
+      "transliterasi": "thumma",
+      "jenis_kata": "Huruf",
+      "arti": "*kemudian*",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Kata sambung (adverbia) yang menghubungkan kalimat sebelumnya dengan berikutnya",
+        "irab_dan_logika": "Tidak berharakat karena huruf, tetap **marfuʿ** (tidak berubah)"
+      },
+      "hikmah": "Menunjukkan urutan waktu, menegaskan bahwa apa yang disebutkan terjadi setelah peristiwa sebelumnya.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "لَمْ",
+      "transliterasi": "lam",
+      "jenis_kata": "Huruf",
+      "arti": "*tidak*",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf nakirah (penyangkalan) yang mengubah fiʿil menjadi majzūʿ bi al‑lām",
+        "irab_dan_logika": "Tidak berharakat; berfungsi meniadakan makna kata kerja berikutnya"
+      },
+      "hikmah": "Menegaskan ketiadaan atau penolakan terhadap apa yang akan disebutkan.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "تَكُن",
+      "transliterasi": "takun",
+      "jenis_kata": "Fiʿil",
+      "arti": "*tidak ada*",
+      "sharaf": {
+        "akar_kata": "ك-و-ن",
+        "makna_dasar": "ada, eksistensi",
+        "wazan_perubahan": "bentuk majzūʿ setelah huruf *lam*"
+      },
+      "nahwu": {
+        "kedudukan": "Predikat (fiʿil) dalam kalimat nominal \"lam takun\"",
+        "irab_dan_logika": "Majzūʿ karena didahului huruf *lam*; menandakan penolakan masa lampau"
+      },
+      "hikmah": "Menyatakan bahwa tidak pernah ada (fitnah) tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "فِتْنَتُهُمْ",
+      "transliterasi": "fitnatuhum",
+      "jenis_kata": "Isim",
+      "arti": "*fitnah mereka*",
+      "sharaf": {
+        "akar_kata": "ف-ن-ن",
+        "makna_dasar": "cobaan, godaan, fitnah",
+        "wazan_perubahan": "bentuk *fiʿlat* dengan tambahan akhiran milik *-hum*"
+      },
+      "nahwu": {
+        "kedudukan": "Mudhafa (milik) + mudhafa ilayh; menjadi khabar (predikat) bagi fiʿil *takun*",
+        "irab_dan_logika": "Mansūb (kasrah) karena berfungsi sebagai khabar dalam kalimat \"takun fitnatuhum\""
+      },
+      "hikmah": "Menegaskan bahwa tidak ada fitnah yang menimpa mereka, kecuali yang akan disebutkan selanjutnya.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "إِلَّآ",
+      "transliterasi": "illa",
+      "jenis_kata": "Huruf",
+      "arti": "*kecuali*",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf istithnāʾ (pengecualian) yang memperkenalkan unsur pengecualian",
+        "irab_dan_logika": "Tidak berharakat; berfungsi menghubungkan kata sebelumnya dengan kalimat bersyarat"
+      },
+      "hikmah": "Menandakan adanya pengecualian atas pernyataan sebelumnya.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "أَن",
+      "transliterasi": "an",
+      "jenis_kata": "Huruf",
+      "arti": "*bahwa*",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf nasb (penghubung) yang memperkenalkan anak kalimat",
+        "irab_dan_logika": "Tidak berharakat; memerintahkan kata kerja atau isim setelahnya masuk dalam bentuk mansūb"
+      },
+      "hikmah": "Membuka klausa penjelas yang menjelaskan isi pengecualian, yaitu pernyataan yang akan diucapkan selanjutnya.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "قَالُوا۟",
+      "transliterasi": "qālū",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka berkata",
+      "sharaf": {
+        "akar_kata": "ق-و-ل",
+        "makna_dasar": "berkata",
+        "wazan_perubahan": "فَعَلَ (faʿala)"
+      },
+      "nahwu": {
+        "kedudukan": "Predikat (fi'il madhi) dalam kalimat",
+        "irab_dan_logika": "مرفوع بالضمة الظاهرة على آخره: قَالُوا"
+      },
+      "hikmah": "Kata ini menandakan bahwa mereka mengeluarkan pernyataan secara tegas, menegaskan kejujuran mereka dalam mengucapkan kalimat selanjutnya.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "وَٱللَّهِ",
+      "transliterasi": "wa-Allāhi",
+      "jenis_kata": "Huruf",
+      "arti": "Demi Allah",
+      "sharaf": {
+        "akar_kata": "اللّه (nama khusus)",
+        "makna_dasar": "nama Allah",
+        "wazan_perubahan": "اسم علم"
+      },
+      "nahwu": {
+        "kedudukan": "Harf jar yang berfungsi sebagai alat penegasan (wasl) pada kalimat",
+        "irab_dan_logika": "مجرور بالكسرة: اللّهِ"
+      },
+      "hikmah": "Dengan menambahkan *wa-Allah* mereka bersumpah, menegaskan bahwa pernyataan mereka tidak mengandung dusta.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "رَبِّنَا",
+      "transliterasi": "rabbina",
+      "jenis_kata": "Isim",
+      "arti": "Tuhan kami",
+      "sharaf": {
+        "akar_kata": "ر-ب-ب",
+        "makna_dasar": "memberi pemeliharaan, melindungi",
+        "wazan_perubahan": "فَعَّل (rabb)"
+      },
+      "nahwu": {
+        "kedudukan": "Mudhaf (kata kepemilikan) yang diikuti mudhaf ilayh",
+        "irab_dan_logika": "مرفوع بالضمة لأنه مضاف إليه: رَبِّنَا"
+      },
+      "hikmah": "Menyebut Allah secara khusus sebagai Tuhan yang memelihara, menegaskan hubungan intim antara hamba dan Pencipta.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "مَا",
+      "transliterasi": "mā",
+      "jenis_kata": "Huruf",
+      "arti": "tidak",
+      "sharaf": {
+        "akar_kata": "ما",
+        "makna_dasar": "negasi",
+        "wazan_perubahan": "حرف نفي"
+      },
+      "nahwu": {
+        "kedudukan": "Harf negasi yang menolak kata kerja berikutnya",
+        "irab_dan_logika": "مبني على السكون"
+      },
+      "hikmah": "Menegaskan penolakan mutlak atas perbuatan yang disebutkan, yaitu tidak pernah menyekutukan Allah.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "كُنَّا",
+      "transliterasi": "kunnā",
+      "jenis_kata": "Fi'il",
+      "arti": "kami tidak pernah menjadi",
+      "sharaf": {
+        "akar_kata": "ك-و-ن",
+        "makna_dasar": "menjadi",
+        "wazan_perubahan": "فَعَلَ (faʿala)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il madhi nakis (kala) yang berfungsi sebagai predikat negatif",
+        "irab_dan_logika": "مبني على السكون، والضمير المتصل نَ للمتكلم الجمع"
+      },
+      "hikmah": "Menyatakan bahwa pada masa lalu mereka tidak pernah berada dalam keadaan menyekutukan Allah, menegaskan kejujuran mereka.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "مُشْرِكِينَ",
+      "transliterasi": "mushrikīna",
+      "jenis_kata": "Isim",
+      "arti": "orang-orang yang menyekutukan",
+      "sharaf": {
+        "akar_kata": "ش-ر-ك",
+        "makna_dasar": "menyekutukan, bersekutu",
+        "wazan_perubahan": "مُفَعِّل (mushrik)"
+      },
+      "nahwu": {
+        "kedudukan": "Nama berakhiran tanwin, berfungsi sebagai objek (مفعول به) dari fi'il \"kunnā\"",
+        "irab_dan_logika": "منصوب بالفتحة: مُشْرِكِينَ"
+      },
+      "hikmah": "Dengan tegas menolak status sebagai orang yang menyekutukan Allah, menegaskan kembali kemurnian keimanan mereka.",
+      "role": "none"
+    }
+  ]
+}

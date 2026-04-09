@@ -1,0 +1,186 @@
+{
+  "surah": 5,
+  "ayah": 50,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "أَفَحُكْمَ",
+      "transliterasi": "afahukma",
+      "jenis_kata": "Huruf (partikel pertanyaan) + Isim",
+      "arti": "apakah (adalah) hukum",
+      "sharaf": {
+        "akar_kata": "ح ك م",
+        "makna_dasar": "menetapkan, memerintah",
+        "wazan_perubahan": "فُعْل (kata benda)"
+      },
+      "nahwu": {
+        "kedudukan": "objek pertanyaan dalam iʿrāb nasb setelah أَفَ",
+        "irab_dan_logika": "مُنصوب بالفتحة لأنّها اسم منصوب بعد حرف السؤال أَفَ"
+      },
+      "hikmah": "Menanyakan apakah itu adalah hukum yang dimaksud",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "ٱلْجَٰهِلِيَّةِ",
+      "transliterasi": "al‑jāhiliyyati",
+      "jenis_kata": "Isim",
+      "arti": "kekafiran, hukum zaman jahiliyah",
+      "sharaf": {
+        "akar_kata": "ج ه ل",
+        "makna_dasar": "tidak mengetahui, kebodohan",
+        "wazan_perubahan": "فَعَلَة (kata benda abstrak)"
+      },
+      "nahwu": {
+        "kedudukan": "kata kedua dalam iḍāfah (حُكْمَ ٱلْجَٰهِلِيَّةِ)",
+        "irab_dan_logika": "مجرور بالكسرة لأنّها مضاف إليه"
+      },
+      "hikmah": "Menunjuk pada hukum yang berasal dari masa jahiliyah",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "يَبْغُونَ",
+      "transliterasi": "yabghūna",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka menginginkan",
+      "sharaf": {
+        "akar_kata": "ب غ ي",
+        "makna_dasar": "ingin, mengharapkan",
+        "wazan_perubahan": "يَفْعُلون (مضارع مرفوع)"
+      },
+      "nahwu": {
+        "kedudukan": "predikat setelah frasa isimiyyah",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فعل مضارع مرفوع"
+      },
+      "hikmah": "Mereka menghendaki hukum jahiliyah",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda berhenti (tanda koma/istirahat)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "pemutus kalimat setelah يَبْغُونَ",
+        "irab_dan_logika": "bukan bagian sintaks, hanya tanda baca"
+      },
+      "hikmah": "Memberi jeda sebelum bagian selanjutnya",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "وَمَنْ",
+      "transliterasi": "waman",
+      "jenis_kata": "Huruf (wa) + Isim (man)",
+      "arti": "dan siapa",
+      "sharaf": {
+        "akar_kata": "م ن",
+        "makna_dasar": "siapa (kata ganti relatif)",
+        "wazan_perubahan": "مَنْ (isim mawsul)"
+      },
+      "nahwu": {
+        "kedudukan": "kata sambung yang memperkenalkan klausa pertanyaan selanjutnya",
+        "irab_dan_logika": "مبني على السكون لأنّها حرف عطف مع اسم موصول"
+      },
+      "hikmah": "Mengajak pembaca menimbang siapa yang lebih baik",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "أَحْسَنُ",
+      "transliterasi": "aḥsanu",
+      "jenis_kata": "Fi'il",
+      "arti": "lebih baik",
+      "sharaf": {
+        "akar_kata": "ح س ن",
+        "makna_dasar": "baik, kebajikan",
+        "wazan_perubahan": "أَفْعَلُ (kata kerja bentuk perbandingan)"
+      },
+      "nahwu": {
+        "kedudukan": "predikat setelah وَمَنْ",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فعل مضارع مرفوع"
+      },
+      "hikmah": "Menegaskan bahwa tidak ada yang lebih baik selain hukum Allah bagi orang beriman",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "مِنَ",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf (harf jar)",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar yang menghubungkan *Allah* dengan kata sebelumnya",
+        "irab_dan_logika": "**Majrur** dengan kasrah karena berfungsi sebagai *jar* (مِنَ)"
+      },
+      "hikmah": "Menunjukkan asal atau sumber, di sini menanyakan *hukum* yang berasal dari *Jahiliyah*",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "ٱللَّهِ",
+      "transliterasi": "Allāh",
+      "jenis_kata": "Isim (nama Allah)",
+      "arti": "Tuhan",
+      "sharaf": {
+        "akar_kata": "أ ل ه",
+        "makna_dasar": "menyembah, menganggap sebagai Tuhan",
+        "wazan_perubahan": "isim mufrad"
+      },
+      "nahwu": {
+        "kedudukan": "Isim majrur setelah huruf jar *min*",
+        "irab_dan_logika": "**Majrur** dengan kasrah (ٱللَّهِ) karena menjadi objek preposisi"
+      },
+      "hikmah": "Menegaskan bahwa hukum yang dimaksud berasal dari Allah, bukan dari manusia",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "حُكْمًۭا",
+      "transliterasi": "ḥukman",
+      "jenis_kata": "Isim",
+      "arti": "hukum, keputusan",
+      "sharaf": {
+        "akar_kata": "ح ك م",
+        "makna_dasar": "mengatur, memerintah",
+        "wazan_perubahan": "maf‘al (حُكْمًا)"
+      },
+      "nahwu": {
+        "kedudukan": "Objek langsung (maf‘ul) dari kata kerja *أَحَبَّ*",
+        "irab_dan_logika": "**Mansub** dengan tanwin fatha (حُكْمً) karena menjadi maf‘ul"
+      },
+      "hikmah": "Mengacu pada sistem atau aturan yang dipilih, menekankan kualitas hukum tersebut",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "لِّقَوْمٍۢ",
+      "transliterasi": "li‑qawmin",
+      "jenis_kata": "Huruf jar + Isim",
+      "arti": "bagi kaum",
+      "sharaf": {
+        "akar_kata": "ق و م",
+        "makna_dasar": "bangsa, kelompok manusia",
+        "wazan_perubahan": "isim jamak"
+      },
+      "nahwu": {
+        "kedudukan": "Isim majrur setelah huruf *li* (لِ)",
+        "irab_dan_logika": "**Majrur** dengan kasrah (قَوْمٍ) karena berfungsi sebagai objek preposisi"
+      },
+      "hikmah": "Menunjukkan bahwa hukum Allah itu khusus untuk orang‑orang yang beriman dan yakin",
+      "role": "none"
+    }
+  ]
+}

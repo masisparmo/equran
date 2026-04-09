@@ -1,0 +1,510 @@
+{
+  "surah": 6,
+  "ayah": 31,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "قَدْ",
+      "transliterasi": "qad",
+      "jenis_kata": "Huruf",
+      "arti": "sudah, menegaskan",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "menegaskan bahwa sesuatu telah terjadi",
+        "wazan_perubahan": "tidak berlaku (huruf)"
+      },
+      "nahwu": {
+        "kedudukan": "Partikel yang menegaskan fi'il atau jamak",
+        "irab_dan_logika": "Tidak berirab, tetap sukun pada alif karena merupakan huruf yang tidak berubah"
+      },
+      "hikmah": "Memberi penegasan bahwa apa yang disebutkan selanjutnya memang telah terjadi, menambah kekuatan pernyataan.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "خَسِرَ",
+      "transliterasi": "khasira",
+      "jenis_kata": "Fi'il",
+      "arti": "rugi, kehilangan",
+      "sharaf": {
+        "akar_kata": "خ س ر",
+        "makna_dasar": "kehilangan, kerugian",
+        "wazan_perubahan": "fa'ila (bentuk I)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il madhi (kata kerja lampau) sebagai predikat utama",
+        "irab_dan_logika": "Marfu' dengan dhammah karena fi'il madhi yang berdiri sendiri"
+      },
+      "hikmah": "Menunjukkan bahwa orang-orang yang menolak pertemuan dengan Allah telah mengalami kerugian yang nyata.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "ٱلَّذِينَ",
+      "transliterasi": "alladhīna",
+      "jenis_kata": "Isim",
+      "arti": "orang‑orang yang",
+      "sharaf": {
+        "akar_kata": "ٱل ذ ي",
+        "makna_dasar": "yang, orang yang",
+        "wazan_perubahan": "Isim maushul (isim relatif)"
+      },
+      "nahwu": {
+        "kedudukan": "Isim maushul marfu' (raf') sebagai fa'il (pelaku) fi'il \"خَسِرَ\"",
+        "irab_dan_logika": "Dhammah karena berfungsi sebagai fa'il yang marfu'"
+      },
+      "hikmah": "Menandai kelompok orang yang menjadi subjek kerugian, yaitu mereka yang menolak pertemuan dengan Allah.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "كَذَّبُوا۟",
+      "transliterasi": "kadhabū",
+      "jenis_kata": "Fi'il",
+      "arti": "menolak, mendustakan",
+      "sharaf": {
+        "akar_kata": "ك ذ ب",
+        "makna_dasar": "menolak, menolak kebenaran",
+        "wazan_perubahan": "fa''ala (bentuk II)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il madhi (lampau) yang menjelaskan tindakan orang‑orang tersebut",
+        "irab_dan_logika": "Marfu' dengan dhammah karena fi'il madhi yang berdiri sendiri"
+      },
+      "hikmah": "Menggambarkan tindakan menolak pertemuan dengan Allah, yang menjadi penyebab kerugian mereka.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "بِلِقَآءِ",
+      "transliterasi": "bi-liqā'i",
+      "jenis_kata": "Huruf",
+      "arti": "dengan pertemuan",
+      "sharaf": {
+        "akar_kata": "ل ق ي",
+        "makna_dasar": "pertemuan, perjumpaan",
+        "wazan_perubahan": "isim maushul (liqā')"
+      },
+      "nahwu": {
+        "kedudukan": "Majrur (jar) karena didahului huruf jar \"بِ\"",
+        "irab_dan_logika": "Kasrah pada huruf lam menandakan i'rab majrur setelah huruf jar"
+      },
+      "hikmah": "Menunjukkan objek penolakan, yaitu pertemuan dengan Allah yang mereka tolak.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "ٱللَّهِ",
+      "transliterasi": "Allāhi",
+      "jenis_kata": "Isim",
+      "arti": "Tuhan",
+      "sharaf": {
+        "akar_kata": "ل ه",
+        "makna_dasar": "Allah, Tuhan Yang Maha Esa",
+        "wazan_perubahan": "Isim mudhaf (nama Allah) dalam bentuk majrur"
+      },
+      "nahwu": {
+        "kedudukan": "Majrur (jar) sebagai mudhaf dalam frasa \"بِلِقَآءِ ٱللَّهِ\"",
+        "irab_dan_logika": "Kasrah pada alif akhir menandakan i'rab majrur setelah huruf jar"
+      },
+      "hikmah": "Menegaskan bahwa pertemuan yang dimaksud adalah pertemuan dengan Allah, yang ditolak oleh orang‑orang tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "ۖ",
+      "transliterasi": "—",
+      "jenis_kata": "Huruf (tanda waqf)",
+      "arti": "tanda jeda (waqf)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda waqf di akhir frasa",
+        "irab_dan_logika": "tidak memiliki i‘rāb karena bukan kata, berfungsi memisahkan bagian kalimat"
+      },
+      "hikmah": "*Menandakan jeda* sebelum keterangan selanjutnya, memberi ruang bagi pembaca memahami makna sebelumnya",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "حَتَّىٰ",
+      "transliterasi": "ḥattā",
+      "jenis_kata": "Huruf (jar)",
+      "arti": "sampai, hingga",
+      "sharaf": {
+        "akar_kata": "ح‑ت‑ى",
+        "makna_dasar": "menunjuk batas waktu atau tempat",
+        "wazan_perubahan": "tidak berubah"
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar yang menghubungkan kata sebelumnya dengan kata berikutnya",
+        "irab_dan_logika": "tidak berharakat, berfungsi menandakan batas waktu kedatangan"
+      },
+      "hikmah": "*Menegaskan* bahwa kejadian akan terjadi **hingga** saat tertentu, yaitu kedatangan kiamat",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "إِذَا",
+      "transliterasi": "idhā",
+      "jenis_kata": "Huruf (syarat)",
+      "arti": "apabila, bila",
+      "sharaf": {
+        "akar_kata": "إ‑ذ‑ا",
+        "makna_dasar": "menunjuk kondisi atau syarat waktu",
+        "wazan_perubahan": "tidak berubah"
+      },
+      "nahwu": {
+        "kedudukan": "huruf syarat yang mengawali klausa waktu",
+        "irab_dan_logika": "tidak berharakat, menandakan kondisi yang akan datang"
+      },
+      "hikmah": "*Menunjukkan* bahwa apa yang disebutkan selanjutnya terjadi **apabila** keadaan tertentu terpenuhi",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "جَآءَتْهُمُ",
+      "transliterasi": "jā’at‑hum",
+      "jenis_kata": "Fi‘il (madhi)",
+      "arti": "datang kepada mereka",
+      "sharaf": {
+        "akar_kata": "ج‑و‑ء",
+        "makna_dasar": "datang, tiba",
+        "wazan_perubahan": "madhi 3rd fem. tunggal + ضمير متصل"
+      },
+      "nahwu": {
+        "kedudukan": "fi‘il madhi sebagai predikat utama",
+        "irab_dan_logika": "marfu‘ dhammatun karena berfungsi sebagai mubtada’ dalam kalimat; huruf‑hurufnya menunjukkan i‘rāb normal"
+      },
+      "hikmah": "*Menegaskan* kedatangan **hari kiamat** secara tiba‑tiba kepada mereka",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "ٱلسَّاعَةُ",
+      "transliterasi": "as‑sā‘ah",
+      "jenis_kata": "Isim (isim al‑zaman)",
+      "arti": "waktu, saat (biasanya merujuk pada kiamat)",
+      "sharaf": {
+        "akar_kata": "س‑ع‑و",
+        "makna_dasar": "jam, waktu",
+        "wazan_perubahan": "isim maf‘ūl"
+      },
+      "nahwu": {
+        "kedudukan": "mudhaf (muthallath) yang menjadi subjek fi‘il “jā’at”",
+        "irab_dan_logika": "marfu‘ dhammatun karena berfungsi sebagai mubtada’"
+      },
+      "hikmah": "*Menunjukkan* bahwa yang datang adalah **saat yang menentukan**, yakni hari kiamat",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "بَغْتَةًۭ",
+      "transliterasi": "baghṭatan",
+      "jenis_kata": "Isim (isim maf‘ūl)",
+      "arti": "secara mendadak, tiba‑tiba",
+      "sharaf": {
+        "akar_kata": "ب‑غ‑ط",
+        "makna_dasar": "kejutan, sesuatu yang datang secara tak terduga",
+        "wazan_perubahan": "isim maf‘ūl"
+      },
+      "nahwu": {
+        "kedudukan": "mansub karena menjadi keterangan cara bagi fi‘il “jā’at”",
+        "irab_dan_logika": "mansub kasrah karena berfungsi sebagai majrūr"
+      },
+      "hikmah": "*Menekankan* bahwa kedatangan **hari kiamat** terjadi **secara mendadak**, tanpa peringatan sebelumnya",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "قَالُوا۟",
+      "transliterasi": "qālū",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka berkata",
+      "sharaf": {
+        "akar_kata": "ق و ل",
+        "makna_dasar": "kata, ucapan",
+        "wazan_perubahan": "فَعَلَ → فَعَلُوا"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il madhi (kata kerja lampau) 3rd person jamak",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "Menunjukkan penyesalan yang baru muncul saat kiamat tiba.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "يَٰحَسْرَتَنَا",
+      "transliterasi": "yā ḥasratanā",
+      "jenis_kata": "Isim (seruan) dengan huruf nidas \"يا\"",
+      "arti": "wahai kesialan kami",
+      "sharaf": {
+        "akar_kata": "ح س ر",
+        "makna_dasar": "penyesalan, rasa sesal",
+        "wazan_perubahan": "فَعْرَة"
+      },
+      "nahwu": {
+        "kedudukan": "isim dalam seruan (nida)",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "Ekspresi keprihatinan mendalam atas kelalaian mereka terhadap hari kiamat.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "عَلَىٰ",
+      "transliterasi": "‘alā",
+      "jenis_kata": "Huruf (preposisi)",
+      "arti": "atas, terhadap",
+      "sharaf": {
+        "akar_kata": "ع ل ي",
+        "makna_dasar": "tinggi, mengangkat",
+        "wazan_perubahan": "فَعْلَ"
+      },
+      "nahwu": {
+        "kedudukan": "harf jar",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "Menunjukkan sebab atau objek penyesalan yang dibebani.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "مَا",
+      "transliterasi": "mā",
+      "jenis_kata": "Isim (kata tanya)",
+      "arti": "apa",
+      "sharaf": {
+        "akar_kata": "م ا",
+        "makna_dasar": "penanya tentang sesuatu",
+        "wazan_perubahan": "ما"
+      },
+      "nahwu": {
+        "kedudukan": "isim dalam konstruksi \"على ما\"",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "Merujuk pada hal yang telah mereka abaikan.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "فَرَّطْنَا",
+      "transliterasi": "farraṭnā",
+      "jenis_kata": "Fi'il (madhi)",
+      "arti": "kami melalaikan",
+      "sharaf": {
+        "akar_kata": "ر ط",
+        "makna_dasar": "melalaikan, melewatkan",
+        "wazan_perubahan": "فَعَّلَ"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il madhi 1st person jamak",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "Mengakui kesalahan mereka dalam mengabaikan peringatan hari kiamat.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "فِيهَا",
+      "transliterasi": "fīhā",
+      "jenis_kata": "Huruf jar + isim (kata ganti)",
+      "arti": "di dalamnya",
+      "sharaf": {
+        "akar_kata": "في",
+        "makna_dasar": "di dalam, berada dalam",
+        "wazan_perubahan": "حرف جر"
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر + ضمير متصل",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "Menunjukkan apa yang mereka pikul: dosa-dosa yang menimpa mereka di hari kiamat.",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "وَهُمْ",
+      "transliterasi": "wa‑hum",
+      "jenis_kata": "Huruf + Isim (ضمير منفصل)",
+      "arti": "dan mereka",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "kata sambung (حرف عطف) yang menghubungkan frasa sebelumnya dengan frasa berikutnya",
+        "irab_dan_logika": "مجرور بالكسرة لأنه حرف عطف يسبق الضمير المتصل"
+      },
+      "hikmah": "menunjukkan bahwa yang memikul beban itu adalah mereka (orang-orang yang menolak).",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "يَحْمِلُونَ",
+      "transliterasi": "yaḥmilūna",
+      "jenis_kata": "Fi'il (verb)",
+      "arti": "mereka memikul",
+      "sharaf": {
+        "akar_kata": "ح م ل",
+        "makna_dasar": "memikul, membawa",
+        "wazan_perubahan": "فَعَلَ – فعل مضارع مرفوع بالواو والنون"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع",
+        "irab_dan_logika": "مرفوع بالواو لأنه فعل مضارع مرفوع وعلامة رفعه الواو"
+      },
+      "hikmah": "menegaskan tindakan aktif mereka dalam menanggung dosa‑dosa.",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "أَوْزَارَهُمْ",
+      "transliterasi": "awzārahum",
+      "jenis_kata": "Isim (noun)",
+      "arti": "beban mereka",
+      "sharaf": {
+        "akar_kata": "و ز ر",
+        "makna_dasar": "beban, tanggung jawab",
+        "wazan_perubahan": "أَفْعَال – جمع تكسير"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به مرفوع بالضمة لأنه مضاف إليه مرفوع بالضمة",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "menyiratkan bahwa dosa‑dosa itu menjadi beban berat yang harus mereka tanggung.",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "عَلَىٰ",
+      "transliterasi": "ʿalā",
+      "jenis_kata": "Huruf (preposisi)",
+      "arti": "atas",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر",
+        "irab_dan_logika": "حرف جر يجر ما بعده"
+      },
+      "hikmah": "menunjukkan lokasi fisik tempat beban itu diletakkan, yaitu di atas punggung mereka.",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "ظُهُورِهِمْ",
+      "transliterasi": "ẓuhūrihim",
+      "jenis_kata": "Isim (noun)",
+      "arti": "punggung mereka",
+      "sharaf": {
+        "akar_kata": "ظ ه ر",
+        "makna_dasar": "bagian belakang tubuh",
+        "wazan_perubahan": "فُعُول – مصدر"
+      },
+      "nahwu": {
+        "kedudukan": "اسم مجرور بحرف الجر عَلَىٰ وعلامة جره الكسرة",
+        "irab_dan_logika": "مجرور بالكسرة لأنه مجرور بحرف الجر"
+      },
+      "hikmah": "menegaskan bahwa beban dosa‑dosa itu diletakkan secara nyata di punggung mereka, simbol tanggung jawab yang tidak dapat dihindari.",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda berhenti ayat",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "علامة وقف (سكون) لا تُعرب",
+        "irab_dan_logika": "علامة لا تُعرب ولا تُنصب"
+      },
+      "hikmah": "menandai akhir kalimat, memberi jeda untuk merenungkan makna ayat.",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "أَلَا",
+      "transliterasi": "alā",
+      "jenis_kata": "Huruf",
+      "arti": "tidak? (seruan untuk menegaskan)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "kata seru di awal ayat, berfungsi sebagai huruf pertanyaan retoris",
+        "irab_dan_logika": "huruf, tidak ber-i'rab; menandakan nada keheranan atau peringatan"
+      },
+      "hikmah": "mengajak pembaca menyadari betapa buruknya keadaan mereka yang menolak pertemuan dengan Tuhan",
+      "role": "none"
+    },
+    {
+      "index": 25,
+      "kata_arab": "سَآءَ",
+      "transliterasi": "sā'a",
+      "jenis_kata": "Fi'il",
+      "arti": "buruk, jahat",
+      "sharaf": {
+        "akar_kata": "س-و-ء",
+        "makna_dasar": "kejahatan, keburukan",
+        "wazan_perubahan": "fa‘ala (سَاءَ) – bentuk tidak beraturan karena huruf lemah"
+      },
+      "nahwu": {
+        "kedudukan": "predikat (verb) yang menjelaskan \\\"ما\\\" sebelumnya",
+        "irab_dan_logika": "verb past tense, tidak ber-i'rab; menegaskan keadaan buruk yang menjadi sifat dari apa yang dibawa"
+      },
+      "hikmah": "menyatakan bahwa apa yang mereka pikul itu adalah sesuatu yang sangat buruk",
+      "role": "none"
+    },
+    {
+      "index": 26,
+      "kata_arab": "مَا",
+      "transliterasi": "mā",
+      "jenis_kata": "Isim",
+      "arti": "apa, yang",
+      "sharaf": {
+        "akar_kata": "م-ا",
+        "makna_dasar": "sesuatu yang tidak diketahui atau disebutkan",
+        "wazan_perubahan": "kata tanya/penunjuk sederhana"
+      },
+      "nahwu": {
+        "kedudukan": "objek dari fi'il \"سَاءَ\"",
+        "irab_dan_logika": "مَنْصُوبٌ (kasrah) sebagai objek langsung fi'il"
+      },
+      "hikmah": "menunjuk kepada benda atau keadaan yang dibawa, yaitu beban yang buruk",
+      "role": "none"
+    },
+    {
+      "index": 27,
+      "kata_arab": "يَزِرُونَ",
+      "transliterasi": "yazirūna",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka memikul, menanggung",
+      "sharaf": {
+        "akar_kata": "ز-ر-ر",
+        "makna_dasar": "menanggung, membawa beban",
+        "wazan_perubahan": "yaf‘alu (يَفْعَلون) – bentuk mudhari'}"
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    }
+  ]
+}
