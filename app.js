@@ -826,7 +826,7 @@ function renderMushafPage() {
 // --- API Integration (Al-Qur'an Cloud) ---
 async function initQuranSearchData() {
     try {
-        const cached = await localforage.getItem('quran_search_data_v1');
+        const cached = await localforage.getItem('quran_search_data_v3');
         if (cached) {
             fullQuranDataCache = cached;
             return;
@@ -847,7 +847,7 @@ async function initQuranSearchData() {
                 arabic: arData.data.surahs,
                 translation: idData.data.surahs
             };
-            await localforage.setItem('quran_search_data_v1', fullQuranDataCache);
+            await localforage.setItem('quran_search_data_v3', fullQuranDataCache);
         }
     } catch (error) {
         console.error("Gagal memuat data pencarian Al-Quran:", error);
@@ -855,7 +855,10 @@ async function initQuranSearchData() {
 }
 
 function removeHarakat(str) {
-    return str.replace(/[\u0617-\u061A\u064B-\u0652]/g, "");
+    if (!str) return "";
+    // Comprehensive regex for stripping all Arabic diacritics, harakat, and tajweed/waqf marks 
+    // used in Quran Uthmani (covers ranges for tasykil, madda, small high letters, etc.)
+    return str.replace(/[\u064B-\u065F\u0670\u06D6-\u06DC\u06DF-\u06ED\u0653\u0654\u0655]/g, "");
 }
 
 function levenshteinDistance(a, b) {
@@ -986,19 +989,23 @@ function performSearch(query, searchType) {
 
         if (results.length === 0) {
             status.textContent = 'Tidak ditemukan hasil untuk: ' + query;
+            status.dir = isArabic ? 'rtl' : 'ltr';
         } else {
             if (usedFuzzy) {
                 status.textContent = `Menemukan ${results.length}${results.length === 50 ? '+' : ''} hasil yang mirip dengan: ` + query;
             } else {
                 status.textContent = `Ditemukan ${results.length}${results.length === 50 ? '+' : ''} hasil untuk: ` + query;
             }
+            status.dir = isArabic ? 'rtl' : 'ltr';
             results.forEach(res => {
                 const item = document.createElement('div');
                 item.className = 'search-result-item';
+                if (isArabic) item.classList.add('rtl-result');
+                
                 item.innerHTML = `
-                    <div class="search-result-surah">${res.surahNumber}. ${res.surahName} - Ayat ${res.ayahNumber}</div>
-                    <div class="search-result-text" style="font-family: var(--font-arabic); font-size: 1.3rem; text-align: right; margin-top: 5px;">${res.textAr}</div>
-                    <div class="search-result-text">${res.textId}</div>
+                    <div class="search-result-surah" style="${isArabic ? 'direction: rtl; text-align: right;' : ''}">${res.surahNumber}. ${res.surahName} - Ayat ${res.ayahNumber}</div>
+                    <div class="search-result-text" style="font-family: var(--font-arabic); font-size: 1.35rem; text-align: right; direction: rtl; margin-top: 5px;">${res.textAr}</div>
+                    <div class="search-result-text" style="${isArabic ? 'direction: rtl; text-align: right;' : ''}">${res.textId}</div>
                 `;
                 item.addEventListener('click', () => {
                     closeModal(modal);
@@ -1040,9 +1047,25 @@ function initKeyboardListeners() {
     });
 
     document.querySelectorAll('input[name="search_type_home"], input[name="search_type_mushaf"]').forEach(radio => {
+        const applyRtl = (val, input) => {
+            if (val === 'arabic') {
+                input.dir = 'rtl';
+                input.placeholder = '...اكتب هنا للبحث';
+                input.style.textAlign = 'right';
+            } else {
+                input.dir = 'ltr';
+                input.placeholder = "Cari kata di Al-Qur'an...";
+                input.style.textAlign = 'left';
+            }
+        };
+
+        // Handle Change Event
         radio.addEventListener('change', (e) => {
             const inputId = e.target.name === 'search_type_home' ? 'home-search-input' : 'mushaf-search-input';
             const input = document.getElementById(inputId);
+            
+            applyRtl(e.target.value, input);
+
             if (e.target.value === 'arabic' && document.activeElement === input) {
                 activeSearchInput = input;
                 showKeyboard(input);
@@ -1050,6 +1073,13 @@ function initKeyboardListeners() {
                 kbModal.style.display = 'none';
             }
         });
+
+        // Forced Initial Check
+        if (radio.checked) {
+            const inputId = radio.name === 'search_type_home' ? 'home-search-input' : 'mushaf-search-input';
+            const input = document.getElementById(inputId);
+            if (input) applyRtl(radio.value, input);
+        }
     });
 
     document.getElementById('close-keyboard-btn').addEventListener('click', () => {
