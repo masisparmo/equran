@@ -3303,13 +3303,15 @@ async function saveBookmarks() {
 }
 
 function toggleBookmark(surah, ayah, page, surahName) {
-    const existingIndex = userBookmarks.findIndex(b => b.surah === surah && b.ayah === ayah);
-    if (existingIndex !== -1) {
-        // Delete if already exists (Toggle Off)
-        userBookmarks.splice(existingIndex, 1);
+    const isBookmarked = userBookmarks.some(b => b.surah === surah && b.ayah === ayah);
+    
+    if (isBookmarked) {
+        // Toggle Off: Remove ALL occurrences
+        userBookmarks = userBookmarks.filter(b => !(b.surah === surah && b.ayah === ayah));
         console.log(`Bookmark removed: ${surahName} ${ayah}`);
+        showToast(`Ayat ${ayah} dihapus dari bookmark.`);
     } else {
-        // Add if not exists (Toggle On)
+        // Toggle On: Add new
         userBookmarks.push({
             id: Date.now().toString(),
             surah: surah,
@@ -3319,15 +3321,50 @@ function toggleBookmark(surah, ayah, page, surahName) {
             timestamp: new Date().toLocaleDateString('id-ID', { day: 'numeric', month: 'short', year: 'numeric' })
         });
         console.log(`Bookmark added: ${surahName} ${ayah}`);
+        showToast(`Ayat ${ayah} berhasil disimpan.`);
     }
+
     saveBookmarks();
-    
-    // Refresh UI to sync all icons
+    updateBookmarkHistory();
+
+    // Instant UI sync for the specific icons being toggled
+    const icons = document.querySelectorAll(`.mushaf-bookmark-icon[data-surah="${surah}"][data-ayah="${ayah}"], .bookmark-icon-home[data-surah="${surah}"][data-ayah="${ayah}"]`);
+    icons.forEach(icon => {
+        if (!isBookmarked) {
+            icon.classList.add('active');
+            const i = icon.querySelector('i');
+            if (i) { i.className = 'fas fa-bookmark'; }
+        } else {
+            icon.classList.remove('active');
+            const i = icon.querySelector('i');
+            if (i) { i.className = 'far fa-bookmark'; }
+        }
+    });
+
+    // We still trigger a refresh for consistency, but the instant update above handles the "sticky" color
     if (currentMode === 'mushaf') {
-        renderMushafPage();
+        // Only re-render if needed, or rely on the instant toggle above
     } else {
         displayAyah(ayah);
     }
+}
+
+// Helper to update bookmark history modal
+function updateBookmarkHistory() {
+    renderBookmarkHistory();
+}
+
+function showToast(message) {
+    // Check if toast container exists
+    let toast = document.getElementById('quran-toast');
+    if (!toast) {
+        toast = document.createElement('div');
+        toast.id = 'quran-toast';
+        document.body.appendChild(toast);
+    }
+    toast.textContent = message;
+    toast.className = 'show';
+    setTimeout(() => { toast.className = toast.className.replace('show', ''); }, 3000);
 }
 
 function renderBookmarkHistory() {
