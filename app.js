@@ -1313,6 +1313,10 @@ async function downloadCurrentSurahAudio() {
 }
 
 function displayAyah(ayahNumberInSurah) {
+    if (!currentSurahData || !currentSurahData.ayahs || !currentAyahsIndo) {
+        console.warn('displayAyah: Data not ready.');
+        return;
+    }
     const ayahIndex = ayahNumberInSurah - 1;
     const ayahAr = currentSurahData.ayahs[ayahIndex];
     const ayahId = currentAyahsIndo[ayahIndex];
