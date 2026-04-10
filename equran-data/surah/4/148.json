@@ -1,0 +1,276 @@
+{
+  "surah": 4,
+  "ayah": 148,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "لَّا",
+      "transliterasi": "lā",
+      "jenis_kata": "Huruf",
+      "arti": "tidak",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "negasi",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "partikel negasi yang mendahului fi‘il",
+        "irab_dan_logika": "menyebabkan sukun pada fi‘il berikutnya, tidak berharakat"
+      },
+      "hikmah": "Allah **tidak** menyukai ucapan buruk",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "يُحِبُّ",
+      "transliterasi": "yuḥibbu",
+      "jenis_kata": "Fi'il",
+      "arti": "menyukai",
+      "sharaf": {
+        "akar_kata": "ح ب ب",
+        "makna_dasar": "kasih sayang",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "fi‘il mudhari‘ (kata kerja)",
+        "irab_dan_logika": "marfu‘ dengan dammah karena berada dalam kalimat nominal"
+      },
+      "hikmah": "Allah tidak **menyukai** hal yang bersifat jahat",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "ٱللَّهُ",
+      "transliterasi": "Allāh",
+      "jenis_kata": "Isim",
+      "arti": "Tuhan",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "nama Allah",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "mubtada’ (subjek)",
+        "irab_dan_logika": "marfu‘ dengan dammah karena menjadi mubtada’ dalam jumla ismiyyah"
+      },
+      "hikmah": "Allah sebagai **Pencipta** dan **Penguasa**",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "ٱلْجَهْرَ",
+      "transliterasi": "al‑jahra",
+      "jenis_kata": "Isim",
+      "arti": "pengumuman terbuka, kejelasan",
+      "sharaf": {
+        "akar_kata": "ج ه ر",
+        "makna_dasar": "terbuka, jelas",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "maf‘ul bih (objek)",
+        "irab_dan_logika": "berfatha karena berfungsi sebagai objek langsung fi‘il"
+      },
+      "hikmah": "menunjukkan **keterbukaan** yang tidak disukai Allah bila dipakai untuk keburukan",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "بِٱلسُّوٓءِ",
+      "transliterasi": "bi‑as‑sū'i",
+      "jenis_kata": "Huruf",
+      "arti": "dengan kejahatan",
+      "sharaf": {
+        "akar_kata": "س و ء",
+        "makna_dasar": "kejahatan, keburukan",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "isim majrur (kata benda berkasrah) setelah huruf jar \"bi\"",
+        "irab_dan_logika": "kasrah pada al‑sū'i karena didahului huruf jar"
+      },
+      "hikmah": "menyiratkan **perbuatan buruk** yang tidak disukai Allah",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "مِنَ",
+      "transliterasi": "mina",
+      "jenis_kata": "Huruf",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "menunjukkan asal atau sumber",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar yang memperkenalkan genitif",
+        "irab_dan_logika": "menyebabkan isim berikutnya berkasrah (tidak ditampilkan dalam contoh)"
+      },
+      "hikmah": "menunjukkan **sumber** atau **kelompok** yang dianiaya",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "ٱلْقَوْلِ",
+      "transliterasi": "al‑qawli",
+      "jenis_kata": "Isim",
+      "arti": "ucapan, perkataan",
+      "sharaf": {
+        "akar_kata": "ق و ل",
+        "makna_dasar": "mengucapkan, berkata",
+        "wazan_perubahan": "mauful (maful) setelah huruf jar ‘bi’"
+      },
+      "nahwu": {
+        "kedudukan": "objek (maf‘ul bih) dari fi‘il *yuhibbu* ‘al‑jahra bil‑qawli’",
+        "irab_dan_logika": "kasrah karena berfungsi sebagai maf‘ul bih, menandakan hubungan ‘dengan ucapan’"
+      },
+      "hikmah": "**Al‑qawlu** menegaskan bahwa ‘ucapan’ yang dimaksud adalah segala perkataan yang keluar dari mulut, bukan sekadar kata‑kata kosong.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "إِلَّا",
+      "transliterasi": "illa",
+      "jenis_kata": "Huruf",
+      "arti": "kecuali",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "huruf istithna yang mengecualikan",
+        "irab_dan_logika": "sukun; tidak berubah karena berfungsi sebagai alat pengecualian"
+      },
+      "hikmah": "**Illa** menandakan batasan; Allah tidak menyukai ucapan buruk *kecuali* bagi yang berada dalam keadaan terzalimi.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "مَن",
+      "transliterasi": "man",
+      "jenis_kata": "Isim",
+      "arti": "siapa",
+      "sharaf": {
+        "akar_kata": "ن",
+        "makna_dasar": "orang yang",
+        "wazan_perubahan": "isim isyarah"
+      },
+      "nahwu": {
+        "kedudukan": "isim istifham yang menjadi mudhaf (mansoob) setelah *illa*",
+        "irab_dan_logika": "marfu‘ karena berfungsi sebagai subjek dalam kalimat nominal ‘man zulima’"
+      },
+      "hikmah": "**Man** menyingkap subjek yang mendapat pengecualian, yaitu orang yang *dizalimi*.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "ظُلِمَ",
+      "transliterasi": "zulima",
+      "jenis_kata": "Fi‘il",
+      "arti": "dianiaya, diperlakukan tidak adil",
+      "sharaf": {
+        "akar_kata": "ظ ل م",
+        "makna_dasar": "menindas, menzalimi",
+        "wazan_perubahan": "fa‘ila (madhi)"
+      },
+      "nahwu": {
+        "kedudukan": "fi‘il madhi yang menjadi khabar (predikat) dari ‘man’",
+        "irab_dan_logika": "marfu‘ dengan dhammah karena berfungsi sebagai khabar dalam kalimat nominal"
+      },
+      "hikmah": "**Zulima** menegaskan bahwa pengecualian berlaku bagi mereka yang *telah* mengalami ketidakadilan.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "ۙ",
+      "transliterasi": "",
+      "jenis_kata": "Simbol",
+      "arti": "tanda waqf (tanda berhenti)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "simbol waqf yang memisahkan dua kalimat",
+        "irab_dan_logika": "tidak memiliki i‘rab"
+      },
+      "hikmah": "**ۚ** menandakan jeda, memisahkan antara pengecualian *man zulima* dengan kalimat berikutnya.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "وَكَانَ",
+      "transliterasi": "wa‑kana",
+      "jenis_kata": "Fi‘il",
+      "arti": "dan adalah",
+      "sharaf": {
+        "akar_kata": "ك و ن",
+        "makna_dasar": "menjadi, ada",
+        "wazan_perubahan": "fa‘ala (madhi)"
+      },
+      "nahwu": {
+        "kedudukan": "fi‘il kana yang menjadi predikat kalimat kedua, didahului huruf ‘wa’ sebagai penghubung",
+        "irab_dan_logika": "marfu‘ dengan dhammah karena fi‘il madhi, huruf ‘wa’ bersukun"
+      },
+      "hikmah": "**Wa‑kana** menegaskan sifat Allah yang selalu *Mendengar* dan *Melihat*, menutup ayat dengan penegasan sifat‑sifat Ilahi.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "ٱللَّهُ",
+      "transliterasi": "Allahu",
+      "jenis_kata": "Isim (nama)",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "ل-ه-ا",
+        "makna_dasar": "menyembah, mengesakan",
+        "wazan_perubahan": "mufradat al‑ism al‑muʿallaq"
+      },
+      "nahwu": {
+        "kedudukan": "mubtadaʾ (subjek) dalam kalimat",
+        "irab_dan_logika": "marfuʿ dengan dammah karena berfungsi sebagai subjek"
+      },
+      "hikmah": "**Allah** adalah nama yang menunjukkan keesaan dan kekuasaan mutlak, menegaskan bahwa segala sifat yang disebutkan selanjutnya (Maha Mendengar, Maha Mengetahui) melekat pada-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "سَمِيعًا",
+      "transliterasi": "Samīʿan",
+      "jenis_kata": "Isim sifat (nama sifat)",
+      "arti": "yang Maha Mendengar",
+      "sharaf": {
+        "akar_kata": "س-م-ع",
+        "makna_dasar": "mendengar",
+        "wazan_perubahan": "faʿīl (dengan tanwin)"
+      },
+      "nahwu": {
+        "kedudukan": "khabar (predikat) bagi Allah",
+        "irab_dan_logika": "marfuʿ dengan tanwin dammah karena berfungsi sebagai khabar"
+      },
+      "hikmah": "Allah **Maha Mendengar** menegaskan bahwa tidak ada perkataan atau bisikan yang luput dari pengetahuan-Nya, termasuk ucapan buruk yang disebutkan dalam ayat.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "عَلِيمًا",
+      "transliterasi": "ʿAlīman",
+      "jenis_kata": "Isim sifat (nama sifat)",
+      "arti": "yang Maha Mengetahui",
+      "sharaf": {
+        "akar_kata": "ع-ل-م",
+        "makna_dasar": "mengetahui",
+        "wazan_perubahan": "faʿīl (dengan tanwin)"
+      },
+      "nahwu": {
+        "kedudukan": "khabar lanjutan (predikat) bersama سَمِيعًا",
+        "irab_dan_logika": "marfuʿ dengan tanwin dammah karena menjadi bagian dari predikat"
+      },
+      "hikmah": "Sebagai **Maha Mengetahui**, Allah mengetahui segala niat, perbuatan, dan keadaan hati manusia, sehingga tidak ada keburukan yang dapat disembunyikan darinya.",
+      "role": "none"
+    }
+  ]
+}

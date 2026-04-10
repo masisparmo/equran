@@ -1,0 +1,780 @@
+{
+  "surah": 6,
+  "ayah": 19,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "قُلْ",
+      "transliterasi": "qul",
+      "jenis_kata": "Fi'il",
+      "arti": "katakan",
+      "sharaf": {
+        "akar_kata": "ق و ل",
+        "makna_dasar": "berkata",
+        "wazan_perubahan": "فَعَل (bentuk dasar)"
+      },
+      "nahwu": {
+        "kedudukan": "kata perintah (imperatif) di awal ayat, memanggil pendengar",
+        "irab_dan_logika": "marfu' dengan dhammah karena fi'il amar, harakat akhir dhammah menandakan perintah"
+      },
+      "hikmah": "*Menunjukkan perintah Allah kepada Nabi untuk menyampaikan pesan kepada umat*",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "أَيُّ",
+      "transliterasi": "ayy",
+      "jenis_kata": "Huruf",
+      "arti": "siapa/yang mana",
+      "sharaf": {
+        "akar_kata": "أ ي",
+        "makna_dasar": "menanyakan pilihan",
+        "wazan_perubahan": "kata tanya"
+      },
+      "nahwu": {
+        "kedudukan": "kata tanya yang menghubungkan dengan isim berikutnya (شَىْءٍ)",
+        "irab_dan_logika": "marfu' karena huruf, tidak berubah dalam i'rab"
+      },
+      "hikmah": "*Menekankan pertanyaan tentang siapa yang lebih kuat persaksiannya*",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "شَىْءٍ",
+      "transliterasi": "shai'in",
+      "jenis_kata": "Isim",
+      "arti": "sesuatu",
+      "sharaf": {
+        "akar_kata": "ش ي ء",
+        "makna_dasar": "benda, sesuatu",
+        "wazan_perubahan": "فَعْل (bentuk isim)"
+      },
+      "nahwu": {
+        "kedudukan": "isim majrur (kasrah) sebagai objek pertanyaan setelah أَيُّ",
+        "irab_dan_logika": "kasrah karena majrur setelah kata tanya"
+      },
+      "hikmah": "*Menunjukkan bahwa pertanyaan mencakup segala sesuatu yang ada*",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "أَكْبَرُ",
+      "transliterasi": "akbaru",
+      "jenis_kata": "Isim (Ism tafdhil)",
+      "arti": "lebih besar / lebih kuat",
+      "sharaf": {
+        "akar_kata": "ك ب ر",
+        "makna_dasar": "besar",
+        "wazan_perubahan": "أَفْعَل (pola perbandingan)"
+      },
+      "nahwu": {
+        "kedudukan": "isim tafdhil yang berfungsi sebagai predikat dalam pertanyaan (أَيُّ شَىْءٍ أَكْبَرُ شَهَادَةً)",
+        "irab_dan_logika": "marfu' dengan dhammah karena berada pada posisi ruba'i"
+      },
+      "hikmah": "*Menegaskan keagungan Allah sebagai saksi yang paling kuat*",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "شَهَٰدَةًۭ",
+      "transliterasi": "shahadatan",
+      "jenis_kata": "Isim",
+      "arti": "kesaksian, saksi",
+      "sharaf": {
+        "akar_kata": "ش ه د",
+        "makna_dasar": "saksi",
+        "wazan_perubahan": "فَعَلَة (bentuk isim)"
+      },
+      "nahwu": {
+        "kedudukan": "isim mansub (accusative) sebagai objek dari kata sifat (أَكْبَرُ ... شَهَادَةً)",
+        "irab_dan_logika": "fatḥah karena mansub setelah isim tafdhil"
+      },
+      "hikmah": "*Menekankan bahwa Allah adalah saksi yang paling kuat dan tidak dapat disangkal*",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "ۖ",
+      "transliterasi": "waqf",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda jeda",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "menandakan berhenti sejenak",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "berada di akhir ayat, memisahkan bagian akhir dari bacaan",
+        "irab_dan_logika": "tidak berlaku karena bukan kata"
+      },
+      "hikmah": "*Memberi kesempatan bagi pendengar untuk merenungkan makna ayat sebelum melanjutkan*",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "قُلِ",
+      "transliterasi": "qul",
+      "jenis_kata": "Fi'il (imperatif)",
+      "arti": "katakanlah",
+      "sharaf": {
+        "akar_kata": "ق-و-ل",
+        "makna_dasar": "mengucapkan, menyatakan",
+        "wazan_perubahan": "bentuk imperatif dengan harakat kasrah"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja perintah di awal ayat, mengajak Nabi menyampaikan pesan",
+        "irab_dan_logika": "فعل أمر مبني على السكون، والضمير المستتر هو (أنت)"
+      },
+      "hikmah": "**قُلِ** menegaskan perintah Allah kepada Nabi Muhammad SAW untuk menyampaikan kebenaran secara tegas.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "ٱللَّهُ",
+      "transliterasi": "Allāhu",
+      "jenis_kata": "Isim (nama)",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "أ-ل-ه",
+        "makna_dasar": "Tuhan yang disembah",
+        "wazan_perubahan": "اسم علم مرفوع بالضمة"
+      },
+      "nahwu": {
+        "kedudukan": "مبتدأ مرفوع في الجملة الاسمية \"اللَّهُ شَهِيدٌ\"",
+        "irab_dan_logika": "مرفوع بالضمة الظاهرة على آخره"
+      },
+      "hikmah": "**ٱللَّهُ** ditegaskan sebagai saksi yang mutlak, menegaskan keesaan dan keadilan-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "ۖ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf (tanda waqf)",
+      "arti": "tanda jeda",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "علامة وقف تفصل بين الجملتين الاسميتين",
+        "irab_dan_logika": "ليس لها إعراب؛ هي علامة ترقيم"
+      },
+      "hikmah": "**ۖ** memberi jeda untuk menekankan hubungan antara **اللَّهُ شَهِيدٌ** dan **بَيْنِي وَبَيْنَكُمْ**.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "شَهِيدٌۢ",
+      "transliterasi": "shahīdun",
+      "jenis_kata": "Isim (isim maf'ul)",
+      "arti": "saksi",
+      "sharaf": {
+        "akar_kata": "ش-ه-د",
+        "makna_dasar": "menyaksikan",
+        "wazan_perubahan": "اسم فاعل (فَعِيل)"
+      },
+      "nahwu": {
+        "kedudukan": "خبر مرفوع للمبتدأ \"اللَّهُ\"",
+        "irab_dan_logika": "مرفوع بالضمة الظاهرة على آخره"
+      },
+      "hikmah": "**شَهِيدٌ** menegaskan bahwa Allah adalah saksi yang sempurna atas segala perbuatan manusia.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "بَيْنِى",
+      "transliterasi": "baynī",
+      "jenis_kata": "Huruf جر + ضمير متصل",
+      "arti": "di antara saya",
+      "sharaf": {
+        "akar_kata": "ب-ي-ن",
+        "makna_dasar": "di antara",
+        "wazan_perubahan": "حرف جر \"بين\" مع ضمير المتكلم المتصل"
+      },
+      "nahwu": {
+        "kedudukan": "جار ومجرور متعلق بـ \"شَهِيدٌ\"",
+        "irab_dan_logika": "مجرور بالكسرة بسبب حرف الجر \"بين\"، والضمير المتصل في محل جر"
+      },
+      "hikmah": "**بَيْنِى** menunjukkan bahwa saksi Allah berada di antara Nabi dan dirinya, menegaskan kedekatan hubungan spiritual.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "وَبَيْنَكُمْ",
+      "transliterasi": "wa baynakum",
+      "jenis_kata": "حرف عطف + حرف جر + ضمير متصل",
+      "arti": "dan di antara kalian",
+      "sharaf": {
+        "akar_kata": "ب-ي-ن",
+        "makna_dasar": "di antara",
+        "wazan_perubahan": "واو العطف + حرف الجر \"بين\" مع ضمير المتكلم الجمع"
+      },
+      "nahwu": {
+        "kedudukan": "معطوف على \"بَيْنِى\" في الجملة الاسمية",
+        "irab_dan_logika": "مجرور بالكسرة مثل ما قبله، والواو عاطفة لا تغير الإعراب"
+      },
+      "hikmah": "**وَبَيْنَكُمْ** memperluas pernyataan saksi Allah sehingga mencakup seluruh umat, menegaskan bahwa Allah menyaksikan hubungan antara Nabi dan semua manusia.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tidak ada, tanda baca)",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "(tidak ada, menandakan jeda/istirahat dalam bacaan)",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Berada di akhir ayat sebagai waqf/istirahat",
+        "irab_dan_logika": "Tidak memiliki i‘rāb karena merupakan tanda baca, berfungsi memberi jeda untuk menekankan makna"
+      },
+      "hikmah": "Menunjukkan penghentian bacaan, memberi kesempatan bagi pendengar merenungkan ayat sebelumnya.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "وَأُوحِىَ",
+      "transliterasi": "wa‑ūḥiya",
+      "jenis_kata": "Fi‘il (madhi majzum)",
+      "arti": "dan diwahyukan",
+      "sharaf": {
+        "akar_kata": "و‑ه‑ي",
+        "makna_dasar": "wahy (wahyu, penyampaian ilahi)",
+        "wazan_perubahan": "mustaf‘al (أُفْعِل)"
+      },
+      "nahwu": {
+        "kedudukan": "Predikat pasif yang diawali huruf al‑waaw (wa) menghubungkan dengan kalimat sebelumnya",
+        "irab_dan_logika": "Tidak ber‑i‘rāb karena fi‘il madhi; tanda dammah pada alif menandakan bentuk pasif"
+      },
+      "hikmah": "Menegaskan bahwa wahyu datang dari Allah, menegakkan otoritas ilahi dalam penyampaian al‑Qur’an.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "إِلَىَّ",
+      "transliterasi": "ilāyya",
+      "jenis_kata": "Huruf jar + dhamir (kata ganti)",
+      "arti": "kepada saya",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "preposisi yang menunjukkan arah atau tujuan",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Bagian dari frasa preposisional yang menjelaskan tujuan wahyu",
+        "irab_dan_logika": "Jar (إِلَى) mengambil al‑nasb; karena terikat pada dhamir ‑ي, tidak ada harakat tambahan pada kata ganti"
+      },
+      "hikmah": "Menunjukkan bahwa wahyu ditujukan khusus kepada Nabi Muhammad SAW sebagai penerima pesan.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "هَٰذَا",
+      "transliterasi": "hādhā",
+      "jenis_kata": "Isim (isim dhahir)",
+      "arti": "ini",
+      "sharaf": {
+        "akar_kata": "ه‑ذ‑ي",
+        "makna_dasar": "kata tunjuk untuk sesuatu yang dekat",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Objek langsung fi‘il majzum \"أُوحِيَ\"",
+        "irab_dan_logika": "Mansub (kasrah) karena berfungsi sebagai maf‘ul bih; tanda harakat fatha pada alif menandakan kasus mansub dalam teks mushaf"
+      },
+      "hikmah": "Menegaskan bahwa yang diwahyukan adalah Al‑Qur’an yang spesifik, bukan wahyu lain.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "ٱلْقُرْءَانُ",
+      "transliterasi": "al‑qurʾānu",
+      "jenis_kata": "Isim (isim mufrad)",
+      "arti": "Al‑Qur’an",
+      "sharaf": {
+        "akar_kata": "ق‑ر‑أ",
+        "makna_dasar": "bacaan, pembacaan suci",
+        "wazan_perubahan": "مفعول"
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada’ (subjek) dalam kalimat \"أُوحِيَ إِلَىَّ هَٰذَا ٱلْقُرْءَانُ\"",
+        "irab_dan_logika": "Marfu‘ (dhammah) karena berfungsi sebagai mubtada’; tanda dhammah pada alif akhir menandakan marfu‘"
+      },
+      "hikmah": "Menegaskan keunikan dan keagungan Al‑Qur’an sebagai kitab yang diwahyukan.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "لِأُنذِرَكُم",
+      "transliterasi": "li‑unḏirakum",
+      "jenis_kata": "Fi‘il (mudhari‘) dengan huruf jar dan dhamir",
+      "arti": "untuk memberi peringatan kepadamu",
+      "sharaf": {
+        "akar_kata": "ن‑ذ‑ر",
+        "makna_dasar": "peringatan, mengingatkan",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "بِهِۦ",
+      "transliterasi": "bihi",
+      "jenis_kata": "Huruf",
+      "arti": "dengan Dia/itu",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar yang melengkapi kata sebelumnya (biasanya isim atau fi'il)",
+        "irab_dan_logika": "Majrur karena huruf jar \"bi\" menuntut kasrah pada huruf yang terikat"
+      },
+      "hikmah": "Menunjukkan sarana atau alat, dalam konteks ayat menegaskan bahwa segala sesuatu berada di bawah pengawasan Allah",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "وَمَنۢ",
+      "transliterasi": "waman",
+      "jenis_kata": "Huruf",
+      "arti": "dan siapa",
+      "sharaf": {
+        "akar_kata": "م-ن-",
+        "makna_dasar": "orang yang menanyakan atau menegaskan",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Isim istifham (kata tanya) yang menjadi mubtada' (subjek) setelah waqf \"wa\"",
+        "irab_dan_logika": "Marfu' (dhamma) karena berfungsi sebagai mubtada'"
+      },
+      "hikmah": "Mengajak pendengar menimbang siapa yang lebih kuat persaksiannya",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "بَلَغَ",
+      "transliterasi": "balagha",
+      "jenis_kata": "Fi'il",
+      "arti": "menyampaikan, mencapai",
+      "sharaf": {
+        "akar_kata": "ل-غ-غ",
+        "makna_dasar": "mencapai, menyampaikan",
+        "wazan_perubahan": "fa'ala (bentuk dasar)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il madhi (kata kerja lampau) yang menjadi khabar (predikat)",
+        "irab_dan_logika": "Marfu' (dhamma) karena fi'il madhi مبني على الفتح"
+      },
+      "hikmah": "Menegaskan bahwa Allah telah menyampaikan peringatan kepada manusia",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf",
+      "arti": "tanda waqf (tanda berhenti)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Tidak termasuk dalam sintaks, berfungsi memisahkan bagian kalimat",
+        "irab_dan_logika": "Tidak berirab"
+      },
+      "hikmah": "Memberi jeda bagi pendengar untuk merenungkan makna sebelumnya",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "أَئِنَّكُمْ",
+      "transliterasi": "a'inna kum",
+      "jenis_kata": "Huruf",
+      "arti": "apakah kamu (dengan penegasan)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "حرف استفهام (أ) + حرف توكيد (إن) + ضمير متصل (كم) في محل نصب اسم إنّ",
+        "irab_dan_logika": "الإنّ حرف توكيد ونصب، فاسمها (أنتما/أنتم) منصوب وعلامة نصبه الفتحة، والضمير المتصل (كم) في محل جرّ إعرابي"
+      },
+      "hikmah": "Menyampaikan tantangan kepada orang-orang kafir untuk mengakui keesaan Allah",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "لَتَشْهَدُونَ",
+      "transliterasi": "latashhaduna",
+      "jenis_kata": "Fi'il",
+      "arti": "kamu akan bersaksi",
+      "sharaf": {
+        "akar_kata": "ش-ه-د",
+        "makna_dasar": "menyaksikan",
+        "wazan_perubahan": "فَعَلَ"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع بالضمة، واللام (لَ) حرف نفي أو تشديد",
+        "irab_dan_logika": "اللام هنا لام تشديد أو نفي، تجعل الفعل مضارعًا مرفوعًا بالضمة، والواو في نهايته للواو الجماعية (أنتم)"
+      },
+      "hikmah": "Allah menegaskan bahwa mereka tidak akan dapat memberi kesaksian yang menentang kebenaran Allah",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "أَنَّ",
+      "transliterasi": "*anna*",
+      "jenis_kata": "*huruf* (huruf takid/nasb)",
+      "arti": "*bahwa*",
+      "sharaf": {
+        "akar_kata": "*ن*",
+        "makna_dasar": "*menyatakan*",
+        "wazan_perubahan": "*tidak ada (kata partikel)*"
+      },
+      "nahwu": {
+        "kedudukan": "*huruf nasb* yang memperkenalkan جملة اسمية منصوبة",
+        "irab_dan_logika": "*huruf مبني على الفتح*; tidak berubah karena merupakan حرف نصب"
+      },
+      "hikmah": "*Menegaskan pernyataan yang akan diikuti, menandakan bahwa apa yang akan disebutkan adalah fakta yang pasti.*",
+      "role": "none"
+    },
+    {
+      "index": 25,
+      "kata_arab": "مَعَ",
+      "transliterasi": "*ma‘a*",
+      "jenis_kata": "*huruf* (huruf jar)",
+      "arti": "*dengan*",
+      "sharaf": {
+        "akar_kata": "*م-ع-*",
+        "makna_dasar": "*bersama, bersama-sama*",
+        "wazan_perubahan": "*tidak ada (kata partikel)*"
+      },
+      "nahwu": {
+        "kedudukan": "*huruf jar* yang menghubungkan kata benda sesudahnya",
+        "irab_dan_logika": "*huruf مبني على الفتح*; kata yang mengikutinya menjadi مجرور"
+      },
+      "hikmah": "*Menunjukkan hubungan kebersamaan atau kepemilikan antara Allah dan sesuatu yang lain.*",
+      "role": "none"
+    },
+    {
+      "index": 26,
+      "kata_arab": "ٱللَّهِ",
+      "transliterasi": "*Allahi*",
+      "jenis_kata": "*isim* (nama Allah)",
+      "arti": "*Allah*",
+      "sharaf": {
+        "akar_kata": "*ل-ه*",
+        "makna_dasar": "*Tuhan, Sang Pencipta*",
+        "wazan_perubahan": "*فَعْل*"
+      },
+      "nahwu": {
+        "kedudukan": "*isim* مجرور بحرف الجر *مَعَ*",
+        "irab_dan_logika": "*مجرور بالكسرة* karena berada setelah حرف جر"
+      },
+      "hikmah": "*Menegaskan keesaan dan kedudukan Allah sebagai Tuhan yang disertai dengan preposisi *dengan* menandakan kebersamaan dalam konteks ayat.*",
+      "role": "none"
+    },
+    {
+      "index": 27,
+      "kata_arab": "ءَالِهَةً",
+      "transliterasi": "*āhilatan*",
+      "jenis_kata": "*isim* (kata benda)",
+      "arti": "*dewa, berhala*",
+      "sharaf": {
+        "akar_kata": "*أ-ل-ه*",
+        "makna_dasar": "*menyembah, berhala*",
+        "wazan_perubahan": "*فَعِلَة*"
+      },
+      "nahwu": {
+        "kedudukan": "*mansoob* sebagai مفعول به من *مَعَ*",
+        "irab_dan_logika": "*منصوب بالفتحة* مع علامة تنوين لأنها مفردة مضافة إلى صفة"
+      },
+      "hikmah": "*Menyiratkan keberadaan makhluk yang disembah selain Allah, menegaskan konsep syirik.*",
+      "role": "none"
+    },
+    {
+      "index": 28,
+      "kata_arab": "أُخْرَىٰ",
+      "transliterasi": "*ukhra*",
+      "jenis_kata": "*isim* (kata sifat)",
+      "arti": "*lain*",
+      "sharaf": {
+        "akar_kata": "*خ-ر-*",
+        "makna_dasar": "*lain, selain*",
+        "wazan_perubahan": "*فَعْل*"
+      },
+      "nahwu": {
+        "kedudukan": "*sifat (نعت) للـ*آلِهَةً*",
+        "irab_dan_logika": "*منصوب بالفتحة* karena mengikuti isim منصوب"
+      },
+      "hikmah": "*Menambahkan penegasan bahwa berhala‑berhala itu bukan satu‑satunya, melainkan ada yang lain.*",
+      "role": "none"
+    },
+    {
+      "index": 29,
+      "kata_arab": "ۙ",
+      "transliterasi": "-",
+      "jenis_kata": "*tanda baca* (علامة وقف)",
+      "arti": "*tanda berhenti, akhir ayat*",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "*tidak termasuk dalam tata bahasa*",
+        "irab_dan_logika": "*tidak berharakat, berfungsi sebagai pemisah*"
+      },
+      "hikmah": "*Menandai berakhirnya ayat, memberi jeda bagi pembaca untuk merenungkan makna sebelumnya.*",
+      "role": "none"
+    },
+    {
+      "index": 30,
+      "kata_arab": "قُل",
+      "transliterasi": "qul",
+      "jenis_kata": "Fi'il",
+      "arti": "katakan",
+      "sharaf": {
+        "akar_kata": "ق-و-ل",
+        "makna_dasar": "mengatakan",
+        "wazan_perubahan": "فُعْل (past) → فُعْل (imperatif)"
+      },
+      "nahwu": {
+        "kedudukan": "kata perintah (imperatif) kepada pendengar",
+        "irab_dan_logika": "مرفوع بالضمة على اللام، فعل أمر مبني على السكون"
+      },
+      "hikmah": "*Menegaskan pentingnya menyampaikan kebenaran dengan suara yang jelas*",
+      "role": "none"
+    },
+    {
+      "index": 31,
+      "kata_arab": "لَّآ",
+      "transliterasi": "lā",
+      "jenis_kata": "Huruf",
+      "arti": "tidak",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "huruf negasi yang menolak kata kerja berikutnya",
+        "irab_dan_logika": "حرف نفي لا إعراب له، يسبق الفعل ليجعل الفعل منصوباً"
+      },
+      "hikmah": "*Menolak pernyataan yang akan diikuti, menegaskan penolakan*",
+      "role": "none"
+    },
+    {
+      "index": 32,
+      "kata_arab": "أَشْهَدُ",
+      "transliterasi": "ashhadu",
+      "jenis_kata": "Fi'il",
+      "arti": "saya bersaksi",
+      "sharaf": {
+        "akar_kata": "ش-ه-د",
+        "makna_dasar": "menyaksikan",
+        "wazan_perubahan": "أَفْعَل (bentuk mudhari)"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja 1st person singular, mudhari",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فعل مضارع مرفوع بالضمة"
+      },
+      "hikmah": "*Pernyataan kejujuran dan komitmen pribadi dalam bersaksi kepada Allah*",
+      "role": "none"
+    },
+    {
+      "index": 33,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Huruf",
+      "arti": "tanda berhenti",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca yang memisahkan ayat",
+        "irab_dan_logika": "tidak memiliki إعراب"
+      },
+      "hikmah": "*Memberi jeda bagi pendengar untuk merenungkan makna sebelumnya*",
+      "role": "none"
+    },
+    {
+      "index": 34,
+      "kata_arab": "قُلْ",
+      "transliterasi": "qul",
+      "jenis_kata": "Fi'il",
+      "arti": "katakan",
+      "sharaf": {
+        "akar_kata": "ق-و-ل",
+        "makna_dasar": "mengatakan",
+        "wazan_perubahan": "فُعْل (past) → فُعْل (imperatif)"
+      },
+      "nahwu": {
+        "kedudukan": "kata perintah (imperatif) kedua",
+        "irab_dan_logika": "مرفوع بالضمة على اللام، فعل أمر مبني على السكون"
+      },
+      "hikmah": "*Mengulangi seruan untuk menyampaikan kebenaran*",
+      "role": "none"
+    },
+    {
+      "index": 35,
+      "kata_arab": "إِنَّمَا",
+      "transliterasi": "innamā",
+      "jenis_kata": "Huruf",
+      "arti": "sesungguhnya hanya",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "huruf takwid yang memperkuat dan membatasi makna setelahnya",
+        "irab_dan_logika": "حرف توكيد وتخصيص، يتبعها اسم إنّ منصوب"
+      },
+      "hikmah": "*Menegaskan eksklusivitas kebenaran yang hanya berasal dari Allah*",
+      "role": "none"
+    },
+    {
+      "index": 36,
+      "kata_arab": "هُوَ",
+      "transliterasi": "huwa",
+      "jenis_kata": "Isim",
+      "arti": "dia (laki‑laki)",
+      "sharaf": {
+        "akar_kata": "ه-و-ي",
+        "makna_dasar": "menjadi, ada",
+        "wazan_perubahan": "kata maulid (isim dhat)"
+      },
+      "nahwu": {
+        "kedudukan": "kata ganti subjek (marfuʿ)",
+        "irab_dan_logika": "diberi ḍamma karena berfungsi sebagai مبتدأ مرفوع"
+      },
+      "hikmah": "menegaskan keberadaan Allah sebagai satu‑satunya Tuhan",
+      "role": "none"
+    },
+    {
+      "index": 37,
+      "kata_arab": "إِلَٰهٌۭ",
+      "transliterasi": "ilahun",
+      "jenis_kata": "Isim",
+      "arti": "tuhan, dewa",
+      "sharaf": {
+        "akar_kata": "أ-ل-ه",
+        "makna_dasar": "menyembah, menyatakan keilahian",
+        "wazan_perubahan": "إِفْعَال"
+      },
+      "nahwu": {
+        "kedudukan": "predikat (khabar) dalam kalimat \"هو إله واحد\"",
+        "irab_dan_logika": "diberi ḍamma karena berfungsi sebagai خبر مرفوع"
+      },
+      "hikmah": "menyatakan bahwa Allah adalah satu‑satunya ilah yang berhak disembah",
+      "role": "none"
+    },
+    {
+      "index": 38,
+      "kata_arab": "وَاحِدٌۭ",
+      "transliterasi": "wahidun",
+      "jenis_kata": "Isim",
+      "arti": "satu",
+      "sharaf": {
+        "akar_kata": "و-ح-د",
+        "makna_dasar": "kesatuan, keunikan",
+        "wazan_perubahan": "فَعِيل"
+      },
+      "nahwu": {
+        "kedudukan": "bagian dari predikat (khabar) \"إله واحد\"",
+        "irab_dan_logika": "diberi ḍamma karena merupakan خبر مرفوع yang menjelaskan إله"
+      },
+      "hikmah": "menegaskan keesaan Allah, tidak ada sekutu",
+      "role": "none"
+    },
+    {
+      "index": 39,
+      "kata_arab": "وَإِنَّنِى",
+      "transliterasi": "wa‑innani",
+      "jenis_kata": "Huruf",
+      "arti": "dan sesungguhnya aku",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "huruf penghubung (و) + حرف توكيد إنّ + ضمير متصل نِي, memperkuat pernyataan selanjutnya",
+        "irab_dan_logika": "إنّ حرف توكيد يجر الاسم ويجعل ما بعده منصوباً، sehingga نِي ber‑iʿrāb mansūb"
+      },
+      "hikmah": "menegaskan kejujuran pembicara dalam menyatakan keimanannya",
+      "role": "none"
+    },
+    {
+      "index": 40,
+      "kata_arab": "بَرِىٓءٌۭ",
+      "transliterasi": "bariun",
+      "jenis_kata": "Isim",
+      "arti": "bebas, tidak bersalah",
+      "sharaf": {
+        "akar_kata": "ب-ر-ء",
+        "makna_dasar": "kemurnian, kebebasan dari dosa",
+        "wazan_perubahan": "فَعِيل"
+      },
+      "nahwu": {
+        "kedudukan": "keterangan (حالة) yang menjelaskan keadaan pembicara setelah kata إنّ",
+        "irab_dan_logika": "diberi ḍamma karena menjadi خبر مرفوع setelah إنّ"
+      },
+      "hikmah": "menyatakan bahwa pembicara tidak terlibat dalam apa‑apa yang disekutukan dengan Allah",
+      "role": "none"
+    },
+    {
+      "index": 41,
+      "kata_arab": "مِّمَّا",
+      "transliterasi": "mimmā",
+      "jenis_kata": "Huruf",
+      "arti": "dari apa",
+      "sharaf": {
+        "akar_kata": "م-ن",
+        "makna_dasar": "dari, keluar dari",
+        "wazan_perubahan": "حرف جر"
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar yang menghubungkan kata sebelumnya dengan objek selanjutnya",
+        "irab_dan_logika": "مِـ حرف جر يجر ما بعده منصوباً"
+      },
+      "hikmah": "menunjukkan pemisahan diri pembicara dari segala bentuk syirik",
+      "role": "none"
+    },
+    {
+      "index": 42,
+      "kata_arab": "تُشْرِكُونَ",
+      "transliterasi": "tushrikūna",
+      "jenis_kata": "Fi'il (verb)",
+      "arti": "*kamu* (jamak) **menyekutukan** (Allah atau sesuatu yang lain)",
+      "sharaf": {
+        "akar_kata": "ش ر ك",
+        "makna_dasar": "menyekutkan, mempersekutukan",
+        "wazan_perubahan": "bentuk **فَعَلَ** (Form I) → present *tushrikūna* (2nd person masculine plural)"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il mudhari‘ (present tense) yang berada dalam koordinasi dengan *lā* (negasi)",
+        "irab_dan_logika": "**مجزوم** karena didahului oleh *lā*; harakat akhir **fatha** pada *نَ* menandakan jussive"
+      },
+      "hikmah": "Ayat menegaskan bahwa **menyekutukan Allah** adalah tindakan yang dilarang; dengan menolak *tushrikūna*, manusia mengakui keesaan Allah dan menolak segala bentuk **syirik**.",
+      "role": "none"
+    }
+  ]
+}

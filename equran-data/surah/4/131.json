@@ -1,0 +1,618 @@
+{
+  "surah": 4,
+  "ayah": 131,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "وَلِلَّهِ",
+      "transliterasi": "wa lillahi",
+      "jenis_kata": "Huruf (wa) + Isim (Allah) dengan huruf jar (li-)",
+      "arti": "dan (bagi) Allah",
+      "sharaf": {
+        "akar_kata": "ل-ه",
+        "makna_dasar": "milik, kepunyaan",
+        "wazan_perubahan": "tidak ada (nama Allah tetap)"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf sambung + preposisi yang memperkenalkan mudhaf ilaih (Allah) dalam frasa preposisional",
+        "irab_dan_logika": "مجرور بالكسرة لأن حرف الجر «لِ» يجر الاسم، فتُكتب «اللَّهِ» مكسورة"
+      },
+      "hikmah": "Menegaskan kepemilikan mutlak Allah atas segala sesuatu yang disebutkan selanjutnya.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "مَا",
+      "transliterasi": "mā",
+      "jenis_kata": "Isim (kata relatif/penanya)",
+      "arti": "apa",
+      "sharaf": {
+        "akar_kata": "م-ا",
+        "makna_dasar": "apa, sesuatu",
+        "wazan_perubahan": "tidak ada"
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada' dalam klausa nominal «مَا فِي السَّمَاوَاتِ» yang menjadi mudhaf setelah «لِلَّهِ»",
+        "irab_dan_logika": "مجرور بالكسرة لأن الجملة الاسمية بعد حرف الجر «لِ» تُجرّ بالكسرة"
+      },
+      "hikmah": "Menunjukkan bahwa segala yang ada di langit adalah milik Allah.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "فِى",
+      "transliterasi": "fī",
+      "jenis_kata": "Huruf (preposisi)",
+      "arti": "di, dalam",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar yang menghubungkan kata benda «السَّمَاوَاتِ» dengan «مَا»",
+        "irab_dan_logika": "حرف جر لا يتغير إعرابه"
+      },
+      "hikmah": "Menunjukkan lokasi keberadaan apa yang dimaksud, yaitu di dalam langit.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "ٱلسَّمَٰوَٰتِ",
+      "transliterasi": "as‑samāwāti",
+      "jenis_kata": "Isim (kata benda jamak)",
+      "arti": "langit‑langit",
+      "sharaf": {
+        "akar_kata": "س م و",
+        "makna_dasar": "langit",
+        "wazan_perubahan": "مَفْعُول (jamak مؤنث)"
+      },
+      "nahwu": {
+        "kedudukan": "Kata benda yang menjadi mudhaf (objek) dalam frasa «مَا فِي السَّمَاوَاتِ»",
+        "irab_dan_logika": "مجرور بالكسرة لأن حرف الجر «فِي» يجر الاسم، فتُكتب «السَّمَاوَاتِ» مكسورة"
+      },
+      "hikmah": "Menyiratkan kebesaran ciptaan Allah yang meliputi seluruh alam semesta.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "وَمَا",
+      "transliterasi": "wa mā",
+      "jenis_kata": "Huruf (wa) + Isim (ma)",
+      "arti": "dan apa",
+      "sharaf": {
+        "akar_kata": "م-ا",
+        "makna_dasar": "apa, sesuatu",
+        "wazan_perubahan": "tidak ada"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf sambung yang menghubungkan dua klausa nominal «مَا فِي السَّمَاوَاتِ» dan «مَا فِي الأَرْضِ»",
+        "irab_dan_logika": "«ما» بعد «و» tetap مجرور بالكسرة لأن الجملة التي تليه تابع لحرف الجر «لِ»"
+      },
+      "hikmah": "Menegaskan bahwa tidak hanya langit, tetapi juga bumi termasuk dalam kepemilikan Allah.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "فِى",
+      "transliterasi": "fī",
+      "jenis_kata": "Huruf (preposisi)",
+      "arti": "di, dalam",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar yang menghubungkan kata benda «الأَرْضِ» dengan «مَا» pada klausa kedua",
+        "irab_dan_logika": "حرف جر لا يتغير إعرابه"
+      },
+      "hikmah": "Menunjukkan lokasi keberadaan apa yang dimaksud pada bumi, melengkapi makna keseluruhan ayat.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "ٱلْأَرْضِ",
+      "transliterasi": "al-ʾarḍi",
+      "jenis_kata": "Isim (isim majrur)",
+      "arti": "bumi",
+      "sharaf": {
+        "akar_kata": "ر-ض-",
+        "makna_dasar": "tanah, permukaan bumi",
+        "wazan_perubahan": "فَعْل"
+      },
+      "nahwu": {
+        "kedudukan": "Isim majrur dalam frasa \"مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ\"",
+        "irab_dan_logika": "Majrur karena berjar (في) sehingga berkasra"
+      },
+      "hikmah": "Menegaskan bahwa seluruh bumi termasuk milik Allah, mengajarkan ketundukan total kepada Sang Pencipta.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "ۗ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda ayat (separator)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Penanda akhir ayat, tidak termasuk dalam sintaks kalimat",
+        "irab_dan_logika": "Tidak berirab karena bersifat grafis"
+      },
+      "hikmah": "Menandai jeda ayat, memberi ruang bagi pembaca untuk berhenti sejenak.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "وَلَقَدْ",
+      "transliterasi": "wa laqad",
+      "jenis_kata": "Huruf (harf wa + harf laqad)",
+      "arti": "dan sesungguhnya",
+      "sharaf": {
+        "akar_kata": "قَد",
+        "makna_dasar": "penegasan, menegaskan kebenaran",
+        "wazan_perubahan": "tidak berlaku (partikel)"
+      },
+      "nahwu": {
+        "kedudukan": "Harf yang mengawali kalimat, menegaskan pernyataan selanjutnya",
+        "irab_dan_logika": "Tidak berirab, berfungsi sebagai penegas"
+      },
+      "hikmah": "Memberi bobot kuat pada perintah Allah yang akan disebutkan selanjutnya.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "وَصَّيْنَا",
+      "transliterasi": "wa ṣayyānā",
+      "jenis_kata": "Fi'il (verb madhi)",
+      "arti": "dan Kami perintahkan",
+      "sharaf": {
+        "akar_kata": "و-ص-ى",
+        "makna_dasar": "memberi nasihat, memerintahkan",
+        "wazan_perubahan": "فَعَّ (fa‘‘ala)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il madhi 1 per. jamak, subjek tersirat \"Kami\"",
+        "irab_dan_logika": "Mabni (tidak berharakat) karena fi'il madhi"
+      },
+      "hikmah": "Allah menegaskan kewajiban taqwa kepada umat‑Nya melalui perintah yang tegas.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "ٱلَّذِينَ",
+      "transliterasi": "alladhīna",
+      "jenis_kata": "Isim (isim ishm, kata ganti relatif)",
+      "arti": "orang‑orang yang",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "penunjuk orang yang dimaksud",
+        "wazan_perubahan": "tidak berlaku (kata ganti)"
+      },
+      "nahwu": {
+        "kedudukan": "Isim ishm marfu' sebagai subjek fi'il \"أُوتُوا\"",
+        "irab_dan_logika": "Marfu' dengan dammah pada alif karena berfungsi sebagai nama"
+      },
+      "hikmah": "Menunjuk kepada kelompok yang telah menerima kitab, menegaskan keberlanjutan wahyu.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "أُوتُوا۟",
+      "transliterasi": "uṭū",
+      "jenis_kata": "Fi'il (verb madhi, pasif)",
+      "arti": "diberi",
+      "sharaf": {
+        "akar_kata": "أ-و-ت",
+        "makna_dasar": "memberi",
+        "wazan_perubahan": "فُعِلَ (passive)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il madhi 3 per. jamak, pasif, marfu'",
+        "irab_dan_logika": "Marfu' karena fi'il madhi, berakhiran alif + dammah, diikuti huruf waw sebagai tanda jamak"
+      },
+      "hikmah": "Allah memberi kitab kepada mereka, menegaskan bahwa semua ilmu berasal dari-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "ٱلْكِتَٰبَ",
+      "transliterasi": "al‑kitāba",
+      "jenis_kata": "Isim",
+      "arti": "buku, kitab",
+      "sharaf": {
+        "akar_kata": "ك ت ب",
+        "makna_dasar": "menulis, menuliskan",
+        "wazan_perubahan": "maktūb (bentuk pasif)"
+      },
+      "nahwu": {
+        "kedudukan": "mafʿūl (objek) setelah fiʿl amar *amarnā*",
+        "irab_dan_logika": "dengan harakat fathah karena berfungsi sebagai mafʿūl marfūʿ"
+      },
+      "hikmah": "menunjukkan bahwa perintah Allah meliputi pemeliharaan kitab suci sebagai pedoman umat",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "مِن",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "م ن",
+        "makna_dasar": "asal, sumber",
+        "wazan_perubahan": "preposisi"
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar setelah *al‑kitāba*",
+        "irab_dan_logika": "menyambung ke *qablikum* yang berjar (kasrah)"
+      },
+      "hikmah": "menyatakan hubungan temporal, yaitu perintah yang diberikan *sebelum* kalian",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "قَبْلِكُمْ",
+      "transliterasi": "qablikum",
+      "jenis_kata": "Isim",
+      "arti": "sebelum kalian",
+      "sharaf": {
+        "akar_kata": "ق ب ل",
+        "makna_dasar": "sebelum, pra‑",
+        "wazan_perubahan": "qabl + ʾiḍāfa (kumu)"
+      },
+      "nahwu": {
+        "kedudukan": "mudāraj (isim majrur) setelah *min*",
+        "irab_dan_logika": "dengan harakat kasrah karena berjar"
+      },
+      "hikmah": "menegaskan bahwa perintah Allah telah diberikan kepada umat‑umat terdahulu sebelum kalian",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "وَإِيَّاكُمْ",
+      "transliterasi": "wa‑iyyākum",
+      "jenis_kata": "Isim",
+      "arti": "dan kepadamu (semua)",
+      "sharaf": {
+        "akar_kata": "ي و ك",
+        "makna_dasar": "kamu (jamak)",
+        "wazan_perubahan": "ʾiʿyāra bi‑ḥarf al‑waṣl wa‑ʾiʿyāra bi‑ḥarf al‑ʿiẓām"
+      },
+      "nahwu": {
+        "kedudukan": "mafʿūl (objek) yang diparalel dengan *al‑kitāba*",
+        "irab_dan_logika": "dengan harakat fathah karena berfungsi sebagai mafʿūl marfūʿ"
+      },
+      "hikmah": "menyertakan umatmu dalam lingkup perintah yang sama, menegaskan inklusivitas",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "أَنِ",
+      "transliterasi": "an",
+      "jenis_kata": "Huruf",
+      "arti": "bahwa, agar",
+      "sharaf": {
+        "akar_kata": "أ ن",
+        "makna_dasar": "menyatakan tujuan atau sebab",
+        "wazan_perubahan": "huruf ʿaqd"
+      },
+      "nahwu": {
+        "kedudukan": "huruf nasb yang menghubungkan *wa‑iyyākum* dengan fiʿl *ittaqu*",
+        "irab_dan_logika": "tidak berharakat karena huruf"
+      },
+      "hikmah": "menunjukkan tujuan perintah: *agar* kamu bertakwa",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "ٱتَّقُوا۟",
+      "transliterasi": "ittaqu",
+      "jenis_kata": "Fiʿl",
+      "arti": "bertakwalah (perintah)",
+      "sharaf": {
+        "akar_kata": "ق و ف",
+        "makna_dasar": "takut, menghormati",
+        "wazan_perubahan": "iftāʿala (imperatif)"
+      },
+      "nahwu": {
+        "kedudukan": "fiʿl amar (imperatif) 2 mp",
+        "irab_dan_logika": "tidak berharakat karena bentuk perintah"
+      },
+      "hikmah": "intisari ajaran: ketakwaan adalah inti kepemilikan Allah atas segala sesuatu",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "ٱللَّهَ",
+      "transliterasi": "Allaha",
+      "jenis_kata": "Isim",
+      "arti": "Allah (Tuhan)",
+      "sharaf": {
+        "akar_kata": "أ ل ه",
+        "makna_dasar": "Tuhan",
+        "wazan_perubahan": "Ism mufrad"
+      },
+      "nahwu": {
+        "kedudukan": "Objek (mafʿul bih) dalam perintah *ʿbudu*",
+        "irab_dan_logika": "Berharakat ḍamma karena berkasdar (nasb) sebagai mafʿul bih"
+      },
+      "hikmah": "Menegaskan bahwa penyembahan ditujukan hanya kepada Allah, menyingkirkan segala sekutu.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Harakat/Simbol",
+      "arti": "Tanda berhenti (waqf)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Penanda akhir ayat, tidak berirab",
+        "irab_dan_logika": "Tidak memiliki harakat karena berfungsi sebagai tanda baca"
+      },
+      "hikmah": "Memberi jeda bagi pembaca untuk merenungkan makna ayat sebelum melanjutkan.",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "وَإِن",
+      "transliterasi": "wa‑in",
+      "jenis_kata": "Huruf",
+      "arti": "dan jika",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf sambung (ʿʿirbiyyah) yang menghubungkan dua klausa",
+        "irab_dan_logika": "Tidak berharakat karena berfungsi sebagai huruf sambung"
+      },
+      "hikmah": "Menyiratkan kondisi alternatif, menyiapkan pembaca pada konsekuensi bila menolak kebenaran.",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "تَكْفُرُوا۟",
+      "transliterasi": "takfuru",
+      "jenis_kata": "Fiʿil",
+      "arti": "kamu kafir",
+      "sharaf": {
+        "akar_kata": "ك ف ر",
+        "makna_dasar": "menolak kepercayaan",
+        "wazan_perubahan": "فَعَلَ (faʿala)"
+      },
+      "nahwu": {
+        "kedudukan": "Fiʿil mudhariʿ (present) orang kedua jamak, bentuk majzum setelah *fa‑inna*",
+        "irab_dan_logika": "Berharakat ḍamma pada huruf terakhir (و) menandakan bentuk mudhariʿ majzum"
+      },
+      "hikmah": "Menggambarkan konsekuensi spiritual bila manusia menolak iman, menegaskan pilihan moral yang jelas.",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "فَإِنَّ",
+      "transliterasi": "fa‑inna",
+      "jenis_kata": "Huruf",
+      "arti": "maka sesungguhnya",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf penguat (ʿʿirbiyyah) yang memperkenalkan kalimat nominal *inna*",
+        "irab_dan_logika": "Tidak berharakat karena berfungsi sebagai huruf penghubung"
+      },
+      "hikmah": "Menegaskan kepastian dan penegasan Allah atas apa yang akan disebutkan selanjutnya.",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "مَا",
+      "transliterasi": "mā",
+      "jenis_kata": "Isim",
+      "arti": "apa",
+      "sharaf": {
+        "akar_kata": "م-ا",
+        "makna_dasar": "apa",
+        "wazan_perubahan": "tidak ada"
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada' (subjek) dalam kalimat nominal",
+        "irab_dan_logika": "مرفوع بالضمة karena berfungsi sebagai مبتدأ"
+      },
+      "hikmah": "Menegaskan bahwa segala sesuatu yang ada di langit dan bumi adalah milik Allah",
+      "role": "none"
+    },
+    {
+      "index": 25,
+      "kata_arab": "فِي",
+      "transliterasi": "fī",
+      "jenis_kata": "Huruf",
+      "arti": "di",
+      "sharaf": {
+        "akar_kata": "ف-ي",
+        "makna_dasar": "di, berada di",
+        "wazan_perubahan": "tidak ada"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar yang menghubungkan مَا dengan السَّمَاوَاتِ",
+        "irab_dan_logika": "حرف جر لا إعراب له، يجر ما بعده إلى الجرّ بالكسرة"
+      },
+      "hikmah": "Menunjukkan hubungan tempat antara apa dan langit",
+      "role": "none"
+    },
+    {
+      "index": 26,
+      "kata_arab": "ٱلسَّمَٰوَٰتِ",
+      "transliterasi": "as-samāwāti",
+      "jenis_kata": "Isim",
+      "arti": "langit (jamak)",
+      "sharaf": {
+        "akar_kata": "س-م-و",
+        "makna_dasar": "langit",
+        "wazan_perubahan": "فَعَالَة (jamak مؤنث سالم)"
+      },
+      "nahwu": {
+        "kedudukan": "Khabar (predikat) dalam kalimat nominal \"مَا فِي السَّمَاوَاتِ\"",
+        "irab_dan_logika": "مجرور بالكسرة لأنه مجرور بحرف الجر \"فِي\""
+      },
+      "hikmah": "Menggambarkan kebesaran ciptaan Allah di alam langit",
+      "role": "none"
+    },
+    {
+      "index": 27,
+      "kata_arab": "وَمَا",
+      "transliterasi": "wa-mā",
+      "jenis_kata": "Isim",
+      "arti": "dan apa",
+      "sharaf": {
+        "akar_kata": "م-ا",
+        "makna_dasar": "apa",
+        "wazan_perubahan": "tidak ada"
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada' kedua, dipisahkan dengan huruf \"و\" sebagai عطف",
+        "irab_dan_logika": "مرفوع بالضمة karena berfungsi sebagai مبتدأ baru yang dihubungkan dengan sebelumnya"
+      },
+      "hikmah": "Menegaskan kembali bahwa segala sesuatu di bumi juga milik Allah",
+      "role": "none"
+    },
+    {
+      "index": 28,
+      "kata_arab": "فِي",
+      "transliterasi": "fī",
+      "jenis_kata": "Huruf",
+      "arti": "di",
+      "sharaf": {
+        "akar_kata": "ف-ي",
+        "makna_dasar": "di, berada di",
+        "wazan_perubahan": "tidak ada"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar yang menghubungkan مَا dengan الْأَرْضِ",
+        "irab_dan_logika": "حرف جر لا إعراب له، يجر ما بعده إلى الجرّ بالكسرة"
+      },
+      "hikmah": "Menunjukkan hubungan tempat antara apa dan bumi",
+      "role": "none"
+    },
+    {
+      "index": 29,
+      "kata_arab": "ٱلْأَرْضِ",
+      "transliterasi": "al-arḍi",
+      "jenis_kata": "Isim",
+      "arti": "bumi",
+      "sharaf": {
+        "akar_kata": "ر-ض",
+        "makna_dasar": "tanah, bumi",
+        "wazan_perubahan": "فَعْل (tunggal)"
+      },
+      "nahwu": {
+        "kedudukan": "Khabar (predikat) dalam kalimat nominal \"مَا فِي الْأَرْضِ\"",
+        "irab_dan_logika": "مجرور بالكسرة لأنه مجرور بحرف الجر \"فِي\""
+      },
+      "hikmah": "Menegaskan bahwa seluruh bumi, sebagai tempat tinggal makhluk, berada dalam kepemilikan Allah",
+      "role": "none"
+    },
+    {
+      "index": 30,
+      "kata_arab": "ۚ",
+      "transliterasi": "sukūn",
+      "jenis_kata": "Huruf",
+      "arti": "tanda berhenti atau jeda",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca, tidak termasuk dalam sintaks kalimat",
+        "irab_dan_logika": "tidak berirab karena bukan kata"
+      },
+      "hikmah": "*Menandai jeda bacaan, memberi kesempatan bagi pendengar merenungkan makna sebelumnya.*",
+      "role": "none"
+    },
+    {
+      "index": 31,
+      "kata_arab": "وَكَانَ",
+      "transliterasi": "wa‑kāna",
+      "jenis_kata": "Fi'il",
+      "arti": "dan (Dia) adalah",
+      "sharaf": {
+        "akar_kata": "ك و ن",
+        "makna_dasar": "ada, menjadi",
+        "wazan_perubahan": "فَعَلَ (past)"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja (verb) dalam bentuk lampau, berfungsi sebagai predikat (khabar) setelah huruf وَ",
+        "irab_dan_logika": "marfu' dengan dhammah karena fi'il madhi"
+      },
+      "hikmah": "*Menegaskan sifat Allah sebagai Maha Kaya dan Maha Terpuji, menambah kejelasan hubungan antara subjek dan predikat.*",
+      "role": "none"
+    },
+    {
+      "index": 32,
+      "kata_arab": "ٱللَّهُ",
+      "transliterasi": "Allāhu",
+      "jenis_kata": "Isim",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "أ ل ه",
+        "makna_dasar": "Tuhan, Sang Pencipta",
+        "wazan_perubahan": "مُفَعَّل"
+      },
+      "nahwu": {
+        "kedudukan": "مبتدأ (subject) kalimat",
+        "irab_dan_logika": "marfu' dengan dhammah karena menjadi مبتدأ"
+      },
+      "hikmah": "*Sebagai subjek utama, menegaskan bahwa segala kepemilikan di langit dan bumi adalah milik Allah.*",
+      "role": "none"
+    },
+    {
+      "index": 33,
+      "kata_arab": "غَنِيًّا",
+      "transliterasi": "ghanīyyan",
+      "jenis_kata": "Isim",
+      "arti": "yang kaya",
+      "sharaf": {
+        "akar_kata": "غ ن ي",
+        "makna_dasar": "kekayaan, tidak membutuhkan",
+        "wazan_perubahan": "فَعِيل"
+      },
+      "nahwu": {
+        "kedudukan": "خبر (predikat) setelah كان, dalam keadaan منصوب",
+        "irab_dan_logika": "nasb dengan tanwin fatha (ً) karena menjadi خبر"
+      },
+      "hikmah": "*Menunjukkan sifat Allah yang tidak memerlukan apa pun, Maha Kaya.*",
+      "role": "none"
+    },
+    {
+      "index": 34,
+      "kata_arab": "حَمِيدًۭا",
+      "transliterasi": "ḥamīdan",
+      "jenis_kata": "Isim",
+      "arti": "yang terpuji",
+      "sharaf": {
+        "akar_kata": "ح م د",
+        "makna_dasar": "memuji, terpuji",
+        "wazan_perubahan": "فَعِيل"
+      },
+      "nahwu": {
+        "kedudukan": "bagian dari خبر ma'ruf bersama غَنِيًّا, dalam keadaan منصوب",
+        "irab_dan_logika": "nasb dengan tanwin fatha (ً) karena menjadi bagian dari predikat"
+      },
+      "hikmah": "*Menambah sifat Allah sebagai Maha Terpuji, melengkapi makna kekayaan-Nya dengan keagungan moral.*",
+      "role": "none"
+    }
+  ]
+}

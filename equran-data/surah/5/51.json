@@ -1,0 +1,402 @@
+{
+  "surah": 5,
+  "ayah": 51,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "يَٰٓأَيُّهَا",
+      "transliterasi": "yā ayyuhā",
+      "jenis_kata": "Huruf",
+      "arti": "hai (panggilan)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf seru (vocative) yang mendahului kata yang disapa",
+        "irab_dan_logika": "Tidak berharakat karena huruf, mengikat kata berikutnya"
+      },
+      "hikmah": "Menunjukkan seruan Allah kepada umat beriman dengan nada panggilan yang penuh penghormatan",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "ٱلَّذِينَ",
+      "transliterasi": "alladhīna",
+      "jenis_kata": "Isim",
+      "arti": "orang‑orang yang",
+      "sharaf": {
+        "akar_kata": "l‑dh‑n",
+        "makna_dasar": "yang, orang yang",
+        "wazan_perubahan": "isim maushul"
+      },
+      "nahwu": {
+        "kedudukan": "Isim maushul (kata ganti relatif) yang menjadi subjek",
+        "irab_dan_logika": "Marfu' karena berfungsi sebagai mubtada' (dengan dammah)"
+      },
+      "hikmah": "Menegaskan bahwa perintah ini ditujukan kepada semua orang beriman secara kolektif",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "ءَامَنُوا۟",
+      "transliterasi": "āmānū",
+      "jenis_kata": "Fi'il",
+      "arti": "beriman",
+      "sharaf": {
+        "akar_kata": "ʾ‑m‑n",
+        "makna_dasar": "aman, percaya",
+        "wazan_perubahan": "fiʿl māḍī thulāthī mujarred"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il māḍī (kata kerja lampau) jamak maskulin",
+        "irab_dan_logika": "Marfu' dengan dammah karena fiʿl māḍī"
+      },
+      "hikmah": "Menyiratkan bahwa keimanan adalah syarat utama sebelum melaksanakan perintah selanjutnya",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "لَا",
+      "transliterasi": "lā",
+      "jenis_kata": "Huruf",
+      "arti": "jangan",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf nashī (penyangkalan) yang menghalangi fi'il berikutnya",
+        "irab_dan_logika": "Tidak berharakat, berfungsi meniadakan makna positif fi'il"
+      },
+      "hikmah": "Memberi perintah tegas untuk tidak melakukan tindakan yang dilarang",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "تَتَّخِذُوا۟",
+      "transliterasi": "tattakhidhū",
+      "jenis_kata": "Fi'il",
+      "arti": "mengambil, menjadikan",
+      "sharaf": {
+        "akar_kata": "kh‑dh‑d",
+        "makna_dasar": "mengambil, menjadikan",
+        "wazan_perubahan": "fiʿl muḍāriʿ majmūʿ"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il muḍāriʿ (kata kerja sekarang) jamak maskulin",
+        "irab_dan_logika": "Marfu' dengan dammah karena fiʿl muḍāriʿ"
+      },
+      "hikmah": "Menegaskan larangan mengambil orang Yahudi atau Nasrani sebagai pemimpin",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "ٱلْيَهُودَ",
+      "transliterasi": "al‑yahūda",
+      "jenis_kata": "Isim",
+      "arti": "Yahudi",
+      "sharaf": {
+        "akar_kata": "y‑h‑d",
+        "makna_dasar": "orang Yahudi",
+        "wazan_perubahan": "isim mufrad"
+      },
+      "nahwu": {
+        "kedudukan": "Mafʿūl bih (objek) setelah fi'il",
+        "irab_dan_logika": "Munṣab bi‑fatḥah karena menjadi mafʿūl"
+      },
+      "hikmah": "Menunjukkan kelompok yang dilarang dijadikan pemimpin karena perbedaan keimanan",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "وَٱلنَّصَٰرَىٰٓ",
+      "transliterasi": "wa al-nasara",
+      "jenis_kata": "Huruf",
+      "arti": "dan orang‑orang Nasrani",
+      "sharaf": {
+        "akar_kata": "ن ص ر",
+        "makna_dasar": "menolong, pertolongan",
+        "wazan_perubahan": "al‑ + isim (nasara)"
+      },
+      "nahwu": {
+        "kedudukan": "objek (mansub) dari fi'il *tattakhidhu*, berkoordinasi dengan يَهُودًا",
+        "irab_dan_logika": "مُنصَب بالفتحة karena berfungsi sebagai مفعول به"
+      },
+      "hikmah": "Menunjukkan bahwa orang Nasrani disebut bersama Yahudi sebagai kelompok yang tidak boleh dijadikan pemimpin, menekankan batasan sosial‑politik dalam konteks keimanan.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "أَوْلِيَآءَ",
+      "transliterasi": "awliyaa",
+      "jenis_kata": "Isim",
+      "arti": "penolong, sahabat, pemimpin",
+      "sharaf": {
+        "akar_kata": "و ل ي",
+        "makna_dasar": "menjadi dekat, melindungi, memelihara",
+        "wazan_perubahan": "jamak maskulin taksir dari *wali*"
+      },
+      "nahwu": {
+        "kedudukan": "objek (mansub) dari fi'il *tattakhidhu*",
+        "irab_dan_logika": "مُنصَب بالفتحة karena berfungsi sebagai مفعول به"
+      },
+      "hikmah": "Menggambarkan konsep *wali* sebagai orang yang dapat dijadikan pemimpin atau pelindung, yang dalam ayat ini dilarang dijadikan pemimpin bagi orang beriman.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "ۘ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda jeda",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca yang memisahkan dua bagian kalimat",
+        "irab_dan_logika": "tidak memiliki i'rab karena bukan kata"
+      },
+      "hikmah": "Memberi jeda untuk menekankan perbedaan antara klausa pertama dan kedua, sehingga makna \"sebagian mereka adalah pemimpin bagi sebagian yang lain\" lebih jelas.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "بَعْضُهُمْ",
+      "transliterasi": "ba'dhuhum",
+      "jenis_kata": "Isim",
+      "arti": "sebagian mereka",
+      "sharaf": {
+        "akar_kata": "ب ع ض",
+        "makna_dasar": "sebagian, sebagian kecil",
+        "wazan_perubahan": "isim mudhari"
+      },
+      "nahwu": {
+        "kedudukan": "subjek (marfu') dalam kalimat nominal *ba'dhuhum awliyaa'u ba'din*",
+        "irab_dan_logika": "مرفوع بالضمة karena menjadi مبتدأ"
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "ۚ",
+      "transliterasi": "saktah",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda jeda/berhenti",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Pemutus ayat, memisahkan dua bagian kalimat",
+        "irab_dan_logika": "Tidak memiliki harakat karena merupakan tanda baca, berfungsi memberi jeda untuk menekankan makna sebelumnya"
+      },
+      "hikmah": "Menandakan akhir dari pernyataan tentang hubungan sesama, memberi ruang bagi penegasan selanjutnya",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "وَمَن",
+      "transliterasi": "wa‑man",
+      "jenis_kata": "Huruf (wa) + Isim (man)",
+      "arti": "dan siapa",
+      "sharaf": {
+        "akar_kata": "م‑ن",
+        "makna_dasar": "siapa",
+        "wazan_perubahan": "penambahan huruf wa di depan untuk menghubungkan"
+      },
+      "nahwu": {
+        "kedudukan": "Kata sambung (wa) yang memperkenalkan klausa bersyarat",
+        "irab_dan_logika": "مَن مرفوع بالضمة لأنه اسم موصول مبني على السكون، والواو حرف عطف لا إعراب له"
+      },
+      "hikmah": "Mengajak pembaca menanyakan siapa yang mengambil mereka sebagai pemimpin, menegaskan syarat selanjutnya",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "يَتَوَلَّهُم",
+      "transliterasi": "yatawallahum",
+      "jenis_kata": "Fi'il (verb) mudhari‘",
+      "arti": "menjadikan mereka (sebagai) pelindung/penjaga",
+      "sharaf": {
+        "akar_kata": "و‑ل‑ي",
+        "makna_dasar": "menjaga, melindungi, memelihara",
+        "wazan_perubahan": "yaf‘alu (يَتَفَعَّل) dengan huruf alif pada akhir untuk menambah makna transitif"
+      },
+      "nahwu": {
+        "kedudukan": "Predikat (fi‘l) dalam klausa bersyarat",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فعل مضارع مرفوع بالضمة الظاهرة، والهاء ضمير متصل في محل نصب مفعول به"
+      },
+      "hikmah": "Menunjukkan tindakan mengambil orang Yahudi/Nasrani sebagai pelindung, yang secara implisit menolak kepercayaan kepada Allah",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "مِّنكُمْ",
+      "transliterasi": "minkum",
+      "jenis_kata": "Huruf (preposisi) + Isim (kata ganti)",
+      "arti": "dari kamu",
+      "sharaf": {
+        "akar_kata": "م‑ن",
+        "makna_dasar": "dari",
+        "wazan_perubahan": "preposisi من مع إضافة الضمير المتصل كُم"
+      },
+      "nahwu": {
+        "kedudukan": "Kata depan (jar) yang menunjukkan asal atau sumber",
+        "irab_dan_logika": "من حرف جر، والكلمة التي تليه (كم) ضمير متصل في محل جر"
+      },
+      "hikmah": "Menegaskan bahwa tindakan mengambil mereka sebagai pemimpin berasal dari kalangan Muslim sendiri",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "فَإِنَّهُۥ",
+      "transliterasi": "fa‑innahu",
+      "jenis_kata": "Huruf (fa, inna) + Isim (hu)",
+      "arti": "maka sesungguhnya dia",
+      "sharaf": {
+        "akar_kata": "أ‑ن‑ن",
+        "makna_dasar": "sesungguhnya, memang",
+        "wazan_perubahan": "حرف مشبه بالإنّ لتوكيد الجملة"
+      },
+      "nahwu": {
+        "kedudukan": "حرف عطف (fa) + حرف توكيد (inna) مع الضمير المتصل هو",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "Memberi penegasan kuat bahwa siapa pun yang mengambil mereka sebagai pemimpin termasuk dalam golongan mereka",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "مِنْهُمْ",
+      "transliterasi": "minhum",
+      "jenis_kata": "Huruf (preposisi) + Isim (kata ganti)",
+      "arti": "dari mereka",
+      "sharaf": {
+        "akar_kata": "م‑ن",
+        "makna_dasar": "dari",
+        "wazan_perubahan": "preposisi من مع ضمير متصل هم"
+      },
+      "nahwu": {
+        "kedudukan": "Kata depan (jar) yang melengkapi predikat sebelumnya",
+        "irab_dan_logika": "من حرف جر، والهاء ضمير متصل في محل جر، يوضح أن orang yang mengambil mereka menjadi pemimpin termasuk dalam golongan mereka"
+      },
+      "hikmah": "Menegaskan konsekuensi: siapa yang mengambil mereka sebagai pemimpin, pada dasarnya berada dalam kelompok yang sama dengan mereka (yaitu orang zalim)",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "ۗ",
+      "transliterasi": "‌",
+      "jenis_kata": "Huruf",
+      "arti": "tanda waqf (istirahat)",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca, memisahkan bagian ayat",
+        "irab_dan_logika": "menandakan jeda waqf, tidak berharakat"
+      },
+      "hikmah": "Menunjukkan batas bacaan, memberi kesempatan bagi pendengar merenungkan makna sebelumnya",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "إِنَّ",
+      "transliterasi": "inna",
+      "jenis_kata": "Huruf",
+      "arti": "sesungguhnya",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "huruf muqaddam (penegas) di awal kalimat",
+        "irab_dan_logika": "menyebabkan isim yang mengikutinya (Allah) menjadi منصوب"
+      },
+      "hikmah": "Penegasan bahwa apa yang akan disebutkan selanjutnya adalah fakta yang tidak dapat diperdebatkan",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "لَا",
+      "transliterasi": "lā",
+      "jenis_kata": "Huruf",
+      "arti": "tidak",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "huruf nakirah (negasi) sebelum fi'il",
+        "irab_dan_logika": "menyebabkan fi'il berikutnya (يَهْدِي) menjadi جزم (jussive)"
+      },
+      "hikmah": "Menegaskan penolakan, bahwa Allah tidak memberi petunjuk",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "يَهْدِى",
+      "transliterasi": "yahdī",
+      "jenis_kata": "Fi'il",
+      "arti": "menunjukkan jalan, memberi petunjuk",
+      "sharaf": {
+        "akar_kata": "ه د ي",
+        "makna_dasar": "menunjuk, memberi petunjuk",
+        "wazan_perubahan": "فَعَلَ (fa‘ala) – bentuk mudhari‘ majzum"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il majzum setelah لَا",
+        "irab_dan_logika": "jussive (مجزوم) karena terlarang oleh لَا, berharakat sukun pada ya"
+      },
+      "hikmah": "Allah tidak akan menuntun orang-orang yang zalim ke jalan yang benar",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "ٱلْقَوْمَ",
+      "transliterasi": "al‑qawma",
+      "jenis_kata": "Isim",
+      "arti": "kaum, orang‑orang",
+      "sharaf": {
+        "akar_kata": "ق و م",
+        "makna_dasar": "bangkit, berdiri",
+        "wazan_perubahan": "فَعْلًا (fa‘lan) – isim"
+      },
+      "nahwu": {
+        "kedudukan": "maf‘ul bih (objek) dari fi'il يَهْدِى",
+        "irab_dan_logika": "مَنْصُوب karena menjadi objek fi'il"
+      },
+      "hikmah": "Orang‑orang (kaum) yang zalim tidak akan mendapat petunjuk dari Allah",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "ٱلظَّٰلِمِينَ",
+      "transliterasi": "aẓ-ẓālimīn",
+      "jenis_kata": "Isim (isim fa‘il)",
+      "arti": "orang‑orang yang menzalimi / orang‑orang yang zalim",
+      "sharaf": {
+        "akar_kata": "ظ ل م",
+        "makna_dasar": "menzalimi, menganiaya",
+        "wazan_perubahan": "fa‘il (aktif) + ‑īn (jamak mansub)"
+      },
+      "nahwu": {
+        "kedudukan": "objek (مفعول به) dari fi‘il \"yahdi\"",
+        "irab_dan_logika": "مُنصَب بالكسرة لأنّها مفعول به منصوب بالفتحة الأصلية وتظهر كسرة بسبب النون الساكنة"
+      },
+      "hikmah": "Allah tidak memberi petunjuk kepada mereka yang terus melakukan kezaliman; menegaskan bahaya sifat zalim dalam kehidupan beriman.",
+      "role": "none"
+    }
+  ]
+}

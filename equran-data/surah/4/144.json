@@ -1,0 +1,294 @@
+{
+  "surah": 4,
+  "ayah": 144,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "يَٰٓأَيُّهَا",
+      "transliterasi": "yā ayyuhā",
+      "jenis_kata": "Huruf",
+      "arti": "Hai (panggilan)",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "Tidak ada akar karena merupakan huruf seruan",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf seruan (panggilan) yang mendahului isim",
+        "irab_dan_logika": "Tidak berharakat karena berfungsi sebagai **huruf**; menandakan seruan kepada pendengar"
+      },
+      "hikmah": "Menunjukkan ajakan langsung kepada orang beriman, menegaskan pentingnya perhatian penuh terhadap apa yang akan disampaikan.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "ٱلَّذِينَ",
+      "transliterasi": "alladhīna",
+      "jenis_kata": "Isim",
+      "arti": "orang‑orang yang",
+      "sharaf": {
+        "akar_kata": "ذ‑و‑ن",
+        "makna_dasar": "yang memiliki, yang berhubungan",
+        "wazan_perubahan": "الـ + ذِي + alif + ن (isim maushul)"
+      },
+      "nahwu": {
+        "kedudukan": "Isim maushul yang berfungsi sebagai **mubtada’** (subjek) dalam kalimat",
+        "irab_dan_logika": "Marfu' dengan ḍamma karena berada di posisi subjek dan diikuti fi'il madhi"
+      },
+      "hikmah": "Menunjuk kepada sekumpulan orang beriman secara kolektif, menegaskan bahwa perintah ini ditujukan kepada seluruh komunitas.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "ءَامَنُوا۟",
+      "transliterasi": "āmanū",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka beriman",
+      "sharaf": {
+        "akar_kata": "أ م ن",
+        "makna_dasar": "amanah, percaya, yakin",
+        "wazan_perubahan": "فعل ماضٍ ثلاثي مُعَلَّم (فَعَلَ) – bentuk 3rd person plural"
+      },
+      "nahwu": {
+        "kedudukan": "Predikat (fi'il madhi) yang menyatakan keadaan subjek",
+        "irab_dan_logika": "Marfu' dengan ḍamma karena fi'il madhi"
+      },
+      "hikmah": "Menegaskan bahwa orang‑orang yang dimaksud telah berada dalam keadaan beriman, sehingga perintah selanjutnya relevan bagi mereka.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "لَا",
+      "transliterasi": "lā",
+      "jenis_kata": "Huruf",
+      "arti": "jangan",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "Negasi",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf nasb (negasi) yang mendahului fi'il amar",
+        "irab_dan_logika": "Tidak berharakat; berfungsi meniadakan makna positif pada kata kerja berikutnya"
+      },
+      "hikmah": "Memberi perintah tegas untuk tidak melakukan tindakan yang akan disebutkan selanjutnya.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "تَتَّخِذُوا۟",
+      "transliterasi": "tattakhidhū",
+      "jenis_kata": "Fi'il",
+      "arti": "kamu mengambil (menjadikan) sebagai wali",
+      "sharaf": {
+        "akar_kata": "خ ذ ر",
+        "makna_dasar": "mengambil, memegang",
+        "wazan_perubahan": "فعل مضارع مرفوع بالضمة (تَفَعَّل) – bentuk V"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il amar (perintah) yang diikuti huruf nasb لَا",
+        "irab_dan_logika": "Marfu' dengan ḍamma karena fi'il amar"
+      },
+      "hikmah": "Mengajak orang beriman untuk tidak menjadikan orang kafir sebagai pelindung atau sekutu, menegaskan prioritas kesetiaan kepada Allah dan sesama mukmin.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "ٱلْكَٰفِرِينَ",
+      "transliterasi": "al‑kāfirīna",
+      "jenis_kata": "Isim",
+      "arti": "orang‑orang kafir",
+      "sharaf": {
+        "akar_kata": "ك ف ر",
+        "makna_dasar": "menolak iman",
+        "wazan_perubahan": "اسم جمع مذكر سالم (مفعول به) – bentuk فَعِل"
+      },
+      "nahwu": {
+        "kedudukan": "Maf‘ūl (objek) dari fi'il amar تَتَّخِذُوا۟",
+        "irab_dan_logika": "Munṣab bi‑kasrah karena menjadi مفعول به"
+      },
+      "hikmah": "Menegaskan bahwa orang kafir tidak boleh dijadikan sekutu; perintah ini melindungi kemurnian keimanan dan persaudaraan di antara mukmin.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "أَوْلِيَآءَ",
+      "transliterasi": "awliāʾa",
+      "jenis_kata": "Isim (kata benda)",
+      "arti": "*wali*, pelindung, sahabat",
+      "sharaf": {
+        "akar_kata": "و-ل-ي",
+        "makna_dasar": "berkuasa, melindungi, menjadi sahabat",
+        "wazan_perubahan": "جمع مذكر سالم (أَوْلِيَاءُ)"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به منصوب من فعل **لا تتخذوا**",
+        "irab_dan_logika": "منصوب بالفتحة لأن الفعل أمر نهي (لا تتخذوا)"
+      },
+      "hikmah": "Menegaskan bahwa orang beriman tidak boleh menjadikan orang kafir sebagai pelindung atau sekutu yang menggantikan kepercayaan kepada Allah.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "مِن",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf (preposisi)",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر يسبق اسمًا مجرورًا",
+        "irab_dan_logika": "حرف جر لا يُعرب، يجر ما بعده إلى حالة الجر"
+      },
+      "hikmah": "Menunjukkan hubungan kepemilikan atau asal‑usul, di sini berarti “dari” kelompok tertentu.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "دُونِ",
+      "transliterasi": "dūni",
+      "jenis_kata": "Isim (kata benda)",
+      "arti": "selain, di luar",
+      "sharaf": {
+        "akar_kata": "د-و-ن",
+        "makna_dasar": "kurang, di bawah, tidak termasuk",
+        "wazan_perubahan": "فَعْل"
+      },
+      "nahwu": {
+        "kedudukan": "اسم مجرور بحرف الجر **مِن**",
+        "irab_dan_logika": "مجرور بالكسرة لأنه تابع لحرف الجر"
+      },
+      "hikmah": "Mengandung makna pengecualian; tidak boleh mengambil sesuatu yang berada “di luar” kelompok mukmin.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "ٱلْمُؤْمِنِينَ",
+      "transliterasi": "al‑muʾminīna",
+      "jenis_kata": "Isim (kata benda)",
+      "arti": "orang‑orang beriman",
+      "sharaf": {
+        "akar_kata": "أ-م-ن",
+        "makna_dasar": "aman, beriman, percaya kepada Allah",
+        "wazan_perubahan": "مُفَعَّل (jamak مذكر سالم)"
+      },
+      "nahwu": {
+        "kedudukan": "اسم مجرور بحرف الجر **مِن** (مجرور بالكسرة)",
+        "irab_dan_logika": "مجرور لأن له علاقة جرية مع كلمة **مِن**"
+      },
+      "hikmah": "Menegaskan kelompok yang harus tetap menjadi pusat loyalitas bagi orang beriman.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "ۚ",
+      "transliterasi": "-",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda berhenti (waqf)",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "علامة وقف لا تُعرب",
+        "irab_dan_logika": "ليس لها إعراب؛ تُستعمل لتقسيم الجملة"
+      },
+      "hikmah": "Menandai jeda makhraj, memberi ruang bagi pembaca memahami makna sebelumnya sebelum melanjutkan.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "أَتُرِيدُونَ",
+      "transliterasi": "aturīdūna",
+      "jenis_kata": "Fiʿil (kata kerja)",
+      "arti": "apakah kamu ingin",
+      "sharaf": {
+        "akar_kata": "ر-غ-ب",
+        "makna_dasar": "ingin, mengharapkan",
+        "wazan_perubahan": "تَفْعِيل (من فعل رَغِبَ)"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع بالضمة، والفاعل ضمير متكلم مخفي (أنتم) مع حرف استفهام **أَ**",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "Pertanyaan retoris yang menegaskan konsekuensi moral bila orang beriman memilih sekutu yang tidak sesuai dengan keimanan.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "أَن",
+      "transliterasi": "an",
+      "jenis_kata": "Huruf",
+      "arti": "bahwa, untuk",
+      "sharaf": {
+        "akar_kata": "أن",
+        "makna_dasar": "menyatakan tujuan atau sebab",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "partikel penghubung yang mengawali infinitif (verb)",
+        "irab_dan_logika": "mansub (nasb) karena huruf أن"
+      },
+      "hikmah": "menunjukkan maksud atau tujuan dalam kalimat",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "تَجْعَلُوا۟",
+      "transliterasi": "tajʿalū",
+      "jenis_kata": "Fi'il",
+      "arti": "kamu menjadikan",
+      "sharaf": {
+        "akar_kata": "ج-ع-ل",
+        "makna_dasar": "menetapkan, menjadikan",
+        "wazan_perubahan": "فَعَلَ"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il (verb) yang dihubungkan oleh أَن",
+        "irab_dan_logika": "majzū (jussive) dengan sukun pada akhir karena setelah أن"
+      },
+      "hikmah": "perintah/anjuran untuk menjadikan sesuatu",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "لِلَّهِ",
+      "transliterasi": "lillāhi",
+      "jenis_kata": "Huruf (li‑) + Isim",
+      "arti": "bagi Allah",
+      "sharaf": {
+        "akar_kata": "ل-ه",
+        "makna_dasar": "menunjuk kepemilikan atau tujuan kepada Allah",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "preposisi yang membentuk majrur pada kata berikutnya",
+        "irab_dan_logika": "majrur (kasrah) karena didahului huruf li"
+      },
+      "hikmah": "menunjukkan bahwa sesuatu ditujukan atau dimiliki Allah",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "عَلَيْكُمْ",
+      "transliterasi": "ʿalaykum",
+      "jenis_kata": "Huruf (ʿala) + Isim (kumu)",
+      "arti": "atas kalian",
+      "sharaf": {
+        "akar_kata": "ع-ل-ى",
+        "makna_dasar": "menunjuk posisi atau tanggung jawab",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    }
+  ]
+}

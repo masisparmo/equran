@@ -1,0 +1,276 @@
+{
+  "surah": 6,
+  "ayah": 106,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "ٱتَّبِعْ",
+      "transliterasi": "ittabiʿ",
+      "jenis_kata": "Fi'il",
+      "arti": "ikuti",
+      "sharaf": {
+        "akar_kata": "ب ع",
+        "makna_dasar": "mengikuti",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "**فعل أمر** (kata kerja perintah)",
+        "irab_dan_logika": "Berakhiran **sukun** pada huruf terakhir menandakan bentuk **imperatif**; tidak ada alif alifah karena perintah langsung"
+      },
+      "hikmah": "Perintah Allah kepada Nabi untuk meneladani dan mengikuti wahyu-Nya secara mutlak.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "مَآ",
+      "transliterasi": "mā",
+      "jenis_kata": "Huruf",
+      "arti": "apa",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "kata tanya/penunjuk",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "**اسم موصول** yang berfungsi sebagai objek dari فعل أمر",
+        "irab_dan_logika": "Ditempatkan **نصب** (fatha) karena menjadi **مفعول به** dari فعل أمر"
+      },
+      "hikmah": "Menunjukkan segala sesuatu yang diwahyukan, tidak terbatas pada satu hal saja.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "أُوحِىَ",
+      "transliterasi": "uḥiya",
+      "jenis_kata": "Fi'il",
+      "arti": "diwahyukan",
+      "sharaf": {
+        "akar_kata": "و ه ي",
+        "makna_dasar": "wahyu",
+        "wazan_perubahan": "فُعِلَ (pasif)"
+      },
+      "nahwu": {
+        "kedudukan": "**فعل ماضٍ مبني للمجهول**",
+        "irab_dan_logika": "Berharakat **damma** pada alif pertama menandakan bentuk **passive past**; tidak ada perubahan karena subjek tak disebut"
+      },
+      "hikmah": "Menegaskan bahwa segala petunjuk berasal dari Allah, bukan hasil usaha manusia.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "إِلَيْكَ",
+      "transliterasi": "ilayka",
+      "jenis_kata": "Huruf",
+      "arti": "kepadamu",
+      "sharaf": {
+        "akar_kata": "إ ل ي",
+        "makna_dasar": "menuju, arah",
+        "wazan_perubahan": "حرف جر + ضمير متصل"
+      },
+      "nahwu": {
+        "kedudukan": "**جار ومجرور** (حرف جر + ضمير)",
+        "irab_dan_logika": "حرف الجر **إلى** mengambil **kasra** pada huruf ya; huruf kaf berkasrah karena merupakan **ضمير متصل**"
+      },
+      "hikmah": "Menunjukkan arah penerimaan wahyu, yaitu kepada Nabi Muhammad SAW.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "مِن",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "menunjuk asal atau sumber",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "**حرف جر**",
+        "irab_dan_logika": "Berharakat **kasra** karena fungsi sebagai حرف جر yang menghubungkan ke مَجرور"
+      },
+      "hikmah": "Menegaskan sumber wahyu berasal dari Tuhan, bukan dari selain-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "رَّبِّكَ",
+      "transliterasi": "rabbika",
+      "jenis_kata": "Isim",
+      "arti": "Tuhanmu",
+      "sharaf": {
+        "akar_kata": "ر ب ب",
+        "makna_dasar": "tuan, pemilik",
+        "wazan_perubahan": "فَعِل"
+      },
+      "nahwu": {
+        "kedudukan": "**مضاف إليه** (kata benda yang dimodifikasi)",
+        "irab_dan_logika": "Berakhiran **kasra** pada ba karena berada dalam **مجرور** setelah حرف الجر *min*; akhir kata diikuti **ضمير متصل** -ka dengan **kasra**"
+      },
+      "hikmah": "Menegaskan keesaan Tuhan yang menjadi sumber segala wahyu, sekaligus menekankan kepemilikan pribadi kepada Nabi.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "ۖ",
+      "transliterasi": "ʿa",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda jeda / waqf kecil",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca yang memisahkan bagian ayat",
+        "irab_dan_logika": "tidak berharakat, berfungsi sebagai waqf kecil untuk memberi jeda pada pembacaan"
+      },
+      "hikmah": "Menandakan berhenti sejenak, memberi ruang bagi pendengar merenungkan makna sebelum melanjutkan.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "لَآ",
+      "transliterasi": "lā",
+      "jenis_kata": "Huruf",
+      "arti": "tidak",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "partikel negatif yang menolak apa yang diikuti",
+        "irab_dan_logika": "berharakat fatha‑tanwin pada alif (ا) menandakan bahwa ia bersifat huruf jar (jar‑mansoob) dan tidak berikrah"
+      },
+      "hikmah": "Menyatakan penolakan mutlak, menegaskan bahwa tidak ada Tuhan selain Allah.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "إِلَٰهَ",
+      "transliterasi": "ilāha",
+      "jenis_kata": "Isim",
+      "arti": "sesuatu yang disembah",
+      "sharaf": {
+        "akar_kata": "أ ل ه",
+        "makna_dasar": "menyembah, memuja",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "objek (mansoob) dari partikel لا",
+        "irab_dan_logika": "diberi harakat fathah pada alif terakhir menandakan kasus accusatif (mansūb) karena menjadi objek negatif"
+      },
+      "hikmah": "Menegaskan bahwa tidak ada yang patut disembah selain Allah, menolak segala bentuk penyembahan kepada selain-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "إِلَّا",
+      "transliterasi": "illā",
+      "jenis_kata": "Huruf",
+      "arti": "kecuali",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "partikel pengecualian yang mengikat kata sebelumnya",
+        "irab_dan_logika": "tidak berharakat karena merupakan huruf jar; menghubungkan kata sebelumnya (إِلَٰهَ) dengan kata berikutnya (هُوَ)"
+      },
+      "hikmah": "Menyatakan pengecualian mutlak, menegaskan bahwa tidak ada Tuhan selain Allah.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "هُوَ",
+      "transliterasi": "huwa",
+      "jenis_kata": "Isim",
+      "arti": "dia (laki‑laki), Allah",
+      "sharaf": {
+        "akar_kata": "ه و",
+        "makna_dasar": "menunjuk kepada subjek tunggal",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "kata ganti (marfu') yang menjadi subjek kalimat setelah partikel إِلَّا",
+        "irab_dan_logika": "berharakat dammah menandakan marfu' (raf‘) sebagai subjek"
+      },
+      "hikmah": "Menegaskan identitas Allah sebagai satu‑satunya Tuhan yang berhak disembah.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "ۖ",
+      "transliterasi": "ʿa",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda jeda / waqf kecil",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca penutup ayat yang memberi jeda akhir",
+        "irab_dan_logika": "tidak berharakat, berfungsi sebagai waqf akhir untuk menandai selesai pembacaan"
+      },
+      "hikmah": "Memberi kesempatan bagi pendengar merenungkan perintah dan penegasan tauhid yang baru saja diucapkan.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "وَأَعْرِضْ",
+      "transliterasi": "wa‑aʿriḍ",
+      "jenis_kata": "Fiʿil (imperatif) dengan huruf wa",
+      "arti": "dan berpalinglah",
+      "sharaf": {
+        "akar_kata": "ʿ‑r‑ḍ",
+        "makna_dasar": "menolak, mengabaikan",
+        "wazan_perubahan": "فَعَلَ (faʿala)"
+      },
+      "nahwu": {
+        "kedudukan": "fiʿil amr (perintah) yang mengawali ayat, dihubungkan dengan huruf wa",
+        "irab_dan_logika": "berakhir dengan sukun karena fiʿil amr berharakat sukun pada huruf terakhir"
+      },
+      "hikmah": "**Perintah** kepada Nabi agar menolak segala ajakan musyrik, menegaskan sikap menjauh dari penyembahan selain Allah.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "عَنِ",
+      "transliterasi": "ʿani",
+      "jenis_kata": "Huruf (preposisi)",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "menunjukkan pemisahan atau arah",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar yang menghubungkan fiʿil amr dengan isim majrur",
+        "irab_dan_logika": "menyebabkan isim yang mengikutinya berkasrah"
+      },
+      "hikmah": "**Huruf** ini menandakan arah penolakan, yaitu menjauh **dari** orang‑orang musyrik.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "ٱلْمُشْرِكِينَ",
+      "transliterasi": "al‑mushrikīna",
+      "jenis_kata": "Isim (jamak)",
+      "arti": "orang‑orang yang menyekutukan",
+      "sharaf": {
+        "akar_kata": "ش‑ر‑ك",
+        "makna_dasar": "menyekutukan Allah dengan sesuatu",
+        "wazan_perubahan": "مُفْعِل (mufʿal)"
+      },
+      "nahwu": {
+        "kedudukan": "isim majrur setelah huruf عَنِ, berkasrah",
+        "irab_dan_logika": "berkasrah karena dipengaruhi huruf jar عَنِ"
+      },
+      "hikmah": "**Orang‑orang musyrik** yang harus dijauhi; menegaskan bahwa Islam memerintahkan pemisahan total dari praktik penyembahan bersekutu.",
+      "role": "none"
+    }
+  ]
+}

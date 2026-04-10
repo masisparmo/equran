@@ -1,0 +1,438 @@
+{
+  "surah": 4,
+  "ayah": 64,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "وَمَآ",
+      "transliterasi": "wa mā",
+      "jenis_kata": "Huruf",
+      "arti": "Dan tidak",
+      "sharaf": {
+        "akar_kata": "N/A (huruf)",
+        "makna_dasar": "N/A (huruf)",
+        "wazan_perubahan": "N/A (huruf)"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf 'athaf (وَ), Huruf nafi (مَا)",
+        "irab_dan_logika": "وَ adalah huruf 'athaf (penghubung) yang mabni (tidak berubah harakat). مَا adalah huruf nafi (peniadaan) yang juga mabni, berfungsi menafikan fi'il madhi yang akan datang."
+      },
+      "hikmah": "Mengawali kalimat dengan penekanan pada penafian, menunjukkan bahwa tidak ada tujuan lain dari pengutusan rasul selain yang akan disebutkan.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "أَرْسَلْنَا",
+      "transliterasi": "arsalnā",
+      "jenis_kata": "Fi'il",
+      "arti": "Kami mengutus",
+      "sharaf": {
+        "akar_kata": "ر س ل (R-S-L)",
+        "makna_dasar": "Mengutus, mengirim",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau), Wazan أَفْعَلَ (af'ala), bentuk mutakallim ma'al ghair (kata ganti 'kami')."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Madhi dan Fa'il (subjek)",
+        "irab_dan_logika": "Fi'il madhi mabni 'ala as-sukun karena bersambung dengan dhamir rafa' mutaharrik (نَا). نَا adalah dhamir muttasil (kata ganti bersambung) mabni 'ala as-sukun fi mahalli rafa' fa'il (berkedudukan sebagai subjek)."
+      },
+      "hikmah": "Menunjukkan tindakan pengutusan yang dilakukan oleh Allah (Kami), menegaskan kehendak ilahi di balik setiap rasul dan otoritas-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "مِن",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf",
+      "arti": "dari, di antara",
+      "sharaf": {
+        "akar_kata": "N/A (huruf)",
+        "makna_dasar": "N/A (huruf)",
+        "wazan_perubahan": "N/A (huruf)"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Jar",
+        "irab_dan_logika": "Huruf jar mabni 'ala as-sukun. Di sini berfungsi sebagai *min zaidah* (tambahan) untuk penekanan (taukid) pada penafian, yang masuk pada isim nakirah (kata benda umum) setelahnya. Maknanya menjadi 'tidak seorang pun'."
+      },
+      "hikmah": "Meskipun secara harfiah 'dari', dalam konteks ini berfungsi sebagai penegas penafian, artinya 'tidak seorang rasul pun', memperkuat makna peniadaan sebelumnya.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "رَّسُولٍ",
+      "transliterasi": "rasūlin",
+      "jenis_kata": "Isim",
+      "arti": "seorang rasul",
+      "sharaf": {
+        "akar_kata": "ر س ل (R-S-L)",
+        "makna_dasar": "Utusan, pembawa pesan",
+        "wazan_perubahan": "Isim Dzat (nama diri/jabatan) atau Isim Fa'il dengan makna mubalaghah (penekanan) dari akar kata. Wazan فَعُول (fa'ūl)."
+      },
+      "nahwu": {
+        "kedudukan": "Majrur oleh huruf jar مِن, namun secara makna adalah Maf'ul Bih (objek)",
+        "irab_dan_logika": "Majrur dengan kasrah tanwin (ٍ) karena didahului oleh huruf jar مِن. Meskipun majrur secara lafazh, kedudukannya secara mahal (tempat) adalah manshub sebagai maf'ul bih dari fi'il أَرْسَلْنَا yang dinafikan."
+      },
+      "hikmah": "Merujuk pada setiap utusan ilahi, menekankan universalitas tujuan pengutusan mereka, tanpa terkecuali.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "إِلَّا",
+      "transliterasi": "illā",
+      "jenis_kata": "Huruf",
+      "arti": "kecuali, melainkan",
+      "sharaf": {
+        "akar_kata": "N/A (huruf)",
+        "makna_dasar": "N/A (huruf)",
+        "wazan_perubahan": "N/A (huruf)"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Istitsna' (pengecualian)",
+        "irab_dan_logika": "Huruf istitsna' mabni 'ala as-sukun. Dalam konteks kalimat nafi (negasi) yang sempurna (nafi + mustatsna minhu disebutkan), إِلَّا berfungsi sebagai huruf hashr (pembatas/penegas), bukan pengecualian murni. Maknanya menjadi 'melainkan hanya'."
+      },
+      "hikmah": "Membatasi dan menegaskan tujuan tunggal pengutusan rasul, yaitu untuk ditaati, menghilangkan kemungkinan tujuan lain.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "لِيُطَاعَ",
+      "transliterasi": "liyutā'a",
+      "jenis_kata": "Fi'il",
+      "arti": "agar ditaati",
+      "sharaf": {
+        "akar_kata": "ط و ع (Ṭ-W-'-)",
+        "makna_dasar": "Taat, patuh, tunduk",
+        "wazan_perubahan": "Fi'il Mudhari' Majhul (pasif), Wazan يُفْعَلَ (yuf'ala) dari أَفْعَلَ (af'ala). Bentuk pasif dari أَطَاعَ (aṭā'a - menaati)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Majhul Manshub",
+        "irab_dan_logika": "Manshub dengan fathah (َ) karena didahului oleh Lam Ta'lil (لِ) yang berfungsi sebagai huruf nashab (penashab fi'il mudhari'). Lam Ta'lil sendiri adalah huruf jar yang maknanya 'untuk/agar'. Na'ibul Fa'il (subjek pasif) adalah dhamir mustatir (tersembunyi) takdiruhu هو (dia, kembali ke rasul)."
+      },
+      "hikmah": "Menjelaskan tujuan utama dan esensial dari pengutusan setiap rasul, yaitu agar perintah dan petunjuknya dipatuhi oleh umat manusia. Ini adalah inti dari risalah kenabian.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "بِإِذْنِ",
+      "transliterasi": "bi-idzni",
+      "jenis_kata": "Huruf (بِ) + Isim (إِذْنِ)",
+      "arti": "dengan izin",
+      "sharaf": {
+        "akar_kata": "أ-ذ-ن (A-Dz-N)",
+        "makna_dasar": "izin, permisi, mendengar",
+        "wazan_perubahan": "Isim Masdar dari أَذِنَ - يَأْذَنُ (bentuk I)"
+      },
+      "nahwu": {
+        "kedudukan": "Jar Majrur (بِ + إِذْنِ). بِ adalah huruf jar, إِذْنِ adalah isim majrur.",
+        "irab_dan_logika": "إِذْنِ majrur karena didahului oleh huruf jar بِ. Tanda jarnya adalah kasrah."
+      },
+      "hikmah": "Menunjukkan bahwa ketaatan kepada Rasulullah SAW adalah ketaatan yang bersumber dari kehendak dan ketetapan Allah. Ini menegaskan otoritas ilahi di balik risalah kenabian.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "ٱللَّهِ",
+      "transliterasi": "Allahi",
+      "jenis_kata": "Isim",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "أ-ل-ه (A-L-H)",
+        "makna_dasar": "Tuhan, yang disembah",
+        "wazan_perubahan": "Isim Dzat (Nama Diri)"
+      },
+      "nahwu": {
+        "kedudukan": "Mudhaf Ilaih dari إِذْنِ.",
+        "irab_dan_logika": "Majrur karena menjadi mudhaf ilaih. Tanda jarnya adalah kasrah."
+      },
+      "hikmah": "Menegaskan bahwa izin yang dimaksud adalah izin dari Allah SWT, sumber segala otoritas dan kekuasaan. Ini menguatkan konsep tauhid dan bahwa segala sesuatu terjadi atas kehendak-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "Tanda Baca (bukan kata)",
+      "arti": "Tanda waqaf lazim (harus berhenti)",
+      "sharaf": {
+        "akar_kata": "N/A (bukan kata)",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "N/A (bukan kata gramatikal)",
+        "irab_dan_logika": "N/A"
+      },
+      "hikmah": "Menunjukkan akhir dari satu klausa atau bagian makna, dan pembaca dianjurkan untuk berhenti sejenak untuk memahami makna yang telah disampaikan sebelum melanjutkan ke bagian berikutnya. Ini penting untuk pemahaman konteks ayat.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "وَلَوْ",
+      "transliterasi": "wa-lau",
+      "jenis_kata": "Huruf (Wawu + Lau)",
+      "arti": "dan sekiranya, dan jikalau",
+      "sharaf": {
+        "akar_kata": "N/A (huruf)",
+        "makna_dasar": "Menunjukkan pengandaian atau kondisi yang tidak terjadi (atau kemungkinan kecil terjadi).",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf athaf (wawu) dan huruf syarat (lau).",
+        "irab_dan_logika": "Huruf tidak memiliki i'rab. Wawu mengaitkan kalimat sebelumnya dengan kalimat syarat \"lau\". Lau adalah huruf syarat yang menunjukkan pengandaian yang mustahil atau tidak terjadi di masa lalu, atau kemungkinan kecil terjadi di masa depan."
+      },
+      "hikmah": "Membuka kalimat pengandaian yang penting, mengarahkan perhatian pada suatu skenario hipotetis yang memiliki konsekuensi besar, yaitu tentang datangnya orang-orang yang berbuat zalim untuk memohon ampun.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "أَنَّهُمْ",
+      "transliterasi": "annahum",
+      "jenis_kata": "Huruf (أَنَّ) + Dhamir (هُمْ)",
+      "arti": "sesungguhnya mereka",
+      "sharaf": {
+        "akar_kata": "N/A (أَنَّ adalah huruf taukid, هُمْ adalah dhamir)",
+        "makna_dasar": "Penekanan (أَنَّ) dan kata ganti orang ketiga jamak laki-laki (هُمْ).",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "أَنَّ adalah huruf taukid dan nashab. هُمْ adalah isim أَنَّ, berkedudukan sebagai isim manshub.",
+        "irab_dan_logika": "أَنَّ menashabkan isimnya. هُمْ adalah dhamir muttashil mabniyyun 'ala as-sukun fi mahalli nashbin (dhamir bersambung yang mabni sukun pada posisi nashab) sebagai isim أَنَّ."
+      },
+      "hikmah": "Memberikan penekanan kuat pada subjek kalimat berikutnya, yaitu \"mereka\" (orang-orang yang menganiaya diri mereka sendiri), dan mengintroduksi isi dari pengandaian yang akan dijelaskan.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "إِذ",
+      "transliterasi": "idz",
+      "jenis_kata": "Zharaf Zaman",
+      "arti": "ketika, tatkala",
+      "sharaf": {
+        "akar_kata": "N/A (zharaf)",
+        "makna_dasar": "Menunjukkan waktu lampau.",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Zharaf zaman, manshub secara makna (mabni 'ala as-sukun fi mahalli nashbin). Berfungsi sebagai penjelas waktu.",
+        "irab_dan_logika": "Zharaf zaman yang mabni sukun pada posisi nashab. Menunjukkan waktu terjadinya perbuatan yang akan disebutkan setelahnya."
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "ظَّلَمُوٓا۟",
+      "transliterasi": "ẓalamū",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka menzalimi/menganiaya",
+      "sharaf": {
+        "akar_kata": "ظ ل م (ẓ-l-m)",
+        "makna_dasar": "Melakukan ketidakadilan, menempatkan sesuatu tidak pada tempatnya, berbuat aniaya.",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau) dari Bab I (فَعَلَ - يَفْعُلُ/يَفْعِلُ), bentuk jamak laki-laki ketiga."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Madhi (kata kerja lampau). Wawu al-jama'ah (و) adalah Fa'il (subjek) yang kembali kepada 'mereka' (kaum munafik atau orang-orang yang berbuat dosa).",
+        "irab_dan_logika": "Fi'il Madhi mabni (tetap) di atas dammah karena bersambung dengan wawu al-jama'ah. Wawu al-jama'ah adalah dhamir rafa' muttasil yang berkedudukan sebagai fa'il."
+      },
+      "hikmah": "Kata ini menunjukkan tindakan melampaui batas atau berbuat dosa, yang dalam konteks ayat ini secara khusus merujuk pada dosa yang dilakukan terhadap diri sendiri, yaitu tidak taat kepada Allah dan Rasul-Nya, serta mencari hukum kepada selain Allah. Ini adalah pengakuan atas kesalahan dan dosa yang menjadi prasyarat untuk taubat.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "أَنفُسَهُمْ",
+      "transliterasi": "anfusahum",
+      "jenis_kata": "Isim",
+      "arti": "diri-diri mereka",
+      "sharaf": {
+        "akar_kata": "ن ف س (n-f-s)",
+        "makna_dasar": "Jiwa, diri, esensi.",
+        "wazan_perubahan": "Bentuk jamak dari نَفْسٌ (nafsun), dengan dhamir هُمْ (hum) sebagai mudhaf ilaih."
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul Bih (objek) dari fi'il ظَّلَمُوٓا۟. Dhamir هُمْ (hum) adalah Mudhaf Ilaih.",
+        "irab_dan_logika": "Mansub (berharakat fathah) karena sebagai Maf'ul Bih. Tanda nasb-nya adalah fathah pada huruf س (sin). Dhamir هُمْ (hum) adalah dhamir jar muttasil yang berkedudukan sebagai mudhaf ilaih."
+      },
+      "hikmah": "Menekankan bahwa dosa dan kezaliman yang dilakukan manusia pada hakikatnya kembali kepada diri mereka sendiri. Mereka merugikan jiwa mereka sendiri dengan melanggar perintah Allah, bukan merugikan Allah. Ini adalah pengingat akan tanggung jawab pribadi atas perbuatan.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "جَآءُوكَ",
+      "transliterasi": "jā'ūka",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka datang kepadamu",
+      "sharaf": {
+        "akar_kata": "ج ي ء (j-y-')",
+        "makna_dasar": "Datang, tiba, hadir.",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau) dari Bab I (فَعَلَ - يَفْعِلُ), bentuk jamak laki-laki ketiga, dengan dhamir كَ (ka) sebagai objek."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Madhi (kata kerja lampau). Wawu al-jama'ah (و) adalah Fa'il (subjek). Dhamir كَ (ka) adalah Maf'ul Bih (objek).",
+        "irab_dan_logika": "Fi'il Madhi mabni (tetap) di atas dammah karena bersambung dengan wawu al-jama'ah. Wawu al-jama'ah adalah dhamir rafa' muttasil yang berkedudukan sebagai fa'il. Dhamir كَ (ka) adalah dhamir nasb muttasil yang berkedudukan sebagai maf'ul bih."
+      },
+      "hikmah": "Menunjukkan pentingnya datang kepada Rasulullah ﷺ sebagai perantara untuk memohon ampunan Allah. Ini bukan berarti Rasulullah mengampuni, melainkan beliau menjadi sebab dan wasilah permohonan ampunan, baik melalui doanya maupun petunjuknya. Ini adalah langkah konkret dalam proses taubat.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "فَٱسْتَغْفَرُوا۟",
+      "transliterasi": "fastaghfarū",
+      "jenis_kata": "Fi'il",
+      "arti": "lalu mereka memohon ampun",
+      "sharaf": {
+        "akar_kata": "غ ف ر (gh-f-r)",
+        "makna_dasar": "Menutupi, mengampuni, memaafkan.",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau) dari Bab X (اِسْتَفْعَلَ - يَسْتَفْعِلُ), yang menunjukkan permintaan atau pencarian (طلب). Bentuk jamak laki-laki ketiga."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Madhi (kata kerja lampau). Fa' (فَ) adalah huruf 'athaf (penghubung) yang menunjukkan urutan dan sebab-akibat. Wawu al-jama'ah (و) adalah Fa'il (subjek).",
+        "irab_dan_logika": "Fi'il Madhi mabni (tetap) di atas dammah karena bersambung dengan wawu al-jama'ah. Wawu al-jama'ah adalah dhamir rafa' muttasil yang berkedudukan sebagai fa'il."
+      },
+      "hikmah": "Kata ini adalah inti dari taubat, yaitu memohon ampunan (istighfar) kepada Allah. Bentuk `istaf'ala` menunjukkan kesungguhan dan permintaan ampunan yang tulus. Ini adalah langkah kedua setelah mengakui dosa dan datang kepada Rasul.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "ٱللَّهَ",
+      "transliterasi": "Allāha",
+      "jenis_kata": "Isim",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "ا ل ه ('-l-h)",
+        "makna_dasar": "Yang disembah, Tuhan.",
+        "wazan_perubahan": "Isim Jalalah, bentuk mufrad (tunggal)."
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul Bih (objek) dari fi'il ٱسْتَغْفَرُوا۟.",
+        "irab_dan_logika": "Mansub (berharakat fathah) karena sebagai Maf'ul Bih. Tanda nasb-nya adalah fathah pada huruf ه (ha)."
+      },
+      "hikmah": "Menegaskan bahwa permohonan ampun (istighfar) harus ditujukan hanya kepada Allah, Dzat Yang Maha Pengampun. Ini adalah tauhid dalam permohonan ampunan, bahwa hanya Dia yang berhak mengampuni dosa.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "وَٱسْتَغْفَرَ",
+      "transliterasi": "wastaghfara",
+      "jenis_kata": "Fi'il",
+      "arti": "dan ia (Rasul) memohonkan ampun",
+      "sharaf": {
+        "akar_kata": "غ ف ر (gh-f-r)",
+        "makna_dasar": "Menutupi, mengampuni, memaafkan.",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau) dari Bab X (اِسْتَفْعَلَ - يَسْتَفْعِلُ), bentuk tunggal laki-laki ketiga."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Madhi (kata kerja lampau). Wawu (وَ) adalah huruf 'athaf (penghubung). Fa'il (subjek) adalah dhamir mustatir (tersembunyi) yang kembali kepada 'Rasul' (الرسول).",
+        "irab_dan_logika": "Fi'il Madhi mabni (tetap) di atas fathah. Fa'il-nya adalah dhamir mustatir (هو) yang kembali kepada 'Rasul'."
+      },
+      "hikmah": "Menunjukkan peran penting Rasulullah ﷺ sebagai perantara doa dan syafaat. Setelah orang-orang itu sendiri memohon ampun, Rasulullah juga memohonkan ampun untuk mereka. Ini adalah bentuk rahmat dan kasih sayang Allah melalui Rasul-Nya, yang memperkuat peluang diterimanya taubat. Ini juga menggarisbawahi bahwa taubat yang sempurna melibatkan penyesalan pribadi dan juga dukungan doa dari orang saleh, terutama Rasulullah.",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "لَهُمُ",
+      "transliterasi": "lahumu",
+      "jenis_kata": "Huruf + Isim (Dhomir)",
+      "arti": "bagi mereka / untuk mereka",
+      "sharaf": {
+        "akar_kata": "ل (lam) + هُم (hum)",
+        "makna_dasar": "Menunjukkan kepemilikan, tujuan, atau kebermanfaatan. 'Hum' adalah kata ganti orang ketiga jamak laki-laki.",
+        "wazan_perubahan": "Tidak berlaku untuk huruf jar dan dhomir secara terpisah. 'Hum' adalah dhomir mabni."
+      },
+      "nahwu": {
+        "kedudukan": "Jar Majrur (huruf jar + isim majrur)",
+        "irab_dan_logika": "`لَـ` (lam) adalah huruf jar yang menyebabkan kata setelahnya majrur. `هُمُ` (humu) adalah dhomir mabni (tetap) dalam posisi majrur. Harakat dhommah pada `مُ` adalah untuk menyambung bacaan (wasl) dengan kata berikutnya yang diawali alif lam qamariyah."
+      },
+      "hikmah": "Kata ini menunjukkan bahwa permohonan ampun (istighfar) yang dilakukan oleh Rasulullah ﷺ adalah *untuk* atau *demi* kepentingan mereka yang telah menzalimi diri sendiri. Ini menekankan peran mediasi dan syafaat Rasulullah ﷺ dalam proses pengampunan.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "ٱلرَّسُولُ",
+      "transliterasi": "ar-rasūlu",
+      "jenis_kata": "Isim (kata benda)",
+      "arti": "sang Rasul / utusan",
+      "sharaf": {
+        "akar_kata": "ر س ل (ra-sin-lam)",
+        "makna_dasar": "Mengutus, mengirim.",
+        "wazan_perubahan": "فَعُولٌ (fa'ūlun) - menunjukkan makna pelaku yang intens atau profesi."
+      },
+      "nahwu": {
+        "kedudukan": "Fa'il (subjek)",
+        "irab_dan_logika": "Marfu' (rafa') dengan dhommah (`ـُ`) karena sebagai fa'il dari fi'il sebelumnya (وَيَسْتَغْفِرَ - dan Rasul memohonkan ampun). Alif lam (`الـ`) menunjukkan makrifah (spesifik, yaitu Nabi Muhammad ﷺ)."
+      },
+      "hikmah": "Kata ini merujuk secara spesifik kepada Nabi Muhammad ﷺ sebagai utusan Allah yang memiliki kedudukan istimewa untuk memohonkan ampun bagi umatnya. Ini menegaskan otoritas dan peran sentral beliau dalam proses taubat dan pengampunan.",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "لَوَجَدُوا۟",
+      "transliterasi": "lawajadū",
+      "jenis_kata": "Fi'il (kata kerja)",
+      "arti": "sungguh mereka akan mendapati / sungguh mereka akan menemukan",
+      "sharaf": {
+        "akar_kata": "و ج د (waw-jim-dal)",
+        "makna_dasar": "Menemukan, mendapati, memperoleh.",
+        "wazan_perubahan": "فَعَلُوا۟ (fa'alū) - Fi'il Madhi (kata kerja lampau) jamak mudzakkar ghaib. Huruf `لَـ` (lam) di awal adalah lam taukid (penegas)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Madhi yang berfungsi sebagai jawab syarat (jawaban dari kondisi)",
+        "irab_dan_logika": "Mabni (tetap) di atas dhommah karena bersambung dengan wawu jama'ah (`ـُوا۟`). Wawu jama'ah adalah fa'ilnya. Lam (`لَـ`) adalah lam taukid yang menguatkan makna jawab syarat."
+      },
+      "hikmah": "Kata ini menunjukkan kepastian dan jaminan dari Allah bahwa jika syarat-syarat (datang kepada Rasul, memohon ampun kepada Allah, dan Rasul memohonkan ampun untuk mereka) terpenuhi, maka hasilnya *pasti* akan mereka dapati. Ini adalah janji yang kuat dari Allah.",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "ٱللَّهَ",
+      "transliterasi": "Allāha",
+      "jenis_kata": "Isim (kata benda)",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "ا ل ه (alif-lam-ha) - secara etimologi terkait dengan 'ilah' (sesembahan).",
+        "makna_dasar": "Tuhan yang Maha Esa, yang disembah.",
+        "wazan_perubahan": "Tidak berlaku, karena ini adalah Isim Dzat (nama diri) yang unik."
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul Bih (objek)",
+        "irab_dan_logika": "Mansub (nashab) dengan fathah (`ـَ`) karena sebagai maf'ul bih dari fi'il `لَوَجَدُوا۟` (lawajadū)."
+      },
+      "hikmah": "Kata ini menegaskan bahwa Dzat yang akan mereka dapati dengan sifat-sifat pengampunan dan kasih sayang adalah Allah SWT sendiri. Ini menekankan bahwa pengampunan dan rahmat berasal langsung dari-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "تَوَّابًۭا",
+      "transliterasi": "tawwāban",
+      "jenis_kata": "Isim (Sifat Musyabbahah / Shighah Mubalaghah)",
+      "arti": "Maha Penerima Taubat / Maha Pengampun",
+      "sharaf": {
+        "akar_kata": "ت و ب (ta-waw-ba)",
+        "makna_dasar": "Kembali, bertaubat.",
+        "wazan_perubahan": "فَعَّالٌ (fa''ālun) - Shighah Mubalaghah, menunjukkan intensitas atau keberulangan sifat."
+      },
+      "nahwu": {
+        "kedudukan": "Hal (keadaan) atau Sifat (Na'at)",
+        "irab_dan_logika": "Mansub (nashab) dengan fathatain (`ـًۭا`) karena sebagai hal (keadaan) yang menjelaskan `ٱللَّهَ` yang mansub, atau sebagai sifat yang mengikuti i'rabnya."
+      },
+      "hikmah": "Kata ini menekankan sifat Allah yang Maha Penerima Taubat, artinya Dia senantiasa menerima taubat hamba-Nya yang tulus, tidak peduli seberapa besar dosa mereka. Ini adalah dorongan besar bagi orang-orang yang merasa bersalah untuk segera bertaubat.",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "رَّحِيمًۭا",
+      "transliterasi": "raḥīman",
+      "jenis_kata": "Isim (Sifat Musyabbahah)",
+      "arti": "Maha Penyayang",
+      "sharaf": {
+        "akar_kata": "ر ح م (ra-ha-mim)",
+        "makna_dasar": "Kasih sayang, rahmat.",
+        "wazan_perubahan": "فَعِيلٌ (fa'īlun) - Sifat Musyabbahah, menunjukkan sifat yang melekat dan permanen."
+      },
+      "nahwu": {
+        "kedudukan": "Sifat (Na'at) atau Hal (keadaan)",
+        "irab_dan_logika": "Mansub (nashab) dengan fathatain (`ـًۭا`) karena mengikuti i'rab kata sebelumnya (`تَوَّابًۭا`) sebagai sifat atau hal yang menjelaskan `ٱللَّهَ`."
+      },
+      "hikmah": "Kata ini melengkapi sifat Allah sebagai Maha Penerima Taubat dengan sifat Maha Penyayang. Ini menunjukkan bahwa penerimaan taubat-Nya disertai dengan rahmat dan kasih sayang yang luas, bukan sekadar pengampunan semata, tetapi juga pemberian kebaikan dan ampunan yang menyeluruh.",
+      "role": "none"
+    }
+  ]
+}

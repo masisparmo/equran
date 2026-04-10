@@ -1,0 +1,564 @@
+{
+  "surah": 4,
+  "ayah": 128,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "وَإِنِ",
+      "transliterasi": "wa‑in",
+      "jenis_kata": "Huruf",
+      "arti": "dan jika",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "memulai ayat, huruf syarat yang menghubungkan dengan ayat sebelumnya",
+        "irab_dan_logika": "berkasrah karena huruf syarat إِنِ"
+      },
+      "hikmah": "*Menunjukkan kondisi yang bersyarat*: bila terjadi sesuatu, maka selanjutnya akan dijelaskan.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "ٱمْرَأَةٌ",
+      "transliterasi": "imraʾah",
+      "jenis_kata": "Isim",
+      "arti": "seorang wanita",
+      "sharaf": {
+        "akar_kata": "م ر أ",
+        "makna_dasar": "wanita",
+        "wazan_perubahan": "mafʿūlah"
+      },
+      "nahwu": {
+        "kedudukan": "mubtadaʾ (subjek) dalam kalimat",
+        "irab_dan_logika": "marfūʿ dengan tanwin dammah karena menjadi mubtadaʾ"
+      },
+      "hikmah": "*Menegaskan subjek* yang menjadi fokus ayat, yaitu wanita yang khawatir.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "خَافَتْ",
+      "transliterasi": "khāfat",
+      "jenis_kata": "Fiʿil",
+      "arti": "takut, khawatir",
+      "sharaf": {
+        "akar_kata": "خ ف ظ",
+        "makna_dasar": "takut, khawatir",
+        "wazan_perubahan": "faʿala (madhi)"
+      },
+      "nahwu": {
+        "kedudukan": "fiʿil madhi (predikat)",
+        "irab_dan_logika": "marfūʿ karena fiʿil madhi berakhir sukun"
+      },
+      "hikmah": "*Menunjukkan perasaan* wanita yang khawatir akan sesuatu.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "مِنۢ",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar",
+        "irab_dan_logika": "kasrah karena berfungsi sebagai preposisi"
+      },
+      "hikmah": "*Menandakan sumber* atau asal dari apa yang ditakuti.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "بَعْلِهَا",
+      "transliterasi": "baʿliha",
+      "jenis_kata": "Isim",
+      "arti": "suaminya",
+      "sharaf": {
+        "akar_kata": "ب ع ل",
+        "makna_dasar": "pemilik, suami",
+        "wazan_perubahan": "mafʿul"
+      },
+      "nahwu": {
+        "kedudukan": "majrur (objek preposisi)",
+        "irab_dan_logika": "kasrah karena berada setelah huruf jar مِن"
+      },
+      "hikmah": "*Menunjukkan kepemilikan*; yang ditakuti adalah suami wanita tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "نُشُوزًا",
+      "transliterasi": "nushūzan",
+      "jenis_kata": "Isim",
+      "arti": "nusyuz, sikap tidak acuh",
+      "sharaf": {
+        "akar_kata": "ن ش ز",
+        "makna_dasar": "menyusahkan, menentang",
+        "wazan_perubahan": "nafuʿ"
+      },
+      "nahwu": {
+        "kedudukan": "mansūb (objek)",
+        "irab_dan_logika": "tanwin fathah karena mansūb"
+      },
+      "hikmah": "*Objek ketakutan* wanita; nusyuz suami yang dapat menimbulkan perselisihan.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "أَوْ",
+      "transliterasi": "aw",
+      "jenis_kata": "Huruf (conjunction)",
+      "arti": "atau",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf **'aw'** berfungsi sebagai **conjunction** yang menghubungkan dua alternatif dalam ayat",
+        "irab_dan_logika": "Tidak berharakat (sukun) karena huruf tidak berubah bentuk; berfungsi sebagai **harf ataw**"
+      },
+      "hikmah": "Menunjukkan pilihan atau alternatif, menegaskan bahwa perdamaian dapat dipilih sebagai solusi yang lebih baik.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "إِعْرَاضًۭا",
+      "transliterasi": "i‘rāḍan",
+      "jenis_kata": "Isim (noun)",
+      "arti": "penolakan, sikap mengabaikan",
+      "sharaf": {
+        "akar_kata": "ع ر ض",
+        "makna_dasar": "menolak, menampakkan tidak setuju",
+        "wazan_perubahan": "إِفْعَال (bentuk IV)"
+      },
+      "nahwu": {
+        "kedudukan": "Objek **maf‘ul bih** dari kata kerja yang mengandung makna *khawf* (khiftum)",
+        "irab_dan_logika": "Berakhiran tanwin fathah (ً) menandakan **mansub** tak berdefinisi; berfungsi sebagai **maf‘ul bih**"
+      },
+      "hikmah": "Menggambarkan rasa khawatir akan **penolakan** atau **sikap acuh** suami, sehingga memotivasi pasangan mencari perdamaian.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "فَلَا",
+      "transliterasi": "fa‑lā",
+      "jenis_kata": "Huruf (particle)",
+      "arti": "maka tidak",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Gabungan **fa** (حرف عطف) + **lā** (حرف نهي) yang menegaskan larangan",
+        "irab_dan_logika": "Tidak berharakat karena kedua huruf merupakan **huruf** yang tidak berubah bentuk"
+      },
+      "hikmah": "Menegaskan bahwa **tidak ada dosa** bila pasangan berusaha memperbaiki hubungan.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "جُنَاحَ",
+      "transliterasi": "junāḥa",
+      "jenis_kata": "Isim (noun)",
+      "arti": "dosa, kesalahan",
+      "sharaf": {
+        "akar_kata": "ج ن ح",
+        "makna_dasar": "kesalahan, pelanggaran",
+        "wazan_perubahan": "فَعَل (bentuk dasar)"
+      },
+      "nahwu": {
+        "kedudukan": "Kata **mansub** setelah حرف النهي **lā**",
+        "irab_dan_logika": "Berakhiran fathah (َ) menandakan **mansub**; berfungsi sebagai **maf‘ul bih** dari **lā**"
+      },
+      "hikmah": "Menegaskan bahwa **tidak ada dosa** atas upaya damai, sehingga memberi ruang moral bagi pasangan.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "عَلَيْهِمَآ",
+      "transliterasi": "ʿalayhimā",
+      "jenis_kata": "Huruf (preposition) + ضمير متصل",
+      "arti": "atas keduanya",
+      "sharaf": {
+        "akar_kata": "على",
+        "makna_dasar": "di atas, mengenai",
+        "wazan_perubahan": "حرف جر"
+      },
+      "nahwu": {
+        "kedudukan": "مجرور بحرف الجر **ʿala** ومضاف إليه ضمير المثنى **‑himā**",
+        "irab_dan_logika": "Berakhiran kasrah (ِ) pada **ʿala** dan kasrah pada الضمير المتصل، يدل على **جر**"
+      },
+      "hikmah": "Menunjukkan bahwa **tidak ada dosa** **atas** (mengenai) **keduanya**, menegaskan keadilan Allah dalam hubungan suami‑istri.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "أَن",
+      "transliterasi": "an",
+      "jenis_kata": "Huruf (particle)",
+      "arti": "bahwa",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "حرف نصب يُدخل جملة فعلية أو اسمية تالية",
+        "irab_dan_logika": "حرف نصب لا يُعرب، يربط الجملة التالية بالسابقة"
+      },
+      "hikmah": "Berfungsi sebagai **penghubung** yang memperkenalkan klausa selanjutnya, menegaskan bahwa apa yang disebutkan selanjutnya adalah **kebenaran** yang diketahui Allah.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "يُصْلِحَا",
+      "transliterasi": "yuṣliḥā",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka (dua) memperbaiki / mengadakan perdamaian",
+      "sharaf": {
+        "akar_kata": "ص-ل-ح",
+        "makna_dasar": "baik, memperbaiki, mengadakan perdamaian",
+        "wazan_perubahan": "فَعَلَ (faʿala)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il mudhari' (verb) dalam majzūm setelah huruf أَنْ",
+        "irab_dan_logika": "Dhamma pada ya menandakan mudhari', sukun pada alif akhir menandakan majzūm (jazm) karena dipengaruhi huruf أَنْ"
+      },
+      "hikmah": "Menunjukkan bahwa bila suami istri takut tidak dapat memperbaiki hubungan, maka mereka akan berusaha memperbaikinya secara bersama‑sama.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "بَيْنَهُمَا",
+      "transliterasi": "baynahumā",
+      "jenis_kata": "Huruf (preposisi) dengan ضمير متصل",
+      "arti": "di antara mereka (dua)",
+      "sharaf": {
+        "akar_kata": "ب-ي-ن",
+        "makna_dasar": "antara, di tengah",
+        "wazan_perubahan": "لا"
+      },
+      "nahwu": {
+        "kedudukan": "Jar (majrur) sebagai pelengkap preposisi بَيْنَ",
+        "irab_dan_logika": "Berakhiran kasrah karena huruf جر, dan الضمير المتصل \"هما\" ikut dalam i'rab majrur"
+      },
+      "hikmah": "Menegaskan ruang lingkup perdamaian, yaitu berada di antara suami dan istri.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "صُلْحًۭا",
+      "transliterasi": "ṣulḥan",
+      "jenis_kata": "Isim (isim maf'ul)",
+      "arti": "perdamaian, penyelesaian",
+      "sharaf": {
+        "akar_kata": "ص-ل-ح",
+        "makna_dasar": "kebaikan, perbaikan, penyelesaian",
+        "wazan_perubahan": "فَعْلَ"
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul bih (objek) dari fi'il يُصْلِحَا",
+        "irab_dan_logika": "Ditempatkan dalam keadaan نصب بالفتحة karena berfungsi sebagai مفعول به"
+      },
+      "hikmah": "Menggambarkan tindakan konkret memperbaiki hubungan yang diharapkan terjadi.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda baca)",
+      "jenis_kata": "Tanda Baca",
+      "arti": "tanda berhenti ayat",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Tidak termasuk dalam i'rab, berfungsi memisahkan bagian kalimat",
+        "irab_dan_logika": "Simbol ini menandakan jeda akhir bagian pertama sebelum lanjutan kalimat"
+      },
+      "hikmah": "Memberi jeda untuk memperjelas struktur ayat, memisahkan antara perintah pertama dan penegasan selanjutnya.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "وَٱلصُّلْحُ",
+      "transliterasi": "wa-ṣ-ṣulḥu",
+      "jenis_kata": "Isim (dengan huruf wa)",
+      "arti": "dan perdamaian",
+      "sharaf": {
+        "akar_kata": "ص-ل-ح",
+        "makna_dasar": "kebaikan, penyelesaian",
+        "wazan_perubahan": "فَعْلَ"
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada' (subjek) dalam جملة اسمية \"الْصُّلْحُ خَيْرٌ\"",
+        "irab_dan_logika": "Marfūʿ بالضمة karena berfungsi sebagai مبتدأ"
+      },
+      "hikmah": "Menegaskan bahwa perdamaian adalah hal yang pertama dan utama dalam konteks ayat.",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "ۗ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf",
+      "arti": "tanda baca (waqf)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda waqf di antara dua bagian ayat",
+        "irab_dan_logika": "menandakan jeda, tidak berharakat"
+      },
+      "hikmah": "menunjukkan jeda untuk memberi ruang napas dalam bacaan",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "وَأُحْضِرَتِ",
+      "transliterasi": "wa‑uḥḍirat",
+      "jenis_kata": "Fi'il",
+      "arti": "di‑hadirkan, dibawa ke hadapan",
+      "sharaf": {
+        "akar_kata": "ح‑ض‑ر",
+        "makna_dasar": "hadir, menampakkan",
+        "wazan_perubahan": "أُفْعِلَ (pasif)"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il madhi majhool (passif) tiga‑rukun, terhubung dengan huruf wa di depan",
+        "irab_dan_logika": "dengan dammah pada alif (أُ) menandakan bentuk pasif, tanda kasrah pada ضِ menandakan akhir kata"
+      },
+      "hikmah": "menyiratkan bahwa jiwa‑jiwa akan dibawa ke hadapan Allah dengan sifat kikir sebagai konsekuensi",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "ٱلْأَنفُسُ",
+      "transliterasi": "al‑anfusu",
+      "jenis_kata": "Isim",
+      "arti": "jiwa, diri",
+      "sharaf": {
+        "akar_kata": "ن‑ف‑س",
+        "makna_dasar": "nafs = diri, jiwa",
+        "wazan_perubahan": "فَعْل"
+      },
+      "nahwu": {
+        "kedudukan": "mubtada' (subjek) مرفوع بالضمة",
+        "irab_dan_logika": "dengan dhammah pada akhir ‑ُ menandakan marfu' sebagai mubtada'"
+      },
+      "hikmah": "menunjukkan subjek utama dalam ayat, yaitu jiwa‑jiwa manusia",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "ٱلشُّحَّ",
+      "transliterasi": "ash‑shuḥḥa",
+      "jenis_kata": "Isim",
+      "arti": "kikir, sifat kikir",
+      "sharaf": {
+        "akar_kata": "ش‑ح‑ض",
+        "makna_dasar": "shuhh = kikir, menahan pemberian",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "maf‘ul bihi (objek) منصوب بالفتحة",
+        "irab_dan_logika": "ditandai dengan fatha pada akhir ‑َّ menandakan nasb karena menjadi maf‘ul bihi dari fi'il pasif"
+      },
+      "hikmah": "menyiratkan sifat kikir yang menjadi penyebab jiwa‑jiwa dibawa ke hadapan Allah",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf",
+      "arti": "tanda baca (fathatan)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda waqf di akhir frasa",
+        "irab_dan_logika": "menunjukkan akhir pemikiran sebelum melanjutkan dengan huruf wa‑in"
+      },
+      "hikmah": "memberi jeda untuk menekankan makna sebelumnya",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "وَإِن",
+      "transliterasi": "wa‑in",
+      "jenis_kata": "Huruf",
+      "arti": "dan jika",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "huruf ‘atf wa‑huruf shart (kata sambung + partikel syarat)",
+        "irab_dan_logika": "tidak berharakat, menghubungkan ayat sebelumnya dengan klausa syarat selanjutnya"
+      },
+      "hikmah": "menandakan permulaan ayat baru yang bersifat bersyarat, menghubungkan konsep kikir dengan konsekuensi selanjutnya",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "تُحْسِنُوا۟",
+      "transliterasi": "tuḥsinū",
+      "jenis_kata": "Fi'il",
+      "arti": "menyempurnakan, berbuat baik",
+      "sharaf": {
+        "akar_kata": "ح س ن",
+        "makna_dasar": "baik, indah",
+        "wazan_perubahan": "تُفْعِلُون (imperatif jamak)"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il amar (kata perintah) 2nd person maskulin jamak, terletak setelah huruf وَ",
+        "irab_dan_logika": "diharuskannya dhammah karena bentuk perintah"
+      },
+      "hikmah": "Ajakan untuk selalu memperlakukan istri dengan kebaikan yang tulus, meneladani sifat Allah yang Maha Pengasih.",
+      "role": "none"
+    },
+    {
+      "index": 25,
+      "kata_arab": "وَتَتَّقُوا۟",
+      "transliterasi": "wa tattaqū",
+      "jenis_kata": "Fi'il",
+      "arti": "dan bertakwa",
+      "sharaf": {
+        "akar_kata": "ق و ف",
+        "makna_dasar": "takut, menjaga diri dari dosa",
+        "wazan_perubahan": "تَفَعَّلُوا (imperatif jamak)"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il amar (kata perintah) 2nd person maskulin jamak, dihubungkan dengan وَ",
+        "irab_dan_logika": "dhammah karena perintah"
+      },
+      "hikmah": "Selain berbuat baik, suami harus senantiasa menjaga ketakwaan kepada Allah dalam hubungan rumah tangga.",
+      "role": "none"
+    },
+    {
+      "index": 26,
+      "kata_arab": "فَإِنَّ",
+      "transliterasi": "fa‑inna",
+      "jenis_kata": "Huruf",
+      "arti": "maka sesungguhnya",
+      "sharaf": {
+        "akar_kata": "إنّ",
+        "makna_dasar": "penegasan, penekanan",
+        "wazan_perubahan": "partikel penegas"
+      },
+      "nahwu": {
+        "kedudukan": "huruf al‑‘illa (penyambung) + huruf inna (penegas)",
+        "irab_dan_logika": "inna menuntut isimnya ber‑nasb (fatḥa)"
+      },
+      "hikmah": "Menegaskan bahwa apa yang akan disebutkan selanjutnya adalah kebenaran mutlak yang tidak boleh diragukan.",
+      "role": "none"
+    },
+    {
+      "index": 27,
+      "kata_arab": "ٱللَّهَ",
+      "transliterasi": "Allāha",
+      "jenis_kata": "Isim",
+      "arti": "Allah (objek)",
+      "sharaf": {
+        "akar_kata": "إِلَه",
+        "makna_dasar": "tuhan, yang disembah",
+        "wazan_perubahan": "اسم علم (nama khusus)"
+      },
+      "nahwu": {
+        "kedudukan": "isim yang berada dalam posisi nasb karena inna",
+        "irab_dan_logika": "diberi harakat fatḥa menandakan nasb"
+      },
+      "hikmah": "Menunjukkan bahwa segala perintah dan penegasan berasal dari Allah, Sang Maha Mengetahui.",
+      "role": "none"
+    },
+    {
+      "index": 28,
+      "kata_arab": "كَانَ",
+      "transliterasi": "kāna",
+      "jenis_kata": "Fi'il",
+      "arti": "adalah, menjadi",
+      "sharaf": {
+        "akar_kata": "ك و ن",
+        "makna_dasar": "ada, eksistensi",
+        "wazan_perubahan": "كانَ (fi'il mudhari‘)"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il madhi (kata kerja) sebagai predikat utama",
+        "irab_dan_logika": "diharuskannya dhammah karena fi'il madhi"
+      },
+      "hikmah": "Menyatakan sifat kekal Allah yang selalu ada dan tidak berubah.",
+      "role": "none"
+    },
+    {
+      "index": 29,
+      "kata_arab": "بِمَا",
+      "transliterasi": "bimā",
+      "jenis_kata": "Huruf",
+      "arti": "dengan apa",
+      "sharaf": {
+        "akar_kata": "ب م ا",
+        "makna_dasar": "preposisi ‘dengan’, kata tanya ‘apa’",
+        "wazan_perubahan": "حرف جر + اسم موصول"
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar (bi) yang menghubungkan ke ma (ما) sebagai objeknya",
+        "irab_dan_logika": "ma berada dalam i‘rab majrur (kasrah) karena dipengaruhi bi"
+      },
+      "hikmah": "Menegaskan bahwa segala perbuatan baik dan takwa itu terjadi karena (dengan) apa yang Allah ketahui dan kehendaki.",
+      "role": "none"
+    },
+    {
+      "index": 30,
+      "kata_arab": "تَعْمَلُونَ",
+      "transliterasi": "ta‘malūna",
+      "jenis_kata": "Fi‘il",
+      "arti": "kamu (semua) melakukan",
+      "sharaf": {
+        "akar_kata": "ع م ل",
+        "makna_dasar": "bekerja, melakukan",
+        "wazan_perubahan": "فَعَلَ → تَفْعَلُونَ (verb aktif mudhari‘)"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja utama setelah حرف نصب (إن)",
+        "irab_dan_logika": "مُنصَب بالفتحة الظاهرة على النون لأن إن حرف نصب"
+      },
+      "hikmah": "Menegaskan bahwa setiap perbuatan hamba berada di bawah pengawasan Allah, sehingga harus dilakukan dengan niat yang baik.",
+      "role": "none"
+    },
+    {
+      "index": 31,
+      "kata_arab": "خَبِيرًۭا",
+      "transliterasi": "khabīran",
+      "jenis_kata": "Isim",
+      "arti": "yang mengetahui segala sesuatu",
+      "sharaf": {
+        "akar_kata": "خ ب ر",
+        "makna_dasar": "mengetahui, memberi informasi",
+        "wazan_perubahan": "فَعِيل (khabīr)"
+      },
+      "nahwu": {
+        "kedudukan": "اسم إن (predikat) dalam kalimat إِنَّ اللَّهَ خَبِيرًا",
+        "irab_dan_logika": "مُنصَب بالفتحة لأن اسم إن منصوب"
+      },
+      "hikmah": "Mengandung hikmah bahwa Allah Maha Mengetahui setiap amal dan niat hamba, menumbuhkan rasa tawakal dan keikhlasan.",
+      "role": "none"
+    }
+  ]
+}

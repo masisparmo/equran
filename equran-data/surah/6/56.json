@@ -1,0 +1,384 @@
+{
+  "surah": 6,
+  "ayah": 56,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "قُلْ",
+      "transliterasi": "qul",
+      "jenis_kata": "Fi'il (imperatif)",
+      "arti": "katakan",
+      "sharaf": {
+        "akar_kata": "ق-و-ل",
+        "makna_dasar": "mengucapkan, menyatakan",
+        "wazan_perubahan": "فَعَلَ → قُلْ (imperatif)"
+      },
+      "nahwu": {
+        "kedudukan": "فعل أمر مبني على السكون",
+        "irab_dan_logika": "مبني على السكون لأن الفعل أمر، واللام سكونية"
+      },
+      "hikmah": "Perintah Allah kepada Nabi untuk menyampaikan kebenaran secara tegas.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "إِنِّى",
+      "transliterasi": "innī",
+      "jenis_kata": "Huruf (particle) + Isim",
+      "arti": "sesungguhnya aku",
+      "sharaf": {
+        "akar_kata": "إ-ن- (tidak ada akar kata verbal)",
+        "makna_dasar": "penegasan, penekanan pada subjek",
+        "wazan_perubahan": "tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "اسم إنّ مع ضمير متصل",
+        "irab_dan_logika": "مرفوع بالضمة لأنه اسم إنّ، والياء ضمير متصل في محل رفع"
+      },
+      "hikmah": "Menegaskan identitas diri pembicara, menambah kekuatan pernyataan.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "نُهِيتُ",
+      "transliterasi": "nuhītu",
+      "jenis_kata": "Fi'il (passif, past)",
+      "arti": "aku dilarang",
+      "sharaf": {
+        "akar_kata": "ن-ه-ي",
+        "makna_dasar": "menghalangi, melarang",
+        "wazan_perubahan": "فَعِلَ → نُهِيتُ (pasif)"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ماضٍ مبني على الفتح",
+        "irab_dan_logika": "مبني على الفتح لأن الفعل ماضٍ، والياء ضمير متصل في محل رفع"
+      },
+      "hikmah": "Menunjukkan larangan ilahi yang mengikat diri pembicara.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "أَنْ",
+      "transliterasi": "an",
+      "jenis_kata": "Huruf (particle)",
+      "arti": "bahwa",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "menyambungkan kata kerja dengan makna tujuan atau syarat",
+        "wazan_perubahan": "tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "حرف نصب",
+        "irab_dan_logika": "يسبب نصب الفعل المضارع الذي يليه"
+      },
+      "hikmah": "Menghubungkan larangan dengan tindakan yang dilarang.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "أَعْبُدَ",
+      "transliterasi": "aʿbudu",
+      "jenis_kata": "Fi'il (verb, present)",
+      "arti": "aku menyembah",
+      "sharaf": {
+        "akar_kata": "ع-ب-د",
+        "makna_dasar": "menyembah, beribadah",
+        "wazan_perubahan": "أَفْعَلَ → أَعْبُدَ"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع منصوب بـ أَنْ",
+        "irab_dan_logika": "الفتحة لأنه منصوب بحرف النصب أَنْ"
+      },
+      "hikmah": "Menyatakan tindakan yang dilarang: menyembah selain Allah.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "ٱلَّذِينَ",
+      "transliterasi": "alladhīna",
+      "jenis_kata": "Isim (nama relatif)",
+      "arti": "orang‑orang yang",
+      "sharaf": {
+        "akar_kata": "ل-ذ-",
+        "makna_dasar": "yang, siapa",
+        "wazan_perubahan": "اسم موصول من الجذر ل-ذ-"
+      },
+      "nahwu": {
+        "kedudukan": "اسم موصول منصوب كمفعول به للفعل أَعْبُدَ",
+        "irab_dan_logika": "الفتحة لأنه مفعول به منصوب"
+      },
+      "hikmah": "Menunjuk pada sekumpulan orang yang disembah, mempertegas larangan.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "تَدْعُونَ",
+      "transliterasi": "tadʿūna",
+      "jenis_kata": "Fi'il",
+      "arti": "memanggil, menyembah",
+      "sharaf": {
+        "akar_kata": "د ع و",
+        "makna_dasar": "memanggil, menyembah",
+        "wazan_perubahan": "tadʿūna (bentuk I, imperfect dengan prefiks *ta-* dan akhiran *-na* untuk jamak)"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja dalam predikat (fi'il mudhari‘) yang berhubungan dengan subjek **الَّذِينَ**",
+        "irab_dan_logika": "مرفوع بالضمة الظاهرة على آخره؛ فعل مضارع مرفوع لأنه غير مسبوق بأداة نصب أو جزم"
+      },
+      "hikmah": "Menegaskan penolakan terhadap penyembahan selain Allah; menekankan bahwa hanya Allah yang patut dipanggil.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "مِن",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "huruf جر (preposisi) yang menghubungkan kata **دُونِ** dengan **ٱللَّهِ**",
+        "irab_dan_logika": "حرف جر يجر ما بعده؛ لذا فإن الكلمة التي تليه تُجر بالكسرة"
+      },
+      "hikmah": "Menunjukkan hubungan kepemilikan atau asal, di sini menandakan “di luar” Allah.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "دُونِ",
+      "transliterasi": "dūni",
+      "jenis_kata": "Isim",
+      "arti": "di luar, selain",
+      "sharaf": {
+        "akar_kata": "د و ن",
+        "makna_dasar": "di luar, tidak termasuk",
+        "wazan_perubahan": "اسم مجرور بحرف الجر مِن"
+      },
+      "nahwu": {
+        "kedudukan": "اسم مجرور بحرف الجر مِن",
+        "irab_dan_logika": "مجرور بالكسرة لأنّها تابعة لحرف الجر مِن"
+      },
+      "hikmah": "Menegaskan konsep penyembahan yang berada di luar (di samping) Allah.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "ٱللَّهِ",
+      "transliterasi": "Allāh",
+      "jenis_kata": "Isim",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "ل ه",
+        "makna_dasar": "tuhan",
+        "wazan_perubahan": "اسم علم مذكر مجرور بحرف الجر مِن"
+      },
+      "nahwu": {
+        "kedudukan": "اسم مجرور بحرف الجر مِن",
+        "irab_dan_logika": "مجرور بالكسرة لأنّها تابعة لحرف الجر مِن"
+      },
+      "hikmah": "Menegaskan keesaan Allah sebagai satu-satunya yang berhak disembah.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Tanda baca",
+      "arti": "tanda waqf (istirahat singkat)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "علامة وقف تُستعمل لتقسيم الجملة وتحديد الوقف",
+        "irab_dan_logika": "ليس لها إعراب؛ هي علامة توضيحية فقط"
+      },
+      "hikmah": "Memberi jeda bagi pembaca agar makna ayat dipahami secara terpisah.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "قُل",
+      "transliterasi": "qul",
+      "jenis_kata": "Fi'il",
+      "arti": "katakan",
+      "sharaf": {
+        "akar_kata": "ق و ل",
+        "makna_dasar": "berkata",
+        "wazan_perubahan": "فعل أمر من الفعل الثلاثي المجرد"
+      },
+      "nahwu": {
+        "kedudukan": "فعل أمر مبني على السكون، يوجه إلى Nabi ﷺ",
+        "irab_dan_logika": "مبني على السكون لأنه فعل أمر ولا يرفع ولا يجر"
+      },
+      "hikmah": "Perintah langsung kepada Nabi untuk menyampaikan wahyu Allah kepada umat.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "لَّآ",
+      "transliterasi": "`lā`",
+      "jenis_kata": "`Huruf (حرف نفي)`",
+      "arti": "`tidak`",
+      "sharaf": {
+        "akar_kata": "`-`",
+        "makna_dasar": "`-`",
+        "wazan_perubahan": "`-`"
+      },
+      "nahwu": {
+        "kedudukan": "`حرف نفي يسبق الفعل`",
+        "irab_dan_logika": "`حرف مبني على السكون لا إعراب له، ينفي الفعل التالي ويُظهر النفي القاطع`"
+      },
+      "hikmah": "`Menegaskan penolakan mutlak terhadap tindakan yang akan diikuti`",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "أَتَّبِعُ",
+      "transliterasi": "`ʾa‑t‑t‑a‑bīʿu`",
+      "jenis_kata": "`Fiʿl (فعل مضارع)`",
+      "arti": "`aku mengikuti`",
+      "sharaf": {
+        "akar_kata": "`ت‑ب‑ع`",
+        "makna_dasar": "`mengikuti, menelusuri`",
+        "wazan_perubahan": "`فعل مضارع مرفوع بالضمة، مع الفاعل الضمير المتصل (أنا) والهمزة في أول الفعل للدلالة على المتكلم`"
+      },
+      "nahwu": {
+        "kedudukan": "`فعل مضارع مرفوع، يسبق بحرف نفي لَّا`",
+        "irab_dan_logika": "`مرفوع بالضمة لأنه فعل مضارع غير مسبوق بأداة نصب، والهمزة في أوله علامة على المتكلم (أنا)`"
+      },
+      "hikmah": "`Menyatakan bahwa pembicara menolak untuk mengikuti apa pun, khususnya hawa nafsu yang disebutkan selanjutnya`",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "أَهْوَآءَكُمْ",
+      "transliterasi": "`ʾahwāʾakum`",
+      "jenis_kata": "`Isim (اسم جمع مذكر سالم مع ضمير متصل)`",
+      "arti": "`hawa nafsu kalian`",
+      "sharaf": {
+        "akar_kata": "`ه‑و‑ى`",
+        "makna_dasar": "`hasrat, keinginan, nafsu`",
+        "wazan_perubahan": "`أَفْعَلَةٌ مَجْمُوعٌ (أَهْوَى) مع ضمير المتكلم الجمع (كم)`"
+      },
+      "nahwu": {
+        "kedudukan": "`مفعول به للفعل أَتَّبِعُ`",
+        "irab_dan_logika": "`منصوب بالفتحة لأنه مفعول به، والضمير المتصل (كم) في محل جرّ مضاف إليه`"
+      },
+      "hikmah": "`Menunjukkan objek penolakan, yaitu mengikuti keinginan atau hawa nafsu manusia`",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "ۙ",
+      "transliterasi": "`waqf`",
+      "jenis_kata": "`Huruf (tanda waqf)`",
+      "arti": "`tanda jeda/berhenti`",
+      "sharaf": {
+        "akar_kata": "`-`",
+        "makna_dasar": "`-`",
+        "wazan_perubahan": "`-`"
+      },
+      "nahwu": {
+        "kedudukan": "`علامة وقف بين الجمل`",
+        "irab_dan_logika": "`ليس له إعراب؛ يهدف إلى إيقاف القراءة مؤقتاً لتبيين وقف بين الفعل ومقابلته`"
+      },
+      "hikmah": "`Memberi jeda untuk menekankan makna sebelum melanjutkan ke kata berikutnya`",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "إِذًۭا",
+      "transliterasi": "idhā",
+      "jenis_kata": "Huruf",
+      "arti": "kemudian, lalu",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "kata keterangan waktu, biasanya menempel setelah fi'il",
+        "irab_dan_logika": "berakhiran tanwīn fatha (ً) menandakan nasb karena berfungsi sebagai ظرف زمان"
+      },
+      "hikmah": "*إِذًا* menegaskan urutan waktu, mengisyaratkan bahwa apa yang disebutkan terjadi sesudah sesuatu yang lain.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "وَمَآ",
+      "transliterasi": "wa-mā",
+      "jenis_kata": "Huruf",
+      "arti": "dan tidak",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "huruf sambung (و) + huruf ma (ما) yang berfungsi sebagai penyangkalan",
+        "irab_dan_logika": "maʾ di sini tidak berharakat karena termasuk dalam huruf, menolak keberadaan sesuatu"
+      },
+      "hikmah": "*وما* menegaskan penolakan atau ketiadaan sesuatu yang dibicarakan, memperkuat makna negatif dalam ayat.",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "أَنَا۠",
+      "transliterasi": "anā",
+      "jenis_kata": "Isim",
+      "arti": "aku",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "isim dhati (kata ganti orang pertama) sebagai mubtada' (subjek)",
+        "irab_dan_logika": "biasanya berharakat dammah (أَنَا) sebagai رَفْع, namun dalam teks Qur'an sering ditulis tanpa harakat akhir karena sifatnya mutlak"
+      },
+      "hikmah": "*أَنَا* menegaskan identitas pembicara, menegaskan bahwa yang berbicara adalah diri sendiri, bukan yang lain.",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "مِنَ",
+      "transliterasi": "mina",
+      "jenis_kata": "Huruf",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar yang menghubungkan kata sebelumnya dengan isim berikutnya",
+        "irab_dan_logika": "menjadikan kata yang mengikutinya (ٱلْمُهْتَدِينَ) dalam حالة الجر dengan kasrah"
+      },
+      "hikmah": "*مِنَ* menunjukkan asal atau sumber, dalam konteks ini menandakan bahwa orang‑orang yang dimaksud termasuk dalam golongan “yang mendapat petunjuk”.",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "ٱلْمُهْتَدِينَ",
+      "transliterasi": "al‑muhtadīna",
+      "jenis_kata": "Isim",
+      "arti": "orang‑orang yang mendapat petunjuk",
+      "sharaf": {
+        "akar_kata": "ه د ي",
+        "makna_dasar": "hidayah (petunjuk)",
+        "wazan_perubahan": "مُفْتَعِل (aktif participle)"
+      },
+      "nahwu": {
+        "kedudukan": "isim fa'il jamīʿ (plural) dalam حالة الجر karena didahului بِـ مِنَ",
+        "irab_dan_logika": "مجرور بالكسرة لأنه تابع لحرف الجر مِنَ"
+      },
+      "hikmah": "*ٱلْمُهْتَدِينَ* menggambarkan kelompok orang yang berada di jalan yang benar, yaitu yang dipandu oleh petunjuk Allah, menegaskan keutamaan mereka dalam konteks ayat.",
+      "role": "none"
+    }
+  ]
+}

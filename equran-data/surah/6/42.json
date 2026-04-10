@@ -1,0 +1,204 @@
+{
+  "surah": 6,
+  "ayah": 42,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "وَلَقَدْ",
+      "transliterasi": "wa laqad",
+      "jenis_kata": "Huruf",
+      "arti": "dan sesungguhnya",
+      "sharaf": {
+        "akar_kata": "ق د",
+        "makna_dasar": "penegasan, sesungguhnya",
+        "wazan_perubahan": "laqad (partikel penegas)"
+      },
+      "nahwu": {
+        "kedudukan": "Partikel penguat di awal ayat, menghubungkan dengan kalimat sebelumnya",
+        "irab_dan_logika": "Tidak berharakat karena huruf, berfungsi sebagai **harf** yang menegaskan makna"
+      },
+      "hikmah": "Menegaskan bahwa apa yang akan disebutkan adalah fakta yang kuat dan tidak diragukan.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "أَرْسَلْنَآ",
+      "transliterasi": "arsalnā",
+      "jenis_kata": "Fi'il",
+      "arti": "kami mengutus",
+      "sharaf": {
+        "akar_kata": "ر س ل",
+        "makna_dasar": "mengirim, mengutus",
+        "wazan_perubahan": "fi'il madhi (3rd person) 1st person plural"
+      },
+      "nahwu": {
+        "kedudukan": "Predikat utama dalam ayat, fi'il madhi",
+        "irab_dan_logika": "Marfu' dengan dhammah karena fi'il madhi"
+      },
+      "hikmah": "Menunjukkan tindakan Allah yang aktif mengirim para rasul kepada umat-umat terdahulu.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "إِلَىٰٓ",
+      "transliterasi": "ilā",
+      "jenis_kata": "Huruf",
+      "arti": "kepada",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "menunjukkan arah atau tujuan",
+        "wazan_perubahan": "huruf jar"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar yang menghubungkan fi'il dengan objeknya",
+        "irab_dan_logika": "Tidak berharakat karena huruf, berfungsi sebagai **huruf jar**"
+      },
+      "hikmah": "Menandakan tujuan pengutusan para rasul kepada umat-umat tertentu.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "أُمَمٍۢ",
+      "transliterasi": "umam",
+      "jenis_kata": "Isim",
+      "arti": "umat-umat",
+      "sharaf": {
+        "akar_kata": "أ م م",
+        "makna_dasar": "bangsa, komunitas",
+        "wazan_perubahan": "isim jamak taksir (مَفْعُول)"
+      },
+      "nahwu": {
+        "kedudukan": "Objek preposisi **إِلَى**, berstatus majrur",
+        "irab_dan_logika": "Berharakat kasrah karena jar"
+      },
+      "hikmah": "Menyiratkan bahwa Allah mengutus rasul kepada kelompok manusia yang beragam.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "مِّن",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "menunjukkan asal atau sumber",
+        "wazan_perubahan": "huruf jar"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar yang menghubungkan **أُمَمٍ** dengan **قَبْلِكَ**",
+        "irab_dan_logika": "Tidak berharakat karena huruf"
+      },
+      "hikmah": "Menunjukkan rentang waktu atau periode yang menjadi acuan.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "قَبْلِكَ",
+      "transliterasi": "qablika",
+      "jenis_kata": "Isim",
+      "arti": "sebelummu",
+      "sharaf": {
+        "akar_kata": "ق ب ل",
+        "makna_dasar": "sebelum",
+        "wazan_perubahan": "isim mauliyat"
+      },
+      "nahwu": {
+        "kedudukan": "Objek jar setelah **مِّن**, berstatus majrur",
+        "irab_dan_logika": "Berharakat kasrah karena jar"
+      },
+      "hikmah": "Menegaskan bahwa umat-umat yang dimaksud adalah yang telah ada sebelum zaman Nabi Muhammad ﷺ.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "فَأَخَذْنَٰهُم",
+      "transliterasi": "fa-akhadznāhum",
+      "jenis_kata": "Fi'il",
+      "arti": "Maka Kami siksa/ambil mereka",
+      "sharaf": {
+        "akar_kata": "أ خ ذ (a-kh-dh)",
+        "makna_dasar": "Mengambil, memegang, menyiksa",
+        "wazan_perubahan": "Fi'il Madhi, wazan فَعَلَ (fa'ala) dengan penambahan dhamir"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il (kata kerja) beserta Fa'il (subjek) dan Maf'ul Bih (objek)",
+        "irab_dan_logika": "فَ (fa) adalah huruf 'athaf (penghubung) yang bermakna 'maka' atau 'lalu', mabni 'ala fath. أَخَذْنَا (akhadznā) adalah fi'il madhi mabni 'ala sukun karena bersambung dengan dhamir نا (nā) al-fa'ilin (Kami), yang berkedudukan sebagai fa'il (subjek) dalam keadaan rafa'. هُم (hum) adalah dhamir muttasil (kata ganti bersambung) mabni 'ala sukun yang berkedudukan sebagai maf'ul bih (objek) dalam keadaan nashab."
+      },
+      "hikmah": "Kata ini menunjukkan konsekuensi langsung dan tegas dari penolakan terhadap rasul-rasul. Allah (Kami) mengambil tindakan menghukum (menyiksa) mereka (umat-umat terdahulu) sebagai bentuk keadilan ilahi. Ini adalah peringatan bahwa setiap perbuatan ada balasannya.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "بِٱلْبَأْسَآءِ",
+      "transliterasi": "bil-ba'sā'i",
+      "jenis_kata": "Isim",
+      "arti": "Dengan kesengsaraan",
+      "sharaf": {
+        "akar_kata": "ب أ س (b-'-s)",
+        "makna_dasar": "Kesulitan, kesengsaraan, penderitaan",
+        "wazan_perubahan": "Isim, wazan فَعْلَاء (fa'lā')"
+      },
+      "nahwu": {
+        "kedudukan": "Isim majrur (kata benda yang dikasrahkan) oleh huruf jar بِ",
+        "irab_dan_logika": "بِ (bi) adalah huruf jar (preposisi) yang bermakna 'dengan' atau 'karena', mabni 'ala kasr. ٱلْبَأْسَآءِ (al-ba'sā'i) adalah isim majrur oleh huruf jar بِ, dan tanda jarnya adalah kasrah yang nampak pada akhirnya."
+      },
+      "hikmah": "Kata ini menjelaskan jenis siksaan yang ditimpakan, yaitu kesengsaraan dan kesulitan hidup. Ini bukan sekadar hukuman fisik, melainkan penderitaan yang menyentuh aspek-aspek kehidupan, bertujuan untuk mengguncang kesadaran manusia dan mendorong mereka untuk kembali kepada Allah.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "وَٱلضَّرَّآءِ",
+      "transliterasi": "waḍ-ḍarrā'i",
+      "jenis_kata": "Isim",
+      "arti": "Dan kemelaratan",
+      "sharaf": {
+        "akar_kata": "ض ر ر (ḍ-r-r)",
+        "makna_dasar": "Bahaya, kerugian, kemelaratan, kesusahan",
+        "wazan_perubahan": "Isim, wazan فَعْلَاء (fa'lā')"
+      },
+      "nahwu": {
+        "kedudukan": "Ma'thuf (diikuti) kepada بِٱلْبَأْسَآءِ",
+        "irab_dan_logika": "وَ (wa) adalah huruf 'athaf (penghubung) yang bermakna 'dan', mabni 'ala fath. ٱلضَّرَّآءِ (aḍ-ḍarrā'i) adalah isim yang di-'athaf-kan (dihubungkan) kepada ٱلْبَأْسَآءِ. Karena ٱلْبَأْسَآءِ berkedudukan majrur, maka ٱلضَّرَّآءِ juga majrur, dengan tanda jarnya adalah kasrah yang nampak pada akhirnya."
+      },
+      "hikmah": "Bersama dengan 'al-ba'sa'', kata ini melengkapi gambaran penderitaan yang ditimpakan. 'Ad-dharra'' secara khusus merujuk pada kemelaratan, kerugian, atau kesusahan yang mungkin terkait dengan harta benda, kesehatan, atau kondisi fisik. Kombinasi keduanya menunjukkan penderitaan yang menyeluruh, baik secara umum maupun spesifik, yang dimaksudkan untuk menyadarkan manusia.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "لَعَلَّهُمْ",
+      "transliterasi": "la'allahum",
+      "jenis_kata": "Huruf",
+      "arti": "Supaya mereka / Mudah-mudahan mereka",
+      "sharaf": {
+        "akar_kata": "Tidak ada akar kata untuk huruf",
+        "makna_dasar": "Harapan, tujuan, kemungkinan",
+        "wazan_perubahan": "Huruf nasikh (dari saudara inna)"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf nasikh dan isimnya",
+        "irab_dan_logika": "لَعَلَّ (la'alla) adalah huruf nasikh (partikel yang mengubah i'rab) yang bermakna 'supaya' atau 'mudah-mudahan', mabni 'ala fath. Ia menashabkan isim dan merafa'kan khabar. هُمْ (hum) adalah dhamir muttasil mabni 'ala sukun yang berkedudukan sebagai isim لَعَلَّ dalam keadaan nashab."
+      },
+      "hikmah": "Kata ini mengungkapkan tujuan mulia di balik penimpahan musibah. Allah tidak menyiksa tanpa tujuan, melainkan agar manusia memiliki harapan untuk kembali, sadar, dan merendahkan diri kepada-Nya. Ini menunjukkan rahmat Allah yang tersembunyi di balik ujian dan cobaan.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "يَتَضَرَّعُونَ",
+      "transliterasi": "yataḍarra'ūna",
+      "jenis_kata": "Fi'il",
+      "arti": "Mereka memohon dengan tunduk merendahkan diri",
+      "sharaf": {
+        "akar_kata": "ض ر ع (ḍ-r-'a)",
+        "makna_dasar": "Memohon, merendahkan diri, tunduk, bersimpuh",
+        "wazan_perubahan": "Fi'il Mudhari', wazan يَتَفَعَّلُونَ (yatafa''alūna) dari bab تَفَعَّلَ (tafa''ala)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il mudhari' marfu', khabar لَعَلَّ (dalam bentuk jumlah fi'liyyah)",
+        "irab_dan_logika": "يَتَضَرَّعُونَ (yataḍarra'ūna) adalah fi'il mudhari' marfu' karena tidak didahului oleh amil nashab (penashab) atau jazm (penjazm). Tanda rafa'nya adalah tetapnya nun (ثبوت النون) karena termasuk af'alul khamsah (lima kata kerja). Wawu (و) adalah dhamir muttasil mabni 'ala sukun yang berkedudukan sebagai fa'il (subjek) dalam keadaan rafa'. Jumlah fi'liyyah (kalimat kata kerja) 'يَتَضَرَّعُونَ' ini berkedudukan sebagai khabar لَعَلَّ dalam keadaan rafa'."
+      },
+      "hikmah": "Kata ini menggambarkan respons yang diharapkan dari manusia ketika menghadapi kesulitan, yaitu kembali kepada Allah dengan kerendahan hati yang tulus, memohon ampunan dan pertolongan. Ini adalah puncak dari tujuan ujian, yaitu untuk menyucikan jiwa (tazkiyatun nufus) dan menguatkan tauhid, serta mengingatkan manusia akan ketergantungan mutlak mereka kepada Sang Pencipta.",
+      "role": "none"
+    }
+  ]
+}

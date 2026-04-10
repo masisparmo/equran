@@ -1,0 +1,204 @@
+{
+  "surah": 7,
+  "ayah": 19,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "وَيَٰٓـَٔادَمُ",
+      "transliterasi": "wa‑yāʾadamu",
+      "jenis_kata": "Isim (nama)",
+      "arti": "**dan Adam**",
+      "sharaf": {
+        "akar_kata": "أ د م",
+        "makna_dasar": "manusia pertama",
+        "wazan_perubahan": "Isim muṣṭalaḥ"
+      },
+      "nahwu": {
+        "kedudukan": "Isim معطوف على الضمير *أنت* في الجملة",
+        "irab_dan_logika": "مرفوع بالضمة لأنّه معطوف على مفعول به منصوب"
+      },
+      "hikmah": "Menunjukkan bahwa Adam termasuk dalam perintah Allah bersama istri‑nya, menegaskan kedudukan keduanya sebagai subjek utama.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "ٱسْكُنْ",
+      "transliterasi": "uskuni",
+      "jenis_kata": "Fiʿil (perintah)",
+      "arti": "**tinggallah / tinggallah**",
+      "sharaf": {
+        "akar_kata": "س ك ن",
+        "makna_dasar": "menetap, berdiam",
+        "wazan_perubahan": "فعل أمر من وزن فَعِل"
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "مِنْ",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "preposisi yang menunjukkan asal atau sumber",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar (preposisi) yang menghubungkan ke kata berikutnya",
+        "irab_dan_logika": "Tidak berharakat karena huruf jar, mengikat اسم الجر (حَيْثُ)"
+      },
+      "hikmah": "Menunjukkan asal tempat, \"dari\"",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "حَيْثُ",
+      "transliterasi": "haythu",
+      "jenis_kata": "Isim",
+      "arti": "di mana",
+      "sharaf": {
+        "akar_kata": "ح-ي-ث",
+        "makna_dasar": "menunjukkan tempat",
+        "wazan_perubahan": "kata ma'na (adverb)"
+      },
+      "nahwu": {
+        "kedudukan": "Isim ma'na (kata keterangan tempat) setelah huruf jar",
+        "irab_dan_logika": "Berharakat dhammah karena menjadi اسم الجر (مِنْ حَيْثُ)"
+      },
+      "hikmah": "Menyatakan lokasi, \"di mana\"",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "شِئْتُمَا",
+      "transliterasi": "shi'tuma",
+      "jenis_kata": "Fi'il",
+      "arti": "kamu berdua menginginkan",
+      "sharaf": {
+        "akar_kata": "ش-ئ-ء",
+        "makna_dasar": "ingin, memilih",
+        "wazan_perubahan": "فَعَلَ (dengan hamzah)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il madhi (past) 2nd person dual maskulin",
+        "irab_dan_logika": "Tidak berirab, karena fi'il madhi tidak berharakat"
+      },
+      "hikmah": "Menunjukkan kehendak Adam dan istrinya, \"kamu berdua menginginkan\"",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "وَلَا",
+      "transliterasi": "wala",
+      "jenis_kata": "Huruf",
+      "arti": "dan tidak",
+      "sharaf": {
+        "akar_kata": "و-ل-ى",
+        "makna_dasar": "menyatakan penolakan atau larangan",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf nasb (kata sambung) yang menghubungkan ke fi'il perintah selanjutnya",
+        "irab_dan_logika": "Tidak berharakat, berfungsi sebagai penghubung"
+      },
+      "hikmah": "Memberi perintah negatif, \"dan jangan\"",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "تَقْرَبَا",
+      "transliterasi": "taqraba",
+      "jenis_kata": "Fi'il",
+      "arti": "dekatilah",
+      "sharaf": {
+        "akar_kata": "ق-ر-ب",
+        "makna_dasar": "mendekat",
+        "wazan_perubahan": "تَفْعَلُ (perintah)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il amar (perintah) 2nd person dual maskulin setelah وَلا",
+        "irab_dan_logika": "Berakhiran alif maqṣūrah dengan sukun, menandakan bentuk perintah untuk dual"
+      },
+      "hikmah": "Larangan mendekati, \"jangan mendekati\"",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "ٱلشَّجَرَةَ",
+      "transliterasi": "al‑shajarah",
+      "jenis_kata": "Isim (isim maf‘ul)",
+      "arti": "pohon (yang ditetapkan)",
+      "sharaf": {
+        "akar_kata": "ش ج ر",
+        "makna_dasar": "berkaitan dengan pohon, tumbuh‑tumbuhan",
+        "wazan_perubahan": "muf‘ala (فَعَلَ) → اسم مفعول بـَة"
+      },
+      "nahwu": {
+        "kedudukan": "*Maf‘ul* (objek) dari perintah **la‑taqrabā**",
+        "irab_dan_logika": "مَنْصُوبٌ بالفتحة لأنّه مفعول به منصوب من الفعل الناهي"
+      },
+      "hikmah": "Larangan mendekati *pohon* menandakan batas ujian Allah; bila dilanggar, manusia masuk dalam golongan **zalim**.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "فَتَكُونَا",
+      "transliterasi": "fa‑takūnā",
+      "jenis_kata": "Fi‘il (madhi‑mustaqbal, 2 muḍa‘af)",
+      "arti": "maka kamu berdua akan menjadi",
+      "sharaf": {
+        "akar_kata": "ك و ن",
+        "makna_dasar": "menjadi, eksis",
+        "wazan_perubahan": "فَعَلَ – bentuk mudhari‘ dengan suffix dual ‑ā"
+      },
+      "nahwu": {
+        "kedudukan": "*Khabar* (predikat) dari kalimat bersyarat",
+        "irab_dan_logika": "مرفوعٌ بالضمة لأنّه فعل مضارع مرفوع وعلامة رفعه الضمة الظاهرة"
+      },
+      "hikmah": "Menunjukkan konsekuensi logis: *jika* mendekati pohon, *maka* keduanya akan termasuk orang‑orang **zalim**.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "مِنَ",
+      "transliterasi": "mina",
+      "jenis_kata": "Huruf (preposisi)",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "م ن",
+        "makna_dasar": "menunjuk asal atau sumber",
+        "wazan_perubahan": "huruf jar, tidak berwazn"
+      },
+      "nahwu": {
+        "kedudukan": "*Huruf jar* yang menghubungkan kata sebelumnya dengan *al‑ẓālimīn*",
+        "irab_dan_logika": "مجرورٌ وعلامة جره الكسرة الظاهرة على آخره"
+      },
+      "hikmah": "Menandakan bahwa *zalim* berasal dari tindakan mendekati *pohon* yang dilarang.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "ٱلظَّٰلِمِينَ",
+      "transliterasi": "aẓ‑ẓālimīn",
+      "jenis_kata": "Isim (isim jamak)",
+      "arti": "orang‑orang yang zalim",
+      "sharaf": {
+        "akar_kata": "ظ ل م",
+        "makna_dasar": "menindas, berbuat tidak adil",
+        "wazan_perubahan": "فَعِيل + يَـن (jamak maskulin salim)"
+      },
+      "nahwu": {
+        "kedudukan": "*Ism majrur* setelah huruf jar *mina*",
+        "irab_dan_logika": "مجرورٌ بالكسرة لأنّها مجرور بحرف الجر، وعلامة جره الياء لأنها جمع مذكر سالم"
+      },
+      "hikmah": "Menegaskan bahwa melanggar perintah Allah menempatkan manusia dalam golongan **zalim**, yaitu mereka yang menindas diri sendiri dan orang lain.",
+      "role": "none"
+    }
+  ]
+}

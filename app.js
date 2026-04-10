@@ -1,4 +1,5 @@
 // State Variables
+let currentMode = 'home'; // Tracking active mode (home/mushaf)
 let currentSurah = null;
 let currentAyah = null;
 let apiKeys = [];
@@ -88,7 +89,7 @@ const tafsirContent = document.getElementById('tafsir-content');
 const tafsirLoading = document.getElementById('tafsir-loading');
 const tafsirBtn = document.getElementById('tafsir-btn');
 
-let currentMushafData = { ayahs: [], translations: [] }; // Store current page data
+let currentMushafData = { ayahs: [], translations: [], page: null }; // Store current page data
 let currentWordContext = {}; // Store context for detail explanation
 let currentDeepExplainText = ""; // Store plain markdown text for download/copy
 let chatSessionHistory = []; // Store conversational context for the chat API
@@ -99,11 +100,14 @@ let currentTafsirSurahSource = null; // Cache source tracking
 // --- API Variables ---
 const quranApiBaseUrl = 'https://api.alquran.cloud/v1';
 const gasBackendUrl = 'https://script.google.com/macros/s/AKfycbz6LH6bOoAYpzqtS91sn-g_ZHH-WJZvg_1eK4lBg4Vqvly9iTe8SPIxMSRQ-5Ox4vt6SA/exec';
-const githubDataUrl = 'https://equran.isparmo.com/equran-data';
+const githubDataUrl = './equran-data';
 let surahsData = [];
 let currentSurahData = null; // Store fetched data for current surah
 let currentAyahsIndo = null; // Store translations
 let currentAudioUrls = null;
+let asbabunNuzulIndex = null; // Store verses that have Asbabun Nuzul
+let userBookmarks = []; // Store user saved verses
+
 
 // --- Migration System (localStorage to IndexedDB) ---
 async function migrateLocalStorageToIndexedDB() {
@@ -171,6 +175,10 @@ async function init() {
     fetchSurahs();
     loadApiKeys();
     initQuranSearchData();
+    await loadAsbabunNuzulIndex();
+    await loadBookmarks();
+
+
 
     // Check if we need to show welcome modal on first load
     if (apiKeys.length === 0 && !sessionStorage.getItem('welcome_dismissed')) {
@@ -358,12 +366,18 @@ function setupEventListeners() {
         }
 
         // 2. Handle Mushaf/Home Dynamic Content (Tafsir & Word Click)
-        const tafsirTarget = e.target.closest('.mushaf-tafsir-btn, .mushaf-end-ayah-block, .mushaf-end-ayah');
+        const tafsirTarget = e.target.closest('.mushaf-tafsir-btn, .mushaf-end-ayah-block, .mushaf-end-ayah, .mushaf-asbab-icon, .asbab-badge-home');
         if (tafsirTarget) {
             e.preventDefault();
             const surahNum = parseInt(tafsirTarget.dataset.surah);
             const ayahNum = parseInt(tafsirTarget.dataset.ayah);
             if (!isNaN(surahNum) && !isNaN(ayahNum)) {
+                // If clicking asbab icon, force source to 'alazhar' (Jalalain & Asbabun Nuzul)
+                if (tafsirTarget.classList.contains('mushaf-asbab-icon') || tafsirTarget.classList.contains('asbab-badge-home')) {
+                    currentTafsirSource = 'alazhar';
+                    const selector = document.getElementById('tafsir-source-select');
+                    if (selector) selector.value = 'alazhar';
+                }
                 openTafsirModal(surahNum, ayahNum);
             }
             return;
@@ -377,7 +391,33 @@ function setupEventListeners() {
             const plainWord = wordTarget.textContent;
             handleWordClick(plainWord, surahNum, ayahNum, wordIndex, wordTarget);
         }
+
+        // 3. Handle Bookmark Toggles
+        const bookmarkToggle = e.target.closest('.mushaf-bookmark-icon');
+        if (bookmarkToggle) {
+            e.preventDefault();
+            const surah = parseInt(bookmarkToggle.dataset.surah);
+            const ayah = parseInt(bookmarkToggle.dataset.ayah);
+            const page = parseInt(bookmarkToggle.dataset.page);
+            const surahName = bookmarkToggle.dataset.surahName;
+            toggleBookmark(surah, ayah, page, surahName);
+        }
     });
+
+    const bookmarkHistoryBtn = document.getElementById('bookmark-history-btn');
+    const bookmarkModal = document.getElementById('bookmark-modal');
+    const closeBookmarkModalBtn = document.getElementById('close-bookmark-modal');
+
+    if (bookmarkHistoryBtn) {
+        bookmarkHistoryBtn.addEventListener('click', () => {
+            renderBookmarkHistory();
+            openModal(bookmarkModal);
+        });
+    }
+
+    if (closeBookmarkModalBtn) {
+        closeBookmarkModalBtn.addEventListener('click', () => closeModal(bookmarkModal));
+    }
 
     // Close Modals with Escape key
     window.addEventListener('keydown', (e) => {
@@ -627,6 +667,7 @@ async function fetchMushafPage(pageNumber) {
         // Save current page data for toggle re-rendering
         currentMushafData.ayahs = tajweedData.data.ayahs;
         currentMushafData.translations = translationData.data.ayahs;
+        currentMushafData.page = pageNumber;
 
         // Update input values to match current page's first ayah
         const firstAyah = tajweedData.data.ayahs[0];
@@ -727,27 +768,55 @@ function renderMushafPage() {
         // Split text by space
         const words = text.split(/\s+/).filter(w => w.trim() !== "");
 
-        // Create HTML for each word
+        // Asbabun Nuzul Badge logic
+        const surahNumKey = String(ayah.surah.number);
+        const hasAsbab = asbabunNuzulIndex && 
+                         asbabunNuzulIndex[surahNumKey] && 
+                         asbabunNuzulIndex[surahNumKey].includes(ayah.numberInSurah);
+
+        let asbabBadgeHtml = '';
+        let asbabIconHtml = '';
+        if (hasAsbab) {
+            asbabBadgeHtml = `<span class="asbab-badge mushaf-asbab-badge" title="Ayat ini memiliki riwayat Asbabun Nuzul"><i class="fas fa-scroll"></i> Asbabun Nuzul</span>`;
+            asbabIconHtml = `<span class="mushaf-asbab-icon" title="Klik untuk Asbabun Nuzul" style="cursor:pointer;" data-surah="${ayah.surah.number}" data-ayah="${ayah.numberInSurah}"> <i class="fas fa-scroll"></i></span>`;
+        }
+
+        // Bookmark logic
+        const isBookmarked = userBookmarks.some(b => b.surah === ayah.surah.number && b.ayah === ayah.numberInSurah);
+        const bookmarkIconHtml = `<span class="mushaf-bookmark-icon ${isBookmarked ? 'active' : ''}" 
+            title="${isBookmarked ? 'Hapus dari Bookmark' : 'Simpan ke Bookmark'}" 
+            data-surah="${ayah.surah.number}" 
+            data-ayah="${ayah.numberInSurah}" 
+            data-page="${currentMushafData.page}" 
+            data-surah-name="${ayah.surah.englishName}">
+            <i class="${isBookmarked ? 'fas' : 'far'} fa-bookmark"></i>
+        </span>`;
+
+        // Build the ayah marker HTML
+        const markerHtml = showTranslation
+            ? `<button class="mushaf-end-ayah-block" data-surah="${ayah.surah.number}" data-ayah="${ayah.numberInSurah}" aria-label="Tafsir Ayat ${ayah.numberInSurah}">۝${ayahNumAr}</button>`
+            : `<button class="mushaf-end-ayah" data-surah="${ayah.surah.number}" data-ayah="${ayah.numberInSurah}" aria-label="Tafsir Ayat ${ayah.numberInSurah}">۝${ayahNumAr}</button>`;
+
+        // Render words as simple inline spans — block div parent handles alignment
         let wordsHtml = words.map((w, wIndex) => {
             let actualWordIndex = wIndex + wordIndexOffset;
             return `<span class="mushaf-word" data-surah="${ayah.surah.number}" data-ayah="${ayah.numberInSurah}" data-index="${actualWordIndex}">${w}</span>`;
-        }).join(' ');
+        }).join(' ') + ' ' + markerHtml + ' ' + bookmarkIconHtml + ' ' + asbabIconHtml;
 
         if (showTranslation) {
             const transText = currentMushafData.translations[index].text;
             htmlContent += `
             <div class="mushaf-ayah-block">
-                <span class="mushaf-ayah" style="display: inline-block; width: 100%; text-align: right;">
-                    ${wordsHtml} <button class="mushaf-end-ayah-block" data-surah="${ayah.surah.number}" data-ayah="${ayah.numberInSurah}" aria-label="Tafsir Ayat ${ayah.numberInSurah}">۝${ayahNumAr}</button>
-                </span>
+                <div class="mushaf-ayah" style="display:block;text-align:right;direction:rtl;word-spacing:normal;">${wordsHtml}</div>
                 <span class="mushaf-translation-text">
-                    <button class="mushaf-tafsir-btn" data-surah="${ayah.surah.number}" data-ayah="${ayah.numberInSurah}" title="Lihat Tafsir Ibnu Katsir"><i class="fas fa-book-open"></i></button>
+                    <button class="mushaf-tafsir-btn" data-surah="${ayah.surah.number}" data-ayah="${ayah.numberInSurah}" title="Lihat Tafsir"><i class="fas fa-book-open"></i></button>
+                    ${asbabBadgeHtml}
                     ${ayah.numberInSurah}. ${transText}
                 </span>
             </div>`;
         } else {
-            // Normal continuous rendering
-            htmlContent += `<span class="mushaf-ayah">${wordsHtml} <button class="mushaf-end-ayah" data-surah="${ayah.surah.number}" data-ayah="${ayah.numberInSurah}" aria-label="Tafsir Ayat ${ayah.numberInSurah}">۝${ayahNumAr}</button> </span>`;
+            // FORCE right-align via inline style — prevents any browser justify override
+            htmlContent += `<div class="mushaf-ayah" style="display:block;text-align:right;direction:rtl;word-spacing:normal;">${wordsHtml}</div>`;
         }
     });
 
@@ -1043,7 +1112,21 @@ function initKeyboardListeners() {
     });
 }
 
+async function loadAsbabunNuzulIndex() {
+    try {
+        const response = await fetch(`${githubDataUrl}/asbabun_nuzul_index.json`);
+        if (response.ok) {
+            asbabunNuzulIndex = await response.json();
+            console.log("Asbabun Nuzul index loaded:", Object.keys(asbabunNuzulIndex).length, "surahs found.");
+        }
+
+    } catch (error) {
+        console.warn("Could not load Asbabun Nuzul index:", error);
+    }
+}
+
 async function fetchSurahs() {
+
     const surahSelect = document.getElementById('surah-select');
     showLoading();
     try {
@@ -1229,12 +1312,59 @@ async function downloadCurrentSurahAudio() {
 }
 
 function displayAyah(ayahNumberInSurah) {
+    if (!currentSurahData || !currentSurahData.ayahs || !currentAyahsIndo) {
+        console.warn('displayAyah: Data not ready.');
+        return;
+    }
     const ayahIndex = ayahNumberInSurah - 1;
     const ayahAr = currentSurahData.ayahs[ayahIndex];
     const ayahId = currentAyahsIndo[ayahIndex];
     const ayahAudio = currentAudioUrls[ayahIndex];
 
     document.getElementById('current-surah-name').textContent = `${currentSurahData.englishName} - Ayat ${ayahNumberInSurah}`;
+
+    // Show Asbabun Nuzul badge if exists
+    const currentSurahNumForBadge = currentSurahData.number;
+    
+    // Cleanup existing badges
+    const existingBadge = document.querySelector('.asbab-badge-home');
+    if (existingBadge) existingBadge.remove();
+    const existingBookmarkBadge = document.querySelector('.bookmark-badge-home');
+    if (existingBookmarkBadge) existingBookmarkBadge.remove();
+
+    const header = document.querySelector('.ayah-header');
+    if (!header) return;
+
+    // 1. Asbabun Nuzul Badge
+    console.log(`Checking Asbabun Nuzul for S${currentSurahNumForBadge} A${ayahNumberInSurah}`);
+    if (asbabunNuzulIndex && 
+        asbabunNuzulIndex[currentSurahNumForBadge] && 
+        asbabunNuzulIndex[currentSurahNumForBadge].includes(ayahNumberInSurah)) {
+        const badge = document.createElement('span');
+        badge.className = 'asbab-badge asbab-badge-home';
+        badge.style.cursor = 'pointer';
+        badge.dataset.surah = currentSurahNumForBadge;
+        badge.dataset.ayah = ayahNumberInSurah;
+        badge.innerHTML = `<i class="fas fa-scroll"></i> Asbabun Nuzul`;
+        badge.title = "Klik untuk membuka riwayat Asbabun Nuzul";
+        header.appendChild(badge);
+    }
+
+    // 2. Bookmark Ribbon/Icon
+    const isBookmarked = userBookmarks.some(b => b.surah === currentSurahNumForBadge && b.ayah === ayahNumberInSurah);
+    const bookmarkIcon = document.createElement('div');
+    bookmarkIcon.className = `bookmark-icon-home mushaf-bookmark-icon ${isBookmarked ? 'active' : ''}`;
+    bookmarkIcon.dataset.surah = currentSurahNumForBadge;
+    bookmarkIcon.dataset.ayah = ayahNumberInSurah;
+    bookmarkIcon.dataset.page = ayahAr.page || 1; 
+    bookmarkIcon.dataset.surahName = currentSurahData.englishName;
+    bookmarkIcon.innerHTML = `<i class="${isBookmarked ? 'fas' : 'far'} fa-bookmark"></i>`;
+    bookmarkIcon.title = isBookmarked ? "Hapus dari Bookmark" : "Simpan ke Bookmark";
+    
+    // Append to the display card container for absolute positioning
+    document.getElementById('quran-display').appendChild(bookmarkIcon);
+
+
 
     // Process Arabic text into words
     // We remove the Bismillah if it's not Al-Fatihah Ayah 1, as the API sometimes includes it inline
@@ -2038,6 +2168,12 @@ async function sendChatMessage() {
     const userMessage = chatInput.value.trim();
     if (!userMessage) return;
 
+    if (apiKeys.length === 0 && groqApiKeys.length === 0) {
+        alert("Fitur ini membutuhkan API Key Gemini atau Groq. Silakan masukkan di Settings.");
+        openModal(document.getElementById('settings-modal'));
+        return;
+    }
+
     // 1. Display User Message
     const escapedUserMsg = escapeHtml(userMessage);
     const userMsgHtml = `
@@ -2076,6 +2212,27 @@ async function sendChatMessage() {
             parts: [{ text: userMessage }]
         });
 
+        // Filter out system messages (if any were added in the future, currently word modal uses user role for context, which is valid for first message)
+        const systemMessages = chatSessionHistory.filter(msg => msg.role === 'system').map(msg => msg.parts[0].text).join('\n');
+
+        const geminiHistory = chatSessionHistory
+            .filter(msg => msg.role !== 'system')
+            .map(msg => ({
+                role: msg.role === 'assistant' ? 'model' : msg.role,
+                parts: [{ text: msg.parts[0].text }]
+            }));
+
+        const requestPayload = {
+            contents: geminiHistory
+        };
+
+        if (systemMessages) {
+            requestPayload.systemInstruction = {
+                role: "system",
+                parts: [{ text: systemMessages }]
+            };
+        }
+
         while (!success && geminiAttempts < maxGeminiAttempts) {
             const apiKey = apiKeys[currentApiKeyIndex];
             const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${apiKey}`;
@@ -2084,7 +2241,7 @@ async function sendChatMessage() {
                 const response = await fetch(url, {
                     method: 'POST',
                     headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify({ contents: chatSessionHistory })
+                    body: JSON.stringify(requestPayload)
                 });
 
                 const data = await response.json();
@@ -2158,10 +2315,7 @@ async function sendChatMessage() {
                 success = true;
 
                 // Update the global Gemini-formatted history so subsequent calls still work
-                chatSessionHistory.push({
-                    role: "user",
-                    parts: [{ text: userMessage }]
-                });
+                // Note: userMessage is already in chatSessionHistory at this point
                 chatSessionHistory.push({
                     role: "model",
                     parts: [{ text: aiReply }]
@@ -2755,8 +2909,8 @@ async function sendGlobalChatMessage() {
     const userMessage = globalChatInput.value.trim();
     if (!userMessage) return;
 
-    if (groqApiKeys.length === 0) {
-        alert("Fitur ini membutuhkan API Key Groq. Silakan masukkan di Settings.");
+    if (apiKeys.length === 0 && groqApiKeys.length === 0) {
+        alert("Fitur ini membutuhkan API Key Gemini atau Groq. Silakan masukkan di Settings.");
         openModal(document.getElementById('settings-modal'));
         return;
     }
@@ -2803,53 +2957,111 @@ async function sendGlobalChatMessage() {
     globalChatHistory.insertAdjacentHTML('beforeend', loadingHtml);
     globalChatHistory.scrollTop = globalChatHistory.scrollHeight;
 
-    // 4. API Call
+    // 4. API Call with Fallback (Gemini -> Groq)
     let success = false;
     let aiReply = "";
-    let groqAttempts = 0;
-    const maxGroqAttempts = groqApiKeys.length;
     let lastError = null;
 
-    const endpoint = `https://api.groq.com/openai/v1/chat/completions`;
+    // 4a. Try Gemini First
+    if (apiKeys.length > 0) {
+        let geminiAttempts = 0;
+        const maxGeminiAttempts = apiKeys.length;
 
-    const requestBody = {
-        model: "openai/gpt-oss-120b",
-        messages: globalChatSessionHistory,
-        temperature: 0.3
-    };
+        // Convert global history (system/user/assistant) to Gemini format
+        // Filter out system messages from history to avoid consecutive user roles
+        const systemMessages = globalChatSessionHistory.filter(msg => msg.role === 'system').map(msg => msg.content).join('\n');
 
-    while (!success && groqAttempts < maxGroqAttempts) {
-        const apiKey = groqApiKeys[currentGroqKeyIndex];
+        const geminiHistory = globalChatSessionHistory
+            .filter(msg => msg.role !== 'system')
+            .map(msg => ({
+                role: msg.role === 'assistant' ? 'model' : msg.role,
+                parts: [{ text: msg.content }]
+            }));
 
-        try {
-            const response = await fetch(endpoint, {
-                method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json',
-                    'Authorization': `Bearer ${apiKey}`
-                },
-                body: JSON.stringify(requestBody)
-            });
+        const requestPayload = {
+            contents: geminiHistory
+        };
 
-            if (!response.ok) {
-                const errorText = await response.text();
-                throw new Error(`API Error: ${response.status} - ${errorText}`);
+        if (systemMessages) {
+            requestPayload.systemInstruction = {
+                role: "system",
+                parts: [{ text: systemMessages }]
+            };
+        }
+
+        while (!success && geminiAttempts < maxGeminiAttempts) {
+            const apiKey = apiKeys[currentApiKeyIndex];
+            const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${apiKey}`;
+
+            try {
+                const response = await fetch(url, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify(requestPayload)
+                });
+
+                const data = await response.json();
+
+                if (data.error) {
+                    throw new Error(data.error.message || 'API Error');
+                }
+
+                aiReply = data.candidates[0].content.parts[0].text;
+                success = true;
+            } catch (err) {
+                console.warn(`Gemini Global Chat error at index ${currentApiKeyIndex}:`, err);
+                lastError = err;
+                currentApiKeyIndex = (currentApiKeyIndex + 1) % apiKeys.length;
+                geminiAttempts++;
             }
+        }
+    }
 
-            const data = await response.json();
-            aiReply = data.choices[0].message.content;
-            success = true;
-        } catch (e) {
-            console.warn(`Groq Global Chat error at index ${currentGroqKeyIndex}:`, e);
-            lastError = e;
-            currentGroqKeyIndex = (currentGroqKeyIndex + 1) % groqApiKeys.length;
-            groqAttempts++;
+    // 4b. Fallback to Groq if Gemini failed or no Gemini keys
+    if (!success && groqApiKeys.length > 0) {
+        let groqAttempts = 0;
+        const maxGroqAttempts = groqApiKeys.length;
+
+        const endpoint = `https://api.groq.com/openai/v1/chat/completions`;
+        const requestBody = {
+            model: "openai/gpt-oss-120b",
+            messages: globalChatSessionHistory,
+            temperature: 0.3
+        };
+
+        while (!success && groqAttempts < maxGroqAttempts) {
+            const apiKey = groqApiKeys[currentGroqKeyIndex];
+
+            try {
+                const response = await fetch(endpoint, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'Authorization': `Bearer ${apiKey}`
+                    },
+                    body: JSON.stringify(requestBody)
+                });
+
+                if (!response.ok) {
+                    const errorText = await response.text();
+                    throw new Error(`API Error: ${response.status} - ${errorText}`);
+                }
+
+                const data = await response.json();
+                aiReply = data.choices[0].message.content;
+                success = true;
+            } catch (e) {
+                console.warn(`Groq Global Chat error at index ${currentGroqKeyIndex}:`, e);
+                lastError = e;
+                currentGroqKeyIndex = (currentGroqKeyIndex + 1) % groqApiKeys.length;
+                groqAttempts++;
+            }
         }
     }
 
     if (!success) {
-        console.error("All Groq Global Chat attempts failed.");
-        aiReply = "Maaf, terjadi kesalahan saat menghubungi AI Groq setelah mencoba semua API Key. " + (lastError ? lastError.message : "");
+        console.error("All AI Global Chat attempts failed.");
+        aiReply = "Maaf, terjadi kesalahan saat menghubungi AI setelah mencoba Gemini dan Groq API. " + (lastError ? lastError.message : "");
         // Revert user message from history on fail
         globalChatSessionHistory.pop();
         await localforage.setItem('globalChatHistory', globalChatSessionHistory);
@@ -3068,5 +3280,123 @@ async function openTafsirModal(surahNum, ayahNum) {
         tafsirContent.style.display = 'block';
     } finally {
         tafsirLoading.style.display = 'none';
+    }
+}
+
+// --- Bookmark Logic ---
+async function loadBookmarks() {
+    try {
+        const stored = await localforage.getItem('user_bookmarks');
+        if (stored) userBookmarks = stored;
+        console.log("Bookmarks loaded:", userBookmarks.length);
+    } catch (e) {
+        console.warn("Failed to load bookmarks:", e);
+    }
+}
+
+async function saveBookmarks() {
+    try {
+        await localforage.setItem('user_bookmarks', userBookmarks);
+    } catch (e) {
+        console.warn("Failed to save bookmarks:", e);
+    }
+}
+
+function toggleBookmark(surah, ayah, page, surahName) {
+    const existingIndex = userBookmarks.findIndex(b => b.surah === surah && b.ayah === ayah);
+    if (existingIndex !== -1) {
+        // Delete if already exists (Toggle Off)
+        userBookmarks.splice(existingIndex, 1);
+        console.log(`Bookmark removed: ${surahName} ${ayah}`);
+    } else {
+        // Add if not exists (Toggle On)
+        userBookmarks.push({
+            id: Date.now().toString(),
+            surah: surah,
+            ayah: ayah,
+            page: !isNaN(page) ? page : (parseInt(document.getElementById('mushaf-page-input').value) || 1),
+            surahName: surahName,
+            timestamp: new Date().toLocaleDateString('id-ID', { day: 'numeric', month: 'short', year: 'numeric' })
+        });
+        console.log(`Bookmark added: ${surahName} ${ayah}`);
+    }
+    saveBookmarks();
+    
+    // Refresh UI to sync all icons
+    if (currentMode === 'mushaf') {
+        renderMushafPage();
+    } else {
+        displayAyah(ayah);
+    }
+}
+
+function renderBookmarkHistory() {
+    const container = document.getElementById('bookmark-list-container');
+    const noMsg = document.getElementById('no-bookmarks-msg');
+    
+    // Clear existing
+    const existingItems = container.querySelectorAll('.bookmark-item');
+    existingItems.forEach(item => item.remove());
+
+    if (userBookmarks.length === 0) {
+        noMsg.style.display = 'block';
+        return;
+    }
+
+    noMsg.style.display = 'none';
+    
+    // Sort by newest first
+    const sorted = [...userBookmarks].reverse();
+
+    sorted.forEach(item => {
+        const displayPage = !isNaN(item.page) && item.page ? `Halaman ${item.page}` : 'Mode Beranda';
+        const div = document.createElement('div');
+        div.className = 'bookmark-item';
+        div.innerHTML = `
+            <div class="bookmark-info" onclick="goToBookmark(${item.surah}, ${item.ayah}, ${item.page})">
+                <p class="bookmark-title">${item.surahName} - Ayat ${item.ayah}</p>
+                <p class="bookmark-meta">${displayPage} • Disimpan pada ${item.timestamp}</p>
+            </div>
+            <button class="delete-bookmark-btn" title="Hapus Bookmark" onclick="event.stopPropagation(); deleteBookmarkManual('${item.id}')">
+                <i class="fas fa-trash-alt"></i>
+            </button>
+        `;
+        container.appendChild(div);
+    });
+}
+
+function deleteBookmarkManual(id) {
+    userBookmarks = userBookmarks.filter(b => b.id !== id);
+    saveBookmarks();
+    renderBookmarkHistory();
+    
+    // Refresh Mushaf if active to sync toggle icons
+    if (currentMode === 'mushaf') renderMushafPage();
+}
+
+function goToBookmark(surah, ayah, page) {
+    closeModal(document.getElementById('bookmark-modal'));
+    
+    // Navigation Logic
+    if (currentMode !== 'mushaf') {
+        switchMode('mushaf');
+    }
+
+    // Set page and trigger load
+    const pageInput = document.getElementById('mushaf-page-input');
+    if (pageInput) {
+        pageInput.value = page;
+        // The change event should trigger fetchMushafPage
+        pageInput.dispatchEvent(new Event('change'));
+        
+        // After a delay to allow loading, scroll to that ayah
+        setTimeout(() => {
+            const marker = document.querySelector(`.mushaf-end-ayah[data-ayah="${ayah}"], .mushaf-end-ayah-block[data-ayah="${ayah}"]`);
+            if (marker) {
+                marker.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                marker.style.outline = '2px solid var(--secondary-color)';
+                setTimeout(() => marker.style.outline = 'none', 3000);
+            }
+        }, 1500);
     }
 }

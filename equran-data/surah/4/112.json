@@ -1,0 +1,168 @@
+{
+  "surah": 4,
+  "ayah": 112,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "وَمَن",
+      "transliterasi": "wa‑man",
+      "jenis_kata": "Isim (nama) dengan huruf \"wa\"",
+      "arti": "dan siapa",
+      "sharaf": {
+        "akar_kata": "م‑ن",
+        "makna_dasar": "siapa",
+        "wazan_perubahan": "اسم استفهام"
+      },
+      "nahwu": {
+        "kedudukan": "مبتدأ مرفوع بالضمة بعد حرف العطف \"wa\"",
+        "irab_dan_logika": "مرفوع لأنّها اسم موصول يرفع الفعل التالي"
+      },
+      "hikmah": "Menunjukkan subjek yang bertanggung jawab atas perbuatan selanjutnya",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "يَكْسِبْ",
+      "transliterasi": "yaksib",
+      "jenis_kata": "Fi'il (kata kerja)",
+      "arti": "mendapatkan, memperoleh",
+      "sharaf": {
+        "akar_kata": "ك‑س‑ب",
+        "makna_dasar": "mengambil, memperoleh",
+        "wazan_perubahan": "فَعَلَ"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مجزوم بسبب اسم الموصول \"مَن\"",
+        "irab_dan_logika": "جزم بالسكون على الباء لأن الفعل يأتي بعد اسم موصول"
+      },
+      "hikmah": "Menegaskan bahwa perbuatan itu adalah hasil pilihan subjek",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "خَطِيٓـَٔةً",
+      "transliterasi": "khaṭīʾatan",
+      "jenis_kata": "Isim (kata benda)",
+      "arti": "kesalahan, dosa",
+      "sharaf": {
+        "akar_kata": "خ‑ط‑أ",
+        "makna_dasar": "kesalahan, cacat",
+        "wazan_perubahan": "فَعِيلَة"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به منصوب بالفتحة وتنوين النصب",
+        "irab_dan_logika": "النصب لأن الفعل \"يَكْسِبْ\" يجرّ المفعول به"
+      },
+      "hikmah": "Objek yang diakui sebagai dosa yang nyata",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "أَوْ",
+      "transliterasi": "aw",
+      "jenis_kata": "Huruf (kata sambung)",
+      "arti": "atau",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "menyatakan pilihan",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "حرف عطف لا محل له من الإعراب",
+        "irab_dan_logika": "يُستعمل لربط معطيات متساوية"
+      },
+      "hikmah": "Menyiratkan kemungkinan alternatif dalam perbuatan dosa",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "إِثْمًۭا",
+      "transliterasi": "ithman",
+      "jenis_kata": "Isim (kata benda)",
+      "arti": "dosa, kejahatan",
+      "sharaf": {
+        "akar_kata": "ث‑م‑م",
+        "makna_dasar": "pelanggaran, kejahatan",
+        "wazan_perubahan": "إِفْعَال"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به ثاني منصوب بالفتحة وتنوين النصب",
+        "irab_dan_logika": "النصب لتكملة الفعل \"يَكْسِبْ\" مع مفعولين"
+      },
+      "hikmah": "Menegaskan jenis dosa yang lebih berat",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "ثُمَّ",
+      "transliterasi": "thumma",
+      "jenis_kata": "Huruf (kata keterangan)",
+      "arti": "kemudian, lalu",
+      "sharaf": {
+        "akar_kata": "ث‑م‑م",
+        "makna_dasar": "menyusul, selanjutnya",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "حرف عطف أو توكيد لا محل له من الإعراب",
+        "irab_dan_logika": "يُستعمل لتأكيد أو ربط الجملة بما يلي"
+      },
+      "hikmah": "Menunjukkan urutan logis setelah perbuatan dosa pertama",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "يَرْمِ",
+      "transliterasi": "yarmī",
+      "jenis_kata": "Fi'il",
+      "arti": "menuduh, menyalahkan",
+      "sharaf": {
+        "akar_kata": "ر م ي",
+        "makna_dasar": "menuduh",
+        "wazan_perubahan": "فَعَلَ (form I)"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja (predikat) yang menuduh",
+        "irab_dan_logika": "dharb majrur bila berhubungan dengan huruf jar, di sini berharakat kasrah menandakan jussif atau mudhari' majzum"
+      },
+      "hikmah": "menunjukkan tindakan menuduh orang lain dengan tuduhan yang tidak benar",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "وَإِثْمًۭا",
+      "transliterasi": "wa‑ithman",
+      "jenis_kata": "Isim (isim maf‘ul)",
+      "arti": "dosa",
+      "sharaf": {
+        "akar_kata": "إ‑ث‑م",
+        "makna_dasar": "kesalahan, dosa",
+        "wazan_perubahan": "isim maf‘ul (tanwin)"
+      },
+      "nahwu": {
+        "kedudukan": "objek (مفعول به) setelah fi‘il *fa‘ala* dan berhubungan dengan huruf *wa*",
+        "irab_dan_logika": "مُنصَب بالفتحة، وعلامة النصب تنوين الفتح لأنّها مفعول به"
+      },
+      "hikmah": "**Dosa** yang disebut di sini menegaskan bahwa perbuatan itu merupakan pelanggaran yang nyata dan dapat dipertanggungjawabkan.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "مُّبِينًۭا",
+      "transliterasi": "mubīnan",
+      "jenis_kata": "Isim (isim sifat)",
+      "arti": "yang jelas",
+      "sharaf": {
+        "akar_kata": "ب‑ي‑ن",
+        "makna_dasar": "menunjukkan, jelas",
+        "wazan_perubahan": "صيغة فعلي (مُفَعَّل)"
+      },
+      "nahwu": {
+        "kedudukan": "sifat (نعت) yang menerangkan *ithma*",
+        "irab_dan_logika": "مُنصَب بالفتحة، وعلامة النصب تنوين الفتح لأن النعت يتبع الممنوع منه في الإعراب"
+      },
+      "hikmah": "Kata **mubīnan** menegaskan bahwa dosa tersebut bukan sekadar tuduhan semata, melainkan **dosa yang terang‑benderang** dan tidak dapat disangkal.",
+      "role": "none"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "surah": 7,
+  "ayah": 81,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "إِنَّكُمْ",
+      "transliterasi": "innakum",
+      "jenis_kata": "Huruf (حرف توكيد)",
+      "arti": "sesungguhnya kamu",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "penegasan, menegaskan subjek",
+        "wazan_perubahan": "tidak ada (kata bantu)"
+      },
+      "nahwu": {
+        "kedudukan": "اسم إنّ (subjek)",
+        "irab_dan_logika": "مرفوع بالضمة الظاهرة على كُمْ karena اسم إنّ يُرفع"
+      },
+      "hikmah": "*Penegasan bahwa yang dibicarakan adalah kalian, menegaskan keberadaan subjek dalam ayat.*",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "لَتَأْتُونَ",
+      "transliterasi": "la-taʾtūna",
+      "jenis_kata": "Fiʿil (kata kerja mudhariʿ) dengan لام التعليل",
+      "arti": "kamu pasti datang/menjalankan",
+      "sharaf": {
+        "akar_kata": "أ-ت-ي",
+        "makna_dasar": "datang, melakukan",
+        "wazan_perubahan": "فعل مضارع مرفوع بالضمة"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع (خبر إنّ)",
+        "irab_dan_logika": "مرفوع بالضمة الظاهرة على النون لأن لام التعليل لا تغير إعراب الفعل"
+      },
+      "hikmah": "*Menegaskan tindakan yang akan dilakukan oleh subjek secara pasti.*",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "ٱلرِّجَالَ",
+      "transliterasi": "al‑rijāla",
+      "jenis_kata": "Isim (kata benda) معرف بأل، منصوب",
+      "arti": "para lelaki",
+      "sharaf": {
+        "akar_kata": "ر-ج-ل",
+        "makna_dasar": "lelaki, manusia dewasa laki‑laki",
+        "wazan_perubahan": "اسم مرفوع/منصوب حسب الإعراب"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به pertama من الفعل لَتَأْتُونَ",
+        "irab_dan_logika": "منصوب بالفتحة الظاهرة على آخره لأن الفعل متعدٍ"
+      },
+      "hikmah": "*Menunjukkan objek tindakan, yaitu lelaki yang menjadi sasaran perbuatan.*",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "شَهْوَةًۭ",
+      "transliterasi": "shahwatan",
+      "jenis_kata": "Isim (kata benda) نكرة، منصوب مع تنوين النصب",
+      "arti": "nafsu, hasrat",
+      "sharaf": {
+        "akar_kata": "ش-ه-و",
+        "makna_dasar": "keinginan, nafsu seksual",
+        "wazan_perubahan": "مصدر فعل شَاهَى"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به ثانٍ يوضح هدف الفعل",
+        "irab_dan_logika": "منصوب بالفتحة وتنوين النصب لأنه مفعول به غير معرف"
+      },
+      "hikmah": "*Menjelaskan motivasi atau tujuan tindakan, yaitu demi nafsu atau hasrat.*",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "مِّن",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf (حرف جر)",
+      "arti": "dari, selain",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "menunjukkan asal atau perbandingan",
+        "wazan_perubahan": "لا تغيير"
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر يسبق اسم \"دُونِ\"",
+        "irab_dan_logika": "ليس له إعراب لأنه حرف جر"
+      },
+      "hikmah": "*Memberi hubungan perbandingan, menandakan bahwa yang dimaksud bukan wanita, melainkan sesuatu yang lain.*",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "دُونِ",
+      "transliterasi": "dūni",
+      "jenis_kata": "Isim (kata benda) مجرور بحرف الجر",
+      "arti": "selain, di luar",
+      "sharaf": {
+        "akar_kata": "د-و-ن",
+        "makna_dasar": "di luar, selain",
+        "wazan_perubahan": "اسم مجرور"
+      },
+      "nahwu": {
+        "kedudukan": "اسم مجرور بحرف الجر \"مِن\"",
+        "irab_dan_logika": "مجرور بالكسرة الظاهرة على آخره لأن ما قبله حرف جر"
+      },
+      "hikmah": "*Menegaskan bahwa yang dimaksud bukan wanita, melainkan sesuatu yang berada di luar (di luar wanita).",
+      "role": "none"
+    }
+  ]
+}

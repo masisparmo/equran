@@ -1,0 +1,996 @@
+{
+  "surah": 2,
+  "ayah": 286,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "لَا",
+      "transliterasi": "lā",
+      "jenis_kata": "Huruf",
+      "arti": "tidak, jangan",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "Penafian atau pelarangan.",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Nafi (penafian)",
+        "irab_dan_logika": "Huruf mabni (tidak berubah harakatnya). Berfungsi menafikan fi'il mudhari' setelahnya, sehingga meniadakan perbuatan 'membebani'."
+      },
+      "hikmah": "Menunjukkan penafian mutlak bahwa Allah tidak akan melakukan perbuatan yang disebutkan setelahnya, yaitu membebani seseorang di luar kemampuannya. Ini adalah pernyataan tentang sifat keadilan dan kasih sayang Allah.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "يُكَلِّفُ",
+      "transliterasi": "yukallifu",
+      "jenis_kata": "Fi'il",
+      "arti": "membebani, memberatkan",
+      "sharaf": {
+        "akar_kata": "ك ل ف (k-l-f)",
+        "makna_dasar": "Beban, kesulitan, tugas.",
+        "wazan_perubahan": "Fi'il Mudhari' dari Bab Taf'il (فَعَّلَ - يُفَعِّلُ). Bentuk ini menunjukkan makna 'menjadikan seseorang melakukan sesuatu' atau 'membebankan'."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Marfu'",
+        "irab_dan_logika": "Marfu' dengan dhammah (ضمة) karena tidak didahului oleh amil nashab (penashab) atau amil jazm (penjazm). Fa'il (pelaku) dari fi'il ini adalah 'ٱللَّهُ'."
+      },
+      "hikmah": "Menggambarkan tindakan Allah yang 'membebani'. Bentuk ini menunjukkan intensitas atau kausatif, yaitu menjadikan seseorang menanggung beban. Namun, dalam konteks ayat ini, ia dinafikan oleh 'لَا', sehingga maknanya adalah Allah tidak membebankan.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "ٱللَّهُ",
+      "transliterasi": "Allāhu",
+      "jenis_kata": "Isim",
+      "arti": "Allah (Nama Tuhan Yang Maha Esa)",
+      "sharaf": {
+        "akar_kata": "ا ل ه (a-l-h) atau dianggap Isim Alam",
+        "makna_dasar": "Yang disembah, Tuhan.",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Fa'il (subjek/pelaku) dari fi'il 'يُكَلِّفُ'",
+        "irab_dan_logika": "Marfu' dengan dhammah (ضمة) karena ia adalah fa'il. Fa'il selalu dalam keadaan marfu'."
+      },
+      "hikmah": "Menunjukkan Dzat yang Maha Kuasa dan Maha Bijaksana yang menjadi subjek dari tindakan 'tidak membebani'. Ini menegaskan bahwa sifat keadilan dan kasih sayang ini berasal langsung dari Allah SWT.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "نَفْسًا",
+      "transliterasi": "nafsan",
+      "jenis_kata": "Isim",
+      "arti": "jiwa, diri, seseorang",
+      "sharaf": {
+        "akar_kata": "ن ف س (n-f-s)",
+        "makna_dasar": "Diri, jiwa, nafas.",
+        "wazan_perubahan": "Isim Mufrad (tunggal)"
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul Bih (objek) dari fi'il 'يُكَلِّفُ'",
+        "irab_dan_logika": "Manshub dengan fathah (فتحة) karena ia adalah maf'ul bih. Maf'ul bih selalu dalam keadaan manshub."
+      },
+      "hikmah": "Merujuk kepada 'setiap jiwa' atau 'setiap orang'. Ini menunjukkan universalitas hukum Allah, bahwa prinsip tidak membebani di luar kemampuan berlaku untuk semua individu tanpa terkecuali.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "إِلَّا",
+      "transliterasi": "illā",
+      "jenis_kata": "Huruf",
+      "arti": "kecuali, melainkan",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "Pengecualian.",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Istitsna' (pengecualian)",
+        "irab_dan_logika": "Huruf mabni (tidak berubah harakatnya). Dalam kalimat penafian yang diikuti istitsna', ia berfungsi untuk membatasi atau menegaskan makna. Kalimat 'لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا وُسْعَهَا' berarti 'Allah tidak membebani jiwa kecuali sesuai kemampuannya', yang secara implisit berarti 'Allah hanya membebani jiwa sesuai kemampuannya'."
+      },
+      "hikmah": "Berfungsi sebagai alat pengecualian yang mengubah kalimat negatif menjadi positif secara implisit. Ini menegaskan bahwa batasan beban yang diberikan Allah adalah *hanya* sesuai dengan kapasitas seseorang, tidak lebih.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "وُسْعَهَا",
+      "transliterasi": "wus'ahā",
+      "jenis_kata": "Isim",
+      "arti": "kemampuannya, kesanggupannya, kapasitasnya",
+      "sharaf": {
+        "akar_kata": "و س ع (w-s-'a)",
+        "makna_dasar": "Luas, lapang, kapasitas, kemampuan.",
+        "wazan_perubahan": "Isim Masdar (bentuk kata benda dari fi'il) atau Isim Makna. Terdiri dari Isim 'وُسْعَ' dan dhamir 'هَا' (miliknya/nya)."
+      },
+      "nahwu": {
+        "kedudukan": "Mustatsna (yang dikecualikan) atau Maf'ul Bih kedua yang ditaqdirkan",
+        "irab_dan_logika": "Manshub dengan fathah (فتحة) pada 'وُسْعَ' karena ia adalah mustatsna dalam kalimat nafi dan istitsna yang sempurna (disebutkan mustatsna minhu). Atau, bisa juga dianggap sebagai maf'ul bih kedua yang ditaqdirkan. Dhamir 'هَا' (ha) adalah mudhaf ilaih, mabni sukun."
+      },
+      "hikmah": "Menekankan bahwa beban yang diberikan Allah tidak akan pernah melebihi kapasitas atau kemampuan yang dimiliki oleh setiap individu. Ini adalah inti dari ayat ini, menegaskan prinsip keadilan dan rahmat Allah.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "ۚ",
+      "transliterasi": "Waqf Mutlaq",
+      "jenis_kata": "Tanda Baca",
+      "arti": "Tanda berhenti sempurna",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Tidak berlaku",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Tidak berlaku",
+        "irab_dan_logika": "Tidak berlaku"
+      },
+      "hikmah": "Tanda ini menunjukkan tempat berhenti yang dianjurkan dalam pembacaan Al-Qur'an. Berhenti di sini membantu pembaca memahami makna kalimat sebelumnya secara utuh sebelum melanjutkan ke kalimat berikutnya, yang seringkali memulai ide atau klausa baru.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "لَهَا",
+      "transliterasi": "lahā",
+      "jenis_kata": "Huruf Jar dan Isim Dhomir",
+      "arti": "baginya (untuk dia perempuan)",
+      "sharaf": {
+        "akar_kata": "ل (Lam) + ه (Ha)",
+        "makna_dasar": "Terdiri dari huruf jar 'لَ' (lam) yang menunjukkan kepemilikan atau hak, dan dhomir muttasil 'هَا' (ha) yang merujuk kepada 'nafsin' (seseorang/jiwa) yang telah disebutkan sebelumnya.",
+        "wazan_perubahan": "Huruf jar tidak memiliki wazan. Dhomir adalah isim mabni (tetap) dan tidak memiliki wazan perubahan."
+      },
+      "nahwu": {
+        "kedudukan": "Jar Majrur yang berkedudukan sebagai khabar muqaddam (predikat yang didahulukan).",
+        "irab_dan_logika": "لَ' adalah huruf jar, sehingga 'هَا' yang merupakan dhomir muttasil berada pada posisi majrur (isim majrur). Karena ia didahulukan dari mubtada'nya ('مَا'), maka ia menjadi khabar muqaddam."
+      },
+      "hikmah": "Menunjukkan bahwa apa yang akan disebutkan setelahnya adalah hak atau milik dari 'nafsin' (seseorang) yang telah disebutkan sebelumnya, yaitu pahala dari perbuatan baiknya. Ini menegaskan prinsip keadilan Allah bahwa setiap jiwa akan mendapatkan balasan atas usahanya.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "مَا",
+      "transliterasi": "mā",
+      "jenis_kata": "Isim Maushul",
+      "arti": "apa yang / sesuatu yang",
+      "sharaf": {
+        "akar_kata": "Tidak memiliki akar kata dalam arti fi'il. Ia adalah isim mabni (tetap).",
+        "makna_dasar": "Menunjukkan sesuatu yang tidak spesifik atau umum, yang akan dijelaskan oleh kalimat setelahnya (shilah maushul).",
+        "wazan_perubahan": "Isim mabni, tidak memiliki wazan perubahan."
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada' muakhkhar (subjek yang diakhirkan).",
+        "irab_dan_logika": "Berada pada posisi rafa' karena menjadi mubtada' (subjek) dari khabar muqaddam 'لَهَا'. Isim maushul adalah mabni, sehingga kedudukannya adalah 'fi mahalli raf'in' (pada posisi rafa')."
+      },
+      "hikmah": "Menyatakan keumuman dan mencakup segala bentuk perbuatan baik yang telah diusahakan oleh seseorang. Ini adalah penegasan bahwa setiap kebajikan, sekecil apapun, akan dihitung dan menjadi hak bagi pelakunya untuk mendapatkan balasan.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "كَسَبَتْ",
+      "transliterasi": "kasabat",
+      "jenis_kata": "Fi'il Madhi",
+      "arti": "ia telah mengusahakan / ia telah mengerjakan (untuk dia perempuan)",
+      "sharaf": {
+        "akar_kata": "ك س ب (kaf-sin-ba)",
+        "makna_dasar": "Mengusahakan, mencari, mendapatkan, memperoleh. Kata ini sering digunakan untuk perbuatan yang dilakukan dengan sukarela atau untuk hal-hal yang baik.",
+        "wazan_perubahan": "Fi'il madhi, wazan فَعَلَتْ (fa'alat). 'تْ' adalah ta' ta'nits as-sakinah (ta' penanda perempuan yang mati) yang menunjukkan fa'ilnya adalah muannats (kembali ke 'nafsin')."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il dan fa'il (kata kerja dan subjeknya). Kalimat 'كَسَبَتْ' secara keseluruhan adalah shilah maushul (anak kalimat yang menjelaskan isim maushul 'مَا').",
+        "irab_dan_logika": "Fi'il madhi adalah mabni (tetap) di atas fathah. Ta' ta'nits as-sakinah tidak memiliki i'rab. Fa'ilnya adalah dhomir mustatir (tersembunyi) takdirnya 'هي' (dia perempuan) yang kembali kepada 'nafsin'."
+      },
+      "hikmah": "Menekankan bahwa setiap perbuatan baik yang dilakukan seseorang, sekecil apapun, akan dihitung dan menjadi haknya untuk mendapatkan balasan. Penggunaan 'kasabat' (bukan 'iktasabat') di sini sering diartikan untuk perbuatan baik yang dilakukan dengan mudah atau tanpa paksaan, menunjukkan kemudahan dalam meraih pahala.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "وَعَلَيْهَا",
+      "transliterasi": "wa 'alayhā",
+      "jenis_kata": "Huruf Athaf, Huruf Jar, dan Isim Dhomir",
+      "arti": "dan atasnya / dan baginya (kerugian)",
+      "sharaf": {
+        "akar_kata": "و (Waw) + ع ل ى ('ala) + ه (Ha)",
+        "makna_dasar": "وَ' (waw) adalah huruf athaf (penghubung) yang menunjukkan kesinambungan atau pertentangan. 'عَلَى' (ala) adalah huruf jar yang bermakna 'atas' atau 'terhadap', sering digunakan untuk menunjukkan kewajiban atau beban. 'هَا' (ha) adalah dhomir muttasil untuk muannats ghaibah (dia perempuan) yang merujuk kepada 'nafsin'.",
+        "wazan_perubahan": "Huruf athaf dan huruf jar tidak memiliki wazan. Dhomir adalah isim mabni."
+      },
+      "nahwu": {
+        "kedudukan": "Huruf athaf, diikuti oleh Jar Majrur yang berkedudukan sebagai khabar muqaddam.",
+        "irab_dan_logika": "وَ' adalah huruf athaf, tidak memiliki i'rab. 'عَلَى' adalah huruf jar, sehingga 'هَا' yang merupakan dhomir muttasil berada pada posisi majrur (isim majrur). Secara keseluruhan, 'عَلَيْهَا' adalah khabar muqaddam yang diathafkan (dihubungkan) kepada 'لَهَا' sebelumnya, menunjukkan paralelisme dalam struktur kalimat."
+      },
+      "hikmah": "Menunjukkan adanya konsekuensi atau beban yang akan ditanggung oleh seseorang. Huruf 'waw' di sini berfungsi sebagai penghubung sekaligus pemisah antara pahala dan siksa, mengindikasikan bahwa setiap jiwa akan menanggung akibat dari perbuatannya sendiri, baik positif maupun negatif. Ini adalah sisi lain dari keadilan Allah.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "مَا",
+      "transliterasi": "mā",
+      "jenis_kata": "Isim Maushul",
+      "arti": "apa yang / sesuatu yang",
+      "sharaf": {
+        "akar_kata": "Tidak memiliki akar kata dalam arti fi'il. Ia adalah isim mabni (tetap).",
+        "makna_dasar": "Menunjukkan sesuatu yang tidak spesifik atau umum, yang akan dijelaskan oleh kalimat setelahnya (shilah maushul).",
+        "wazan_perubahan": "Isim mabni, tidak memiliki wazan perubahan."
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada' muakhkhar (subjek yang diakhirkan).",
+        "irab_dan_logika": "Berada pada posisi rafa' karena menjadi mubtada' (subjek) dari khabar muqaddam 'وَعَلَيْهَا'. Isim maushul adalah mabni, sehingga kedudukannya adalah 'fi mahalli raf'in' (pada posisi rafa')."
+      },
+      "hikmah": "Menyatakan keumuman dan mencakup segala bentuk perbuatan buruk yang telah diusahakan oleh seseorang, yang kemudian akan menjadi beban atau siksa baginya. Ini adalah pasangan dari 'مَا كَسَبَتْ', menunjukkan keseimbangan antara pahala dan dosa, serta keadilan Allah dalam membalas setiap perbuatan.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "ٱكْتَسَبَتْ",
+      "transliterasi": "iktasabat",
+      "jenis_kata": "Fi'il",
+      "arti": "ia telah mengusahakan/melakukan (untuk dirinya)",
+      "sharaf": {
+        "akar_kata": "ك س ب",
+        "makna_dasar": "Usaha, perolehan, pencarian.",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau), wazan افتعل (ifta'ala). Bentuk ini sering menunjukkan makna 'melakukan sesuatu untuk diri sendiri' atau 'berusaha keras'. Di sini, konteksnya adalah perbuatan buruk yang dilakukan seseorang untuk dirinya sendiri."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il (kata kerja) yang menjadi predikat bagi fa'il (subjek) yang tersembunyi (hiyya - dia perempuan, merujuk pada 'nafsan'/'seseorang').",
+        "irab_dan_logika": "Fi'il Madhi mabniyyun 'ala al-fath (dibangun di atas fathah). Ta' sukun (تْ) adalah ta' ta'nits (penanda feminin) yang menunjukkan fa'ilnya adalah mu'annats (feminin), yaitu 'ma' (apa yang) yang merujuk pada 'nafsan' (jiwa/seseorang) yang secara gramatikal dianggap feminin."
+      },
+      "hikmah": "Kata ini menekankan bahwa setiap jiwa akan menanggung akibat dari perbuatan buruk yang dilakukannya sendiri. Penggunaan wazan افتعل (ifta'ala) di sini mengindikasikan bahwa perbuatan buruk itu dilakukan dengan kesengajaan atau usaha, dan hasilnya kembali kepada pelakunya. Ini adalah keadilan ilahi, di mana setiap orang bertanggung jawab atas tindakannya.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "ۗ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "Huruf",
+      "arti": "Tanda waqaf lazim (harus berhenti)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf (berhenti).",
+        "irab_dan_logika": "Bukan bagian dari struktur gramatikal kalimat, melainkan tanda baca untuk memudahkan pembacaan dan pemahaman makna."
+      },
+      "hikmah": "Tanda ini menunjukkan akhir dari satu bagian makna penting dalam ayat, yaitu tentang pertanggungjawaban individu atas perbuatan baik dan buruknya. Berhenti di sini membantu pembaca memahami bahwa bagian selanjutnya adalah doa.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "رَبَّنَا",
+      "transliterasi": "Rabbana",
+      "jenis_kata": "Isim",
+      "arti": "Wahai Tuhan kami",
+      "sharaf": {
+        "akar_kata": "ر ب ب",
+        "makna_dasar": "Memelihara, mengasuh, memiliki, tuan, Tuhan.",
+        "wazan_perubahan": "Isim (kata benda), mudhaf (disandarkan) kepada dhamir (kata ganti) 'na' (kami)."
+      },
+      "nahwu": {
+        "kedudukan": "Munada (yang dipanggil) dengan huruf nida' (panggilan) yang tersembunyi (يا).",
+        "irab_dan_logika": "Manshub (berharakat fathah) karena kedudukannya sebagai munada mudhaf. 'Na' (نا) adalah dhamir muttashil (kata ganti bersambung) mabniyyun 'ala as-sukun fi mahalli jarrin bil-idhafah (dalam posisi jar karena idhafah)."
+      },
+      "hikmah": "Ungkapan ini adalah bentuk doa dan permohonan yang sangat akrab dan penuh pengharapan kepada Allah. Dengan menyebut 'Rabbana' (Tuhan kami), hamba mengakui kekuasaan Allah sebagai Pemelihara dan Pengatur, sekaligus menunjukkan kedekatan dan ketergantungan total kepada-Nya. Ini adalah pembuka dari serangkaian doa dalam ayat ini.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "لَا",
+      "transliterasi": "la",
+      "jenis_kata": "Huruf",
+      "arti": "Janganlah",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "Penolakan, larangan.",
+        "wazan_perubahan": "Huruf nahyi (larangan)."
+      },
+      "nahwu": {
+        "kedudukan": "Huruf nahyi jazimah (yang menjazemkan fi'il mudhari').",
+        "irab_dan_logika": "Huruf mabniyyun 'ala as-sukun, tidak memiliki kedudukan i'rab. Fungsinya adalah melarang dan menjazemkan fi'il mudhari' setelahnya."
+      },
+      "hikmah": "Huruf 'la' di sini adalah 'la an-nahiyah' (la larangan), yang digunakan untuk menyatakan permohonan agar Allah tidak melakukan sesuatu. Ini menunjukkan kerendahan hati dan permohonan perlindungan dari hamba kepada Tuhannya.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "تُؤَاخِذْنَآ",
+      "transliterasi": "tu'akhidhna",
+      "jenis_kata": "Fi'il",
+      "arti": "Engkau menghukum kami / Engkau memperhitungkan kami",
+      "sharaf": {
+        "akar_kata": "أ خ ذ",
+        "makna_dasar": "Mengambil, menangkap, menghukum, memperhitungkan.",
+        "wazan_perubahan": "Fi'il Mudhari' (kata kerja sekarang/akan datang), wazan فاعل (fa'ala) dari akar أخذ (akhadha) menjadi آخذ (aakhadha) dalam madhi, dan يُؤَاخِذُ (yu'akhidhu) dalam mudhari'. Di sini, bentuknya adalah تُؤَاخِذْ (tu'akhidh) karena jazem."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' majzum (dijazemkan) oleh 'la' an-nahiyah.",
+        "irab_dan_logika": "Majzum bil-jazm wa 'alamatuhu as-sukun (dijazemkan dengan tanda sukun). Fa'il (subjek) adalah dhamir mustatir (tersembunyi) takdiruhu 'anta' (Engkau, merujuk kepada Allah). 'Na' (نا) adalah dhamir muttashil mabniyyun 'ala as-sukun fi mahalli nasbin maf'ulun bihi (dalam posisi nashab sebagai objek)."
+      },
+      "hikmah": "Kata ini adalah inti dari permohonan pertama dalam doa. Hamba memohon agar Allah tidak menghukum atau memperhitungkan kesalahan yang dilakukan karena lupa atau tidak sengaja. Ini mencerminkan pemahaman akan kelemahan manusia dan harapan akan rahmat serta pengampunan Allah.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "إِن",
+      "transliterasi": "in",
+      "jenis_kata": "Huruf",
+      "arti": "Jika / Sekiranya",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "Pengandaian, syarat.",
+        "wazan_perubahan": "Huruf syarth (syarat)."
+      },
+      "nahwu": {
+        "kedudukan": "Huruf syarth jazimah (yang menjazemkan dua fi'il: fi'il syarat dan jawab syarat).",
+        "irab_dan_logika": "Huruf mabniyyun 'ala as-sukun, tidak memiliki kedudukan i'rab. Fungsinya adalah untuk mengawali kalimat syarat."
+      },
+      "hikmah": "Huruf 'in' ini memperkenalkan kondisi atau syarat untuk permohonan sebelumnya. Ini menunjukkan bahwa permohonan untuk tidak dihukum berlaku 'jika' kesalahan itu terjadi karena lupa atau tidak sengaja. Ini menekankan bahwa Allah Maha Mengetahui niat dan kondisi hamba-Nya, dan rahmat-Nya meliputi kesalahan yang tidak disengaja.",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "نَّسِينَآ",
+      "transliterasi": "naseenaa",
+      "jenis_kata": "Fi'il",
+      "arti": "kami lupa",
+      "sharaf": {
+        "akar_kata": "ن س ي (N-S-Y)",
+        "makna_dasar": "Lupa, melupakan, meninggalkan.",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau) untuk dhamir (kata ganti) 'nahnu' (kami). Wazan asalnya adalah فَعَلَ (fa'ala), namun karena ada huruf illat (ya'), menjadi نَسِيَ (nasiya) dan kemudian نَسِينَا (naseenaa) untuk 'kami'."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Madhi, menjadi syarat (فعل الشرط) dari إِنْ (in - jika).",
+        "irab_dan_logika": "Fi'il Madhi mabni (tetap) di atas sukun karena bersambung dengan ta' fa'il (na - kami). Dalam konteks ini, ia berada dalam posisi jazm secara makna karena merupakan syarat dari إِنْ."
+      },
+      "hikmah": "Mengungkapkan permohonan ampun atas kelupaan yang terjadi tanpa sengaja, menunjukkan sifat manusia yang lemah dan tidak luput dari kesalahan. Ini adalah bagian dari doa yang diajarkan Allah kepada umat Islam.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "أَوْ",
+      "transliterasi": "aw",
+      "jenis_kata": "Huruf",
+      "arti": "atau",
+      "sharaf": {
+        "akar_kata": "Tidak memiliki akar kata karena huruf.",
+        "makna_dasar": "Menunjukkan pilihan, keraguan, atau perincian. Dalam konteks ini, ia menunjukkan pilihan antara dua kemungkinan kesalahan (lupa atau salah).",
+        "wazan_perubahan": "Tidak berlaku untuk huruf."
+      },
+      "nahwu": {
+        "kedudukan": "Huruf 'athaf (penghubung/konjungsi).",
+        "irab_dan_logika": "Huruf mabni (tetap) di atas sukun, tidak memiliki kedudukan i'rab. Ia meng'athafkan (menghubungkan) أَخْطَأْنَا kepada نَّسِينَآ, sehingga keduanya memiliki hukum yang sama dalam konteks syarat."
+      },
+      "hikmah": "Menghubungkan dua jenis kesalahan manusia (lupa dan salah) dalam doa permohonan ampun, menunjukkan bahwa baik lupa maupun salah adalah hal yang dimohonkan ampunannya.",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "أَخْطَأْنَا",
+      "transliterasi": "akhtha'naa",
+      "jenis_kata": "Fi'il",
+      "arti": "kami tersalah / kami berbuat salah",
+      "sharaf": {
+        "akar_kata": "خ ط أ (Kh-Th-A)",
+        "makna_dasar": "Berbuat salah, keliru, meleset dari kebenaran.",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau) dari wazan أَفْعَلَ (af'ala) untuk dhamir 'nahnu' (kami). Bentuk asalnya أَخْطَأَ (akhtha'a)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Madhi, di'athafkan (dihubungkan) kepada نَّسِينَآ oleh huruf أَوْ.",
+        "irab_dan_logika": "Fi'il Madhi mabni (tetap) di atas sukun karena bersambung dengan ta' fa'il (na - kami). Karena di'athafkan kepada fi'il syarat, ia juga berada dalam posisi jazm secara makna."
+      },
+      "hikmah": "Melengkapi permohonan ampun dengan mencakup kesalahan yang disengaja maupun tidak disengaja (tersalah), menunjukkan keluasan rahmat Allah yang menerima taubat dari berbagai jenis kekhilafan.",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "Tanda baca Al-Qur'an",
+      "arti": "Tanda waqaf jaiz (boleh berhenti atau lanjut).",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku.",
+        "makna_dasar": "Menunjukkan tempat yang dianjurkan untuk berhenti membaca, meskipun boleh juga untuk melanjutkan.",
+        "wazan_perubahan": "Tidak berlaku."
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf.",
+        "irab_dan_logika": "Tidak memiliki i'rab. Fungsinya adalah untuk membantu pembaca dalam memahami makna dan menjaga nafas."
+      },
+      "hikmah": "Membantu pembaca untuk memahami pemisahan antara satu permohonan doa dengan permohonan doa berikutnya, memberikan jeda untuk merenungkan makna setiap bagian doa.",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "رَبَّنَا",
+      "transliterasi": "Rabbanaa",
+      "jenis_kata": "Isim",
+      "arti": "Tuhan kami / Wahai Tuhan kami",
+      "sharaf": {
+        "akar_kata": "ر ب ب (R-B-B)",
+        "makna_dasar": "Tuhan, pemilik, pengatur, pendidik.",
+        "wazan_perubahan": "Isim Mufrad (tunggal) yang diidhafahkan (disandarkan) kepada dhamir 'na' (kami)."
+      },
+      "nahwu": {
+        "kedudukan": "Munada (yang dipanggil) dengan huruf nida' (panggilan) yang dibuang (aslinya: يا ربنا - yaa Rabbanaa).",
+        "irab_dan_logika": "Manshub (berharakat fathah) karena merupakan munada mudhaf (yang disandarkan). Harakat fathah pada ba' (بَ) adalah tanda nashab. Dhamir 'na' (نا) adalah mudhaf ilaih, mabni di atas sukun dalam posisi jar."
+      },
+      "hikmah": "Ungkapan panggilan yang penuh kerendahan hati dan pengakuan akan keesaan Allah sebagai Rabb (Tuhan, Pemelihara, Pengatur). Penggunaan 'na' (kami) menunjukkan permohonan kolektif dari umat.",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "وَلَا",
+      "transliterasi": "wa laa",
+      "jenis_kata": "Huruf",
+      "arti": "dan janganlah",
+      "sharaf": {
+        "akar_kata": "Tidak memiliki akar kata karena huruf.",
+        "makna_dasar": "Waw' (و) adalah penghubung, 'Laa' (لا) adalah nahi (larangan/pencegahan). Bersama-sama membentuk larangan atau permohonan untuk tidak melakukan sesuatu.",
+        "wazan_perubahan": "Tidak berlaku untuk huruf."
+      },
+      "nahwu": {
+        "kedudukan": "Waw' (و) adalah huruf 'athaf (penghubung), 'Laa' (لا) adalah huruf nahi (larangan).",
+        "irab_dan_logika": "Keduanya adalah huruf mabni (tetap) dan tidak memiliki kedudukan i'rab. 'Laa' nahi menjazamkan fi'il mudhari' setelahnya."
+      },
+      "hikmah": "Menghubungkan doa sebelumnya dengan doa berikutnya, dan secara spesifik memperkenalkan permohonan agar Allah tidak membebankan sesuatu yang berat. Ini menunjukkan kesinambungan dalam permohonan dan penekanan pada aspek keringanan dari Allah.",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "تَحْمِلْ",
+      "transliterasi": "tahmil",
+      "jenis_kata": "Fi'il",
+      "arti": "janganlah Engkau pikulkan/bebankan",
+      "sharaf": {
+        "akar_kata": "ح م ل",
+        "makna_dasar": "membawa, memikul, membebani",
+        "wazan_perubahan": "Fi'il Mudhari' Majzum (dari wazan أَفْعَلَ - يُفْعِلُ, di sini dari حَمَّلَ - يُحَمِّلُ, bentuk larangan)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Majzum",
+        "irab_dan_logika": "Majzum dengan sukun (ْ) karena didahului oleh 'لا الناهية' (laa an-naahiyah) yang berfungsi menjazmkan fi'il mudhari'. Fa'il (pelaku) adalah dhamir mustatir (tersembunyi) yang kembali kepada Allah (Engkau)."
+      },
+      "hikmah": "Merupakan bagian dari doa permohonan kepada Allah agar tidak membebani hamba-Nya dengan beban yang terlalu berat, menunjukkan sifat kasih sayang Allah dan pengakuan hamba atas keterbatasan dirinya.",
+      "role": "none"
+    },
+    {
+      "index": 25,
+      "kata_arab": "عَلَيْنَآ",
+      "transliterasi": "alainaa",
+      "jenis_kata": "Huruf + Isim",
+      "arti": "atas kami, kepada kami",
+      "sharaf": {
+        "akar_kata": "N/A (untuk huruf 'ala), ن ا (untuk dhamir naa)",
+        "makna_dasar": "ala (atas, kepada), naa (kami)",
+        "wazan_perubahan": "Gabungan huruf jar ('ala) dan dhamir muttasil (naa) sebagai objek."
+      },
+      "nahwu": {
+        "kedudukan": "Jar Majrur (preposisi dan objeknya)",
+        "irab_dan_logika": "Ala adalah huruf jar, sehingga 'naa' (dhamir muttasil) berada dalam posisi majrur (objek dari preposisi). Dalam konteks ini, ia berfungsi sebagai maf'ul bih kedua atau menunjukkan kepada siapa beban itu dibebankan."
+      },
+      "hikmah": "Menunjukkan arah atau objek dari perbuatan membebani, yaitu 'kepada kami' sebagai hamba yang memohon keringanan dari Allah.",
+      "role": "none"
+    },
+    {
+      "index": 26,
+      "kata_arab": "إِصْرًۭا",
+      "transliterasi": "isran",
+      "jenis_kata": "Isim",
+      "arti": "beban, ikatan berat, perjanjian berat",
+      "sharaf": {
+        "akar_kata": "أ ص ر",
+        "makna_dasar": "mengikat, menahan, beban berat",
+        "wazan_perubahan": "Isim Masdar (kata benda dari kata kerja) atau Isim Makna."
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul Bih (objek langsung)",
+        "irab_dan_logika": "Manshub (berharakat fathah tanwin) karena ia adalah maf'ul bih dari fi'il 'تَحْمِلْ'."
+      },
+      "hikmah": "Merujuk pada beban berat, baik berupa perintah syariat yang sulit, ujian hidup, atau dosa yang memberatkan. Permohonan agar tidak dibebani dengan hal-hal yang memberatkan seperti yang dialami umat terdahulu.",
+      "role": "none"
+    },
+    {
+      "index": 27,
+      "kata_arab": "كَمَا",
+      "transliterasi": "kamaa",
+      "jenis_kata": "Huruf",
+      "arti": "sebagaimana, seperti",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "perbandingan, penyerupaan",
+        "wazan_perubahan": "Gabungan huruf jar 'ك' (ka) yang berarti 'seperti' dan 'ما' (maa) al-mashdariyah yang mengubah fi'il setelahnya menjadi makna masdar (kata benda)."
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar dan 'maa' al-mashdariyah",
+        "irab_dan_logika": "ك' adalah huruf jar, 'ما' adalah 'maa al-mashdariyah' yang masuk pada fi'il 'حَمَلْتَهُۥ' dan menjadikannya dalam takdir masdar (seperti 'كَحَمْلِكَ إِيَّاهُ'). Keseluruhan 'كَمَا حَمَلْتَهُۥ' dalam posisi jar sebagai majrur dari huruf 'ك'."
+      },
+      "hikmah": "Menunjukkan perbandingan atau penyerupaan, yaitu permohonan agar tidak dibebani *seperti* beban yang ditimpakan kepada umat-umat sebelumnya, menegaskan keinginan untuk keringanan.",
+      "role": "none"
+    },
+    {
+      "index": 28,
+      "kata_arab": "حَمَلْتَهُۥ",
+      "transliterasi": "hamaltahu",
+      "jenis_kata": "Fi'il + Isim",
+      "arti": "Engkau telah membebankannya",
+      "sharaf": {
+        "akar_kata": "ح م ل",
+        "makna_dasar": "membawa, memikul, membebani",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau) dari wazan فَعَلَ (fa'ala), ditambah dhamir muttasil (hu) sebagai maf'ul bih."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Madhi",
+        "irab_dan_logika": "Fi'il Madhi mabni (tetap) di atas sukun karena bersambung dengan ta' fa'il (تَ). Ta' (تَ) adalah fa'il (pelaku) dalam posisi rafa'. Ha' (هُ) adalah dhamir muttasil dalam posisi nashab sebagai maf'ul bih."
+      },
+      "hikmah": "Mengacu pada tindakan Allah di masa lalu dalam membebankan ujian atau syariat kepada umat-umat terdahulu. Ini menjadi dasar permohonan agar umat Nabi Muhammad SAW tidak mengalami beban serupa.",
+      "role": "none"
+    },
+    {
+      "index": 29,
+      "kata_arab": "عَلَى",
+      "transliterasi": "alaa",
+      "jenis_kata": "Huruf",
+      "arti": "atas, kepada",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "menunjukkan tempat di atas, atau tujuan/sasaran",
+        "wazan_perubahan": "Huruf jar."
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Jar",
+        "irab_dan_logika": "Huruf jar yang menyebabkan isim setelahnya (ٱلَّذِينَ) menjadi majrur."
+      },
+      "hikmah": "Menunjukkan kepada siapa beban tersebut ditimpakan, yaitu 'kepada orang-orang sebelum kami'. Ini memperjelas perbandingan yang dibuat dalam doa, menegaskan bahwa beban yang dimaksud adalah yang pernah ditimpakan kepada umat-umat terdahulu.",
+      "role": "none"
+    },
+    {
+      "index": 30,
+      "kata_arab": "ٱلَّذِينَ",
+      "transliterasi": "alladhīna",
+      "jenis_kata": "Isim",
+      "arti": "orang-orang yang, mereka yang",
+      "sharaf": {
+        "akar_kata": "ل-ذ-ي",
+        "makna_dasar": "Menunjuk pada sesuatu atau seseorang yang telah disebutkan atau akan disebutkan.",
+        "wazan_perubahan": "Isim Maushul (kata sambung), bentuk jamak maskulin."
+      },
+      "nahwu": {
+        "kedudukan": "Isim Maushul, dalam posisi *jar* (majrur).",
+        "irab_dan_logika": "Kata ini *mabni* (tetap) di atas *fathah* pada nun, dalam posisi *jar* karena didahului oleh huruf jar (عَلَى) yang tersirat atau terhubung dengan konteks sebelumnya (كَما حَمَلْتَهُ عَلَى الَّذِينَ)."
+      },
+      "hikmah": "Menunjukkan pada umat-umat terdahulu yang pernah dibebani ujian berat, menjadi perbandingan bagi doa umat Muhammad agar tidak dibebani hal serupa.",
+      "role": "none"
+    },
+    {
+      "index": 31,
+      "kata_arab": "مِن",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf",
+      "arti": "dari, sebagian dari",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Menunjukkan permulaan, sebagian, penjelasan, atau sebab.",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Jar.",
+        "irab_dan_logika": "Huruf ini *mabni* (tetap) di atas *sukun*. Berfungsi menjarkan isim setelahnya."
+      },
+      "hikmah": "Dalam konteks 'مِن قَبْلِنَا' (dari sebelum kami), huruf *min* ini menunjukkan permulaan waktu, yaitu 'dimulai dari masa sebelum kami' atau 'dari umat-umat sebelum kami'.",
+      "role": "none"
+    },
+    {
+      "index": 32,
+      "kata_arab": "قَبْلِنَا",
+      "transliterasi": "qablina",
+      "jenis_kata": "Isim",
+      "arti": "sebelum kami",
+      "sharaf": {
+        "akar_kata": "ق-ب-ل",
+        "makna_dasar": "Menghadap, bertemu, sebelumnya.",
+        "wazan_perubahan": "Isim Zharf (keterangan waktu)."
+      },
+      "nahwu": {
+        "kedudukan": "Isim *majrur* (dijarkan) oleh huruf jar *min* (مِنْ). Kata *qabla* adalah *mudhaf* (yang disandarkan), dan *na* (نَا) adalah *mudhaf ilaih* (yang disandari).",
+        "irab_dan_logika": "Asalnya *manshub* (berharakat fathah) sebagai *zharf*, namun di sini menjadi *majrur* (berharakat kasrah) karena didahului oleh huruf jar *min*. *Na* (نَا) adalah *dhamir muttasil* (kata ganti sambung) yang *mabni* di atas *sukun* dalam posisi *jar* sebagai *mudhaf ilaih*."
+      },
+      "hikmah": "Mengacu pada masa atau umat-umat yang mendahului umat Nabi Muhammad ﷺ, menegaskan permohonan agar tidak dibebani ujian yang sama beratnya.",
+      "role": "none"
+    },
+    {
+      "index": 33,
+      "kata_arab": "ۚ",
+      "transliterasi": "-",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "-",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Menunjukkan tempat berhenti yang dianjurkan, namun boleh juga melanjutkan bacaan.",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf.",
+        "irab_dan_logika": "Tidak memiliki i'rab."
+      },
+      "hikmah": "Memberikan jeda dalam bacaan, menandakan akhir dari satu permohonan dan permulaan permohonan berikutnya, membantu pemahaman makna ayat.",
+      "role": "none"
+    },
+    {
+      "index": 34,
+      "kata_arab": "رَبَّنَا",
+      "transliterasi": "Rabbana",
+      "jenis_kata": "Isim",
+      "arti": "Ya Tuhan kami",
+      "sharaf": {
+        "akar_kata": "ر-ب-ب",
+        "makna_dasar": "Memelihara, mengasuh, memiliki, Tuhan.",
+        "wazan_perubahan": "Isim."
+      },
+      "nahwu": {
+        "kedudukan": "*Munada* (yang dipanggil) yang *manshub* (berharakat fathah) karena huruf nida' (يا) dihilangkan. Kata *Rabb* adalah *mudhaf*, dan *na* (نَا) adalah *mudhaf ilaih*.",
+        "irab_dan_logika": "*Rabb* adalah *manshub* (berharakat fathah) karena menjadi *munada mudhaf*. *Na* (نَا) adalah *dhamir muttasil* yang *mabni* di atas *sukun* dalam posisi *jar* sebagai *mudhaf ilaih*."
+      },
+      "hikmah": "Ungkapan doa dan permohonan yang penuh ketundukan dan pengakuan akan kekuasaan Allah sebagai Pemelihara dan Pencipta, serta menunjukkan kedekatan hamba dengan Tuhannya.",
+      "role": "none"
+    },
+    {
+      "index": 35,
+      "kata_arab": "وَلَا",
+      "transliterasi": "wa lā",
+      "jenis_kata": "Huruf",
+      "arti": "dan janganlah",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "*Waw* untuk menghubungkan, *La* untuk larangan atau penafian.",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "*Waw* adalah huruf *athaf* (penghubung), *La* adalah huruf *nahiyah* (larangan).",
+        "irab_dan_logika": "Keduanya *mabni* (tetap) dan tidak memiliki i'rab. *La nahiyah* menjazemkan fi'il mudhari' setelahnya."
+      },
+      "hikmah": "Menghubungkan permohonan sebelumnya dengan permohonan berikutnya, dan menegaskan larangan atau permohonan agar tidak terjadi sesuatu yang tidak diinginkan, menunjukkan penekanan pada doa.",
+      "role": "none"
+    },
+    {
+      "index": 36,
+      "kata_arab": "تُحَمِّلْنَا",
+      "transliterasi": "tuḥammilnā",
+      "jenis_kata": "Fi'il",
+      "arti": "Engkau membebankan kepada kami",
+      "sharaf": {
+        "akar_kata": "ح م ل (ḥ-m-l)",
+        "makna_dasar": "Memikul, membawa beban. Bentuk `فَعَّلَ` (fa''ala) menunjukkan makna kausatif, yaitu 'membebankan' atau 'memikulkan'.",
+        "wazan_perubahan": "Fi'il Mudhari' (kata kerja sekarang/akan datang), Ma'lum (aktif), dari bab `تَفْعِيل` (taf'īl) atau `فَعَّلَ` (fa''ala), dengan dhamir `أنتَ` (Engkau) dan disambung dengan `نَا` (kami) sebagai objek."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Majzum",
+        "irab_dan_logika": "Majzum karena didahului oleh `لَا النَّاهِيَة` (la an-nāhiyah - la larangan). Tanda jazmnya adalah sukun pada huruf lam (ل) yang merupakan akhir dari fi'il sebelum disambung dengan `نَا`. Huruf `نَا` adalah dhamir muttasil (kata ganti bersambung) dalam posisi nashab (objek)."
+      },
+      "hikmah": "Ini adalah bagian dari doa permohonan agar Allah tidak membebankan sesuatu yang melebihi kapasitas hamba-Nya. Ini menunjukkan rahmat dan keadilan Allah, serta pengakuan hamba atas keterbatasannya.",
+      "role": "none"
+    },
+    {
+      "index": 37,
+      "kata_arab": "مَا",
+      "transliterasi": "mā",
+      "jenis_kata": "Isim Maushul",
+      "arti": "apa yang, sesuatu yang",
+      "sharaf": {
+        "akar_kata": "Tidak memiliki akar kata dalam arti sharaf karena ini adalah isim maushul.",
+        "makna_dasar": "Menghubungkan dua kalimat atau frasa, merujuk pada sesuatu yang tidak spesifik.",
+        "wazan_perubahan": "Tidak berlaku untuk isim maushul."
+      },
+      "nahwu": {
+        "kedudukan": "Isim Maushul dalam posisi Nashab (objek)",
+        "irab_dan_logika": "Berkedudukan sebagai maf'ul bih (objek) dari fi'il `تُحَمِّلْنَا`. Artinya, 'janganlah Engkau bebankan kepada kami *sesuatu yang*...'. Isim maushul adalah mabni (tetap), sehingga tidak ada perubahan harakat."
+      },
+      "hikmah": "Menunjukkan cakupan yang luas dan tidak terbatas pada jenis beban tertentu, melainkan segala sesuatu yang mungkin membebani. Ini mencakup segala bentuk ujian atau perintah yang mungkin dirasa berat.",
+      "role": "none"
+    },
+    {
+      "index": 38,
+      "kata_arab": "لَا",
+      "transliterasi": "lā",
+      "jenis_kata": "Huruf",
+      "arti": "tidak ada",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk huruf.",
+        "makna_dasar": "Menafikan keberadaan sesuatu secara mutlak dalam jenisnya.",
+        "wazan_perubahan": "Tidak berlaku untuk huruf."
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Nafiyah Lil Jins",
+        "irab_dan_logika": "Berfungsi seperti `inna` (meng-nashab-kan isim dan me-rafa'-kan khabar), tetapi menafikan jenis secara keseluruhan. Isim setelahnya (طَاقَةَ) akan menjadi manshub (nashab) tanpa tanwin jika mufrad dan tidak mudhaf."
+      },
+      "hikmah": "Penegasan peniadaan secara mutlak. Dalam konteks ini, 'tidak ada sedikit pun kemampuan' atau 'sama sekali tidak ada daya'. Ini memperkuat permohonan bahwa beban yang dimaksud benar-benar di luar batas kemampuan.",
+      "role": "none"
+    },
+    {
+      "index": 39,
+      "kata_arab": "طَاقَةَ",
+      "transliterasi": "ṭāqata",
+      "jenis_kata": "Isim",
+      "arti": "kemampuan, daya, kesanggupan",
+      "sharaf": {
+        "akar_kata": "ط و ق (ṭ-w-q)",
+        "makna_dasar": "Kemampuan, batas daya tahan. Akar kata ini juga terkait dengan 'melingkari' atau 'mengelilingi', yang bisa diartikan sebagai 'batas kemampuan'.",
+        "wazan_perubahan": "Isim Masdar (kata benda dari kata kerja) dari wazan `فَعَلَ` (fa'ala) yang kemudian menjadi `فَعْلَة` (fa'lah) untuk menunjukkan makna kemampuan."
+      },
+      "nahwu": {
+        "kedudukan": "Isim `لَا النَّافِيَة لِلْجِنْس`",
+        "irab_dan_logika": "Manshub (nashab) karena menjadi isim dari `لَا النَّافِيَة لِلْجِنْس`. Tanda nashabnya adalah fathah."
+      },
+      "hikmah": "Menekankan batas kemampuan manusia. Permohonan ini mengakui bahwa ada hal-hal yang benar-benar di luar batas daya tahan manusia, baik fisik maupun mental, dan memohon agar Allah tidak menguji dengan hal tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 40,
+      "kata_arab": "لَنَا",
+      "transliterasi": "lanā",
+      "jenis_kata": "Huruf + Dhamir",
+      "arti": "bagi kami, untuk kami",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk huruf dan dhamir.",
+        "makna_dasar": "Menunjukkan kepemilikan, kepunyaan, atau hubungan. Dalam konteks ini, 'milik kami' atau 'ada pada kami'.",
+        "wazan_perubahan": "Tidak berlaku."
+      },
+      "nahwu": {
+        "kedudukan": "Jar Majrur",
+        "irab_dan_logika": "Terdiri dari huruf jar `لِ` (li - untuk/bagi) dan dhamir muttasil `نَا` (nā - kami) yang berkedudukan majrur (dijarkan). Jar majrur ini berfungsi sebagai khabar dari `لَا النَّافِيَة لِلْجِنْس` dalam bentuk syibhul jumlah (frasa yang menyerupai kalimat). Artinya, 'tidak ada kemampuan *bagi kami*'."
+      },
+      "hikmah": "Menjelaskan siapa yang tidak memiliki kemampuan tersebut, yaitu 'kami' (orang-orang yang berdoa). Ini menegaskan bahwa keterbatasan itu adalah milik mereka secara spesifik, sebagai bentuk kerendahan diri di hadapan Allah.",
+      "role": "none"
+    },
+    {
+      "index": 41,
+      "kata_arab": "بِهِۦ",
+      "transliterasi": "bihi",
+      "jenis_kata": "Huruf + Dhamir",
+      "arti": "dengannya, padanya, tentangnya",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk huruf dan dhamir.",
+        "makna_dasar": "Menunjukkan hubungan, sebab, atau objek yang terkait. Huruf `بِ` (bi) memiliki banyak makna, di sini menunjukkan keterkaitan atau objek.",
+        "wazan_perubahan": "Tidak berlaku."
+      },
+      "nahwu": {
+        "kedudukan": "Jar Majrur",
+        "irab_dan_logika": "Terdiri dari huruf jar `بِ` (bi - dengan/tentang) dan dhamir muttasil `ه` (hi - nya) yang berkedudukan majrur (dijarkan). Jar majrur ini berkaitan dengan `طَاقَةَ` atau `لَنَا`, menjelaskan objek dari ketidakmampuan tersebut. Artinya, 'tidak ada kemampuan bagi kami *terhadapnya*'."
+      },
+      "hikmah": "Menjelaskan objek atau hal yang tidak sanggup dipikul. Kata `به` merujuk kembali kepada `مَا` (apa yang) pada awal frasa, menegaskan bahwa ketidakmampuan itu adalah terhadap 'apa yang' Allah bebankan, yaitu segala sesuatu yang melebihi daya tahan.",
+      "role": "none"
+    },
+    {
+      "index": 42,
+      "kata_arab": "ۖ",
+      "transliterasi": "waqf lāzim",
+      "jenis_kata": "Tanda Waqaf (Punctuation)",
+      "arti": "Tanda berhenti sempurna",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Tidak berlaku",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca dalam mushaf",
+        "irab_dan_logika": "Tidak memiliki kedudukan i'rab karena bukan kata."
+      },
+      "hikmah": "Tanda ini menunjukkan tempat berhenti yang dianjurkan untuk menjaga makna ayat agar tidak keliru dan untuk mengambil nafas sebelum melanjutkan bacaan.",
+      "role": "none"
+    },
+    {
+      "index": 43,
+      "kata_arab": "وَٱعْفُ",
+      "transliterasi": "wa'fu",
+      "jenis_kata": "Fi'il",
+      "arti": "dan maafkanlah",
+      "sharaf": {
+        "akar_kata": "ع ف و (ain-fa-waw)",
+        "makna_dasar": "Memaafkan, menghapus, melupakan kesalahan",
+        "wazan_perubahan": "Fi'il Amr (kata kerja perintah) dari wazan فَعَلَ - يَفْعُلُ (fa'ala - yaf'ulu). Bentuk aslinya عَفَا - يَعْفُو. Fi'il Amr-nya adalah اُعْفُ, dengan wawu dihilangkan karena jazm. Huruf wawu (و) di awal adalah huruf 'athaf (penghubung)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Amr (kata kerja perintah), ma'thuf (dihubungkan) kepada fi'il amr sebelumnya (jika ada, atau sebagai permulaan doa).",
+        "irab_dan_logika": "Fi'il Amr mabni (tetap) atas hadzfu harfil illah (penghapusan huruf illat) yaitu wawu (و), karena asalnya adalah تَعْفُو. Huruf wawu (و) di awal adalah huruf 'athaf."
+      },
+      "hikmah": "Ini adalah permohonan ampunan dan penghapusan dosa dari Allah, menunjukkan kerendahan hati dan pengakuan akan kekurangan manusia. Permohonan 'afw (maaf) berarti Allah menghapus dosa seolah-olah tidak pernah ada.",
+      "role": "none"
+    },
+    {
+      "index": 44,
+      "kata_arab": "عَنَّا",
+      "transliterasi": "annā",
+      "jenis_kata": "Huruf + Dhamir",
+      "arti": "dari kami",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku (untuk huruf)",
+        "makna_dasar": "Tidak berlaku (untuk huruf)",
+        "wazan_perubahan": "Tidak berlaku (untuk huruf)"
+      },
+      "nahwu": {
+        "kedudukan": "Jar Majrur. 'An (عن) adalah huruf jar, dan nā (نا) adalah dhamir muttasil majrur bi harfil jar.",
+        "irab_dan_logika": "An (عن) adalah huruf jar yang menjadikan kata setelahnya majrur. Nā (نا) adalah dhamir muttasil yang mabni di posisi jar."
+      },
+      "hikmah": "Menunjukkan bahwa permohonan maaf itu ditujukan agar Allah menghapus dosa *dari* diri mereka (kami), menekankan sifat kolektif dari doa tersebut dan bahwa penghapusan dosa itu menjauhkan keburukan dari mereka.",
+      "role": "none"
+    },
+    {
+      "index": 45,
+      "kata_arab": "وَٱغْفِرْ",
+      "transliterasi": "waghfir",
+      "jenis_kata": "Fi'il",
+      "arti": "dan ampunilah",
+      "sharaf": {
+        "akar_kata": "غ ف ر (ghain-fa-ra)",
+        "makna_dasar": "Mengampuni, menutupi dosa, melindungi",
+        "wazan_perubahan": "Fi'il Amr (kata kerja perintah) dari wazan فَعَلَ - يَفْعِلُ (fa'ala - yaf'ilu). Bentuk aslinya غَفَرَ - يَغْفِرُ. Fi'il Amr-nya adalah اِغْفِرْ. Huruf wawu (و) di awal adalah huruf 'athaf."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Amr, ma'thuf kepada fi'il amr sebelumnya (وَٱعْفُ).",
+        "irab_dan_logika": "Fi'il Amr mabni atas sukun (ْ), karena ini adalah fi'il shahih akhir yang tidak bersambung dengan sesuatu. Huruf wawu (و) di awal adalah huruf 'athaf."
+      },
+      "hikmah": "Ini adalah permohonan ampunan yang spesifik, yaitu menutupi dan menghapus dosa-dosa, melengkapi permohonan 'maafkanlah' sebelumnya. Maghfirah (ampunan) berarti Allah menutupi dosa sehingga tidak terlihat dan tidak dihukum.",
+      "role": "none"
+    },
+    {
+      "index": 46,
+      "kata_arab": "لَنَا",
+      "transliterasi": "lanā",
+      "jenis_kata": "Huruf + Dhamir",
+      "arti": "bagi kami / untuk kami",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku (untuk huruf)",
+        "makna_dasar": "Tidak berlaku (untuk huruf)",
+        "wazan_perubahan": "Tidak berlaku (untuk huruf)"
+      },
+      "nahwu": {
+        "kedudukan": "Jar Majrur. Lām (ل) adalah huruf jar, dan nā (نا) adalah dhamir muttasil majrur bi harfil jar.",
+        "irab_dan_logika": "Lām (ل) adalah huruf jar yang menjadikan kata setelahnya majrur. Nā (نا) adalah dhamir muttasil yang mabni di posisi jar."
+      },
+      "hikmah": "Menunjukkan bahwa permohonan ampunan itu ditujukan *untuk* diri mereka (kami), menekankan manfaat ampunan yang kembali kepada mereka, yaitu kebaikan dan pahala.",
+      "role": "none"
+    },
+    {
+      "index": 47,
+      "kata_arab": "وَٱرْحَمْنَآ",
+      "transliterasi": "warhamnā",
+      "jenis_kata": "Fi'il + Dhamir",
+      "arti": "dan rahmatilah kami",
+      "sharaf": {
+        "akar_kata": "ر ح م (ra-ha-mim)",
+        "makna_dasar": "Menyayangi, mengasihi, merahmati",
+        "wazan_perubahan": "Fi'il Amr (kata kerja perintah) dari wazan فَعَلَ - يَفْعَلُ (fa'ala - yaf'alu). Bentuk aslinya رَحِمَ - يَرْحَمُ. Fi'il Amr-nya adalah اِرْحَمْ. Huruf wawu (و) di awal adalah huruf 'athaf dan nā (نا) adalah dhamir sebagai maf'ul bih."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Amr + Maf'ul Bih. Fi'il Amr (ارحم) ma'thuf kepada fi'il amr sebelumnya (وَٱغْفِرْ). Nā (نا) adalah dhamir muttasil yang mabni di posisi nashab sebagai maf'ul bih.",
+        "irab_dan_logika": "Fi'il Amr (ارحم) mabni atas sukun (ْ). Nā (نا) adalah dhamir muttasil yang mabni di posisi nashab (objek) dari fi'il ارحم. Huruf wawu (و) di awal adalah huruf 'athaf. Alif kecil (ٓ) setelah nā menunjukkan mad thabi'i, bukan bagian dari i'rab."
+      },
+      "hikmah": "Puncak dari permohonan, yaitu memohon rahmat dan kasih sayang Allah yang meliputi segala sesuatu, yang merupakan sumber kebaikan dan perlindungan tertinggi bagi hamba-Nya. Rahmat Allah adalah karunia yang sangat luas, mencakup pengampunan, petunjuk, dan segala kebaikan di dunia dan akhirat.",
+      "role": "none"
+    },
+    {
+      "index": 48,
+      "kata_arab": "ۚ",
+      "transliterasi": "Juz' sign",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "Tanda berhenti sempurna",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Tidak berlaku",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca",
+        "irab_dan_logika": "Tidak memiliki i'rab"
+      },
+      "hikmah": "Menunjukkan tempat berhenti yang disunnahkan untuk mengambil napas dan memahami makna kalimat sebelumnya secara utuh sebelum melanjutkan.",
+      "role": "none"
+    },
+    {
+      "index": 49,
+      "kata_arab": "أَنتَ",
+      "transliterasi": "Anta",
+      "jenis_kata": "Isim Dhomir",
+      "arti": "Engkau (laki-laki tunggal)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku (dhomir)",
+        "makna_dasar": "Menunjuk orang kedua tunggal",
+        "wazan_perubahan": "Tidak berlaku (dhomir mabni)"
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada'",
+        "irab_dan_logika": "Dhomir munfasil (kata ganti terpisah) yang mabni (tetap) di atas fathah, dalam kedudukan rafa' sebagai mubtada'."
+      },
+      "hikmah": "Penekanan bahwa Allah SWT adalah satu-satunya Dzat yang menjadi penolong, menunjukkan keesaan dan kekuasaan-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 50,
+      "kata_arab": "مَوْلَىٰنَا",
+      "transliterasi": "Mawlānā",
+      "jenis_kata": "Isim",
+      "arti": "Penolong kami, Pelindung kami, Tuan kami",
+      "sharaf": {
+        "akar_kata": "و ل ي",
+        "makna_dasar": "Kedekatan, perwalian, pertolongan, kepemilikan",
+        "wazan_perubahan": "مَفْعَلٌ (maf'alun) - Isim Fa'il atau Isim Sifat yang menunjukkan makna 'yang mengurus/menolong'."
+      },
+      "nahwu": {
+        "kedudukan": "Khabar dari mubtada' 'أَنتَ', dan Mudhaf kepada 'نَا'",
+        "irab_dan_logika": "Khabar yang marfu' (rafa') dengan tanda dhommah muqaddarah (tersembunyi) di atas alif maqsurah (ٰ) karena terhalang oleh ya' mutakallim (yang diwakili oleh 'نَا' sebagai dhomir muttasil), dan ia adalah mudhaf. Dhomir 'نَا' adalah mudhaf ilaih, mabni di atas sukun dalam kedudukan jar."
+      },
+      "hikmah": "Mengukuhkan bahwa Allah adalah satu-satunya Pelindung dan Penolong sejati bagi hamba-hamba-Nya, yang kepadanya kita berserah diri dan memohon pertolongan.",
+      "role": "none"
+    },
+    {
+      "index": 51,
+      "kata_arab": "فَٱنصُرْنَا",
+      "transliterasi": "Fansurnā",
+      "jenis_kata": "Huruf Athaf + Fi'il Amr + Dhomir Muttasil",
+      "arti": "Maka tolonglah kami",
+      "sharaf": {
+        "akar_kata": "ن ص ر",
+        "makna_dasar": "Menolong, membantu, mendukung",
+        "wazan_perubahan": "ٱنصُرْ adalah Fi'il Amr dari Bab I (فَعَلَ - يَفْعُلُ), wazan 'اُفْعُلْ'. Dhomir 'نَا' adalah maf'ul bih."
+      },
+      "nahwu": {
+        "kedudukan": "Fa'ul Athaf + Fi'il Amr + Maf'ul Bih",
+        "irab_dan_logika": "Fa' (فَ) adalah huruf athaf yang menunjukkan akibat atau kelanjutan. 'ٱنصُرْ' adalah fi'il amr mabni di atas sukun. Fa'ilnya (subjek) adalah dhomir mustatir (tersembunyi) takdirnya 'أنتَ' (Engkau). 'نَا' adalah dhomir muttasil mabni di atas sukun dalam kedudukan nashab sebagai maf'ul bih."
+      },
+      "hikmah": "Permohonan langsung kepada Allah untuk memberikan pertolongan, menunjukkan ketergantungan mutlak hamba kepada kekuatan ilahi dalam menghadapi kesulitan, khususnya dalam perjuangan melawan kebatilan.",
+      "role": "none"
+    },
+    {
+      "index": 52,
+      "kata_arab": "عَلَى",
+      "transliterasi": "Alā",
+      "jenis_kata": "Huruf Jar",
+      "arti": "Atas, Terhadap, Kepada",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku (huruf)",
+        "makna_dasar": "Menunjukkan keberadaan di atas sesuatu, atau penentangan/perlawanan terhadap sesuatu.",
+        "wazan_perubahan": "Tidak berlaku (huruf mabni)"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Jar",
+        "irab_dan_logika": "Huruf jar yang mabni di atas sukun, tidak memiliki kedudukan i'rab. Berfungsi men-jar-kan isim setelahnya."
+      },
+      "hikmah": "Menunjukkan arah pertolongan yang diminta, yaitu 'melawan' atau 'terhadap' kaum kafir, menegaskan tujuan perjuangan dan perlindungan dari kejahatan.",
+      "role": "none"
+    },
+    {
+      "index": 53,
+      "kata_arab": "ٱلْقَوْمِ",
+      "transliterasi": "Al-qawmi",
+      "jenis_kata": "Isim",
+      "arti": "Kaum, Golongan, Masyarakat",
+      "sharaf": {
+        "akar_kata": "ق و م",
+        "makna_dasar": "Berdiri, tegak, kelompok orang yang berdiri bersama",
+        "wazan_perubahan": "فَعْلٌ (fa'lun) - Isim Jamak (secara makna, meskipun bentuknya mufrad) atau Isim Masdar."
+      },
+      "nahwu": {
+        "kedudukan": "Isim Majrur oleh huruf jar 'عَلَى'",
+        "irab_dan_logika": "Isim yang majrur (jar) dengan tanda kasrah zhahirah (jelas) di akhirnya, karena didahului oleh huruf jar 'عَلَى'."
+      },
+      "hikmah": "Merujuk pada kelompok atau golongan manusia, dalam konteks ayat ini, secara spesifik merujuk pada 'kaum kafir' yang menjadi lawan dalam perjuangan kebenaran.",
+      "role": "none"
+    },
+    {
+      "index": 54,
+      "kata_arab": "ٱلْكَٰفِرِينَ",
+      "transliterasi": "al-Kāfirīn",
+      "jenis_kata": "Isim",
+      "arti": "orang-orang yang ingkar / orang-orang kafir",
+      "sharaf": {
+        "akar_kata": "ك ف ر (K-F-R)",
+        "makna_dasar": "Menutupi, mengingkari, tidak bersyukur, menolak kebenaran.",
+        "wazan_perubahan": "Isim Fa'il (pelaku) dari fi'il tsulatsi mujarrad (kata kerja tiga huruf asli) pada wazan فاعل (fā'il), kemudian dijamakkan menjadi فاعلين (fā'ilīn) dalam bentuk jamak mudzakkar salim (plural masculine sound) yang mansub atau majrur."
+      },
+      "nahwu": {
+        "kedudukan": "Na'at (sifat/adjektiva) dari kata 'ٱلْقَوْمِ' (al-qawmi) yang berarti 'kaum/golongan'.",
+        "irab_dan_logika": "Majrur (berharakat kasrah/ya' pada jamak mudzakkar salim) karena mengikuti ma'tuf (kata yang disifati) yaitu 'ٱلْقَوْمِ' yang juga majrur (diawali huruf jar 'عَلَى'). Tanda jar untuk jamak mudzakkar salim adalah huruf 'ي' (ya')."
+      },
+      "hikmah": "Kata ini merujuk pada orang-orang yang secara sadar menolak kebenaran, menutupi nikmat Allah, atau mengingkari ajaran-Nya. Dalam konteks doa di akhir ayat, ini adalah permohonan agar Allah menolong kaum Muslimin menghadapi mereka yang menentang kebenaran dan berusaha menghalangi dakwah Islam. Ini juga mengandung pelajaran tentang pentingnya memohon pertolongan Allah dalam menghadapi tantangan dari pihak yang ingkar.",
+      "role": "none"
+    }
+  ]
+}

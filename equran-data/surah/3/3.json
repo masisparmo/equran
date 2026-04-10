@@ -6,19 +6,199 @@
       "index": 0,
       "kata_arab": "نَزَّلَ",
       "transliterasi": "nazzala",
-      "jenis_kata": "Fi'il (Kata Kerja)",
-      "arti": "Menurunkan",
+      "jenis_kata": "Fi'il",
+      "arti": "Dia menurunkan",
       "sharaf": {
-        "akar_kata": "ن ز ل",
-        "makna_dasar": "Turun atau berpindah dari tempat tinggi ke tempat rendah",
-        "wazan_perubahan": "Mengikuti pola 'Fa''ala' (فَعَّلَ) dengan penekanan (tasydid) pada huruf tengah. Dalam kaidah bahasa Arab, pola ini sering mengandung makna 'at-tadriij', yaitu melakukan sesuatu secara bertahap, berangsur-angsur, atau berulang-ulang."
+        "akar_kata": "ن-ز-ل",
+        "makna_dasar": "Turun, menjatuhkan",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau) dengan wazan فَعَّلَ (fa''ala), menunjukkan makna taksir (berulang-ulang, bertahap, atau intensif)."
       },
       "nahwu": {
-        "kedudukan": "Kata kerja masa lampau (Fi'il Madhi) yang berfungsi sebagai predikat, dengan pelaku (subjek) tersembunyi yaitu 'Huwa' (Dia/Allah).",
-        "irab_dan_logika": "Berakhiran fathah (baris atas) karena merupakan kata kerja bentuk lampau (Fi'il Madhi) yang bersifat tetap (mabni). Logikanya, fathah di sini menandakan suatu kepastian perbuatan yang telah dan sedang ditetapkan oleh Allah."
+        "kedudukan": "Fi'il Madhi, fa'ilnya (pelaku) adalah dhamir mustatir (tersembunyi) yang kembali kepada Allah (Dia).",
+        "irab_dan_logika": "Fi'il Madhi mabni (tetap) di atas fathah."
       },
-      "hikmah": "Penggunaan kata 'nazzala' khusus untuk Al-Quran dalam ayat ini (dibandingkan kata 'anzala' untuk Taurat dan Injil di potongan ayat selanjutnya) memberikan isyarat sastra yang sangat dalam. Ini menunjukkan bahwa Al-Quran diturunkan secara berangsur-angsur (bertahap) selama 23 tahun sesuai dengan peristiwa yang terjadi, berbeda dengan kitab-kitab sebelumnya yang diturunkan sekaligus. Ini adalah bentuk kasih sayang Allah agar Al-Quran lebih mudah dipahami, dihafal, dan diamalkan oleh umat manusia.",
-      "role": "predicate"
+      "hikmah": "Kata ini menunjukkan bahwa penurunan Al-Qur'an dari Allah kepada Nabi Muhammad SAW adalah proses yang bertahap, tidak sekaligus. Ini berbeda dengan Taurat dan Injil yang diturunkan sekaligus, dan mencerminkan hikmah Allah untuk memudahkan pemahaman dan pengamalan.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "عَلَيْكَ",
+      "transliterasi": "ʿalayka",
+      "jenis_kata": "Huruf + Isim",
+      "arti": "Kepadamu",
+      "sharaf": {
+        "akar_kata": "Tidak ada akar kata untuk huruf jar. ك (ka) adalah dhamir muttasil.",
+        "makna_dasar": "Di atas, kepada (untuk عَلَى). Kamu (untuk ك).",
+        "wazan_perubahan": "عَلَى (ʿala) adalah huruf jar. ك (ka) adalah dhamir mukhatab (orang kedua tunggal laki-laki)."
+      },
+      "nahwu": {
+        "kedudukan": "Jar Majrur. عَلَى (ʿala) adalah huruf jar. ك (ka) adalah dhamir muttasil mabni fi mahalli jarr (dhamir bersambung yang mabni pada posisi majrur) karena didahului huruf jar.",
+        "irab_dan_logika": "Huruf jar menjadikan isim setelahnya majrur. Dhamir ك (ka) merujuk kepada Nabi Muhammad SAW."
+      },
+      "hikmah": "Gabungan ini menjelaskan secara spesifik kepada siapa Al-Qur'an itu diturunkan secara langsung, yaitu Nabi Muhammad SAW, sebagai penerima wahyu dan penyampai risalah ilahi kepada umat manusia.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "ٱلْكِتَٰبَ",
+      "transliterasi": "al-kitāba",
+      "jenis_kata": "Isim",
+      "arti": "Kitab (Al-Qur'an)",
+      "sharaf": {
+        "akar_kata": "ك-ت-ب",
+        "makna_dasar": "Menulis, mencatat, mewajibkan",
+        "wazan_perubahan": "Isim, bentuk فِعَال (fi'āl) dari akar kata, dengan penambahan alif lam (ال) sebagai penanda ma'rifah (definitif)."
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul Bih (objek) dari fi'il نَزَّلَ.",
+        "irab_dan_logika": "Mansub (berharakat fathah) karena menjadi maf'ul bih. Tanda mansubnya adalah fathah pada huruf ba (ب)."
+      },
+      "hikmah": "Kata ini merujuk secara spesifik kepada Al-Qur'an, yang merupakan wahyu tertulis dari Allah. Penambahan 'al' (ال) menunjukkan keistimewaan dan keagungan kitab ini sebagai sumber petunjuk utama bagi umat Islam.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "بِٱلْحَقِّ",
+      "transliterasi": "bil-ḥaqqi",
+      "jenis_kata": "Huruf + Isim",
+      "arti": "Dengan kebenaran",
+      "sharaf": {
+        "akar_kata": "ح-ق-ق",
+        "makna_dasar": "Benar, nyata, wajib",
+        "wazan_perubahan": "ب (bi) adalah huruf jar. الْحَقِّ (al-ḥaqqi) adalah isim."
+      },
+      "nahwu": {
+        "kedudukan": "Jar Majrur. ب (bi) adalah huruf jar. الْحَقِّ (al-ḥaqqi) adalah isim majrur (berharakat kasrah) karena didahului huruf jar.",
+        "irab_dan_logika": "Huruf jar ب (bi) menyebabkan isim setelahnya menjadi majrur. Tanda jarr-nya adalah kasrah pada huruf qaf (ق)."
+      },
+      "hikmah": "Frasa ini menegaskan bahwa Al-Qur'an diturunkan dengan kebenaran mutlak dari Allah, tanpa keraguan atau kesalahan sedikit pun. Ini juga menyiratkan bahwa tujuan penurunannya adalah untuk menegakkan kebenaran dan keadilan.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "مُصَدِّقًۭا",
+      "transliterasi": "muṣaddiqan",
+      "jenis_kata": "Isim Fa'il",
+      "arti": "Yang membenarkan",
+      "sharaf": {
+        "akar_kata": "ص-د-ق",
+        "makna_dasar": "Benar, jujur, membenarkan",
+        "wazan_perubahan": "Isim Fa'il dari fi'il tsulatsi mazid biharf (tiga huruf tambahan satu huruf) wazan فَعَّلَ (fa''ala), yaitu صَدَّقَ (ṣaddaqa). Bentuk Isim Fa'ilnya adalah مُفَعِّلٌ (mufa''ilun)."
+      },
+      "nahwu": {
+        "kedudukan": "Hal (keadaan) bagi Al-Kitab (ٱلْكِتَٰبَ).",
+        "irab_dan_logika": "Mansub (berharakat fathatain) karena menjadi Hal. Tanda mansubnya adalah fathatain pada huruf qaf (ق)."
+      },
+      "hikmah": "Kata ini menjelaskan salah satu fungsi utama Al-Qur'an, yaitu membenarkan dan mengkonfirmasi kebenaran kitab-kitab suci sebelumnya (Taurat dan Injil) yang berasal dari Allah, sekaligus meluruskan penyimpangan atau perubahan yang mungkin terjadi pada kitab-kitab tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "لِّمَا",
+      "transliterasi": "limā",
+      "jenis_kata": "Huruf + Isim Maushul",
+      "arti": "Bagi apa yang / untuk apa yang",
+      "sharaf": {
+        "akar_kata": "Tidak ada akar kata untuk huruf jar. مَا (mā) adalah isim maushul.",
+        "makna_dasar": "Untuk/bagi (untuk لِ). Apa yang/sesuatu yang (untuk مَا).",
+        "wazan_perubahan": "لِ (li) adalah huruf jar. مَا (mā) adalah isim maushul."
+      },
+      "nahwu": {
+        "kedudukan": "Jar Majrur. لِ (li) adalah huruf jar. مَا (mā) adalah isim maushul mabni fi mahalli jarr (isim maushul yang mabni pada posisi majrur) karena didahului huruf jar.",
+        "irab_dan_logika": "Huruf jar لِ (li) menyebabkan isim setelahnya menjadi majrur. مَا (mā) di sini berfungsi sebagai kata penghubung yang merujuk pada 'sesuatu yang' atau 'kitab-kitab yang'."
+      },
+      "hikmah": "Gabungan ini menjelaskan objek dari tindakan 'membenarkan' (مُصَدِّقًۭا), yaitu 'apa yang' atau 'kitab-kitab yang' telah diturunkan sebelumnya. Ini menunjukkan kesinambungan risalah ilahi dari masa ke masa, di mana Al-Qur'an datang sebagai penutup dan penyempurna.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "بَيْنَ",
+      "transliterasi": "bayna",
+      "jenis_kata": "Isim Zharaf Makan",
+      "arti": "antara",
+      "sharaf": {
+        "akar_kata": "ب-ي-ن (B-Y-N)",
+        "makna_dasar": "Jelas, terang, memisahkan, di antara.",
+        "wazan_perubahan": "Isim Zharaf (tidak memiliki wazan fi'il atau isim musytaq standar)"
+      },
+      "nahwu": {
+        "kedudukan": "Zharaf makan (kata keterangan tempat) yang berfungsi sebagai mudhaf.",
+        "irab_dan_logika": "Manshub (fathah) karena merupakan zharaf makan yang menunjukkan tempat atau waktu. Dalam konteks ini, ia berfungsi sebagai preposisi yang mengindikasikan hubungan 'sebelum'."
+      },
+      "hikmah": "Kata ini menunjukkan posisi atau hubungan di antara dua hal. Dalam frasa 'بَيْنَ يَدَيْهِ', ia membentuk idiom yang berarti 'sebelumnya' atau 'di hadapannya', merujuk pada kitab-kitab suci yang mendahului Al-Qur'an.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "يَدَيْهِ",
+      "transliterasi": "yadayhi",
+      "jenis_kata": "Isim (bentuk dual)",
+      "arti": "kedua tangannya (secara harfiah); sebelumnya/di hadapannya (secara idiomatik)",
+      "sharaf": {
+        "akar_kata": "ي-د-ي (Y-D-Y)",
+        "makna_dasar": "Tangan, kekuasaan, kekuatan.",
+        "wazan_perubahan": "Isim mutsanna (dual) dari يَدٌ (tangan)."
+      },
+      "nahwu": {
+        "kedudukan": "Mudhaf ilaih dari بَيْنَ. Dhomir هِ (hu) adalah mudhaf ilaih dari يَدَيْ.",
+        "irab_dan_logika": "Majrur (dengan ya' karena bentuk dual dan berfungsi sebagai mudhaf ilaih). Huruf nun pada bentuk dual (يَدَيْنِ) dihilangkan karena idhafah. Dhomir هِ (hu) adalah dhomir majrur bi al-idhafah, merujuk pada Al-Qur'an."
+      },
+      "hikmah": "Dalam konteks 'بَيْنَ يَدَيْهِ', frasa ini adalah idiom yang berarti 'sebelumnya', 'di hadapannya', atau 'yang mendahuluinya'. Ini menegaskan bahwa Al-Qur'an membenarkan dan melengkapi kitab-kitab suci yang telah diturunkan Allah sebelumnya.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "وَأَنزَلَ",
+      "transliterasi": "wa anzal",
+      "jenis_kata": "Fi'il (kata kerja)",
+      "arti": "dan Dia menurunkan",
+      "sharaf": {
+        "akar_kata": "ن-ز-ل (N-Z-L)",
+        "makna_dasar": "Turun, jatuh, datang dari atas.",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau) dari Bab If'al (أَفْعَلَ - يُفْعِلُ). Wazan أَفْعَلَ menunjukkan makna kausatif (menyebabkan sesuatu terjadi)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Madhi, fa'ilnya (pelaku) adalah dhomir mustatir (tersembunyi) تقديره هو (Dia/Allah). Huruf wawu (و) adalah *wawu 'athaf* (penghubung).",
+        "irab_dan_logika": "Mabni 'ala al-fath (tetap pada fathah) karena fi'il madhi yang tidak bersambung dengan dhomir rafa' mutaharrik atau wawu jama'. Wawu 'athaf menghubungkan tindakan menurunkan Taurat dan Injil dengan tindakan sebelumnya."
+      },
+      "hikmah": "Kata ini menekankan bahwa Allah-lah yang secara aktif menurunkan kitab-kitab suci tersebut, menunjukkan kekuasaan dan kehendak-Nya dalam membimbing manusia. Ini juga menegaskan bahwa Taurat dan Injil, seperti Al-Qur'an, adalah wahyu ilahi dari sumber yang sama.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "ٱلتَّوْرَىٰةَ",
+      "transliterasi": "at-Tawrāh",
+      "jenis_kata": "Isim (kata benda)",
+      "arti": "Taurat (nama kitab suci)",
+      "sharaf": {
+        "akar_kata": "(Asal bukan Arab, dari Ibrani: Torah)",
+        "makna_dasar": "(Dari Ibrani: pengajaran, hukum)",
+        "wazan_perubahan": "Isim 'alam (nama diri), tidak memiliki wazan sharaf Arab standar."
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul bih (objek) dari fi'il أَنزَلَ.",
+        "irab_dan_logika": "Manshub (fathah) karena merupakan maf'ul bih (objek) dari kata kerja 'menurunkan'."
+      },
+      "hikmah": "Merujuk pada kitab suci yang diturunkan kepada Nabi Musa AS. Penyebutannya di sini menegaskan kesinambungan wahyu ilahi dan pentingnya Taurat sebagai bagian dari bimbingan Allah yang diakui dalam Islam.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "وَٱلْإِنجِيلَ",
+      "transliterasi": "wa al-Injīl",
+      "jenis_kata": "Isim (kata benda)",
+      "arti": "dan Injil (nama kitab suci)",
+      "sharaf": {
+        "akar_kata": "(Asal bukan Arab, dari Yunani: Evangelion)",
+        "makna_dasar": "(Dari Yunani: kabar baik)",
+        "wazan_perubahan": "Isim 'alam (nama diri), tidak memiliki wazan sharaf Arab standar."
+      },
+      "nahwu": {
+        "kedudukan": "Ma'thuf (diikuti) kepada ٱلتَّوْرَىٰةَ, sehingga memiliki i'rab yang sama. Huruf wawu (و) adalah *wawu 'athaf*.",
+        "irab_dan_logika": "Manshub (fathah) karena di-athaf-kan kepada maf'ul bih yang manshub. Wawu 'athaf berfungsi sebagai penghubung antara 'Taurat' dan 'Injil'."
+      },
+      "hikmah": "Merujuk pada kitab suci yang diturunkan kepada Nabi Isa AS. Penyebutan Injil bersama Taurat melengkapi rangkaian wahyu ilahi, menegaskan bahwa semua kitab suci tersebut berasal dari sumber yang sama, yaitu Allah SWT, dan merupakan bagian dari petunjuk-Nya kepada umat manusia.",
+      "role": "none"
     }
   ]
 }

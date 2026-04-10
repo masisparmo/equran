@@ -1,0 +1,258 @@
+{
+  "surah": 4,
+  "ayah": 107,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "وَلَا",
+      "transliterasi": "wa-lā",
+      "jenis_kata": "Huruf",
+      "arti": "dan tidak",
+      "sharaf": {
+        "akar_kata": "لا",
+        "makna_dasar": "negasi",
+        "wazan_perubahan": "tidak ada (kata partikel)"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf sambung (wa) + huruf na (la) sebagai partikel negatif",
+        "irab_dan_logika": "Tidak berharakat karena merupakan huruf, menolak fi'il setelahnya menjadi jussif"
+      },
+      "hikmah": "Menegaskan larangan, menolak tindakan berdebat dalam konteks ayat",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "تُجَٰدِلْ",
+      "transliterasi": "tujādil",
+      "jenis_kata": "Fi'il",
+      "arti": "berdebat",
+      "sharaf": {
+        "akar_kata": "ج د ل",
+        "makna_dasar": "berdebat, bersengketa",
+        "wazan_perubahan": "فَعَلَ (bentuk 3)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il mudhari‘ majzum (jussif) karena didahului «لا»",
+        "irab_dan_logika": "Berakhiran sukun pada «ل» menandakan majzum; tidak ada harakat akhir"
+      },
+      "hikmah": "Larangan berdebat atas orang yang mengkhianati diri sendiri",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "عَنِ",
+      "transliterasi": "ʿani",
+      "jenis_kata": "Huruf",
+      "arti": "tentang",
+      "sharaf": {
+        "akar_kata": "ع ن",
+        "makna_dasar": "tentang, mengenai",
+        "wazan_perubahan": "tidak ada (kata jar)"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar",
+        "irab_dan_logika": "Tidak berharakat; menurunkan kata berikutnya menjadi majrur"
+      },
+      "hikmah": "Menunjukkan objek pembicaraan, yaitu orang‑orang yang mengkhianati diri",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "ٱلَّذِينَ",
+      "transliterasi": "alladhīna",
+      "jenis_kata": "Isim",
+      "arti": "orang‑orang yang",
+      "sharaf": {
+        "akar_kata": "ذ ي",
+        "makna_dasar": "yang memiliki, yang ...",
+        "wazan_perubahan": "الَّذِي (isim mawsul)"
+      },
+      "nahwu": {
+        "kedudukan": "Isim mawsul (kata ganti relatif)",
+        "irab_dan_logika": "Mujarrad karena berada di belakang «عن»; berkasrah (مجرور)"
+      },
+      "hikmah": "Merujuk pada kelompok orang yang melakukan khianat",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "يَخْتَانُونَ",
+      "transliterasi": "yakhtānūna",
+      "jenis_kata": "Fi'il",
+      "arti": "mengkhianati",
+      "sharaf": {
+        "akar_kata": "خ ت ن",
+        "makna_dasar": "khianat, menipu",
+        "wazan_perubahan": "يفعل (bentuk 1)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il mudhari‘ marfū‘ (verb aktif) dalam klausa relatif",
+        "irab_dan_logika": "Berakhiran dhammah karena subjeknya (الذين) berkasrah; fi'il marfū‘"
+      },
+      "hikmah": "Menjelaskan perbuatan orang‑orang tersebut, yaitu mengkhianati diri mereka",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "أَنفُسَهُمْ",
+      "transliterasi": "anfusihim",
+      "jenis_kata": "Isim",
+      "arti": "diri mereka",
+      "sharaf": {
+        "akar_kata": "ن ف س",
+        "makna_dasar": "diri, jiwa",
+        "wazan_perubahan": "أنفُس (jamak taksir)"
+      },
+      "nahwu": {
+        "kedudukan": "Maf‘ūl bih (objek) fi'il «يَخْتَانُونَ»",
+        "irab_dan_logika": "Dinasb dengan fathah karena maf‘ūl, dan «هم» sebagai ضمير متصل في محل جر"
+      },
+      "hikmah": "Objek khianat, yaitu diri mereka sendiri",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "ۚ",
+      "transliterasi": "waqf",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda jeda/istirahat",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca akhir ayat, memisahkan bagian kalimat",
+        "irab_dan_logika": "tidak memiliki i‘rāb, berfungsi sebagai pemisah"
+      },
+      "hikmah": "*Menandakan jeda* sehingga pembaca dapat berhenti sejenak dan merenungkan makna ayat sebelumnya.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "إِنَّ",
+      "transliterasi": "inna",
+      "jenis_kata": "Huruf (particle)",
+      "arti": "sesungguhnya",
+      "sharaf": {
+        "akar_kata": "— (huruf tidak berakar)",
+        "makna_dasar": "menegaskan kebenaran",
+        "wazan_perubahan": "—"
+      },
+      "nahwu": {
+        "kedudukan": "huruf takdir, memperkuat kalimat setelahnya",
+        "irab_dan_logika": "مُشَبَّهٌ بِجُمْلَةٍ اسْمِيَّةٍ؛ يَجْعَلُ اسْمَ الْجُمْلَةِ مَنْصُوبًا (مَبْنِيًا عَلَى الفَتْحِ)"
+      },
+      "hikmah": "*إِنَّ* menegaskan bahwa apa yang akan disebutkan selanjutnya adalah fakta yang pasti dan tidak dapat diperdebatkan.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "ٱللَّهَ",
+      "transliterasi": "Allāh",
+      "jenis_kata": "Isim (nama khusus)",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "— (nama khusus)",
+        "makna_dasar": "Sang Pencipta, Tuhan Yang Maha Esa",
+        "wazan_perubahan": "—"
+      },
+      "nahwu": {
+        "kedudukan": "مُسْتَفْعَلٌ (مَنْصُوب) بِإِنَّ",
+        "irab_dan_logika": "مَنْصُوبٌ بِالفتحة لأنه مفعول به لحرف إنَّ"
+      },
+      "hikmah": "*ٱللَّهَ* adalah subjek yang ditegaskan keberadaannya oleh إِنَّ, menegaskan bahwa sifat yang disebutkan selanjutnya melekat pada Allah.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "لَا",
+      "transliterasi": "lā",
+      "jenis_kata": "Huruf (negasi)",
+      "arti": "tidak",
+      "sharaf": {
+        "akar_kata": "—",
+        "makna_dasar": "menyatakan penolakan",
+        "wazan_perubahan": "—"
+      },
+      "nahwu": {
+        "kedudukan": "حرف نفي يسبق الفعل",
+        "irab_dan_logika": "لا نافية لا محل لها من الإعراب، تُنفي الفعل التالي"
+      },
+      "hikmah": "*لَا* menolak atau meniadakan tindakan yang akan disebutkan, menegaskan bahwa Allah tidak menyukai sesuatu.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "يُحِبُّ",
+      "transliterasi": "yuḥibbu",
+      "jenis_kata": "Fi‘il (verb)",
+      "arti": "mencintai",
+      "sharaf": {
+        "akar_kata": "ح ب ب",
+        "makna_dasar": "cinta, kasih sayang",
+        "wazan_perubahan": "فَعَلَ (form I)"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع بالضمة الظاهرة",
+        "irab_dan_logika": "مرفوع لأنه فعل مضارع مبني على الضمة، واللام في لا تنصب الفعل"
+      },
+      "hikmah": "*يُحِبُّ* menunjukkan sifat suka atau mencintai; dalam konteks ini, Allah tidak menyukai orang yang melakukan perbuatan tertentu.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "مَن",
+      "transliterasi": "man",
+      "jenis_kata": "Isim (kata relatif)",
+      "arti": "siapa, orang yang",
+      "sharaf": {
+        "akar_kata": "م ن",
+        "makna_dasar": "menunjuk orang atau sesuatu",
+        "wazan_perubahan": "—"
+      },
+      "nahwu": {
+        "kedudukan": "اسم موصول مبني على السكون في محل نصب (مفعول به للفعل يُحِبُّ)",
+        "irab_dan_logika": "من منصوب بالفتحة لأنه مفعول به للفعل المنفي لا"
+      },
+      "hikmah": "*مَن* merujuk pada orang‑orang yang melakukan perbuatan yang dikecam; Allah tidak menyukai mereka.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "كَانَ",
+      "transliterasi": "kāna",
+      "jenis_kata": "Fi'il",
+      "arti": "adalah, menjadi",
+      "sharaf": {
+        "akar_kata": "ك-و-ن",
+        "makna_dasar": "wujud, eksistensi",
+        "wazan_perubahan": "فَعَلَ (bentuk I)"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja utama (**khabar**) bagi **kāna** dalam kalimat nominal",
+        "irab_dan_logika": "مرفوع بالضمة لأنّه فعل ماضٍ لا يجرّ إعرابًا"
+      },
+      "hikmah": "Menunjukkan keadaan atau sifat yang terjadi di masa lalu, menegaskan bahwa subjek **adalah** pengkhianat dan berdosa.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "خَوَّانًا",
+      "transliterasi": "khawwānan",
+      "jenis_kata": "Isim (اسم فاعل)",
+      "arti": "pengkhianat",
+      "sharaf": {
+        "akar_kata": "خ-و-ن",
+        "makna_dasar": "mengkhianati, menipu",
+        "wazan_perubahan": "فَعَّال (bentuk II)"
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    }
+  ]
+}

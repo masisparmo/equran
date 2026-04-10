@@ -1,0 +1,312 @@
+{
+  "surah": 3,
+  "ayah": 168,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "ٱلَّذِينَ",
+      "transliterasi": "al‑ladhīna",
+      "jenis_kata": "Isim (isim maushul)",
+      "arti": "orang‑orang yang",
+      "sharaf": {
+        "akar_kata": "ذ‑و",
+        "makna_dasar": "yang memiliki",
+        "wazan_perubahan": "مُثنى/جمع مذكر سالم"
+      },
+      "nahwu": {
+        "kedudukan": "Mubtadaʾ (subjek) dalam kalimat",
+        "irab_dan_logika": "مرفوع بالضمة المقدرة على الياء لأنّه اسم موصول يرفع"
+      },
+      "hikmah": "Menunjukkan kelompok orang yang mengucapkan perkataan selanjutnya",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "قَالُوا۟",
+      "transliterasi": "qālū",
+      "jenis_kata": "Fiʿil (fiʿil madhi)",
+      "arti": "mereka berkata",
+      "sharaf": {
+        "akar_kata": "ق‑و‑ل",
+        "makna_dasar": "mengatakan",
+        "wazan_perubahan": "فعل ماضٍ ثلاثي مجرد"
+      },
+      "nahwu": {
+        "kedudukan": "Khabar (predikat) untuk mubtadaʾ al‑ladhīna",
+        "irab_dan_logika": "مبني على الفتح لأنه فعل ماضٍ"
+      },
+      "hikmah": "Menunjukkan tindakan mengucapkan perkataan",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "لِإِخْوَٰنِهِمْ",
+      "transliterasi": "li‑ikhwānihim",
+      "jenis_kata": "Huruf jar + Isim",
+      "arti": "bagi/untuk saudara‑saudara mereka",
+      "sharaf": {
+        "akar_kata": "خ‑و‑ن",
+        "makna_dasar": "saudara",
+        "wazan_perubahan": "فعل"
+      },
+      "nahwu": {
+        "kedudukan": "Jarf (objek preposisi) dalam frasa",
+        "irab_dan_logika": "مجرور بالكسرة لأنّها بعد حرف الجر \"li\"، والضمير المتصل \"‑him\" في محل جر بالإضافة"
+      },
+      "hikmah": "Menunjukkan pihak yang dimaksud sebagai saudara‑saudara mereka",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "وَقَعَدُوا۟",
+      "transliterasi": "waqaʿadū",
+      "jenis_kata": "Fiʿil (fiʿil madhi)",
+      "arti": "dan mereka duduk/berdiam",
+      "sharaf": {
+        "akar_kata": "ق‑ع‑د",
+        "makna_dasar": "duduk",
+        "wazan_perubahan": "فعل ماضٍ ثلاثي مجرد"
+      },
+      "nahwu": {
+        "kedudukan": "Fiʿil maḍiʿ mašbūḥ (koordinatif) dengan \"qālū\"",
+        "irab_dan_logika": "مبني على الفتح، والواو للواو الجماعة، والواو العاطفة تربط بين الفعلين"
+      },
+      "hikmah": "Menggambarkan sikap pasif, tidak ikut berperang",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "لَوْ",
+      "transliterasi": "law",
+      "jenis_kata": "Huruf (ḥarf šarṭ)",
+      "arti": "jika",
+      "sharaf": {
+        "akar_kata": "ل‑و",
+        "makna_dasar": "syarat",
+        "wazan_perubahan": "حرف شرط غير جازم"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf شرط غير جازم يسبق جملة شرطية",
+        "irab_dan_logika": "ليس له إعراب، يربط بين الشرط والجواب"
+      },
+      "hikmah": "Menyatakan kondisi hipotesis yang belum terjadi",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "أَطَاعُونَا",
+      "transliterasi": "aṭāʿūnā",
+      "jenis_kata": "Fiʿil (fiʿil mudhariʿ)",
+      "arti": "mereka taat kepada kami",
+      "sharaf": {
+        "akar_kata": "ط‑و‑ع",
+        "makna_dasar": "taat",
+        "wazan_perubahan": "فعل مضارع"
+      },
+      "nahwu": {
+        "kedudukan": "Fiʿil mudhariʿ مرفوع بالضمة، والواو للواو الجماعة، والضمير المتصل \"na\" في محل نصب مفعول به",
+        "irab_dan_logika": "مرفوع لأن الفعل مضارع غير مسبوق بأداة نصب، والضمير المتصل منصوب لأنه مفعول به"
+      },
+      "hikmah": "Menegaskan bahwa mereka mengaku akan patuh bila diikuti, menambah argumen mereka",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "مَا",
+      "transliterasi": "mā",
+      "jenis_kata": "Huruf",
+      "arti": "**tidak** (negasi)",
+      "sharaf": {
+        "akar_kata": "م-ا",
+        "makna_dasar": "kata negatif yang menolak",
+        "wazan_perubahan": "tidak berlaku (kata partikel)"
+      },
+      "nahwu": {
+        "kedudukan": "kata negatif yang berfungsi menolak fi'il **قُتِلُوا**",
+        "irab_dan_logika": "مَا مبنية على السكون لا محل لها من الإعراب، وتعمل كحرف نفي للفعل"
+      },
+      "hikmah": "Menegaskan bahwa bila mereka mengikut, **tidak** akan terjadi kematian.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "قُتِلُوا۟",
+      "transliterasi": "qutilū",
+      "jenis_kata": "Fi'il",
+      "arti": "**dibunuh** (dalam bentuk pasif)",
+      "sharaf": {
+        "akar_kata": "ق‑ت‑ل",
+        "makna_dasar": "membunuh, menewaskan",
+        "wazan_perubahan": "bentuk **مُفْعَل** pasif (قُتِل) dengan tambahan **واو الجماعة**"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il madhi majzum (passive perfect) untuk orang ketiga jamak",
+        "irab_dan_logika": "مُعْرَبٌ بالضمة لأنه فعل ماضٍ مبني على الفتح، والواو علامة جمع"
+      },
+      "hikmah": "Menyatakan bahwa mereka **akan** terbunuh bila tidak mengikuti.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "ۗ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf",
+      "arti": "**tanda waqf** (tanda berhenti)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "menunjukkan jeda dalam bacaan",
+        "wazan_perubahan": "tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "simbol baca, bukan bagian sintaksis kalimat",
+        "irab_dan_logika": "tidak memiliki إعراب karena bukan kata"
+      },
+      "hikmah": "Memberi jeda untuk menekankan makna sebelumnya.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "قُل",
+      "transliterasi": "qul",
+      "jenis_kata": "Fi'il",
+      "arti": "**katakan** (imperatif)",
+      "sharaf": {
+        "akar_kata": "ق‑و‑ل",
+        "makna_dasar": "menyatakan, mengucapkan",
+        "wazan_perubahan": "bentuk أمر (imperatif)"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il أمر مبني على السكون، والفاعل مستتر تقديره أنت",
+        "irab_dan_logika": "مبني على السكون لا محل له من الإعراب، وهو أمر للمخاطب"
+      },
+      "hikmah": "Menyerukan kepada pendengar untuk mengucapkan perintah selanjutnya.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "فَٱدْرَءُوا۟",
+      "transliterasi": "fa‑adrīʾū",
+      "jenis_kata": "Fi'il",
+      "arti": "**tolaklah** / **usirlah** (imperatif)",
+      "sharaf": {
+        "akar_kata": "د‑ر‑ء",
+        "makna_dasar": "menolak, mengusir, menjauhkan",
+        "wazan_perubahan": "bentuk أمر مع الفاء العاطفة"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il أمر مبني على السكون مع الفاء العاطفة، والفاعل مستتر تقديره أنتم",
+        "irab_dan_logika": "مبني على السكون لا محل له من الإعراب، والواو للواو الجماعة"
+      },
+      "hikmah": "Mengajak orang-orang beriman menolak kematian bila mereka yakin benar.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "عَنْ",
+      "transliterasi": "ʿan",
+      "jenis_kata": "Huruf",
+      "arti": "**dari**",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "أَنفُسِكُمُ",
+      "transliterasi": "anfusikum",
+      "jenis_kata": "Isim",
+      "arti": "diri kalian",
+      "sharaf": {
+        "akar_kata": "نفس",
+        "makna_dasar": "jiwa, diri",
+        "wazan_perubahan": "bentuk jamak dengan suffiks kepemilikan -kum"
+      },
+      "nahwu": {
+        "kedudukan": "objek majrur setelah huruf 'عن' dalam perintah",
+        "irab_dan_logika": "مجرور بالكسرة لأنّها مضافة إلى حرف الجر 'عن'"
+      },
+      "hikmah": "menegaskan bahwa kematian tidak dapat dihindari, ajakan menolak kematian dari diri sendiri",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "ٱلْمَوْتَ",
+      "transliterasi": "al-mawta",
+      "jenis_kata": "Isim",
+      "arti": "kematian",
+      "sharaf": {
+        "akar_kata": "موت",
+        "makna_dasar": "berhenti hidup",
+        "wazan_perubahan": "isim mudhaf bil-‘alif lam"
+      },
+      "nahwu": {
+        "kedudukan": "maf'ul bih (objek) dari perintah 'arfau'",
+        "irab_dan_logika": "منصوب بالفتحة لأنه مفعول به"
+      },
+      "hikmah": "menunjukkan bahwa kematian adalah hal yang dapat dihindari bila menolak dari diri",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "إِن",
+      "transliterasi": "in",
+      "jenis_kata": "Huruf",
+      "arti": "jika",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "huruf syarat memulai ayat syarat",
+        "irab_dan_logika": "حرف مشروط لا إعراب له"
+      },
+      "hikmah": "menandakan kondisi yang harus dipenuhi",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "كُنتُمْ",
+      "transliterasi": "kuntum",
+      "jenis_kata": "Fi'il",
+      "arti": "kamu adalah",
+      "sharaf": {
+        "akar_kata": "كان",
+        "makna_dasar": "menjadi",
+        "wazan_perubahan": "فعل ماضٍ مع ضمير الجمع المخاطب"
+      },
+      "nahwu": {
+        "kedudukan": "فعل شرط في الجملة الشرطية",
+        "irab_dan_logika": "فعل ماضٍ مبني على الفتح، والواو ضمير متصل في محل رفع فاعل"
+      },
+      "hikmah": "menunjukkan kondisi orang-orang yang dikatakan benar",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "صَٰدِقِينَ",
+      "transliterasi": "sadiqina",
+      "jenis_kata": "Isim",
+      "arti": "yang benar",
+      "sharaf": {
+        "akar_kata": "صدق",
+        "makna_dasar": "kejujuran",
+        "wazan_perubahan": "isim fa'il (جمع مذكر سالم)"
+      },
+      "nahwu": {
+        "kedudukan": "خبر شرط (predikat) dalam ayat syarat",
+        "irab_dan_logika": "منصوب بالياء لأنه جمع مذكر سالم منصوب"
+      },
+      "hikmah": "menegaskan sifat kejujuran sebagai syarat kebenaran",
+      "role": "none"
+    }
+  ]
+}
