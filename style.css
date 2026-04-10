@@ -108,6 +108,7 @@ header {
     margin-bottom: 20px;
     box-shadow: 0 4px 6px rgba(0,0,0,0.05);
     border: 1px solid var(--border-color);
+    position: relative; /* Support for floating bookmark icons */
 }
 
 /* Introduction Card */
@@ -1601,4 +1602,48 @@ select {
 
 .delete-bookmark-btn:hover {
     transform: scale(1.2);
+}
+
+/* Bookmark Icon in Home Mode (Floating Ribbon) */
+.bookmark-icon-home {
+    position: absolute;
+    top: 0;
+    right: 30px;
+    background: var(--secondary-color);
+    color: white;
+    padding: 10px 10px 16px 10px;
+    border-radius: 0 0 5px 5px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    cursor: pointer;
+    z-index: 100;
+    transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 50% 88%, 0 100%);
+}
+
+.bookmark-icon-home:hover {
+    padding-bottom: 22px;
+    background: #e67e22;
+    transform: translateY(2px);
+}
+
+.bookmark-icon-home i {
+    font-size: 1.3rem;
+    filter: drop-shadow(0 1px 1px rgba(0,0,0,0.3));
+}
+
+.bookmark-icon-home.active {
+    background: #f1c40f; /* Gold for bookmarked */
+    color: #2c3e50;
+    opacity: 1;
+}
+
+.bookmark-icon-home:not(.active) {
+    background: #95a5a6;
+    color: white;
+    opacity: 0.4;
+}
+
+.bookmark-icon-home:not(.active):hover {
+    opacity: 1;
+    background: var(--secondary-color);
 }

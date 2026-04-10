@@ -1350,19 +1350,19 @@ function displayAyah(ayahNumberInSurah) {
         header.appendChild(badge);
     }
 
-    // 2. Bookmark Badge
+    // 2. Bookmark Ribbon/Icon
     const isBookmarked = userBookmarks.some(b => b.surah === currentSurahNumForBadge && b.ayah === ayahNumberInSurah);
-    const bookmarkBadge = document.createElement('span');
-    bookmarkBadge.className = `asbab-badge bookmark-badge-home mushaf-bookmark-icon ${isBookmarked ? 'active' : ''}`;
-    bookmarkBadge.style.cursor = 'pointer';
-    bookmarkBadge.dataset.surah = currentSurahNumForBadge;
-    bookmarkBadge.dataset.ayah = ayahNumberInSurah;
-    // Estimate page from API if possible, otherwise use 1 for Home bookmarks
-    bookmarkBadge.dataset.page = ayahAr.page || 1; 
-    bookmarkBadge.dataset.surahName = currentSurahData.englishName;
-    bookmarkBadge.innerHTML = `<i class="${isBookmarked ? 'fas' : 'far'} fa-bookmark"></i> ${isBookmarked ? 'Saved' : 'Bookmark'}`;
-    bookmarkBadge.title = isBookmarked ? "Hapus dari Bookmark" : "Simpan ke Bookmark";
-    header.appendChild(bookmarkBadge);
+    const bookmarkIcon = document.createElement('div');
+    bookmarkIcon.className = `bookmark-icon-home mushaf-bookmark-icon ${isBookmarked ? 'active' : ''}`;
+    bookmarkIcon.dataset.surah = currentSurahNumForBadge;
+    bookmarkIcon.dataset.ayah = ayahNumberInSurah;
+    bookmarkIcon.dataset.page = ayahAr.page || 1; 
+    bookmarkIcon.dataset.surahName = currentSurahData.englishName;
+    bookmarkIcon.innerHTML = `<i class="${isBookmarked ? 'fas' : 'far'} fa-bookmark"></i>`;
+    bookmarkIcon.title = isBookmarked ? "Hapus dari Bookmark" : "Simpan ke Bookmark";
+    
+    // Append to the display card container for absolute positioning
+    document.getElementById('quran-display').appendChild(bookmarkIcon);
 
 
 
