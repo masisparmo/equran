@@ -363,12 +363,18 @@ function setupEventListeners() {
         }
 
         // 2. Handle Mushaf/Home Dynamic Content (Tafsir & Word Click)
-        const tafsirTarget = e.target.closest('.mushaf-tafsir-btn, .mushaf-end-ayah-block, .mushaf-end-ayah');
+        const tafsirTarget = e.target.closest('.mushaf-tafsir-btn, .mushaf-end-ayah-block, .mushaf-end-ayah, .mushaf-asbab-icon, .asbab-badge-home');
         if (tafsirTarget) {
             e.preventDefault();
             const surahNum = parseInt(tafsirTarget.dataset.surah);
             const ayahNum = parseInt(tafsirTarget.dataset.ayah);
             if (!isNaN(surahNum) && !isNaN(ayahNum)) {
+                // If clicking asbab icon, force source to 'alazhar' (Jalalain & Asbabun Nuzul)
+                if (tafsirTarget.classList.contains('mushaf-asbab-icon') || tafsirTarget.classList.contains('asbab-badge-home')) {
+                    currentTafsirSource = 'alazhar';
+                    const selector = document.getElementById('tafsir-source-select');
+                    if (selector) selector.value = 'alazhar';
+                }
                 openTafsirModal(surahNum, ayahNum);
             }
             return;
@@ -742,7 +748,7 @@ function renderMushafPage() {
         let asbabIconHtml = '';
         if (hasAsbab) {
             asbabBadgeHtml = `<span class="asbab-badge mushaf-asbab-badge" title="Ayat ini memiliki riwayat Asbabun Nuzul"><i class="fas fa-scroll"></i> Asbabun Nuzul</span>`;
-            asbabIconHtml = `<span class="mushaf-asbab-icon" title="Asbabun Nuzul" style="cursor:help;"> <i class="fas fa-scroll"></i></span>`;
+            asbabIconHtml = `<span class="mushaf-asbab-icon" title="Klik untuk Asbabun Nuzul" style="cursor:pointer;" data-surah="${ayah.surah.number}" data-ayah="${ayah.numberInSurah}"> <i class="fas fa-scroll"></i></span>`;
         }
 
         // Build the ayah marker HTML
@@ -1284,8 +1290,11 @@ function displayAyah(ayahNumberInSurah) {
         console.log("Badge found, attaching...");
         const badge = document.createElement('span');
         badge.className = 'asbab-badge asbab-badge-home';
-        badge.innerHTML = `<i class="fas fa-history"></i> Asbabun Nuzul`;
-        badge.title = "Ayat ini memiliki riwayat Asbabun Nuzul";
+        badge.style.cursor = 'pointer';
+        badge.dataset.surah = currentSurahNumForBadge;
+        badge.dataset.ayah = ayahNumberInSurah;
+        badge.innerHTML = `<i class="fas fa-scroll"></i> Asbabun Nuzul`;
+        badge.title = "Klik untuk membuka riwayat Asbabun Nuzul";
         
         const header = document.querySelector('.ayah-header');
         if (header) {
