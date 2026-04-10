@@ -106,6 +106,7 @@ let currentAyahsIndo = null; // Store translations
 let currentAudioUrls = null;
 let asbabunNuzulIndex = null; // Store verses that have Asbabun Nuzul
 let userBookmarks = []; // Store user saved verses
+let currentMode = 'home'; // Tracking active mode (home/mushaf)
 
 
 // --- Migration System (localStorage to IndexedDB) ---
@@ -3300,9 +3301,11 @@ async function saveBookmarks() {
 function toggleBookmark(surah, ayah, page, surahName) {
     const existingIndex = userBookmarks.findIndex(b => b.surah === surah && b.ayah === ayah);
     if (existingIndex !== -1) {
+        // Delete if already exists (Toggle Off)
         userBookmarks.splice(existingIndex, 1);
         console.log(`Bookmark removed: ${surahName} ${ayah}`);
     } else {
+        // Add if not exists (Toggle On)
         userBookmarks.push({
             id: Date.now().toString(),
             surah: surah,
@@ -3315,7 +3318,7 @@ function toggleBookmark(surah, ayah, page, surahName) {
     }
     saveBookmarks();
     
-    // Refresh UI
+    // Refresh UI to sync all icons
     if (currentMode === 'mushaf') {
         renderMushafPage();
     } else {
