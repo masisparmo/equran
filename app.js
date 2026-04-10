@@ -107,7 +107,6 @@ let currentAyahsIndo = null; // Store translations
 let currentAudioUrls = null;
 let asbabunNuzulIndex = null; // Store verses that have Asbabun Nuzul
 let userBookmarks = []; // Store user saved verses
-let currentMode = 'home'; // Tracking active mode (home/mushaf)
 
 
 // --- Migration System (localStorage to IndexedDB) ---
