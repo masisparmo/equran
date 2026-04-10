@@ -1,0 +1,294 @@
+{
+  "surah": 7,
+  "ayah": 17,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "ثُمَّ",
+      "transliterasi": "thumma",
+      "jenis_kata": "Huruf",
+      "arti": "**kemudian**, **lalu**",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "tidak ada (huruf)",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf sambung yang menghubungkan ayat sebelumnya dengan ayat selanjutnya",
+        "irab_dan_logika": "Tidak berharakat, tetap **marfu‘** karena merupakan huruf"
+      },
+      "hikmah": "Menandakan urutan tindakan Allah yang akan datang setelah peristiwa sebelumnya.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "لَءَاتِيَنَّهُم",
+      "transliterasi": "la'ātiyahum",
+      "jenis_kata": "Fi'il (verb) mudhari‘ dengan **lam al‑azm**",
+      "arti": "**akan mendatangi mereka**",
+      "sharaf": {
+        "akar_kata": "أ ت ي",
+        "makna_dasar": "datang",
+        "wazan_perubahan": "فَعَلَ (bentuk mudhari‘) dengan lam al‑azm"
+      },
+      "nahwu": {
+        "kedudukan": "Predikat utama dalam kalimat, verba aksi Allah",
+        "irab_dan_logika": "مرفوع بالضمة لأن اللام تفيد العزم، فلا يُنقَص من إعرابه"
+      },
+      "hikmah": "Menegaskan kepastian Allah akan mendatangi manusia dari segala arah.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "مِّنۢ",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf (preposisi)",
+      "arti": "**dari**",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "menunjukkan asal atau titik",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf جرّ يربط الكلمة التالية (بَيْنِ) بالعبارة السابقة",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "Menandakan sumber atau titik permulaan arah yang akan datang.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "بَيْنِ",
+      "transliterasi": "bayni",
+      "jenis_kata": "Huruf (jar)",
+      "arti": "**antara**",
+      "sharaf": {
+        "akar_kata": "ب ي ن",
+        "makna_dasar": "antara",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر تابع لـ«مِن» يكوّن العبارة «مِن بَيْنِ»",
+        "irab_dan_logika": "مجرور بالكسرة لأنه تابع لحرف الجر"
+      },
+      "hikmah": "Menunjukkan posisi di **antara** sesuatu, dalam konteks ini antara tangan mereka.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "أَيْدِيهِمْ",
+      "transliterasi": "aydihim",
+      "jenis_kata": "Isim (noun) mudhaf + mudhaf ilaih",
+      "arti": "**tangan mereka**",
+      "sharaf": {
+        "akar_kata": "ي د ي",
+        "makna_dasar": "tangan",
+        "wazan_perubahan": "اسم مضاف إليه"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به لحرف الجر «مِن بَيْنِ»",
+        "irab_dan_logika": "مجرور بالكسرة لأنه مجرور بحرف الجر"
+      },
+      "hikmah": "Menandakan lokasi Allah akan datang **di antara tangan mereka**.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "وَمِنْ",
+      "transliterasi": "wa‑min",
+      "jenis_kata": "Huruf (conjunction + preposition)",
+      "arti": "**dan dari**",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "menyambung dan menunjukkan arah tambahan",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "حرف عطف يربط بين الجملة التالية (خَلْفِهِمْ) والسابقة",
+        "irab_dan_logika": "«و» لا إعراب له، «من» مجرور بالكسرة"
+      },
+      "hikmah": "Menambah rangkaian arah, menegaskan bahwa Allah akan datang **dari belakang** juga.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "خَلْفِهِمْ",
+      "transliterasi": "khalfihim",
+      "jenis_kata": "Isim",
+      "arti": "belakang mereka",
+      "sharaf": {
+        "akar_kata": "خلف",
+        "makna_dasar": "bagian belakang",
+        "wazan_perubahan": "اسم مجرور بالكسرة بسبب حرف الجر"
+      },
+      "nahwu": {
+        "kedudukan": "اسم مجرور بحرف الجر (من)",
+        "irab_dan_logika": "مجرور بالكسرة لأنّها تابع لحرف الجر وتدل على الاتجاه الخلفي"
+      },
+      "hikmah": "**Allah akan mendatangi mereka dari belakang**, menegaskan bahwa tidak ada tempat bersembunyi.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "وَعَنْ",
+      "transliterasi": "wa‘an",
+      "jenis_kata": "Huruf",
+      "arti": "dan dari",
+      "sharaf": {
+        "akar_kata": "عن",
+        "makna_dasar": "dari, tentang",
+        "wazan_perubahan": "حرف جر"
+      },
+      "nahwu": {
+        "kedudukan": "حرف عطف + حرف جر",
+        "irab_dan_logika": "ليس له إعراب؛ يربط بين الكلمات ويعطي معنى الجر"
+      },
+      "hikmah": "**وَعَنْ** berfungsi sebagai penghubung yang memperkenalkan arah selanjutnya, yaitu kanan.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "أَيْمَٰنِهِمْ",
+      "transliterasi": "aymanihim",
+      "jenis_kata": "Isim",
+      "arti": "kanan mereka",
+      "sharaf": {
+        "akar_kata": "يمين",
+        "makna_dasar": "kanan",
+        "wazan_perubahan": "اسم مجرور بالكسرة"
+      },
+      "nahwu": {
+        "kedudukan": "اسم مجرور بحرف الجر (عن)",
+        "irab_dan_logika": "مجرور بالكسرة لأنّها مضافة إلى حرف الجر وتدل على الاتجاه"
+      },
+      "hikmah": "**Allah akan mendatangi mereka dari kanan**, menegaskan bahwa tidak ada tempat melarikan diri ke sisi kanan.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "وَعَن",
+      "transliterasi": "wa‘an",
+      "jenis_kata": "Huruf",
+      "arti": "dan dari",
+      "sharaf": {
+        "akar_kata": "عن",
+        "makna_dasar": "dari, tentang",
+        "wazan_perubahan": "حرف جر"
+      },
+      "nahwu": {
+        "kedudukan": "حرف عطف + حرف جر",
+        "irab_dan_logika": "ليس له إعراب؛ يربط بين kata dan memberi makna arah selanjutnya"
+      },
+      "hikmah": "**وَعَن** kembali menghubungkan, memperkenalkan arah terakhir yaitu kiri.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "شَمَآئِلِهِمْ",
+      "transliterasi": "shama'ilihim",
+      "jenis_kata": "Isim",
+      "arti": "kiri mereka",
+      "sharaf": {
+        "akar_kata": "شمل",
+        "makna_dasar": "kiri, sisi",
+        "wazan_perubahan": "اسم جمع تكسير مجرور"
+      },
+      "nahwu": {
+        "kedudukan": "اسم مجرور بحرف الجر (عن)",
+        "irab_dan_logika": "مجرور بالكسرة لأنّها مضافة إلى حرف الجر وتدل على arah"
+      },
+      "hikmah": "**Allah akan mendatangi mereka dari kiri**, menegaskan bahwa tidak ada sudut yang luput dari pengawasan-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "ۖ",
+      "transliterasi": "ۖ",
+      "jenis_kata": "Huruf",
+      "arti": "tanda waqf (istirahat)",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "علامة وقف",
+        "irab_dan_logika": "ليس له إعراب؛ berfungsi sebagai tanda jeda dalam ayat"
+      },
+      "hikmah": "**ۖ** menandai jeda singkat, memberi kesempatan pembaca merenungkan makna ayat sebelum melanjutkan.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "وَلَا",
+      "transliterasi": "wa-lā",
+      "jenis_kata": "Huruf",
+      "arti": "dan tidak",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Harf nafi (penyangkalan) yang mendahului fi'il",
+        "irab_dan_logika": "Tidak berharakat karena merupakan huruf; menolak makna fi'il **تَجِدُ**"
+      },
+      "hikmah": "Menegaskan penolakan, artinya Allah tidak akan menemukan kebanyakan mereka bersyukur.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "تَجِدُ",
+      "transliterasi": "tajidu",
+      "jenis_kata": "Fi'il",
+      "arti": "menemukan",
+      "sharaf": {
+        "akar_kata": "ج د د",
+        "makna_dasar": "menemukan, memperoleh",
+        "wazan_perubahan": "fa'ala (bentuk I) dengan prefiks *ta-*"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il mudhari‘ (present) orang kedua tunggal maskulin",
+        "irab_dan_logika": "Tidak berharakat karena berfungsi sebagai fi'il mudhari‘ yang diikuti huruf nafi *لَا*"
+      },
+      "hikmah": "Allah tidak akan menemukan kebanyakan mereka bersyukur.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "أَكْثَرَهُمْ",
+      "transliterasi": "aktharuhum",
+      "jenis_kata": "Isim",
+      "arti": "banyak mereka / kebanyakan mereka",
+      "sharaf": {
+        "akar_kata": "ك ث ر",
+        "makna_dasar": "banyak, melimpah",
+        "wazan_perubahan": "af‘al (istif‘āl) dengan tambahan ضمير *-hum*"
+      },
+      "nahwu": {
+        "kedudukan": "Isim mansub (objek) dari fi'il *تَجِدُ*",
+        "irab_dan_logika": "Berakhiran fatha pada *أَكْثَرَ* karena berfungsi sebagai maf‘ul, kemudian ditambahkan ضمير *هُمْ* yang menempati posisi i‘rab yang sama"
+      },
+      "hikmah": "Menunjuk pada mayoritas manusia yang tidak bersyukur.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "شَٰكِرِينَ",
+      "transliterasi": "shākirīna",
+      "jenis_kata": "Isim",
+      "arti": "yang bersyukur",
+      "sharaf": {
+        "akar_kata": "ش ك ر",
+        "makna_dasar": "bersyukur, berterima kasih",
+        "wazan_perubahan": "fa‘il (isim fa‘il)"
+      },
+      "nahwu": {
+        "kedudukan": "Isim mansub (maf‘ul) jamak tak terdefinisi, pelengkap *أَكْثَرَهُمْ*",
+        "irab_dan_logika": "Berakhiran kasra + tanwin kasra (*-īna*) menandakan keadaan mansub jamak tak terdefinisi"
+      },
+      "hikmah": "Menyiratkan bahwa kebanyakan manusia tidak menunjukkan rasa syukur kepada Allah.",
+      "role": "none"
+    }
+  ]
+}

@@ -1,0 +1,348 @@
+{
+  "surah": 6,
+  "ayah": 81,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "وَكَيْفَ",
+      "transliterasi": "wa-kaifa",
+      "jenis_kata": "Huruf",
+      "arti": "dan bagaimana",
+      "sharaf": {
+        "akar_kata": "ك-و-ف",
+        "makna_dasar": "menanyakan cara atau keadaan",
+        "wazan_perubahan": "kata tanya kaifa dari akar ك-و-ف dengan pola *fa'ila*"
+      },
+      "nahwu": {
+        "kedudukan": "kata sambung (wa) + kata tanya (kaifa) di awal ayat",
+        "irab_dan_logika": "wa berharakat sukun, kaifa tidak beri‘rāb karena merupakan huruf pertanyaan"
+      },
+      "hikmah": "menunjukkan keheranan tentang cara atau keadaan yang dibicarakan",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "أَخَافُ",
+      "transliterasi": "akhāfu",
+      "jenis_kata": "Fi'il",
+      "arti": "aku takut",
+      "sharaf": {
+        "akar_kata": "خ-و-ف",
+        "makna_dasar": "rasa takut",
+        "wazan_perubahan": "fi‘il mudhari‘ marfu‘ bil‑ḍamma"
+      },
+      "nahwu": {
+        "kedudukan": "predikat pertama, mudhari‘ 1st person singular",
+        "irab_dan_logika": "marfu‘ bil‑ḍamma karena fi‘il mudhari‘"
+      },
+      "hikmah": "menyatakan rasa takut pembicara terhadap hal yang dibicarakan",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "مَآ",
+      "transliterasi": "mā",
+      "jenis_kata": "Huruf",
+      "arti": "apa",
+      "sharaf": {
+        "akar_kata": "م-ا",
+        "makna_dasar": "kata tanya untuk menanyakan benda atau hal",
+        "wazan_perubahan": "bukan kata berakar, huruf maʾ al‑mustaʿjalah"
+      },
+      "nahwu": {
+        "kedudukan": "nama istifham (kata tanya) setelah fi‘il",
+        "irab_dan_logika": "tidak ber‑i‘rāb, ber‑alif maddah"
+      },
+      "hikmah": "menanyakan apa yang ditakuti",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "أَشْرَكْتُمْ",
+      "transliterasi": "ashraqtum",
+      "jenis_kata": "Fi'il",
+      "arti": "kamu mempersekutukan",
+      "sharaf": {
+        "akar_kata": "ش-ر-ك",
+        "makna_dasar": "mengaitkan, menyekutukan",
+        "wazan_perubahan": "fi‘il māḍī mabnī ʿalā al‑sukūn"
+      },
+      "nahwu": {
+        "kedudukan": "fi‘il māḍī, subjeknya antum (kamu)",
+        "irab_dan_logika": "fi‘il māḍī لا يُعرب، al‑waw di akhir menandakan jamak"
+      },
+      "hikmah": "menegaskan tindakan syirik yang dilakukan oleh pendengar",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "وَلَا",
+      "transliterasi": "wa-lā",
+      "jenis_kata": "Huruf",
+      "arti": "dan tidak",
+      "sharaf": {
+        "akar_kata": "لا",
+        "makna_dasar": "penolakan, negasi",
+        "wazan_perubahan": "huruf ʿaṭf wa‑nafy"
+      },
+      "nahwu": {
+        "kedudukan": "huruf ʿaṭf (penghubung) yang menolak apa yang akan disebutkan selanjutnya",
+        "irab_dan_logika": "tidak ber‑i‘rāb, berfungsi menghubungkan"
+      },
+      "hikmah": "menegaskan penolakan terhadap apa yang dibicarakan selanjutnya",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "تَخَافُونَ",
+      "transliterasi": "takhāfūna",
+      "jenis_kata": "Fi'il",
+      "arti": "kalian takut",
+      "sharaf": {
+        "akar_kata": "خ-و-ف",
+        "makna_dasar": "rasa takut",
+        "wazan_perubahan": "fi‘il mudhari‘ marfu‘ bil‑ḍamma, bentuk jamak 2nd person"
+      },
+      "nahwu": {
+        "kedudukan": "fi‘il mudhari‘, subjeknya antum (kalian)",
+        "irab_dan_logika": "marfu‘ bil‑ḍamma pada al‑waw (ū) dan nun dengan damma menandakan jamak"
+      },
+      "hikmah": "menunjukkan bahwa orang lain juga merasakan ketakutan, memperkuat perbandingan keamanan",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "أَنَّكُمْ",
+      "transliterasi": "annakum",
+      "jenis_kata": "Huruf (partikel) dengan suffiks pronomina",
+      "arti": "\"bahwa kamu\"",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Bagian pengantar klausa (subjek) setelah \"أن\"",
+        "irab_dan_logika": "مُنصَب karena setelah حرف النصب \"أن\" kata berikutnya berada dalam حالة النصب"
+      },
+      "hikmah": "Menegaskan subjek **kamu** sebagai pelaku tindakan shirk dalam ayat",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "أَشْرَكْتُم",
+      "transliterasi": "ashraktum",
+      "jenis_kata": "Fi'il (verb) lampau, 2 mp",
+      "arti": "kamu telah menyekutukan",
+      "sharaf": {
+        "akar_kata": "ش ر ك",
+        "makna_dasar": "menyertakan, mengaitkan (dengan sesuatu yang lain)",
+        "wazan_perubahan": "فَعَلَ dengan prefiks أَ dan sufiks تُم"
+      },
+      "nahwu": {
+        "kedudukan": "Predikat utama dalam klausa yang diawali بـأن",
+        "irab_dan_logika": "مرفوع بالضمة الظاهرة لأن الفعل الماضي لا يُعرب"
+      },
+      "hikmah": "Menunjukkan tindakan **shirk** yang dilakukan oleh kaum musyrik",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "بِٱللَّهِ",
+      "transliterasi": "billahi",
+      "jenis_kata": "Huruf (preposisi) + Isim",
+      "arti": "dengan Allah",
+      "sharaf": {
+        "akar_kata": "ل ه ا",
+        "makna_dasar": "nama Allah",
+        "wazan_perubahan": "اسم علم"
+      },
+      "nahwu": {
+        "kedudukan": "Objek preposisional yang menjelaskan cara/alat",
+        "irab_dan_logika": "مجرور بالكسرة لأن حرف الجر \"بِ\" يجر الاسم"
+      },
+      "hikmah": "Menyiratkan **penyertaan** kepada Allah dalam persekutuan yang dipertanyakan",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "مَا",
+      "transliterasi": "ma",
+      "jenis_kata": "Huruf (partikel negatif)",
+      "arti": "tidak",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Bagian dari rangkaian negasi \"ما لم\"",
+        "irab_dan_logika": "مبني على السكون لا محل له من الإعراب"
+      },
+      "hikmah": "Berfungsi **menolak** tindakan selanjutnya",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "لَمْ",
+      "transliterasi": "lam",
+      "jenis_kata": "Huruf (partikel negatif untuk lampau)",
+      "arti": "tidak (untuk masa lampau)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Partikel yang mengubah fi'il berikutnya menjadi صيغة النصب",
+        "irab_dan_logika": "مبني على السكون، ولا محل له من الإعراب"
+      },
+      "hikmah": "Menegaskan **penolakan** terhadap turunnya sesuatu",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "يُنَزِّل",
+      "transliterasi": "yunazzil",
+      "jenis_kata": "Fi'il (verb) mudhari‘, 3 ms, jussif",
+      "arti": "menurunkan (tidak)",
+      "sharaf": {
+        "akar_kata": "ن ز ل",
+        "makna_dasar": "menurunkan, menurunkan wahyu",
+        "wazan_perubahan": "يَفْعِل"
+      },
+      "nahwu": {
+        "kedudukan": "Predikat dalam frasa negatif \"ما لم يُنَزِّل\"",
+        "irab_dan_logika": "مجرور (نَصْب) بسبب حرف النفي \"لم\""
+      },
+      "hikmah": "Menyatakan bahwa **Allah tidak menurunkan** dalil untuk menyekutukan diri dengan-Nya",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "بِهِۚ",
+      "transliterasi": "bihi",
+      "jenis_kata": "Huruf",
+      "arti": "dengan dia/itu",
+      "sharaf": {
+        "akar_kata": "ب-ه",
+        "makna_dasar": "hubungan, kepemilikan",
+        "wazan_perubahan": "tidak ada (huruf jar)"
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "أَحَقُّ",
+      "transliterasi": "aḥaqqu",
+      "jenis_kata": "Isim (isim tafdhil)",
+      "arti": "lebih berhak / lebih layak",
+      "sharaf": {
+        "akar_kata": "ح-ق-ق",
+        "makna_dasar": "حقّ = hak, benar, layak",
+        "wazan_perubahan": "صيغة التفضيل (أَفْعَل)"
+      },
+      "nahwu": {
+        "kedudukan": "predikat (khabar) dalam جملة اسمية",
+        "irab_dan_logika": "مرفوع بالضمة لأنه اسم تفضيل مبني على الفتح الظاهر"
+      },
+      "hikmah": "Menunjukkan keutamaan keamanan bagi pihak yang lebih berhak menurut kebenaran dan keadilan.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "بِٱلْأَمْنِ",
+      "transliterasi": "bi‑al‑amni",
+      "jenis_kata": "Huruf jar + Isim",
+      "arti": "dengan keamanan",
+      "sharaf": {
+        "akar_kata": "أ‑م‑ن",
+        "makna_dasar": "أمن = aman, keselamatan",
+        "wazan_perubahan": "اسم مجرد غير مُصَرَّف"
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر + اسم مجرور",
+        "irab_dan_logika": "بِ حرف جر، والأمنِ اسم مجرور بالكسرة الظاهرة لأنه تابع للجر"
+      },
+      "hikmah": "Menegaskan bahwa yang dimaksud adalah perlindungan dari bahaya atau malapetaka.",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "ۖ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Tanda baca",
+      "arti": "(tidak ada, merupakan tanda jeda)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqf (pause) di akhir frasa",
+        "irab_dan_logika": "Tidak berirab, berfungsi sebagai pemisah ayat"
+      },
+      "hikmah": "Memberi jeda untuk menekankan makna sebelum melanjutkan ayat.",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "إِن",
+      "transliterasi": "in",
+      "jenis_kata": "Huruf (huruf syarat)",
+      "arti": "jika",
+      "sharaf": {
+        "akar_kata": "إ‑ن",
+        "makna_dasar": "إِن = menegaskan syarat atau penegasan",
+        "wazan_perubahan": "tidak berwazan"
+      },
+      "nahwu": {
+        "kedudukan": "حرف شرط مبني على السكون لا محل له من الإعراب",
+        "irab_dan_logika": "حرف لا يُعرب، يربط الجملة الشرطية بالجواب"
+      },
+      "hikmah": "Membuka pernyataan syarat yang menegaskan konsekuensi bila kondisi diketahui.",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "كُنتُمْ",
+      "transliterasi": "kuntum",
+      "jenis_kata": "Fi'il (verb)",
+      "arti": "kamu (mereka) adalah / berada",
+      "sharaf": {
+        "akar_kata": "ك‑ن‑ن",
+        "makna_dasar": "كان = menjadi, ada",
+        "wazan_perubahan": "فعل ماضٍ ثلاثي مجرد"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ماضٍ مبني على الفتح، والواو ضمير متصل في محل رفع الفاعل",
+        "irab_dan_logika": "الفعل لا إعراب له، والواو ضمير متصل مبني على الضم"
+      },
+      "hikmah": "Menunjukkan keadaan atau sifat pendengar/penanya pada masa lampau.",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "تَعْلَمُونَ",
+      "transliterasi": "taʿlamūna",
+      "jenis_kata": "Fi'il (verb)",
+      "arti": "kamu (semua) mengetahui",
+      "sharaf": {
+        "akar_kata": "ع‑ل‑م",
+        "makna_dasar": "علم = mengetahui, memberi ilmu",
+        "wazan_perubahan": "فعل مضارع مرفوع بالضمة"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع بالضمة، والواو نون الجماعة في محل رفع الفاعل",
+        "irab_dan_logika": "مرفوع لأنه فعل مضارع غير مسبوق بأداة نصب"
+      },
+      "hikmah": "Menegaskan bahwa pendengar memiliki pengetahuan yang cukup untuk menilai siapa yang lebih berhak memperoleh keamanan.",
+      "role": "none"
+    }
+  ]
+}

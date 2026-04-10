@@ -10,7 +10,7 @@ def sync():
     print("Mencoba mengambil data dari Google Sheets (GAS)...")
     try:
         # Kita memanggil GAS dengan parameter ?all=true
-        response = requests.get(f"{GAS_URL}?all=true", timeout=30)
+        response = requests.get(f"{GAS_URL}?all=true", timeout=120)
         if response.status_code != 200:
             print(f"Error: Server mengembalikan status {response.status_code}")
             return

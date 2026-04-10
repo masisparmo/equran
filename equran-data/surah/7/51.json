@@ -1,0 +1,312 @@
+{
+  "surah": 7,
+  "ayah": 51,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "ٱلَّذِينَ",
+      "transliterasi": "al‑ladhīna",
+      "jenis_kata": "Isim",
+      "arti": "orang‑orang yang",
+      "sharaf": {
+        "akar_kata": "ذ‑ل‑?",
+        "makna_dasar": "yang",
+        "wazan_perubahan": "اسم إشارة"
+      },
+      "nahwu": {
+        "kedudukan": "مبتدأ (subjek) dalam kalimat",
+        "irab_dan_logika": "مرفوع بالضمة الظاهرة على آخره لأنّها فاعل"
+      },
+      "hikmah": "Menunjukkan kelompok orang yang memperlakukan agama sebagai sesuatu yang main‑main",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "ٱتَّخَذُوا۟",
+      "transliterasi": "ittakhadhū",
+      "jenis_kata": "Fi'il",
+      "arti": "menjadikan, mengambil",
+      "sharaf": {
+        "akar_kata": "خ‑ذ",
+        "makna_dasar": "mengambil",
+        "wazan_perubahan": "Form II (اتخذ)"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ماضٍ مبني على الفتح",
+        "irab_dan_logika": "مرفوع بالضمة لأن الفعل ماضي"
+      },
+      "hikmah": "Menyiratkan tindakan mengambil sesuatu sebagai dasar hidup, di sini agama dijadikan main‑main",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "دِينَهُمْ",
+      "transliterasi": "dīnahum",
+      "jenis_kata": "Isim",
+      "arti": "agama mereka",
+      "sharaf": {
+        "akar_kata": "د‑ي‑ن",
+        "makna_dasar": "agama, cara hidup",
+        "wazan_perubahan": "اسم مضاف إليه (ضمير متصل)"
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "ٱلْحَيَوٰةُ",
+      "transliterasi": "al-ḥayāh",
+      "jenis_kata": "Isim",
+      "arti": "kehidupan",
+      "sharaf": {
+        "akar_kata": "ح ي ي",
+        "makna_dasar": "hidup, bernyawa",
+        "wazan_perubahan": "mashd (faʿala) → al-ḥayāh (isim madhi)"
+      },
+      "nahwu": {
+        "kedudukan": "mufradat (isim) dalam frasa ٱلْحَيَوٰةُ ٱلدُّنْيَا",
+        "irab_dan_logika": "marfu' dengan dhammah karena berstatus mudhaf (milik) dari kata ٱلدُّنْيَا"
+      },
+      "hikmah": "menunjukkan bahwa kehidupan dunia bersifat sementara dan dapat menipu manusia",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "ٱلدُّنْيَا",
+      "transliterasi": "ad-dunyā",
+      "jenis_kata": "Isim",
+      "arti": "dunia",
+      "sharaf": {
+        "akar_kata": "د ن ي",
+        "makna_dasar": "tempat tinggal, alam fana",
+        "wazan_perubahan": "muzakkar, bentuk mafʿūl"
+      },
+      "nahwu": {
+        "kedudukan": "mudhaf (milik) bagi ٱلْحَيَوٰةُ",
+        "irab_dan_logika": "marfu' dengan dhammah karena menjadi mudhaf"
+      },
+      "hikmah": "menegaskan bahwa dunia hanyalah tempat sementara yang menipu hati manusia",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Huruf",
+      "arti": "tanda berhenti",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "tanda waqf akhir ayat",
+        "irab_dan_logika": "menandakan jeda makhraj, tidak memengaruhi i‘rab"
+      },
+      "hikmah": "menunjukkan batas bacaan, memberi ruang untuk merenungkan makna sebelumnya",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "فَٱلْيَوْمَ",
+      "transliterasi": "fa-al-yawma",
+      "jenis_kata": "Isim",
+      "arti": "maka hari ini",
+      "sharaf": {
+        "akar_kata": "ي و م",
+        "makna_dasar": "hari",
+        "wazan_perubahan": "isim mudhari‘ bi al‑fa (fa‑al‑yawm)"
+      },
+      "nahwu": {
+        "kedudukan": "marfu' sebagai mafʿūl mutlaq setelah huruf فَ (fa) yang menghubungkan",
+        "irab_dan_logika": "dhammah karena berfungsi sebagai mafʿūl mutlaq yang menjadi subjek dalam kalimat selanjutnya"
+      },
+      "hikmah": "menandakan waktu penghakiman, yaitu pada hari kiamat",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "نَنسَىٰهُمْ",
+      "transliterasi": "nansāhum",
+      "jenis_kata": "Fi'il",
+      "arti": "kami melupakan mereka",
+      "sharaf": {
+        "akar_kata": "ن س ي",
+        "makna_dasar": "lupa, mengabaikan",
+        "wazan_perubahan": "faʿala → nansā (fiʿl mudhari‘)"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il mudhari‘ (verb) dengan dhammah pada alif (نَنسَىٰ) dan huruf ضمير متصل (هُمْ) sebagai objek",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "menunjukkan sikap Allah yang akan melupakan orang-orang yang menipu diri dengan dunia pada hari pembalasan",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "كَمَا",
+      "transliterasi": "kamā",
+      "jenis_kata": "Huruf",
+      "arti": "seperti",
+      "sharaf": {
+        "akar_kata": "ك م ا",
+        "makna_dasar": "seperti, sebagaimana",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "huruf ma'uliyah (kata sambung) yang menghubungkan dua klausa",
+        "irab_dan_logika": "tidak ber-i‘rab, berfungsi sebagai penanda perbandingan"
+      },
+      "hikmah": "menyiratkan perbandingan antara kelupaan Allah pada hari kiamat dengan kelupaan manusia terhadap pertemuan dengan hari itu",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "نَسُوا۟",
+      "transliterasi": "nasū",
+      "jenis_kata": "Fi'il",
+      "arti": "lupa",
+      "sharaf": {
+        "akar_kata": "ن س ي",
+        "makna_dasar": "lupa, mengingat",
+        "wazan_perubahan": "فعل ماضٍ مبني على الفتح"
+      },
+      "nahwu": {
+        "kedudukan": "predikat (fi'il) dalam kalimat",
+        "irab_dan_logika": "مرفوع بالضمة الظاهرة على الواو لأنه فعل ماضٍ"
+      },
+      "hikmah": "Orang yang mengabaikan ayat‑ayat Allah akan dilupakan pada hari kiamat",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "لِقَآءَ",
+      "transliterasi": "liqā'a",
+      "jenis_kata": "Isim",
+      "arti": "pertemuan",
+      "sharaf": {
+        "akar_kata": "ل ق ي",
+        "makna_dasar": "bertemu",
+        "wazan_perubahan": "مَفْعَل (masdar)"
+      },
+      "nahwu": {
+        "kedudukan": "objek (مفعول به) dari فعل نَسُوا",
+        "irab_dan_logika": "منصوب بالفتحة لأنه مفعول به"
+      },
+      "hikmah": "Menunjukkan bahwa mereka melupakan pertemuan dengan hari kiamat",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "يَوْمِهِمْ",
+      "transliterasi": "yawmihim",
+      "jenis_kata": "Isim",
+      "arti": "hari mereka",
+      "sharaf": {
+        "akar_kata": "ي و م",
+        "makna_dasar": "hari",
+        "wazan_perubahan": "اسم مفرد مذكر"
+      },
+      "nahwu": {
+        "kedudukan": "مجرور كـمضاف إليه في إِضافة \"لِقَاءِ يَوْمِهِمْ\"",
+        "irab_dan_logika": "مجرور بالكسرة لأنه مضاف إليه"
+      },
+      "hikmah": "Menggambarkan hari kiamat yang akan datang bagi mereka",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "هَٰذَا",
+      "transliterasi": "hādhā",
+      "jenis_kata": "Isim (kata tunjuk)",
+      "arti": "ini",
+      "sharaf": {
+        "akar_kata": "ه ذ ا",
+        "makna_dasar": "ini",
+        "wazan_perubahan": "اسم إشارة"
+      },
+      "nahwu": {
+        "kedudukan": "نعت مرفوع يصف \"يَوْمِهِمْ\"",
+        "irab_dan_logika": "مرفوع بالضمة لأنه نعت مرفوع"
+      },
+      "hikmah": "Menegaskan bahwa hari yang dimaksud adalah hari ini (hari kiamat) yang mereka lupakan",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "وَمَا",
+      "transliterasi": "wama",
+      "jenis_kata": "Huruf",
+      "arti": "dan tidak",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "حرف عطف ونفي يربط بين الجمل",
+        "irab_dan_logika": "ليس له إعراب لأنه حرف"
+      },
+      "hikmah": "Menunjukkan penolakan terhadap apa yang mereka lakukan sebelumnya",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "كَانُوا۟",
+      "transliterasi": "kānū",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka adalah",
+      "sharaf": {
+        "akar_kata": "ك و ن",
+        "makna_dasar": "ada, menjadi",
+        "wazan_perubahan": "فعل ماضٍ ثلاثي مجرد"
+      },
+      "nahwu": {
+        "kedudukan": "predikat (fi'il) dalam klausa \"وما كانوا\"",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فعل ماضٍ"
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "بِآيَاتِنَا",
+      "transliterasi": "bi-āyātinā",
+      "jenis_kata": "Huruf (preposisi) + Isim",
+      "arti": "dengan ayat‑ayat Kami",
+      "sharaf": {
+        "akar_kata": "أ‑و‑ي",
+        "makna_dasar": "tanda, ayat",
+        "wazan_perubahan": "آية – bentuk isim maushul (istilah)"
+      },
+      "nahwu": {
+        "kedudukan": "Isim majrur (tergantung pada preposisi **bi**) dalam frasa **bi‑āyātinā**",
+        "irab_dan_logika": "Diberi kasrah karena berada di belakang huruf **bi** yang merupakan huruf jar; menunjukkan cara atau sebab"
+      },
+      "hikmah": "*Orang‑orang yang menolak ayat‑ayat Allah* menandakan bahwa mereka mengabaikan petunjuk‑petunjuk Ilahi yang menjadi bukti kebesaran-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "يَجْحَدُونَ",
+      "transliterasi": "yajḥadūna",
+      "jenis_kata": "Fi'il mudhari' (verb)",
+      "arti": "menolak, mengingkari",
+      "sharaf": {
+        "akar_kata": "ج‑ه‑د",
+        "makna_dasar": "berusaha keras; dalam konteks Qur'an berarti menolak secara tegas",
+        "wazan_perubahan": "فَعَلَ – bentuk mudhari' dengan alif al‑wasl"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il mudhari' marfu' (subjek tak terduga) dengan dhammah pada akhir kata",
+        "irab_dan_logika": "Diberi dhammah karena merupakan fi'il yang belum terikat oleh huruf atau al‑nasb; menandakan tindakan aktif mereka"
+      },
+      "hikmah": "Mereka **menolak** ayat‑ayat Allah secara sengaja, menunjukkan keangkuhan dan penolakan total terhadap kebenaran Ilahi.",
+      "role": "none"
+    }
+  ]
+}

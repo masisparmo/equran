@@ -1,0 +1,528 @@
+{
+  "surah": 7,
+  "ayah": 54,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "إِنَّ",
+      "transliterasi": "inna",
+      "jenis_kata": "Huruf",
+      "arti": "sesungguhnya",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "penegasan, menekankan kalimat",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "huruf takdir (حرف مشبه) yang memasukka' **isim** ke dalam **i'rab** mansub",
+        "irab_dan_logika": "Berfungsi sebagai pembuka kalimat, menekankan bahwa apa yang disebutkan selanjutnya adalah fakta yang pasti; karena **inna** menuntut isim setelahnya berada dalam kasus mansub (kasrah)."
+      },
+      "hikmah": "Menegaskan keabsahan pernyataan bahwa Allah-lah Tuhan yang menciptakan segala sesuatu.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "رَبَّكُمُ",
+      "transliterasi": "rabbakumu",
+      "jenis_kata": "Isim",
+      "arti": "Tuhanmu",
+      "sharaf": {
+        "akar_kata": "ر ب ب",
+        "makna_dasar": "pemilik, penguasa",
+        "wazan_perubahan": "فَعَّل"
+      },
+      "nahwu": {
+        "kedudukan": "isim al-jar (مجرور) sebagai **subjek** dalam kalimat nominal setelah **إِنَّ**",
+        "irab_dan_logika": "Berakhiran kasrah (**رَبَّكُمُ**) karena huruf **إِنَّ** menuntut isim yang mengikutinya berada dalam kasus mansub."
+      },
+      "hikmah": "Menunjukkan bahwa Allah adalah Tuhan yang menguasai dan memelihara hamba‑hamba-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "ٱللَّهُ",
+      "transliterasi": "Allahu",
+      "jenis_kata": "Isim",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "أ ل ه",
+        "makna_dasar": "Tuhan yang Maha Esa",
+        "wazan_perubahan": "مُفَعَّل"
+      },
+      "nahwu": {
+        "kedudukan": "خبر (predikat) dalam kalimat nominal setelah **إِنَّ**",
+        "irab_dan_logika": "Berakhiran dhammah (**ٱللَّهُ**) karena sebagai خبر dalam konstruksi إِنَّ, ia berada dalam kasus mansub (kasrah) namun dibaca dengan dhammah dalam tajwid tradisional."
+      },
+      "hikmah": "Menegaskan keesaan Allah sebagai pencipta dan penguasa semesta.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "ٱلَّذِي",
+      "transliterasi": "alladhī",
+      "jenis_kata": "Isim (اسم موصول)",
+      "arti": "yang",
+      "sharaf": {
+        "akar_kata": "ل ذ ي",
+        "makna_dasar": "yang, yang berhubungan",
+        "wazan_perubahan": "مُفَعَّل"
+      },
+      "nahwu": {
+        "kedudukan": "kata sambung (اسم موصول) memperkenalkan anak kalimat relatif",
+        "irab_dan_logika": "Berakhiran kasrah (**ٱلَّذِي**) karena berada dalam posisi mansob setelah **إِنَّ**; berfungsi sebagai subjek dalam anak kalimat \"yang menciptakan...\"."
+      },
+      "hikmah": "Menghubungkan sifat penciptaan dengan Allah, menegaskan bahwa Allah-lah yang melakukan tindakan tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "خَلَقَ",
+      "transliterasi": "khalaqa",
+      "jenis_kata": "Fi'il",
+      "arti": "menciptakan",
+      "sharaf": {
+        "akar_kata": "خ ل ق",
+        "makna_dasar": "menciptakan, membuat",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il madhi (kata kerja lampau) dalam anak kalimat relatif",
+        "irab_dan_logika": "Berakhiran dhammah (**خَلَقَ**) karena fi'il madhi beraturan berharakat dhammah pada akhir kata."
+      },
+      "hikmah": "Menunjukkan tindakan penciptaan yang mutlak dan sempurna oleh Allah.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "وَٱلْأَرْضَ",
+      "transliterasi": "wa-al-ʾarḍa",
+      "jenis_kata": "Huruf (wa) + Isim (al-ʾarḍa)",
+      "arti": "dan bumi",
+      "sharaf": {
+        "akar_kata": "أ ر ض",
+        "makna_dasar": "tanah, bumi",
+        "wazan_perubahan": "مفعل (isim)"
+      },
+      "nahwu": {
+        "kedudukan": "objek (مفعول به) dari فعل خَلَقَ",
+        "irab_dan_logika": "مُنصَب بالفتحة لأن الفعل متعدٍ ويحتاج مفعولًا به"
+      },
+      "hikmah": "menegaskan bahwa Allah menciptakan bumi bersama langit",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "فِى",
+      "transliterasi": "fī",
+      "jenis_kata": "Huruf (preposisi)",
+      "arti": "di dalam",
+      "sharaf": {
+        "akar_kata": "ف ي",
+        "makna_dasar": "masuk, berada",
+        "wazan_perubahan": "لا يصرف"
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر يربط ما بعده بالموضع الزماني للمخلوق",
+        "irab_dan_logika": "حرف جر لا إعراب له، يجر الاسم التالي إلى الجر"
+      },
+      "hikmah": "menunjukkan tempat penciptaan, yaitu dalam (di dalam) enam hari",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "سِتَّةِ",
+      "transliterasi": "sittati",
+      "jenis_kata": "Isim (numeral)",
+      "arti": "enam",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "jumlah enam",
+        "wazan_perubahan": "عدد"
+      },
+      "nahwu": {
+        "kedudukan": "مجرور بالكسرة لأنه تابع لحرف الجر فِي",
+        "irab_dan_logika": "مجرور بالكسرة لأن ما بعد حرف الجر يُجرّ"
+      },
+      "hikmah": "menyatakan jumlah hari yang diperlukan untuk penciptaan",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "أَيَّامٍۢ",
+      "transliterasi": "ayyāmin",
+      "jenis_kata": "Isim (noun, jamak)",
+      "arti": "hari",
+      "sharaf": {
+        "akar_kata": "ي و م",
+        "makna_dasar": "waktu, hari",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "مجرور بالكسرة بعد العدد سِتَّةِ",
+        "irab_dan_logika": "مجرور بالكسرة لأن العدد يجر ما بعده إلى الجر"
+      },
+      "hikmah": "menegaskan durasi penciptaan yaitu enam hari",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "ثُمَّ",
+      "transliterasi": "thumma",
+      "jenis_kata": "Huruf (particle)",
+      "arti": "kemudian",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "menyambung urutan tindakan",
+        "wazan_perubahan": "لا يصرف"
+      },
+      "nahwu": {
+        "kedudukan": "حرف عطف يربط الجملة السابقة باللاحقة",
+        "irab_dan_logika": "حرف عطف لا إعراب له"
+      },
+      "hikmah": "menandakan bahwa setelah penciptaan, Allah bersemayam di atas 'Arsy",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "ٱسْتَوَىٰ",
+      "transliterasi": "istawā",
+      "jenis_kata": "Fi'il (verb)",
+      "arti": "menetap, bersemayam",
+      "sharaf": {
+        "akar_kata": "س و ي",
+        "makna_dasar": "menjadi tegak, beristirahat",
+        "wazan_perubahan": "استفعل"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ماضٍ مبني على الفتح، والفاعل ضمير مستتر تقديره هو (الله)",
+        "irab_dan_logika": "مبني على الفتح لأنه فعل ماضٍ"
+      },
+      "hikmah": "Allah bersemayam di atas 'Arsy setelah menciptakan langit dan bumi",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "عَلَى",
+      "transliterasi": "ʿalā",
+      "jenis_kata": "Huruf",
+      "arti": "di atas, pada",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر يربط فعل استوى بالاسم المجْرور",
+        "irab_dan_logika": "حرف جر يُجر الاسم إلى حالة الجر بالكسرة لأنّها تابعة لحرف الجر"
+      },
+      "hikmah": "Menunjukkan kedudukan Allah yang Maha Tinggi di atas ‘Arsh, menegaskan keagungan dan ketinggian-Nya",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "ٱلْعَرْشِ",
+      "transliterasi": "al-ʿarshi",
+      "jenis_kata": "Isim",
+      "arti": "singgasana, ‘Arsh",
+      "sharaf": {
+        "akar_kata": "ع ر ش",
+        "makna_dasar": "menopang, menegakkan",
+        "wazan_perubahan": "isim mafʿūl (مَفْعُول)"
+      },
+      "nahwu": {
+        "kedudukan": "اسم مجرور بحرف الجر عَلَى",
+        "irab_dan_logika": "مجرور بالكسرة لأنه تابع لحرف الجر"
+      },
+      "hikmah": "Melambangkan tempat tertinggi Allah, simbol kekuasaan mutlak yang tidak terjangkau makhluk",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "يُغْشِى",
+      "transliterasi": "yughshī",
+      "jenis_kata": "Fi'il",
+      "arti": "menutupi",
+      "sharaf": {
+        "akar_kata": "غ ش ي",
+        "makna_dasar": "menutup, melapisi",
+        "wazan_perubahan": "bentuk IV (أَفْعَل)"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع بالضمة",
+        "irab_dan_logika": "مرفوع لأنه فعل مضارع غير معتل والفاعل مستتر تقديره هو (Allah)"
+      },
+      "hikmah": "Menunjukkan tindakan Allah menutupi malam atas siang, menegaskan kekuasaan-Nya atas pergantian waktu",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "ٱلَّيْلَ",
+      "transliterasi": "al-layla",
+      "jenis_kata": "Isim",
+      "arti": "malam",
+      "sharaf": {
+        "akar_kata": "ل ي ل",
+        "makna_dasar": "kegelapan, waktu malam",
+        "wazan_perubahan": "isim pola فَعْل"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به للفعل يُغْشِى",
+        "irab_dan_logika": "منصوب بالفتحة لأنه مفعول به للفعل"
+      },
+      "hikmah": "Objek yang ditutupi, menegaskan bahwa malam berada di bawah kendali Allah dalam siklus penciptaan",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "ٱلنَّهَارَ",
+      "transliterasi": "an-nahāra",
+      "jenis_kata": "Isim",
+      "arti": "siang",
+      "sharaf": {
+        "akar_kata": "ن ه ر",
+        "makna_dasar": "cahaya, waktu siang",
+        "wazan_perubahan": "isim pola فَعَال"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به ثانٍ للفعل يُغْشِى (مفعول به مزدوج)",
+        "irab_dan_logika": "منصوب بالفتحة لأنه مفعول به مزدوج مع اللَّيْلَ"
+      },
+      "hikmah": "Menunjukkan hubungan timbal balik antara malam dan siang, dimana malam menutupi siang sebagai bagian dari tata cara penciptaan",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "يَطْلُبُهُۤ",
+      "transliterasi": "yaṭlubuhu",
+      "jenis_kata": "Fi'il",
+      "arti": "mengejarnya (siang)",
+      "sharaf": {
+        "akar_kata": "ط ل ب",
+        "makna_dasar": "meminta, mencari, mengejar",
+        "wazan_perubahan": "bentuk III (يَفْعَل)"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع بالضمة، والفاعل مستتر تقديره هو (Allah)؛ والهاء ضمير متصل مفعول به",
+        "irab_dan_logika": "مرفوع لأنه فعل مضارع غير معتل، والهاء مفعول به ضمير متصل يعود على النَّهَارَ"
+      },
+      "hikmah": "Allah mengatur agar siang muncul setelah malam ditutup, menegaskan urutan dan kehendak ilahi dalam penciptaan waktu",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "حَثِيثًۭا",
+      "transliterasi": "ḥathīthan",
+      "jenis_kata": "Isim",
+      "arti": "secara teratur, berurutan",
+      "sharaf": {
+        "akar_kata": "ح-ث-ث",
+        "makna_dasar": "beraturan, teratur",
+        "wazan_perubahan": "فَعِيلًا (aktif participle)"
+      },
+      "nahwu": {
+        "kedudukan": "حال (keterangan cara) yang mansub",
+        "irab_dan_logika": "Berakhiran tanwin fathah menandakan keadaan (حال) dalam posisi mansub"
+      },
+      "hikmah": "*Menunjukkan bahwa penciptaan dan penaklukan alam terjadi secara teratur, tidak sembarangan.*",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "وَٱلشَّمْسَ",
+      "transliterasi": "wa ash‑shamsa",
+      "jenis_kata": "Isim",
+      "arti": "matahari",
+      "sharaf": {
+        "akar_kata": "ش-م-س",
+        "makna_dasar": "cahaya, benda yang bersinar",
+        "wazan_perubahan": "اسم مفرد مذكر منصوب بالفتحة"
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "ۗ",
+      "transliterasi": "",
+      "jenis_kata": "Isyarat (tanda ayat)",
+      "arti": "tanda berhenti ayat",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Berada di akhir/awal ayat sebagai pemisah",
+        "irab_dan_logika": "Tidak memiliki i‘rāb karena bukan kata"
+      },
+      "hikmah": "Menandai jeda bacaan, mengingatkan pembaca untuk berhenti sejenak",
+      "role": "none"
+    },
+    {
+      "index": 25,
+      "kata_arab": "أَلَا",
+      "transliterasi": "alā",
+      "jenis_kata": "Huruf (particle)",
+      "arti": "apakah tidak",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf nasb yang memulai kalimat, menegaskan penegasan",
+        "irab_dan_logika": "Tidak ber-i‘rāb, berfungsi sebagai pemicu makna"
+      },
+      "hikmah": "Menyiratkan keheranan dan mengajak pembaca merenungkan kebesaran Allah",
+      "role": "none"
+    },
+    {
+      "index": 26,
+      "kata_arab": "لَهُ",
+      "transliterasi": "lahu",
+      "jenis_kata": "Huruf (harf jar)",
+      "arti": "bagi-Nya",
+      "sharaf": {
+        "akar_kata": "L‑H",
+        "makna_dasar": "milik, kepunyaan",
+        "wazan_perubahan": "bentuk mudhari‘"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar yang melengkapi kata sebelumnya, menandakan kepemilikan",
+        "irab_dan_logika": "Majrur dengan kasrah pada huruf “هُ” karena merupakan huruf jar"
+      },
+      "hikmah": "Menegaskan bahwa segala ciptaan dan urusan adalah milik Allah semata",
+      "role": "none"
+    },
+    {
+      "index": 27,
+      "kata_arab": "ٱلْخَلْقُ",
+      "transliterasi": "al‑khalqu",
+      "jenis_kata": "Isim (isim mufrad)",
+      "arti": "penciptaan",
+      "sharaf": {
+        "akar_kata": "خ‑ل‑ق",
+        "makna_dasar": "mencipta",
+        "wazan_perubahan": "fa‘ala"
+      },
+      "nahwu": {
+        "kedudukan": "Isim marfu‘ sebagai subjek dalam kalimat",
+        "irab_dan_logika": "Ber‑dammah karena berfungsi sebagai mubtada’ (subjek)"
+      },
+      "hikmah": "Menunjukkan bahwa penciptaan adalah salah satu sifat Allah yang mutlak",
+      "role": "none"
+    },
+    {
+      "index": 28,
+      "kata_arab": "وَٱلْأَمْرُ",
+      "transliterasi": "wal‑amru",
+      "jenis_kata": "Isim (isim mufrad)",
+      "arti": "urusan / ketetapan",
+      "sharaf": {
+        "akar_kata": "أ‑م‑ر",
+        "makna_dasar": "memerintahkan, mengatur",
+        "wazan_perubahan": "af‘ala"
+      },
+      "nahwu": {
+        "kedudukan": "Isim marfu‘ yang dihubungkan dengan al‑khalqu lewat huruf “wa” (dan)",
+        "irab_dan_logika": "Ber‑dammah karena menjadi bagian dari predikat nominal"
+      },
+      "hikmah": "Menggambarkan bahwa segala urusan berada di bawah kendali dan perintah Allah",
+      "role": "none"
+    },
+    {
+      "index": 29,
+      "kata_arab": "ۗ",
+      "transliterasi": "",
+      "jenis_kata": "Isyarat (tanda ayat)",
+      "arti": "tanda berhenti ayat",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Berfungsi sebagai penutup ayat, memisahkan bagian bacaan",
+        "irab_dan_logika": "Tidak ber‑i‘rāb karena bukan kata"
+      },
+      "hikmah": "Memberi jeda akhir, menandai selesainya rangkaian makna dalam ayat",
+      "role": "none"
+    },
+    {
+      "index": 30,
+      "kata_arab": "تَبَارَكَ",
+      "transliterasi": "tabāraka",
+      "jenis_kata": "Fi'il (verb)",
+      "arti": "Maha Suci",
+      "sharaf": {
+        "akar_kata": "ب ر ك",
+        "makna_dasar": "memberkati, memberi keberkahan",
+        "wazan_perubahan": "تَفَعَّلَ (tafaʿʿala)"
+      },
+      "nahwu": {
+        "kedudukan": "Khabar (predikat) dalam kalimat nominal *تَبَارَكَ اللَّهُ رَبُّ الْعَالَمِينَ*",
+        "irab_dan_logika": "Berharakat dammah karena fi'il madhi مرفوع بالضمة"
+      },
+      "hikmah": "Menegaskan bahwa Allah bebas dari segala kekurangan; segala pujian dan kesucian hanyalah hak-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 31,
+      "kata_arab": "اللَّهُ",
+      "transliterasi": "Allāhu",
+      "jenis_kata": "Isim (nama khusus)",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "أ ل ه",
+        "makna_dasar": "menyembah, menjadi Tuhan",
+        "wazan_perubahan": "فَعْل"
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada' (subjek) dalam kalimat nominal",
+        "irab_dan_logika": "Marfu' dengan dammah karena menjadi mubtada'"
+      },
+      "hikmah": "Menegaskan keesaan dan keagungan Sang Pencipta yang menjadi subjek utama dalam ayat.",
+      "role": "none"
+    },
+    {
+      "index": 32,
+      "kata_arab": "رَبُّ",
+      "transliterasi": "Rabb(u)",
+      "jenis_kata": "Isim",
+      "arti": "Tuhan, Penguasa",
+      "sharaf": {
+        "akar_kata": "ر ب ب",
+        "makna_dasar": "menjaga, memelihara, menjadi dekat",
+        "wazan_perubahan": "فَعَّل"
+      },
+      "nahwu": {
+        "kedudukan": "Isim al-Mudaf dalam iḍāfa *رَبُّ الْعَالَمِينَ*",
+        "irab_dan_logika": "Marfu' dengan dammah karena berada pada posisi pertama iḍāfa"
+      },
+      "hikmah": "Menunjukkan Allah sebagai Penguasa dan Pemelihara seluruh alam semesta.",
+      "role": "none"
+    },
+    {
+      "index": 33,
+      "kata_arab": "الْعَالَمِينَ",
+      "transliterasi": "al-ʿālamīna",
+      "jenis_kata": "Isim jam' (plural)",
+      "arti": "semua dunia/alam",
+      "sharaf": {
+        "akar_kata": "ع ل م",
+        "makna_dasar": "pengetahuan, alam semesta",
+        "wazan_perubahan": "مَفْعُول"
+      },
+      "nahwu": {
+        "kedudukan": "Isim al-Mudaf ilaih (pelengkap iḍāfa)",
+        "irab_dan_logika": "Majrur dengan kasrah karena menjadi mudaf ilaih"
+      },
+      "hikmah": "Menyiratkan bahwa kekuasaan Allah meliputi seluruh ciptaan, baik yang tampak maupun yang tersembunyi.",
+      "role": "none"
+    }
+  ]
+}

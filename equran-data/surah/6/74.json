@@ -163,6 +163,114 @@
       },
       "hikmah": "*Memberi jeda bagi pendengar untuk merenungkan pernyataan Ibrahim sebelum melanjutkan ayat.*",
       "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "إِنِّىٓ",
+      "transliterasi": "innī",
+      "jenis_kata": "Huruf (partikel «إنّ» + ضمير متصل)",
+      "arti": "sesungguhnya aku",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "حرف توكيد وتأكيد على الفعل التالي",
+        "irab_dan_logika": "حرف لا يُعرب، يسبق الفعل ويُعطيه تأكيداً"
+      },
+      "hikmah": "*Menegaskan keikhlasan dan kepastian pernyataan Ibrahim bahwa apa yang ia sampaikan adalah nyata dan pribadi.*",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "أَرَىٰكَ",
+      "transliterasi": "arāka",
+      "jenis_kata": "Fi'il (verb)",
+      "arti": "aku melihatmu",
+      "sharaf": {
+        "akar_kata": "ر أ ي",
+        "makna_dasar": "melihat",
+        "wazan_perubahan": "أَفْعَل (bentuk mudhari‘)"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ماضٍ مبني على الفتح",
+        "irab_dan_logika": "الفعل ماضٍ لا يُعرب؛ الضمير المتصل «كَ» مفعول به منصوب بالفتحة"
+      },
+      "hikmah": "*Ibrahim menyatakan secara langsung bahwa ia menyaksikan ayahnya dan kaumnya dalam kesesatan yang jelas.*",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "وَقَوْمَكَ",
+      "transliterasi": "wa‑qawma‑ka",
+      "jenis_kata": "Isim",
+      "arti": "dan kaummu",
+      "sharaf": {
+        "akar_kata": "ق و م",
+        "makna_dasar": "kaum, bangsa",
+        "wazan_perubahan": "فَعْل (kata benda)"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به ثانٍ للفعل «أَرَىٰكَ» مع الواو العاطفة",
+        "irab_dan_logika": "نصب بالفتحة لأنّه مفعول به، والواو عاطفة لا تُعرب"
+      },
+      "hikmah": "*Menegaskan bahwa bukan hanya ayahnya saja, melainkan seluruh kaumnya berada dalam kesesatan yang nyata, sehingga Ibrahim menolak penyembahan berhala secara kolektif.*",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "فِى",
+      "transliterasi": "fi",
+      "jenis_kata": "Huruf",
+      "arti": "di, dalam",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "preposisi yang menunjukkan tempat atau waktu",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar (preposisi) yang menghubungkan ke kata berikutnya",
+        "irab_dan_logika": "Berharakat kasrah (ـِ) karena huruf jar tidak menerima i‘rāb, melainkan menurunkan i‘rāb pada mudhaf‑nya"
+      },
+      "hikmah": "Menunjukkan bahwa **kesesatan** yang disebutkan berada *di dalam* konteks yang dibicarakan, menandakan kedudukan ruang‑waktu ayat tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "ضَلَٰلٍۢ",
+      "transliterasi": "ḍalālin",
+      "jenis_kata": "Isim",
+      "arti": "kesesatan",
+      "sharaf": {
+        "akar_kata": "ض ل ل",
+        "makna_dasar": "tersesat, melenceng",
+        "wazan_perubahan": "faʿāl (مُصْدَر فَعَل)"
+      },
+      "nahwu": {
+        "kedudukan": "Mudhaf (kata yang dimodifikasi) setelah huruf jar «فِى»",
+        "irab_dan_logika": "Berharakat kasrah (ـٍ) karena berada dalam i‘rāb majrur yang ditentukan oleh huruf jar «فِى»"
+      },
+      "hikmah": "Menyiratkan **kesesatan yang nyata** yang dilihat Ibrahim pada kaumnya, menegaskan bahwa mereka berada dalam keadaan terjerumus jauh dari kebenaran.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "مُّبِينٍۢ",
+      "transliterasi": "mubīn",
+      "jenis_kata": "Isim (sifat)",
+      "arti": "jelas, nyata",
+      "sharaf": {
+        "akar_kata": "ب ي ن",
+        "makna_dasar": "jelas, terang",
+        "wazan_perubahan": "mufʿal (مُفَعَّل)"
+      },
+      "nahwu": {
+        "kedudukan": "Na'at (sifat) yang menjelaskan kata «ضَلَٰلٍ»",
+        "irab_dan_logika": "Berharakat kasrah (ـٍ) karena sifat harus seirab dengan mudhafnya, yaitu majrur"
+      },
+      "hikmah": "Memberi penekanan bahwa **kesesatan** tersebut bukan sekadar kebetulan, melainkan **terbuka jelas** bagi siapa saja yang meniliknya.",
+      "role": "none"
     }
   ]
 }

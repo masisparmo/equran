@@ -1,0 +1,546 @@
+{
+  "surah": 7,
+  "ayah": 57,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "وَهُوَ",
+      "transliterasi": "wa huwa",
+      "jenis_kata": "Isim",
+      "arti": "dan dia",
+      "sharaf": {
+        "akar_kata": "ه-و-ا",
+        "makna_dasar": "keberadaan, dia",
+        "wazan_perubahan": "مستقل (kata ganti)"
+      },
+      "nahwu": {
+        "kedudukan": "subjek (marfu') setelah huruf *wa*",
+        "irab_dan_logika": "dammah karena berfungsi sebagai isim marfu' sebagai subjek"
+      },
+      "hikmah": "Menegaskan kehadiran Allah sebagai subjek utama dalam ayat, menekankan bahwa segala tindakan berasal dari-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "ٱلَّذِى",
+      "transliterasi": "alladhi",
+      "jenis_kata": "Isim",
+      "arti": "yang",
+      "sharaf": {
+        "akar_kata": "ذ-و-ي",
+        "makna_dasar": "menjadi, ada",
+        "wazan_perubahan": "الفاعل (isim al‑mawsul)"
+      },
+      "nahwu": {
+        "kedudukan": "isim al‑mawsul, subjek relatif (marfu')",
+        "irab_dan_logika": "dammah karena berfungsi sebagai subjek dalam klausa relatif yang menghubungkan ke fi'il *yursilu*"
+      },
+      "hikmah": "Kata ini menghubungkan Allah dengan tindakan mengirimkan angin, menegaskan bahwa sifat mengirimkan itu melekat pada-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "يُرْسِلُ",
+      "transliterasi": "yursilu",
+      "jenis_kata": "Fi'il",
+      "arti": "mengirimkan",
+      "sharaf": {
+        "akar_kata": "ر-س-ل",
+        "makna_dasar": "mengirim, menyampaikan",
+        "wazan_perubahan": "يفعل"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il mudhari' (present tense) 3rd person maskulin tunggal, marfu'",
+        "irab_dan_logika": "dammah pada akhir kata menandakan bentuk mudhari' yang menunjukkan tindakan yang sedang berlangsung"
+      },
+      "hikmah": "Menunjukkan aksi aktif Allah dalam mengatur alam, yaitu mengirimkan angin sebagai pembawa kabar baik.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "ٱلرِّيَٰحَ",
+      "transliterasi": "ar‑riyah",
+      "jenis_kata": "Isim",
+      "arti": "angin",
+      "sharaf": {
+        "akar_kata": "ر-و-ح",
+        "makna_dasar": "menghembus, napas",
+        "wazan_perubahan": "فِعال"
+      },
+      "nahwu": {
+        "kedudukan": "maf‘ul bihi (objek) fi'il *yursilu*, nasb dengan fatha",
+        "irab_dan_logika": "fatha menandakan objek langsung yang diterima tindakan pengiriman"
+      },
+      "hikmah": "Angin dipilih sebagai sarana Allah untuk menyampaikan rahmat, melambangkan kecepatan dan kelembutan penyampaian kabar baik.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "بُشْرًۢا",
+      "transliterasi": "bushran",
+      "jenis_kata": "Isim",
+      "arti": "kabar gembira",
+      "sharaf": {
+        "akar_kata": "ب-ش-ر",
+        "makna_dasar": "manusia, berita",
+        "wazan_perubahan": "فُعْر"
+      },
+      "nahwu": {
+        "kedudukan": "maf‘ul bihi (objek kedua) fi'il *yursilu*, nasb dengan fatha",
+        "irab_dan_logika": "fatha menandakan bahwa kata ini juga merupakan objek yang diterima tindakan pengiriman"
+      },
+      "hikmah": "Menggambarkan bahwa tujuan pengiriman angin bukan sekadar fenomena alam, melainkan membawa kabar baik yang menyejukkan hati manusia.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "بَيْنَ",
+      "transliterasi": "bayna",
+      "jenis_kata": "Huruf",
+      "arti": "antara",
+      "sharaf": {
+        "akar_kata": "ب-ي-ن",
+        "makna_dasar": "memisahkan, berada di tengah",
+        "wazan_perubahan": "حرف"
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "يَدَىْ",
+      "transliterasi": "yaday",
+      "jenis_kata": "Isim",
+      "arti": "tangan (bentuk dual)",
+      "sharaf": {
+        "akar_kata": "ي د ي",
+        "makna_dasar": "tangan",
+        "wazan_perubahan": "مِفْعَل (dual genitif)"
+      },
+      "nahwu": {
+        "kedudukan": "jar (majrur) setelah huruf \"بَيْنَ\"",
+        "irab_dan_logika": "kasrah karena berjarak, menandakan kepemilikan bersama"
+      },
+      "hikmah": "Menunjukkan bahwa rahmat Allah berada di antara dua tangan-Nya, simbol kekuasaan dan kelembutan.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "رَحْمَتِهِۦ",
+      "transliterasi": "raḥmatihi",
+      "jenis_kata": "Isim",
+      "arti": "rahmat-Nya",
+      "sharaf": {
+        "akar_kata": "ر ح م",
+        "makna_dasar": "kasih sayang, rahmat",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "jar (majrur) sebagai pelengkap \"يَدَيْ\"",
+        "irab_dan_logika": "kasrah karena berjarak, menandakan kepemilikan"
+      },
+      "hikmah": "Menggambarkan sifat rahmat Allah yang meliputi segala sesuatu, berada di antara dua tangan-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "ۖ",
+      "transliterasi": ",",
+      "jenis_kata": "Huruf",
+      "arti": "tanda koma",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "simbol baca, memisahkan bagian kalimat",
+        "irab_dan_logika": "tidak berirab, berfungsi sebagai jeda"
+      },
+      "hikmah": "Menandakan jeda bacaan, memberi ruang bagi pemahaman makna sebelumnya.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "حَتَّىٰٓ",
+      "transliterasi": "ḥattā",
+      "jenis_kata": "Huruf",
+      "arti": "sampai",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar (حرف جر) yang menghubungkan \"يَدَيْ\" dengan \"إِذَا\"",
+        "irab_dan_logika": "tidak berirab, menandakan batas waktu atau ruang"
+      },
+      "hikmah": "Menunjukkan rentang waktu antara persiapan angin dan turunnya hujan.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "إِذَآ",
+      "transliterasi": "idhā",
+      "jenis_kata": "Huruf",
+      "arti": "apabila",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "huruf syarat (حرف شرط) yang memperkenalkan kondisi selanjutnya",
+        "irab_dan_logika": "tidak berirab, menghubungkan kondisi dengan predikat"
+      },
+      "hikmah": "Menyiratkan bahwa sesuatu akan terjadi bila kondisi tertentu terpenuhi, yaitu awan menebal.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "أَقَلَّتْ",
+      "transliterasi": "aqallat",
+      "jenis_kata": "Fi'il",
+      "arti": "menurunkan, mengurangi",
+      "sharaf": {
+        "akar_kata": "ق ل ل",
+        "makna_dasar": "mengurangi, menurunkan",
+        "wazan_perubahan": "أَفْعَل"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il madhi (verb past) berakhiran sukun \"تْ\" sebagai fi'il madhi 3rd person feminine singular (menyiratkan awan)",
+        "irab_dan_logika": "marfu' karena berfungsi sebagai predikat utama dalam klausa"
+      },
+      "hikmah": "Menunjukkan tindakan Allah menurunkan awan yang berat, menyiapkan turunnya hujan sebagai rahmat.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "سَحَابًۭا",
+      "transliterasi": "saḥāban",
+      "jenis_kata": "Isim",
+      "arti": "awan",
+      "sharaf": {
+        "akar_kata": "س-ح-ب",
+        "makna_dasar": "awan",
+        "wazan_perubahan": "وزن فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul bih (objek) dari fi'il \"يُحْرِقُ\" atau \"يُسْقِي\" dalam konteks ayat",
+        "irab_dan_logika": "مُنصوب بالفتحة وعلامة النصب تنوين الفتح لأنّه مفعول به غير معرف"
+      },
+      "hikmah": "Menunjukkan proses penciptaan awan sebagai pertanda datangnya rahmat Allah",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "ثِقَالًۭا",
+      "transliterasi": "thiqālan",
+      "jenis_kata": "Isim",
+      "arti": "berat",
+      "sharaf": {
+        "akar_kata": "ث-ق-ل",
+        "makna_dasar": "berat, kepadatan",
+        "wazan_perubahan": "وزن فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "Sifat (na't) bagi \"سَحَابًۭا\"",
+        "irab_dan_logika": "مُنصوب بالفتحة وعلامة النصب تنوين الفتح لأنه صفة منصوبة"
+      },
+      "hikmah": "Menekankan kepadatan awan yang akan menurunkan hujan",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "سُقْنَٰهُ",
+      "transliterasi": "suqnāhu",
+      "jenis_kata": "Fi'il",
+      "arti": "Kami memberi minum (kepada)nya",
+      "sharaf": {
+        "akar_kata": "س-ق-ن",
+        "makna_dasar": "memberi minum, menyirami",
+        "wazan_perubahan": "وزن فَعَل (سَقَى)"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ماضٍ مبني على الفتح مع ضمير متصل في محل نصب مفعول به",
+        "irab_dan_logika": "الفعل ماضٍ مبني على الفتح، والهُ ضمير متصل في محل نصب مفعول به"
+      },
+      "hikmah": "Allah menurunkan air ke awan untuk menyiapkan hujan",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "لِبَلَدٍۢ",
+      "transliterasi": "libaladin",
+      "jenis_kata": "Huruf+Isim",
+      "arti": "untuk suatu negeri",
+      "sharaf": {
+        "akar_kata": "ب-ل-د",
+        "makna_dasar": "negeri, tanah",
+        "wazan_perubahan": "وزن فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "جار ومجرور متعلق بـ \"سُقْنَٰهُ\"",
+        "irab_dan_logika": "لِ حرف جر، بَلَدٍ اسم مجرور وعلامة جره الكسرة"
+      },
+      "hikmah": "Air diberikan kepada negeri yang kering untuk menghidupkannya",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "مَّيِّتٍۢ",
+      "transliterasi": "mayyitin",
+      "jenis_kata": "Isim",
+      "arti": "mati",
+      "sharaf": {
+        "akar_kata": "م-ي-ت",
+        "makna_dasar": "kematian, tidak hidup",
+        "wazan_perubahan": "وزن فَعِل"
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "بِهِ",
+      "transliterasi": "bi‑hi",
+      "jenis_kata": "Huruf (preposisi + zamir)",
+      "arti": "dengan dia/itu",
+      "sharaf": {
+        "akar_kata": "ب‑ي (preposisi bi) + ه‑و (zahir)",
+        "makna_dasar": "menunjukkan sarana atau cara",
+        "wazan_perubahan": "bi + pronoun (hi)"
+      },
+      "nahwu": {
+        "kedudukan": "kata benda (zahir) yang menjadi majrur setelah preposisi بِ",
+        "irab_dan_logika": "berkasrah karena preposisi بِ menuntut majrur; huruf ه berkasrah menandakan objek tunggal"
+      },
+      "hikmah": "menyiratkan bahwa segala sesuatu yang disebutkan selanjutnya terjadi \"dengan\" air itu, menegaskan peran air sebagai sarana kehidupan",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "ٱلْمَآءَ",
+      "transliterasi": "al‑maaʼ",
+      "jenis_kata": "Isim (kata benda)",
+      "arti": "air (yang)",
+      "sharaf": {
+        "akar_kata": "م‑و‑ء",
+        "makna_dasar": "cairan yang menyejukkan, menghilangkan dahaga",
+        "wazan_perubahan": "فَعْل (ma‘) dengan alif panjang"
+      },
+      "nahwu": {
+        "kedudukan": "mazkur (disebut) sebagai maf‘ul bih setelah preposisi بِ",
+        "irab_dan_logika": "berharakat dammah karena merupakan mudhaf (milik) dari preposisi بِ"
+      },
+      "hikmah": "air di sini bukan sekadar unsur fisik, melainkan rahmat Allah yang menghidupkan makhluk",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "فَأَخْرَجْنَا",
+      "transliterasi": "fa‑akhrajnā",
+      "jenis_kata": "Fi'il (verb)",
+      "arti": "lalu Kami mengeluarkan",
+      "sharaf": {
+        "akar_kata": "خ‑ر‑ج",
+        "makna_dasar": "mengeluarkan, menampakkan",
+        "wazan_perubahan": "أَفْعَلَ dengan prefiks فَ dan akhiran نَا (1‑pl)"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il madhi (kata kerja lampau) dengan subjek kami (نَـ)",
+        "irab_dan_logika": "berharakat dhammah pada akhir karena bentuk madhi yang berakhir dengan alif + nun + alif"
+      },
+      "hikmah": "menunjukkan tindakan aktif Allah dalam menurunkan rezeki (buah‑buah) setelah turunnya hujan",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "بِهِۦ",
+      "transliterasi": "bi‑hi",
+      "jenis_kata": "Huruf (preposisi + zamir)",
+      "arti": "dengan dia/itu",
+      "sharaf": {
+        "akar_kata": "ب‑ي (preposisi bi) + ه‑و (zahir)",
+        "makna_dasar": "menunjukkan sarana atau cara",
+        "wazan_perubahan": "bi + pronoun (hi)"
+      },
+      "nahwu": {
+        "kedudukan": "mazhar (keterangan cara) setelah fi'il فَأَخْرَجْنَا",
+        "irab_dan_logika": "berkasrah karena preposisi بِ menuntut majrur; huruf ه berkasrah"
+      },
+      "hikmah": "menegaskan bahwa segala yang dikeluarkan Allah itu terjadi \"dengan\" air sebagai medium",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "مِن",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf (preposisi)",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "م‑ن",
+        "makna_dasar": "menunjukkan asal atau sumber",
+        "wazan_perubahan": "preposisi sederhana"
+      },
+      "nahwu": {
+        "kedudukan": "preposisi yang menghubungkan kata berikutnya (كُلِّ) sebagai majrur",
+        "irab_dan_logika": "tidak berharakat karena hurufnya huruf jar (preposisi)"
+      },
+      "hikmah": "menunjukkan sumber atau asal segala buah yang dikeluarkan, yaitu dari seluruh makhluk",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "كُلِّ",
+      "transliterasi": "kullī",
+      "jenis_kata": "Isim (kata benda)",
+      "arti": "setiap, semua",
+      "sharaf": {
+        "akar_kata": "ك‑ل‑ل",
+        "makna_dasar": "keseluruhan, totalitas",
+        "wazan_perubahan": "فَعْل dengan kasrah pada akhir karena majrur"
+      },
+      "nahwu": {
+        "kedudukan": "majrur setelah preposisi مِن, berfungsi sebagai keterangan sumber",
+        "irab_dan_logika": "berkasrah karena berada dalam i‘rāb majrur yang dituntut مِن"
+      },
+      "hikmah": "menyiratkan kelimpahan dan keberagaman hasil yang dihasilkan Allah, mencakup segala jenis buah dari seluruh alam",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "ٱلثَّمَرَٰتِ",
+      "transliterasi": "al‑thamarāti",
+      "jenis_kata": "Isim",
+      "arti": "buah‑buahan",
+      "sharaf": {
+        "akar_kata": "ث م ر",
+        "makna_dasar": "buah",
+        "wazan_perubahan": "mafʿala (jamak)"
+      },
+      "nahwu": {
+        "kedudukan": "objek (majrur) dari preposisi “min” setelah “kulli”",
+        "irab_dan_logika": "kasrah karena berjarak dengan preposisi “min”"
+      },
+      "hikmah": "menunjukkan keberagaman dan kelimpahan rezeki yang dikeluarkan Allah melalui hujan",
+      "role": "none"
+    },
+    {
+      "index": 25,
+      "kata_arab": "ۚ",
+      "transliterasi": "waqf",
+      "jenis_kata": "Huruf",
+      "arti": "tanda waqaf (tanda berhenti)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca, tidak berirab",
+        "irab_dan_logika": "menandakan jeda dalam bacaan"
+      },
+      "hikmah": "memperjelas jeda makna antar frasa",
+      "role": "none"
+    },
+    {
+      "index": 26,
+      "kata_arab": "كَذَٰلِكَ",
+      "transliterasi": "kadzālika",
+      "jenis_kata": "Huruf",
+      "arti": "demikian itu",
+      "sharaf": {
+        "akar_kata": "ك ظ ل",
+        "makna_dasar": "seperti itu",
+        "wazan_perubahan": "isim dharri (demonstratif)"
+      },
+      "nahwu": {
+        "kedudukan": "keterangan cara (adverbia) yang menjelaskan cara Allah mengeluarkan buah‑buah",
+        "irab_dan_logika": "nasb (fatḥah) karena berfungsi sebagai isim dharri"
+      },
+      "hikmah": "menegaskan bahwa cara Allah menurunkan rezeki bersifat teratur dan dapat dipelajari",
+      "role": "none"
+    },
+    {
+      "index": 27,
+      "kata_arab": "نُخْرِجُ",
+      "transliterasi": "nukhriǧu",
+      "jenis_kata": "Fiʿil",
+      "arti": "Kami mengeluarkan",
+      "sharaf": {
+        "akar_kata": "خ ر ج",
+        "makna_dasar": "keluar",
+        "wazan_perubahan": "mustafʿil (مُفْعِل) dalam bentuk mudhariʿ"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja utama (fiʿl) dalam ayat",
+        "irab_dan_logika": "marfuʿ dengan dammah karena mudhariʿ berindikatif"
+      },
+      "hikmah": "menunjukkan kuasa Allah yang aktif menghidupkan kembali apa yang mati, termasuk buah‑buah dan orang mati",
+      "role": "none"
+    },
+    {
+      "index": 28,
+      "kata_arab": "ٱلْمَوْتَىٰ",
+      "transliterasi": "al‑mawtā",
+      "jenis_kata": "Isim",
+      "arti": "orang mati",
+      "sharaf": {
+        "akar_kata": "م و ت",
+        "makna_dasar": "mati",
+        "wazan_perubahan": "isim mafʿul (مَفْعُول)"
+      },
+      "nahwu": {
+        "kedudukan": "objek (mansub) dari fiʿl “nukhriǧu”",
+        "irab_dan_logika": "nasb (fatḥah) karena menjadi mafʿul bih"
+      },
+      "hikmah": "menyiratkan kebangkitan Allah atas yang telah mati sebagai bukti kekuasaan-Nya",
+      "role": "none"
+    },
+    {
+      "index": 29,
+      "kata_arab": "لَعَلَّكُمْ",
+      "transliterasi": "laʿallakum",
+      "jenis_kata": "Huruf",
+      "arti": "agar kamu",
+      "sharaf": {
+        "akar_kata": "ل ع ل",
+        "makna_dasar": "harapan, keinginan",
+        "wazan_perubahan": "huruf (particle)"
+      },
+      "nahwu": {
+        "kedudukan": "huruf nafiʿ (particle) yang memperkenalkan fiʿl jussif “tuminūna”",
+        "irab_dan_logika": "huruf, tidak berirab; menimbulkan sukun pada fiʿl berikutnya"
+      },
+      "hikmah": "menyiratkan tujuan Allah menurunkan rahmat agar manusia beriman dan mengambil pelajaran",
+      "role": "none"
+    },
+    {
+      "index": 30,
+      "kata_arab": "تَذَكَّرُونَ",
+      "transliterasi": "tadhakkarūna",
+      "jenis_kata": "Fi'il",
+      "arti": "kamu mengingat atau menyadari",
+      "sharaf": {
+        "akar_kata": "ذ-ك-ر",
+        "makna_dasar": "mengingat, mengingatkan",
+        "wazan_perubahan": "تَفَعَّل"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع بالواو للرفع ضمن جملة دعوة",
+        "irab_dan_logika": "مرفوع بالضمة الظاهرة على الواو لأن الفعل مضارع مرفوع وعلامة رفعه الواو للرفع"
+      },
+      "hikmah": "Mengajak manusia untuk selalu mengingat nikmat Allah dan pelajaran dari alam, sehingga tidak lalai.",
+      "role": "none"
+    }
+  ]
+}
