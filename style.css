@@ -1491,3 +1491,23 @@ select {
     font-size: 0.7rem;
     padding: 1px 6px;
 }
+
+.mushaf-asbab-icon {
+    color: var(--secondary-color);
+    font-size: 0.9rem;
+    margin-left: 8px;
+    vertical-align: middle;
+    opacity: 0.8;
+    cursor: default;
+    transition: transform 0.2s, opacity 0.2s;
+    display: inline-block;
+}
+
+.mushaf-asbab-icon:hover {
+    opacity: 1;
+    transform: scale(1.2);
+}
+
+[data-theme="dark"] .mushaf-asbab-icon {
+    color: #27ae60;
+}

@@ -733,11 +733,15 @@ function renderMushafPage() {
         const words = text.split(/\s+/).filter(w => w.trim() !== "");
 
         // Asbabun Nuzul Badge logic
+        const hasAsbab = asbabunNuzulIndex && 
+                         asbabunNuzulIndex[ayah.surah.number] && 
+                         asbabunNuzulIndex[ayah.surah.number].includes(ayah.numberInSurah);
+
         let asbabBadgeHtml = '';
-        if (asbabunNuzulIndex && 
-            asbabunNuzulIndex[ayah.surah.number] && 
-            asbabunNuzulIndex[ayah.surah.number].includes(ayah.numberInSurah)) {
+        let asbabIconHtml = '';
+        if (hasAsbab) {
             asbabBadgeHtml = `<span class="asbab-badge mushaf-asbab-badge" title="Ayat ini memiliki riwayat Asbabun Nuzul"><i class="fas fa-history"></i> Asbabun Nuzul</span>`;
+            asbabIconHtml = `<span class="mushaf-asbab-icon" title="Asbabun Nuzul"><i class="fas fa-history"></i></span>`;
         }
 
         // Build the ayah marker HTML
@@ -749,7 +753,7 @@ function renderMushafPage() {
         let wordsHtml = words.map((w, wIndex) => {
             let actualWordIndex = wIndex + wordIndexOffset;
             return `<span class="mushaf-word" data-surah="${ayah.surah.number}" data-ayah="${ayah.numberInSurah}" data-index="${actualWordIndex}">${w}</span>`;
-        }).join(' ') + ' ' + markerHtml;
+        }).join(' ') + ' ' + markerHtml + ' ' + asbabIconHtml;
 
         if (showTranslation) {
             const transText = currentMushafData.translations[index].text;
