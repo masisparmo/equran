@@ -741,8 +741,8 @@ function renderMushafPage() {
         let asbabBadgeHtml = '';
         let asbabIconHtml = '';
         if (hasAsbab) {
-            asbabBadgeHtml = `<span class="asbab-badge mushaf-asbab-badge" title="Ayat ini memiliki riwayat Asbabun Nuzul"><i class="fas fa-history"></i> Asbabun Nuzul</span>`;
-            asbabIconHtml = `<span class="mushaf-asbab-icon" title="Asbabun Nuzul" style="cursor:help;"> <i class="fas fa-history"></i></span>`;
+            asbabBadgeHtml = `<span class="asbab-badge mushaf-asbab-badge" title="Ayat ini memiliki riwayat Asbabun Nuzul"><i class="fas fa-scroll"></i> Asbabun Nuzul</span>`;
+            asbabIconHtml = `<span class="mushaf-asbab-icon" title="Asbabun Nuzul" style="cursor:help;"> <i class="fas fa-scroll"></i></span>`;
         }
 
         // Build the ayah marker HTML

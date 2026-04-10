@@ -1493,21 +1493,31 @@ select {
 }
 
 .mushaf-asbab-icon {
-    color: var(--secondary-color);
-    font-size: 0.9rem;
-    margin-left: 8px;
+    color: #d35400; /* Rich orange/brown for historical context */
+    font-size: 0.95rem;
+    margin-left: 10px;
     vertical-align: middle;
-    opacity: 0.8;
-    cursor: default;
-    transition: transform 0.2s, opacity 0.2s;
-    display: inline-block;
+    opacity: 0.9;
+    cursor: help;
+    transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 26px;
+    height: 26px;
+    border-radius: 50%;
+    background-color: rgba(211, 84, 0, 0.1); /* Subtle themed background */
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
 }
 
 .mushaf-asbab-icon:hover {
     opacity: 1;
-    transform: scale(1.2);
+    transform: scale(1.15) rotate(-5deg);
+    background-color: rgba(211, 84, 0, 0.15);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
 
 [data-theme="dark"] .mushaf-asbab-icon {
-    color: #27ae60;
+    color: #e67e22;
+    background-color: rgba(230, 126, 34, 0.15);
 }
