@@ -1455,3 +1455,39 @@ select {
 .chat-message.ai hr {
     display: none;
 }
+
+/* Asbabun Nuzul Badge */
+.asbab-badge {
+    background-color: var(--secondary-color);
+    color: #fff;
+    padding: 2px 8px;
+    border-radius: 12px;
+    font-size: 0.8rem;
+    font-weight: 600;
+    margin-left: 10px;
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    vertical-align: middle;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.asbab-badge i {
+    font-size: 0.75rem;
+}
+
+[data-theme="dark"] .asbab-badge {
+    background-color: #27ae60; /* Slightly darker green for dark mode */
+}
+
+.mushaf-translation-text {
+    position: relative;
+    display: block;
+}
+
+.mushaf-asbab-badge {
+    display: inline-flex;
+    margin-bottom: 5px;
+    font-size: 0.7rem;
+    padding: 1px 6px;
+}

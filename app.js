@@ -99,11 +99,13 @@ let currentTafsirSurahSource = null; // Cache source tracking
 // --- API Variables ---
 const quranApiBaseUrl = 'https://api.alquran.cloud/v1';
 const gasBackendUrl = 'https://script.google.com/macros/s/AKfycbz6LH6bOoAYpzqtS91sn-g_ZHH-WJZvg_1eK4lBg4Vqvly9iTe8SPIxMSRQ-5Ox4vt6SA/exec';
-const githubDataUrl = 'https://equran.isparmo.com/equran-data';
+const githubDataUrl = './equran-data';
 let surahsData = [];
 let currentSurahData = null; // Store fetched data for current surah
 let currentAyahsIndo = null; // Store translations
 let currentAudioUrls = null;
+let asbabunNuzulIndex = null; // Store verses that have Asbabun Nuzul
+
 
 // --- Migration System (localStorage to IndexedDB) ---
 async function migrateLocalStorageToIndexedDB() {
@@ -171,6 +173,9 @@ async function init() {
     fetchSurahs();
     loadApiKeys();
     initQuranSearchData();
+    await loadAsbabunNuzulIndex();
+
+
 
     // Check if we need to show welcome modal on first load
     if (apiKeys.length === 0 && !sessionStorage.getItem('welcome_dismissed')) {
@@ -727,6 +732,14 @@ function renderMushafPage() {
         // Split text by space
         const words = text.split(/\s+/).filter(w => w.trim() !== "");
 
+        // Asbabun Nuzul Badge logic
+        let asbabBadgeHtml = '';
+        if (asbabunNuzulIndex && 
+            asbabunNuzulIndex[ayah.surah.number] && 
+            asbabunNuzulIndex[ayah.surah.number].includes(ayah.numberInSurah)) {
+            asbabBadgeHtml = `<span class="asbab-badge mushaf-asbab-badge" title="Ayat ini memiliki riwayat Asbabun Nuzul"><i class="fas fa-history"></i> Asbabun Nuzul</span>`;
+        }
+
         // Build the ayah marker HTML
         const markerHtml = showTranslation
             ? `<button class="mushaf-end-ayah-block" data-surah="${ayah.surah.number}" data-ayah="${ayah.numberInSurah}" aria-label="Tafsir Ayat ${ayah.numberInSurah}">۝${ayahNumAr}</button>`
@@ -744,7 +757,8 @@ function renderMushafPage() {
             <div class="mushaf-ayah-block">
                 <div class="mushaf-ayah" style="display:block;text-align:right;direction:rtl;word-spacing:normal;">${wordsHtml}</div>
                 <span class="mushaf-translation-text">
-                    <button class="mushaf-tafsir-btn" data-surah="${ayah.surah.number}" data-ayah="${ayah.numberInSurah}" title="Lihat Tafsir Ibnu Katsir"><i class="fas fa-book-open"></i></button>
+                    <button class="mushaf-tafsir-btn" data-surah="${ayah.surah.number}" data-ayah="${ayah.numberInSurah}" title="Lihat Tafsir"><i class="fas fa-book-open"></i></button>
+                    ${asbabBadgeHtml}
                     ${ayah.numberInSurah}. ${transText}
                 </span>
             </div>`;
@@ -1046,7 +1060,21 @@ function initKeyboardListeners() {
     });
 }
 
+async function loadAsbabunNuzulIndex() {
+    try {
+        const response = await fetch(`${githubDataUrl}/asbabun_nuzul_index.json`);
+        if (response.ok) {
+            asbabunNuzulIndex = await response.json();
+            console.log("Asbabun Nuzul index loaded:", Object.keys(asbabunNuzulIndex).length, "surahs found.");
+        }
+
+    } catch (error) {
+        console.warn("Could not load Asbabun Nuzul index:", error);
+    }
+}
+
 async function fetchSurahs() {
+
     const surahSelect = document.getElementById('surah-select');
     showLoading();
     try {
@@ -1238,6 +1266,29 @@ function displayAyah(ayahNumberInSurah) {
     const ayahAudio = currentAudioUrls[ayahIndex];
 
     document.getElementById('current-surah-name').textContent = `${currentSurahData.englishName} - Ayat ${ayahNumberInSurah}`;
+
+    // Show Asbabun Nuzul badge if exists
+    const currentSurahNumForBadge = currentSurahData.number;
+    const existingBadge = document.querySelector('.asbab-badge-home');
+    if (existingBadge) existingBadge.remove();
+
+    console.log(`Checking Asbabun Nuzul for S${currentSurahNumForBadge} A${ayahNumberInSurah}`);
+    if (asbabunNuzulIndex && 
+        asbabunNuzulIndex[currentSurahNumForBadge] && 
+        asbabunNuzulIndex[currentSurahNumForBadge].includes(ayahNumberInSurah)) {
+        console.log("Badge found, attaching...");
+        const badge = document.createElement('span');
+        badge.className = 'asbab-badge asbab-badge-home';
+        badge.innerHTML = `<i class="fas fa-history"></i> Asbabun Nuzul`;
+        badge.title = "Ayat ini memiliki riwayat Asbabun Nuzul";
+        
+        const header = document.querySelector('.ayah-header');
+        if (header) {
+            header.appendChild(badge);
+        }
+    }
+
+
 
     // Process Arabic text into words
     // We remove the Bismillah if it's not Al-Fatihah Ayah 1, as the API sometimes includes it inline
