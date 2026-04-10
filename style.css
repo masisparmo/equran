@@ -1521,3 +1521,84 @@ select {
     color: #e67e22;
     background-color: rgba(230, 126, 34, 0.15);
 }
+
+/* Bookmark Styles */
+.mushaf-bookmark-icon {
+    color: var(--text-muted);
+    font-size: 0.95rem;
+    margin-left: 10px;
+    vertical-align: middle;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 26px;
+    height: 26px;
+    border-radius: 50%;
+    background-color: rgba(0, 0, 0, 0.05);
+}
+
+.mushaf-bookmark-icon.active {
+    color: #f1c40f; /* Gold/Yellow for active bookmark */
+    background-color: rgba(241, 196, 15, 0.15);
+    opacity: 1;
+}
+
+.mushaf-bookmark-icon:hover {
+    transform: scale(1.2);
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+[data-theme="dark"] .mushaf-bookmark-icon {
+    background-color: rgba(255, 255, 255, 0.05);
+}
+
+/* Bookmark List Styles */
+.bookmark-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px 15px;
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    background-color: var(--bg-color);
+    transition: all 0.2s ease;
+    cursor: pointer;
+}
+
+.bookmark-item:hover {
+    border-color: var(--secondary-color);
+    transform: translateX(-5px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+.bookmark-info {
+    flex-grow: 1;
+}
+
+.bookmark-title {
+    font-weight: bold;
+    color: var(--primary-color);
+    margin: 0;
+}
+
+.bookmark-meta {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    margin-top: 4px;
+}
+
+.delete-bookmark-btn {
+    padding: 8px;
+    color: #e74c3c;
+    background: none;
+    border: none;
+    cursor: pointer;
+    transition: transform 0.2s;
+    font-size: 1.1rem;
+}
+
+.delete-bookmark-btn:hover {
+    transform: scale(1.2);
+}

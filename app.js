@@ -105,6 +105,7 @@ let currentSurahData = null; // Store fetched data for current surah
 let currentAyahsIndo = null; // Store translations
 let currentAudioUrls = null;
 let asbabunNuzulIndex = null; // Store verses that have Asbabun Nuzul
+let userBookmarks = []; // Store user saved verses
 
 
 // --- Migration System (localStorage to IndexedDB) ---
@@ -174,6 +175,7 @@ async function init() {
     loadApiKeys();
     initQuranSearchData();
     await loadAsbabunNuzulIndex();
+    await loadBookmarks();
 
 
 
@@ -388,7 +390,33 @@ function setupEventListeners() {
             const plainWord = wordTarget.textContent;
             handleWordClick(plainWord, surahNum, ayahNum, wordIndex, wordTarget);
         }
+
+        // 3. Handle Bookmark Toggles
+        const bookmarkToggle = e.target.closest('.mushaf-bookmark-icon');
+        if (bookmarkToggle) {
+            e.preventDefault();
+            const surah = parseInt(bookmarkToggle.dataset.surah);
+            const ayah = parseInt(bookmarkToggle.dataset.ayah);
+            const page = parseInt(bookmarkToggle.dataset.page);
+            const surahName = bookmarkToggle.dataset.surahName;
+            toggleBookmark(surah, ayah, page, surahName);
+        }
     });
+
+    const bookmarkHistoryBtn = document.getElementById('bookmark-history-btn');
+    const bookmarkModal = document.getElementById('bookmark-modal');
+    const closeBookmarkModalBtn = document.getElementById('close-bookmark-modal');
+
+    if (bookmarkHistoryBtn) {
+        bookmarkHistoryBtn.addEventListener('click', () => {
+            renderBookmarkHistory();
+            openModal(bookmarkModal);
+        });
+    }
+
+    if (closeBookmarkModalBtn) {
+        closeBookmarkModalBtn.addEventListener('click', () => closeModal(bookmarkModal));
+    }
 
     // Close Modals with Escape key
     window.addEventListener('keydown', (e) => {
@@ -751,6 +779,17 @@ function renderMushafPage() {
             asbabIconHtml = `<span class="mushaf-asbab-icon" title="Klik untuk Asbabun Nuzul" style="cursor:pointer;" data-surah="${ayah.surah.number}" data-ayah="${ayah.numberInSurah}"> <i class="fas fa-scroll"></i></span>`;
         }
 
+        // Bookmark logic
+        const isBookmarked = userBookmarks.some(b => b.surah === ayah.surah.number && b.ayah === ayah.numberInSurah);
+        const bookmarkIconHtml = `<span class="mushaf-bookmark-icon ${isBookmarked ? 'active' : ''}" 
+            title="${isBookmarked ? 'Hapus dari Bookmark' : 'Simpan ke Bookmark'}" 
+            data-surah="${ayah.surah.number}" 
+            data-ayah="${ayah.numberInSurah}" 
+            data-page="${currentMushafData.page}" 
+            data-surah-name="${ayah.surah.englishName}">
+            <i class="${isBookmarked ? 'fas' : 'far'} fa-bookmark"></i>
+        </span>`;
+
         // Build the ayah marker HTML
         const markerHtml = showTranslation
             ? `<button class="mushaf-end-ayah-block" data-surah="${ayah.surah.number}" data-ayah="${ayah.numberInSurah}" aria-label="Tafsir Ayat ${ayah.numberInSurah}">۝${ayahNumAr}</button>`
@@ -760,7 +799,7 @@ function renderMushafPage() {
         let wordsHtml = words.map((w, wIndex) => {
             let actualWordIndex = wIndex + wordIndexOffset;
             return `<span class="mushaf-word" data-surah="${ayah.surah.number}" data-ayah="${ayah.numberInSurah}" data-index="${actualWordIndex}">${w}</span>`;
-        }).join(' ') + ' ' + markerHtml + ' ' + asbabIconHtml;
+        }).join(' ') + ' ' + markerHtml + ' ' + bookmarkIconHtml + ' ' + asbabIconHtml;
 
         if (showTranslation) {
             const transText = currentMushafData.translations[index].text;
@@ -1280,14 +1319,21 @@ function displayAyah(ayahNumberInSurah) {
 
     // Show Asbabun Nuzul badge if exists
     const currentSurahNumForBadge = currentSurahData.number;
+    
+    // Cleanup existing badges
     const existingBadge = document.querySelector('.asbab-badge-home');
     if (existingBadge) existingBadge.remove();
+    const existingBookmarkBadge = document.querySelector('.bookmark-badge-home');
+    if (existingBookmarkBadge) existingBookmarkBadge.remove();
 
+    const header = document.querySelector('.ayah-header');
+    if (!header) return;
+
+    // 1. Asbabun Nuzul Badge
     console.log(`Checking Asbabun Nuzul for S${currentSurahNumForBadge} A${ayahNumberInSurah}`);
     if (asbabunNuzulIndex && 
         asbabunNuzulIndex[currentSurahNumForBadge] && 
         asbabunNuzulIndex[currentSurahNumForBadge].includes(ayahNumberInSurah)) {
-        console.log("Badge found, attaching...");
         const badge = document.createElement('span');
         badge.className = 'asbab-badge asbab-badge-home';
         badge.style.cursor = 'pointer';
@@ -1295,12 +1341,22 @@ function displayAyah(ayahNumberInSurah) {
         badge.dataset.ayah = ayahNumberInSurah;
         badge.innerHTML = `<i class="fas fa-scroll"></i> Asbabun Nuzul`;
         badge.title = "Klik untuk membuka riwayat Asbabun Nuzul";
-        
-        const header = document.querySelector('.ayah-header');
-        if (header) {
-            header.appendChild(badge);
-        }
+        header.appendChild(badge);
     }
+
+    // 2. Bookmark Badge
+    const isBookmarked = userBookmarks.some(b => b.surah === currentSurahNumForBadge && b.ayah === ayahNumberInSurah);
+    const bookmarkBadge = document.createElement('span');
+    bookmarkBadge.className = `asbab-badge bookmark-badge-home mushaf-bookmark-icon ${isBookmarked ? 'active' : ''}`;
+    bookmarkBadge.style.cursor = 'pointer';
+    bookmarkBadge.dataset.surah = currentSurahNumForBadge;
+    bookmarkBadge.dataset.ayah = ayahNumberInSurah;
+    // Estimate page from API if possible, otherwise use 1 for Home bookmarks
+    bookmarkBadge.dataset.page = ayahAr.page || 1; 
+    bookmarkBadge.dataset.surahName = currentSurahData.englishName;
+    bookmarkBadge.innerHTML = `<i class="${isBookmarked ? 'fas' : 'far'} fa-bookmark"></i> ${isBookmarked ? 'Saved' : 'Bookmark'}`;
+    bookmarkBadge.title = isBookmarked ? "Hapus dari Bookmark" : "Simpan ke Bookmark";
+    header.appendChild(bookmarkBadge);
 
 
 
@@ -3218,5 +3274,120 @@ async function openTafsirModal(surahNum, ayahNum) {
         tafsirContent.style.display = 'block';
     } finally {
         tafsirLoading.style.display = 'none';
+    }
+}
+
+// --- Bookmark Logic ---
+async function loadBookmarks() {
+    try {
+        const stored = await localforage.getItem('user_bookmarks');
+        if (stored) userBookmarks = stored;
+        console.log("Bookmarks loaded:", userBookmarks.length);
+    } catch (e) {
+        console.warn("Failed to load bookmarks:", e);
+    }
+}
+
+async function saveBookmarks() {
+    try {
+        await localforage.setItem('user_bookmarks', userBookmarks);
+    } catch (e) {
+        console.warn("Failed to save bookmarks:", e);
+    }
+}
+
+function toggleBookmark(surah, ayah, page, surahName) {
+    const existingIndex = userBookmarks.findIndex(b => b.surah === surah && b.ayah === ayah);
+    if (existingIndex !== -1) {
+        userBookmarks.splice(existingIndex, 1);
+        console.log(`Bookmark removed: ${surahName} ${ayah}`);
+    } else {
+        userBookmarks.push({
+            id: Date.now().toString(),
+            surah: surah,
+            ayah: ayah,
+            page: page,
+            surahName: surahName,
+            timestamp: new Date().toLocaleDateString('id-ID', { day: 'numeric', month: 'short', year: 'numeric' })
+        });
+        console.log(`Bookmark added: ${surahName} ${ayah}`);
+    }
+    saveBookmarks();
+    
+    // Refresh UI
+    if (currentMode === 'mushaf') {
+        renderMushafPage();
+    } else {
+        displayAyah(ayah);
+    }
+}
+
+function renderBookmarkHistory() {
+    const container = document.getElementById('bookmark-list-container');
+    const noMsg = document.getElementById('no-bookmarks-msg');
+    
+    // Clear existing
+    const existingItems = container.querySelectorAll('.bookmark-item');
+    existingItems.forEach(item => item.remove());
+
+    if (userBookmarks.length === 0) {
+        noMsg.style.display = 'block';
+        return;
+    }
+
+    noMsg.style.display = 'none';
+    
+    // Sort by newest first
+    const sorted = [...userBookmarks].reverse();
+
+    sorted.forEach(item => {
+        const div = document.createElement('div');
+        div.className = 'bookmark-item';
+        div.innerHTML = `
+            <div class="bookmark-info" onclick="goToBookmark(${item.surah}, ${item.ayah}, ${item.page})">
+                <p class="bookmark-title">${item.surahName} - Ayat ${item.ayah}</p>
+                <p class="bookmark-meta">Halaman ${item.page} • Disimpan pada ${item.timestamp}</p>
+            </div>
+            <button class="delete-bookmark-btn" title="Hapus Bookmark" onclick="event.stopPropagation(); deleteBookmarkManual('${item.id}')">
+                <i class="fas fa-trash-alt"></i>
+            </button>
+        `;
+        container.appendChild(div);
+    });
+}
+
+function deleteBookmarkManual(id) {
+    userBookmarks = userBookmarks.filter(b => b.id !== id);
+    saveBookmarks();
+    renderBookmarkHistory();
+    
+    // Refresh Mushaf if active to sync toggle icons
+    if (currentMode === 'mushaf') renderMushafPage();
+}
+
+function goToBookmark(surah, ayah, page) {
+    closeModal(document.getElementById('bookmark-modal'));
+    
+    // Navigation Logic
+    if (currentMode !== 'mushaf') {
+        switchMode('mushaf');
+    }
+
+    // Set page and trigger load
+    const pageInput = document.getElementById('mushaf-page-input');
+    if (pageInput) {
+        pageInput.value = page;
+        // The change event should trigger fetchMushafPage
+        pageInput.dispatchEvent(new Event('change'));
+        
+        // After a delay to allow loading, scroll to that ayah
+        setTimeout(() => {
+            const marker = document.querySelector(`.mushaf-end-ayah[data-ayah="${ayah}"], .mushaf-end-ayah-block[data-ayah="${ayah}"]`);
+            if (marker) {
+                marker.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                marker.style.outline = '2px solid var(--secondary-color)';
+                setTimeout(() => marker.style.outline = 'none', 3000);
+            }
+        }, 1500);
     }
 }

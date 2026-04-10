@@ -32,6 +32,7 @@
         <div class="controls">
             <button id="home-btn" title="Kembali ke Beranda"><i class="fas fa-home"></i> <span class="nav-text">Home</span></button>
             <button id="mushaf-btn" title="Mode Mushaf Madinah"><i class="fas fa-quran"></i> <span class="nav-text">Mushaf</span></button>
+            <button id="bookmark-history-btn" title="Daftar Bookmark / Simpanan Ayat"><i class="fas fa-bookmark"></i> <span class="nav-text">Bookmark</span></button>
             <button id="help-btn" title="Panduan Nahwu & Sharaf"><i class="fas fa-book"></i> <span class="nav-text">Help</span></button>
             <button id="about-btn" title="Tentang Aplikasi"><i class="fas fa-info-circle"></i> <span class="nav-text">About</span></button>
             <button id="theme-toggle" title="Toggle Dark/Light Mode"><i class="fas fa-moon"></i></button>
@@ -912,6 +913,21 @@
                 <button id="send-global-chat-btn" class="detail-btn" style="background-color: var(--secondary-color); color: #fff; padding: 10px 20px;">
                     <i class="fas fa-paper-plane"></i> Kirim
                 </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bookmark History Modal -->
+    <div id="bookmark-modal" class="modal">
+        <div class="modal-content card" style="max-width: 600px; max-height: 80vh; display: flex; flex-direction: column;">
+            <span class="close-btn" id="close-bookmark-modal">&times;</span>
+            <div class="modal-header-actions" style="border-bottom: 1px solid var(--border-color); padding-bottom: 10px; margin-bottom: 15px;">
+                <h2 style="color: var(--primary-color); font-size: 1.5rem; margin: 0;"><i class="fas fa-bookmark"></i> Bookmark & Riwayat Simpanan</h2>
+                <p style="font-size: 0.9rem; margin-top: 5px; color: var(--text-muted);">Ayat-ayat yang Anda tandai untuk dibaca nanti</p>
+            </div>
+            <div id="bookmark-list-container" style="overflow-y: auto; flex-grow: 1; padding-right: 10px; display: flex; flex-direction: column; gap: 10px;">
+                <!-- Bookmark items will be injected here -->
+                <p id="no-bookmarks-msg" style="text-align: center; color: var(--text-muted); padding: 20px;">Belum ada ayat yang di-bookmark.</p>
             </div>
         </div>
     </div>
