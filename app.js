@@ -733,15 +733,16 @@ function renderMushafPage() {
         const words = text.split(/\s+/).filter(w => w.trim() !== "");
 
         // Asbabun Nuzul Badge logic
+        const surahNumKey = String(ayah.surah.number);
         const hasAsbab = asbabunNuzulIndex && 
-                         asbabunNuzulIndex[ayah.surah.number] && 
-                         asbabunNuzulIndex[ayah.surah.number].includes(ayah.numberInSurah);
+                         asbabunNuzulIndex[surahNumKey] && 
+                         asbabunNuzulIndex[surahNumKey].includes(ayah.numberInSurah);
 
         let asbabBadgeHtml = '';
         let asbabIconHtml = '';
         if (hasAsbab) {
             asbabBadgeHtml = `<span class="asbab-badge mushaf-asbab-badge" title="Ayat ini memiliki riwayat Asbabun Nuzul"><i class="fas fa-history"></i> Asbabun Nuzul</span>`;
-            asbabIconHtml = `<span class="mushaf-asbab-icon" title="Asbabun Nuzul"><i class="fas fa-history"></i></span>`;
+            asbabIconHtml = `<span class="mushaf-asbab-icon" title="Asbabun Nuzul" style="cursor:help;"> <i class="fas fa-history"></i></span>`;
         }
 
         // Build the ayah marker HTML
