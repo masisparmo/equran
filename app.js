@@ -1,4 +1,5 @@
 // State Variables
+let currentMode = 'home'; // Tracking active mode (home/mushaf)
 let currentSurah = null;
 let currentAyah = null;
 let apiKeys = [];
