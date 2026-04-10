@@ -88,7 +88,7 @@ const tafsirContent = document.getElementById('tafsir-content');
 const tafsirLoading = document.getElementById('tafsir-loading');
 const tafsirBtn = document.getElementById('tafsir-btn');
 
-let currentMushafData = { ayahs: [], translations: [] }; // Store current page data
+let currentMushafData = { ayahs: [], translations: [], page: null }; // Store current page data
 let currentWordContext = {}; // Store context for detail explanation
 let currentDeepExplainText = ""; // Store plain markdown text for download/copy
 let chatSessionHistory = []; // Store conversational context for the chat API
@@ -666,6 +666,7 @@ async function fetchMushafPage(pageNumber) {
         // Save current page data for toggle re-rendering
         currentMushafData.ayahs = tajweedData.data.ayahs;
         currentMushafData.translations = translationData.data.ayahs;
+        currentMushafData.page = pageNumber;
 
         // Update input values to match current page's first ayah
         const firstAyah = tajweedData.data.ayahs[0];
@@ -3306,7 +3307,7 @@ function toggleBookmark(surah, ayah, page, surahName) {
             id: Date.now().toString(),
             surah: surah,
             ayah: ayah,
-            page: page,
+            page: !isNaN(page) ? page : (parseInt(document.getElementById('mushaf-page-input').value) || 1),
             surahName: surahName,
             timestamp: new Date().toLocaleDateString('id-ID', { day: 'numeric', month: 'short', year: 'numeric' })
         });
@@ -3341,12 +3342,13 @@ function renderBookmarkHistory() {
     const sorted = [...userBookmarks].reverse();
 
     sorted.forEach(item => {
+        const displayPage = !isNaN(item.page) && item.page ? `Halaman ${item.page}` : 'Mode Beranda';
         const div = document.createElement('div');
         div.className = 'bookmark-item';
         div.innerHTML = `
             <div class="bookmark-info" onclick="goToBookmark(${item.surah}, ${item.ayah}, ${item.page})">
                 <p class="bookmark-title">${item.surahName} - Ayat ${item.ayah}</p>
-                <p class="bookmark-meta">Halaman ${item.page} • Disimpan pada ${item.timestamp}</p>
+                <p class="bookmark-meta">${displayPage} • Disimpan pada ${item.timestamp}</p>
             </div>
             <button class="delete-bookmark-btn" title="Hapus Bookmark" onclick="event.stopPropagation(); deleteBookmarkManual('${item.id}')">
                 <i class="fas fa-trash-alt"></i>
