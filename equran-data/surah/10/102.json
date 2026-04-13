@@ -1,0 +1,294 @@
+{
+  "surah": 10,
+  "ayah": 102,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "فَهَلْ",
+      "transliterasi": "fa-hal",
+      "jenis_kata": "Huruf",
+      "arti": "apakah",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "kata tanya di awal ayat",
+        "irab_dan_logika": "huruf istifham, tidak berirab; menandakan pertanyaan"
+      },
+      "hikmah": "menyampaikan pertanyaan retoris untuk menegaskan ketidaktahuan atau menantang pendengar",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "يَنتَظِرُونَ",
+      "transliterasi": "yantaẓirūna",
+      "jenis_kata": "Fi'il",
+      "arti": "menunggu",
+      "sharaf": {
+        "akar_kata": "ن ظ ر",
+        "makna_dasar": "menunggu, mengharapkan",
+        "wazan_perubahan": "فعل مضارع مرفوع بالواو والنون"
+      },
+      "nahwu": {
+        "kedudukan": "predikat (fi'il) dalam kalimat",
+        "irab_dan_logika": "مرفوع بالواو لأنه فعل مضارع مرفوع"
+      },
+      "hikmah": "menunjukkan tindakan aktif menanti sesuatu yang belum terjadi",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "إِلَّا",
+      "transliterasi": "illā",
+      "jenis_kata": "Huruf",
+      "arti": "kecuali",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "huruf istithna' (pengecualian)",
+        "irab_dan_logika": "tidak berirab, berfungsi menghalangi kata sesudahnya"
+      },
+      "hikmah": "menandai batasan, menegaskan bahwa apa yang disebutkan selanjutnya adalah satu‑satunya pengecualian",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "مِثْلَ",
+      "transliterasi": "mithla",
+      "jenis_kata": "Isim",
+      "arti": "seperti",
+      "sharaf": {
+        "akar_kata": "م ث ل",
+        "makna_dasar": "kesamaan, persamaan",
+        "wazan_perubahan": "isim maf‘ūl"
+      },
+      "nahwu": {
+        "kedudukan": "isim setelah huruf istithna', berfungsi sebagai objek preposisi",
+        "irab_dan_logika": "منصوب بالفتحة karena termasuk dalam تركيب «إِلَّا مِثْلَ»"
+      },
+      "hikmah": "menyiratkan persamaan antara apa yang ditunggu dengan kejadian yang telah terjadi sebelumnya",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "أَيَّامِ",
+      "transliterasi": "ayyāmi",
+      "jenis_kata": "Isim",
+      "arti": "hari‑hari",
+      "sharaf": {
+        "akar_kata": "ي و م",
+        "makna_dasar": "hari",
+        "wazan_perubahan": "isim jamak مَفْعُول"
+      },
+      "nahwu": {
+        "kedudukan": "isim yang berada dalam konstruksi «أَيَّامِ الَّذِينَ»",
+        "irab_dan_logika": "مجرور بالكسرة karena berhubungan dengan kata sebelumnya «مِثْلَ»"
+      },
+      "hikmah": "menunjuk pada rentang waktu yang dialami orang‑orang terdahulu",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "ٱلَّذِينَ",
+      "transliterasi": "alladhīna",
+      "jenis_kata": "Isim",
+      "arti": "orang‑orang yang",
+      "sharaf": {
+        "akar_kata": "ل ذ ي",
+        "makna_dasar": "yang",
+        "wazan_perubahan": "isim isyarah jamak"
+      },
+      "nahwu": {
+        "kedudukan": "isim moṣūl (kata ganti relatif) dalam frasa «أَيَّامِ الَّذِينَ»",
+        "irab_dan_logika": "مجرور بالكسرة karena mengikuti isim «أَيَّامِ»"
+      },
+      "hikmah": "merujuk kepada generasi atau kelompok orang terdahulu yang mengalami hari‑hari tersebut",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "خَلَوْا۟",
+      "transliterasi": "khalaw",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka meninggalkan",
+      "sharaf": {
+        "akar_kata": "ك ل و",
+        "makna_dasar": "tinggal, pergi",
+        "wazan_perubahan": "فَعَلوا (faʿala)"
+      },
+      "nahwu": {
+        "kedudukan": "predikat (fi'il madhi) setelah kata قَدْ",
+        "irab_dan_logika": "مرفوع بالضمة الظاهرة على آخره لأن الفعل الماضي مرفوع إذا لم يرد عليه حرف نصب"
+      },
+      "hikmah": "menunjukkan bahwa orang-orang sebelum mereka telah pergi/meninggalkan (menolak kebenaran)",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "مِن",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "huruf جر يربط بين خَلَوْا۟ و قَبْلِهِمْ",
+        "irab_dan_logika": "مجرور وعلامة جره الكسرة الظاهرة على آخره لأن حرف الجر يجر ما بعده"
+      },
+      "hikmah": "menunjukkan hubungan sebab‑akibat, yaitu meninggalkan *dari* masa sebelum mereka",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "قَبْلِهِمْ",
+      "transliterasi": "qablihim",
+      "jenis_kata": "Isim",
+      "arti": "sebelum mereka",
+      "sharaf": {
+        "akar_kata": "ق ب ل",
+        "makna_dasar": "sebelum",
+        "wazan_perubahan": "اسم زمان"
+      },
+      "nahwu": {
+        "kedudukan": "اسم زمان مجرور بحرف الجر مِن",
+        "irab_dan_logika": "مجرور وعلامة جره الكسرة، والضمير المتصل هم في محل جر مضاف إليه"
+      },
+      "hikmah": "menyiratkan bahwa kejadian yang sama telah terjadi pada generasi yang lebih dulu",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf",
+      "arti": "tanda waqaf",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca waqaf (فاصل) بين الجمل",
+        "irab_dan_logika": "ليس له إعراب، يوقف القراءة مؤقتًا"
+      },
+      "hikmah": "memisahkan antara bagian yang menyebut orang‑orang terdahulu dengan perintah selanjutnya",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "قُل",
+      "transliterasi": "qul",
+      "jenis_kata": "Fi'il",
+      "arti": "katakan",
+      "sharaf": {
+        "akar_kata": "ق و ل",
+        "makna_dasar": "berkata",
+        "wazan_perubahan": "فعل أمر"
+      },
+      "nahwu": {
+        "kedudukan": "فعل أمر مبني على السكون، والفاعل مستتر تقديره أنت",
+        "irab_dan_logika": "مبني على السكون لأنه فعل أمر"
+      },
+      "hikmah": "menyuruh Nabi menyampaikan perintah kepada orang-orang yang menunggu",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "فَٱنتَظِرُوٓا۟",
+      "transliterasi": "fa-antaẓirū",
+      "jenis_kata": "Fi'il",
+      "arti": "maka tunggulah",
+      "sharaf": {
+        "akar_kata": "ن ظ ر",
+        "makna_dasar": "menunggu",
+        "wazan_perubahan": "فعل أمر"
+      },
+      "nahwu": {
+        "kedudukan": "فعل أمر مبني على الضمة، والواو للرفع، الفاعل مستتر تقديره أنتم",
+        "irab_dan_logika": "مبني على الضمة لأن الفعل أمر"
+      },
+      "hikmah": "mengajak semua orang, termasuk pendengar, untuk menunggu datangnya hari kiamat",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "إِنِّى",
+      "transliterasi": "Inni",
+      "jenis_kata": "Huruf (particle)",
+      "arti": "Sesungguhnya Aku",
+      "sharaf": {
+        "akar_kata": "أن",
+        "makna_dasar": "bahwa, menegaskan",
+        "wazan_perubahan": "Tidak ada (huruf)"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf takdir di awal ayat, memperkenalkan pernyataan Allah",
+        "irab_dan_logika": "مُعْرَبٌ بالنَّصْبِ karena setelah حرف توكيد إِنَّ يُنصب الاسم أو الضمير المتبوع"
+      },
+      "hikmah": "Menegaskan kehadiran Allah yang menanti bersama umat",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "مَعَكُم",
+      "transliterasi": "ma‘akum",
+      "jenis_kata": "Huruf (preposisi) + ضمير متصل",
+      "arti": "bersama kamu",
+      "sharaf": {
+        "akar_kata": "مع",
+        "makna_dasar": "bersama, bersama-sama",
+        "wazan_perubahan": "Tidak ada"
+      },
+      "nahwu": {
+        "kedudukan": "Preposisi yang menghubungkan dengan kata sebelumnya (إِنِّى)",
+        "irab_dan_logika": "مجرور بالكسرة لأن حرف الجر مَعَ يتطلب جرّ الضمير المتصل"
+      },
+      "hikmah": "Allah berada di sisi mereka, menunggu bersama mereka",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "مِنَ",
+      "transliterasi": "mina",
+      "jenis_kata": "Huruf (preposisi)",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "من",
+        "makna_dasar": "asal, dari",
+        "wazan_perubahan": "Tidak ada"
+      },
+      "nahwu": {
+        "kedudukan": "Preposisi yang menghubungkan ke اسم الفاعل التالي",
+        "irab_dan_logika": "حرف جر لا يُعرب، والاسم التالي يُجرّ بالكسرة"
+      },
+      "hikmah": "Menunjukkan asal keanggotaan Allah termasuk orang‑orang yang menunggu",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "ٱلْمُنتَظِرِينَ",
+      "transliterasi": "al-muntazirīna",
+      "jenis_kata": "Isim Fa'il (اسم فاعل)",
+      "arti": "orang‑orang yang menunggu",
+      "sharaf": {
+        "akar_kata": "ن ظ ر",
+        "makna_dasar": "menunggu",
+        "wazan_perubahan": "مُفْتَعِل (مُنتَظِر)"
+      },
+      "nahwu": {
+        "kedudukan": "اسم مجرور بعد حرف الجر مِنَ",
+        "irab_dan_logika": "مجرور بالكسرة الظاهرة على آخره لأنّها مضافة إلى حرف الجر"
+      },
+      "hikmah": "Menyiratkan bahwa Allah termasuk golongan orang yang menanti bersama umat‑Nya",
+      "role": "none"
+    }
+  ]
+}

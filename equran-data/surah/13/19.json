@@ -1,0 +1,294 @@
+{
+  "surah": 13,
+  "ayah": 19,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "أَفَمَن",
+      "transliterasi": "afaman",
+      "jenis_kata": "Huruf (partikel pertanyaan) + Isim (man)",
+      "arti": "apakah orang",
+      "sharaf": {
+        "akar_kata": "م‑ن",
+        "makna_dasar": "siapa",
+        "wazan_perubahan": "tidak ada (kata benda/penunjuk)"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf pertanyaan yang membuka ayat, menghubungkan dengan ayat sebelumnya",
+        "irab_dan_logika": "مبني على السكون؛ karena termasuk huruf yang tidak berubah bentuk"
+      },
+      "hikmah": "Menunjukkan sikap bertanya yang menantang pendengar untuk memikirkan perbedaan antara yang melihat dan yang buta.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "يَعْلَمُ",
+      "transliterasi": "yaʿlamu",
+      "jenis_kata": "Fi'il (verb)",
+      "arti": "mengetahui",
+      "sharaf": {
+        "akar_kata": "ع‑ل‑م",
+        "makna_dasar": "mengetahui, mengerti",
+        "wazan_perubahan": "فَعَلَ (bentuk dasar), فعل مضارع مرفوع"
+      },
+      "nahwu": {
+        "kedudukan": "Predikat (fi'il) dalam klausa utama",
+        "irab_dan_logika": "مرفوع بالضمة الظاهرة على آخره لأنّه فعل مضارع مرفوع"
+      },
+      "hikmah": "Menegaskan bahwa pengetahuan adalah sifat yang hanya dimiliki oleh yang berakal.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "أَنَّمَآ",
+      "transliterasi": "annamā",
+      "jenis_kata": "Huruf (partikel penegas)",
+      "arti": "bahwa sesungguhnya",
+      "sharaf": {
+        "akar_kata": "ن‑م",
+        "makna_dasar": "bahwa, sesungguhnya",
+        "wazan_perubahan": "ليس له وزن صرفي (partikel)"
+      },
+      "nahwu": {
+        "kedudukan": "Partikel yang menguatkan makna kalimat berikutnya (menyatakan kepastian)",
+        "irab_dan_logika": "مبني على السكون؛ partikel tidak berubah"
+      },
+      "hikmah": "Memberi penekanan bahwa apa yang disebutkan selanjutnya adalah fakta yang tidak dapat diperdebatkan.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "أُنزِلَ",
+      "transliterasi": "unzila",
+      "jenis_kata": "Fi'il (verb pasif)",
+      "arti": "diturunkan",
+      "sharaf": {
+        "akar_kata": "ن‑ز‑ل",
+        "makna_dasar": "turun, menurunkan",
+        "wazan_perubahan": "أُفْعِلَ (bentuk pasif)"
+      },
+      "nahwu": {
+        "kedudukan": "Predikat dalam klausa yang menjelaskan apa yang diturunkan kepada Nabi",
+        "irab_dan_logika": "مبني على الفتح؛ فعل ماضٍ مبني على الفتح"
+      },
+      "hikmah": "Menegaskan sifat wahyu sebagai sesuatu yang diturunkan dari Allah, bukan hasil buatan manusia.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "إِلَيْكَ",
+      "transliterasi": "ilayka",
+      "jenis_kata": "Huruf (preposisi) + Isim (kata ganti)",
+      "arti": "kepadamu",
+      "sharaf": {
+        "akar_kata": "ل‑ي",
+        "makna_dasar": "ke arah, menuju",
+        "wazan_perubahan": "ليس له وزن صرفي (preposisi)"
+      },
+      "nahwu": {
+        "kedudukan": "Keterangan tempat (jar) yang menjelaskan arah turunnya wahyu",
+        "irab_dan_logika": "مجرور بالكسرة على الياء، والكسرة على كاف الضمير المتصل"
+      },
+      "hikmah": "Menunjukkan bahwa wahyu ditujukan secara khusus kepada Nabi Muhammad SAW.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "مِن",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf (preposisi)",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "menunjukkan asal atau sumber",
+        "wazan_perubahan": "ليس له وزن صرفي (preposisi)"
+      },
+      "nahwu": {
+        "kedudukan": "Preposisi yang menghubungkan kata berikutnya (ربك) sebagai sumber wahyu",
+        "irab_dan_logika": "مجرور بالكسرة على النون"
+      },
+      "hikmah": "Menegaskan bahwa segala yang diturunkan berasal dari Tuhan Yang Maha Esa.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "رَّبِّكَ",
+      "transliterasi": "Rabbika",
+      "jenis_kata": "Isim",
+      "arti": "Tuhanmu",
+      "sharaf": {
+        "akar_kata": "ر ب ب (R-B-B)",
+        "makna_dasar": "Memelihara, menguasai, mendidik, Tuhan.",
+        "wazan_perubahan": "Isim (kata benda) yang disandarkan (mudhaf) kepada dhamir (kata ganti) 'ka' (kamu)."
+      },
+      "nahwu": {
+        "kedudukan": "Mudhaf ilaih bagi huruf jar 'min' (dari) yang mendahuluinya dalam ayat (مَا أُنزِلَ إِلَيْكَ مِن رَّبِّكَ).",
+        "irab_dan_logika": "Majrur (berharakat kasrah) karena menjadi mudhaf ilaih dari huruf jar 'min'. Harakat kasrah pada huruf ba (ب) menunjukkan keadaan jar. 'Ka' (كَ) adalah dhamir muttashil (kata ganti sambung) dalam posisi jar."
+      },
+      "hikmah": "Menekankan sumber kebenaran wahyu yang datang langsung dari Allah, Sang Pemelihara dan Pengatur segala sesuatu, yang memiliki hubungan personal dengan hamba-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "ٱلْحَقُّ",
+      "transliterasi": "Al-Haqqu",
+      "jenis_kata": "Isim",
+      "arti": "Kebenaran",
+      "sharaf": {
+        "akar_kata": "ح ق ق (H-Q-Q)",
+        "makna_dasar": "Benar, nyata, hak, keadilan.",
+        "wazan_perubahan": "Isim (kata benda) dengan alif lam (ال) menunjukkan definitif."
+      },
+      "nahwu": {
+        "kedudukan": "Khabar dari mubtada' 'mā unzila ilaika min Rabbika' (apa yang diturunkan kepadamu dari Tuhanmu).",
+        "irab_dan_logika": "Marfu' (berharakat dhammah) karena menjadi khabar dari mubtada'."
+      },
+      "hikmah": "Menegaskan bahwa wahyu yang diturunkan adalah kebenaran mutlak yang tidak diragukan, berasal dari sumber yang paling benar, yaitu Allah SWT.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "كَمَنْ",
+      "transliterasi": "Kaman",
+      "jenis_kata": "Huruf + Isim Maushul",
+      "arti": "Seperti orang yang",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk huruf 'ka'. 'Man' adalah isim maushul (kata sambung) yang tidak memiliki akar kata dalam arti fi'il.",
+        "makna_dasar": "Ka' (كَ) berarti 'seperti' atau 'mirip'. 'Man' (مَنْ) berarti 'siapa' atau 'orang yang'.",
+        "wazan_perubahan": "Ka' adalah huruf jar. 'Man' adalah isim maushul mabni (tetap) yang berfungsi sebagai isim."
+      },
+      "nahwu": {
+        "kedudukan": "Ka' adalah huruf jar, dan 'man' adalah isim maushul yang majrur (berada dalam posisi jar) karena didahului oleh huruf jar 'ka'. 'Man' di sini berfungsi sebagai perbandingan.",
+        "irab_dan_logika": "Ka' adalah huruf jar. 'Man' adalah isim maushul mabni 'ala as-sukun fi mahalli jarr (tetap sukun, dalam posisi jar) karena didahului oleh huruf jar 'ka'."
+      },
+      "hikmah": "Memulai perbandingan antara orang yang berilmu (mengetahui kebenaran wahyu) dengan orang yang tidak berilmu (buta hati), menekankan perbedaan fundamental antara keduanya.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "هُوَ",
+      "transliterasi": "Huwa",
+      "jenis_kata": "Isim (dhamir/kata ganti)",
+      "arti": "Dia (laki-laki tunggal)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku, ini adalah dhamir munfashil (kata ganti terpisah).",
+        "makna_dasar": "Kata ganti orang ketiga tunggal laki-laki.",
+        "wazan_perubahan": "Dhamir munfashil marfu'."
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada' (subjek) dari jumlah ismiyah baru, yang khabar-nya adalah 'a'maa'.",
+        "irab_dan_logika": "Dhamir munfashil mabni 'ala al-fath fi mahalli raf'in mubtada' (tetap fathah, dalam posisi rafa' sebagai mubtada')."
+      },
+      "hikmah": "Mengacu pada 'man' (orang yang) sebelumnya, memperjelas subjek perbandingan yang akan dijelaskan lebih lanjut sebagai 'buta'.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "أَعْمَىٰٓ",
+      "transliterasi": "A'maa",
+      "jenis_kata": "Isim (kata sifat/kata benda)",
+      "arti": "Buta",
+      "sharaf": {
+        "akar_kata": "ع م ي (Ain-Mim-Ya)",
+        "makna_dasar": "Buta, tidak melihat, tidak mengetahui.",
+        "wazan_perubahan": "Isim tafdhil (bentuk superlatif) atau sifat musyabbahah (kata sifat tetap) pada wazan أفعل (af'al)."
+      },
+      "nahwu": {
+        "kedudukan": "Khabar dari mubtada' 'huwa'.",
+        "irab_dan_logika": "Marfu' (berharakat dhammah muqaddarah/tersembunyi) karena ia adalah isim maqshur (berakhir dengan alif layyinah) dan menjadi khabar dari 'huwa'."
+      },
+      "hikmah": "Menggambarkan kondisi spiritual dan intelektual orang yang tidak menerima kebenaran wahyu, yaitu 'buta hati' atau tidak mampu melihat petunjuk, sebagai kontras dengan orang yang berakal.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "ۚ",
+      "transliterasi": "Tidak ada transliterasi",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "Tanda berhenti (waqaf jaiz)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku.",
+        "makna_dasar": "Menunjukkan tempat yang dianjurkan untuk berhenti, tetapi boleh juga melanjutkan.",
+        "wazan_perubahan": "Tidak berlaku."
+      },
+      "nahwu": {
+        "kedudukan": "Bukan bagian dari struktur gramatikal kalimat, melainkan tanda baca dalam mushaf Al-Qur'an.",
+        "irab_dan_logika": "Tidak memiliki i'rab. Fungsinya adalah untuk membantu pembaca dalam memahami makna dan melafalkan Al-Qur'an dengan benar."
+      },
+      "hikmah": "Menandai akhir dari satu bagian makna atau perbandingan, memberikan jeda bagi pembaca untuk merenungkan kontras antara orang yang berilmu dan orang yang buta, sebelum melanjutkan ke bagian berikutnya yang menjelaskan siapa yang mengambil pelajaran.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "إِنَّمَا",
+      "transliterasi": "Innamā",
+      "jenis_kata": "Huruf",
+      "arti": "Sesungguhnya hanyalah, hanyalah",
+      "sharaf": {
+        "akar_kata": "Tidak memiliki akar kata fi'il. Ini adalah gabungan dari `إنَّ` (inna) dan `ما` (ma).",
+        "makna_dasar": "Pembatasan, penegasan.",
+        "wazan_perubahan": "Tidak berlaku untuk huruf."
+      },
+      "nahwu": {
+        "kedudukan": "Huruf pembatas (حرف حصر) dan penegas (حرف توكيد).",
+        "irab_dan_logika": "Huruf mabni (tetap) yang tidak memiliki kedudukan i'rab. `**إنَّ**` adalah huruf taukid dan nashab, tetapi ketika digabungkan dengan `**ما الكافة**` (ma al-kaffah), ia kehilangan fungsinya untuk menashabkan isim dan merafa'kan khabar. Fungsinya berubah menjadi pembatas."
+      },
+      "hikmah": "Dalam konteks ayat ini, `**إِنَّمَا**` berfungsi untuk membatasi siapa saja yang dapat mengambil pelajaran dari kebenaran Al-Qur'an. Ini menegaskan bahwa *hanya orang-orang yang berakal sehatlah* yang mampu memahami dan merenungkan kebenaran tersebut, tidak ada yang lain.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "يَتَذَكَّرُ",
+      "transliterasi": "Yatażakkaru",
+      "jenis_kata": "Fi'il",
+      "arti": "Mengambil pelajaran, mengingat, merenungkan",
+      "sharaf": {
+        "akar_kata": "ذ ك ر (dh-k-r)",
+        "makna_dasar": "Mengingat, menyebut, mengenang, mengambil pelajaran.",
+        "wazan_perubahan": "Fi'il Mudhari' dari wazan `**تَفَعَّلَ**` (tafa''ala) yang menunjukkan makna 'berusaha melakukan', 'mengambil', atau 'menjadikan diri'. Dalam konteks ini, 'berusaha mengingat/mengambil pelajaran'."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Marfu'.",
+        "irab_dan_logika": "Marfu' karena tidak didahului oleh amil nashab (penashab) atau amil jazm (penjazm). Tanda rafa'nya adalah `**dhammah**` di akhir. Fa'ilnya adalah `**أُو۟لُوا۟ ٱلْأَلْبَٰبِ**` (ulul albab) yang datang setelahnya."
+      },
+      "hikmah": "Kata ini menekankan *proses aktif dan kesungguhan* dalam merenungkan serta mengambil hikmah. Bukan sekadar 'mengingat' secara pasif, melainkan 'berusaha mengingat' atau 'mengambil pelajaran' secara mendalam, yang membutuhkan penggunaan akal dan hati.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "أُو۟لُوا۟",
+      "transliterasi": "ʾUlū",
+      "jenis_kata": "Isim",
+      "arti": "Pemilik, orang-orang yang mempunyai",
+      "sharaf": {
+        "akar_kata": "Tidak memiliki akar kata fi'il. Ini adalah isim jamak yang tidak memiliki bentuk mufrad (tunggal) dari akar yang sama. Termasuk dalam `**mulhaq bil jam'i mudzakkar salim**` (serupa jamak mudzakkar salim).",
+        "makna_dasar": "Menunjukkan kepemilikan atau keberadaan sesuatu pada seseorang.",
+        "wazan_perubahan": "Isim jamak yang selalu dalam bentuk `**mudhaf**` (disandarkan)."
+      },
+      "nahwu": {
+        "kedudukan": "Fa'il (subjek) dari fi'il `**يَتَذَكَّرُ**`.",
+        "irab_dan_logika": "Marfu' (dalam keadaan rafa') karena ia adalah fa'il. Tanda rafa'nya adalah `**waw (و)**` karena ia termasuk `**mulhaq bil jam'i mudzakkar salim**`. Ia juga merupakan `**mudhaf**` (yang disandarkan)."
+      },
+      "hikmah": "Kata ini menunjuk pada 'pemilik' atau 'orang-orang yang mempunyai' sesuatu. Dalam konteks ini, 'pemilik akal'. Ini menegaskan bahwa *akal adalah karunia yang harus digunakan* untuk memahami kebenaran, dan hanya mereka yang menggunakan akalnya secara benar yang akan mendapatkan manfaatnya.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "ٱلْأَلْبَٰبِ",
+      "transliterasi": "Al-ʾAlbāb",
+      "jenis_kata": "Isim",
+      "arti": "Akal, inti, sari pati",
+      "sharaf": {
+        "akar_kata": "ل ب ب (l-b-b)",
+        "makna_dasar": "Inti, sari pati, akal yang murni dan jernih.",
+        "wazan_perubahan": "Jamak dari `**لُبّ**` (lubb) yang berarti inti atau akal. Wazan `**أَفْعَال**` (af'āl) untuk jamak."
+      },
+      "nahwu": {
+        "kedudukan": "Mudhaf Ilaih (kata yang disandari).",
+        "irab_dan_logika": "Majrur (dalam keadaan jar) karena ia adalah `**mudhaf ilaih**`. Tanda jarnya adalah `**kasrah**` di akhir. Didahului oleh alif lam (`**ال**`) yang menunjukkan makrifat (spesifik)."
+      },
+      "hikmah": "`**الألباب**` bukan sekadar akal biasa, melainkan *akal yang murni, jernih, dan mendalam*, yang mampu membedakan kebenaran dari kebatilan, serta merenungkan hikmah di balik ayat-ayat Allah. Ini adalah akal yang telah mencapai kematangan dan kebijaksanaan.",
+      "role": "none"
+    }
+  ]
+}

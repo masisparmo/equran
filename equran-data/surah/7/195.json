@@ -1,0 +1,528 @@
+{
+  "surah": 7,
+  "ayah": 195,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "أَلَهُمْ",
+      "transliterasi": "al‑hum",
+      "jenis_kata": "Huruf (partikel pertanyaan)",
+      "arti": "apakah (mereka)",
+      "sharaf": {
+        "akar_kata": "أَل + هُمْ",
+        "makna_dasar": "partikel tanya",
+        "wazan_perubahan": "tidak berwazan"
+      },
+      "nahwu": {
+        "kedudukan": "kata tanya di awal frasa",
+        "irab_dan_logika": "berharakat sukun pada alif (partikel) dan هُمْ marfu' karena subjek"
+      },
+      "hikmah": "*Menegaskan pertanyaan retoris tentang kemampuan berhala*",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "أَرْجُلٌۭ",
+      "transliterasi": "arjulun",
+      "jenis_kata": "Isim (isim mufrad, marfu')",
+      "arti": "kaki",
+      "sharaf": {
+        "akar_kata": "ر-ج-ل",
+        "makna_dasar": "kaki",
+        "wazan_perubahan": "فَعْلٌ"
+      },
+      "nahwu": {
+        "kedudukan": "isim marfu' sebagai subjek dalam pertanyaan",
+        "irab_dan_logika": "dengan tanwin dammah karena marfu'"
+      },
+      "hikmah": "*Menunjukkan bagian tubuh yang dipertanyakan keberadaannya*",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "يَمْشُونَ",
+      "transliterasi": "yamshuna",
+      "jenis_kata": "Fi'il (mudhari')",
+      "arti": "mereka berjalan",
+      "sharaf": {
+        "akar_kata": "م-ش-ي",
+        "makna_dasar": "berjalan",
+        "wazan_perubahan": "يفعل"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il mudhari' marfu' alif al‑lam",
+        "irab_dan_logika": "dhammah pada alif karena mudhari'"
+      },
+      "hikmah": "*Menyatakan aksi berjalan yang dipertanyakan*",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "بِهَآ",
+      "transliterasi": "biha",
+      "jenis_kata": "Huruf (jar)",
+      "arti": "dengan (itu)",
+      "sharaf": {
+        "akar_kata": "b- (preposisi) + هَا (kata ganti)",
+        "makna_dasar": "preposisi + penunjuk",
+        "wazan_perubahan": "tidak berwazan"
+      },
+      "nahwu": {
+        "kedudukan": "jar (majrur) yang melengkapi fi'il",
+        "irab_dan_logika": "kasrah pada ب karena jar, هَا sukun karena huruf penunjuk"
+      },
+      "hikmah": "*Menunjukkan cara atau alat yang dipakai*",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "ۖ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Tanda baca (waqf)",
+      "arti": "tanda jeda",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda waqf yang memisahkan bagian kalimat",
+        "irab_dan_logika": "tidak berirab, berfungsi sebagai jeda"
+      },
+      "hikmah": "*Memberi jeda untuk menekankan pertanyaan*",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "أَمْ",
+      "transliterasi": "am",
+      "jenis_kata": "Huruf (partikel pilihan)",
+      "arti": "atau",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "partikel pilihan",
+        "wazan_perubahan": "tidak berwazan"
+      },
+      "nahwu": {
+        "kedudukan": "huruf istifham/istibdal yang menghubungkan alternatif",
+        "irab_dan_logika": "sukun karena huruf tidak berharakat"
+      },
+      "hikmah": "*Menyambung alternatif dalam rangkaian pertanyaan*",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "لَهُمْ",
+      "transliterasi": "lahum",
+      "jenis_kata": "Huruf",
+      "arti": "bagi mereka",
+      "sharaf": {
+        "akar_kata": "ل-ه",
+        "makna_dasar": "milik, kepunyaan",
+        "wazan_perubahan": "huruf jar (li) + dhamir"
+      },
+      "nahwu": {
+        "kedudukan": "kata majrur sebagai pelengkap preposisi **li**",
+        "irab_dan_logika": "marfu' pada **li** tetapi menjadi majrur karena preposisi; dhammah pada *-hum* menandakan kasus genitif"
+      },
+      "hikmah": "menunjukkan kepemilikan atau tujuan yang ditujukan kepada mereka",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "أَيْدٍۢ",
+      "transliterasi": "ayd",
+      "jenis_kata": "Isim",
+      "arti": "tangan",
+      "sharaf": {
+        "akar_kata": "ي-د-و",
+        "makna_dasar": "menyentuh, memberi",
+        "wazan_perubahan": "bentuk jamak **أَيد** (bentuk *أَفْعَل* untuk jamak tak teratur)"
+      },
+      "nahwu": {
+        "kedudukan": "isim majrur sebagai objek preposisi **bi**",
+        "irab_dan_logika": "kasrah pada akhir kata menandakan status majrur"
+      },
+      "hikmah": "menegaskan bahwa berhala tidak memiliki anggota tubuh yang dapat berfungsi",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "يَبْطِشُونَ",
+      "transliterasi": "yabṭishūna",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka menampar/menyiksa",
+      "sharaf": {
+        "akar_kata": "ب-ط-ش",
+        "makna_dasar": "menampar, memukul",
+        "wazan_perubahan": "pola **فَعَلَ** dalam bentuk mudhari‘ (yaf‘alu)"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il mudhari‘ marfu' berakhiran **ونَ** sebagai subjek jamak",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "menyiratkan ketidakmampuan berhala melakukan tindakan keras",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "بِهَآ",
+      "transliterasi": "biha",
+      "jenis_kata": "Huruf",
+      "arti": "dengan (nya)",
+      "sharaf": {
+        "akar_kata": "ب-ه",
+        "makna_dasar": "dengan, memakai",
+        "wazan_perubahan": "huruf jar **bi** + dhamir **ha**"
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar yang menghubungkan fi'il dengan objeknya",
+        "irab_dan_logika": "majrur; harakat kasrah pada *ha* menandakan status genitif"
+      },
+      "hikmah": "menunjukkan alat atau sarana yang tidak dimiliki berhala",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "ۖ",
+      "transliterasi": "",
+      "jenis_kata": "Tanda baca",
+      "arti": "(tanda koma)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "memisahkan bagian kalimat",
+        "irab_dan_logika": "tidak berirab, berfungsi sebagai jeda"
+      },
+      "hikmah": "menandai jeda retoris dalam ayat",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "أَمْ",
+      "transliterasi": "am",
+      "jenis_kata": "Huruf",
+      "arti": "atau",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "kata sambung (harf istifham) yang menegaskan pilihan",
+        "irab_dan_logika": "tidak berirab, berfungsi menghubungkan dua alternatif"
+      },
+      "hikmah": "mengajak pendengar mempertimbangkan pilihan lain yang sama tidak masuk akal",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "لَهُمْ",
+      "transliterasi": "lahum",
+      "jenis_kata": "Huruf",
+      "arti": "bagi mereka",
+      "sharaf": {
+        "akar_kata": "ل-ه",
+        "makna_dasar": "menunjuk kepemilikan atau tujuan",
+        "wazan_perubahan": "tidak ada (huruf)"
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar yang menempel pada kata sebelumnya (misalnya \"لَهُمْ\")",
+        "irab_dan_logika": "kasrah karena berfungsi sebagai mudhaf ilaih (jar)"
+      },
+      "hikmah": "menegaskan bahwa segala sesuatu yang disebutkan selanjutnya ditujukan atau dimiliki oleh mereka (para penyembah berhala).",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "أَعْيُنٌۭ",
+      "transliterasi": "ʾaʿyun",
+      "jenis_kata": "Isim",
+      "arti": "mata (jamak)",
+      "sharaf": {
+        "akar_kata": "ع-ي-ن",
+        "makna_dasar": "organ penglihatan",
+        "wazan_perubahan": "mafʿūl (pola faʿl)"
+      },
+      "nahwu": {
+        "kedudukan": "isim mufrad (jamak) sebagai mubtadaʾ dalam kalimat",
+        "irab_dan_logika": "marfuʿ dengan dhammah karena berfungsi sebagai subjek"
+      },
+      "hikmah": "menunjukkan bahwa berhala-berhala tidak memiliki organ penglihatan yang nyata.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "يُبْصِرُونَ",
+      "transliterasi": "yubsirūna",
+      "jenis_kata": "Fiʿil",
+      "arti": "mereka melihat",
+      "sharaf": {
+        "akar_kata": "ب-ص-ر",
+        "makna_dasar": "melihat, menyadari",
+        "wazan_perubahan": "faʿala (bentuk mudhariʿ)"
+      },
+      "nahwu": {
+        "kedudukan": "fiʿil mudhariʿ 3rd person maskulin jamak, predikat bagi subjek sebelumnya",
+        "irab_dan_logika": "marfuʿ dengan dhammah pada alif akhir karena bentuk mudhariʿ"
+      },
+      "hikmah": "menegaskan bahwa berhala-berhala tidak mampu melihat, sehingga tidak dapat menilai atau menuntun manusia.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "بِهَآ",
+      "transliterasi": "bi-hā",
+      "jenis_kata": "Huruf",
+      "arti": "dengan itu",
+      "sharaf": {
+        "akar_kata": "ب",
+        "makna_dasar": "menunjuk cara atau alat",
+        "wazan_perubahan": "tidak ada (huruf)"
+      },
+      "nahwu": {
+        "kedudukan": "jar (bi) + dhamir (hā) sebagai keterangan cara",
+        "irab_dan_logika": "kasrah pada bi, sukun pada ha karena huruf jar"
+      },
+      "hikmah": "menyiratkan bahwa mata (yang disebut) tidak dapat berfungsi sebagai sarana melihat bagi berhala.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "ۖ",
+      "transliterasi": "(waqf)",
+      "jenis_kata": "Isyarat",
+      "arti": "tanda jeda",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "tanda waqf (koma) yang memisahkan bagian kalimat",
+        "irab_dan_logika": "tidak berirab, berfungsi sebagai pemisah"
+      },
+      "hikmah": "menandai jeda untuk memberi ruang pada pembaca memahami bagian sebelumnya sebelum melanjutkan pertanyaan selanjutnya.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "أَمْ",
+      "transliterasi": "am",
+      "jenis_kata": "Huruf",
+      "arti": "atau",
+      "sharaf": {
+        "akar_kata": "أ-م",
+        "makna_dasar": "menyatakan pilihan atau pertanyaan",
+        "wazan_perubahan": "tidak ada (huruf)"
+      },
+      "nahwu": {
+        "kedudukan": "huruf istifham yang memperkenalkan alternatif pertanyaan",
+        "irab_dan_logika": "tidak berubah, selalu berharakat sukun"
+      },
+      "hikmah": "mengajak pendengar untuk merenungkan pilihan antara mengakui ketidakberdayaan berhala atau menolak mereka.",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "لَهُمْ",
+      "transliterasi": "lahum",
+      "jenis_kata": "Huruf (jar)",
+      "arti": "bagi mereka",
+      "sharaf": {
+        "akar_kata": "لَ",
+        "makna_dasar": "kepada, untuk",
+        "wazan_perubahan": "tidak berlaku (huruf)"
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar yang menempel pada ضمير متصل",
+        "irab_dan_logika": "tidak berubah; menandakan bahwa kata berikutnya berada dalam حالة الجر"
+      },
+      "hikmah": "*Huruf ini menegaskan tujuan atau kepemilikan, menunjukkan bahwa segala sesuatu yang disebutkan selanjutnya adalah milik atau ditujukan kepada mereka.*",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "ءَاذَانٌۭ",
+      "transliterasi": "ādhānun",
+      "jenis_kata": "Isim (noun)",
+      "arti": "telinga",
+      "sharaf": {
+        "akar_kata": "أ ذ ن",
+        "makna_dasar": "mendengar",
+        "wazan_perubahan": "أَفْعَال (bentuk jamak tak terbalik)"
+      },
+      "nahwu": {
+        "kedudukan": "اسم مجرور بحرف الجر \"ل\"",
+        "irab_dan_logika": "مجرور بالكسرة الظاهرة لأنّها تابعة لحرف الجر"
+      },
+      "hikmah": "*Telinga menjadi simbol kemampuan mendengar, menekankan bahwa berhala‑berhala tidak memiliki indera yang dapat menanggapi panggilan atau perintah.*",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "يَسْمَعُونَ",
+      "transliterasi": "yasmaʿūna",
+      "jenis_kata": "Fi'il (verb)",
+      "arti": "mereka mendengar",
+      "sharaf": {
+        "akar_kata": "س م ع",
+        "makna_dasar": "mendengar",
+        "wazan_perubahan": "يَفْعَلُونَ (present active)"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع بالضمة",
+        "irab_dan_logika": "الضمة الظاهرة على آخره تدل على الرفع لأن الفعل مضارع غير مسبوق بأداة نصب"
+      },
+      "hikmah": "*Menunjukkan bahwa meskipun berhala‑berhala tidak memiliki telinga, mereka tetap “mendengar” dalam arti metaforis, yaitu menanggapi permohonan manusia.*",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "بِهَا",
+      "transliterasi": "biha",
+      "jenis_kata": "Huruf (jar)",
+      "arti": "dengan itu",
+      "sharaf": {
+        "akar_kata": "ب",
+        "makna_dasar": "dengan, memakai",
+        "wazan_perubahan": "tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر + ضمير متصل",
+        "irab_dan_logika": "حرف الجر يجر ما بعده؛ الضمير المتصل لا يُعرب"
+      },
+      "hikmah": "*Menghubungkan tindakan mendengar dengan alat (telinga) yang disebutkan, menegaskan bahwa tanpa telinga, tidak ada cara untuk mendengar.*",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "ۗ",
+      "transliterasi": "ۗ",
+      "jenis_kata": "Simbol waqf (tanda berhenti)",
+      "arti": "tanda jeda",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "ٱدْعُوا۟",
+      "transliterasi": "ud'ū",
+      "jenis_kata": "Fi'il",
+      "arti": "panggillah",
+      "sharaf": {
+        "akar_kata": "د ع و",
+        "makna_dasar": "memanggil, mengajak",
+        "wazan_perubahan": "فَعَلَ"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il amr (imperatif) memerintahkan",
+        "irab_dan_logika": "مرفوع karena bentuk أمر dengan dhammah pada akhir"
+      },
+      "hikmah": "Allah memerintahkan untuk memanggil sekutu‑semu",
+      "role": "none"
+    },
+    {
+      "index": 25,
+      "kata_arab": "شُرَكَآءَكُمْ",
+      "transliterasi": "shurakā'akum",
+      "jenis_kata": "Isim",
+      "arti": "sekutu‑semu",
+      "sharaf": {
+        "akar_kata": "ش ر ك",
+        "makna_dasar": "bersekutu",
+        "wazan_perubahan": "فَعَلَ (isim jamak)"
+      },
+      "nahwu": {
+        "kedudukan": "Isim mansub (objek) setelah فعل أمر",
+        "irab_dan_logika": "منصوب karena berfungsi sebagai مفعول به"
+      },
+      "hikmah": "menunjuk kepada semua sekutu yang disembah oleh manusia",
+      "role": "none"
+    },
+    {
+      "index": 26,
+      "kata_arab": "ثُمَّ",
+      "transliterasi": "thumma",
+      "jenis_kata": "Huruf",
+      "arti": "kemudian",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf sambung (conjunction) yang menghubungkan dua klausa",
+        "irab_dan_logika": "Tidak berirab, berfungsi sebagai penghubung"
+      },
+      "hikmah": "menandakan urutan tindakan selanjutnya",
+      "role": "none"
+    },
+    {
+      "index": 27,
+      "kata_arab": "كِيدُونِ",
+      "transliterasi": "kīdūnī",
+      "jenis_kata": "Fi'il",
+      "arti": "rencanakan tipu daya terhadapku",
+      "sharaf": {
+        "akar_kata": "ك د ي",
+        "makna_dasar": "menyusun rencana licik",
+        "wazan_perubahan": "فَعَلَ (bentuk أمر)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il amr (imperatif) dengan ضمير متصل \"ني\"",
+        "irab_dan_logika": "مرفوع karena bentuk أمر, ضمير متصل في محل نصب"
+      },
+      "hikmah": "Allah menantang mereka untuk mengatur tipu daya terhadap-Nya",
+      "role": "none"
+    },
+    {
+      "index": 28,
+      "kata_arab": "فَلَا",
+      "transliterasi": "falā",
+      "jenis_kata": "Huruf",
+      "arti": "maka tidak",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "فَ (huruf sambung) + لَا (partikel negatif) sebelum فعل",
+        "irab_dan_logika": "Tidak berirab, berfungsi menegaskan larangan"
+      },
+      "hikmah": "menyatakan bahwa mereka tidak boleh melakukan tindakan selanjutnya",
+      "role": "none"
+    },
+    {
+      "index": 29,
+      "kata_arab": "تُنظِرُونِ",
+      "transliterasi": "tunẓirūna",
+      "jenis_kata": "Fi'il",
+      "arti": "kamu menatap (aku)",
+      "sharaf": {
+        "akar_kata": "ن ظ ر",
+        "makna_dasar": "melihat, menatap",
+        "wazan_perubahan": "فَعَلَ (bentuk مضارع)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il mudhari' (present) 3rd person maskulin jamak dengan ضمير متصل \"ني\"",
+        "irab_dan_logika": "مرفوع karena فعل مضارع غير مجزوم"
+      },
+      "hikmah": "menegaskan bahwa mereka tidak dapat menatap atau mengancam Allah",
+      "role": "none"
+    }
+  ]
+}

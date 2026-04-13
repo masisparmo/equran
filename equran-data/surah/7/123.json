@@ -1,0 +1,366 @@
+{
+  "surah": 7,
+  "ayah": 123,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "قَالَ",
+      "transliterasi": "qāla",
+      "jenis_kata": "Fi'il",
+      "arti": "dia berkata",
+      "sharaf": {
+        "akar_kata": "ق-و-ل",
+        "makna_dasar": "kata, ucapan",
+        "wazan_perubahan": "فَعَلَ"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja utama (fi'il madhi) dalam kalimat",
+        "irab_dan_logika": "berharakat dhammah karena fi'il madhi, menunjukkan tindakan lampau"
+      },
+      "hikmah": "Menegaskan pernyataan Fir'aun, menunjukkan otoritasnya",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "فِرْعَوْنُ",
+      "transliterasi": "fir‘awnu",
+      "jenis_kata": "Isim",
+      "arti": "Firaun",
+      "sharaf": {
+        "akar_kata": "ف-ر-ع",
+        "makna_dasar": "raja Mesir, penguasa",
+        "wazan_perubahan": "nama khusus, bentuk tunggal, marfu' dengan dhammah"
+      },
+      "nahwu": {
+        "kedudukan": "subjek (fa'il) dari fi'il قَالَ",
+        "irab_dan_logika": "marfu' karena berfungsi sebagai fa'il, ditanda dhammah"
+      },
+      "hikmah": "Menunjukkan pelaku yang berbicara, menegaskan otoritas",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "آمَنتُم",
+      "transliterasi": "āman tum",
+      "jenis_kata": "Fi'il (dengan suffiks pronominal)",
+      "arti": "kamu (semua) beriman",
+      "sharaf": {
+        "akar_kata": "أ-م-ن",
+        "makna_dasar": "iman, percaya",
+        "wazan_perubahan": "فَعَلَ (past tense) dengan suffiks jamak"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja tanya (fi'il) yang dipertanyakan oleh Fir'aun",
+        "irab_dan_logika": "marfu' karena fi'il madhi, diakhiri dengan dammah pada ت sebagai penanda jamak"
+      },
+      "hikmah": "Menunjukkan tantangan iman kepada orang‑orang",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "بِهِۦ",
+      "transliterasi": "bihi",
+      "jenis_kata": "Huruf (preposisi) + ضمير متصل",
+      "arti": "dengan dia/itu",
+      "sharaf": {
+        "akar_kata": "ب-ه",
+        "makna_dasar": "dengan, oleh",
+        "wazan_perubahan": "حرف جر + ضمير متصل"
+      },
+      "nahwu": {
+        "kedudukan": "keterangan cara/alat (jar) yang mengikuti fi'il",
+        "irab_dan_logika": "majrur karena huruf جر, huruf ه berkasrah"
+      },
+      "hikmah": "Menunjukkan hubungan kepemilikan atau alat",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "قَبْلَ",
+      "transliterasi": "qabl",
+      "jenis_kata": "Huruf",
+      "arti": "sebelum",
+      "sharaf": {
+        "akar_kata": "ق-ب-ل",
+        "makna_dasar": "depan, sebelum",
+        "wazan_perubahan": "حرف جر ثابت"
+      },
+      "nahwu": {
+        "kedudukan": "kata depan yang menghubungkan waktu",
+        "irab_dan_logika": "majrur, diikuti isim (أَنْ) dalam i'rab majrur"
+      },
+      "hikmah": "Menunjukkan urutan waktu",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "أَنْ",
+      "transliterasi": "an",
+      "jenis_kata": "Huruf",
+      "arti": "bahwa, untuk",
+      "sharaf": {
+        "akar_kata": "أ-ن",
+        "makna_dasar": "menyambungkan kalimat",
+        "wazan_perubahan": "حرف نصب"
+      },
+      "nahwu": {
+        "kedudukan": "kata sambung yang menandai klausa tujuan/penyebab",
+        "irab_dan_logika": "menyebabkan fi'il setelahnya menjadi majzum (مَنْصُوب) dengan fathah"
+      },
+      "hikmah": "Menandai klausa tujuan atau sebab",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "أَذِنَ",
+      "transliterasi": "aḏina",
+      "jenis_kata": "Fi'il",
+      "arti": "mengizinkan, memberi izin",
+      "sharaf": {
+        "akar_kata": "أ ذ ن",
+        "makna_dasar": "izin, persetujuan",
+        "wazan_perubahan": "فَعَلَ (faʿala) – bentuk lampau sederhana"
+      },
+      "nahwu": {
+        "kedudukan": "Kata kerja (fi'il) lampau, predikat utama kalimat",
+        "irab_dan_logika": "مرفوع بالضمة لأن fi'il madhi selalu مرفوع"
+      },
+      "hikmah": "Fir'aun menyatakan bahwa ia memberi izin, namun maksudnya adalah menipu dan menyiapkan muslihat.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "لَكُمْ",
+      "transliterasi": "la-kum",
+      "jenis_kata": "Huruf",
+      "arti": "bagi kamu",
+      "sharaf": {
+        "akar_kata": "ل ك",
+        "makna_dasar": "menunjuk kepemilikan atau tujuan",
+        "wazan_perubahan": "حرف جر + ضمير متصل"
+      },
+      "nahwu": {
+        "kedudukan": "Bagian dari frase preposisional yang melengkapi fi'il \"aḏina\"",
+        "irab_dan_logika": "مجرور بالكسرة لأن حرف الجر \"li\" يجر ما بعده"
+      },
+      "hikmah": "Menunjukkan bahwa izin yang diberikan ditujukan kepada kaum Bani Israil.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "ۖ",
+      "transliterasi": "(waqf)",
+      "jenis_kata": "Huruf",
+      "arti": "tanda jeda/waqf",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "menandakan berhenti sejenak dalam bacaan",
+        "wazan_perubahan": "simbol waqf"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca, bukan bagian sintaksis",
+        "irab_dan_logika": "Tidak memiliki i'rab karena bukan kata"
+      },
+      "hikmah": "Memberi jeda untuk menekankan makna sebelumnya sebelum melanjutkan ayat.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "إِنَّ",
+      "transliterasi": "inna",
+      "jenis_kata": "Huruf",
+      "arti": "sesungguhnya",
+      "sharaf": {
+        "akar_kata": "إ ن ن",
+        "makna_dasar": "menegaskan, menekankan",
+        "wazan_perubahan": "حرف توكيد"
+      },
+      "nahwu": {
+        "kedudukan": "حرف توكيد (harf al‑inna) yang menghubungkan dua bagian kalimat",
+        "irab_dan_logika": "حرف مبني لا محل له من الإعراب، يرفع الخبر ويجر الاسم"
+      },
+      "hikmah": "Menegaskan kebenaran pernyataan berikutnya: “sesungguhnya ini adalah muslihat”.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "هَٰذَا",
+      "transliterasi": "hādhā",
+      "jenis_kata": "Isim",
+      "arti": "ini",
+      "sharaf": {
+        "akar_kata": "ه ذ ا",
+        "makna_dasar": "menunjuk sesuatu yang dekat dengan pembicara",
+        "wazan_perubahan": "اسم إشارة"
+      },
+      "nahwu": {
+        "kedudukan": "اسم إن (مبتدأ) setelah حرف الإنّ",
+        "irab_dan_logika": "مجرور بالكسرة لأنه اسم إن"
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "مَّكَرْتُمُوهُ",
+      "transliterasi": "makartumu-hu",
+      "jenis_kata": "Fi'il",
+      "arti": "kamu (jamak) memplot/menyusun muslihat (itu)",
+      "sharaf": {
+        "akar_kata": "ك ر م",
+        "makna_dasar": "menipu, bermuslihat",
+        "wazan_perubahan": "فَعَلْتُمُ + هُ (past tense, 2nd person plural, attached pronoun)"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja utama dalam frasa \"مَكْرٌ مَّكَرْتُمُوهُ\"",
+        "irab_dan_logika": "مَكَرْتُمُوهُ منصوب بالفتحة الظاهرة على آخره (الواو) لأنّه فعل ماضٍ مبني على الفتح"
+      },
+      "hikmah": "Menegaskan bahwa kaum Muslimin (atau orang-orang) telah merencanakan tipu daya itu secara bersama‑sama.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "فِى",
+      "transliterasi": "fī",
+      "jenis_kata": "Huruf",
+      "arti": "di, dalam",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar يربط بين الفعل \"مَكَرْتُمُوهُ\" والاسم \"الْمَدِينَةِ\"",
+        "irab_dan_logika": "حرف جر لا محل له من الإعراب، يجر ما بعده إلى الجر"
+      },
+      "hikmah": "Menunjukkan tempat terjadinya muslihat, yaitu di dalam kota.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "ٱلْمَدِينَةِ",
+      "transliterasi": "al‑madīnah",
+      "jenis_kata": "Isim",
+      "arti": "kota",
+      "sharaf": {
+        "akar_kata": "د ي ن",
+        "makna_dasar": "tempat tinggal, permukiman",
+        "wazan_perubahan": "مَفْعَلَة (مَدِينَة) – اسم مؤنث مبدوء بالـ"
+      },
+      "nahwu": {
+        "kedudukan": "اسم مجرور بحرف الجر \"فِى\"",
+        "irab_dan_logika": "مجرور بالكسرة الظاهرة على آخره لأنّها تابع لحرف الجر"
+      },
+      "hikmah": "Merujuk pada kota tempat orang‑orang itu berencana melakukan tipu daya.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "لِتُخْرِجُوا۟",
+      "transliterasi": "li‑tukh'rijū",
+      "jenis_kata": "Fi'il",
+      "arti": "agar kamu mengeluarkan",
+      "sharaf": {
+        "akar_kata": "خ ر ج",
+        "makna_dasar": "keluar, mengeluarkan",
+        "wazan_perubahan": "فَعْلَ (مضارع) مع لام التعليل"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع مسبوق بـ \"لِ\" (حرف التعليل)",
+        "irab_dan_logika": "مرفوع بالضمة على آخره (الواو) لأن الفعل مضارع مرفوع ولا يجره شيء"
+      },
+      "hikmah": "Menyatakan tujuan: supaya kalian mengusir penduduk kota itu.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "مِنْهَآ",
+      "transliterasi": "min‑hā",
+      "jenis_kata": "Huruf",
+      "arti": "dari (itu)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر يجر الضمير المتصل \"ها\"",
+        "irab_dan_logika": "حرف جر لا محل له من الإعراب، والضمير المتصل \"ها\" مجرور بالكسرة"
+      },
+      "hikmah": "Menunjukkan asal tempat yang akan dikeluarkan, yaitu dari kota tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "أَهْلَهَا",
+      "transliterasi": "ahlāhā",
+      "jenis_kata": "Isim",
+      "arti": "penduduknya",
+      "sharaf": {
+        "akar_kata": "أ ه ل",
+        "makna_dasar": "keluarga, orang-orang",
+        "wazan_perubahan": "أَفْعَل (مفرد) + هَا (ضمير متصل) → أَهْل + هَا"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به للفعل \"تُخْرِجُوا\"",
+        "irab_dan_logika": "منصوب بالفتحة الظاهرة على آخره، والضمير المتصل \"ها\" مضاف إليه مجرور بالكسرة"
+      },
+      "hikmah": "Objek yang dimaksud untuk dikeluarkan adalah seluruh penduduk kota itu.",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "ۖ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf (tanda waqf)",
+      "arti": "tanda berhenti/waqf",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca yang memisahkan bagian kalimat",
+        "irab_dan_logika": "tidak memiliki i‘rāb karena merupakan tanda waqf"
+      },
+      "hikmah": "*Menandakan jeda, memberi ruang bagi pembaca memahami makna sebelumnya sebelum melanjutkan.*",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "فَسَوْفَ",
+      "transliterasi": "fa‑sawfa",
+      "jenis_kata": "Huruf (partikel)",
+      "arti": "lalu akan, segera",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "huruf penghubung yang menegaskan masa depan pada kata kerja berikutnya",
+        "irab_dan_logika": "tidak ber‑i‘rāb; berfungsi memperkuat makna masa depan pada fi‘il *taʿlamūna*"
+      },
+      "hikmah": "*Menunjukkan bahwa apa yang akan disebutkan selanjutnya pasti terjadi, menambah tekanan pada janji Allah.*",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "تَعْلَمُونَ",
+      "transliterasi": "taʿlamūna",
+      "jenis_kata": "Fiʿil (verb)",
+      "arti": "kamu akan mengetahui",
+      "sharaf": {
+        "akar_kata": "ع‑ل‑م",
+        "makna_dasar": "mengetahui, menyadari",
+        "wazan_perubahan": "pola *faʿala* dengan prefiks *ta‑* (present tense)"
+      },
+      "nahwu": {
+        "kedudukan": "fiʿil mudhari‘ (present) 2 mp, predikat dalam kalimat",
+        "irab_dan_logika": "marfuʿ karena fiʿil mudhari‘; dhammah pada nun menandakan plural maskulin"
+      },
+      "hikmah": "*Allah menegaskan bahwa pada akhirnya orang‑orang itu akan menyadari konsekuensi perbuatan mereka, sebagai peringatan dan pelajaran.*",
+      "role": "none"
+    }
+  ]
+}

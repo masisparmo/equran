@@ -1,0 +1,402 @@
+{
+  "surah": 9,
+  "ayah": 127,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "وَإِذَا",
+      "transliterasi": "wa-idhā",
+      "jenis_kata": "Huruf dan Isim",
+      "arti": "Dan apabila",
+      "sharaf": {
+        "akar_kata": "و ذ ي / أ ذ ي (untuk إِذَا)",
+        "makna_dasar": "Menunjukkan waktu atau kondisi yang akan datang.",
+        "wazan_perubahan": "Untuk إِذَا adalah Isim zaman, tidak memiliki wazan sharaf seperti fi'il."
+      },
+      "nahwu": {
+        "kedudukan": "Huruf athaf (waw) dan zharaf zaman (idhā)",
+        "irab_dan_logika": "`وَ`: Huruf `athaf` (penghubung) yang bermakna 'dan'. `Mabni` (tetap) di atas `fathah`, tidak memiliki kedudukan `i'rab`. `إِذَا`: `Zharaf zaman` (keterangan waktu) yang bermakna 'apabila' atau 'ketika'. `Mabni` (tetap) di atas `sukun` (karena diakhiri alif), dalam kedudukan `nashab` sebagai `maf'ul fih` (keterangan waktu) bagi fi'il jawabnya. Ia juga merupakan `syarat` (kondisional) yang tidak jazm."
+      },
+      "hikmah": "Menunjukkan permulaan suatu peristiwa atau kondisi, mengikat kalimat sebelumnya dengan kalimat sesudahnya, dan seringkali mengindikasikan suatu kejadian yang pasti akan terjadi atau telah terjadi di masa lalu (tergantung konteks). Di sini, ia memperkenalkan kondisi ketika sebuah surat diturunkan.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "مَآ",
+      "transliterasi": "mā",
+      "jenis_kata": "Huruf",
+      "arti": "Tidak ada arti spesifik dalam konteks ini, berfungsi sebagai penegas atau tambahan.",
+      "sharaf": {
+        "akar_kata": "N/A (huruf)",
+        "makna_dasar": "Penegas atau tambahan.",
+        "wazan_perubahan": "N/A (huruf)"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf za'idah (tambahan)",
+        "irab_dan_logika": "`Mā` di sini adalah `mā zā'idah` (tambahan) yang berfungsi sebagai penegas atau penguat, tidak memiliki pengaruh `i'rab` pada kata setelahnya. `Mabni` di atas `sukun`."
+      },
+      "hikmah": "Meskipun secara harfiah tidak menambah makna baru, keberadaannya bisa memberikan penekanan pada kejadian yang akan datang, atau sekadar sebagai penghubung yang fasih dalam gaya bahasa Arab. Dalam konteks ini, seringkali dianggap sebagai `mā zā'idah` setelah `idhā` untuk penekanan.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "أُنزِلَتْ",
+      "transliterasi": "unzilat",
+      "jenis_kata": "Fi'il",
+      "arti": "diturunkan",
+      "sharaf": {
+        "akar_kata": "ن ز ل (N-Z-L)",
+        "makna_dasar": "Turun, menempatkan, menurunkan.",
+        "wazan_perubahan": "Fi'il madhi (kata kerja lampau) `mabni lil majhul` (pasif) dari `wazan` `أَفْعَلَ` (Af'ala), menjadi `أُفْعِلَ` (Uf'ila). Bentuk aslinya `أَنْزَلَ` (anzala - menurunkan)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il madhi mabni lil majhul",
+        "irab_dan_logika": "`أُنزِلَتْ`: `Fi'il madhi` (kata kerja lampau) `mabni lil majhul` (pasif). `Mabni` (tetap) di atas `fathah` yang tersembunyi karena bersambung dengan `ta' ta'nits as-sakinah`. `تْ`: `Ta' ta'nits as-sakinah` (ta' penanda muannats yang sukun), tidak memiliki kedudukan `i'rab`, hanya sebagai penanda bahwa `na'ibul fa'il` (subjek pasif) adalah muannats (perempuan)."
+      },
+      "hikmah": "Menunjukkan tindakan penurunan yang dilakukan oleh pihak lain (Allah SWT), menekankan bahwa Al-Qur'an atau surat-suratnya adalah wahyu dari Allah, bukan buatan manusia. Penggunaan bentuk pasif mengalihkan fokus dari pelaku (Allah) kepada objek yang diturunkan (surat), menyoroti kejadian itu sendiri.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "سُورَةٌۭ",
+      "transliterasi": "sūratun",
+      "jenis_kata": "Isim",
+      "arti": "sebuah surat (dari Al-Qur'an)",
+      "sharaf": {
+        "akar_kata": "س و ر (S-W-R)",
+        "makna_dasar": "Dinding, pagar, batas, bagian. Dalam konteks Al-Qur'an, merujuk pada bab atau bagian tertentu.",
+        "wazan_perubahan": "Isim mufrad (tunggal) muannats. Tidak memiliki wazan sharaf seperti fi'il."
+      },
+      "nahwu": {
+        "kedudukan": "Na'ibul fa'il (subjek pasif) dari fi'il أُنزِلَتْ",
+        "irab_dan_logika": "`سُورَةٌ`: `Na'ibul fa'il` (subjek pasif) dari `fi'il` `أُنزِلَتْ`. `Marfu'` (rafa') dengan `dhammah` karena ia adalah `isim mufrad` (kata benda tunggal) dan merupakan pengganti `fa'il` (subjek) yang dihilangkan dalam kalimat pasif."
+      },
+      "hikmah": "Menunjuk pada bagian spesifik dari Al-Qur'an, yaitu sebuah surat. Ini menunjukkan bahwa wahyu Allah datang secara bertahap dalam bentuk surat-surat, masing-masing dengan tema dan ajarannya sendiri.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "نَّظَرَ",
+      "transliterasi": "naẓara",
+      "jenis_kata": "Fi'il",
+      "arti": "melihat, memandang",
+      "sharaf": {
+        "akar_kata": "ن ظ ر (N-Ẓ-R)",
+        "makna_dasar": "Melihat, memperhatikan, menunggu, berpikir.",
+        "wazan_perubahan": "Fi'il madhi (kata kerja lampau) `mabni lil ma'lum` (aktif) dari `wazan` `فَعَلَ` (Fa'ala)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il madhi, jawab dari idhā",
+        "irab_dan_logika": "`نَّظَرَ`: `Fi'il madhi` (kata kerja lampau) `mabni lil ma'lum` (aktif). `Mabni` (tetap) di atas `fathah`. Merupakan `fi'il jawab` (kata kerja jawaban) dari `syarat` `إِذَا`."
+      },
+      "hikmah": "Menggambarkan tindakan melihat atau memandang. Dalam konteks ayat ini, ini bukan sekadar melihat dengan mata, tetapi melihat dengan penuh perhatian atau kecurigaan, mencari tahu siapa yang melihat mereka, menunjukkan sikap waspada dan ketidaknyamanan orang-orang munafik.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "بَعْضُهُمْ",
+      "transliterasi": "ba'ḍuhum",
+      "jenis_kata": "Isim dan Dhamir",
+      "arti": "sebagian mereka",
+      "sharaf": {
+        "akar_kata": "ب ع ض (B-'-Ḍ)",
+        "makna_dasar": "Bagian, sebagian.",
+        "wazan_perubahan": "`بَعْضُ` adalah `isim mufrad` (kata benda tunggal). `هُمْ` adalah `dhamir muttasil` (kata ganti terhubung) untuk jamak muzakkar ghaib (mereka laki-laki)."
+      },
+      "nahwu": {
+        "kedudukan": "Fa'il (subjek) dari fi'il نَّظَرَ. هُمْ adalah mudhaf ilaih.",
+        "irab_dan_logika": "`بَعْضُ`: `Fa'il` (subjek) dari `fi'il` `نَّظَرَ`. `Marfu'` (rafa') dengan `dhammah` karena ia adalah `isim mufrad`. Ia juga `mudhaf` (yang disandarkan). `هُمْ`: `Dhamir muttasil` (kata ganti terhubung) `mabni` (tetap) di atas `sukun`. Dalam kedudukan `jar` (majrur) sebagai `mudhaf ilaih` (yang disandari)."
+      },
+      "hikmah": "Menunjukkan bahwa tindakan melihat atau memandang itu dilakukan oleh 'sebagian' dari mereka, bukan oleh semua. Ini bisa mengindikasikan adanya kelompok-kelompok di antara orang-orang munafik, atau bahwa tindakan ini adalah respons kolektif dari sebagian mereka yang merasa terancam atau tidak nyaman dengan turunnya surat tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "إِلَىٰ",
+      "transliterasi": "ilā",
+      "jenis_kata": "Huruf",
+      "arti": "ke, kepada, menuju",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Jar (preposisi)",
+        "irab_dan_logika": "Huruf jar adalah *mabni* (tidak berubah harakatnya) dan berfungsi menjadikan isim setelahnya *majrur* (berharakat kasrah atau yang setara)."
+      },
+      "hikmah": "Menunjukkan arah atau tujuan. Dalam konteks ayat ini, menunjukkan arah pandangan sebagian mereka kepada yang lain.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "بَعْضٍ",
+      "transliterasi": "ba'ḍin",
+      "jenis_kata": "Isim",
+      "arti": "sebagian, beberapa",
+      "sharaf": {
+        "akar_kata": "ب ع ض (B-'-Ḍ)",
+        "makna_dasar": "Bagian, sebagian dari keseluruhan.",
+        "wazan_perubahan": "Isim (kata benda), tidak memiliki wazan fi'il. Bentuk ini adalah isim."
+      },
+      "nahwu": {
+        "kedudukan": "Isim Majrur (setelah huruf jar إِلَىٰ)",
+        "irab_dan_logika": "*Majrur* dengan kasrah tanwin (بَعْضٍ) karena didahului oleh huruf jar إِلَىٰ."
+      },
+      "hikmah": "Mengacu pada sekelompok orang dari kaum munafik yang saling memandang di antara mereka.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "هَلْ",
+      "transliterasi": "hal",
+      "jenis_kata": "Huruf",
+      "arti": "apakah",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Istifham (kata tanya)",
+        "irab_dan_logika": "Huruf istifham adalah *mabni* (tidak berubah harakatnya) dan tidak memiliki kedudukan *i'rab*. Fungsinya untuk menanyakan sesuatu."
+      },
+      "hikmah": "Menunjukkan pertanyaan, dalam konteks ini, pertanyaan yang diucapkan oleh kaum munafik untuk memastikan apakah ada yang melihat mereka.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "يَرَىٰكُم",
+      "transliterasi": "yarākum",
+      "jenis_kata": "Fi'il + Dhamir",
+      "arti": "melihat kalian",
+      "sharaf": {
+        "akar_kata": "ر أ ى (R-'-Y)",
+        "makna_dasar": "Melihat, memandang.",
+        "wazan_perubahan": "Fi'il Mudhari' (kata kerja sekarang/akan datang). Bentuk asalnya adalah يَرَى (yarā). Penambahan كُم (kum) adalah *dhamir muttashil* (kata ganti bersambung) sebagai objek."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Marfu' (يَرَى) dan Dhamir Muttashil Manshub (كُم) sebagai Maf'ul Bih.",
+        "irab_dan_logika": "* يَرَىٰ: Fi'il Mudhari' *marfu'* dengan *dhammah muqaddarah* (tersembunyi) di atas alif karena merupakan *fi'il mu'tal* (berakhiran huruf illat).\n* كُم: *Dhamir muttashil mabni 'ala as-sukun fi mahalli nashb* (dalam posisi *nashab*) sebagai *maf'ul bih* (objek)."
+      },
+      "hikmah": "Menunjukkan tindakan melihat yang dilakukan oleh seseorang (subjek tersembunyi, yaitu أَحَدٍۢ) terhadap mereka (kaum munafik). Pertanyaan ini mencerminkan kekhawatiran mereka akan terlihat oleh kaum Muslimin.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "مِّنْ",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Jar",
+        "irab_dan_logika": "Huruf jar adalah *mabni* (tidak berubah harakatnya) dan berfungsi menjadikan isim setelahnya *majrur*. Dalam konteks ini, ia berfungsi sebagai *'min za'idah'* (tambahan) untuk penekanan setelah *istifham*, sehingga أَحَدٍۢ menjadi *fa'il majrur lafdzan marfu' mahallah*."
+      },
+      "hikmah": "Menunjukkan asal atau bagian. Dalam konteks pertanyaan negatif/istifham, ia sering digunakan untuk menguatkan makna 'satu pun' atau 'siapa pun'.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "أَحَدٍۢ",
+      "transliterasi": "aḥadin",
+      "jenis_kata": "Isim",
+      "arti": "seorang, siapa pun, seseorang",
+      "sharaf": {
+        "akar_kata": "و ح د (W-Ḥ-D)",
+        "makna_dasar": "Satu, tunggal, sendiri.",
+        "wazan_perubahan": "Isim (kata benda). Bentuk ini adalah isim."
+      },
+      "nahwu": {
+        "kedudukan": "Fa'il (subjek) dari fi'il يَرَىٰكُم, namun majrur secara lafadz karena didahului oleh huruf jar مِّنْ.",
+        "irab_dan_logika": "*Majrur* dengan kasrah tanwin (أَحَدٍۢ) secara *lafadz* karena didahului oleh huruf jar مِّنْ. Namun, secara *mahallah* (posisi), ia adalah *marfu'* karena merupakan *fa'il* dari fi'il يَرَىٰكُم. Ini adalah kasus '*fa'il majrur lafdzan marfu' mahallah*' yang umum terjadi setelah '*min za'idah*' dalam kalimat tanya atau negatif."
+      },
+      "hikmah": "Mengacu pada 'seseorang' atau 'satu pun' dari kaum Muslimin yang mungkin melihat mereka. Ini menunjukkan kekhawatiran kaum munafik akan terbongkarnya kemunafikan mereka.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "ثُمَّ",
+      "transliterasi": "tsumma",
+      "jenis_kata": "Huruf",
+      "arti": "kemudian, lalu",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Tidak berlaku",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf 'athaf (penghubung)",
+        "irab_dan_logika": "Mabniyyun 'ala al-fath (tetap dengan harakat fathah), tidak memiliki kedudukan i'rab karena huruf. Berfungsi untuk menunjukkan urutan waktu dengan jeda."
+      },
+      "hikmah": "Menunjukkan urutan kejadian yang berurutan dengan jeda waktu, mengindikasikan bahwa tindakan 'pergi' terjadi setelah 'memandang'.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "ٱنصَرَفُوا۟",
+      "transliterasi": "insharafū",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka berpaling/pergi",
+      "sharaf": {
+        "akar_kata": "ص ر ف (ṣ-r-f)",
+        "makna_dasar": "Memalingkan, mengubah, membelokkan.",
+        "wazan_perubahan": "اِنْفَعَلَ (infa'ala). Ini adalah fi'il madhi (kata kerja lampau) untuk jamak mudzakkar ghaib (mereka laki-laki)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Madhi (Kata Kerja Lampau)",
+        "irab_dan_logika": "Mabniyyun 'ala adh-dhamm (tetap dengan harakat dhammah) karena bersambung dengan wawu jama'ah (و). Wawu jama'ah adalah fa'il (subjek) yang berkedudukan rafa'."
+      },
+      "hikmah": "Menggambarkan tindakan orang-orang munafik yang berpaling dan pergi setelah merasa tidak ada yang melihat mereka, menunjukkan sifat pengecut dan ketidakjujuran mereka.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "ۚ",
+      "transliterasi": "Tanda waqaf lazim",
+      "jenis_kata": "Tanda Baca",
+      "arti": "Tidak ada arti harfiah, ini adalah tanda waqaf lazim",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Tidak berlaku",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf lazim (harus berhenti)",
+        "irab_dan_logika": "Tidak berlaku"
+      },
+      "hikmah": "Menunjukkan tempat berhenti yang dianjurkan dalam bacaan Al-Qur'an, seringkali menandakan selesainya satu gagasan atau bagian kalimat.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "صَرَفَ",
+      "transliterasi": "sharafa",
+      "jenis_kata": "Fi'il",
+      "arti": "Dia telah memalingkan",
+      "sharaf": {
+        "akar_kata": "ص ر ف (ṣ-r-f)",
+        "makna_dasar": "Memalingkan, mengubah, membelokkan.",
+        "wazan_perubahan": "فَعَلَ (fa'ala). Ini adalah fi'il madhi (kata kerja lampau) untuk mufrad mudzakkar ghaib (dia laki-laki)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Madhi (Kata Kerja Lampau)",
+        "irab_dan_logika": "Mabniyyun 'ala al-fath (tetap dengan harakat fathah) karena tidak bersambung dengan dhamir rafa' mutaharrik atau wawu jama'ah."
+      },
+      "hikmah": "Menekankan tindakan Allah SWT yang memalingkan hati mereka, menunjukkan kekuasaan ilahi dan konsekuensi dari perbuatan orang-orang munafik.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "ٱللَّهُ",
+      "transliterasi": "Allāhu",
+      "jenis_kata": "Isim",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "ا ل ه (a-l-h)",
+        "makna_dasar": "Tuhan, yang disembah.",
+        "wazan_perubahan": "Tidak berlaku secara tradisional untuk nama Allah"
+      },
+      "nahwu": {
+        "kedudukan": "Fa'il (Subjek) dari fi'il 'صَرَفَ'",
+        "irab_dan_logika": "Marfu' (rafa') dengan tanda dhammah (ضمة) karena merupakan fa'il."
+      },
+      "hikmah": "Menegaskan bahwa Allah SWT adalah pelaku utama yang memalingkan hati mereka, menunjukkan keadilan dan hikmah-Nya dalam menanggapi perilaku orang-orang munafik.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "قُلُوبَهُم",
+      "transliterasi": "qulūbahum",
+      "jenis_kata": "Isim + Dhamir",
+      "arti": "hati-hati mereka",
+      "sharaf": {
+        "akar_kata": "ق ل ب (q-l-b)",
+        "makna_dasar": "Membalik, mengubah, pusat.",
+        "wazan_perubahan": "فُعُولٌ (fu'ūlun) untuk bentuk jamak 'قُلُوب' (qulūb). 'هُم' (hum) adalah dhamir muttashil (kata ganti terhubung)."
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul Bih (Objek Penderita) untuk fi'il 'صَرَفَ'. 'هُم' adalah mudhaf ilaih.",
+        "irab_dan_logika": "Manshub (nashab) dengan tanda fathah (فتحة) karena merupakan maf'ul bih. Dhamir 'هُم' adalah mabniyyun 'ala as-sukun (tetap dengan harakat sukun) pada posisi jar (genitif) sebagai mudhaf ilaih."
+      },
+      "hikmah": "Menunjukkan bahwa yang dipalingkan adalah hati mereka, pusat pemahaman dan keimanan. Ini adalah hukuman ilahi bagi mereka yang tidak mau memahami kebenaran.",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "بِأَنَّهُمْ",
+      "transliterasi": "bi-annahum",
+      "jenis_kata": "Gabungan Huruf dan Isim Dhomir",
+      "arti": "Karena sesungguhnya mereka",
+      "sharaf": {
+        "akar_kata": "أَنَّ (Huruf), هُمْ (Dhomir)",
+        "makna_dasar": "Penegas (أَنَّ) dan kepemilikan/subjek (هُمْ)",
+        "wazan_perubahan": "N/A (untuk huruf dan dhomir)"
+      },
+      "nahwu": {
+        "kedudukan": "بـِ (Huruf Jar), أَنَّ (Huruf Nashab dan Taukid), هُمْ (Isim Dhomir Muttasil, sebagai Isim dari أَنَّ)",
+        "irab_dan_logika": "بـِ dan أَنَّ adalah huruf mabni. هُمْ adalah dhomir mabni 'ala as-sukun fi mahalli nashbin ismu anna (dhomir yang tetap pada sukun, pada posisi nashab sebagai isim dari 'anna')."
+      },
+      "hikmah": "Frasa ini berfungsi sebagai penjelas sebab atau alasan dari tindakan sebelumnya (Allah memalingkan hati mereka), yaitu karena sifat atau kondisi mereka.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "قَوْمٌۭ",
+      "transliterasi": "qawmun",
+      "jenis_kata": "Isim",
+      "arti": "Kaum, golongan, orang-orang",
+      "sharaf": {
+        "akar_kata": "ق و م (Q-W-M)",
+        "makna_dasar": "Berdiri, tegak, sekelompok orang yang berdiri bersama",
+        "wazan_perubahan": "Isim Jama' (bentuk jamak dari individu yang berkumpul)"
+      },
+      "nahwu": {
+        "kedudukan": "Khabar dari أَنَّ (anna)",
+        "irab_dan_logika": "Marfu' dengan dhommah tanwin karena berfungsi sebagai khabar dari أَنَّ, dan khabar أَنَّ selalu dalam keadaan marfu'."
+      },
+      "hikmah": "Kata ini menegaskan identitas atau sifat mereka sebagai suatu kelompok atau golongan yang memiliki karakteristik tertentu, yaitu tidak mengerti.",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "لَّا",
+      "transliterasi": "lā",
+      "jenis_kata": "Huruf",
+      "arti": "Tidak, bukan",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "Penafian, negasi",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Nafi (penafian)",
+        "irab_dan_logika": "Huruf mabni, tidak memiliki i'rab. Berfungsi menafikan fi'il mudhari' setelahnya."
+      },
+      "hikmah": "Menunjukkan penolakan atau ketiadaan sifat yang disebutkan setelahnya, yaitu ketiadaan pemahaman atau pengertian.",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "يَفْقَهُونَ",
+      "transliterasi": "yafqahūna",
+      "jenis_kata": "Fi'il Mudhari'",
+      "arti": "Mereka mengerti, mereka memahami",
+      "sharaf": {
+        "akar_kata": "ف ق ه (F-Q-H)",
+        "makna_dasar": "Memahami, mengerti secara mendalam",
+        "wazan_perubahan": "Fi'il Mudhari' dari bab فَقِهَ - يَفْقَهُ (faqih-yafqahu), dalam bentuk jama' mudzakkar gha'ib."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Marfu'",
+        "irab_dan_logika": "Marfu' dengan tetapnya Nun (ثبوت النون) karena termasuk Af'alul Khamsah (lima fi'il). Tidak didahului oleh Huruf Nashab atau Huruf Jazm. Wau jama'ah (و) adalah fa'il (subjek) dari fi'il ini."
+      },
+      "hikmah": "Menjelaskan kondisi mereka yang tidak memiliki pemahaman atau pengertian yang mendalam, yang menjadi akar masalah dari pemalingan hati mereka oleh Allah SWT.",
+      "role": "none"
+    }
+  ]
+}

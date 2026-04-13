@@ -1,0 +1,204 @@
+{
+  "surah": 11,
+  "ayah": 51,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "يَٰقَوْمِ",
+      "transliterasi": "yā qawmi",
+      "jenis_kata": "Isim (noun) dengan huruf نداء",
+      "arti": "wahai kaumku",
+      "sharaf": {
+        "akar_kata": "ق-و-م",
+        "makna_dasar": "kaum, suku, orang yang berdiri bersama",
+        "wazan_perubahan": "faʿala (قَوْم)"
+      },
+      "nahwu": {
+        "kedudukan": "مبتدأ منادى (vocative) مرفوع بالضمة الظاهرة على القاف، لكن بسبب النون الساكنة يصبح مجرور بالكسرة)",
+        "irab_dan_logika": "مجرور بالكسرة لأن كلمة نداء يجر الاسم المندوب"
+      },
+      "hikmah": "menunjukkan panggilan pribadi kepada kaum Nabi, menekankan ikatan emosional dan tanggung jawab",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "لَا",
+      "transliterasi": "lā",
+      "jenis_kata": "Huruf نفي",
+      "arti": "tidak",
+      "sharaf": {
+        "akar_kata": "ل-ا",
+        "makna_dasar": "menyangkal, menolak",
+        "wazan_perubahan": "ليس له وزن صرفي"
+      },
+      "nahwu": {
+        "kedudukan": "حرف نفي مبني على السكون لا محل له من الإعراب",
+        "irab_dan_logika": "حرف نفي لا يتغير"
+      },
+      "hikmah": "menegaskan bahwa Nabi tidak meminta upah",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "أَسْـَٔلُكُمْ",
+      "transliterasi": "asʾalu kum",
+      "jenis_kata": "Fiʿl (verb)",
+      "arti": "aku menanyakan / meminta",
+      "sharaf": {
+        "akar_kata": "س-أ-ل",
+        "makna_dasar": "menanyakan, meminta",
+        "wazan_perubahan": "فَعَلَ"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع بالضمة، والضمير المتصل (كم) في محل نصب مفعول به",
+        "irab_dan_logika": "الضمة لأن الفعل مضارع مرفوع، والكسرة على الكم لأنها مفعول به"
+      },
+      "hikmah": "menegaskan bahwa Nabi tidak menuntut apa‑apa sebagai balasan",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "عَلَيْهِ",
+      "transliterasi": "ʿalayhi",
+      "jenis_kata": "حرف جر + ضمير متصل",
+      "arti": "atasnya",
+      "sharaf": {
+        "akar_kata": "ع-ل-و",
+        "makna_dasar": "di atas, mengenai",
+        "wazan_perubahan": "ليس له وزن صرفي"
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر يتبعه ضمير متصل في محل جر",
+        "irab_dan_logika": "الجر بالكسرة لأن حرف الجر يجر ما بعده"
+      },
+      "hikmah": "menunjukkan bahwa upah bukan atas sesuatu yang diberikan",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "أَجْرًا",
+      "transliterasi": "ajran",
+      "jenis_kata": "Isim (noun)",
+      "arti": "upah, pahala",
+      "sharaf": {
+        "akar_kata": "ج-ر-",
+        "makna_dasar": "pahala, upah",
+        "wazan_perubahan": "فَعْل"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به منصوب بالفتحة",
+        "irab_dan_logika": "الفتحة لأنها مفعول به منصوب"
+      },
+      "hikmah": "menyiratkan bahwa balasan yang dimaksud hanyalah dari Allah",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "ۖ",
+      "transliterasi": "waqf",
+      "jenis_kata": "Huruf (tanda وقف)",
+      "arti": "tanda jeda",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "علامة وقف لا إعراب لها",
+        "irab_dan_logika": "تُستعمل لتقسيم الآية وإعطاء وقفة"
+      },
+      "hikmah": "memberi jeda untuk menekankan makna ayat",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "إِنْ",
+      "transliterasi": "in",
+      "jenis_kata": "Huruf",
+      "arti": "*sesungguhnya*, penegas",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "penegasan, menegaskan pernyataan",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf توكيد لا محل له من الإعراب، يسبق الفعل *لَا أَسْأَلُكُمْ*",
+        "irab_dan_logika": "حرف لا يُعرب؛ يرفع الفعل التالي لتأكيد المعنى"
+      },
+      "hikmah": "Menegaskan bahwa apa yang akan dikatakan adalah fakta yang kuat.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "أَجْرٍ",
+      "transliterasi": "ajrin",
+      "jenis_kata": "Isim",
+      "arti": "*upah*, imbalan",
+      "sharaf": {
+        "akar_kata": "ج ر",
+        "makna_dasar": "bayaran, imbalan",
+        "wazan_perubahan": "أَفْعَل"
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "ۚ",
+      "transliterasi": "Waqf Mutlaq",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "Tanda berhenti sempurna",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca dalam Al-Qur'an",
+        "irab_dan_logika": "Tidak memiliki i'rab karena bukan bagian dari struktur kalimat gramatikal. Fungsinya adalah sebagai petunjuk untuk berhenti membaca."
+      },
+      "hikmah": "Tanda ini mengindikasikan bahwa pembaca dianjurkan untuk berhenti sejenak. Hal ini membantu dalam memahami makna kalimat sebelumnya secara utuh dan mengambil napas sebelum melanjutkan bacaan, sehingga pesan yang disampaikan dapat dicerna dengan baik.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "أَفَلَا",
+      "transliterasi": "Afalā",
+      "jenis_kata": "Huruf (Gabungan dari Hamzah Istifham, Fa' Athaf, dan La Nafiyah)",
+      "arti": "Maka tidakkah? / Tidakkah kemudian?",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Gabungan tiga huruf:\n*   **أَ (Hamzatul Istifham)**: Huruf pertanyaan.\n*   **فَ (Fa'ul Athaf)**: Huruf penghubung (konjungsi) yang menunjukkan urutan dan sebab-akibat.\n*   **لَا (La An-Nafiyah)**: Huruf penafian (negasi) yang menafikan fi'il setelahnya.",
+        "irab_dan_logika": "Ketiga huruf ini adalah *mabni* (tetap) dan tidak memiliki kedudukan i'rab. Mereka berfungsi untuk membentuk struktur pertanyaan retoris negatif, yang bertujuan untuk menegaskan atau mengajak berpikir."
+      },
+      "hikmah": "Gabungan huruf ini membentuk pertanyaan retoris yang kuat, mengajak pendengar untuk merenung dan mengakui kebenaran yang seharusnya sudah jelas. Ini adalah bentuk teguran lembut namun mendalam, mendorong penggunaan akal dan hati nurani untuk memahami pesan yang disampaikan.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "تَعْقِلُونَ",
+      "transliterasi": "Ta'qilūna",
+      "jenis_kata": "Fi'il (Kata Kerja)",
+      "arti": "Kalian berakal / Kalian memikirkan / Kalian memahami",
+      "sharaf": {
+        "akar_kata": "ع-ق-ل (Ain-Qaf-Lam)",
+        "makna_dasar": "Akal, pikiran, pemahaman, mengikat, menahan.",
+        "wazan_perubahan": "Fi'il Mudhari' (Kata Kerja Masa Kini/Akan Datang) dari Bab I (فَعَلَ - يَفْعِلُ). Bentuk jamak mudzakkar mukhatab (kalian laki-laki)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Marfu' (Kata kerja masa kini/akan datang yang dirafa').",
+        "irab_dan_logika": "Fi'il ini *marfu'* karena tidak didahului oleh *amil nashab* (penashab) atau *amil jazm* (penjazm). Tanda *rafa'*-nya adalah tetapnya huruf nun (ثبوت النون) karena termasuk *Af'alul Khamsah* (lima fi'il). Wau jama'ah (و) adalah *fa'il* (subjek) yang kembali kepada kaum Nabi Nuh."
+      },
+      "hikmah": "Kata ini menekankan pentingnya penggunaan akal dan pikiran untuk memahami kebenaran, khususnya tentang keesaan Allah dan hakikat dakwah para nabi. Ini adalah ajakan untuk merenung, menganalisis, dan mengambil pelajaran dari apa yang disampaikan, agar tidak terjerumus dalam kesesatan karena mengabaikan akal.",
+      "role": "none"
+    }
+  ]
+}

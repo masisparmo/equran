@@ -1,0 +1,240 @@
+{
+  "surah": 9,
+  "ayah": 11,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "فَإِن",
+      "transliterasi": "fa‑in",
+      "jenis_kata": "Huruf",
+      "arti": "maka jika",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "huruf sambung + huruf syarat",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "kata pembuka ayat, menghubungkan dengan ayat sebelumnya",
+        "irab_dan_logika": "huruf لا إعراب، berfungsi sebagai **حرف عطف** + **حرف شرط**"
+      },
+      "hikmah": "*Menandakan syarat*: bila mereka melakukan hal‑hal berikut, maka konsekuensi selanjutnya berlaku.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "تَابُوا۟",
+      "transliterasi": "taabuu",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka bertaubat",
+      "sharaf": {
+        "akar_kata": "ت‑و‑ب",
+        "makna_dasar": "taubah (menyesali dosa)",
+        "wazan_perubahan": "فَعَلَ"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il madhi, predikat pertama dalam rangkaian",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فعل ماضٍ"
+      },
+      "hikmah": "*Taubah* menandakan perubahan hati yang tulus, membuka pintu kembali kepada Allah.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "وَأَقَامُوا۟",
+      "transliterasi": "wa‑aqamuu",
+      "jenis_kata": "Fi'il",
+      "arti": "dan mereka mendirikan",
+      "sharaf": {
+        "akar_kata": "ق‑و‑م",
+        "makna_dasar": "qiyām (menegakkan, melaksanakan)",
+        "wazan_perubahan": "أَفْعَلَ"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il madhi, predikat kedua yang berkoordinasi dengan yang pertama melalui **و**",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فعل ماضٍ"
+      },
+      "hikmah": "Menegakkan **sholat** menunjukkan komitmen praktis terhadap keimanan setelah taubah.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "ٱلصَّلَوٰةَ",
+      "transliterasi": "as‑ṣalāhata",
+      "jenis_kata": "Isim",
+      "arti": "sholat",
+      "sharaf": {
+        "akar_kata": "ص‑ل‑و",
+        "makna_dasar": "salāh (doa, sujud)",
+        "wazan_perubahan": "فَعَلَ"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به (objek) dari fi'il **أَقَامُوا**",
+        "irab_dan_logika": "منصوب بالفتحة لأنه مفعول به"
+      },
+      "hikmah": "*Sholat* adalah tiang utama ibadah; menegakkannya menegakkan hubungan manusia dengan Sang Pencipta.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "وَءَاتَوُا۟",
+      "transliterasi": "wa‑aatawuu",
+      "jenis_kata": "Fi'il",
+      "arti": "dan mereka menunaikan",
+      "sharaf": {
+        "akar_kata": "أ‑و‑ت",
+        "makna_dasar": "ʾaṭā (memberi, menunaikan)",
+        "wazan_perubahan": "أَفْعَلَ"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il madhi, predikat ketiga yang berkoordinasi dengan yang sebelumnya melalui **و**",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فعل ماضٍ"
+      },
+      "hikmah": "Menunaikan **zakat** menandakan kepedulian sosial dan pembersihan harta setelah taubah dan sholat.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "ٱلزَّكَوٰةَ",
+      "transliterasi": "az‑zakāhata",
+      "jenis_kata": "Isim",
+      "arti": "zakat",
+      "sharaf": {
+        "akar_kata": "ز‑ك‑و",
+        "makna_dasar": "zakāh (pembersihan, sedekah)",
+        "wazan_perubahan": "فَعَلَ"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به (objek) dari fi'il **ءَاتَوُا**",
+        "irab_dan_logika": "منصوب بالفتحة لأنه مفعول به"
+      },
+      "hikmah": "*Zakat* membersihkan harta, memperkuat solidaritas umat, dan melengkapi rangkaian taubah‑sholat‑zakat sebagai manifestasi keimanan.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "فَإِخْوَٰنُكُمْ",
+      "transliterasi": "fa-ikhwānukum",
+      "jenis_kata": "Isim",
+      "arti": "saudara‑saudara kalian",
+      "sharaf": {
+        "akar_kata": "خ و ن",
+        "makna_dasar": "saudara",
+        "wazan_perubahan": "إِخْوَان (jamak taksir) + كُمْ (suffiks 2 mp)"
+      },
+      "nahwu": {
+        "kedudukan": "Isim **marfu'** sebagai subjek tersirat setelah huruf *fa* (فَ)",
+        "irab_dan_logika": "مرفوع بالضمة لأنّها اسم مرفوع بعد الفاء وعلامة رفعه الضمة"
+      },
+      "hikmah": "Menegaskan ikatan persaudaraan sesama Muslim yang beriman.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "فِي",
+      "transliterasi": "fī",
+      "jenis_kata": "Huruf",
+      "arti": "di dalam",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "huruf jar preposisi"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar yang menghubungkan *إِخْوَٰنُكُمْ* dengan *الدِّينِ*",
+        "irab_dan_logika": "حرف جر يجر الاسم التالي (الدِّينِ) إلى الجر"
+      },
+      "hikmah": "Menunjukkan bahwa persaudaraan itu berada **dalam** kerangka agama.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "ٱلدِّينِ",
+      "transliterasi": "al‑dīni",
+      "jenis_kata": "Isim",
+      "arti": "agama",
+      "sharaf": {
+        "akar_kata": "د ي ن",
+        "makna_dasar": "agama, sistem kepercayaan",
+        "wazan_perubahan": "اسم مضاف إليه مع ال التعريف"
+      },
+      "nahwu": {
+        "kedudukan": "Isim **majrur** sebagai mudhaf ilayh setelah huruf *fī*",
+        "irab_dan_logika": "مجرور بالكسرة لأنّها اسم مجرور بحرف الجر *فِي*"
+      },
+      "hikmah": "Menyiratkan bahwa persaudaraan itu berada **dalam agama** Islam.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "ۗ",
+      "transliterasi": "",
+      "jenis_kata": "Tanda baca",
+      "arti": "—",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Pemutus ayat (علامة وقف)",
+        "irab_dan_logika": "Tidak berirab karena bukan kata"
+      },
+      "hikmah": "Memisahkan dua bagian utama ayat: (1) persaudaraan dalam agama, (2) penjelasan ayat‑ayat.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "وَنُفَصِّلُ",
+      "transliterasi": "wa‑nufaṣṣilu",
+      "jenis_kata": "Fi'il",
+      "arti": "dan Kami menjelaskan",
+      "sharaf": {
+        "akar_kata": "ف ص ل",
+        "makna_dasar": "memisahkan, menjelaskan",
+        "wazan_perubahan": "فَعَّلَ – bentuk mudhari‘ (مضارع) dengan prefiks *ن* (kami) dan *و* (wa) sebagai huruf sambung"
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "لِقَوْمٍۢ",
+      "transliterasi": "li‑qawmin",
+      "jenis_kata": "Isim (noun) dalam majrur setelah huruf jar",
+      "arti": "bagi/untuk kaum",
+      "sharaf": {
+        "akar_kata": "ق‑و‑م",
+        "makna_dasar": "berkumpul, menjadi umat",
+        "wazan_perubahan": "فَعَلَ → قَوْم (isim)"
+      },
+      "nahwu": {
+        "kedudukan": "مجرور بالكسرة كاسم مجرور بعد حرف الجر *li*",
+        "irab_dan_logika": "حرف الجر *li* يجر الاسم فَإِعرابُهُ مجرور وعلامة جره الكسرة"
+      },
+      "hikmah": "*Liqawmin* menegaskan bahwa kebaikan‑kebaikan tersebut ditujukan **kepada sekumpulan orang** yang memiliki sifat tertentu, yaitu orang‑orang yang mengetahui.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "يَعْلَمُونَ",
+      "transliterasi": "ya‘lamūna",
+      "jenis_kata": "Fi‘il (verb) mudhari‘, 3rd person masculine plural",
+      "arti": "mereka mengetahui",
+      "sharaf": {
+        "akar_kata": "ع‑ل‑م",
+        "makna_dasar": "mengetahui, ilmu",
+        "wazan_perubahan": "فَعَلَ → عَلِمَ (verb) → يَعْلَمُ (present)"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع في جملة صفة (الناس الذين يَعْلَمُونَ)",
+        "irab_dan_logika": "المرفوع بالضمة الظاهرة على آخره، والواو للرفع، والنون للغائب"
+      },
+      "hikmah": "Kata ini menegaskan **sifat** orang‑orang yang dimaksud: mereka adalah *orang yang mengetahui*, sehingga kebaikan‑kebaikan itu menjadi ikatan persaudaraan dalam agama bagi mereka yang berilmu.",
+      "role": "none"
+    }
+  ]
+}

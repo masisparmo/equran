@@ -1,0 +1,294 @@
+{
+  "surah": 9,
+  "ayah": 58,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "وَمِنْهُم",
+      "transliterasi": "wa‑minhum",
+      "jenis_kata": "Huruf",
+      "arti": "dan dari mereka",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "حرف عطف يربط ما قبلها بما بعده",
+        "irab_dan_logika": "حرف عطف لا إعراب له؛ \"min\" حرف جر والضمير المتصل \"hum\" مجرور بالكسرة"
+      },
+      "hikmah": "menunjukkan tambahan bahwa sebagian orang termasuk dalam kelompok yang dibicarakan",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "مَّن",
+      "transliterasi": "man",
+      "jenis_kata": "Isim",
+      "arti": "siapa (yang)",
+      "sharaf": {
+        "akar_kata": "م‑ن",
+        "makna_dasar": "siapa",
+        "wazan_perubahan": "اسم موصول"
+      },
+      "nahwu": {
+        "kedudukan": "مبتدأ مرفوع",
+        "irab_dan_logika": "مرفوع بالضمة لأنه مبتدأ"
+      },
+      "hikmah": "menunjuk pada orang yang akan melakukan tindakan selanjutnya",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "يَلْمِزُكَ",
+      "transliterasi": "yalmizu‑ka",
+      "jenis_kata": "Fi'il",
+      "arti": "mencelamu",
+      "sharaf": {
+        "akar_kata": "ل‑م‑ز",
+        "makna_dasar": "menemukan kesalahan, mencela",
+        "wazan_perubahan": "فعل مضارع"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فعل مضارع غير مجزوم"
+      },
+      "hikmah": "menyiratkan sikap menentang atau mengkritik terkait zakat",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "فِى",
+      "transliterasi": "fi",
+      "jenis_kata": "Huruf",
+      "arti": "di, dalam",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر",
+        "irab_dan_logika": "حرف جر لا إعراب له، يجر ما بعده"
+      },
+      "hikmah": "menunjukkan tempat atau bidang yang menjadi objek kritik",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "ٱلصَّدَقَٰتِ",
+      "transliterasi": "as‑sadaqati",
+      "jenis_kata": "Isim",
+      "arti": "zakat",
+      "sharaf": {
+        "akar_kata": "ص‑د‑ق",
+        "makna_dasar": "kebenaran, amal baik",
+        "wazan_perubahan": "اسم جمع مؤنث سالم"
+      },
+      "nahwu": {
+        "kedudukan": "مجرور بحرف الجر \"fi\"",
+        "irab_dan_logika": "مجرور بالكسرة لأنه تابع لحرف الجر"
+      },
+      "hikmah": "menyiratkan objek kritik, yaitu zakat yang dibagikan",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "فَإِنْ",
+      "transliterasi": "fa‑in",
+      "jenis_kata": "Huruf",
+      "arti": "maka jika",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "حرف عطف + حرف شرط",
+        "irab_dan_logika": "لا إعراب لهما، يربطان الجملة السابقة باللاحقة الشرطية"
+      },
+      "hikmah": "menandai permulaan ayat lanjutan yang menjelaskan konsekuensi dari sikap tersebut",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "أُعْطُوا۟",
+      "transliterasi": "u‘ṭū",
+      "jenis_kata": "Fi'il",
+      "arti": "*mereka diberi*",
+      "sharaf": {
+        "akar_kata": "ع ط و",
+        "makna_dasar": "memberi",
+        "wazan_perubahan": "أُفْعِل (pasif)"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja dalam klausa bersyarat setelah *إِن*",
+        "irab_dan_logika": "verb past (مبني على الفتح) karena bentuk *أُعْطُوا* menunjukkan waktu lampau; berfungsi sebagai predikat kondisi"
+      },
+      "hikmah": "menunjukkan bahwa bila mereka **diberi** (zakat) mereka akan merasa puas",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "مِنْهَا",
+      "transliterasi": "minhā",
+      "jenis_kata": "Huruf",
+      "arti": "*dari itu*",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "preposisi *dari*",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "jar dan majrur, melengkapi *أُعْطُوا*",
+        "irab_dan_logika": "مِنْ حرف جر، والهاء ضمير متصل مجرور بالكسرة"
+      },
+      "hikmah": "menunjuk sumber zakat yang dimaksud, yaitu *dari* harta mereka",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "رَضُوا۟",
+      "transliterasi": "raḍū",
+      "jenis_kata": "Fi'il",
+      "arti": "*mereka puas / senang*",
+      "sharaf": {
+        "akar_kata": "ر ض ي",
+        "makna_dasar": "merasa puas",
+        "wazan_perubahan": "فَعَلوا"
+      },
+      "nahwu": {
+        "kedudukan": "predikat setelah *أُعْطُوا*",
+        "irab_dan_logika": "فعل مضارع مرفوع بالضمة لأن tidak ada huruf نَصْب"
+      },
+      "hikmah": "menyatakan reaksi positif mereka bila menerima zakat",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "وَإِن",
+      "transliterasi": "wa‑in",
+      "jenis_kata": "Huruf",
+      "arti": "*dan jika*",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "kata sambung *dan* + kata syarat *jika*",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "huruf عطف وحرف شرط يربط الجملة السابقة باللاحقة",
+        "irab_dan_logika": "لا إعراب له، يربط الجمل"
+      },
+      "hikmah": "memperkenalkan kondisi berlawanan dalam ayat",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "لَّمْ",
+      "transliterasi": "lam",
+      "jenis_kata": "Huruf",
+      "arti": "*tidak*",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "huruf نفي للجزم",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "حرف نفي للجزم قبل الفعل *يُعْطَوْا*",
+        "irab_dan_logika": "يُجزم الفعل المضارع ويُسقَطُ حرف العلة"
+      },
+      "hikmah": "menyatakan penolakan atau ketiadaan pemberian zakat",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "يُعْطَوْا۟",
+      "transliterasi": "yu‘ṭaw",
+      "jenis_kata": "Fi'il",
+      "arti": "*mereka diberi*",
+      "sharaf": {
+        "akar_kata": "ع ط و",
+        "makna_dasar": "memberi",
+        "wazan_perubahan": "يُفْعَل"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مجزوم بـ *لَّمْ* في جملة الشرط",
+        "irab_dan_logika": "مجزوم بالفتحة لأنه مسبوق بحرف نفي *لَّمْ*"
+      },
+      "hikmah": "menyiratkan bahwa bila tidak diberikan, mereka tetap **marah** atau tidak puas",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "مِنْهَآ",
+      "transliterasi": "min‑hā",
+      "jenis_kata": "Huruf",
+      "arti": "dari‑nya (perempuan/itu)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Preposisi yang mengikat pada kata ganti *‑hā*; membentuk frasa preposisional *min‑hā*",
+        "irab_dan_logika": "*min* berharakat kasrah (مِنْ) karena hurufnya huruf jar, dan *hā* terikat tanpa harakat terpisah; menandakan sumber atau asal"
+      },
+      "hikmah": "*Min‑hā* menegaskan bahwa zakat diambil **dari** harta yang dimiliki, menyoroti asal‑usul kekayaan yang harus dibersihkan",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "إِذَا",
+      "transliterasi": "idhā",
+      "jenis_kata": "Huruf",
+      "arti": "jika",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf syarat yang memperkenalkan klausa bersyarat",
+        "irab_dan_logika": "Tidak berirab karena huruf; menghubungkan kondisi *idhā* dengan fi‘l selanjutnya (misalnya يُعْطَى)"
+      },
+      "hikmah": "*Idhā* menandakan **syarat** yang menentukan reaksi orang‑orang itu terhadap pemberian atau penolakan zakat",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "هُمْ",
+      "transliterasi": "hum",
+      "jenis_kata": "Isim",
+      "arti": "mereka",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Dhummah sebagai **fa‘il** (subjek) dalam kalimat",
+        "irab_dan_logika": "Berharakat dammah (هُمْ) menandakan posisi subjek yang melakukan aksi pada fi‘l berikutnya"
+      },
+      "hikmah": "*Hum* merujuk pada **golongan orang** yang menentang atau menolak zakat, menjadi fokus tindakan selanjutnya",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "يَسْخَطُونَ",
+      "transliterasi": "yaskhaṭūna",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka menjadi marah",
+      "sharaf": {
+        "akar_kata": "س‑خ‑ط",
+        "makna_dasar": "marah, tersinggung",
+        "wazan_perubahan": "فَعَلَ (imperfect)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi‘l mudhari‘ (imperfect) orang ketiga jamak maskulin",
+        "irab_dan_logika": "Berharakat dammah pada huruf terakhir (ـونَ) menandakan bentuk mudhari‘ aktif; menjadi predikat utama dalam klausa *idhā lam yu‘ṭahum*"
+      },
+      "hikmah": "*Yaskhaṭūna* menggambarkan **kekesalan** orang‑orang itu bila tidak diberikan zakat, menegaskan konsekuensi sosial dari penolakan tersebut",
+      "role": "none"
+    }
+  ]
+}

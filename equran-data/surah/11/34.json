@@ -1,0 +1,312 @@
+{
+  "surah": 11,
+  "ayah": 34,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "وَلَا",
+      "transliterasi": "*wa-lā*",
+      "jenis_kata": "*Huruf*",
+      "arti": "*dan tidak*",
+      "sharaf": {
+        "akar_kata": "*لا*",
+        "makna_dasar": "*penolakan*",
+        "wazan_perubahan": "*tidak berlaku*"
+      },
+      "nahwu": {
+        "kedudukan": "*Huruf sambung di awal kalimat, menolak*",
+        "irab_dan_logika": "*Tidak berharakat khusus, tetap wa‑lā*"
+      },
+      "hikmah": "*Menegaskan penolakan nasihat bila Allah menyesatkan*",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "يَنفَعُكُمْ",
+      "transliterasi": "*yanfa‘u kum*",
+      "jenis_kata": "*Fi‘il*",
+      "arti": "*akan memberi manfaat kepadamu*",
+      "sharaf": {
+        "akar_kata": "*ن-ف-ع*",
+        "makna_dasar": "*memberi manfaat, berguna*",
+        "wazan_perubahan": "*فَعَلَ*"
+      },
+      "nahwu": {
+        "kedudukan": "*Predikat (verb) dalam klausa*",
+        "irab_dan_logika": "*مضارع مرفوع بالضمة، والضمير المتصل في محل نصب مفعول به*"
+      },
+      "hikmah": "*Menunjukkan bahwa nasihat tidak akan memberi manfaat bila Allah menyesatkan*",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "نُصْحِىٓ",
+      "transliterasi": "*nuṣḥī*",
+      "jenis_kata": "*Isim*",
+      "arti": "*nasihatku*",
+      "sharaf": {
+        "akar_kata": "*ن-ص-ح*",
+        "makna_dasar": "*memberi nasihat, kebenaran*",
+        "wazan_perubahan": "*فَعْل (isim dari فعل)*"
+      },
+      "nahwu": {
+        "kedudukan": "*Objek (مفعول به) dari fi‘il yanfa‘u*",
+        "irab_dan_logika": "*منصوب بالفتحة*"
+      },
+      "hikmah": "*Menekankan kepemilikan nasihat oleh pembicara*",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "إِنْ",
+      "transliterasi": "*in*",
+      "jenis_kata": "*Huruf*",
+      "arti": "*jika*",
+      "sharaf": {
+        "akar_kata": "*-",
+        "makna_dasar": "*-",
+        "wazan_perubahan": "*-"
+      },
+      "nahwu": {
+        "kedudukan": "*Huruf syarat, memulai klausa*",
+        "irab_dan_logika": "*حرف مشروط لا محل له من الإعراب*"
+      },
+      "hikmah": "*Menandakan kondisi syarat*",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "أَرَدتُّ",
+      "transliterasi": "*aradt-tu*",
+      "jenis_kata": "*Fi‘il*",
+      "arti": "*aku ingin*",
+      "sharaf": {
+        "akar_kata": "*ر-د-و*",
+        "makna_dasar": "*ingin, menghendaki*",
+        "wazan_perubahan": "*فَعَلَ*"
+      },
+      "nahwu": {
+        "kedudukan": "*فعل ماضٍ dalam جملة الشرط*",
+        "irab_dan_logika": "*مرفوع بالضمة*"
+      },
+      "hikmah": "*Menunjukkan keinginan pembicara*",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "أَنْ",
+      "transliterasi": "*an*",
+      "jenis_kata": "*Huruf*",
+      "arti": "*untuk*",
+      "sharaf": {
+        "akar_kata": "*-",
+        "makna_dasar": "*-",
+        "wazan_perubahan": "*-"
+      },
+      "nahwu": {
+        "kedudukan": "*Huruf tujuan, menghubungkan fi‘il selanjutnya*",
+        "irab_dan_logika": "*حرف نصب لا محل له من الإعراب*"
+      },
+      "hikmah": "*Menandakan tujuan tindakan*",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "أَنصَحَ",
+      "transliterasi": "anṣaḥa",
+      "jenis_kata": "Fi'il (madhi)",
+      "arti": "menasihati, memberi nasihat",
+      "sharaf": {
+        "akar_kata": "ن ص ح",
+        "makna_dasar": "nasihah, petunjuk",
+        "wazan_perubahan": "أَفْعَلَ (form I)"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja dalam klausa bersyarat setelah **أَنْ**",
+        "irab_dan_logika": "مُنصَب karena setelah حرف النصب **أَنْ** verb berada dalam حالة الجزم dengan فتحة على آخره"
+      },
+      "hikmah": "Nasihat tidak akan memberi manfaat bila Allah menghendaki kesesatan, menegaskan takdir dan kehendak Ilahi.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "لَكُمْ",
+      "transliterasi": "lakum",
+      "jenis_kata": "Huruf (jar) + ضمير",
+      "arti": "bagi kamu, untuk kalian",
+      "sharaf": {
+        "akar_kata": "ل ك م (huruf)",
+        "makna_dasar": "menunjuk kepemilikan atau tujuan",
+        "wazan_perubahan": "حرف الجر **li-** + ضمير متصل"
+      },
+      "nahwu": {
+        "kedudukan": "مجرور متعلق بـ **أَنصَحَ** كفاعل غير مباشر",
+        "irab_dan_logika": "مجرور بالكسرة لأن **li-** حرف جر"
+      },
+      "hikmah": "Menunjukkan bahwa nasihat ditujukan kepada umat, meski tak berguna bila Allah menolak.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "إِن",
+      "transliterasi": "in",
+      "jenis_kata": "Huruf",
+      "arti": "jika",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "حرف شرط"
+      },
+      "nahwu": {
+        "kedudukan": "حرف شرط يسبق جملة شرطية",
+        "irab_dan_logika": "حرف لا يُعرب، يرفع الفعل التالي إلى حالة الجزم"
+      },
+      "hikmah": "Menyatakan kondisi yang bersifat hipotetik, menegaskan bahwa nasihat tidak berguna bila syarat tertentu terpenuhi.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "كَانَ",
+      "transliterasi": "kāna",
+      "jenis_kata": "Fi'il (madhi)",
+      "arti": "adalah, menjadi",
+      "sharaf": {
+        "akar_kata": "ك و ن",
+        "makna_dasar": "keberadaan, keadaan",
+        "wazan_perubahan": "كان"
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "أَن",
+      "transliterasi": "an",
+      "jenis_kata": "Huruf",
+      "arti": "bahwa",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "kata sambung yang menghubungkan klausa",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Partikel penghubung setelah *إن* menyiapkan verba selanjutnya",
+        "irab_dan_logika": "Berharakat fatha pada alif dan sukun pada nun; tidak berubah karena merupakan huruf, menandakan verba berikutnya berada dalam bentuk jussive"
+      },
+      "hikmah": "Menunjukkan syarat bahwa bila Allah menghendaki, Dia dapat menyesatkan manusia",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "يُغْوِيَكُمْ",
+      "transliterasi": "yughwiykum",
+      "jenis_kata": "Fi'il",
+      "arti": "menyesatkan kamu",
+      "sharaf": {
+        "akar_kata": "غ-و-ي",
+        "makna_dasar": "menyimpang, menyesatkan",
+        "wazan_perubahan": "bentuk mudhari' (present) dengan huruf *y* di awal"
+      },
+      "nahwu": {
+        "kedudukan": "Predikat setelah *أَن*, berupa verba jussive",
+        "irab_dan_logika": "Berharakat damma pada *y*, sukun pada huruf terakhir karena jussive (مجزوم) setelah *أَن*"
+      },
+      "hikmah": "Allah memiliki kuasa untuk menyesatkan bila Dia menghendaki",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "ۙ",
+      "transliterasi": "ۙ",
+      "jenis_kata": "Huruf",
+      "arti": "tanda akhir ayat",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "simbol baca, tidak memiliki akar morfologis",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Penanda jeda/akhir ayat, tidak berirab",
+        "irab_dan_logika": "Tidak berlaku karena bukan kata"
+      },
+      "hikmah": "Memberi isyarat berhenti sejenak sebelum melanjutkan ayat",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "هُوَ",
+      "transliterasi": "huwa",
+      "jenis_kata": "Isim",
+      "arti": "Dia",
+      "sharaf": {
+        "akar_kata": "ه-و-ا",
+        "makna_dasar": "kata ganti orang ketiga tunggal maskulin",
+        "wazan_perubahan": "bentuk dasar"
+      },
+      "nahwu": {
+        "kedudukan": "Subjek dalam konstruksi *هو ربكم*",
+        "irab_dan_logika": "Marfu' (raf') dengan damma karena berfungsi sebagai mubtada'}"
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "رَبُّكُمْ",
+      "transliterasi": "rabbukum",
+      "jenis_kata": "Isim",
+      "arti": "Tuhanmu",
+      "sharaf": {
+        "akar_kata": "ر-ب-ب",
+        "makna_dasar": "pemilik, penguasa",
+        "wazan_perubahan": "madhi atau isim maulid dengan tambahan dhamir *kum*"
+      },
+      "nahwu": {
+        "kedudukan": "Khabar (predikat nominal) setelah *هو*",
+        "irab_dan_logika": "Marfu' dengan damma pada *رَبّ* karena menjadi khabar"
+      },
+      "hikmah": "Allah ditegaskan sebagai Tuhan yang berhak disembah",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "وَإِلَيْهِ",
+      "transliterasi": "wa-ilihi",
+      "jenis_kata": "Huruf",
+      "arti": "dan kepada-Nya",
+      "sharaf": {
+        "akar_kata": "إ-ل-ي",
+        "makna_dasar": "menunjuk arah atau tujuan",
+        "wazan_perubahan": "preposisi *إِلَى* dengan huruf *ه* sebagai dhamir"
+      },
+      "nahwu": {
+        "kedudukan": "Keterangan arah dalam kalimat *وَإِلَيْهِ تُرْجَعُونَ*",
+        "irab_dan_logika": "Majrur (kasrah) pada *هِ* karena berada dalam konstruksi preposisional"
+      },
+      "hikmah": "Mengingatkan bahwa semua makhluk akan kembali kepada Allah",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "تُرْجَعُونَ",
+      "transliterasi": "turja‘ūna",
+      "jenis_kata": "Fi'il (passif, mudhari‘, 2nd person plural)",
+      "arti": "kamu (semua) akan dikembalikan",
+      "sharaf": {
+        "akar_kata": "ر ج ع",
+        "makna_dasar": "kembali, mengembalikan",
+        "wazan_perubahan": "فُعِل (passif bentuk I)"
+      },
+      "nahwu": {
+        "kedudukan": "Predikat (fi'il) dalam frasa *إِلَىٰ رَبِّكُمْ تُرْجَعُونَ*",
+        "irab_dan_logika": "Marfu‘ karena fi'il mudhari‘; akhiran **ونَ** menandakan jamak maskulin"
+      },
+      "hikmah": "Ayat ini menegaskan bahwa setiap manusia pasti akan kembali kepada Tuhan, menumbuhkan kesadaran akan pertanggungjawaban akhirat.",
+      "role": "none"
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "surah": 9,
+  "ayah": 41,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "ٱنفِرُوا۟",
+      "transliterasi": "infirū",
+      "jenis_kata": "Fi'il (imperatif)",
+      "arti": "Berangkatlah / Pergilah",
+      "sharaf": {
+        "akar_kata": "ف ر ر",
+        "makna_dasar": "memisahkan, menyebar, pergi",
+        "wazan_perubahan": "فَعَلَ → انفعل (imperatif)"
+      },
+      "nahwu": {
+        "kedudukan": "Predikat perintah (fi'il amar) di awal ayat",
+        "irab_dan_logika": "Berakhiran dammah (ū) menandakan fi'il amar untuk jamak maskulin"
+      },
+      "hikmah": "**Ajakan** untuk berangkat ke medan jihad, baik dalam keadaan ringan maupun berat.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "خِفَافًۭا",
+      "transliterasi": "khifāfan",
+      "jenis_kata": "Isim (mansub)",
+      "arti": "Ringan",
+      "sharaf": {
+        "akar_kata": "خ ف ف",
+        "makna_dasar": "ringan, tidak berat",
+        "wazan_perubahan": "فَعَل → خِفَال (isim)"
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul bih (objek) setelah fi'il amar",
+        "irab_dan_logika": "Berakhiran fathah tanwin karena mansub tak berdefinisi"
+      },
+      "hikmah": "Menunjukkan **keadaan ringan** yang tetap layak untuk berperang.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "وَثِقَالًۭا",
+      "transliterasi": "wa-thiqālan",
+      "jenis_kata": "Isim (mansub)",
+      "arti": "Berat",
+      "sharaf": {
+        "akar_kata": "ث ق ل",
+        "makna_dasar": "berat, beban",
+        "wazan_perubahan": "فَعَل → ثِقَال (isim)"
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul bih berkoordinasi dengan خِفَافًۭا melalui wa",
+        "irab_dan_logika": "Berakhiran fathah tanwin karena mansub tak berdefinisi"
+      },
+      "hikmah": "Menyertakan **keadaan berat** sebagai lawan dari ringan, menegaskan bahwa perintah berlaku untuk semua kondisi.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "وَجَٰهِدُوا۟",
+      "transliterasi": "wa-jahidū",
+      "jenis_kata": "Fi'il (imperatif)",
+      "arti": "Berjihadlah",
+      "sharaf": {
+        "akar_kata": "ج ه د",
+        "makna_dasar": "berjuang, berikhtiar di jalan Allah",
+        "wazan_perubahan": "فَعِلُوا (imperatif jamak)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il amar kedua, berkoordinasi dengan ٱنفِرُوا۟ melalui wa",
+        "irab_dan_logika": "Berakhiran dammah (ū) menandakan fi'il amar jamak maskulin"
+      },
+      "hikmah": "**Seruan** untuk berjuang dengan harta dan jiwa, melengkapi perintah berangkat.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "بِأَمْوَٰلِكُمْ",
+      "transliterasi": "bi-amwālikum",
+      "jenis_kata": "Isim (majrur) dengan huruf jar",
+      "arti": "dengan harta kalian",
+      "sharaf": {
+        "akar_kata": "م و ل",
+        "makna_dasar": "harta, kekayaan",
+        "wazan_perubahan": "مَفْعَل (isim majrur)"
+      },
+      "nahwu": {
+        "kedudukan": "Majrur (objek) setelah preposisi بِ",
+        "irab_dan_logika": "Berakhiran kasrah karena majrur, ditambah ضمير متصل -kum"
+      },
+      "hikmah": "Menegaskan **sumber daya materi** yang harus disertakan dalam jihad.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "وَأَنفُسِكُمْ",
+      "transliterasi": "wa-anfusikum",
+      "jenis_kata": "Isim (majrur) dengan huruf jar",
+      "arti": "dan dengan dirimu (jiwa kalian)",
+      "sharaf": {
+        "akar_kata": "ن ف س",
+        "makna_dasar": "jiwa, diri, nyawa",
+        "wazan_perubahan": "أَفْعَال (isim majrur)"
+      },
+      "nahwu": {
+        "kedudukan": "Majrur berkoordinasi dengan بِأَمْوَٰلِكُمْ melalui wa",
+        "irab_dan_logika": "Berakhiran kasrah karena majrur, ditambah ضمير متصل -kum"
+      },
+      "hikmah": "Mengajak **pengorbanan diri** selain harta dalam perjuangan.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "فِى",
+      "transliterasi": "fi",
+      "jenis_kata": "Huruf (preposisi)",
+      "arti": "di, pada",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar yang menghubungkan ke kata berikutnya (سَبِيلِ)",
+        "irab_dan_logika": "Berharakat kasrah karena huruf jar tidak berinfleksi"
+      },
+      "hikmah": "Menunjukkan hubungan tempat/arah, menandakan bahwa perintah jihad berada **di jalan Allah**",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "سَبِيلِ",
+      "transliterasi": "sabeeli",
+      "jenis_kata": "Isim (isim maf'ul)",
+      "arti": "jalan, cara",
+      "sharaf": {
+        "akar_kata": "س ب ل",
+        "makna_dasar": "jalan, cara, metode",
+        "wazan_perubahan": "fa'il"
+      },
+      "nahwu": {
+        "kedudukan": "Mudhaf (bagian yang dimiliki) dalam konstruksi إِعراب \"سَبِيلِ ٱللَّهِ\"",
+        "irab_dan_logika": "Berharakat kasrah karena menjadi mudhaf ilaih"
+      },
+      "hikmah": "Menunjukkan **jalan yang ditunjuk Allah**, yaitu cara-cara yang diridhai-Nya",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "ٱللَّهِ",
+      "transliterasi": "Allahi",
+      "jenis_kata": "Isim (isim dhahir)",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "ل ه",
+        "makna_dasar": "Tuhan, Sang Pencipta",
+        "wazan_perubahan": "fa'ul"
+      },
+      "nahwu": {
+        "kedudukan": "Mudhaf (pemilik) dalam \"سَبِيلِ ٱللَّهِ\"",
+        "irab_dan_logika": "Berharakat kasrah karena menjadi mudhaf ilaih"
+      },
+      "hikmah": "Menyiratkan **jalan milik Allah**, yaitu jalan yang diridhai dan diberkahi-Nya",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda koma)",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda jeda",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Menandai akhir frasa \"فِى سَبِيلِ ٱللَّهِ\"",
+        "irab_dan_logika": "Tidak berirab, berfungsi sebagai waqf"
+      },
+      "hikmah": "Memberi jeda untuk menekankan makna sebelumnya sebelum melanjutkan ke kalimat berikutnya",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "ذَٰلِكُمْ",
+      "transliterasi": "dhalikum",
+      "jenis_kata": "Isim (isim dhahir)",
+      "arti": "itu (kalian)",
+      "sharaf": {
+        "akar_kata": "ذ ل ك",
+        "makna_dasar": "yang itu, tersebut",
+        "wazan_perubahan": "fa'lu"
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada' (subjek) dalam kalimat nominal \"ذَٰلِكُمْ خَيْرٌ\"",
+        "irab_dan_logika": "Berharakat dhammah karena marfu' sebagai mubtada'"
+      },
+      "hikmah": "Menegaskan bahwa **apa yang disebutkan sebelumnya** adalah sesuatu yang baik bagi kalian",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "خَيْرٌۭ",
+      "transliterasi": "khairun",
+      "jenis_kata": "Isim (isim mufrad)",
+      "arti": "kebaikan, yang lebih baik",
+      "sharaf": {
+        "akar_kata": "خ ي ر",
+        "makna_dasar": "baik, kebaikan",
+        "wazan_perubahan": "fa'il"
+      },
+      "nahwu": {
+        "kedudukan": "Khabar (predikat) dalam kalimat nominal \"ذَٰلِكُمْ خَيْرٌ\"",
+        "irab_dan_logika": "Berharakat dhammah tanwin karena khabar marfu'"
+      },
+      "hikmah": "Menyatakan bahwa **perintah tersebut adalah yang paling baik** bagi orang beriman",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "لَّكُمْ",
+      "transliterasi": "lakkum",
+      "jenis_kata": "Huruf",
+      "arti": "bagi kamu",
+      "sharaf": {
+        "akar_kata": "ل",
+        "makna_dasar": "untuk",
+        "wazan_perubahan": "tidak ada"
+      },
+      "nahwu": {
+        "kedudukan": "Preposisi yang diikuti pronomina, menunjukkan kepemilikan/benefit",
+        "irab_dan_logika": "Majrur karena huruf *li* memerlukan genitif; huruf *kum* tidak mendapat harakat"
+      },
+      "hikmah": "**Lakkum** menegaskan bahwa perintah Allah ditujukan khusus kepada umat Muslim, memberi mereka hak dan tanggung jawab.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "إِن",
+      "transliterasi": "in",
+      "jenis_kata": "Huruf",
+      "arti": "sesungguhnya",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Harf ta'kid yang menegaskan kalimat berikutnya",
+        "irab_dan_logika": "مبني على السكون karena huruf tidak berubah"
+      },
+      "hikmah": "**In** memperkuat pernyataan bahwa apa yang akan disebutkan selanjutnya adalah fakta yang harus dipahami.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "كُنتُمْ",
+      "transliterasi": "kuntum",
+      "jenis_kata": "Fi'il",
+      "arti": "kamu adalah",
+      "sharaf": {
+        "akar_kata": "ك ن ت",
+        "makna_dasar": "menjadi, berada dalam keadaan",
+        "wazan_perubahan": "madhi (past) dengan dhamir muttasir"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il madhi (kata kerja lampau)",
+        "irab_dan_logika": "مبني على الفتح؛ والضمير المتصل *-um* في محل رفع"
+      },
+      "hikmah": "**Kuntum** mengingatkan bahwa jika sebelumnya kalian berada dalam keadaan mengetahui, maka perintah selanjutnya menjadi relevan.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "تَعْلَمُونَ",
+      "transliterasi": "taʿlamūna",
+      "jenis_kata": "Fi'il",
+      "arti": "kamu mengetahui",
+      "sharaf": {
+        "akar_kata": "ع ل م",
+        "makna_dasar": "mengetahui, memberi ilmu",
+        "wazan_perubahan": "mudzari‘ majrur dengan alif walaw, tanda *-ūna* untuk jamak"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il mudhari‘ (kata kerja sekarang)",
+        "irab_dan_logika": "مرفوع بالضمة، والواو للرفع، والنون للرفع جمع مذكر سالم"
+      },
+      "hikmah": "**Taʿlamūna** menegaskan pentingnya kesadaran dan pengetahuan dalam melaksanakan perintah Allah.",
+      "role": "none"
+    }
+  ]
+}

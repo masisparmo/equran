@@ -1,0 +1,438 @@
+{
+  "surah": 9,
+  "ayah": 52,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "قُلْ",
+      "transliterasi": "qul",
+      "jenis_kata": "Fi'il",
+      "arti": "katakan",
+      "sharaf": {
+        "akar_kata": "ق-و-ل",
+        "makna_dasar": "mengucapkan",
+        "wazan_perubahan": "فعل"
+      },
+      "nahwu": {
+        "kedudukan": "kata pertama, perintah langsung",
+        "irab_dan_logika": "فعل أمر مبني على السكون لأنه فعل أمر"
+      },
+      "hikmah": "menegaskan bahwa pembicara meminta pendengar menyampaikan sesuatu secara tegas",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "هَلْ",
+      "transliterasi": "hal",
+      "jenis_kata": "Huruf",
+      "arti": "apakah",
+      "sharaf": {
+        "akar_kata": "ه-ل",
+        "makna_dasar": "menandai pertanyaan",
+        "wazan_perubahan": "حرف استفهام"
+      },
+      "nahwu": {
+        "kedudukan": "kata tanya setelah perintah",
+        "irab_dan_logika": "حرف استفهام مبني على السكون لا محل له من الإعراب"
+      },
+      "hikmah": "menunjukkan bahwa kalimat berikutnya bersifat pertanyaan retoris",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "تَرَبَّسُونَ",
+      "transliterasi": "tarabbasūna",
+      "jenis_kata": "Fi'il",
+      "arti": "kamu menunggu/menyembunyikan diri",
+      "sharaf": {
+        "akar_kata": "ر-ب-س",
+        "makna_dasar": "menunggu, mengintai",
+        "wazan_perubahan": "تَفَعَّل (form V)"
+      },
+      "nahwu": {
+        "kedudukan": "predikat utama dalam pertanyaan",
+        "irab_dan_logika": "فعل مضارع مرفوع بالضمة، والواو للرفع، والنون للرفع جمع مذكر"
+      },
+      "hikmah": "menyiratkan sikap pasif menanti nasib tanpa tindakan",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "بِنَآ",
+      "transliterasi": "binā",
+      "jenis_kata": "Huruf",
+      "arti": "terhadap kami",
+      "sharaf": {
+        "akar_kata": "ب-ن",
+        "makna_dasar": "dengan, terhadap",
+        "wazan_perubahan": "حرف جر"
+      },
+      "nahwu": {
+        "kedudukan": "مجرور بحرف الجر",
+        "irab_dan_logika": "حرف جر مبني على السكون والضمير المتصل \"نا\" في محل جر"
+      },
+      "hikmah": "menunjukkan objek yang dituju dalam tindakan menunggu",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "إِلَّآ",
+      "transliterasi": "illā",
+      "jenis_kata": "Huruf",
+      "arti": "kecuali",
+      "sharaf": {
+        "akar_kata": "ل-و",
+        "makna_dasar": "pengecualian",
+        "wazan_perubahan": "حرف استثناء"
+      },
+      "nahwu": {
+        "kedudukan": "حرف استثناء يسبق المجرور",
+        "irab_dan_logika": "حرف مبني على السكون لا محل له من الإعراب"
+      },
+      "hikmah": "menandai satu-satunya hal yang dikecualikan dari penantian",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "إِحْدَى",
+      "transliterasi": "iḥda",
+      "jenis_kata": "Isim",
+      "arti": "satu (perempuan)",
+      "sharaf": {
+        "akar_kata": "و-ح-د",
+        "makna_dasar": "satu",
+        "wazan_perubahan": "صيغة مؤنث من واحد"
+      },
+      "nahwu": {
+        "kedudukan": "اسم مؤنث مفرد مرفوع",
+        "irab_dan_logika": "مرفوع بالضمة لأنه مرفوع بالخبر"
+      },
+      "hikmah": "menunjukkan bahwa satu-satunya hal yang tidak ditunggu adalah satu kebaikan tertentu",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "ٱلْحُسْنَيَيْنِ",
+      "transliterasi": "al-ḥusnayni",
+      "jenis_kata": "Isim",
+      "arti": "dua kebaikan",
+      "sharaf": {
+        "akar_kata": "ح س ن",
+        "makna_dasar": "baik, indah, kecantikan",
+        "wazan_perubahan": "isim mudhaf bil jamʿ (dual) dengan tanwin kasrah"
+      },
+      "nahwu": {
+        "kedudukan": "objek (mudsaf ilaih) dari kata *tastawī*",
+        "irab_dan_logika": "majrur karena kata kerja *tastawī* memerlukan majrur; berakhiran kasrah (ِ)"
+      },
+      "hikmah": "Menegaskan bahwa dua kebaikan tidak setara; satu ditujukan kepada mereka, satu lagi kepada kami.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "ۖ",
+      "transliterasi": "waqf",
+      "jenis_kata": "Huruf",
+      "arti": "tanda baca (koma)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "tanda jeda dalam bacaan",
+        "wazan_perubahan": "simbol grafis, bukan kata"
+      },
+      "nahwu": {
+        "kedudukan": "penanda jeda antar kalimat",
+        "irab_dan_logika": "tidak berharakat, berfungsi sebagai waqf"
+      },
+      "hikmah": "Memberi jeda untuk menekankan perbedaan antara dua bagian kalimat.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "وَنَحْنُ",
+      "transliterasi": "wa-naḥnu",
+      "jenis_kata": "Huruf + Isim",
+      "arti": "dan kami",
+      "sharaf": {
+        "akar_kata": "ن ح ن",
+        "makna_dasar": "kami (jamak)",
+        "wazan_perubahan": "isim mudhakkar jamʿ"
+      },
+      "nahwu": {
+        "kedudukan": "mubtada' (subjek) bagi fi'il *naṭarabbasu*",
+        "irab_dan_logika": "marfu' dengan dhammah (نَ) karena berfungsi sebagai mubtada'"
+      },
+      "hikmah": "Menunjukkan bahwa pihak pembicara (kami) turut serta dalam tindakan menunggu.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "نَتَرَبَّسُ",
+      "transliterasi": "naṭarabbasu",
+      "jenis_kata": "Fi'il",
+      "arti": "kami menunggu (dengan harap)",
+      "sharaf": {
+        "akar_kata": "ر ب س",
+        "makna_dasar": "menunggu, mengamati",
+        "wazan_perubahan": "faʿala (bentuk I) dengan pola *ta‑faʿʿala*"
+      },
+      "nahwu": {
+        "kedudukan": "predikat (fi'il mudhariʿ)",
+        "irab_dan_logika": "marfu' karena fi'il mudhariʿ berakhir dengan dammah (ُ)"
+      },
+      "hikmah": "Menggambarkan sikap sabar dan harap pihak kami menanti keputusan Allah.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "بِكُمْ",
+      "transliterasi": "bikum",
+      "jenis_kata": "Huruf + Isim",
+      "arti": "kepada kalian",
+      "sharaf": {
+        "akar_kata": "ك م",
+        "makna_dasar": "kalian (jamak)",
+        "wazan_perubahan": "isim jamʿ mudhakkar"
+      },
+      "nahwu": {
+        "kedudukan": "majrur (jar) karena huruf *bi*",
+        "irab_dan_logika": "berakhiran kasrah (كُمْ) menandakan hubungan jar"
+      },
+      "hikmah": "Menunjukkan objek yang ditunggu-tunggu oleh kami, yaitu kalian.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "أَن",
+      "transliterasi": "an",
+      "jenis_kata": "Huruf",
+      "arti": "bahwa",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "kata penghubung nasb",
+        "wazan_perubahan": "harf nasb"
+      },
+      "nahwu": {
+        "kedudukan": "harf nasb yang menghubungkan fi'il *naṭarabbasu* dengan infinitif selanjutnya",
+        "irab_dan_logika": "tidak berharakat (sukun) karena berfungsi sebagai huruf penghubung"
+      },
+      "hikmah": "Menyiratkan bahwa apa yang ditunggu-tunggu adalah suatu keadaan atau tindakan yang akan terjadi.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "يُصِيبَكُمُ",
+      "transliterasi": "yuṣībakumu",
+      "jenis_kata": "Fi'il",
+      "arti": "menimpakan (kepadamu)",
+      "sharaf": {
+        "akar_kata": "ص‑ب‑?",
+        "makna_dasar": "menyebabkan, menimpa",
+        "wazan_perubahan": "فعل مضارع مرفوع بالضمة مع ضمير متصل"
+      },
+      "nahwu": {
+        "kedudukan": "predikat (verb) yang diikuti oleh مفعول به (كم)",
+        "irab_dan_logika": "مرفوع بالضمة الظاهرة على آخره؛ الضمير المتصل في محل نصب مفعول به"
+      },
+      "hikmah": "Allah akan menimpakan azab kepada mereka",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "ٱللَّهُ",
+      "transliterasi": "Allāhu",
+      "jenis_kata": "Isim",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "ل‑ه",
+        "makna_dasar": "nama Tuhan",
+        "wazan_perubahan": "اسم علم"
+      },
+      "nahwu": {
+        "kedudukan": "مبتدأ",
+        "irab_dan_logika": "مرفوع بالضمة"
+      },
+      "hikmah": "Menegaskan subjek Allah dalam ayat",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "بِعَذَابٍۢ",
+      "transliterasi": "biʿadhābin",
+      "jenis_kata": "Huruf+Isim",
+      "arti": "dengan azab",
+      "sharaf": {
+        "akar_kata": "ع‑ذ‑ب",
+        "makna_dasar": "azab, siksaan",
+        "wazan_perubahan": "اسم مجرور بحرف الجر"
+      },
+      "nahwu": {
+        "kedudukan": "مجرور بحرف الجر",
+        "irab_dan_logika": "مجرور بالكسرة لأن الباء حرف جر"
+      },
+      "hikmah": "Menunjukkan azab yang akan ditimpakan",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "مِّنْ",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": "حرف جر"
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر مبني على السكون",
+        "irab_dan_logika": "مبني على السكون لا يتغير"
+      },
+      "hikmah": "Menunjukkan asal azab berasal dari Allah",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "عِندِهِۦٓ",
+      "transliterasi": "ʿindi‑hi",
+      "jenis_kata": "Huruf+Isim",
+      "arti": "di sisi-Nya",
+      "sharaf": {
+        "akar_kata": "ع‑ن‑د",
+        "makna_dasar": "tempat, kedudukan",
+        "wazan_perubahan": "اسم ظرف مكان مع ضمير متصل"
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر مبني على السكون مع ضمير متصل في محل جر",
+        "irab_dan_logika": "مجرور بالكسرة، والضمير المتصل في محل جر"
+      },
+      "hikmah": "Azab itu datang dari Allah sendiri",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "أَوْ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf",
+      "arti": "atau",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": "حرف عطف"
+      },
+      "nahwu": {
+        "kedudukan": "حرف عطف مبني على السكون",
+        "irab_dan_logika": "مبني على السكون لا يتغير"
+      },
+      "hikmah": "Menghubungkan dua kemungkinan dalam konteks ayat",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "بِأَيْدِينَا",
+      "transliterasi": "bi-aydīnā",
+      "jenis_kata": "Isim (majrur)",
+      "arti": "dengan tangan kami",
+      "sharaf": {
+        "akar_kata": "ي د ي",
+        "makna_dasar": "tangan",
+        "wazan_perubahan": "fa‘ala"
+      },
+      "nahwu": {
+        "kedudukan": "Majrur (objek preposisi)",
+        "irab_dan_logika": "Kasrah pada بِ dan أَيْدِينَا karena preposisi بِ mengharuskan majrur"
+      },
+      "hikmah": "Menunjukkan bahwa mereka menunggu dengan usaha dan tindakan mereka sendiri.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "ۖ",
+      "transliterasi": "ۖ",
+      "jenis_kata": "Huruf (tanda waqf)",
+      "arti": "(tanda jeda)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca, memisahkan antara frasa",
+        "irab_dan_logika": "Tidak berharakat, berfungsi sebagai jeda"
+      },
+      "hikmah": "Memberi ruang napas bagi pembaca, menekankan pemisahan makna.",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "فَتَرَبَّصُوٓا۟",
+      "transliterasi": "fa-tarabbasū",
+      "jenis_kata": "Fi'il (madhi/muzari)",
+      "arti": "maka bersabarlah/menunggu",
+      "sharaf": {
+        "akar_kata": "ر ب ص",
+        "makna_dasar": "menunggu, mengamati",
+        "wazan_perubahan": "tafa‘ala (form V)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il mudhari‘ marfu' sebagai predikat utama",
+        "irab_dan_logika": "Dhammah pada akhir karena fi'il mudhari‘ yang berstatus marfu' dalam kalimat"
+      },
+      "hikmah": "Ajakan untuk bersabar menunggu azab Allah yang akan datang.",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "إِنَّا",
+      "transliterasi": "innā",
+      "jenis_kata": "Huruf (particle)",
+      "arti": "sesungguhnya kami",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Particle penegas, menguatkan subjek",
+        "irab_dan_logika": "Membawa alif setelah nun, tidak berharakat, menuntut nasb pada isim sesudahnya"
+      },
+      "hikmah": "Menegaskan kehadiran dan kesiapan kami dalam menunggu bersama kalian.",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "مَعَكُم",
+      "transliterasi": "ma‘akum",
+      "jenis_kata": "Isim (preposisi)",
+      "arti": "bersama kalian",
+      "sharaf": {
+        "akar_kata": "ع و",
+        "makna_dasar": "bersama, bersama-sama",
+        "wazan_perubahan": "ma‘a (preposisi)"
+      },
+      "nahwu": {
+        "kedudukan": "Majrur (preposisi) dengan dhammah pada كُم karena i'rab huruf jar",
+        "irab_dan_logika": "Dhammah pada كُم karena huruf jar ma‘a menuntut majrur"
+      },
+      "hikmah": "Menunjukkan kebersamaan antara pembicara dan pendengar dalam menunggu azab.",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "مُّتَرَبِّصُونَ",
+      "transliterasi": "mutarabbisūna",
+      "jenis_kata": "Isim (isim fa‘il)",
+      "arti": "yang menunggu",
+      "sharaf": {
+        "akar_kata": "ر ب ص",
+        "makna_dasar": "menunggu",
+        "wazan_perubahan": "muta‘aqqil (form VIII)"
+      },
+      "nahwu": {
+        "kedudukan": "Isim fa‘il jamak, marfu' sebagai predikat",
+        "irab_dan_logika": "Damma pada akhir karena marfu' (isim fa‘il) dalam posisi rafa’"
+      },
+      "hikmah": "Menegaskan bahwa mereka bersama kami berada dalam keadaan menunggu azab Allah.",
+      "role": "none"
+    }
+  ]
+}

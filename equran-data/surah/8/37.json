@@ -1,0 +1,330 @@
+{
+  "surah": 8,
+  "ayah": 37,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "لِيَمِيزَ",
+      "transliterasi": "liyamīza",
+      "jenis_kata": "Fi‘il (verb)",
+      "arti": "agar memisahkan",
+      "sharaf": {
+        "akar_kata": "م-ز-ي",
+        "makna_dasar": "memisahkan, membedakan",
+        "wazan_perubahan": "fa‘ala → yaf‘alu"
+      },
+      "nahwu": {
+        "kedudukan": "verb mudhari‘ majzum (jussif) setelah huruf *li* (particle of purpose)",
+        "irab_dan_logika": "berharakat fathah pada alif, menandakan bentuk jussif karena adanya huruf *li*"
+      },
+      "hikmah": "menunjukkan tujuan Allah memisahkan yang buruk dari yang baik",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "ٱللَّهُ",
+      "transliterasi": "Allāhu",
+      "jenis_kata": "Isim (noun)",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "ل-ه",
+        "makna_dasar": "nama Tuhan yang Maha Esa",
+        "wazan_perubahan": "bentuk ism al-muta‘alliq"
+      },
+      "nahwu": {
+        "kedudukan": "isim marfu‘ (subjek)",
+        "irab_dan_logika": "diberi dammah karena berfungsi sebagai subjek kalimat"
+      },
+      "hikmah": "menegaskan bahwa yang melakukan pemisahan adalah Allah",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "ٱلْخَبِيثَ",
+      "transliterasi": "al‑khabītha",
+      "jenis_kata": "Isim (adjective)",
+      "arti": "yang buruk",
+      "sharaf": {
+        "akar_kata": "خ‑ب‑ث",
+        "makna_dasar": "buruk, rusak, tidak baik",
+        "wazan_perubahan": "fa‘ala → maf‘ūl"
+      },
+      "nahwu": {
+        "kedudukan": "mansub (objek) dari fi‘il *liyamīza*",
+        "irab_dan_logika": "diberi fathah karena menjadi objek langsung"
+      },
+      "hikmah": "menunjukkan golongan yang akan dipisahkan karena sifatnya yang buruk",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "مِنَ",
+      "transliterasi": "mina",
+      "jenis_kata": "Huruf (preposisi)",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "ن-و-ن",
+        "makna_dasar": "menunjuk asal atau pemisahan",
+        "wazan_perubahan": "preposisi"
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar (preposisi)",
+        "irab_dan_logika": "menyambungkan *al‑khabītha* dengan *aṭ‑ṭayyibi*; mengharuskan kata berikutnya berkasrah"
+      },
+      "hikmah": "menyiratkan pemisahan antara yang buruk dan yang baik",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "ٱلطَّيِّبِ",
+      "transliterasi": "aṭ‑ṭayyibi",
+      "jenis_kata": "Isim (adjective)",
+      "arti": "yang baik",
+      "sharaf": {
+        "akar_kata": "ط‑ي‑ب",
+        "makna_dasar": "baik, suci, bersih",
+        "wazan_perubahan": "fa‘ala → maf‘ūl"
+      },
+      "nahwu": {
+        "kedudukan": "majrur (objek jar) setelah *mina*",
+        "irab_dan_logika": "diberi kasrah karena berada dalam konstruksi *mina*"
+      },
+      "hikmah": "menunjukkan golongan yang baik, lawan dari *al‑khabītha*",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "وَيَجْعَلَ",
+      "transliterasi": "wa‑yaj‘ala",
+      "jenis_kata": "Fi‘il (verb)",
+      "arti": "dan menjadikan",
+      "sharaf": {
+        "akar_kata": "ج‑ع‑ل",
+        "makna_dasar": "menjadikan, membuat",
+        "wazan_perubahan": "fa‘ala → yaf‘alu"
+      },
+      "nahwu": {
+        "kedudukan": "verb mudhari‘ marfu‘ setelah *wa* (konjungsi)",
+        "irab_dan_logika": "diberi dhammah karena berfungsi sebagai predikat baru yang terhubung dengan konjungsi *wa*"
+      },
+      "hikmah": "menyatakan tindakan Allah selanjutnya, yaitu menjadikan yang buruk berada di atas yang baik dan menimpakan hukuman",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "ٱلْخَبِيثَ",
+      "transliterasi": "al‑khabītha",
+      "jenis_kata": "Isim",
+      "arti": "yang buruk",
+      "sharaf": {
+        "akar_kata": "خ‑ب‑ث",
+        "makna_dasar": "buruk, rusak",
+        "wazan_perubahan": "faʿīla (isim mudhaf)"
+      },
+      "nahwu": {
+        "kedudukan": "Mafʿūl mutlaq (kata benda berdefinitif) dalam kalimat sebagai subjek lawan \"الطَّيِّبِ\"",
+        "irab_dan_logika": "Berharakat ʾaʿrab (fatḥah) karena berstatus mafʿūl mutlaq dan beralif (al‑)"
+      },
+      "hikmah": "Menunjukkan golongan yang tercela, dipisahkan dari yang baik untuk menegaskan perbedaan moral.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "بَعْضَهُۥ",
+      "transliterasi": "baʿḍahu",
+      "jenis_kata": "Isim",
+      "arti": "sebagian‑nya",
+      "sharaf": {
+        "akar_kata": "ب‑ع‑ض",
+        "makna_dasar": "sebagian, sebagian kecil",
+        "wazan_perubahan": "faʿl (isim) + ضمير متصل (hu)"
+      },
+      "nahwu": {
+        "kedudukan": "Mafʿūl muttasil (isim + ضمير) berfungsi sebagai objek \"الْخَبِيثَ\"",
+        "irab_dan_logika": "Berharakat ḍamma karena iʿrāb mansūb (مجرور) setelah huruf جَرّ \"عَلَىٰ\""
+      },
+      "hikmah": "Menggambarkan bahwa yang buruk itu akan dibagi‑bagi, sebagian di atas sebagian lain.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "عَلَىٰ",
+      "transliterasi": "ʿalā",
+      "jenis_kata": "Huruf",
+      "arti": "di atas",
+      "sharaf": {
+        "akar_kata": "ع‑ل‑ى",
+        "makna_dasar": "tinggi, atas",
+        "wazan_perubahan": "huruf jar"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar yang menghubungkan \"بَعْضَهُۥ\" dengan \"بَعْضٍۢ\"",
+        "irab_dan_logika": "Tidak berharakat karena huruf jar; menandakan hubungan keterangan tempat"
+      },
+      "hikmah": "Menunjukkan posisi hierarki: sebagian yang buruk berada di atas sebagian yang lain.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "بَعْضٍۢ",
+      "transliterasi": "baʿḍin",
+      "jenis_kata": "Isim",
+      "arti": "sebagian",
+      "sharaf": {
+        "akar_kata": "ب‑ع‑ض",
+        "makna_dasar": "sebagian, sebagian kecil",
+        "wazan_perubahan": "faʿl (isim) dalam bentuk majrur"
+      },
+      "nahwu": {
+        "kedudukan": "Majrur (مجرور) karena disertai huruf jar \"عَلَىٰ\"",
+        "irab_dan_logika": "Berharakat kasrah karena iʿrāb majrur"
+      },
+      "hikmah": "Menegaskan bahwa pembagian itu bersifat bertingkat, tidak merata.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "فَيَرْكُمَهُۥ",
+      "transliterasi": "fa‑yarkumahu",
+      "jenis_kata": "Fiʿil",
+      "arti": "kemudian Dia menimpakan (itu)",
+      "sharaf": {
+        "akar_kata": "ر‑ك‑م",
+        "makna_dasar": "menumpuk, menimpakan, menaruh di atas",
+        "wazan_perubahan": "فَعَلَ (form I) dengan prefiks فَ dan suffiks ضمير متصل ‑هُ"
+      },
+      "nahwu": {
+        "kedudukan": "Fiʿl mudhariʿ (verb) dengan prefiks فَ sebagai huruf al‑‘ifaṭah, subjeknya Allah yang tersirat",
+        "irab_dan_logika": "Berharakat ḍamma pada akhir karena bentuk mudhariʿ dan huruf al‑‘ifaṭah"
+      },
+      "hikmah": "Allah menumpukkan golongan buruk itu secara total, menegaskan hukuman kolektif.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "جَمِيعًۭا",
+      "transliterasi": "jamīʿan",
+      "jenis_kata": "Isim",
+      "arti": "semua",
+      "sharaf": {
+        "akar_kata": "ج‑م‑ع",
+        "makna_dasar": "mengumpulkan, seluruh",
+        "wazan_perubahan": "فَعِلَ (jamīʿ) dengan tanwin"
+      },
+      "nahwu": {
+        "kedudukan": "Mansūb (مفعول به) dari fiʿl \"يَرْكُمُ\"; berharakat fathah + tanwin karena objek langsung",
+        "irab_dan_logika": "Berharakat fathah + tanwin karena berfungsi sebagai mafʿūl muttasil"
+      },
+      "hikmah": "Menunjukkan bahwa seluruh golongan buruk itu akan ditumpuk bersama‑sama ke dalam neraka.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "فَيَجْعَلَهُۥ",
+      "transliterasi": "fayaj‘aluhu",
+      "jenis_kata": "Fi'il",
+      "arti": "lalu menjadikan dia",
+      "sharaf": {
+        "akar_kata": "ج ع ل",
+        "makna_dasar": "menetapkan, menjadikan",
+        "wazan_perubahan": "فَعَلَ (fa‘ala) dengan prefiks فَ dan suffiks ضمير هُ"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il mudhari‘ (predikat) dalam rangkaian «wa yaj‘aluhu»",
+        "irab_dan_logika": "مرفوع بالضمة الظاهرة على ي karena فعل مضارع مرفوع"
+      },
+      "hikmah": "Menunjukkan tindakan Allah menempatkan orang yang buruk di neraka.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "فِى",
+      "transliterasi": "fi",
+      "jenis_kata": "Huruf",
+      "arti": "di dalam",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar yang menghubungkan fi‘il dengan tempat",
+        "irab_dan_logika": "Tidak berirab karena huruf, berfungsi sebagai penunjuk hubungan"
+      },
+      "hikmah": "Menunjukkan tempat terjadinya tindakan Allah, yaitu neraka.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "جَهَنَّمَ",
+      "transliterasi": "jahannama",
+      "jenis_kata": "Isim",
+      "arti": "neraka",
+      "sharaf": {
+        "akar_kata": "ج ن م",
+        "makna_dasar": "tempat yang terbakar",
+        "wazan_perubahan": "Isim maf‘ul (jahannam) dari kata kerja jahanna"
+      },
+      "nahwu": {
+        "kedudukan": "Mudaf (objek) setelah huruf jar «fi»",
+        "irab_dan_logika": "منصوب بالفتحة لأنّها مفعول به لحرف الجر"
+      },
+      "hikmah": "Merujuk pada tempat azab kekal bagi orang yang buruk.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf",
+      "arti": "tanda berhenti (waqf)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqf yang memisahkan dua bagian kalimat",
+        "irab_dan_logika": "Tidak berirab, berfungsi sebagai pemisah"
+      },
+      "hikmah": "Memberi jeda sehingga makna sebelumnya selesai sebelum lanjutan ayat.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "أُو۟لَٰٓئِكَ",
+      "transliterasi": "ulaika",
+      "jenis_kata": "Isim",
+      "arti": "mereka itu",
+      "sharaf": {
+        "akar_kata": "أ ل ك",
+        "makna_dasar": "menunjuk, menunjukkan",
+        "wazan_perubahan": "Isim isyarat (الـ) dengan huruf alif hamzah"
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "ٱلْخَٰسِرُونَ",
+      "transliterasi": "al‑khāsirūna",
+      "jenis_kata": "Isim (isim fa‘il)",
+      "arti": "yang merugi, orang yang mengalami kerugian",
+      "sharaf": {
+        "akar_kata": "خ س ر",
+        "makna_dasar": "kerugian, kehilangan",
+        "wazan_perubahan": "fa‘il (مُصْغَر) → خاسِر, jamak maskulin dengan alif lam"
+      },
+      "nahwu": {
+        "kedudukan": "Predikat (khabar) dalam kalimat nominal \"الْخَاسِرُونَ\" setelah kata \"هُم\" (mereka) tersirat",
+        "irab_dan_logika": "Berharakat dhammah pada akhir (‑ūna) menandakan i‘rāb mansūb jamak maskulin, karena berfungsi sebagai isim fa‘il jamak dalam predikat"
+      },
+      "hikmah": "Kata ini menegaskan bahwa orang‑orang yang menolak kebenaran akan menjadi **orang yang merugi** secara akhirat, menolak rahmat Allah dan masuk neraka.",
+      "role": "none"
+    }
+  ]
+}

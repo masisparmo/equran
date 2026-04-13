@@ -1,0 +1,78 @@
+{
+  "surah": 14,
+  "ayah": 16,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "مِّن",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar yang menghubungkan ke kata berikutnya (جر)",
+        "irab_dan_logika": "Karena huruf jar, kata berikutnya berkasrah (majrur)"
+      },
+      "hikmah": "Menunjukkan sumber atau asal minuman yang akan diberikan, **menegaskan** bahwa air itu datang **dari** sesuatu.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "وَرَاءِهِۦ",
+      "transliterasi": "wa-rā'ihī",
+      "jenis_kata": "Isim",
+      "arti": "di belakangnya",
+      "sharaf": {
+        "akar_kata": "ر-أ-ى",
+        "makna_dasar": "tempat di belakang, yang berada di belakang",
+        "wazan_perubahan": "فَاعِل"
+      },
+      "nahwu": {
+        "kedudukan": "Isim majrur setelah huruf jar وَ",
+        "irab_dan_logika": "Berakhiran kasrah karena jar; alif dan huruf هِ berkasrah"
+      },
+      "hikmah": "Menunjukkan posisi **Jahannam** berada *di belakang* orang yang dimaksud, menambah gambaran azab yang mengintai.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "جَهَنَّمُ",
+      "transliterasi": "jahannam",
+      "jenis_kata": "Isim",
+      "arti": "neraka",
+      "sharaf": {
+        "akar_kata": "ج-ه-ن",
+        "makna_dasar": "tempat siksaan yang kekal",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada' dalam kalimat nominal, marfu' dengan dammah",
+        "irab_dan_logika": "Diberi dammah karena menjadi mubtada' (subjek)"
+      },
+      "hikmah": "Menyatakan keberadaan **Jahannam** sebagai azab yang menanti, menegaskan bahaya yang berada *di depan*.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "صَدِيدٍۢ",
+      "transliterasi": "ṣadīd",
+      "jenis_kata": "Isim",
+      "arti": "kental, pekat, mendidih",
+      "sharaf": {
+        "akar_kata": "ص د د",
+        "makna_dasar": "kekentalan, kepadatan",
+        "wazan_perubahan": "fa‘īl (صَدِيد)"
+      },
+      "nahwu": {
+        "kedudukan": "objek majrur setelah huruf جرّ (min)",
+        "irab_dan_logika": "berkasrah karena berada dalam i‘rāb majrur setelah min"
+      },
+      "hikmah": "Air nanah yang disajikan kepada orang yang masuk neraka digambarkan sangat kental dan mendidih, melambangkan siksaan yang tak tertahankan.",
+      "role": "none"
+    }
+  ]
+}

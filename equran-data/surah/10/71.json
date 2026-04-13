@@ -1,0 +1,546 @@
+{
+  "surah": 10,
+  "ayah": 71,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "وَٱتْلُ",
+      "transliterasi": "wa-ʾutlu",
+      "jenis_kata": "Fi'il (imperatif)",
+      "arti": "dan bacakanlah",
+      "sharaf": {
+        "akar_kata": "أ ت ل",
+        "makna_dasar": "membaca, melantunkan",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il amr (perintah) yang mengawali kalimat",
+        "irab_dan_logika": "bentuk fi'il amr مبني على السكون; alif alif alif? huruf alif pada alif? harakat sukun pada ل karena fi'il amr"
+      },
+      "hikmah": "perintah Allah kepada Nabi Muhammad untuk menyampaikan kisah Nuh kepada umat",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "عَلَيْهِمْ",
+      "transliterasi": "ʿalayhim",
+      "jenis_kata": "Huruf jar + ضمير متصل",
+      "arti": "atas mereka",
+      "sharaf": {
+        "akar_kata": "ع ل ي",
+        "makna_dasar": "di atas, terhadap",
+        "wazan_perubahan": "حرف جر"
+      },
+      "nahwu": {
+        "kedudukan": "jar majrur متعلق بـِ وَاتْلُ",
+        "irab_dan_logika": "حرف جر \"على\" مبني على الفتح، والضمير المتصل \"هم\" في محل جر؛ إعرابه جار ومجرور"
+      },
+      "hikmah": "menunjukkan bahwa berita itu ditujukan kepada kaum Nuh",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "نَبَأَ",
+      "transliterasi": "nabaʾa",
+      "jenis_kata": "Isim (isim mafʿūl)",
+      "arti": "berita, kabar",
+      "sharaf": {
+        "akar_kata": "ن ب أ",
+        "makna_dasar": "menyampaikan berita",
+        "wazan_perubahan": "فَعَل (اسم فعل)"
+      },
+      "nahwu": {
+        "kedudukan": "mafʿūl bih (objek) dari وَاتْلُ",
+        "irab_dan_logika": "منصوب بالفتحة لأنه مفعول به"
+      },
+      "hikmah": "menekankan pentingnya kisah Nuh yang harus disampaikan",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "نُوحٍ",
+      "transliterasi": "Nūḥin",
+      "jenis_kata": "Isim (nama khusus)",
+      "arti": "Nuh",
+      "sharaf": {
+        "akar_kata": "ن و ح",
+        "makna_dasar": "Nuh (nama nabi)",
+        "wazan_perubahan": "اسم علم"
+      },
+      "nahwu": {
+        "kedudukan": "mudhaf ilayh (genitif) setelah نَبَأَ",
+        "irab_dan_logika": "مجرور بالكسرة لأنه مضاف إليه"
+      },
+      "hikmah": "menyebutkan tokoh utama kisah yang akan diceritakan",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "إِذْ",
+      "transliterasi": "idh",
+      "jenis_kata": "Huruf (particle waktu)",
+      "arti": "ketika",
+      "sharaf": {
+        "akar_kata": "إ ذ",
+        "makna_dasar": "menunjuk waktu lampau",
+        "wazan_perubahan": "حرف زمان"
+      },
+      "nahwu": {
+        "kedudukan": "huruf shart/waqt yang menghubungkan جملة \"قَالَ\"",
+        "irab_dan_logika": "حرف مبني لا محل له من الإعراب"
+      },
+      "hikmah": "menandai waktu pernyataan Nuh sebelum ayat selanjutnya",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "قَالَ",
+      "transliterasi": "qāla",
+      "jenis_kata": "Fi'il (verb)",
+      "arti": "dia berkata",
+      "sharaf": {
+        "akar_kata": "ق و ل",
+        "makna_dasar": "berkata",
+        "wazan_perubahan": "فَعَل (فعل ماضٍ ثلاثي مجرد)"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il madhi (kata kerja) yang mengawali klausa setelah إِذْ",
+        "irab_dan_logika": "مبني على الفتح لأنه فعل ماضٍ"
+      },
+      "hikmah": "menyampaikan ucapan Nuh kepada kaumnya",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "لِقَوْمِهِۦ",
+      "transliterasi": "li-qawmi-hi",
+      "jenis_kata": "Huruf jar",
+      "arti": "bagi kaumnya",
+      "sharaf": {
+        "akar_kata": "ق و م",
+        "makna_dasar": "kaum, orang",
+        "wazan_perubahan": "tanwin (kasrah)"
+      },
+      "nahwu": {
+        "kedudukan": "Majrur setelah huruf li (preposisi)",
+        "irab_dan_logika": "Berakhiran kasrah karena huruf jar li menuntut majrur"
+      },
+      "hikmah": "Menunjukkan hubungan kepemilikan, Nuh mengingatkan bahwa perintahnya ditujukan khusus kepada kaumnya",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "يَٰقَوْمِ",
+      "transliterasi": "yā qawmi",
+      "jenis_kata": "Isim nadah (panggilan)",
+      "arti": "hai kaum",
+      "sharaf": {
+        "akar_kata": "ق و م",
+        "makna_dasar": "kaum, suku",
+        "wazan_perubahan": "tidak ada"
+      },
+      "nahwu": {
+        "kedudukan": "Kata seru (nadah) di awal ayat",
+        "irab_dan_logika": "Berakhiran kasrah karena merupakan panggilan"
+      },
+      "hikmah": "Seruan personal, menegaskan Nuh memanggil kaumnya secara langsung",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "إِن",
+      "transliterasi": "in",
+      "jenis_kata": "Huruf takdir/ta'kid",
+      "arti": "sesungguhnya",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "menegaskan kebenaran",
+        "wazan_perubahan": "tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf takdir yang menguatkan kalimat selanjutnya",
+        "irab_dan_logika": "Tidak berharakat, berfungsi sebagai huruf"
+      },
+      "hikmah": "Memberi penekanan pada pernyataan berikutnya, menegaskan keabsahan argumen Nuh",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "كَانَ",
+      "transliterasi": "kāna",
+      "jenis_kata": "Fi'il madhi",
+      "arti": "adalah",
+      "sharaf": {
+        "akar_kata": "ك و ن",
+        "makna_dasar": "menjadi, ada",
+        "wazan_perubahan": "fa'ala"
+      },
+      "nahwu": {
+        "kedudukan": "Kata kerja bantu yang menghubungkan subjek dengan predikat",
+        "irab_dan_logika": "Marfu' karena fi'il madhi"
+      },
+      "hikmah": "Menunjukkan keadaan atau sifat yang terjadi di masa lalu, menyiapkan pernyataan tentang beratnya tinggal bersama Nuh",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "كَبُرَ",
+      "transliterasi": "kabara",
+      "jenis_kata": "Fi'il madhi",
+      "arti": "besar, berat",
+      "sharaf": {
+        "akar_kata": "ك ب ر",
+        "makna_dasar": "menjadi besar/berat",
+        "wazan_perubahan": "fa'ala"
+      },
+      "nahwu": {
+        "kedudukan": "Predikat yang menjelaskan keadaan subjek (kaumnya)",
+        "irab_dan_logika": "Marfu' karena fi'il madhi"
+      },
+      "hikmah": "Menggambarkan rasa berat atau kesulitan kaumnya dalam menerima peringatan Nuh",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "عَلَيْكُم",
+      "transliterasi": "ʿalaykum",
+      "jenis_kata": "Huruf jar + ضمير",
+      "arti": "atas kalian",
+      "sharaf": {
+        "akar_kata": "ع ل ي",
+        "makna_dasar": "di atas, mengenai",
+        "wazan_perubahan": "tanwin (kasrah)"
+      },
+      "nahwu": {
+        "kedudukan": "Majrur setelah huruf jar ʿala yang menghubungkan dengan ضمير plural",
+        "irab_dan_logika": "Berakhiran kasrah karena jar ʿala menuntut majrur"
+      },
+      "hikmah": "Menunjukkan beban atau tanggung jawab yang dikenakan kepada kaumnya, menegaskan konsekuensi perintah Nuh",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "مَّقَامِى",
+      "transliterasi": "maqāmī",
+      "jenis_kata": "Isim",
+      "arti": "tempatku",
+      "sharaf": {
+        "akar_kata": "ق م",
+        "makna_dasar": "tempat, kedudukan",
+        "wazan_perubahan": "مَفعَل"
+      },
+      "nahwu": {
+        "kedudukan": "keterangan tempat (مجرور) setelah preposisi *bi*",
+        "irab_dan_logika": "kasra karena berjarak dengan preposisi *bi* menandakan i‘rāb majrūr"
+      },
+      "hikmah": "menunjukkan posisi atau tempat yang dimiliki pembicara dalam konteks peringatan",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "وَتَذْكِيرِى",
+      "transliterasi": "wa‑tadhkīrī",
+      "jenis_kata": "Isim (maushul)",
+      "arti": "dan peringatanku",
+      "sharaf": {
+        "akar_kata": "ذ‑ك‑ر",
+        "makna_dasar": "mengingat, menasihati",
+        "wazan_perubahan": "تَفْعِيل"
+      },
+      "nahwu": {
+        "kedudukan": "objek preposisi *bi* (majrur) yang dikoordinasikan dengan *āyāti*",
+        "irab_dan_logika": "kasra karena termasuk dalam majrur preposisi *bi*; konjungsi *wa* tidak memengaruhi i‘rāb"
+      },
+      "hikmah": "menyiratkan bahwa peringatan Nabi Nuh juga termasuk dalam apa yang dibawa Allah melalui ayat‑ayat",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "بِـَٔايَٰتِ",
+      "transliterasi": "bi‑āyāti",
+      "jenis_kata": "Huruf (preposisi)",
+      "arti": "dengan ayat‑ayat",
+      "sharaf": {
+        "akar_kata": "أ‑ي‑ت",
+        "makna_dasar": "tanda, bukti, mukjizat",
+        "wazan_perubahan": "مَفْعَل"
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar yang menghubungkan kata berikutnya ke dalam majrur",
+        "irab_dan_logika": "huruf tidak berubah; menandakan i‘rāb majrūr pada *āyāti*"
+      },
+      "hikmah": "menunjukkan sarana atau cara penyampaian peringatan, yaitu melalui ayat‑ayat Allah",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "ٱللَّهِ",
+      "transliterasi": "Allāh",
+      "jenis_kata": "Isim",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "Nama Allah yang Maha Esa",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "kata benda majrur setelah preposisi *bi*",
+        "irab_dan_logika": "kasra karena berjarak dengan preposisi *bi*"
+      },
+      "hikmah": "menegaskan bahwa ayat‑ayat dan peringatan itu berasal dari Allah",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "فَعَلَى",
+      "transliterasi": "fa‘alā",
+      "jenis_kata": "Huruf (jar) – gabungan *fa* (konjungsi) + *‘alā* (preposisi)",
+      "arti": "lalu atas",
+      "sharaf": {
+        "akar_kata": "ع‑ل‑ى",
+        "makna_dasar": "di atas, mengenai",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "konjungsi *fa* menghubungkan kalimat sebelumnya dengan frasa berikutnya; *‘alā* berfungsi sebagai huruf jar",
+        "irab_dan_logika": "huruf tidak berubah; menandakan hubungan logis antar bagian"
+      },
+      "hikmah": "menyiratkan kesinambungan argumen, mengarahkan perhatian kepada hal yang akan disebutkan selanjutnya",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "ٱللَّهِ",
+      "transliterasi": "Allāh",
+      "jenis_kata": "Isim",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "Nama Allah yang Maha Esa",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "kata benda majrur setelah preposisi *‘alā*",
+        "irab_dan_logika": "kasra karena berjarak dengan preposisi *‘alā*"
+      },
+      "hikmah": "menegaskan kembali bahwa segala keputusan dan tindakan berada di bawah kuasa Allah",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "تَوَكَّلْتُ",
+      "transliterasi": "tawakkaltu",
+      "jenis_kata": "Fi'il",
+      "arti": "aku bertawakal",
+      "sharaf": {
+        "akar_kata": "و ك ل",
+        "makna_dasar": "bergantung, menaruh kepercayaan",
+        "wazan_perubahan": "فَعَّل (tawakkala)"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il madhi (predikat) dalam kalimat",
+        "irab_dan_logika": "dhammah karena fi'il madhi 1st person singular"
+      },
+      "hikmah": "menunjukkan kepercayaan total kepada Allah dalam situasi yang sulit",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "فَأَجْمِعُوٓا۟",
+      "transliterasi": "fa-ajmi‘ū",
+      "jenis_kata": "Fi'il",
+      "arti": "maka kumpulkanlah",
+      "sharaf": {
+        "akar_kata": "ج م ع",
+        "makna_dasar": "mengumpulkan, menyatukan",
+        "wazan_perubahan": "أَفْعَل (imperatif)"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il amar (perintah) untuk jamak maskulin",
+        "irab_dan_logika": "dhammah pada alif, sukun pada waw; bentuk imperatif plural"
+      },
+      "hikmah": "menyerukan kaum Nuh untuk mengumpulkan sekutu‑sekutu mereka",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "أَمْرَكُمْ",
+      "transliterasi": "amrakum",
+      "jenis_kata": "Isim",
+      "arti": "urusanmu / keputusanmu",
+      "sharaf": {
+        "akar_kata": "أ م ر",
+        "makna_dasar": "perintah, urusan, hal yang harus dilakukan",
+        "wazan_perubahan": "مَفْعُول (maṣdar)"
+      },
+      "nahwu": {
+        "kedudukan": "mudhaf (objek) setelah fi'il amar",
+        "irab_dan_logika": "mansub (accusative) karena menjadi objek perintah"
+      },
+      "hikmah": "menegaskan bahwa keputusan itu menjadi urusan mereka",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "وَشُرَكَآءَكُمْ",
+      "transliterasi": "wa-shurakā’akum",
+      "jenis_kata": "Isim",
+      "arti": "dan sekutu‑sekutumu",
+      "sharaf": {
+        "akar_kata": "ش ر ك",
+        "makna_dasar": "bersekutu, menyekutukan",
+        "wazan_perubahan": "فَعْلَاء (jamak)"
+      },
+      "nahwu": {
+        "kedudukan": "mudhaf (objek) yang dikoordinasikan dengan أَمْرَكُمْ",
+        "irab_dan_logika": "mansub (accusative) karena menjadi bagian dari objek perintah"
+      },
+      "hikmah": "menyiratkan bahwa keputusan mencakup sekutu‑sekutu mereka",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "ثُمَّ",
+      "transliterasi": "thumma",
+      "jenis_kata": "Huruf",
+      "arti": "kemudian",
+      "sharaf": {
+        "akar_kata": "ث م م",
+        "makna_dasar": "menunjukkan urutan waktu",
+        "wazan_perubahan": "huruf temporal"
+      },
+      "nahwu": {
+        "kedudukan": "harf at‑tawri (penanda urutan)",
+        "irab_dan_logika": "tidak berubah, berfungsi menghubungkan kalimat"
+      },
+      "hikmah": "menandakan langkah selanjutnya setelah perintah sebelumnya",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "لَا",
+      "transliterasi": "lā",
+      "jenis_kata": "Huruf",
+      "arti": "jangan",
+      "sharaf": {
+        "akar_kata": "لا",
+        "makna_dasar": "negasi, larangan",
+        "wazan_perubahan": "huruf nafi"
+      },
+      "nahwu": {
+        "kedudukan": "harf nafi yang mendahului fi'il amar selanjutnya",
+        "irab_dan_logika": "tidak berubah, berfungsi menolak tindakan berikutnya"
+      },
+      "hikmah": "melarang menyembunyikan keputusan yang telah ditetapkan",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "يَكُنْ",
+      "transliterasi": "yakun",
+      "jenis_kata": "Fi'il",
+      "arti": "menjadi, ada",
+      "sharaf": {
+        "akar_kata": "ك-و-ن",
+        "makna_dasar": "keberadaan, eksistensi",
+        "wazan_perubahan": "فَعَلَ (bentuk I)"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il mudhari' majzum (jussif) setelah huruf nashb atau dalam kalimat syarat",
+        "irab_dan_logika": "berakhiran sukun karena berada dalam bentuk majzum"
+      },
+      "hikmah": "Menegaskan kepastian keadaan yang dibicarakan, menekankan sifat ketetapan Allah dalam keputusan yang akan datang.",
+      "role": "none"
+    },
+    {
+      "index": 25,
+      "kata_arab": "أَمْرُكُمْ",
+      "transliterasi": "amrukum",
+      "jenis_kata": "Isim",
+      "arti": "urusan, halmu",
+      "sharaf": {
+        "akar_kata": "أ-م-ر",
+        "makna_dasar": "perintah, urusan, perkara",
+        "wazan_perubahan": "فَعَلَ (bentuk I)"
+      },
+      "nahwu": {
+        "kedudukan": "mubtada' (subjek) dalam kalimat nominal dengan يَكُنْ",
+        "irab_dan_logika": "marfu' karena menjadi mubtada' pada fi'il kaana"
+      },
+      "hikmah": "Menunjukkan bahwa apa yang menjadi urusan atau keputusan manusia berada dalam genggaman Allah dan akan ditetapkan.",
+      "role": "none"
+    },
+    {
+      "index": 26,
+      "kata_arab": "عَلَيْكُمْ",
+      "transliterasi": "alaykum",
+      "jenis_kata": "Huruf",
+      "arti": "atas kalian",
+      "sharaf": {
+        "akar_kata": "ع-ل-و",
+        "makna_dasar": "tinggi, berada di atas",
+        "wazan_perubahan": "huruf jar"
+      },
+      "nahwu": {
+        "kedudukan": "harf jar (preposisi) yang menghubungkan ke kata berikutnya",
+        "irab_dan_logika": "menjadikan ضمير 'kum' majrur (kasrah) karena berada di belakang huruf jar"
+      },
+      "hikmah": "Menunjukkan hubungan kepemilikan atau beban yang berada di atas kaum manusia, menekankan tanggung jawab mereka.",
+      "role": "none"
+    },
+    {
+      "index": 30,
+      "kata_arab": "إِلَىَّ",
+      "transliterasi": "ilāya",
+      "jenis_kata": "Huruf (preposisi) + ضمير متصل",
+      "arti": "kepada Aku",
+      "sharaf": {
+        "akar_kata": "إِلَى",
+        "makna_dasar": "menunjuk arah atau tujuan",
+        "wazan_perubahan": "penambahan ضمير المتكلم المتصل يَ menjadi إِلَىَّ"
+      },
+      "nahwu": {
+        "kedudukan": "مجرور بحرف الجر إِلَى، والضمير المتصل في محل جر",
+        "irab_dan_logika": "حرف الجر إِلَى يُجرّ المجرور، والضمير المتصل يَ يضيف علامة الجر (كسرة) على الياء"
+      },
+      "hikmah": "**إِلَىَّ** menegaskan bahwa seruan atau perintah ditujukan langsung kepada Allah, menekankan kebergantungan hamba kepada-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 31,
+      "kata_arab": "وَلَا",
+      "transliterasi": "walā",
+      "jenis_kata": "Huruf (حرف عطف + نفي)",
+      "arti": "dan tidak",
+      "sharaf": {
+        "akar_kata": "لا",
+        "makna_dasar": "penolakan, larangan",
+        "wazan_perubahan": "penambahan واو العطف menjadi وَلا"
+      },
+      "nahwu": {
+        "kedudukan": "حرف عطف يربط بين الجمل، وحرف نفي يسبق الفعل",
+        "irab_dan_logika": "الواو حرف عطف لا إعراب له، واللام حرف نفي مبني على السكون"
+      },
+      "hikmah": "**وَلَا** mempertegas larangan atau penolakan, menegaskan bahwa sesuatu tidak boleh dilakukan dalam konteks ayat.",
+      "role": "none"
+    },
+    {
+      "index": 32,
+      "kata_arab": "تُنظِرُونِ",
+      "transliterasi": "tunzirūna",
+      "jenis_kata": "Fi'il (verb) bentuk mudhari‘ majzum dengan ضمير متصل",
+      "arti": "",
+      "sharaf": {
+        "akar_kata": "ن ظ ر",
+        "makna_dasar": "melihat, menunda (dalam konteks: menunda hukuman)",
+        "wazan_perubahan": "فعل مضارع مرفوع بالضمة، والواو للرفع، والنون للملء، والضمير المتصل نِ في محل نصب مفعول به"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع بالضمة، والواو للرفع، والنون للملء، والضمير المتصل نِ مفعول به منصوب",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "**تُنظِرُونِ** mengandung makna “kamu menunda (azab) kepadaku”, menyoroti sikap keras kepala kaum Nuh yang menolak peringatan Allah.",
+      "role": "none"
+    }
+  ]
+}

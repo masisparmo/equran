@@ -1,0 +1,330 @@
+{
+  "surah": 12,
+  "ayah": 42,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "وَقَالَ",
+      "transliterasi": "wa qāla",
+      "jenis_kata": "Huruf + Fi'il",
+      "arti": "Dan dia berkata",
+      "sharaf": {
+        "akar_kata": "ق و ل (Qaf-Waw-Lam)",
+        "makna_dasar": "Berkata, berbicara",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau), wazan فَعَلَ (fa'ala), termasuk fi'il ajwaf wawiy"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf 'athaf (و) dan Fi'il Madhi (قال) sebagai predikat (fi'il) dari subjek yang tersembunyi (هو - Yusuf)",
+        "irab_dan_logika": "وَ (wa) adalah huruf 'athaf, mabniyyun 'ala al-fath (tetap fathah), tidak memiliki kedudukan i'rab. قَالَ (qāla) adalah Fi'il Madhi, mabniyyun 'ala al-fath (tetap fathah) karena tidak bersambung dengan dhamir rafa' mutaharrik atau wawu jama'ah. Fa'il (subjek) adalah dhamir mustatir (tersembunyi) takdiruhu هو (dia - Yusuf)."
+      },
+      "hikmah": "Kata ini memulai kalimat baru, menunjukkan kesinambungan narasi dan tindakan Nabi Yusuf yang memulai percakapan atau menyampaikan sesuatu.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "لِلَّذِى",
+      "transliterasi": "li alladhī",
+      "jenis_kata": "Huruf + Isim Maushul",
+      "arti": "Kepada orang yang",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk huruf jar dan isim maushul",
+        "makna_dasar": "Menunjukkan tujuan atau penerima (لِ) dan penghubung (الَّذِي)",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Jar Majrur (huruf jar dan isim majrur)",
+        "irab_dan_logika": "لِ (li) adalah Huruf Jar, mabniyyun 'ala al-kasr (tetap kasrah), berfungsi menjadikan isim setelahnya majrur. الَّذِي (alladhī) adalah Isim Maushul, mabniyyun 'ala as-sukūn (tetap sukun pada ya' terakhir), dalam posisi jar karena didahului oleh huruf jar."
+      },
+      "hikmah": "Menjelaskan kepada siapa Nabi Yusuf berbicara, yaitu orang tertentu yang akan dijelaskan sifat atau keadaannya setelahnya.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "ظَنَّ",
+      "transliterasi": "zhanna",
+      "jenis_kata": "Fi'il",
+      "arti": "Dia menyangka/menduga",
+      "sharaf": {
+        "akar_kata": "ظ ن ن (Zha-Nun-Nun)",
+        "makna_dasar": "Menyangka, menduga, mengira",
+        "wazan_perubahan": "Fi'il Madhi, wazan فَعَلَ (fa'ala), termasuk fi'il mudha'af (huruf kedua dan ketiga sama)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Madhi, menjadi shilah (penghubung) bagi isim maushul الَّذِي. Fa'ilnya adalah dhamir mustatir takdiruhu هو (dia - orang yang akan selamat)",
+        "irab_dan_logika": "ظَنَّ (zhanna) adalah Fi'il Madhi, mabniyyun 'ala al-fath (tetap fathah). Fa'ilnya adalah dhamir mustatir (tersembunyi) takdiruhu هو (dia), yang merujuk kepada 'orang yang' (الَّذِي)."
+      },
+      "hikmah": "Menunjukkan perkiraan atau keyakinan Nabi Yusuf terhadap salah satu dari dua tahanan tersebut, yang didasarkan pada penafsiran mimpinya.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "أَنَّهُۥ",
+      "transliterasi": "annahu",
+      "jenis_kata": "Huruf + Isim (Dhamir)",
+      "arti": "Bahwa dia",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk huruf nasikh dan dhamir",
+        "makna_dasar": "Penegas (أَنَّ) dan kata ganti orang ketiga tunggal laki-laki (هُ)",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Nasikh (أَنَّ) dan Isimnya (هُ). Jumlah أَنَّهُۥ نَاجٍۢ (bahwa dia akan selamat) secara keseluruhan menjadi maf'ul bih (objek) bagi fi'il ظَنَّ",
+        "irab_dan_logika": "أَنَّ (anna) adalah Huruf Nasikh (saudara inna), mabniyyun 'ala al-fath. Berfungsi menashabkan isim dan merafa'kan khabar. هُ (hu) adalah Dhamir muttashil (kata ganti bersambung), mabniyyun 'ala adh-dhamm (tetap dhammah), dalam posisi nashab sebagai isim أَنَّ."
+      },
+      "hikmah": "Memperjelas isi dari sangkaan Nabi Yusuf, yaitu tentang keselamatan orang tersebut, dan menjadi bagian dari objek yang disangka.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "نَاجٍۢ",
+      "transliterasi": "nājin",
+      "jenis_kata": "Isim",
+      "arti": "Orang yang selamat",
+      "sharaf": {
+        "akar_kata": "ن ج و (Nun-Jim-Waw)",
+        "makna_dasar": "Selamat, lolos, terbebas",
+        "wazan_perubahan": "Isim Fa'il (pelaku), wazan فَاعِلٌ (fā'ilun), dari fi'il ثلاثي مجرد (tsulatsī mujarrad) ajwaf wawiy. Bentuk aslinya ناجوٌ, kemudian menjadi ناجٍ (dengan tanwin kasrah sebagai pengganti ya' yang dibuang karena isim manqus)."
+      },
+      "nahwu": {
+        "kedudukan": "Khabar أَنَّ",
+        "irab_dan_logika": "نَاجٍۢ (nājin) adalah Khabar أَنَّ, sehingga marfu' (rafa'). Tanda rafa'nya adalah dhammah muqaddarah (diperkirakan) di atas ya' yang dibuang, dan tanwin kasrah (tanwin 'iwadh) sebagai pengganti ya' yang dibuang pada isim manqus."
+      },
+      "hikmah": "Ini adalah inti dari sangkaan Nabi Yusuf, yaitu bahwa salah satu dari mereka akan selamat dari hukuman atau penjara, yang merupakan kabar gembira bagi orang tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "مِّنْهُمَا",
+      "transliterasi": "minhumā",
+      "jenis_kata": "Huruf + Isim (Dhamir)",
+      "arti": "Dari keduanya",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk huruf jar dan dhamir",
+        "makna_dasar": "Menunjukkan asal atau bagian (مِنْ) dan kata ganti orang ketiga dua orang (هُمَا)",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Jar Majrur (huruf jar dan isim majrur), mutallaq (berkaitan) dengan Isim Fa'il نَاجٍۢ",
+        "irab_dan_logika": "مِنْ (min) adalah Huruf Jar, mabniyyun 'ala as-sukūn (tetap sukun). هُمَا (humā) adalah Dhamir muttashil, mabniyyun 'ala as-sukūn (tetap sukun), dalam posisi jar karena didahului oleh huruf jar."
+      },
+      "hikmah": "Memperjelas dan membatasi siapa yang dimaksud dengan 'orang yang selamat', yaitu salah satu dari dua tahanan yang bersama Nabi Yusuf, bukan orang lain.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "ٱذْكُرْنِى",
+      "transliterasi": "Uzkurnī",
+      "jenis_kata": "Fi'il",
+      "arti": "Ingatlah aku / Sebutkanlah aku",
+      "sharaf": {
+        "akar_kata": "ذ ك ر",
+        "makna_dasar": "Mengingat, menyebut, berzikir.",
+        "wazan_perubahan": "Fi'il Amr (perintah) dari Bab I (فَعَلَ يَفْعُلُ). Terdiri dari اذكر (uzkur) + ن (nun wiqayah) + ي (ya' mutakallim)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Amr, yang fa'ilnya (subjek) adalah dhamir mustatir (tersembunyi) 'anta' (kamu). Ya' mutakallim adalah maf'ul bih (objek).",
+        "irab_dan_logika": "Fi'il Amr mabni (tetap) sukun pada huruf akhirnya (ر), namun di sini ada nun wiqayah dan ya' mutakallim. Ya' mutakallim adalah dhamir muttasil mabni sukun pada posisi nashab sebagai maf'ul bih."
+      },
+      "hikmah": "Ini adalah permintaan Nabi Yusuf kepada teman penjaranya yang akan bebas untuk menyebutkan keadaannya kepada raja. Menunjukkan harapan dan upaya Yusuf untuk keluar dari kesulitan, namun dengan cara yang masih melibatkan manusia.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "عِندَ",
+      "transliterasi": "Inda",
+      "jenis_kata": "Isim (Zharf Makan)",
+      "arti": "Di sisi, di dekat, pada",
+      "sharaf": {
+        "akar_kata": "ع ن د",
+        "makna_dasar": "Kehadiran, di samping.",
+        "wazan_perubahan": "Isim Zharf (keterangan tempat)."
+      },
+      "nahwu": {
+        "kedudukan": "Zharf makan, berfungsi sebagai mudhaf (yang disandarkan) kepada kata setelahnya.",
+        "irab_dan_logika": "Mansub (berharakat fathah) karena merupakan zharf makan. Ia juga mudhaf, sehingga kata setelahnya (ربك) menjadi mudhaf ilaih."
+      },
+      "hikmah": "Menunjukkan lokasi atau hubungan 'di hadapan' atau 'di sisi' raja, menekankan bahwa permintaan Yusuf adalah agar keadaannya disampaikan langsung kepada penguasa.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "رَبِّكَ",
+      "transliterasi": "Rabbika",
+      "jenis_kata": "Isim",
+      "arti": "Tuanmu / Pemilikmu",
+      "sharaf": {
+        "akar_kata": "ر ب ب",
+        "makna_dasar": "Memelihara, menguasai, mendidik.",
+        "wazan_perubahan": "Isim. Terdiri dari 'Rabb' (Tuan/Pemilik) dan dhamir 'ka' (kamu laki-laki)."
+      },
+      "nahwu": {
+        "kedudukan": "Mudhaf ilaih (yang disandari) dari 'inda. Dhamir 'ka' adalah mudhaf ilaih kedua.",
+        "irab_dan_logika": "Majrur (berharakat kasrah) karena menjadi mudhaf ilaih. Dhamir 'ka' adalah dhamir muttasil mabni fathah pada posisi jar sebagai mudhaf ilaih."
+      },
+      "hikmah": "Dalam konteks ini, 'Rabb' merujuk kepada raja atau penguasa, bukan Tuhan dalam arti ilahiyah. Ini menunjukkan hierarki kekuasaan dan harapan Yusuf agar masalahnya sampai ke telinga orang yang memiliki otoritas tertinggi.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "فَأَنسَىٰهُ",
+      "transliterasi": "Fa-ansāhu",
+      "jenis_kata": "Fi'il",
+      "arti": "Maka dia melupakannya",
+      "sharaf": {
+        "akar_kata": "ن س ي",
+        "makna_dasar": "Lupa, melupakan.",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau) dari Bab IV (أَفْعَلَ يُفْعِلُ). Terdiri dari أنسى (ansā) + ه (dhamir 'hu' sebagai objek)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Madhi. Fa'ilnya (subjek) adalah 'asy-Syaithan' (setan) yang datang setelahnya. Dhamir 'hu' adalah maf'ul bih (objek).",
+        "irab_dan_logika": "Fi'il Madhi mabni fathah muqaddarah (tersembunyi) di atas alif layyinah. Dhamir 'hu' adalah dhamir muttasil mabni dammah pada posisi nashab sebagai maf'ul bih. Huruf 'fa' (ف) adalah huruf 'athaf (penghubung) yang menunjukkan akibat atau urutan."
+      },
+      "hikmah": "Menunjukkan intervensi setan yang menyebabkan kelupaan, sebuah ujian dari Allah. Ini adalah titik balik yang menjelaskan mengapa Yusuf tetap di penjara lebih lama.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "ٱلشَّيْطَٰنُ",
+      "transliterasi": "Asy-Syaithānu",
+      "jenis_kata": "Isim",
+      "arti": "Setan",
+      "sharaf": {
+        "akar_kata": "ش ط ن",
+        "makna_dasar": "Menjauh, menyimpang, membangkang.",
+        "wazan_perubahan": "Isim."
+      },
+      "nahwu": {
+        "kedudukan": "Fa'il (subjek) dari fi'il 'fa-ansāhu'.",
+        "irab_dan_logika": "Marfu' (berharakat dhammah) karena menjadi fa'il."
+      },
+      "hikmah": "Mengidentifikasi pelaku yang menyebabkan kelupaan. Ini adalah pengingat akan peran setan dalam mengganggu manusia dan menyebabkan kelalaian, bahkan dalam hal-hal penting.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "ذِكْرَ",
+      "transliterasi": "Dhikra",
+      "jenis_kata": "Isim (Mashdar)",
+      "arti": "Ingatan, penyebutan, peringatan",
+      "sharaf": {
+        "akar_kata": "ذ ك ر",
+        "makna_dasar": "Mengingat, menyebut, berzikir.",
+        "wazan_perubahan": "Mashdar (kata benda verbal) dari Bab I (فَعَلَ يَفْعُلُ)."
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul bih (objek) dari fi'il 'fa-ansāhu' (secara makna, objek dari kelupaan).",
+        "irab_dan_logika": "Mansub (berharakat fathah) karena menjadi maf'ul bih. Ia juga mudhaf kepada dhamir 'hu' (yang merujuk kepada Yusuf) yang tersembunyi (تقدير: ذكر يوسف)."
+      },
+      "hikmah": "Merujuk pada 'ingatan' atau 'penyebutan' tentang Yusuf. Setan membuat orang tersebut lupa untuk menyebutkan Yusuf kepada tuannya. Ini menegaskan kembali bahwa kelupaan itu spesifik pada penyebutan Yusuf.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "رَبِّهِۦ",
+      "transliterasi": "Rabbihī",
+      "jenis_kata": "Isim (Kata Benda) dan Dhomir (Kata Ganti)",
+      "arti": "Tuhannya / Tuannya",
+      "sharaf": {
+        "akar_kata": "ر ب ب (R-B-B)",
+        "makna_dasar": "Memiliki, menguasai, mendidik, memelihara.",
+        "wazan_perubahan": "Terdiri dari Isim (kata benda) `رَبِّ` (Rabb - Tuhan/Tuan) dalam bentuk mudhaf (kepemilikan) yang disambung dengan dhomir muttashil `ـهِۦ` (hi - dia laki-laki)."
+      },
+      "nahwu": {
+        "kedudukan": "Mudhaf ilaih (kata yang disandarkan kepadanya)",
+        "irab_dan_logika": "`رَبِّ` adalah majrur (berharakat kasrah) karena ia adalah mudhaf ilaih dari kata sebelumnya yang tersirat atau dalam konteks ayat ini merujuk kepada 'tuanmu' (raja). Harakat kasrah pada huruf `ب` menunjukkan status majrur. Dhomir `ـهِۦ` adalah dhomir muttashil yang mabni (tetap) pada kasrah dan berfungsi sebagai mudhaf ilaih, merujuk kepada raja/tuan."
+      },
+      "hikmah": "Dalam konteks ayat ini, `رَبِّهِۦ` merujuk kepada raja Mesir sebagai 'tuan' atau 'pemilik' Nabi Yusuf dalam pengertian budak/pelayan. Ini menunjukkan hubungan kepemilikan atau kekuasaan yang bersifat duniawi, yang menjadi bagian dari ujian Nabi Yusuf.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "فَلَبِثَ",
+      "transliterasi": "Falabitha",
+      "jenis_kata": "Fi'il (Kata Kerja)",
+      "arti": "Maka dia tinggal / maka dia menetap",
+      "sharaf": {
+        "akar_kata": "ل ب ث (L-B-Th)",
+        "makna_dasar": "Tinggal, menetap, berdiam diri.",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau) dengan wazan فَعَلَ (fa'ala). Huruf `فَـ` (fa) adalah huruf athaf (penghubung) yang berarti 'maka', menunjukkan akibat atau kelanjutan dari peristiwa sebelumnya."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Madhi (kata kerja lampau)",
+        "irab_dan_logika": "Fi'il Madhi adalah mabni (tetap) di atas fathah. Fa'il (pelaku) dari fi'il ini adalah dhomir mustatir (tersembunyi) yang kembali kepada Nabi Yusuf (`هُوَ` - dia laki-laki)."
+      },
+      "hikmah": "Kata ini menjelaskan konsekuensi langsung dari kelalaian setan yang menyebabkan orang tersebut lupa menyampaikan pesan Nabi Yusuf kepada rajanya. Akibatnya, Nabi Yusuf harus tetap tinggal di penjara, menunjukkan takdir Allah dan ujian kesabaran yang harus dilalui.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "فِى",
+      "transliterasi": "Fī",
+      "jenis_kata": "Huruf",
+      "arti": "Di dalam / pada",
+      "sharaf": {
+        "akar_kata": "Tidak ada (huruf tidak memiliki akar kata)",
+        "makna_dasar": "Menunjukkan tempat, waktu, sebab, atau kepemilikan.",
+        "wazan_perubahan": "Tidak ada (huruf tidak memiliki wazan)"
+      },
+      "nahwu": {
+        "kedudukan": "Harf Jar (huruf yang menjadikan kata setelahnya majrur)",
+        "irab_dan_logika": "Harf Jar adalah mabni (tetap) dan tidak memiliki i'rab. Fungsinya adalah menjadikan isim (kata benda) yang datang setelahnya berstatus majrur (berharakat kasrah)."
+      },
+      "hikmah": "Huruf ini berfungsi untuk menunjukkan lokasi fisik Nabi Yusuf, yaitu di dalam penjara. Ini menekankan kondisi dan tempat di mana ia menghabiskan waktu selama masa ujiannya.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "ٱلسِّجْنِ",
+      "transliterasi": "As-Sijni",
+      "jenis_kata": "Isim (Kata Benda)",
+      "arti": "Penjara",
+      "sharaf": {
+        "akar_kata": "س ج ن (S-J-N)",
+        "makna_dasar": "Memenjarakan, menahan.",
+        "wazan_perubahan": "Isim makan (kata benda tempat) yang berasal dari fi'il `سَجَنَ` (sajana - memenjarakan). Huruf `الـ` (al) adalah alif lam ta'rif (kata sandang tertentu)."
+      },
+      "nahwu": {
+        "kedudukan": "Isim Majrur",
+        "irab_dan_logika": "Kata ini berstatus majrur (berharakat kasrah) karena didahului oleh Harf Jar `فِى` (fī). Tanda jarnya adalah kasrah pada huruf nun (`نِ`)."
+      },
+      "hikmah": "Kata ini secara spesifik merujuk pada tempat penahanan Nabi Yusuf. Penjara adalah simbol dari ujian dan kesabaran yang harus dijalani oleh para nabi dan orang-orang saleh, serta menjadi bagian integral dari kisah cobaan Nabi Yusuf yang pada akhirnya membawa hikmah besar.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "بِضْعَ",
+      "transliterasi": "Biḍ'a",
+      "jenis_kata": "Isim (Kata Benda)",
+      "arti": "Beberapa (jumlah antara 3 sampai 9)",
+      "sharaf": {
+        "akar_kata": "ب ض ع (B-Ḍ-')",
+        "makna_dasar": "Bagian, potongan, beberapa.",
+        "wazan_perubahan": "Isim 'adad (kata benda bilangan) yang menunjukkan jumlah tidak tentu, spesifik antara tiga hingga sembilan."
+      },
+      "nahwu": {
+        "kedudukan": "Zharaf zaman (keterangan waktu) atau Maf'ul Fih",
+        "irab_dan_logika": "Kata ini berstatus manshub (berharakat fathah) karena berfungsi sebagai zharaf zaman yang menjelaskan durasi tinggalnya Nabi Yusuf di penjara. Ia juga berkedudukan sebagai mudhaf (kata yang disandarkan) kepada kata setelahnya."
+      },
+      "hikmah": "Kata ini menunjukkan durasi waktu yang tidak singkat, namun juga tidak terlalu lama, yaitu 'beberapa' tahun. Ini menekankan bahwa ujian Nabi Yusuf berlangsung dalam periode yang signifikan, menguji kesabaran, ketabahan, dan keimanannya dalam menghadapi cobaan.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "سِنِينَ",
+      "transliterasi": "Sinīna",
+      "jenis_kata": "Isim (Kata Benda)",
+      "arti": "Tahun-tahun",
+      "sharaf": {
+        "akar_kata": "س ن و (S-N-W)",
+        "makna_dasar": "Tahun.",
+        "wazan_perubahan": "Bentuk jamak dari `سَنَة` (sanah - tahun). Meskipun `سَنَة` adalah muannats (feminin), bentuk jamaknya `سِنِينَ` mengikuti pola i'rab jamak mudzakkar salim (plural maskulin teratur) dalam keadaan nashab dan jar (dengan `يَاء`)."
+      },
+      "nahwu": {
+        "kedudukan": "Mudhaf ilaih (kata yang disandarkan kepadanya)",
+        "irab_dan_logika": "Kata ini berstatus majrur dengan tanda jar `يَاء` (ya') karena ia adalah mudhaf ilaih dari `بِضْعَ` (biḍ'a) dan diperlakukan seperti jamak mudzakkar salim (mulhaq bihi) dalam i'rabnya. Harakat nun pada akhirnya adalah fathah sebagai pengganti tanwin."
+      },
+      "hikmah": "Kata ini menguatkan makna `بِضْعَ` dengan secara eksplisit menyebutkan 'tahun-tahun'. Ini menegaskan bahwa Nabi Yusuf menghabiskan waktu yang cukup lama di penjara, sebuah periode yang penuh dengan kesabaran, penantian akan pertolongan Allah, dan persiapan untuk peran besar yang akan datang.",
+      "role": "none"
+    }
+  ]
+}

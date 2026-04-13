@@ -1,0 +1,690 @@
+{
+  "surah": 9,
+  "ayah": 36,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "إِنَّ",
+      "transliterasi": "innā",
+      "jenis_kata": "Huruf",
+      "arti": "sesungguhnya, memang",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "penegasan",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "huruf takdir (inna) yang menguatkan kalimat nominal",
+        "irab_dan_logika": "حرف نصب؛ يرفع الاسم بعده إلى حالة النصب لتأكيد المعنى"
+      },
+      "hikmah": "menegaskan pentingnya bilangan bulan yang disebutkan",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "عِدَّةَ",
+      "transliterasi": "‘iddata",
+      "jenis_kata": "Isim",
+      "arti": "jumlah, bilangan",
+      "sharaf": {
+        "akar_kata": "ع‑د‑د",
+        "makna_dasar": "menghitung, mengukur",
+        "wazan_perubahan": "فَعَّلَة (masdar)"
+      },
+      "nahwu": {
+        "kedudukan": "isim منصوب بعد حرف إنّ",
+        "irab_dan_logika": "منصوب بالفتحة الظاهرة لأنه مرفوع بحرف النصب"
+      },
+      "hikmah": "menunjukkan bahwa yang dihitung adalah bilangan bulan",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "ٱلشُّهُورِ",
+      "transliterasi": "ash‑shuhūr",
+      "jenis_kata": "Isim",
+      "arti": "bulan‑bulan (jamak)",
+      "sharaf": {
+        "akar_kata": "ش‑ه‑ر",
+        "makna_dasar": "bulan",
+        "wazan_perubahan": "جمع تكسير"
+      },
+      "nahwu": {
+        "kedudukan": "مضاف إليه dalam iḍāfah \"عِدَّةَ الشُّهُورِ\"",
+        "irab_dan_logika": "مجرور بالكسرة لأنه مضاف إليه"
+      },
+      "hikmah": "menegaskan bahwa yang dihitung adalah bulan‑bulan",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "عِندَ",
+      "transliterasi": "‘inda",
+      "jenis_kata": "Huruf",
+      "arti": "pada, di sisi",
+      "sharaf": {
+        "akar_kata": "ع‑ن‑د",
+        "makna_dasar": "berada dekat, memiliki",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر يربط المجرور \"ٱللَّهِ\" بالسابقة",
+        "irab_dan_logika": "يجر الاسم المجرور ويُعرب الجار والمجرور في محل جر"
+      },
+      "hikmah": "menunjukkan kepemilikan Allah atas bilangan bulan",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "ٱللَّهِ",
+      "transliterasi": "Allāh",
+      "jenis_kata": "Isim",
+      "arti": "Allah (Tuhan)",
+      "sharaf": {
+        "akar_kata": "ل‑ه",
+        "makna_dasar": "Tuhan Yang Maha Esa",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "اسم مجرور بحرف الجر \"عِندَ\"",
+        "irab_dan_logika": "مجرور بالكسرة لأنه تابع لحرف الجر"
+      },
+      "hikmah": "menegaskan bahwa penetapan bulan adalah milik Allah",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "ٱثْنَا",
+      "transliterasi": "ithnā",
+      "jenis_kata": "Isim",
+      "arti": "dua",
+      "sharaf": {
+        "akar_kata": "ث‑ن‑ي",
+        "makna_dasar": "angka dua",
+        "wazan_perubahan": "صيغة المثنى (اثنان)"
+      },
+      "nahwu": {
+        "kedudukan": "جزء من العدد المركب \"اثنان عشر\" وهو خبر إِنَّ",
+        "irab_dan_logika": "منصوب بالكسرة لأنه خبر لحرف النصب"
+      },
+      "hikmah": "menegaskan bahwa jumlah bulan adalah dua belas",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "عَشَرَ",
+      "transliterasi": "ʿashara",
+      "jenis_kata": "Isim (numeral)",
+      "arti": "sepuluh",
+      "sharaf": {
+        "akar_kata": "ع-ش-ر",
+        "makna_dasar": "berkaitan dengan angka sepuluh",
+        "wazan_perubahan": "مُضَارِع مَجْهُول (kata kerja asal) yang dipakai sebagai isim"
+      },
+      "nahwu": {
+        "kedudukan": "objek (مفعول به) dari kata عِدَّةَ",
+        "irab_dan_logika": "منصوب بالفتحة لأنّه مفعول به"
+      },
+      "hikmah": "Menunjukkan bahwa jumlah bulan yang ditetapkan Allah adalah dua belas, menegaskan kesempurnaan kalender ilahi",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "شَهْرًۭا",
+      "transliterasi": "shahran",
+      "jenis_kata": "Isim (kata benda)",
+      "arti": "bulan",
+      "sharaf": {
+        "akar_kata": "ش-ه-ر",
+        "makna_dasar": "berkaitan dengan perhitungan waktu bulan",
+        "wazan_perubahan": "مَفْعَل"
+      },
+      "nahwu": {
+        "kedudukan": "objek (مفعول به) dari عِدَّةَ",
+        "irab_dan_logika": "منصوب بالفتحة وعلامة النصب تنوين الفتح لأنه منصوب"
+      },
+      "hikmah": "Menyatakan satuan waktu yang dimaksud, yaitu bulan, dalam konteks penetapan jumlah bulan",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "فِى",
+      "transliterasi": "fi",
+      "jenis_kata": "Huruf (preposisi)",
+      "arti": "di, dalam",
+      "sharaf": {
+        "akar_kata": "ف-ي",
+        "makna_dasar": "menunjukkan tempat atau keadaan",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "huruf جرّ يربط بين كلمة \"شهرًا\" dan \"كتاب\"",
+        "irab_dan_logika": "حرف جر لا يحمل إعراباً مستقلاً"
+      },
+      "hikmah": "Menunjukkan bahwa apa yang disebutkan berada dalam lingkup \"Kitab Allah\"",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "كِتَٰبِ",
+      "transliterasi": "kitāb",
+      "jenis_kata": "Isim (kata benda)",
+      "arti": "kitab, tulisan",
+      "sharaf": {
+        "akar_kata": "ك-ت-ب",
+        "makna_dasar": "menulis, catatan",
+        "wazan_perubahan": "مَفْعَل"
+      },
+      "nahwu": {
+        "kedudukan": "مجرور بحرف الجر \"في\"",
+        "irab_dan_logika": "مجرور بالكسرة لأنه تابع لحرف الجر"
+      },
+      "hikmah": "Maksudnya adalah \"Kitab Allah\" yang berisi ketetapan Allah mengenai bulan",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "ٱللَّهِ",
+      "transliterasi": "Allāh",
+      "jenis_kata": "Isim (nama khusus)",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "أ-ل-ه",
+        "makna_dasar": "Dewa yang Maha Esa",
+        "wazan_perubahan": "اسم علم"
+      },
+      "nahwu": {
+        "kedudukan": "مجرور مضاف إليه بعد كلمة \"كتاب\"",
+        "irab_dan_logika": "مجرور بالكسرة لأنه مضاف إليه"
+      },
+      "hikmah": "Menegaskan otoritas ilahi atas ketetapan yang disebutkan",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "يَوْمَ",
+      "transliterasi": "yawma",
+      "jenis_kata": "Isim (kata benda)",
+      "arti": "hari",
+      "sharaf": {
+        "akar_kata": "ي-و-م",
+        "makna_dasar": "waktu siang, hari",
+        "wazan_perubahan": "مَفْعَل"
+      },
+      "nahwu": {
+        "kedudukan": "مجرور أو منصوب ضمن جملة \"يوم خلق السماوات والأرض\"",
+        "irab_dan_logika": "منصوب بالفتحة لأنه مفعول به ضمن جملة زمانية"
+      },
+      "hikmah": "Menunjuk pada hari penciptaan langit dan bumi, menandai waktu awal penetapan bulan",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "خَلَقَ",
+      "transliterasi": "khalaqa",
+      "jenis_kata": "Fi'il",
+      "arti": "menciptakan",
+      "sharaf": {
+        "akar_kata": "k-l-q",
+        "makna_dasar": "menciptakan, membuat",
+        "wazan_perubahan": "fa'ala (bentuk I)"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il madhi (kata kerja utama)",
+        "irab_dan_logika": "مبني على الفتح karena فعل ماضٍ"
+      },
+      "hikmah": "Menunjukkan tindakan penciptaan Allah terhadap alam semesta, menegaskan kekuasaan mutlak-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "ٱلسَّمَٰوَٰتِ",
+      "transliterasi": "as-samāwāti",
+      "jenis_kata": "Isim",
+      "arti": "langit (jamak)",
+      "sharaf": {
+        "akar_kata": "s-m-w",
+        "makna_dasar": "langit, ruang atas",
+        "wazan_perubahan": "jamak تكسير (samāwāt)"
+      },
+      "nahwu": {
+        "kedudukan": "maf'ul bih (objek pertama)",
+        "irab_dan_logika": "منصوب بالفتحة (tanda nasb) meski dalam mushaf ditulis dengan kasrah sebagai keunikan bacaan"
+      },
+      "hikmah": "Menyiratkan bahwa langit termasuk ciptaan yang diciptakan Allah pada hari penciptaan.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "وَالْأَرْضَ",
+      "transliterasi": "wal-arḍa",
+      "jenis_kata": "Isim",
+      "arti": "dan bumi",
+      "sharaf": {
+        "akar_kata": "ʾ-r-ḍ",
+        "makna_dasar": "tanah, bumi",
+        "wazan_perubahan": "fa'ala (bentuk I)"
+      },
+      "nahwu": {
+        "kedudukan": "maf'ul bih (objek kedua) setelah wa",
+        "irab_dan_logika": "منصوب بالفتحة karena objek kata kerja"
+      },
+      "hikmah": "Bumi bersama langit merupakan bagian dari ciptaan Allah yang disebutkan secara berpasangan.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "مِنْهَا",
+      "transliterasi": "min-hā",
+      "jenis_kata": "Huruf",
+      "arti": "dari (itu)",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar + dhamir muttasir",
+        "irab_dan_logika": "حرف جر يجر ما بعده (هنا لا شيء بعده) ويعرب اسمًا مجرورًا"
+      },
+      "hikmah": "Menunjukkan sumber asal ciptaan, yaitu Allah menciptakan langit dan bumi dari (dengan perintah) Nya.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "أَرْبَعَةٌ",
+      "transliterasi": "arbaʿatun",
+      "jenis_kata": "Isim",
+      "arti": "empat (bulan)",
+      "sharaf": {
+        "akar_kata": "r-b-ʿ",
+        "makna_dasar": "angka empat",
+        "wazan_perubahan": "tasriʿ (bentuk angka)"
+      },
+      "nahwu": {
+        "kedudukan": "mubtada' (subjek)",
+        "irab_dan_logika": "مرفوع بالضمة وتنوين لأنها مبتدأ"
+      },
+      "hikmah": "Menegaskan bahwa empat bulan termasuk dalam kategori haram, menjadi titik fokus hukum Islam.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "حُرُمٌۭ",
+      "transliterasi": "ḥurūmun",
+      "jenis_kata": "Isim",
+      "arti": "haram, dilarang",
+      "sharaf": {
+        "akar_kata": "ḥ-r-m",
+        "makna_dasar": "menyucikan, melarang",
+        "wazan_perubahan": "fa'ala (bentuk I)"
+      },
+      "nahwu": {
+        "kedudukan": "khabar (predikat)",
+        "irab_dan_logika": "مرفوع بالضمة وتنوين لأنه خبر"
+      },
+      "hikmah": "Memberi penegasan bahwa empat bulan tersebut bersifat suci dan tidak boleh dilanggar, menegakkan ketentuan agama.",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "ۚ",
+      "transliterasi": "—",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda waqf (titik kecil) yang memisahkan bagian ayat",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqf di akhir frasa «ذَٰلِكَ الدِّينُ الْقَيِّمُ»",
+        "irab_dan_logika": "Tidak memiliki i‘rāb karena bukan kata; berfungsi memberi jeda untuk menekankan makna sebelumnya"
+      },
+      "hikmah": "Menandai berhentinya bacaan sementara, memberi kesempatan bagi pendengar/ pembaca merenungkan arti «الدِّينُ الْقَيِّمُ»",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "ذَٰلِكَ",
+      "transliterasi": "*dhālika*",
+      "jenis_kata": "Isim (isim dhālik, kata tunjuk)",
+      "arti": "itu, yang dimaksud",
+      "sharaf": {
+        "akar_kata": "ذ-ل-ك",
+        "makna_dasar": "menunjuk sesuatu yang telah disebut atau diketahui",
+        "wazan_perubahan": "مِفْعَل (bentuk isim dhālik)"
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada’ (subjek) dalam kalimat nominal «ذَٰلِكَ الدِّينُ الْقَيِّمُ»",
+        "irab_dan_logika": "مجرور بالكسرة لأنّ اسم الإشارة مبني على السكون؛ يدل على أنّ «الدِّينُ» adalah yang dimaksud"
+      },
+      "hikmah": "Menegaskan bahwa apa yang akan dijelaskan selanjutnya (agama yang lurus) adalah sesuatu yang telah ditetapkan Allah",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "ٱلدِّينُ",
+      "transliterasi": "*ad‑dīnu*",
+      "jenis_kata": "Isim (isim ma‘rif)",
+      "arti": "agama, sistem kepercayaan, kewajiban",
+      "sharaf": {
+        "akar_kata": "د-ي-ن",
+        "makna_dasar": "kewajiban, hutang, agama",
+        "wazan_perubahan": "فَعِل (bentuk isim)"
+      },
+      "nahwu": {
+        "kedudukan": "Khabar (predikat) yang melengkapi mubtada’ «ذَٰلِكَ»",
+        "irab_dan_logika": "مرفوع بالضمة karena berfungsi sebagai khabar dalam جملة اسمية"
+      },
+      "hikmah": "Menunjukkan bahwa yang dimaksud adalah agama yang ditetapkan Allah, bukan sekadar tradisi manusia",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "ٱلْقَيِّمُ",
+      "transliterasi": "*al‑qayyimu*",
+      "jenis_kata": "Isim (sifat, isim sifat)",
+      "arti": "yang lurus, yang menegakkan, yang benar",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "تَظْلِمُوا۟",
+      "transliterasi": "taẓlimū",
+      "jenis_kata": "Fi'il (verb)",
+      "arti": "kamu menzalimi (menindas)",
+      "sharaf": {
+        "akar_kata": "ظ ل م",
+        "makna_dasar": "menzalimi, menindas",
+        "wazan_perubahan": "Form I (فَعَلَ)"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il amar (perintah) dalam kalimat",
+        "irab_dan_logika": "dammah pada akhir karena fi'il amar untuk jamak"
+      },
+      "hikmah": "Allah memerintahkan agar umat tidak menzalimi diri sendiri dengan melanggar bulan-bulan haram.",
+      "role": "none"
+    },
+    {
+      "index": 25,
+      "kata_arab": "فِيهِنَّ",
+      "transliterasi": "fīhunna",
+      "jenis_kata": "Huruf (preposisi) + ضمير",
+      "arti": "di dalamnya (bulan‑bulan itu)",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "menunjukkan tempat",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "keterangan tempat (jar) yang menjelaskan kata sebelumnya",
+        "irab_dan_logika": "kasrah pada فِ dan هُنَّ karena huruf jar dengan dhamir"
+      },
+      "hikmah": "menegaskan bahwa larangan berlaku pada bulan‑bulan haram yang dimaksud.",
+      "role": "none"
+    },
+    {
+      "index": 26,
+      "kata_arab": "أَنفُسَكُمْ",
+      "transliterasi": "anfusakum",
+      "jenis_kata": "Isim (kata benda)",
+      "arti": "diri kalian",
+      "sharaf": {
+        "akar_kata": "أ ن ف س",
+        "makna_dasar": "jiwa, diri",
+        "wazan_perubahan": "bentuk jamak (مُثنى/جمع) dari نَفْس"
+      },
+      "nahwu": {
+        "kedudukan": "ma'ul (objek) dari fi'il amar تَظْلِمُوا۟",
+        "irab_dan_logika": "nasb dengan dammah karena berada di akhir fi'il amar"
+      },
+      "hikmah": "menunjukkan bahwa menzalimi diri sendiri adalah dosa yang dilarang.",
+      "role": "none"
+    },
+    {
+      "index": 27,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda ayat)",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda berhenti/akhiran ayat",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "menandai akhir bagian kalimat",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "pemisah antara dua perintah dalam ayat",
+        "irab_dan_logika": "tidak berirab, berfungsi sebagai tanda baca"
+      },
+      "hikmah": "memisahkan perintah pertama (jangan menzalimi) dengan perintah kedua (perangilah).",
+      "role": "none"
+    },
+    {
+      "index": 28,
+      "kata_arab": "وَقَٰتِلُوا۟",
+      "transliterasi": "waqātilū",
+      "jenis_kata": "Fi'il (verb)",
+      "arti": "dan perangilah",
+      "sharaf": {
+        "akar_kata": "ق ت ل",
+        "makna_dasar": "berperang, melawan",
+        "wazan_perubahan": "Form I (فَعَلَ)"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il amar (perintah) yang dihubungkan dengan wa",
+        "irab_dan_logika": "dammah pada akhir karena fi'il amar untuk jamak"
+      },
+      "hikmah": "perintah tegas untuk melawan orang‑orang musyrik secara menyeluruh.",
+      "role": "none"
+    },
+    {
+      "index": 29,
+      "kata_arab": "ٱلْمُشْرِكِينَ",
+      "transliterasi": "al‑mushrikīna",
+      "jenis_kata": "Isim (kata benda)",
+      "arti": "orang‑orang musyrik",
+      "sharaf": {
+        "akar_kata": "ش ر ك",
+        "makna_dasar": "menyekutukan Allah dengan sesuatu",
+        "wazan_perubahan": "isim fa'il (مُفَعَّل) jamak"
+      },
+      "nahwu": {
+        "kedudukan": "ma'ul (objek) dari fi'il amar وَقَٰتِلُوا۟",
+        "irab_dan_logika": "nasb dengan kasrah karena menjadi objek fi'il amar"
+      },
+      "hikmah": "menunjukkan sasaran perintah perang, yaitu seluruh kaum yang menyekutukan Allah.",
+      "role": "none"
+    },
+    {
+      "index": 30,
+      "kata_arab": "كَآفَّةًۭ",
+      "transliterasi": "kāffatan",
+      "jenis_kata": "Isim",
+      "arti": "semua, seluruh",
+      "sharaf": {
+        "akar_kata": "ك-ف-ف",
+        "makna_dasar": "cukup, lengkap",
+        "wazan_perubahan": "فَعَّلَة (faʿʿala)"
+      },
+      "nahwu": {
+        "kedudukan": "Mansub (objek) setelah huruf مقارنة *kama*",
+        "irab_dan_logika": "Berakhiran tanwin fathah menandakan status mansub karena menjadi objek perbandingan"
+      },
+      "hikmah": "*Menunjukkan bahwa seluruh orang yang dimaksud termasuk dalam perbandingan*",
+      "role": "none"
+    },
+    {
+      "index": 31,
+      "kata_arab": "كَمَا",
+      "transliterasi": "kama",
+      "jenis_kata": "Huruf",
+      "arti": "sebagaimana",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf مقارنة (kata pembanding)",
+        "irab_dan_logika": "Tidak berharakat karena berfungsi sebagai حرف غير معرب"
+      },
+      "hikmah": "*Menyatakan hubungan perbandingan antara dua pernyataan*",
+      "role": "none"
+    },
+    {
+      "index": 32,
+      "kata_arab": "يُقَٰتِلُونَكُمْ",
+      "transliterasi": "yuqātilūna kum",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka melawan/kamu",
+      "sharaf": {
+        "akar_kata": "ق-ت-ل",
+        "makna_dasar": "berperang, membunuh",
+        "wazan_perubahan": "يَفْعَلُ (yafʿalu)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il مضارع مرفوع بالضمة، والضمير المتصل \"كم\" مفعول به",
+        "irab_dan_logika": "الضمة على الفعل دليل الرفع، والضمير المتصل في محل نصب مفعول به"
+      },
+      "hikmah": "*Menggambarkan sikap agresif musuh yang menyerang umat Islam*",
+      "role": "none"
+    },
+    {
+      "index": 33,
+      "kata_arab": "كَآفَّةًۭ",
+      "transliterasi": "kāffatan",
+      "jenis_kata": "Isim",
+      "arti": "semua, seluruh",
+      "sharaf": {
+        "akar_kata": "ك-ف-ف",
+        "makna_dasar": "cukup, lengkap",
+        "wazan_perubahan": "فَعَّلَة (faʿʿala)"
+      },
+      "nahwu": {
+        "kedudukan": "Mansub (objek) setelah huruf مقارنة *kama*",
+        "irab_dan_logika": "Berakhiran tanwin fathah menandakan status mansub"
+      },
+      "hikmah": "*Penegasan kembali bahwa seluruh mereka termasuk dalam perbandingan*",
+      "role": "none"
+    },
+    {
+      "index": 34,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Huruf",
+      "arti": "tanda jeda/waqf",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Simbol waqf yang menandai akhir bagian kalimat",
+        "irab_dan_logika": "Tidak berharakat, berfungsi sebagai tanda baca"
+      },
+      "hikmah": "*Memberi jeda bagi pembaca untuk merenungkan makna sebelumnya*",
+      "role": "none"
+    },
+    {
+      "index": 35,
+      "kata_arab": "وَٱعْلَمُوٓا۟",
+      "transliterasi": "waʿlamū",
+      "jenis_kata": "Fi'il (imperatif) dengan huruf عطف",
+      "arti": "dan ketahuilah",
+      "sharaf": {
+        "akar_kata": "ع-ل-م",
+        "makna_dasar": "mengetahui",
+        "wazan_perubahan": "فَعَلَ (faʿala)"
+      },
+      "nahwu": {
+        "kedudukan": "فعل أمر مبني على السكون، والواو حرف عطف يربط dengan ayat sebelumnya",
+        "irab_dan_logika": "السكون يدل على أمر، والواو لا تُعرب"
+      },
+      "hikmah": "*Perintah tegas kepada umat untuk memahami dan mengamalkan ketetapan Allah*",
+      "role": "none"
+    },
+    {
+      "index": 36,
+      "kata_arab": "أَنَّ",
+      "transliterasi": "anna",
+      "jenis_kata": "Huruf (particle)",
+      "arti": "bahwa",
+      "sharaf": {
+        "akar_kata": "ن",
+        "makna_dasar": "menyatakan kepastian atau penegasan",
+        "wazan_perubahan": "tidak ada (kata partikel)"
+      },
+      "nahwu": {
+        "kedudukan": "kata penghubung (harf) yang menghubungkan kalimat utama dengan kalimat bersyarat",
+        "irab_dan_logika": "مرفوع بالضمة لأنه حرف مبني لا محل له من الإعراب"
+      },
+      "hikmah": "**Anna** menegaskan bahwa apa yang disebutkan selanjutnya (Allah) adalah fakta yang pasti dalam konteks ayat.",
+      "role": "none"
+    },
+    {
+      "index": 37,
+      "kata_arab": "ٱللَّهَ",
+      "transliterasi": "Allāh",
+      "jenis_kata": "Isim (nama Allah)",
+      "arti": "Tuhan",
+      "sharaf": {
+        "akar_kata": "ل-ه",
+        "makna_dasar": "menyebut Tuhan yang Maha Esa",
+        "wazan_perubahan": "isim mufrad"
+      },
+      "nahwu": {
+        "kedudukan": "isim yang berada dalam posisi mansوب setelah huruf \"anna\"",
+        "irab_dan_logika": "مجرور بالكسرة لأن حرف \"anna\" يجر الاسم التالي"
+      },
+      "hikmah": "Allah disebut dalam posisi **mansub** menegaskan kehadirannya sebagai subjek utama yang dijamin kebenarannya oleh \"anna\".",
+      "role": "none"
+    },
+    {
+      "index": 38,
+      "kata_arab": "مَعَ",
+      "transliterasi": "ma‘a",
+      "jenis_kata": "Huruf (preposisi)",
+      "arti": "bersama, dengan",
+      "sharaf": {
+        "akar_kata": "ع-و-? (kata depan)",
+        "makna_dasar": "menunjukkan hubungan kebersamaan atau kepemilikan",
+        "wazan_perubahan": "tidak ada (kata depan)"
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar yang menghubungkan Allah dengan \"al‑muttaqīna\"",
+        "irab_dan_logika": "مجرور بالكسرة لأنه حرف جر"
+      },
+      "hikmah": "**Ma‘a** menandakan bahwa Allah berada dalam kebersamaan dengan orang‑orang yang bertakwa, menegaskan hubungan spiritual yang erat.",
+      "role": "none"
+    },
+    {
+      "index": 39,
+      "kata_arab": "ٱلْمُتَّقِينَ",
+      "transliterasi": "al‑muttaqīna",
+      "jenis_kata": "Isim (jamak)",
+      "arti": "orang‑orang yang bertakwa",
+      "sharaf": {
+        "akar_kata": "و-ق-ي",
+        "makna_dasar": "menjaga diri dari dosa, takut kepada Allah",
+        "wazan_perubahan": "فعَّال (fa‘āl)"
+      },
+      "nahwu": {
+        "kedudukan": "isim majrur بعد حرف الجر \"ma‘a\"",
+        "irab_dan_logika": "مجرور وعلامة جره الكسرة لأنه اسم مجرور بحرف الجر"
+      },
+      "hikmah": "**Al‑muttaqīna** menekankan bahwa keberadaan Allah bersama mereka yang menjaga diri dari maksiat, menegaskan nilai moral utama dalam ayat.",
+      "role": "none"
+    }
+  ]
+}

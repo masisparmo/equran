@@ -1,0 +1,258 @@
+{
+  "surah": 9,
+  "ayah": 88,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "لَٰكِنِ",
+      "transliterasi": "lâkin",
+      "jenis_kata": "Huruf",
+      "arti": "tetapi",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf عطف di awal ayat, menghubungkan dengan ayat sebelumnya",
+        "irab_dan_logika": "Berharakat kasrah karena huruf عطف yang selalu berkasrah"
+      },
+      "hikmah": "Menunjukkan kontras atau perlawanan terhadap apa yang disebutkan sebelumnya",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "ٱلرَّسُولُ",
+      "transliterasi": "ar-rasūlu",
+      "jenis_kata": "Isim",
+      "arti": "utusan",
+      "sharaf": {
+        "akar_kata": "ر س ل",
+        "makna_dasar": "mengirimkan pesan, menjadi perantara",
+        "wazan_perubahan": "fa‘il"
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada' (subjek) dalam kalimat",
+        "irab_dan_logika": "Marfu' dengan dhammah karena menjadi مبتدأ"
+      },
+      "hikmah": "Menyiratkan kedudukan mulia sebagai pembawa wahyu",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "وَٱلَّذِينَ",
+      "transliterasi": "wa-alladhīna",
+      "jenis_kata": "Isim",
+      "arti": "dan orang‑orang yang",
+      "sharaf": {
+        "akar_kata": "ل ذ ي",
+        "makna_dasar": "yang, orang yang",
+        "wazan_perubahan": "isim isyarah"
+      },
+      "nahwu": {
+        "kedudukan": "Isim mawsul (kata sambung) berfungsi sebagai maf‘ul bih (objek) dari fi'il جاهدوا",
+        "irab_dan_logika": "Berkasrah karena منصوب sebagai maf‘ul bih"
+      },
+      "hikmah": "Menunjuk pada kelompok orang beriman yang menjadi subjek tindakan jihad",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "ءَامَنُوا۟",
+      "transliterasi": "āmanū",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka beriman",
+      "sharaf": {
+        "akar_kata": "أ م ن",
+        "makna_dasar": "yakin, beriman",
+        "wazan_perubahan": "fa‘ala (madhi)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il madhi yang menjadi bagian dari klausa relatif (الذين آمنوا)",
+        "irab_dan_logika": "Dhammah karena fi'il madhi yang tidak berjarak"
+      },
+      "hikmah": "Menegaskan keimanan sebagai syarat utama bagi orang‑orang yang dijadikan contoh",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "مَعَهُۥ",
+      "transliterasi": "ma‘ahu",
+      "jenis_kata": "Huruf",
+      "arti": "dengan dia",
+      "sharaf": {
+        "akar_kata": "ع ه",
+        "makna_dasar": "bersama, bersama‑sama",
+        "wazan_perubahan": "preposisi"
+      },
+      "nahwu": {
+        "kedudukan": "Zarf (keterangan tempat/alat) yang melengkapi fi'il جاهدوا",
+        "irab_dan_logika": "Berkasrah karena ظرف منصوب"
+      },
+      "hikmah": "Menunjukkan bahwa jihad dilakukan bersama sang Rasul",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "جَٰهَدُوا۟",
+      "transliterasi": "jāhadū",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka berjihad",
+      "sharaf": {
+        "akar_kata": "ج ه د",
+        "makna_dasar": "berusaha, berjuang keras",
+        "wazan_perubahan": "fa‘ala (madhi)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il madhi sebagai predikat utama dalam ayat",
+        "irab_dan_logika": "Dhammah karena fi'il madhi yang tidak berjarak"
+      },
+      "hikmah": "Menegaskan tindakan nyata berkorban dengan harta dan jiwa demi Allah",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "بِأَمْوَٰلِهِمْ",
+      "transliterasi": "bi-amwālihim",
+      "jenis_kata": "Huruf",
+      "arti": "**dengan** harta mereka",
+      "sharaf": {
+        "akar_kata": "م-و-ل",
+        "makna_dasar": "harta, kekayaan",
+        "wazan_perubahan": "bentuk isim maul **amwāl** (pola مَفْعَل) dengan huruf jar *bi*"
+      },
+      "nahwu": {
+        "kedudukan": "Objek jar (مجرور) dari fi‘il *yuqātilu* yang menjelaskan cara jihad",
+        "irab_dan_logika": "Berharakat kasrah karena berada di bawah huruf jar *bi*, diakhiri dengan **kasrah** pada *amwāli* dan **damma** pada *him* sebagai milik"
+      },
+      "hikmah": "Menunjukkan bahwa jihad mencakup pengorbanan harta, bukan hanya pertempuran fisik.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "وَأَنفُسِهِمْ",
+      "transliterasi": "wa-anfusihim",
+      "jenis_kata": "Isim",
+      "arti": "**dan** diri mereka",
+      "sharaf": {
+        "akar_kata": "ن-ف-س",
+        "makna_dasar": "jiwa, diri, nyawa",
+        "wazan_perubahan": "bentuk jamak **anfus** (pola فُعْل) dengan tambahan *wa* dan akhiran milik *-hum*"
+      },
+      "nahwu": {
+        "kedudukan": "Objek jar (مجرور) kedua yang sepadan dengan *bi-amwālihim*",
+        "irab_dan_logika": "Masuk dalam huruf jar *bi* yang menghubungkan dua isim; berkasrah pada *anfus* dan dammah pada *him* sebagai penanda milik"
+      },
+      "hikmah": "Menggambarkan bahwa jihad melibatkan pengorbanan diri serta nyawa, bukan sekadar harta.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "ۚ",
+      "transliterasi": "sukūn",
+      "jenis_kata": "Huruf",
+      "arti": "tanda berhenti/istirahat",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca yang memisahkan dua bagian kalimat",
+        "irab_dan_logika": "Tidak memiliki i‘rāb; berfungsi sebagai *waqf* (hentian) untuk memberi jeda makna"
+      },
+      "hikmah": "Memberi ruang bagi pendengar memahami bahwa bagian sebelumnya selesai dan makna selanjutnya akan melanjutkan penjelasan.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "وَأُو۟لَٰٓئِكَ",
+      "transliterasi": "wa-ulā’ika",
+      "jenis_kata": "Isim",
+      "arti": "**dan** mereka itu",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "ۖ",
+      "transliterasi": "—",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda jeda (waqf qasr) dalam Al‑Qur'an",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca, berada di akhir frasa **هُمُ**",
+        "irab_dan_logika": "Tidak berirab; berfungsi menandakan jeda pendek (waqf qasr) untuk memberi ruang napas pada pembaca"
+      },
+      "hikmah": "Menunjukkan penghentian sementara, memberi kesempatan bagi pendengar untuk merenungkan makna **هُمُ ٱلْمُفْلِحُونَ**",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "وَأُو۟لَٰٓئِكَ",
+      "transliterasi": "wa‑ʾulāʾika",
+      "jenis_kata": "Isim (isim isyarah/demonstratif)",
+      "arti": "dan mereka itu",
+      "sharaf": {
+        "akar_kata": "أ ل ك",
+        "makna_dasar": "mereka (demonstratif)",
+        "wazan_perubahan": "pola أَفْعَل (demonstratif)"
+      },
+      "nahwu": {
+        "kedudukan": "مبتدأ (subjek) dalam جملة اسمية",
+        "irab_dan_logika": "مرفوع بالضمة لأنه مبتدأ، dan tanda **wa** (و) berfungsi sebagai huruf عطف yang tidak mempengaruhi إعراب الكلمة"
+      },
+      "hikmah": "Menegaskan bahwa kelompok yang disebutkan sebelumnya (rasul dan orang‑orang beriman) termasuk dalam golongan **هُمُ ٱلْمُفْلِحُونَ**",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "هُمُ",
+      "transliterasi": "hum",
+      "jenis_kata": "Isim (dhamir mudhari‘)",
+      "arti": "mereka",
+      "sharaf": {
+        "akar_kata": "ه م",
+        "makna_dasar": "mereka (kata ganti orang ketiga jamak)",
+        "wazan_perubahan": "kata ganti mudhari‘ tunggal‑jamak"
+      },
+      "nahwu": {
+        "kedudukan": "خبر (predikat) dalam جملة اسمية setelah مبتدأ **وَأُولَٰئِكَ**",
+        "irab_dan_logika": "مرفوع بالضمة لأنّ الخبر مرفوع في جملة اسمية"
+      },
+      "hikmah": "Menegaskan identitas subjek: **mereka** (rasul dan orang‑orang beriman) adalah orang‑orang yang beruntung",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "ٱلْمُفْلِحُونَ",
+      "transliterasi": "al‑mufliḥūna",
+      "jenis_kata": "Isim (isim fa‘il, jamak maskulin)",
+      "arti": "orang‑orang yang beruntung / yang memperoleh kebaikan",
+      "sharaf": {
+        "akar_kata": "ف ل ح",
+        "makna_dasar": "berhasil, selamat, memperoleh kebaikan",
+        "wazan_perubahan": "مُفْعِل (pola isim fa‘il) → مُفْلِحُونَ (jamak مرفوع بالواو والنون)"
+      },
+      "nahwu": {
+        "kedudukan": "خبر ثانٍ (penjelas) setelah **هُمُ** dalam جملة اسمية",
+        "irab_dan_logika": "مرفوع بالواو والنون لأنّها جمع مذكر سالم مرفوع، dan berfungsi menjelaskan makna **هُمُ**"
+      },
+      "hikmah": "Menyiratkan bahwa orang‑orang yang berjuang dengan harta dan jiwa mereka akan menjadi **para orang beruntung** yang memperoleh kebaikan abadi",
+      "role": "none"
+    }
+  ]
+}

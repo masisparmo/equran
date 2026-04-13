@@ -1,0 +1,150 @@
+{
+  "surah": 15,
+  "ayah": 7,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "لَّوْ",
+      "transliterasi": "law",
+      "jenis_kata": "Huruf (particle)",
+      "arti": "jika (seandainya)",
+      "sharaf": {
+        "akar_kata": "ل و",
+        "makna_dasar": "menyatakan syarat atau kondisi",
+        "wazan_perubahan": "huruf ma'ul (particle)"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf syarat di awal kalimat",
+        "irab_dan_logika": "Tidak berharakat (sukun) karena huruf, berfungsi memperkenalkan klausa bersyarat"
+      },
+      "hikmah": "*Law* menandakan kondisi hipotetik yang belum terjadi, menyiapkan pembaca untuk menilai konsekuensi bila syarat terpenuhi.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "مَا",
+      "transliterasi": "mā",
+      "jenis_kata": "Huruf (negasi)",
+      "arti": "tidak",
+      "sharaf": {
+        "akar_kata": "م ا",
+        "makna_dasar": "menyatakan penolakan atau ketiadaan",
+        "wazan_perubahan": "huruf nafi"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf nafi yang menafikan kata kerja berikutnya",
+        "irab_dan_logika": "Tidak berharakat (sukun) karena huruf, menolak aksi yang diharapkan"
+      },
+      "hikmah": "*Mā* menegaskan penolakan, memberi tekanan bahwa tindakan yang diminta belum atau tidak akan terjadi.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "تَأْتِينَا",
+      "transliterasi": "taʾtīna",
+      "jenis_kata": "Fi'il (verb)",
+      "arti": "kamu (perempuan) membawa/menyampaikan kepada kami",
+      "sharaf": {
+        "akar_kata": "أ ت ي",
+        "makna_dasar": "datang, membawa, menurunkan",
+        "wazan_perubahan": "فعل مضارع مرفوع بالضمة مع ضمير متصل"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il mudhari‘ (present) yang مرفوع، والضمير المتصل \"نا\" مفعول به",
+        "irab_dan_logika": "مرفوع بالضمة الظاهرة على آخره، والضمير \"نا\" منصوب بالفتحة لأنه مفعول به"
+      },
+      "hikmah": "*Taʾtīna* menanyakan aksi konkret: apakah kamu (perempuan) akan mengirimkan sesuatu kepada kami?",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "بِٱلْمَلَٰٓئِكَةِ",
+      "transliterasi": "bil‑malaʾikati",
+      "jenis_kata": "Huruf (preposisi) + Isim (noun)",
+      "arti": "dengan para malaikat",
+      "sharaf": {
+        "akar_kata": "ل ك ء",
+        "makna_dasar": "makhluk yang diciptakan dari cahaya, pelaksana perintah Allah",
+        "wazan_perubahan": "اسم جمع مذكر سالم (مَلَائِكَة) مع tanwin kasrah"
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر (بِ) يجر الاسم \"المَلَائِكَةِ\"",
+        "irab_dan_logika": "المَلَائِكَةِ مجرور بالكسرة وعلامة جره الكسرة، والباء حرف جر لا إعراب له"
+      },
+      "hikmah": "Frasa ini menunjukkan sarana atau pihak yang diminta untuk dihadirkan, yaitu para malaikat, sebagai bukti kebenaran.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "إِن",
+      "transliterasi": "in",
+      "jenis_kata": "Huruf (particle)",
+      "arti": "jika",
+      "sharaf": {
+        "akar_kata": "أ ن",
+        "makna_dasar": "menegaskan syarat atau kondisi",
+        "wazan_perubahan": "حرف مشبه بـ \"إن\""
+      },
+      "nahwu": {
+        "kedudukan": "حرف شرط جازم يسبق الفعل الماضي \"كُنتَ\"",
+        "irab_dan_logika": "لا إعراب له، يربط الشرط بالجواب"
+      },
+      "hikmah": "*In* memperkuat kondisi yang diajukan, menandakan bahwa apa yang diikuti merupakan konsekuensi bila syarat terpenuhi.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "كُنتَ",
+      "transliterasi": "kunta",
+      "jenis_kata": "Fi'il (verb)",
+      "arti": "kamu (laki‑laki) adalah",
+      "sharaf": {
+        "akar_kata": "ك و ن",
+        "makna_dasar": "ada, menjadi, eksis",
+        "wazan_perubahan": "فعل ماضٍ مبني على الفتح مع ضمير متصل"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ماضٍ مبني على الفتح، والضمير المتصل \"تَ\" في محل رفع الفاعل",
+        "irab_dan_logika": "مرفوع بالضمة الظاهرة على آخره، والضمير المتصل لا إعراب له"
+      },
+      "hikmah": "*Kunta* menegaskan status atau sifat si pembicara, yakni termasuk orang-orang yang benar, sebagai dasar permintaan sebelumnya.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "مِنَ",
+      "transliterasi": "mina",
+      "jenis_kata": "Huruf",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "م ن",
+        "makna_dasar": "asal, sumber",
+        "wazan_perubahan": "preposisi (huruf jar)"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar, berfungsi sebagai penghubung antara kata sebelumnya dan isim setelahnya",
+        "irab_dan_logika": "Berharakat kasra karena huruf jar, menandakan i‘rāb majrūr"
+      },
+      "hikmah": "*Menunjukkan asal atau sumber, dalam konteks ini menandakan bahwa sesuatu berasal dari orang‑orang yang benar.*",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "الصَّادِقِينَ",
+      "transliterasi": "aṣ-ṣādiqīn",
+      "jenis_kata": "Isim (isim fa‘il jamī‘ mudhakkar salim)",
+      "arti": "orang‑orang yang benar",
+      "sharaf": {
+        "akar_kata": "ص د ق",
+        "makna_dasar": "kejujuran, kebenaran",
+        "wazan_perubahan": "fa‘il (aktif participle) bentuk jamī‘ mudhakkar salim"
+      },
+      "nahwu": {
+        "kedudukan": "Isim majrūr setelah huruf jar مِنَ, berfungsi sebagai objek preposisi",
+        "irab_dan_logika": "Berharakat kasra pada akhir karena majrūr (مِنَ)"
+      },
+      "hikmah": "*Menunjukkan kelompok orang yang selalu menegakkan kebenaran, menambah kejelasan bahwa yang dimaksud adalah orang‑orang yang jujur dan dapat dipercaya.*",
+      "role": "none"
+    }
+  ]
+}

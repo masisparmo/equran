@@ -1,0 +1,312 @@
+{
+  "surah": 10,
+  "ayah": 98,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "فَلَوْلَا",
+      "transliterasi": "fa‑lawla",
+      "jenis_kata": "Huruf",
+      "arti": "mengapa tidak",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "kata sambung (حرف عطف) di awal ayat",
+        "irab_dan_logika": "berharakat fatha karena huruf al‑‘illa"
+      },
+      "hikmah": "menunjukkan pertanyaan retoris yang menekankan keheranan atas tidak adanya contoh serupa",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "كَانَتْ",
+      "transliterasi": "kānat",
+      "jenis_kata": "Fi'il",
+      "arti": "adalah (past, perempuan)",
+      "sharaf": {
+        "akar_kata": "ك و ن",
+        "makna_dasar": "ada, eksistensi",
+        "wazan_perubahan": "فَعَلَ"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja bantu (كان) sebagai predikat",
+        "irab_dan_logika": "marfu‘ dengan dhammah karena فعل ماضٍ"
+      },
+      "hikmah": "menegaskan keadaan suatu kota yang ada pada masa lalu",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "قَرْيَةٌ",
+      "transliterasi": "qaryatun",
+      "jenis_kata": "Isim",
+      "arti": "sebuah kota/desa",
+      "sharaf": {
+        "akar_kata": "ق ر ي",
+        "makna_dasar": "tempat tinggal, desa",
+        "wazan_perubahan": "فَعِلة"
+      },
+      "nahwu": {
+        "kedudukan": "subjek (مبتدأ) setelah كان",
+        "irab_dan_logika": "marfu‘ dengan tanwin dammah karena menjadi مبتدأ"
+      },
+      "hikmah": "menunjuk pada entitas fisik yang menjadi fokus ayat",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "ءَامَنَتْ",
+      "transliterasi": "āmanat",
+      "jenis_kata": "Fi'il",
+      "arti": "beriman (perempuan)",
+      "sharaf": {
+        "akar_kata": "أ م ن",
+        "makna_dasar": "percaya, beriman",
+        "wazan_perubahan": "أَفْعَلَ"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja intransitif (فعل ماض) sebagai predikat tambahan",
+        "irab_dan_logika": "marfu‘ dengan dhammah karena فعل ماضٍ"
+      },
+      "hikmah": "menyatakan bahwa kota tersebut telah beriman",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "فَنَفَعَهَآ",
+      "transliterasi": "fa‑nafa‘ahā",
+      "jenis_kata": "Fi'il",
+      "arti": "maka (itu) memberi manfaat kepadanya",
+      "sharaf": {
+        "akar_kata": "ن ف ع",
+        "makna_dasar": "memberi manfaat, berguna",
+        "wazan_perubahan": "فَعَلَ"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja transitif (فعل) dengan objek ضمير متصل (ها)",
+        "irab_dan_logika": "marfu‘ dengan dhammah karena فعل ماضٍ, huruf فَ sebagai حرف عطف"
+      },
+      "hikmah": "menunjukkan konsekuensi positif iman kota itu",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "إِيمَٰنُهَآ",
+      "transliterasi": "īmānu‑hā",
+      "jenis_kata": "Isim",
+      "arti": "iman‑nya",
+      "sharaf": {
+        "akar_kata": "أ م ن",
+        "makna_dasar": "kepercayaan, keyakinan",
+        "wazan_perubahan": "اسم"
+      },
+      "nahwu": {
+        "kedudukan": "objek (مفعول به) dari فعل نفع",
+        "irab_dan_logika": "marfu‘ dengan dhammah karena مفعول به"
+      },
+      "hikmah": "menyiratkan bahwa iman itu menjadi sumber manfaat bagi kota",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "إِلَّا",
+      "transliterasi": "illa",
+      "jenis_kata": "Huruf (istisna‘)",
+      "arti": "kecuali, melainkan",
+      "sharaf": {
+        "akar_kata": "ل‑ا (la‑)",
+        "makna_dasar": "menafikan, tidak",
+        "wazan_perubahan": "إِلَّا = huruf istisna‘ yang terbentuk dari لا dengan penambahan alif dan shadda"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf istisna‘ yang menghalalkan pengecualian setelah isim",
+        "irab_dan_logika": "Tidak berharakat karena huruf, menandakan bahwa kata yang mengikutinya berada dalam **nasb** (مَنْصُوب) sebagai objek pengecualian"
+      },
+      "hikmah": "Menunjukkan batasan atau pengecualian, memberi arti ‘kecuali’ sehingga menegaskan bahwa apa yang disebutkan selanjutnya tidak termasuk dalam pernyataan umum sebelumnya.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "قَوْمَ",
+      "transliterasi": "qawma",
+      "jenis_kata": "Isim (maf‘ul)",
+      "arti": "kaum, orang‑orang",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "عَنْهُمْ",
+      "transliterasi": "‘an‑hum",
+      "jenis_kata": "Huruf (preposisi)",
+      "arti": "dari mereka",
+      "sharaf": {
+        "akar_kata": "ع‑ن‑ي",
+        "makna_dasar": "menunjuk asal atau sumber",
+        "wazan_perubahan": "preposisi عَنْ + ضمير متصل"
+      },
+      "nahwu": {
+        "kedudukan": "kata depan yang menghubungkan kata kerja «hilangkan» dengan objeknya",
+        "irab_dan_logika": "مجرور بالكسرة لأن حرف الجر «عَنْ» يجر ما بعده، والضمير المتصل «هُم» في محل جر"
+      },
+      "hikmah": "**عَنْهُمْ** menegaskan bahwa azab yang dihilangkan itu berasal **dari mereka**, menyingkapkan sifat pembebasan Allah dari hukuman yang menimpa kaum Yunus.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "عَذَابَ",
+      "transliterasi": "‘adhāba",
+      "jenis_kata": "Isim (kata benda)",
+      "arti": "hukuman, siksaan",
+      "sharaf": {
+        "akar_kata": "ع‑ذ‑ب",
+        "makna_dasar": "penderitaan, rasa sakit",
+        "wazan_perubahan": "مفعل (fa‘āl)"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به (objek) dari فعل «hilangkan»",
+        "irab_dan_logika": "منصوب بالفتحة لأن الفعل «hilangkan» يحتاج مفعولاً به"
+      },
+      "hikmah": "**عَذَابَ** menggambarkan siksaan yang menimpa kaum Yunus, yang kemudian dihapuskan oleh Allah sebagai tanda rahmat‑Nya.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "ٱلْخِزْىِ",
+      "transliterasi": "al‑khizy",
+      "jenis_kata": "Isim (kata benda)",
+      "arti": "hina, aib",
+      "sharaf": {
+        "akar_kata": "خ‑ز‑ي",
+        "makna_dasar": "perasaan malu, rasa rendah diri",
+        "wazan_perubahan": "مفعول (fa‘īl)"
+      },
+      "nahwu": {
+        "kedudukan": "مضاف إليه (pelengkap) dari «عَذَابَ» dalam iḍāfah",
+        "irab_dan_logika": "مجرور بالكسرة لأنه مضاف إليه في الإضافة"
+      },
+      "hikmah": "**ٱلْخِزْىِ** menekankan bahwa azab yang dihilangkan adalah azab yang menimbulkan rasa malu dan kehinaan dalam kehidupan dunia.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "فِى",
+      "transliterasi": "fī",
+      "jenis_kata": "Huruf (preposisi)",
+      "arti": "di, dalam",
+      "sharaf": {
+        "akar_kata": "ف‑ي",
+        "makna_dasar": "menunjuk tempat atau keadaan",
+        "wazan_perubahan": "حرف جر ثابت"
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر يربط الجملة الظرفية بـ«ٱلْحَيَوٰةِ»",
+        "irab_dan_logika": "حرف جر لا يتغير، يجر ما بعده"
+      },
+      "hikmah": "**فِى** memperjelas bahwa azab yang dihilangkan itu terjadi **di dalam** kehidupan dunia, bukan di alam akhirat.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "ٱلْحَيَوٰةِ",
+      "transliterasi": "al‑ḥayāh",
+      "jenis_kata": "Isim (kata benda)",
+      "arti": "kehidupan",
+      "sharaf": {
+        "akar_kata": "ح‑ي‑ي",
+        "makna_dasar": "hidup, keberadaan",
+        "wazan_perubahan": "فَعَالَة"
+      },
+      "nahwu": {
+        "kedudukan": "مجرور بحرف الجر «فِى» ضمن الظرفية",
+        "irab_dan_logika": "مجرور بالكسرة لأن حرف الجر «فِى» يجر الاسم"
+      },
+      "hikmah": "**ٱلْحَيَوٰةِ** menandakan bahwa rahmat Allah bersifat duniawi, memberi kenikmatan pada masa hidup di dunia.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "ٱلدُّنْيَا",
+      "transliterasi": "al‑dunyā",
+      "jenis_kata": "Isim (kata benda)",
+      "arti": "dunia",
+      "sharaf": {
+        "akar_kata": "د‑ن‑ي",
+        "makna_dasar": "alam dunia, kehidupan sementara",
+        "wazan_perubahan": "فَعْلَة"
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "وَمَتَّعْنَٰهُمْ",
+      "transliterasi": "wa‑mattaʿnāhum",
+      "jenis_kata": "Fi'il (verb)",
+      "arti": "**Kami memberi kesenangan** kepada mereka",
+      "sharaf": {
+        "akar_kata": "م‑ت‑ع",
+        "makna_dasar": "menikmati, memberi kesenangan",
+        "wazan_perubahan": "**فَعَّل** (form II)"
+      },
+      "nahwu": {
+        "kedudukan": "**Fʿl māḍī** (verb past) yang diawali dengan huruf **و** sebagai sambung",
+        "irab_dan_logika": "Fʿl māḍī مبني على السكون؛ karena verba lampau tidak berubah‑ubah dalam إعراب"
+      },
+      "hikmah": "Allah memberi kenikmatan kepada kaum Yunus sebagai balasan atas iman mereka, menegaskan bahwa **iman membawa kebahagiaan duniawi**.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "إِلَىٰ",
+      "transliterasi": "ilā",
+      "jenis_kata": "Huruf (preposisi)",
+      "arti": "**hingga, sampai**",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf **jar** yang menghubungkan ke kata berikutnya",
+        "irab_dan_logika": "حرف جر لا إعرابه؛ يجر ما بعده"
+      },
+      "hikmah": "Menunjukkan batas waktu atau masa yang ditetapkan untuk kenikmatan yang diberikan.",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "حِينٍۢ",
+      "transliterasi": "ḥīnin",
+      "jenis_kata": "Isim (noun)",
+      "arti": "**waktu, masa**",
+      "sharaf": {
+        "akar_kata": "ح‑ي‑ن",
+        "makna_dasar": "masa, waktu",
+        "wazan_perubahan": "**فَعِل**"
+      },
+      "nahwu": {
+        "kedudukan": "Isim **majrūr** (objek preposisi)",
+        "irab_dan_logika": "مجرور بحرف الجر **إلى** وعلامة جره الكسرة الظاهرة على آخره (حِينٍ)"
+      },
+      "hikmah": "Menegaskan bahwa kenikmatan itu diberikan **hingga suatu masa tertentu**, mengingatkan bahwa segala kenikmatan duniawi bersifat sementara.",
+      "role": "none"
+    }
+  ]
+}

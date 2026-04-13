@@ -1,0 +1,348 @@
+{
+  "surah": 10,
+  "ayah": 81,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "فَلَمَّآ",
+      "transliterasi": "fa-lammā",
+      "jenis_kata": "Huruf",
+      "arti": "lalu ketika",
+      "sharaf": {
+        "akar_kata": "ل م",
+        "makna_dasar": "ketika",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf عطف وشرط يربط الجملة السابقة باللاحقة",
+        "irab_dan_logika": "مبني على السكون لا إعراب له، يسبق جملة فعلية"
+      },
+      "hikmah": "Menunjukkan urutan waktu, mengaitkan peristiwa lemparan dengan respons Musa",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "أَلْقَوْا۟",
+      "transliterasi": "alqawū",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka melemparkan",
+      "sharaf": {
+        "akar_kata": "ق و ل",
+        "makna_dasar": "lempar",
+        "wazan_perubahan": "فَعَلُوا"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ماضٍ ثلاثي مرفوع بالضمة",
+        "irab_dan_logika": "مرفوع لأنه فعل ماضٍ، والواو للواو الجماعة"
+      },
+      "hikmah": "Menunjukkan tindakan menolak sihir dengan melemparkan sesuatu",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "قَالَ",
+      "transliterasi": "qāla",
+      "jenis_kata": "Fi'il",
+      "arti": "berkata",
+      "sharaf": {
+        "akar_kata": "ق و ل",
+        "makna_dasar": "kata",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ماضٍ ثلاثي مرفوع بالضمة",
+        "irab_dan_logika": "مرفوع لأنه فعل ماضٍ"
+      },
+      "hikmah": "Menandakan pernyataan Musa setelah tindakan mereka",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "مُوسَىٰ",
+      "transliterasi": "Mūsā",
+      "jenis_kata": "Isim",
+      "arti": "Musa",
+      "sharaf": {
+        "akar_kata": "م س ي",
+        "makna_dasar": "yang diselamatkan",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "اسم علم مرفوع بالضمة",
+        "irab_dan_logika": "مرفوع لأنه فاعل لفعل قال"
+      },
+      "hikmah": "Subjek yang menyampaikan pernyataan, nabi yang diutus",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "مَا",
+      "transliterasi": "mā",
+      "jenis_kata": "Isim",
+      "arti": "apa",
+      "sharaf": {
+        "akar_kata": "م و",
+        "makna_dasar": "apa",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "اسم موصول مبني على السكون في محل نصب مفعول به",
+        "irab_dan_logika": "منصوب لأنه مفعول به للفعل جاء"
+      },
+      "hikmah": "Menunjukkan pertanyaan tentang apa yang mereka bawa",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "جِئْتُم",
+      "transliterasi": "ji'tum",
+      "jenis_kata": "Fi'il",
+      "arti": "kamu datang",
+      "sharaf": {
+        "akar_kata": "ج أ ت",
+        "makna_dasar": "datang",
+        "wazan_perubahan": "فَعِلْتُم"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ماضٍ مبني على السكون مع واو الجماعة",
+        "irab_dan_logika": "مرفوع لأنه فعل ماضٍ، والواو للمتكلم"
+      },
+      "hikmah": "Menanyakan apa yang mereka bawa, menegaskan bahwa mereka datang dengan sihir",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "بِهِ",
+      "transliterasi": "bi‑hi",
+      "jenis_kata": "Huruf (preposisi + ضمير)",
+      "arti": "dengan dia/itu",
+      "sharaf": {
+        "akar_kata": "ب",
+        "makna_dasar": "menyertakan, bersama",
+        "wazan_perubahan": "b + ضمير متصل"
+      },
+      "nahwu": {
+        "kedudukan": "Preposisi yang menghubungkan فعل *رَمَيْتَ* dengan objek *هِ*",
+        "irab_dan_logika": "مجرور بالكسرة، والهاء ضمير متصل في محل جر بسبب الحرف"
+      },
+      "hikmah": "Menunjukkan cara tindakan *lemparkan* itu dilakukan *dengan* sesuatu (yaitu tongkat)",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "ٱلسِّحْرُ",
+      "transliterasi": "as‑sihru",
+      "jenis_kata": "Isim (isim mufrad)",
+      "arti": "sihir",
+      "sharaf": {
+        "akar_kata": "س‑ح‑ر",
+        "makna_dasar": "menipu, mengadakan sihir",
+        "wazan_perubahan": "فِعْل (bentuk isim)"
+      },
+      "nahwu": {
+        "kedudukan": "Khabar (predikat) setelah حرف النصب *إِنَّ*",
+        "irab_dan_logika": "مرفوع بالضمة الظاهرة لأنّ حرف توكيد ونصب"
+      },
+      "hikmah": "Menyatakan bahwa apa yang dilakukan itu adalah sihir, bukan mukjizat",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "ۖ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda jeda/berhenti",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqf yang memisahkan antara *السِّحْرُ* dan *إِنَّ*",
+        "irab_dan_logika": "Tidak berirab, berfungsi sebagai pemisah makna"
+      },
+      "hikmah": "Memberi jeda agar pembaca menekankan pernyataan *sihir* sebelum lanjutan ayat",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "إِنَّ",
+      "transliterasi": "inna",
+      "jenis_kata": "Huruf (harf nashb)",
+      "arti": "sesungguhnya",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Harf takwim (penegas) yang menempatkan ما بعده في نصب",
+        "irab_dan_logika": "ينصب ما بعده (اللَّهَ) ويجعل الفعل التالي مرفوعاً"
+      },
+      "hikmah": "Menegaskan kepastian bahwa Allah akan menolak sihir itu",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "ٱللَّهَ",
+      "transliterasi": "Allāh",
+      "jenis_kata": "Isim (nama Allah)",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "إ ل ه",
+        "makna_dasar": "menyebut Tuhan",
+        "wazan_perubahan": "مُفَعَّل (مضاف إليه)"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به (مجرور) لحرف النصب *إِنَّ*",
+        "irab_dan_logika": "منصوب بالفتحة لأنه مفعول به لحرف النصب"
+      },
+      "hikmah": "Subjek yang akan melakukan pembatalan sihir",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "سَيُبْطِلُهُۥ",
+      "transliterasi": "sayuṭbilu‑hu",
+      "jenis_kata": "Fi'il (verb mudhari‘ majzum)",
+      "arti": "akan membatalkannya",
+      "sharaf": {
+        "akar_kata": "ب ط ل",
+        "makna_dasar": "membatalkan, meniadakan",
+        "wazan_perubahan": "سَيفْعَل"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع بالضمة، والفاعل مستتر تقديره هو (الله)",
+        "irab_dan_logika": "مرفوع بالضمة لأن الفعل مضارع غير مجزوم، والهاء المتصلة في محل نصب مفعول به"
+      },
+      "hikmah": "Allah pasti akan menolak dan menghilangkan sihir itu",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "ۖ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda koma (waqf)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca akhir ayat",
+        "irab_dan_logika": "menandakan jeda, tidak berharakat"
+      },
+      "hikmah": "*Menunjukkan pemisahan antara pernyataan sebelumnya dan penegasan selanjutnya.*",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "إِنَّ",
+      "transliterasi": "inna",
+      "jenis_kata": "Huruf (harf takdir)",
+      "arti": "sesungguhnya",
+      "sharaf": {
+        "akar_kata": "ن",
+        "makna_dasar": "menegaskan, memperkuat",
+        "wazan_perubahan": "إِنَّ"
+      },
+      "nahwu": {
+        "kedudukan": "huruf takdir yang menguatkan kalimat setelahnya",
+        "irab_dan_logika": "marfu' karena huruf, tidak berharakat"
+      },
+      "hikmah": "*Menguatkan pernyataan bahwa Allah tidak memperbaiki perbuatan orang zalim.*",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "اللَّهَ",
+      "transliterasi": "Allaha",
+      "jenis_kata": "Isim (nama Allah)",
+      "arti": "Allah (objek)",
+      "sharaf": {
+        "akar_kata": "ل-ه-ا",
+        "makna_dasar": "nama Tuhan yang Maha Esa",
+        "wazan_perubahan": "مفعول"
+      },
+      "nahwu": {
+        "kedudukan": "isim manshub setelah إِنَّ",
+        "irab_dan_logika": "manshub (نصب) dengan fathah karena إِنَّ mengambil isim manshub"
+      },
+      "hikmah": "*Menegaskan subjek yang ditolak perbuatannya oleh Allah.*",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "لَا",
+      "transliterasi": "la",
+      "jenis_kata": "Huruf (negasi)",
+      "arti": "tidak",
+      "sharaf": {
+        "akar_kata": "ل-ا",
+        "makna_dasar": "menafikan",
+        "wazan_perubahan": "لا"
+      },
+      "nahwu": {
+        "kedudukan": "huruf nafi yang menolak kata kerja berikutnya",
+        "irab_dan_logika": "tidak berharakat, berfungsi meniadakan makna positif"
+      },
+      "hikmah": "*Menyatakan bahwa Allah tidak akan memperbaiki perbuatan orang zalim.*",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "يُصْلِحُ",
+      "transliterasi": "yus'lihu",
+      "jenis_kata": "Fi'il (verb)",
+      "arti": "memperbaiki",
+      "sharaf": {
+        "akar_kata": "ص-ل-ح",
+        "makna_dasar": "memperbaiki, mengoreksi",
+        "wazan_perubahan": "فَعَلَ"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il mudhari' (present) 3rd person maskulin tunggal",
+        "irab_dan_logika": "marfu' dengan dhammah karena fi'il mudhari'"
+      },
+      "hikmah": "*Allah tidak akan mengubah (memperbaiki) perbuatan orang yang berbuat zalim.*",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "عَمَلَ",
+      "transliterasi": "ʿamala",
+      "jenis_kata": "Isim (noun)",
+      "arti": "perbuatan",
+      "sharaf": {
+        "akar_kata": "ع-م-ل",
+        "makna_dasar": "perbuatan, amal",
+        "wazan_perubahan": "فَعَلَ"
+      },
+      "nahwu": {
+        "kedudukan": "isim manshub sebagai objek fi'il يُصْلِحُ",
+        "irab_dan_logika": "manshub (نصب) dengan fathah karena fi'il yang diikuti objek"
+      },
+      "hikmah": "*Menunjukkan bahwa perbuatan orang zalim tidak akan diperbaiki oleh Allah.*",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "ٱلْمُفْسِدِينَ",
+      "transliterasi": "al‑mufsidīna",
+      "jenis_kata": "Isim",
+      "arti": "orang‑orang yang merusak, pembuat kerusakan",
+      "sharaf": {
+        "akar_kata": "ف س د",
+        "makna_dasar": "rusak, merusak",
+        "wazan_perubahan": "مُفْسِد (mufsid) – pola maf‘al dengan tambahan alif lam untuk definiteness, kemudian bentuk jamak maskulin salim (‑īna)"
+      },
+      "nahwu": {
+        "kedudukan": "Isim majrur setelah huruf jar «مع» (ma‘a) dalam frasa «مع المُفْسِدِينَ»",
+        "irab_dan_logika": "Berakhiran kasrah (ـِ) karena berada dalam i‘rāb majrur yang ditandai preposisi «مع». Kata ini menjadi mudhaf majrur, menandakan orang‑orang yang melakukan kerusakan sebagai objek preposisi"
+      },
+      "hikmah": "Kata ini menegaskan bahwa Allah tidak akan membiarkan kelanjutan perbuatan orang‑orang yang menyebarkan kerusakan. Mereka berada dalam posisi yang dikecam, sehingga menjadi peringatan bagi umat untuk menjauhi perbuatan yang menimbulkan kerusakan dan memelihara kedamaian serta keadilan.",
+      "role": "none"
+    }
+  ]
+}

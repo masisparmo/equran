@@ -1,0 +1,132 @@
+{
+  "surah": 15,
+  "ayah": 9,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "إِنَّا",
+      "transliterasi": "inna",
+      "jenis_kata": "Huruf (حرف توكيد)",
+      "arti": "sesungguhnya, memang",
+      "sharaf": {
+        "akar_kata": "أ ن ن",
+        "makna_dasar": "menegaskan, menguatkan pernyataan",
+        "wazan_perubahan": "حرف مشبه من الفعل أَنَّ"
+      },
+      "nahwu": {
+        "kedudukan": "حرف توكيد يسبق اسم إِنَّ (نَحْنُ)",
+        "irab_dan_logika": "حرف لا إعراب له، والضمير المتصل **نا** في محل جر لأنه تابع لحرف إِنَّ"
+      },
+      "hikmah": "Menegaskan bahwa apa yang akan disebutkan selanjutnya adalah pernyataan mutlak Allah.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "نَحْنُ",
+      "transliterasi": "nahnu",
+      "jenis_kata": "Isim (kata ganti orang pertama jamak)",
+      "arti": "kami",
+      "sharaf": {
+        "akar_kata": "ن ه ن",
+        "makna_dasar": "kami, kita",
+        "wazan_perubahan": "kata ganti tidak mengalami perubahan wazan"
+      },
+      "nahwu": {
+        "kedudukan": "اسم إِنَّ مرفوع",
+        "irab_dan_logika": "مرفوع بالضمة لأنه اسم إِنَّ"
+      },
+      "hikmah": "Menegaskan subjek tindakan, yaitu Allah sendiri yang berbicara dengan kata **kami**.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "نَزَّلْنَا",
+      "transliterasi": "nazzalnā",
+      "jenis_kata": "Fi'il (kata kerja lampau)",
+      "arti": "menurunkan",
+      "sharaf": {
+        "akar_kata": "ن ز ل",
+        "makna_dasar": "menurunkan, menurunkan dari atas",
+        "wazan_perubahan": "فعل ماضٍ ثلاثي مزيد (نَزَّل) مع ضمير المتصل **نا**"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ماضٍ مبني على الفتح",
+        "irab_dan_logika": "مبني على الفتح، والضمير المتصل **نا** في محل رفع الفاعل"
+      },
+      "hikmah": "Allah menegaskan bahwa Dialah yang menurunkan **Al‑Qur’an** kepada manusia.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "ٱلذِّكْرَ",
+      "transliterasi": "adh-dhikra",
+      "jenis_kata": "Isim (kata benda)",
+      "arti": "ingat, sebutan, Al‑Qur’an",
+      "sharaf": {
+        "akar_kata": "ذ ك ر",
+        "makna_dasar": "mengingat, menyebut",
+        "wazan_perubahan": "مصدر صناعي من الفعل ذَكَرَ"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به للفعل نَزَّلْنَا",
+        "irab_dan_logika": "منصوب بالفتحة لأنه مفعول به"
+      },
+      "hikmah": "Yang diturunkan adalah **zikr** (Al‑Qur’an), sebagai peringatan dan petunjuk bagi umat.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "وَإِنَّا",
+      "transliterasi": "wa‑inna",
+      "jenis_kata": "Huruf (حرف عطف + حرف توكيد)",
+      "arti": "dan sesungguhnya kami",
+      "sharaf": {
+        "akar_kata": "أ ن ن",
+        "makna_dasar": "menegaskan kembali pernyataan",
+        "wazan_perubahan": "حرف عطف **و** + حرف توكيد **إِنَّ** مع ضمير المتصل **نا**"
+      },
+      "nahwu": {
+        "kedudukan": "حرف عطف يربط الجملة السابقة باللاحقة، ثم حرف توكيد يسبق اسم",
+        "irab_dan_logika": "**و** لا إعراب له، **إِنَّ** حرف توكيد يجعل ما بعده مجرور"
+      },
+      "hikmah": "Menambahkan penegasan bahwa Allah juga **memelihara** Al‑Qur’an, memperkuat janji sebelumnya.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "لَهُۥ",
+      "transliterasi": "lahu",
+      "jenis_kata": "Huruf (حرف جر)",
+      "arti": "bagi-Nya, milik-Nya",
+      "sharaf": {
+        "akar_kata": "ل ه",
+        "makna_dasar": "kepemilikan, hak milik",
+        "wazan_perubahan": "حرف جر لا يتغير"
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر متعلق بــ **حَافِظٌ** (yang terelipsis dalam permintaan)",
+        "irab_dan_logika": "مجرور بالكسرة لأنّه حرف جر"
+      },
+      "hikmah": "Menunjukkan bahwa pemeliharaan **Al‑Qur’an** adalah hak dan tanggung jawab Allah semata.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "لَحَٰفِظُونَ",
+      "transliterasi": "lahāfiẓūna",
+      "jenis_kata": "Isim (kata benda)",
+      "arti": "penjaga, pelindung",
+      "sharaf": {
+        "akar_kata": "ح-ف-ظ",
+        "makna_dasar": "menjaga, melindungi",
+        "wazan_perubahan": "فَاعِل (fa‘il) → حافظ (penjaga) → حافظون (jamak) dengan prefiks لِ للتوكيد"
+      },
+      "nahwu": {
+        "kedudukan": "Khabar (predikat) dalam kalimat nominal yang diawali بـِإنَّ",
+        "irab_dan_logika": "مرفوع بالضمة الظاهرة على النون (tanwin dammah) karena berfungsi sebagai خبر مرفوع setelah حرف التوكيد إن"
+      },
+      "hikmah": "*Allah menegaskan bahwa Dia tidak hanya menurunkan Al‑Qur’an, tetapi juga menjaganya dengan segenap kuasa‑Nya, menjamin agar tidak ada yang terdistorsi.*",
+      "role": "none"
+    }
+  ]
+}

@@ -1,0 +1,384 @@
+{
+  "surah": 10,
+  "ayah": 59,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "قُلْ",
+      "transliterasi": "qul",
+      "jenis_kata": "Fi'il",
+      "arti": "katakan",
+      "sharaf": {
+        "akar_kata": "ق و ل",
+        "makna_dasar": "berkata",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "kata perintah (imperatif) di awal ayat",
+        "irab_dan_logika": "marfu' dengan dhammah karena fi'il amar"
+      },
+      "hikmah": "menyuruh Nabi menyampaikan pesan Allah",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "أَرَءَيْتُم",
+      "transliterasi": "ara'aytum",
+      "jenis_kata": "Fi'il",
+      "arti": "apakah kamu melihat/menilai",
+      "sharaf": {
+        "akar_kata": "ر أ ي",
+        "makna_dasar": "melihat, menilai",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il madhi mubtada' sual",
+        "irab_dan_logika": "marfu' dengan dhammah karena fi'il madhi"
+      },
+      "hikmah": "menanyakan pendapat orang-orang",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "مَا",
+      "transliterasi": "ma",
+      "jenis_kata": "Huruf",
+      "arti": "apa",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "huruf pertanyaan yang mengawali pertanyaan",
+        "irab_dan_logika": "marfu' karena huruf"
+      },
+      "hikmah": "menunjukkan pertanyaan tentang sesuatu",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "أَنزَلَ",
+      "transliterasi": "anzala",
+      "jenis_kata": "Fi'il",
+      "arti": "menurunkan",
+      "sharaf": {
+        "akar_kata": "ن ز ل",
+        "makna_dasar": "turun",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il madhi dalam pertanyaan",
+        "irab_dan_logika": "marfu' dengan dhammah karena fi'il madhi"
+      },
+      "hikmah": "menyatakan tindakan Allah menurunkan rezeki",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "ٱللَّهُ",
+      "transliterasi": "Allahu",
+      "jenis_kata": "Isim",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "ل ه",
+        "makna_dasar": "Tuhan",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "subjek (fa'il) dari fi'il anzal",
+        "irab_dan_logika": "marfu' sebagai fa'il"
+      },
+      "hikmah": "menunjuk Allah sebagai pemberi rezeki",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "لَكُمْ",
+      "transliterasi": "lakum",
+      "jenis_kata": "Huruf",
+      "arti": "bagi kamu",
+      "sharaf": {
+        "akar_kata": "ل ك م",
+        "makna_dasar": "kepada kalian",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "keterangan (jar) yang menjelaskan kepemilikan",
+        "irab_dan_logika": "majrur bi al-jar"
+      },
+      "hikmah": "menunjukkan kepemilikan rezeki kepada kalian",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "مِّن",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "menunjukkan asal atau sumber",
+        "wazan_perubahan": "tidak berubah, huruf jar"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar yang menghubungkan kata *rizq* dengan frasa berikutnya",
+        "irab_dan_logika": "Tidak berharakat karena huruf jar, dibaca dengan kasrah (مِنْ) sebagai majrur"
+      },
+      "hikmah": "*Min* menegaskan bahwa rezeki yang dibicarakan bersumber dari Allah",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "رِّزْقٍۢ",
+      "transliterasi": "rizqin",
+      "jenis_kata": "Isim",
+      "arti": "rezeki, penghidupan",
+      "sharaf": {
+        "akar_kata": "ر-ز-ق",
+        "makna_dasar": "memberi makan, menyediakan",
+        "wazan_perubahan": "isim maf‘ul, tanwin kasrah"
+      },
+      "nahwu": {
+        "kedudukan": "Isim majrur setelah huruf *min*",
+        "irab_dan_logika": "Majrur karena berada di belakang *min*, ditandai dengan tanwin kasrah (رِزْقٍ)"
+      },
+      "hikmah": "Kata ini menegaskan bahwa Allah menurunkan rezeki sebagai sumber kehidupan bagi hamba‑Nya",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "فَجَعَلْتُم",
+      "transliterasi": "fajaʿaltum",
+      "jenis_kata": "Fiʿil",
+      "arti": "lalu kamu menjadikan",
+      "sharaf": {
+        "akar_kata": "ج-ع-ل",
+        "makna_dasar": "menetapkan, menjadikan",
+        "wazan_perubahan": "fiʿil madhi 3rd person plural maskulin dengan suffiks -tum, diawali dengan *fa* (فَ) sebagai huruf sambung"
+      },
+      "nahwu": {
+        "kedudukan": "Fiʿil madhi sebagai predikat tindakan manusia",
+        "irab_dan_logika": "Marfuʿ dengan dhammah (جَعَلْتُمْ) karena fiʿil madhi, suffiks -tum menandakan subjek *kamu sekalian*"
+      },
+      "hikmah": "Menunjukkan tindakan manusia yang mengkategorikan sebagian rezeki menjadi haram dan halal",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "مِّنْهُ",
+      "transliterasi": "minhu",
+      "jenis_kata": "Huruf",
+      "arti": "dari-Nya",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "menunjukkan kepemilikan atau asal",
+        "wazan_perubahan": "huruf jar + zamir muttasil"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar yang kembali merujuk ke *rizq*",
+        "irab_dan_logika": "Majrur, dibaca dengan kasrah pada *min* (مِنْ) dan sukun pada *hu* (هُ) karena huruf jar"
+      },
+      "hikmah": "Menegaskan bahwa seluruh rezeki itu bersumber dari Allah",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "حَرَامًۭا",
+      "transliterasi": "haraman",
+      "jenis_kata": "Isim",
+      "arti": "haram, dilarang",
+      "sharaf": {
+        "akar_kata": "ح-ر-م",
+        "makna_dasar": "menyembunyikan, melarang",
+        "wazan_perubahan": "isim sifat, bentuk maf‘ul, tanwin fathah"
+      },
+      "nahwu": {
+        "kedudukan": "Isim maf‘ul mutakabbir yang menjadi pelengkap fiʿil *fajaʿaltum*",
+        "irab_dan_logika": "Nasb dengan tanwin fathah (حَرَامًا) karena berfungsi sebagai maf‘ul mutakabbir"
+      },
+      "hikmah": "Menyiratkan bahwa sebagian rezeki dijadikan sesuatu yang dilarang oleh manusia",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "وَحَلَٰلًۭا",
+      "transliterasi": "wa halal-an",
+      "jenis_kata": "Isim",
+      "arti": "dan halal, yang dihalalkan",
+      "sharaf": {
+        "akar_kata": "ح-ل-ل",
+        "makna_dasar": "memperbolehkan, mengizinkan",
+        "wazan_perubahan": "isim sifat, bentuk maf‘ul, tanwin fathah, didahului huruf *wa* (وَ)"
+      },
+      "nahwu": {
+        "kedudukan": "Isim maf‘ul mutakabbir yang berkoordinasi dengan *haram* melalui huruf *wa*",
+        "irab_dan_logika": "Nasb dengan tanwin fathah (حَلَالًا) karena menjadi maf‘ul mutakabbir, *wa* tidak berharakat"
+      },
+      "hikmah": "Menunjukkan sisi lain dari rezeki yang dihalalkan, melengkapi kontras antara haram dan halal",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "قُلْ",
+      "transliterasi": "qul",
+      "jenis_kata": "Fi'il",
+      "arti": "katakan",
+      "sharaf": {
+        "akar_kata": "ق-و-ل",
+        "makna_dasar": "mengucapkan, menyatakan",
+        "wazan_perubahan": "bentuk فعل أمر مبني على السكون"
+      },
+      "nahwu": {
+        "kedudukan": "predikat (fi'il amar) dalam kalimat perintah",
+        "irab_dan_logika": "مبني على السكون لا إعراب له؛ يدل على أمر مباشر من Nabi kepada pendengar"
+      },
+      "hikmah": "Allah memerintahkan Nabi untuk menyampaikan pertanyaan secara tegas, menegaskan sifat perintah dalam ayat.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "اللَّهُ",
+      "transliterasi": "Allāhu",
+      "jenis_kata": "Isim",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "nama Allah, tidak berasal dari akar bahasa Arab biasa",
+        "wazan_perubahan": "nama khusus (ism al-mubtada')"
+      },
+      "nahwu": {
+        "kedudukan": "مبتدأ مرفوع",
+        "irab_dan_logika": "مرفوع بالضمة لأنه مبتدأ مرفوع بالرفع"
+      },
+      "hikmah": "Menegaskan bahwa pertanyaan tersebut diarahkan kepada Allah, menempatkan Allah sebagai subjek utama dalam ayat.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "أَذِنَ",
+      "transliterasi": "adhina",
+      "jenis_kata": "Fi'il",
+      "arti": "mengizinkan",
+      "sharaf": {
+        "akar_kata": "أ-ذ-ن",
+        "makna_dasar": "izin, persetujuan",
+        "wazan_perubahan": "فعل ماضٍ ثلاثي مجرد"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ماضٍ مبني على الفتح",
+        "irab_dan_logika": "لا إعراب له لأنه فعل ماضٍ، والفاعل مستتر تقديره هو (الله)"
+      },
+      "hikmah": "Menunjukkan bahwa segala hal yang halal atau haram bergantung pada izin Allah, bukan pada keputusan manusia.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "لَكُمْ",
+      "transliterasi": "lakum",
+      "jenis_kata": "Huruf",
+      "arti": "bagi kamu",
+      "sharaf": {
+        "akar_kata": "ل",
+        "makna_dasar": "kepada, untuk",
+        "wazan_perubahan": "حرف جر + ضمير متصل"
+      },
+      "nahwu": {
+        "kedudukan": "جار ومجرور متعلق بـ \"أَذِنَ\"",
+        "irab_dan_logika": "لَ حرف جر يجر الضمير المتصل \"كم\" إلى الجر، والجرّية في محل نصب مفعول به غير مباشر"
+      },
+      "hikmah": "Allah menanyakan apakah izin itu diberikan khusus kepada kalian (umat), menegaskan kepemilikan hak atas rezeki.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "ۖ",
+      "transliterasi": "waqf",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda koma/istirahat",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "tanda baca tidak memiliki wazan"
+      },
+      "nahwu": {
+        "kedudukan": "علامة وقف تفصل بين جزئي الجملة",
+        "irab_dan_logika": "ليس له إعراب؛ وظيفته إيقاف القارئ لتأمل المعنى"
+      },
+      "hikmah": "Memberi jeda bagi pendengar agar merenungkan pertanyaan sebelum melanjutkan ke pilihan \"atau\".",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "أَمْ",
+      "transliterasi": "am",
+      "jenis_kata": "Huruf",
+      "arti": "atau",
+      "sharaf": {
+        "akar_kata": "أ م",
+        "makna_dasar": "pertanyaan pilihan",
+        "wazan_perubahan": "حرف استفهام"
+      },
+      "nahwu": {
+        "kedudukan": "حرف عطف أو استفسار يربط الجملة السابقة باللاحقة",
+        "irab_dan_logika": "حرف عطف لا إعراب له، يربط بين سؤالين لتبيين الاختيار"
+      },
+      "hikmah": "Menyiratkan pilihan antara izin Allah atau kepalsuan manusia, menegaskan keadilan dan kebenaran dalam hukum halal‑haram.",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "عَلَى",
+      "transliterasi": "ʿalā",
+      "jenis_kata": "Huruf",
+      "arti": "di atas, tentang, mengenai",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar (preposisi) yang menghubungkan kata benda berikutnya",
+        "irab_dan_logika": "Tidak berharakat; berfungsi menghubungkan *اللَّهِ* yang berkasrah"
+      },
+      "hikmah": "Menunjukkan hubungan pertanyaan kepada Allah, menegaskan bahwa apa yang dibicarakan berkaitan dengan Allah",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "اللَّهِ",
+      "transliterasi": "Allāh",
+      "jenis_kata": "Isim",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "ه-ل-ل",
+        "makna_dasar": "menyebut Tuhan yang Maha Esa",
+        "wazan_perubahan": "Isim mufrad, mudhaf ilaih"
+      },
+      "nahwu": {
+        "kedudukan": "Mudhafa (terdapat huruf jar 'عَلَى' sebelumnya)",
+        "irab_dan_logika": "Marfu' dengan kasrah karena huruf jar, menjadi *Allāhi*"
+      },
+      "hikmah": "Menunjukkan bahwa pertanyaan diarahkan kepada Allah, menegaskan otoritas-Nya",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "تَفْتَرُونَ",
+      "transliterasi": "taftarūna",
+      "jenis_kata": "Fi'il",
+      "arti": "kamu mengada-ada, membuat-buat",
+      "sharaf": {
+        "akar_kata": "ف-ت-ر",
+        "makna_dasar": "menipu, mengada-ada",
+        "wazan_perubahan": "bentuk *فَعَلَ* dengan prefiks *تَ* dan akhiran *ونَ* (madhi mudhari')"
+      },
+      "nahwu": {
+        "kedudukan": "Predikat (fi'il) dalam pertanyaan retoris",
+        "irab_dan_logika": "Marfu' dengan dhammah karena akhiran *ونَ* menandakan mudhakkar jamak"
+      },
+      "hikmah": "Menegaskan tuduhan bahwa manusia mengada-ada tentang apa yang Allah turunkan",
+      "role": "none"
+    }
+  ]
+}

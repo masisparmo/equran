@@ -1,0 +1,402 @@
+{
+  "surah": 10,
+  "ayah": 37,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "وَمَا",
+      "transliterasi": "wa-mā",
+      "jenis_kata": "Huruf",
+      "arti": "dan tidaklah",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "`و` (waw) adalah huruf 'athaf (penghubung) atau isti'naf (permulaan kalimat baru). `مَا` (ma) adalah huruf nafi (peniadaan) yang berfungsi meniadakan.",
+        "irab_dan_logika": "`و` adalah *harf 'athaf/isti'naf mabniyyun 'ala al-fath la mahalla lahu min al-i'rab*. `مَا` adalah *harf nafi mabniyyun 'ala as-sukun la mahalla lahu min al-i'rab*."
+      },
+      "hikmah": "Mengawali kalimat dengan penekanan peniadaan, menunjukkan kemustahilan sesuatu yang akan disebutkan selanjutnya.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "كَانَ",
+      "transliterasi": "kāna",
+      "jenis_kata": "Fi'il",
+      "arti": "adalah / telah ada",
+      "sharaf": {
+        "akar_kata": "ك-و-ن (K-W-N)",
+        "makna_dasar": "Keberadaan, menjadi.",
+        "wazan_perubahan": "Fi'il Madhi, wazan *fa'ala* (فَعَلَ) untuk fi'il ajwaf."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Naqis (kata kerja bantu) yang mengangkat Isim-nya dan menashabkan Khabar-nya. Di sini, ia berfungsi untuk menyatakan kemustahilan.",
+        "irab_dan_logika": "*Fi'il madhi naqis mabniyyun 'ala al-fath*."
+      },
+      "hikmah": "Menunjukkan keberadaan atau keadaan di masa lalu, namun dalam konteks ini, ia digunakan untuk menyatakan kemustahilan atau ketidakmungkinan sesuatu terjadi.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "هَٰذَا",
+      "transliterasi": "hādhā",
+      "jenis_kata": "Isim Isyarah",
+      "arti": "ini",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "Menunjuk sesuatu yang dekat.",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Isim `كَانَ` (Isim Kana) yang di-rafa'-kan. Ia adalah Isim Isyarah yang menunjuk kepada 'Al-Qur'an'.",
+        "irab_dan_logika": "*Isim isyarah mabniyyun 'ala as-sukun fi mahalli rafa'in ismu kāna*."
+      },
+      "hikmah": "Menunjuk secara spesifik kepada sesuatu yang sedang dibicarakan, yaitu Al-Qur'an, memberikan penekanan pada identitas subjek.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "ٱلْقُرْءَانُ",
+      "transliterasi": "al-qur'ānu",
+      "jenis_kata": "Isim",
+      "arti": "Al-Qur'an (bacaan)",
+      "sharaf": {
+        "akar_kata": "ق-ر-أ (Q-R-A)",
+        "makna_dasar": "Membaca, mengumpulkan.",
+        "wazan_perubahan": "Isim Masdar dari *qara'a* (قَرَأَ) atau Isim Jami'."
+      },
+      "nahwu": {
+        "kedudukan": "Badal (pengganti) atau Bayan (penjelas) dari `هَٰذَا` (hādhā). Karena `هَٰذَا` adalah Isim Kana yang marfu', maka `ٱلْقُرْءَانُ` juga marfu'.",
+        "irab_dan_logika": "*Badal/Bayan min ismil isyarah marfu'un wa 'alamat rafa'ihi ad-dhammatu azh-zhahiratu 'ala akhirihi*."
+      },
+      "hikmah": "Menegaskan subjek utama pembicaraan, yaitu kitab suci Al-Qur'an, yang merupakan mukjizat dan kalamullah, serta objek peniadaan dalam kalimat ini.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "أَن",
+      "transliterasi": "an",
+      "jenis_kata": "Huruf",
+      "arti": "bahwa / untuk",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "Menghubungkan fi'il mudhari' setelahnya dan menashabkannya, seringkali membentuk masdar mu'awwal.",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Nashib (penashab) untuk fi'il mudhari' setelahnya. Ia juga merupakan huruf masdariyah yang mengubah fi'il mudhari' menjadi makna masdar.",
+        "irab_dan_logika": "*Harf nashb wa masdariyyah mabniyyun 'ala as-sukun la mahalla lahu min al-i'rab*."
+      },
+      "hikmah": "Mengindikasikan tujuan atau kemungkinan, serta mengubah fi'il mudhari' menjadi makna masdar (kata benda), yang dalam konteks ini menjadi khabar bagi `كَانَ`.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "يُفْتَرَىٰ",
+      "transliterasi": "yuftarā",
+      "jenis_kata": "Fi'il",
+      "arti": "dibuat-buat / dipalsukan",
+      "sharaf": {
+        "akar_kata": "ف-ر-ي (F-R-Y)",
+        "makna_dasar": "Mengada-ada, membuat kebohongan, memalsukan.",
+        "wazan_perubahan": "Fi'il Mudhari' Majhul (pasif), wazan *yuf'ala* (يُفْعَلَى) dari *iftara* (افْتَرَى) yang wazannya *ifta'ala* (افْتَعَلَ)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Majhul Manshub (dinashabkan) oleh `أَن` (an). Masdar mu'awwal dari `أَن يُفْتَرَىٰ` (an yuftarā) berada pada posisi nashab sebagai khabar `كَانَ`.",
+        "irab_dan_logika": "*Fi'il mudhari' majhul manshubun bi 'an wa 'alamat nashbihi al-fathatu al-muqaddaratu 'ala al-alif li at-ta'adhdhur*. Naibul Fa'il-nya adalah dhamir mustatir jawazan takdiruhu *huwa* yang kembali kepada Al-Qur'an."
+      },
+      "hikmah": "Menekankan tindakan pemalsuan atau pengada-adaan yang mustahil dilakukan terhadap Al-Qur'an, menunjukkan keaslian, kemurnian, dan keilahian sumbernya.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "مِن",
+      "transliterasi": "min",
+      "jenis_kata": "**Huruf**",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk huruf",
+        "makna_dasar": "Tidak berlaku untuk huruf",
+        "wazan_perubahan": "Tidak berlaku untuk huruf"
+      },
+      "nahwu": {
+        "kedudukan": "**Huruf Jar**",
+        "irab_dan_logika": "Huruf jar yang berfungsi men-jar-kan (membuat majrur) isim setelahnya. Huruf ini **mabni** (tetap) di atas sukun."
+      },
+      "hikmah": "Dalam konteks ini, 'مِن' menunjukkan sumber atau asal, menegaskan bahwa Al-Qur'an tidak berasal dari 'selain' Allah, melainkan hanya dari-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "دُونِ",
+      "transliterasi": "dūni",
+      "jenis_kata": "**Isim** (Zaraf makan/tempat atau isim ghairu mutasharrif)",
+      "arti": "selain, di bawah, tanpa",
+      "sharaf": {
+        "akar_kata": "د و ن (d-w-n)",
+        "makna_dasar": "Rendah, bawah, selain.",
+        "wazan_perubahan": "Termasuk isim ghairu mutasharrif (tidak berubah bentuk seperti isim musytaq)."
+      },
+      "nahwu": {
+        "kedudukan": "**Majrur** oleh huruf jar 'مِن'",
+        "irab_dan_logika": "**Majrur** dengan tanda kasrah (دُونِ) karena didahului oleh huruf jar 'مِن'. Isim ini juga berfungsi sebagai **mudhaf**."
+      },
+      "hikmah": "Kata 'دُونِ' di sini menekankan eksklusivitas sumber Al-Qur'an, yaitu tidak ada yang lain selain Allah yang mampu menciptakannya atau menurunkannya. Ini menafikan segala kemungkinan sumber lain.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "ٱللَّهِ",
+      "transliterasi": "Allāhi",
+      "jenis_kata": "**Isim** (Isim Jalalah - Nama Allah)",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "أ ل ه (a-l-h)",
+        "makna_dasar": "Tuhan, yang disembah.",
+        "wazan_perubahan": "Sebagai isim alam (nama diri), tidak memiliki wazan sharaf seperti fi'il atau isim musytaq."
+      },
+      "nahwu": {
+        "kedudukan": "**Mudhaf ilaih** dari 'دُونِ'",
+        "irab_dan_logika": "**Majrur** dengan tanda kasrah (ٱللَّهِ) karena berfungsi sebagai **mudhaf ilaih** dari 'دُونِ'. Mudhaf ilaih selalu majrur."
+      },
+      "hikmah": "Mengukuhkan bahwa Allah adalah satu-satunya sumber dan pencipta Al-Qur'an, menegaskan keesaan-Nya dalam wahyu dan menolak segala bentuk kemusyrikan dalam sumber risalah.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "وَلَٰكِن",
+      "transliterasi": "walākin",
+      "jenis_kata": "**Huruf**",
+      "arti": "akan tetapi, tetapi",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk huruf",
+        "makna_dasar": "Tidak berlaku untuk huruf",
+        "wazan_perubahan": "Tidak berlaku untuk huruf"
+      },
+      "nahwu": {
+        "kedudukan": "**Huruf 'athaf** (penghubung) dan **istidrak** (pengecualian/koreksi)",
+        "irab_dan_logika": "Huruf yang tidak memiliki kedudukan i'rab (mabni). Berfungsi untuk menyambung kalimat dan menunjukkan makna 'tetapi' atau 'akan tetapi', mengoreksi atau menjelaskan lebih lanjut setelah penafian sebelumnya."
+      },
+      "hikmah": "Menunjukkan transisi dari penolakan kemungkinan Al-Qur'an dibuat oleh selain Allah, menuju penjelasan fungsi dan kebenarannya. Ini adalah penekanan pada fungsi Al-Qur'an setelah menafikan sumber lain.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "تَصْدِيقَ",
+      "transliterasi": "taṣdīqa",
+      "jenis_kata": "**Isim** (Mashdar)",
+      "arti": "pembenaran, membenarkan",
+      "sharaf": {
+        "akar_kata": "ص د ق (ṣ-d-q)",
+        "makna_dasar": "Benar, jujur, membenarkan.",
+        "wazan_perubahan": "Mashdar dari fi'il bab II (فَعَّلَ - يُفَعِّلُ - تَفْعِيلٌ), yaitu صَدَّقَ - يُصَدِّقُ - تَصْدِيقٌ."
+      },
+      "nahwu": {
+        "kedudukan": "**Khabar** dari mubtada' yang dibuang (تقديره: هو)",
+        "irab_dan_logika": "**Manshub** dengan tanda fathah (تَصْدِيقَ). Kedudukannya sebagai **khabar** dari mubtada' yang dibuang (yaitu 'هو' yang merujuk pada Al-Qur'an). Khabar dari mubtada' biasanya marfu', namun dalam konteks ini, ia manshub karena merupakan khabar dari 'kana' yang dibuang atau karena merupakan maf'ul bih dari fi'il yang dibuang. Penafsiran yang kuat adalah sebagai khabar dari mubtada' yang dibuang, yang kemudian menjadi manshub karena adanya 'kana' yang dibuang atau karena konteksnya."
+      },
+      "hikmah": "Menjelaskan salah satu fungsi utama Al-Qur'an, yaitu membenarkan kitab-kitab suci sebelumnya. Ini menunjukkan konsistensi wahyu ilahi dan bahwa Al-Qur'an adalah penutup dan penguat risalah-risalah terdahulu.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "ٱلَّذِى",
+      "transliterasi": "allażī",
+      "jenis_kata": "**Isim Maushul**",
+      "arti": "yang",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk isim maushul secara tradisional",
+        "makna_dasar": "Tidak berlaku untuk isim maushul",
+        "wazan_perubahan": "Isim maushul mufrod mudzakkar (tunggal laki-laki)."
+      },
+      "nahwu": {
+        "kedudukan": "**Maf'ul bih** dari mashdar 'تَصْدِيقَ'",
+        "irab_dan_logika": "Isim maushul ini **mabni** (tetap) di atas sukun, dan berada pada posisi **nashab** (mahal nashb) sebagai **maf'ul bih** dari mashdar 'تَصْدِيقَ' yang beramal seperti fi'il. Mashdar dapat beramal seperti fi'il, sehingga ia dapat memiliki maf'ul bih."
+      },
+      "hikmah": "Menghubungkan Al-Qur'an dengan wahyu-wahyu sebelumnya, menunjukkan kesinambungan risalah ilahi dan bahwa Al-Qur'an datang untuk mengkonfirmasi kebenaran ajaran-ajaran pokok yang telah diturunkan sebelumnya ('apa yang ada di hadapannya' yaitu kitab-kitab terdahulu).",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "بَيْنَ",
+      "transliterasi": "Bayna",
+      "jenis_kata": "Huruf (Zarf Makan)",
+      "arti": "Antara, di antara",
+      "sharaf": {
+        "akar_kata": "ب ي ن (B-Y-N)",
+        "makna_dasar": "Menjelaskan, membedakan, di antara",
+        "wazan_perubahan": "Tidak berlaku untuk huruf/zarf"
+      },
+      "nahwu": {
+        "kedudukan": "Zarf makan (kata keterangan tempat)",
+        "irab_dan_logika": "Manshub (fathah) sebagai zarf makan. Zarf makan umumnya manshub."
+      },
+      "hikmah": "Dalam konteks 'بَيْنَ يَدَيْهِ', frasa ini adalah idiom yang berarti 'di hadapannya', 'di depannya', atau 'sebelumnya'. Ini menunjukkan bahwa Al-Qur'an datang setelah dan membenarkan kitab-kitab yang datang sebelumnya.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "يَدَيْهِ",
+      "transliterasi": "Yadayhi",
+      "jenis_kata": "Isim (bentuk dual dari يَدٌ - tangan)",
+      "arti": "Kedua tangannya (idiom: di hadapannya, sebelumnya)",
+      "sharaf": {
+        "akar_kata": "ي د ي (Y-D-Y)",
+        "makna_dasar": "Tangan",
+        "wazan_perubahan": "Isim mutsanna (dual) dari يَدٌ (yadun). Bentuk asalnya يَدَانِ (yadaani) untuk rafa', menjadi يَدَيْنِ (yadayni) untuk nashab/jar. Nun dihilangkan karena idhofah (kepemilikan) kepada dhamir هِ."
+      },
+      "nahwu": {
+        "kedudukan": "Mudhaf ilaih (kepemilikan) dari بَيْنَ",
+        "irab_dan_logika": "Majrur (dengan ya' karena isim mutsanna) sebagai mudhaf ilaih dari 'bayna'. Dhamir 'hi' (هُ) adalah mudhaf ilaih dari 'yaday'."
+      },
+      "hikmah": "Bersama dengan 'bayna', membentuk frasa 'بَيْنَ يَدَيْهِ' yang secara idiomatis berarti 'di hadapannya' atau 'sebelumnya'. Ini menekankan bahwa Al-Qur'an datang setelah dan membenarkan kitab-kitab suci sebelumnya, bukan menentangnya.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "وَتَفْصِيلَ",
+      "transliterasi": "Wa tafṣīla",
+      "jenis_kata": "Isim (Mashdar)",
+      "arti": "Dan penjelasan, perincian",
+      "sharaf": {
+        "akar_kata": "ف ص ل (F-Ṣ-L)",
+        "makna_dasar": "Memisahkan, merinci, menjelaskan",
+        "wazan_perubahan": "Mashdar dari fi'il tsulatsi mazid bab II (فَعَّلَ - فَعَّلَ - تَفْعِيلٌ), yaitu فَصَّلَ - يُفَصِّلُ - تَفْصِيلٌ."
+      },
+      "nahwu": {
+        "kedudukan": "Ma'thuf (mengikuti) kepada 'تَصْدِيقَ' (tashdiiqa) yang manshub",
+        "irab_dan_logika": "Manshub (fathah) karena di-athaf-kan (dihubungkan) kepada isim manshub sebelumnya (تَصْدِيقَ)."
+      },
+      "hikmah": "Menunjukkan bahwa Al-Qur'an tidak hanya membenarkan kitab-kitab sebelumnya, tetapi juga merinci dan menjelaskan hukum-hukum serta ajaran-ajaran yang terkandung di dalamnya, memberikan detail yang diperlukan untuk kehidupan manusia.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "ٱلْكِتَٰبِ",
+      "transliterasi": "Al-Kitābi",
+      "jenis_kata": "Isim",
+      "arti": "Kitab, buku, tulisan",
+      "sharaf": {
+        "akar_kata": "ك ت ب (K-T-B)",
+        "makna_dasar": "Menulis, mencatat",
+        "wazan_perubahan": "Isim mufrad (tunggal) dari akar kata."
+      },
+      "nahwu": {
+        "kedudukan": "Mudhaf ilaih dari 'تَفْصِيلَ'",
+        "irab_dan_logika": "Majrur (kasrah) karena sebagai mudhaf ilaih dari 'تَفْصِيلَ'."
+      },
+      "hikmah": "Merujuk pada 'Kitab' secara umum, yang dalam konteks ini bisa berarti kitab-kitab suci sebelumnya atau merujuk pada Al-Qur'an itu sendiri sebagai kitab yang merinci segala sesuatu. Frasa 'تَفْصِيلَ ٱلْكِتَٰبِ' berarti perincian atau penjelasan dari Kitab (yakni hukum-hukum Allah).",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "لَا",
+      "transliterasi": "Lā",
+      "jenis_kata": "Huruf (Nafiyah lil Jins)",
+      "arti": "Tidak ada",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk huruf.",
+        "makna_dasar": "Penafian secara total (meniadakan jenis).",
+        "wazan_perubahan": "Tidak berlaku untuk huruf."
+      },
+      "nahwu": {
+        "kedudukan": "Huruf penafian jenis (Lā Nafiyah lil Jins)",
+        "irab_dan_logika": "Huruf mabni (tetap) yang beramal seperti 'inna', yaitu menashabkan isimnya dan merafa'kan khabarnya. Isimnya harus nakirah dan tidak dipisah dari 'la'."
+      },
+      "hikmah": "Digunakan untuk menafikan keberadaan suatu jenis secara mutlak. Dalam konteks 'لَا رَيْبَ فِيهِ' (la rayba fihi), berarti 'tidak ada sedikit pun keraguan di dalamnya', menegaskan kebenaran mutlak Al-Qur'an.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "رَيْبَ",
+      "transliterasi": "Rayba",
+      "jenis_kata": "Isim",
+      "arti": "Keraguan, kebimbangan",
+      "sharaf": {
+        "akar_kata": "ر ي ب (R-Y-B)",
+        "makna_dasar": "Meragukan, mencurigai",
+        "wazan_perubahan": "Isim mufrad (tunggal) dari akar kata."
+      },
+      "nahwu": {
+        "kedudukan": "Isim dari Lā Nafiyah lil Jins",
+        "irab_dan_logika": "Manshub (fathah) karena menjadi isim dari Lā Nafiyah lil Jins. Isim 'la' nafiyah lil jins adalah mabni 'ala al-fath (tetap fathah) jika mufrad dan nakirah, seperti dalam kasus ini."
+      },
+      "hikmah": "Kata ini, ketika digabungkan dengan 'lā' nafiyah lil jins, secara tegas meniadakan segala bentuk keraguan terhadap Al-Qur'an, menegaskan kemurnian dan kebenaran mutlaknya sebagai firman Allah yang tidak mengandung cacat atau kebatilan.",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "فِيهِ",
+      "transliterasi": "fīhi",
+      "jenis_kata": "Huruf Jar dan Isim Dhomir",
+      "arti": "di dalamnya",
+      "sharaf": {
+        "akar_kata": "ف ي (untuk 'fi') / ه (untuk 'hi')",
+        "makna_dasar": "Menunjukkan tempat atau keadaan (untuk 'fi'); dia/nya (untuk 'hi')",
+        "wazan_perubahan": "Huruf Jar (untuk 'fi'); Dhomir Muttasil (untuk 'hi')"
+      },
+      "nahwu": {
+        "kedudukan": "Jar Majrur, berfungsi sebagai khabar muqaddam (predikat yang didahulukan) dari lafazh 'لا ريب' (tidak ada keraguan).",
+        "irab_dan_logika": "Terdiri dari dua bagian:\n1. **فِي (fī)**: Huruf Jar, mabni sukun. Berfungsi untuk men-jar-kan isim setelahnya.\n2. **هِ (hi)**: Dhomir muttasil (kata ganti sambung), mabni kasrah. Berkedudukan sebagai Isim Majrur karena didahului oleh Huruf Jar 'فِي'."
+      },
+      "hikmah": "Penggunaan 'فِيهِ' menegaskan bahwa Al-Qur'an itu sendiri adalah sumber kebenaran yang tidak mengandung keraguan sedikit pun. Ini menunjukkan kesempurnaan dan keotentikan wahyu Ilahi yang datang langsung dari Allah, sehingga tidak ada celah untuk meragukannya.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "مِن",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf Jar",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "N/A (Huruf)",
+        "makna_dasar": "Menunjukkan permulaan, asal, atau sumber.",
+        "wazan_perubahan": "N/A (Huruf)"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Jar.",
+        "irab_dan_logika": "Huruf Jar, mabni sukun. Namun, di sini diucapkan dengan kasrah (مِنَ) karena bertemu hamzah washal pada kata berikutnya (ٱلْعَٰلَمِينَ) atau untuk menghindari pertemuan dua sukun (antara nun sukun dan lam sukun pada 'رَّبِّ' yang asalnya 'الرَّبِّ'). Fungsinya adalah menjadikan isim setelahnya dalam keadaan Jar."
+      },
+      "hikmah": "Kata 'مِن' di sini sangat penting untuk menunjukkan sumber dan asal-usul Al-Qur'an. Ini menegaskan bahwa Al-Qur'an berasal langsung dari Allah SWT, Tuhan semesta alam, bukan dari sumber lain. Hal ini memberikan otoritas mutlak dan keaslian yang tak terbantahkan pada setiap ajarannya.",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "رَّبِّ",
+      "transliterasi": "Rabb",
+      "jenis_kata": "Isim (Kata Benda)",
+      "arti": "Tuhan, Pemelihara, Pengatur",
+      "sharaf": {
+        "akar_kata": "ر ب ب (R-B-B)",
+        "makna_dasar": "Memelihara, menguasai, mendidik, mengatur, memiliki.",
+        "wazan_perubahan": "Isim Fa'il (dalam makna penguasa/pemelihara) atau Isim Sifat."
+      },
+      "nahwu": {
+        "kedudukan": "Isim Majrur (kata benda yang di-jar-kan) dan Mudhaf (kata yang disandarkan).",
+        "irab_dan_logika": "Majrur dengan kasrah (رَّبِّ) karena didahului oleh Huruf Jar 'مِن'. Selain itu, ia juga berkedudukan sebagai Mudhaf karena diikuti oleh Mudhaf Ilaih (ٱلْعَٰلَمِينَ)."
+      },
+      "hikmah": "Penyebutan 'رَّبِّ' menggarisbawahi bahwa Al-Qur'an adalah wahyu dari Tuhan yang Maha Memelihara, Mengatur, dan Menguasai seluruh alam. Ini menunjukkan bahwa ajaran Al-Qur'an adalah yang paling sempurna dan benar, karena datang dari Dzat yang memiliki pengetahuan dan kekuasaan mutlak atas segala sesuatu.",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "ٱلْعَٰلَمِينَ",
+      "transliterasi": "al-ʿālamīn",
+      "jenis_kata": "Isim (Kata Benda)",
+      "arti": "semesta alam, seluruh makhluk",
+      "sharaf": {
+        "akar_kata": "ع ل م (Ain-Lam-Mim)",
+        "makna_dasar": "Mengetahui, tanda, dunia, alam.",
+        "wazan_perubahan": "Jamak Mudzakkar Salim dari 'عَالَم' (alam/dunia)."
+      },
+      "nahwu": {
+        "kedudukan": "Mudhaf Ilaih (kata benda yang disandarkan kepada kata sebelumnya).",
+        "irab_dan_logika": "Majrur dengan 'ي' (ya') karena merupakan Jamak Mudzakkar Salim. Dalam posisi Mudhaf Ilaih dari kata 'رَّبِّ'. Jadi, 'رَّبِّ ٱلْعَٰلَمِينَ' berarti 'Tuhan semesta alam'."
+      },
+      "hikmah": "Kata 'ٱلْعَٰلَمِينَ' memperluas cakupan ketuhanan Allah yang tidak hanya terbatas pada manusia, tetapi meliputi seluruh eksistensi, baik yang kita ketahui maupun tidak. Ini menunjukkan keagungan dan kekuasaan Allah yang universal, serta relevansi Al-Qur'an sebagai petunjuk bagi seluruh alam, bukan hanya untuk kaum tertentu.",
+      "role": "none"
+    }
+  ]
+}

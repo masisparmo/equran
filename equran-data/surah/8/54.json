@@ -1,0 +1,330 @@
+{
+  "surah": 8,
+  "ayah": 54,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "كَدَأْبِ",
+      "transliterasi": "ka‑daʿbi",
+      "jenis_kata": "Huruf (huruf tashbih)",
+      "arti": "seperti keadaan",
+      "sharaf": {
+        "akar_kata": "د‑أ‑ب",
+        "makna_dasar": "keadaan, sifat",
+        "wazan_perubahan": "فَعْل"
+      },
+      "nahwu": {
+        "kedudukan": "awal ayat, sebagai huruf tashbih yang memperkenalkan perbandingan",
+        "irab_dan_logika": "diberi kasrah karena huruf \"ka\" menuntut kata yang diikutinya berada dalam keadaan jar (kasrah)"
+      },
+      "hikmah": "Menunjukkan bahwa keadaan orang-orang yang menolak ayat‑ayat Allah itu **mirip** dengan keadaan Fir'aun dan pengikut‑pengikutnya, yaitu penuh keangkuhan dan penolakan.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "آلِ",
+      "transliterasi": "āli",
+      "jenis_kata": "Isim (isim maushul)",
+      "arti": "keluarga, keturunan",
+      "sharaf": {
+        "akar_kata": "أ‑ل‑و",
+        "makna_dasar": "keluarga, keturunan",
+        "wazan_perubahan": "فَعْل"
+      },
+      "nahwu": {
+        "kedudukan": "bagian dari iḍāfah \"آلِ فِرْعَوْنَ\"",
+        "irab_dan_logika": "diberi kasrah karena berada dalam iḍāfah (jar) yang menempel pada \"فِرْعَوْنَ\""
+      },
+      "hikmah": "Menyiratkan bahwa bukan hanya Fir'aun saja, melainkan **keluarga** dan keturunan Fir'aun juga termasuk dalam golongan yang menolak kebenaran.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "فِرْعَوْنَ",
+      "transliterasi": "Firʿawna",
+      "jenis_kata": "Isim (nama khusus)",
+      "arti": "Fir'aun (raja Mesir)",
+      "sharaf": {
+        "akar_kata": "ف‑ر‑ع",
+        "makna_dasar": "raja Mesir yang menentang Allah",
+        "wazan_perubahan": "فَعْل"
+      },
+      "nahwu": {
+        "kedudukan": "objek (مفعول به) dari huruf tashbih \"كَدَأْبِ\"",
+        "irab_dan_logika": "diberi fathah karena dalam posisi nasb (مفعول به)"
+      },
+      "hikmah": "Fir'aun dijadikan contoh utama penentang keras kebenaran, yang akibatnya berakhir dengan kehancuran total.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "ۙ",
+      "transliterasi": "-",
+      "jenis_kata": "Huruf (tanda waqf)",
+      "arti": "tanda jeda/waqf",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca yang memisahkan bagian kalimat",
+        "irab_dan_logika": "tidak memiliki iʿrāb karena bukan kata"
+      },
+      "hikmah": "Memberi jeda bagi pembaca untuk merenungkan perbandingan yang baru saja disebutkan.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "وَالَّذِينَ",
+      "transliterasi": "wa‑alladhīna",
+      "jenis_kata": "Isim (ism al‑ʿiddah) dengan huruf waqf \"و\"",
+      "arti": "dan orang‑orang yang",
+      "sharaf": {
+        "akar_kata": "ل‑ذ‑ي",
+        "makna_dasar": "yang, orang yang",
+        "wazan_perubahan": "فَعِل"
+      },
+      "nahwu": {
+        "kedudukan": "مبتدأ (subjek) bagi kata kerja \"كُفِرُوا\" selanjutnya",
+        "irab_dan_logika": "marfuʿ (diberi ḍamma) karena berfungsi sebagai مبتدأ"
+      },
+      "hikmah": "Menunjukkan kelompok orang lain (selain Fir'aun) yang juga menolak ayat‑ayat Allah, memperluas cakupan peringatan.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "مِن",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf (preposisi)",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "preposisi yang menghubungkan \"الَّذِينَ\" dengan \"قَبْلِهِمْ\"",
+        "irab_dan_logika": "menyebabkan kata yang diikutinya (قَبْلِهِمْ) berkasrah karena preposisi mengambil keadaan jar"
+      },
+      "hikmah": "Menegaskan bahwa orang‑orang yang dimaksud adalah **yang terdahulu** (sebelum mereka), menambah dimensi historis pada peringatan.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "قَبْلِهِمْ",
+      "transliterasi": "qablihim",
+      "jenis_kata": "Isim (kata benda) dengan huruf jar + zamir",
+      "arti": "sebelum mereka",
+      "sharaf": {
+        "akar_kata": "ق ب ل",
+        "makna_dasar": "sebelum, di hadapan",
+        "wazan_perubahan": "qabl + pronoun -ihim (هم) → qablihim"
+      },
+      "nahwu": {
+        "kedudukan": "Zarf jar (kata keterangan waktu) yang menjelaskan kata **الْأَشْرَارُ** (orang-orang zalim) sebelum fi'il utama.",
+        "irab_dan_logika": "Berharakat **kasrah** pada huruf terakhir (**قَبْلِهِمْ**) karena berfungsi sebagai zarf jar yang menunjukkan hubungan ‘dari sebelum mereka’."
+      },
+      "hikmah": "Menunjukkan bahwa orang‑orang zalim itu telah ada sejak masa sebelum mereka (sebelum Fir'aun), menegaskan kesinambungan sejarah kezaliman.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "ۚ",
+      "transliterasi": "ۚ",
+      "jenis_kata": "Huruf (tanda baca – waqf al‑qasr)",
+      "arti": "tanda jeda pendek (koma/waqf)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca yang memisahkan antara **قَبْلِهِمْ** dan **كَذَّبُوا۟**, memberi jeda ritmis dalam bacaan.",
+        "irab_dan_logika": "Tidak memiliki i‘rāb karena bukan kata; fungsinya hanya sebagai **waqf** untuk memperjelas pemahaman."
+      },
+      "hikmah": "Memberi jeda agar pembaca dapat menekankan perbedaan antara sebab (sebelum mereka) dan konsekuensi (mereka mendustakan).",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "كَذَّبُوا۟",
+      "transliterasi": "kadhabū",
+      "jenis_kata": "Fi'il (verb) madhi, 3rd person masculine plural",
+      "arti": "mereka mendustakan",
+      "sharaf": {
+        "akar_kata": "ك ذ ب",
+        "makna_dasar": "menolak, mengingkari",
+        "wazan_perubahan": "kadhaba → kadhabū (madhi, 3rd pl.)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il madhi yang menjadi predikat bagi subjek **الْأَشْرَارُ مِن قَبْلِهِمْ**.",
+        "irab_dan_logika": "Berharakat **dhammah** pada akhir (**وا**) menandakan bentuk madhi jamak maskulin."
+      },
+      "hikmah": "Menegaskan penolakan tegas mereka terhadap ayat‑ayat Allah, yang menjadi sebab kehancuran mereka.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "بِـَٔايَٰتِ",
+      "transliterasi": "bi-āyāti",
+      "jenis_kata": "Huruf jar + Isim (jamak) ",
+      "arti": "dengan ayat‑ayat",
+      "sharaf": {
+        "akar_kata": "آ ي ت",
+        "makna_dasar": "tanda, bukti",
+        "wazan_perubahan": "āyāt (jamak) + huruf jar **bi-** → bi‑āyāti"
+      },
+      "nahwu": {
+        "kedudukan": "Zarf jar yang melengkapi fi'il **كَذَّبُوا۟**, menjelaskan apa yang mereka dustakan.",
+        "irab_dan_logika": "Berharakat **kasrah** pada akhir (**تِ**) karena dipengaruhi huruf jar **bi-**."
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "بِذُنُوبِهِمْ",
+      "transliterasi": "bi-dhunūbihim",
+      "jenis_kata": "Gabungan Huruf Jar dan Isim",
+      "arti": "dengan dosa-dosa mereka",
+      "sharaf": {
+        "akar_kata": "ذ ن ب (dh-n-b)",
+        "makna_dasar": "Dosa, kesalahan",
+        "wazan_perubahan": "ذُنُوب (dhunūb) adalah bentuk jamak taksir dari ذَنْب (dhanb). هِمْ (him) adalah dhamir muttasil (kata ganti sambung) untuk mereka (maskulin jamak)."
+      },
+      "nahwu": {
+        "kedudukan": "Majrur (setelah huruf Jar)",
+        "irab_dan_logika": "Huruf ب (bi) adalah huruf Jar yang menyebabkan isim setelahnya menjadi Majrur (berharakat kasrah). ذُنُوبِ (dhunūbi) adalah Isim Majrur dengan harakat kasrah. هِمْ (him) adalah dhamir muttasil yang berkedudukan sebagai Mudhaf Ilaih."
+      },
+      "hikmah": "Menunjukkan bahwa kehancuran yang menimpa mereka adalah akibat langsung dari dosa-dosa dan pelanggaran mereka sendiri terhadap perintah Allah. Ini menekankan prinsip keadilan ilahi bahwa setiap perbuatan memiliki konsekuensi.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "وَأَغْرَقْنَآ",
+      "transliterasi": "wa-aghraqnā",
+      "jenis_kata": "Huruf 'Athaf dan Fi'il Madhi",
+      "arti": "dan Kami tenggelamkan",
+      "sharaf": {
+        "akar_kata": "غ ر ق (gh-r-q)",
+        "makna_dasar": "Tenggelam",
+        "wazan_perubahan": "أَغْرَقْنَا (aghraqnā) berasal dari wazan أَفْعَلَ (af'ala) yang menunjukkan makna kausatif (menyebabkan sesuatu terjadi). Bentuk ini adalah Fi'il Madhi (kata kerja lampau) untuk mutakallim ma'al-ghair (orang pertama jamak, 'Kami')."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il dan Fa'il",
+        "irab_dan_logika": "وَ (wa) adalah huruf 'athaf. أَغْرَقْنَا (aghraqnā) adalah Fi'il Madhi mabniyyun 'ala as-sukūn (dibangun di atas sukun) karena bersambung dengan dhamir نَا (nā). نَا (nā) adalah dhamir muttasil yang berkedudukan sebagai Fa'il (pelaku) dan mabniyyun 'ala as-sukūn."
+      },
+      "hikmah": "Menegaskan tindakan langsung dan kekuasaan Allah SWT dalam membinasakan kaum yang zalim. Penggunaan 'Kami' (نَا) menunjukkan keagungan dan kemahakuasaan Allah dalam melaksanakan hukuman-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "ءَالَ",
+      "transliterasi": "āla",
+      "jenis_kata": "Isim",
+      "arti": "keluarga, pengikut",
+      "sharaf": {
+        "akar_kata": "أ و ل (a-w-l) atau أ ي ل (a-y-l)",
+        "makna_dasar": "Keturunan, keluarga, pengikut, kaum.",
+        "wazan_perubahan": "Isim Mufrad."
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul Bih (objek)",
+        "irab_dan_logika": "ءَالَ (āla) adalah Maf'ul Bih dari fi'il أَغْرَقْنَا (aghraqnā) dan berharakat fathah (manshub). Ia juga berkedudukan sebagai Mudhaf."
+      },
+      "hikmah": "Kata ini tidak hanya merujuk pada keluarga dekat Fir'aun, tetapi juga mencakup para pembesar, penasihat, dan seluruh pengikutnya yang mendukung kezalimannya. Ini menunjukkan bahwa hukuman Allah tidak hanya menimpa pemimpin, tetapi juga semua yang terlibat dalam kezaliman.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "فِرْعَوْنَ",
+      "transliterasi": "fir'awna",
+      "jenis_kata": "Isim 'Alam (Nama Diri)",
+      "arti": "Fir'aun",
+      "sharaf": {
+        "akar_kata": "Tidak memiliki akar kata dalam arti sharaf karena ini adalah nama diri non-Arab (A'jami).",
+        "makna_dasar": "Nama raja Mesir kuno.",
+        "wazan_perubahan": "Isim Mufrad, Mamnu' minash-sharfi (tidak menerima tanwin dan kasrah)."
+      },
+      "nahwu": {
+        "kedudukan": "Mudhaf Ilaih",
+        "irab_dan_logika": "فِرْعَوْنَ (fir'awna) adalah Mudhaf Ilaih dari ءَالَ (āla). Karena ia adalah Isim Mamnu' minash-sharfi (nama non-Arab dan lebih dari tiga huruf), ia Majrur dengan harakat fathah sebagai pengganti kasrah."
+      },
+      "hikmah": "Merujuk secara spesifik kepada Fir'aun, simbol keangkuhan, kekafiran, dan kezaliman yang ekstrem. Penyebutannya di sini mengingatkan pada kisah kehancuran Fir'aun dan kaumnya sebagai pelajaran bagi umat manusia.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "Tanda Baca (Waqaf Lazim)",
+      "arti": "(berhenti wajib)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf",
+        "irab_dan_logika": "Tanda ۚ adalah waqaf lazim, yang berarti pembaca *wajib* berhenti di sini untuk menjaga makna ayat agar tidak rancu atau salah paham. Ini bukan bagian dari struktur gramatikal kalimat."
+      },
+      "hikmah": "Menekankan pentingnya berhenti di titik ini untuk memahami bahwa kalimat sebelumnya telah selesai dan memiliki makna yang utuh, sebelum melanjutkan ke bagian ayat berikutnya. Ini membantu dalam pemahaman makna Al-Qur'an yang benar.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "وَكُلٌّۭ",
+      "transliterasi": "wa-kullun",
+      "jenis_kata": "Huruf 'Athaf dan Isim",
+      "arti": "dan semuanya, dan setiap",
+      "sharaf": {
+        "akar_kata": "ك ل ل (k-l-l)",
+        "makna_dasar": "Keseluruhan, setiap bagian.",
+        "wazan_perubahan": "Isim Mufrad."
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada' (subjek)",
+        "irab_dan_logika": "وَ (wa) adalah huruf 'athaf yang menghubungkan kalimat ini dengan kalimat sebelumnya. كُلٌّ (kullun) adalah Mubtada' (subjek) yang marfu' (berharakat dhammah tanwin). Khabar (predikat) dari Mubtada' ini adalah محذوف (dihilangkan) dan dapat diperkirakan sebagai 'orang-orang yang zalim' (ظَالِمُونَ) dari konteks ayat."
+      },
+      "hikmah": "Kata 'وَكُلٌّۭ' (dan semuanya) berfungsi sebagai penutup yang menggeneralisasi bahwa semua kaum yang disebutkan sebelumnya (Fir'aun, pengikutnya, dan orang-orang sebelum mereka) memiliki kesamaan dalam kezaliman dan kekafiran mereka. Ini menegaskan bahwa hukuman Allah adalah adil dan berlaku bagi siapa saja yang melakukan kezaliman.",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "كَانُوا۟",
+      "transliterasi": "kānū",
+      "jenis_kata": "Fi'il (verb)",
+      "arti": "mereka adalah / menjadi",
+      "sharaf": {
+        "akar_kata": "ك-و-ن",
+        "makna_dasar": "ada, eksistensi, menjadi",
+        "wazan_perubahan": "fi'il mad bi-fathah, dengan damir muttasil -وا (3rd person masculine plural)"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il dalam jumla fi'liyya, berfungsi sebagai kata kerja utama yang menghubungkan subjek dengan صفة",
+        "irab_dan_logika": "fi'il mad mabni 'ala al-fath, wa al-waw damir muttasil fi mahall raf' al-fa'il; li-dhalika la yu'raab bil-raf' aw al-nasb, bal yabqa fi'l madi"
+      },
+      "hikmah": "menunjukkan keadaan masa lalu bahwa mereka berada dalam sifat zalim; memberi peringatan bahwa kezaliman mereka sudah terjadi dan mendapat balasan.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "ظَٰلِمِينَ",
+      "transliterasi": "ẓālimīna",
+      "jenis_kata": "Isim fa'il (noun)",
+      "arti": "orang-orang yang menzalimi",
+      "sharaf": {
+        "akar_kata": "ظ-ل-م",
+        "makna_dasar": "menzalimi, melakukan kezaliman",
+        "wazan_perubahan": "fa'la (isim fa'il)"
+      },
+      "nahwu": {
+        "kedudukan": "isim kana, خبر كان منصوب",
+        "irab_dan_logika": "mujarrad bi-fathah al-nun karena berita kana منصوب; menandakan sifat yang melekat pada subjek dalam keadaan lampau"
+      },
+      "hikmah": "menegaskan bahwa mereka bukan sekadar berbuat salah, melainkan **menjadi** pelaku kezaliman yang konsisten, sehingga mendapat azab yang setimpal.",
+      "role": "none"
+    }
+  ]
+}

@@ -1,0 +1,420 @@
+{
+  "surah": 11,
+  "ayah": 81,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "قَالُوا۟",
+      "transliterasi": "qālū",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka berkata",
+      "sharaf": {
+        "akar_kata": "ق-و-ل",
+        "makna_dasar": "kata, ucap",
+        "wazan_perubahan": "فعل"
+      },
+      "nahwu": {
+        "kedudukan": "Predikat (fi'il madhi) dalam kalimat",
+        "irab_dan_logika": "مرفوع بالضمة لأن الفعل الماضي مرفوع"
+      },
+      "hikmah": "menunjukkan pernyataan para malaikat",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "يَٰلُوطُ",
+      "transliterasi": "yā Lūṭu",
+      "jenis_kata": "Huruf",
+      "arti": "Hai Luth!",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Isim da' (nama panggilan)",
+        "irab_dan_logika": "مرفوع بالضمة لأنه اسم النداء"
+      },
+      "hikmah": "seruan panggilan kepada Nabi Luth",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "إِنَّا",
+      "transliterasi": "innā",
+      "jenis_kata": "Huruf",
+      "arti": "Sesungguhnya kami",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "حرف توكيد (inna)",
+        "irab_dan_logika": "مرفوع بالضمة، وهو حرف لا يُعرب"
+      },
+      "hikmah": "menegaskan keberadaan kami",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "رُسُلُ",
+      "transliterasi": "rusulu",
+      "jenis_kata": "Isim",
+      "arti": "utusan",
+      "sharaf": {
+        "akar_kata": "ر-س-ل",
+        "makna_dasar": "mengirim, menyampaikan",
+        "wazan_perubahan": "فاعل"
+      },
+      "nahwu": {
+        "kedudukan": "اسم بعد إنَّ، منصوب",
+        "irab_dan_logika": "منصوب بالكسرة لأنه اسم إنّ"
+      },
+      "hikmah": "menyatakan mereka adalah utusan Tuhan",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "رَبِّكَ",
+      "transliterasi": "rabbika",
+      "jenis_kata": "Isim",
+      "arti": "Tuhanmu",
+      "sharaf": {
+        "akar_kata": "ر-ب-ب",
+        "makna_dasar": "menjadi Tuhan, memelihara",
+        "wazan_perubahan": "فعَل"
+      },
+      "nahwu": {
+        "kedudukan": "مضاف إليه في إعراب الإضافة",
+        "irab_dan_logika": "مجرور بالكسرة لأنه مضاف إليه"
+      },
+      "hikmah": "menunjukkan kepemilikan, Tuhan milikmu",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "لَن",
+      "transliterasi": "lan",
+      "jenis_kata": "Huruf",
+      "arti": "tidak akan",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "حرف نفي المستقبل",
+        "irab_dan_logika": "حرف مبني على السكون، يسبق فعلًا مضارعًا منصوبًا"
+      },
+      "hikmah": "menegaskan larangan gangguan",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "يَصِلُوٓا۟",
+      "transliterasi": "yaṣilū",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka sampai / tiba",
+      "sharaf": {
+        "akar_kata": "ص ل و",
+        "makna_dasar": "tiba, mencapai",
+        "wazan_perubahan": "يَفْعَلُونَ (bentuk mudhari' 3rd maskul. jamak)"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il mudhari' (predikat) dalam klausa \"إِذَا يَصِلُوٓا۟ إِلَيْكَ\"",
+        "irab_dan_logika": "مرفوع بالضمة الظاهرة على الواو لأن الفعل المضارع مرفوع"
+      },
+      "hikmah": "menunjukkan kepastian kedatangan para utusan, menegaskan bahwa mereka tidak akan terhalang",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "وَلَا",
+      "transliterasi": "wa‑lā",
+      "jenis_kata": "Huruf",
+      "arti": "dan tidak",
+      "sharaf": {
+        "akar_kata": "ل‑و",
+        "makna_dasar": "menafikan, melarang",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf naʿiyyah (negasi) yang menghubungkan perintah selanjutnya",
+        "irab_dan_logika": "Sukun pada alif, berfungsi sebagai penghubung dan memberi makna larangan"
+      },
+      "hikmah": "Menegaskan larangan agar tidak ada yang memperhatikan atau menoleh.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "مِنكُمْ",
+      "transliterasi": "minkum",
+      "jenis_kata": "Huruf",
+      "arti": "dari kamu",
+      "sharaf": {
+        "akar_kata": "مِن + كُم",
+        "makna_dasar": "dari kalian",
+        "wazan_perubahan": "preposisi + zamir muttasil"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar yang menjadi pelengkap fiʿil yaltafiṭ, dengan zamir muttasil “kumu” sebagai penunjuk kepemilikan",
+        "irab_dan_logika": "Majrur — berkasrah pada ن karena preposisi مِنْ"
+      },
+      "hikmah": "Menunjukkan bahwa tidak seorang pun di antara kalian boleh menoleh.",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "إِلَّا",
+      "transliterasi": "illa",
+      "jenis_kata": "Huruf",
+      "arti": "kecuali",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "huruf istithna (pengecualian) setelah kata sebelumnya",
+        "irab_dan_logika": "huruf jar, tidak berharakat; menandakan pengecualian sehingga kata berikutnya berada dalam kasus nasb"
+      },
+      "hikmah": "menunjukkan bahwa hanya istri Luth yang dikecualikan dari perintah pergi",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "ٱمْرَأَتَكَ",
+      "transliterasi": "imra'ataka",
+      "jenis_kata": "Isim",
+      "arti": "isteri kamu",
+      "sharaf": {
+        "akar_kata": "أ م ر أ",
+        "makna_dasar": "wanita",
+        "wazan_perubahan": "مَفْعَلَة"
+      },
+      "nahwu": {
+        "kedudukan": "mudhaf (milik) dengan attached pronoun \"ka\"; berada dalam posisi nasb setelah إِلَّا",
+        "irab_dan_logika": "nasb karena berada di belakang huruf istithna إِلَّا; tanda harakat fatha pada تَ"
+      },
+      "hikmah": "menegaskan bahwa istri Luth termasuk orang yang dikecualikan",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "ۖ",
+      "transliterasi": "waqf",
+      "jenis_kata": "Huruf",
+      "arti": "tanda waqf (istirahat)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca (waqf) yang memisahkan dua bagian kalimat",
+        "irab_dan_logika": "tidak berirab, berfungsi sebagai pemisah"
+      },
+      "hikmah": "memberi jeda untuk menekankan pernyataan selanjutnya",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "إِنَّهُۥ",
+      "transliterasi": "innahu",
+      "jenis_kata": "Huruf",
+      "arti": "sesungguhnya dia",
+      "sharaf": {
+        "akar_kata": "ن",
+        "makna_dasar": "menegaskan, memperkuat",
+        "wazan_perubahan": "إِنَّ"
+      },
+      "nahwu": {
+        "kedudukan": "huruf takdir (penegas) yang menghubungkan kalimat sebelumnya dengan predikat",
+        "irab_dan_logika": "مبني على السكون لا محل له من الإعراب؛ berfungsi menegaskan subjek"
+      },
+      "hikmah": "menekankan kepastian bahwa yang akan menimpa istri Luth adalah sesuatu yang pasti",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "مُصِيبُهَا",
+      "transliterasi": "musibuhā",
+      "jenis_kata": "Isim Fi'il",
+      "arti": "yang menimpa dia",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "أَصَابَهُمْ",
+      "transliterasi": "aṣābahum",
+      "jenis_kata": "Fi'il",
+      "arti": "menimpakan (azab) kepada mereka",
+      "sharaf": {
+        "akar_kata": "ص-و-ب",
+        "makna_dasar": "menyentuh, menimpa",
+        "wazan_perubahan": "فَعَلَ (bentuk lampau) dengan hamzah al‑qatiʿ"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il madhi (kata kerja) setelah huruf فَ, menjadi predikat dalam ayat",
+        "irab_dan_logika": "مبني على الفتح؛ والهاء ضمير متصل في محل نصب مفعول به لأنه مضاف إلى الفعل"
+      },
+      "hikmah": "Azab Allah menimpa kaum Luth secara pasti, menegaskan kepastian hukuman",
+      "role": "none"
+    },
+    {
+      "index": 25,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf",
+      "arti": "tanda waqf (koma)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca yang memisahkan dua bagian kalimat",
+        "irab_dan_logika": "tidak memiliki iʿrāb, berfungsi sebagai pemisah"
+      },
+      "hikmah": "Menunjukkan jeda, memberi ruang bagi pembaca memahami hubungan logis antar kalimat",
+      "role": "none"
+    },
+    {
+      "index": 26,
+      "kata_arab": "إِنَّ",
+      "transliterasi": "inna",
+      "jenis_kata": "Huruf",
+      "arti": "sesungguhnya, memang",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "huruf takid dan nasb memperkenalkan جملة اسمية",
+        "irab_dan_logika": "حرف توكيد ونصب؛ يرفع الاسم المرفوع ويجر الاسم المنصوب، لذا الاسم التالي يكون منصوبًا"
+      },
+      "hikmah": "Menegaskan kepastian waktu azab, memberi penekanan kuat pada pernyataan selanjutnya",
+      "role": "none"
+    },
+    {
+      "index": 27,
+      "kata_arab": "مَوْعِدَهُمُ",
+      "transliterasi": "mawʿidahumu",
+      "jenis_kata": "Isim",
+      "arti": "janji mereka, waktu pertemuan mereka",
+      "sharaf": {
+        "akar_kata": "و-ع-د",
+        "makna_dasar": "menjanjikan, menentukan waktu",
+        "wazan_perubahan": "مَفْعَل"
+      },
+      "nahwu": {
+        "kedudukan": "اسم إنّ منصوب، وهو مبتدأ الجملة الإسمية بعد إنّ",
+        "irab_dan_logika": "منصوب بالفتحة لأنّ حرف نصب؛ والضمير المتصل هُمُ في محل جر لأنه مضاف"
+      },
+      "hikmah": "Menunjukkan bahwa azab akan datang pada waktu yang telah ditetapkan, yaitu pagi",
+      "role": "none"
+    },
+    {
+      "index": 28,
+      "kata_arab": "ٱلصُّبْحُ",
+      "transliterasi": "al-ṣubḥu",
+      "jenis_kata": "Isim",
+      "arti": "pagi, subuh",
+      "sharaf": {
+        "akar_kata": "ص-ب-ح",
+        "makna_dasar": "cahaya pagi, terbitnya matahari",
+        "wazan_perubahan": "فَعْل"
+      },
+      "nahwu": {
+        "kedudukan": "خبر إنّ منصوب، يكمّل معنى الجملة الإسمية",
+        "irab_dan_logika": "منصوب بالفتحة لأنّ خبر إنّ يُنصب"
+      },
+      "hikmah": "Waktu subuh adalah saat azab turun, menegaskan kedekatan akhir yang menakutkan",
+      "role": "none"
+    },
+    {
+      "index": 29,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf",
+      "arti": "tanda waqf (koma)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca yang mengakhiri bagian kalimat setelah الصُّبْحُ",
+        "irab_dan_logika": "tidak memiliki iʿrāb, berfungsi memisahkan ayat selanjutnya"
+      },
+      "hikmah": "Memberi jeda untuk menekankan pentingnya waktu subuh sebagai momen azab",
+      "role": "none"
+    },
+    {
+      "index": 30,
+      "kata_arab": "أَلَيْسَ",
+      "transliterasi": "alaysa",
+      "jenis_kata": "Fi'il",
+      "arti": "apakah tidak",
+      "sharaf": {
+        "akar_kata": "ل ي س",
+        "makna_dasar": "tidak, tidak ada",
+        "wazan_perubahan": "أَلَيْفَ (bentuk kafiyah untuk menafikan)"
+      },
+      "nahwu": {
+        "kedudukan": "Predikat (khabar) dalam pertanyaan retoris \"Alaysa al‑subhu qarīban?\"",
+        "irab_dan_logika": "مرفوع بالضمة karena merupakan فعل مضارع مرفوع بالضمة الظاهرة"
+      },
+      "hikmah": "Menegaskan bahwa subuh tidak akan jauh; pertanyaan retoris ini menekankan kedekatan waktu azab.",
+      "role": "none"
+    },
+    {
+      "index": 31,
+      "kata_arab": "ٱلصُّبْحُ",
+      "transliterasi": "as‑subhu",
+      "jenis_kata": "Isim",
+      "arti": "pagi, subuh",
+      "sharaf": {
+        "akar_kata": "ص ب ح",
+        "makna_dasar": "cahaya pagi, terbit",
+        "wazan_perubahan": "فَعْل (bentuk isim maskulin)"
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada' (subjek) dalam kalimat \"Alaysa al‑subhu qarīban?\"",
+        "irab_dan_logika": "مرفوع بالضمة لأنّه مبتدأ مرفوع"
+      },
+      "hikmah": "Menunjukkan waktu spesifik yang akan segera tiba, yaitu subuh, sebagai penanda kedekatan azab.",
+      "role": "none"
+    },
+    {
+      "index": 32,
+      "kata_arab": "بِقَرِيبٍۢ",
+      "transliterasi": "biqarībin",
+      "jenis_kata": "Huruf (preposisi) + Isim (kata benda)",
+      "arti": "dengan dekat, hampir",
+      "sharaf": {
+        "akar_kata": "ق ر ب",
+        "makna_dasar": "dekat, mendekati",
+        "wazan_perubahan": "فَعِيل (bentuk isim maṣdar)"
+      },
+      "nahwu": {
+        "kedudukan": "Kata sifat (keterangan) yang tergabung dengan huruf جر \"bi\"; menjadi مجرور",
+        "irab_dan_logika": "مجرور بالكسرة لأنّها مضافة إلى حرف الجر \"bi\""
+      },
+      "hikmah": "Menegaskan bahwa subuh berada pada jarak yang sangat dekat, sehingga azab akan turun segera setelahnya.",
+      "role": "none"
+    }
+  ]
+}

@@ -1,0 +1,420 @@
+{
+  "surah": 9,
+  "ayah": 4,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "إِلَّا",
+      "transliterasi": "illa",
+      "jenis_kata": "Huruf",
+      "arti": "kecuali",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "kecuali",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Harf istithna (pengecualian) yang menolak apa‑apa setelahnya",
+        "irab_dan_logika": "Harf jar, tidak berharakat; tidak berubah karena termasuk huruf"
+      },
+      "hikmah": "Menunjukkan pengecualian, menolak semua orang kecuali yang disebutkan selanjutnya",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "ٱلَّذِينَ",
+      "transliterasi": "alladhina",
+      "jenis_kata": "Isim",
+      "arti": "orang‑orang yang",
+      "sharaf": {
+        "akar_kata": "ل‑ذ‑ن",
+        "makna_dasar": "yang",
+        "wazan_perubahan": "Isim dhomir (اسم موصول)"
+      },
+      "nahwu": {
+        "kedudukan": "Isim mawsul (kata sambung) yang menjadi objek setelah إِلَّا",
+        "irab_dan_logika": "مُنصوب بالفتحة لأن حرف الاستثناء إِلَّا يجرّ اسماً منصوباً"
+      },
+      "hikmah": "Merujuk pada kelompok orang yang telah diikat perjanjian",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "عَٰهَدتُّم",
+      "transliterasi": "ʿāhadttum",
+      "jenis_kata": "Fi'il",
+      "arti": "kamu mengikat (perjanjian)",
+      "sharaf": {
+        "akar_kata": "ع‑ه‑د",
+        "makna_dasar": "mengikat perjanjian",
+        "wazan_perubahan": "فعل ثلاثي مجرد"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il madhi (kata kerja lampau) dengan dhamir muttasil",
+        "irab_dan_logika": "مبني على الفتح، والضمير المتصل (تُ) في محل رفع الفاعل"
+      },
+      "hikmah": "Menegaskan adanya perjanjian yang telah dibuat antaramu dan mereka",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "مِّنَ",
+      "transliterasi": "mina",
+      "jenis_kata": "Huruf",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "dari",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Harf jar",
+        "irab_dan_logika": "حرف جر لا إعراب له، يجرّ الاسم التالي"
+      },
+      "hikmah": "Menunjukkan sumber atau asal orang‑orang yang dimaksud",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "ٱلْمُشْرِكِينَ",
+      "transliterasi": "al‑mushrikīna",
+      "jenis_kata": "Isim",
+      "arti": "orang‑orang musyrik",
+      "sharaf": {
+        "akar_kata": "ش‑ر‑ك",
+        "makna_dasar": "menyekutukan (Allah)",
+        "wazan_perubahan": "مُفَعَّل"
+      },
+      "nahwu": {
+        "kedudukan": "Isim majrur بحرف الجر مِّنْ",
+        "irab_dan_logika": "مجرور بالكسرة الظاهرة على آخره لأنّها تابعة لحرف الجر"
+      },
+      "hikmah": "Menyebut kelompok musyrik yang menjadi subjek perjanjian",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "ثُمَّ",
+      "transliterasi": "thumma",
+      "jenis_kata": "Huruf",
+      "arti": "kemudian",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "kemudian",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Harf 'ataf atau ظرف زمان يربط بين جمل",
+        "irab_dan_logika": "لا إعراب له، يربط ما بعده بالآية السابقة"
+      },
+      "hikmah": "Menghubungkan perintah selanjutnya, menandakan lanjutan ayat",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "لَمْ",
+      "transliterasi": "lam",
+      "jenis_kata": "Huruf",
+      "arti": "tidak, belum",
+      "sharaf": {
+        "akar_kata": "لا",
+        "makna_dasar": "tidak",
+        "wazan_perubahan": "huruf نفي"
+      },
+      "nahwu": {
+        "kedudukan": "partikel negasi yang mengawali fi'il",
+        "irab_dan_logika": "sukun karena huruf jar, tidak berinfleksi"
+      },
+      "hikmah": "menegaskan penolakan tindakan mengurangi",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "يَنقُصُوكُمْ",
+      "transliterasi": "yanqusoona kum",
+      "jenis_kata": "Fi'il",
+      "arti": "mengurangi (kamu)",
+      "sharaf": {
+        "akar_kata": "ن-ق-ص",
+        "makna_dasar": "mengurangi, kurang",
+        "wazan_perubahan": "فعل مضارع مرفوع بالضمة، والواو للضمير المتكلم الجمع"
+      },
+      "nahwu": {
+        "kedudukan": "predikat (fi'il) yang dinegasikan oleh لَمْ",
+        "irab_dan_logika": "مرفوع بالضمة الظاهرة على النون، والواو للضمير المتكلم الجمع (كم) مفعول به"
+      },
+      "hikmah": "menegaskan tidak ada pengurangan hak",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "شَيْـًۭٔا",
+      "transliterasi": "shay'an",
+      "jenis_kata": "Isim",
+      "arti": "sesuatu, apa pun",
+      "sharaf": {
+        "akar_kata": "ش-ي-ء",
+        "makna_dasar": "sesuatu",
+        "wazan_perubahan": "اسم مفرد منصوب بالفتحة"
+      },
+      "nahwu": {
+        "kedudukan": "objek (maf'ul bih) dari fi'il يَنقُصُوكُمْ",
+        "irab_dan_logika": "منصوب بالفتحة الظاهرة على آخره (شَيْئًا)"
+      },
+      "hikmah": "menegaskan tidak mengurangi apa‑apa",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "وَلَمْ",
+      "transliterasi": "wa lam",
+      "jenis_kata": "Huruf",
+      "arti": "dan tidak",
+      "sharaf": {
+        "akar_kata": "لا",
+        "makna_dasar": "negasi",
+        "wazan_perubahan": "حرف عطف (wa) + حرف نفي (lam)"
+      },
+      "nahwu": {
+        "kedudukan": "penghubung antara dua predikat (يَنقُصُوكُمْ وَيُظَٰهِرُوا۟)",
+        "irab_dan_logika": "ليس له إعراب، سكون"
+      },
+      "hikmah": "mengaitkan penolakan kedua tindakan",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "يُظَٰهِرُوا۟",
+      "transliterasi": "yuzahirū",
+      "jenis_kata": "Fi'il",
+      "arti": "menampakkan, memperlihatkan",
+      "sharaf": {
+        "akar_kata": "ظ-ه-ر",
+        "makna_dasar": "muncul, tampak",
+        "wazan_perubahan": "فعل مضارع مرفوع بالضمة، والواو للضمير المتكلم الجمع"
+      },
+      "nahwu": {
+        "kedudukan": "predikat kedua yang dinegasikan oleh لَمْ",
+        "irab_dan_logika": "مرفوع بالضمة الظاهرة على آخره"
+      },
+      "hikmah": "menegaskan tidak menampakkan apa pun terhadapmu",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "عَلَيْكُمْ",
+      "transliterasi": "ʿalaykum",
+      "jenis_kata": "Huruf",
+      "arti": "atas kalian, terhadap kalian",
+      "sharaf": {
+        "akar_kata": "ع-ل-ى",
+        "makna_dasar": "di atas, terhadap",
+        "wazan_perubahan": "حرف جر + ضمير متصل"
+      },
+      "nahwu": {
+        "kedudukan": "شبه جملة جار ومجرور مضاف إلى الفعل يُظَٰهِرُوا۟",
+        "irab_dan_logika": "مجرور بالكسرة، والضمير المتصل يضيف كاف"
+      },
+      "hikmah": "menegaskan tidak ada tindakan menampakkan apa pun kepada kalian",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "أَحَدًۭا",
+      "transliterasi": "aḥadan",
+      "jenis_kata": "Isim (isim maf'ul)",
+      "arti": "satu orang, seseorang",
+      "sharaf": {
+        "akar_kata": "ح-د-د",
+        "makna_dasar": "menunjuk pada satu, satuan",
+        "wazan_perubahan": "maf'ul (أَفْعَلًا) dengan tanwin"
+      },
+      "nahwu": {
+        "kedudukan": "objek (maf'ul) dari fi'il amar *fa‑atimmū*",
+        "irab_dan_logika": "مَنْصُوبٌ بالفتحة الظاهرة لأنه مفعول به مطلق"
+      },
+      "hikmah": "Tidak ada satu pun orang yang dikecualikan dari perjanjian kecuali yang disebutkan secara khusus.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "فَأَتِمُّوٓا۟",
+      "transliterasi": "fa‑atimmū",
+      "jenis_kata": "Fi'il amar (imperatif) 2‑jamak",
+      "arti": "maka penuhilah",
+      "sharaf": {
+        "akar_kata": "ت-م-م",
+        "makna_dasar": "menyelesaikan, menuntaskan",
+        "wazan_perubahan": "أَفْعَلُوا"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja perintah utama dalam ayat",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فعل أمر"
+      },
+      "hikmah": "Menegaskan kewajiban menepati perjanjian secara penuh.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "إِلَيْهِمْ",
+      "transliterasi": "ilāhum",
+      "jenis_kata": "Huruf jar + dhamir muttasil",
+      "arti": "kepada mereka",
+      "sharaf": {
+        "akar_kata": "إ-ل-ى",
+        "makna_dasar": "menunjuk arah atau tujuan",
+        "wazan_perubahan": "حرف جر"
+      },
+      "nahwu": {
+        "kedudukan": "kata benda yang berfungsi sebagai majrur setelah *fa‑atimmū*",
+        "irab_dan_logika": "مجرور بالكسرة، والضمير المتصل في محل جر"
+      },
+      "hikmah": "Menunjukkan bahwa perjanjian harus dipenuhi *kepada* pihak yang bersangkutan.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "عَهْدَهُمْ",
+      "transliterasi": "ʿahdahum",
+      "jenis_kata": "Isim (isim ma'di) dengan dhamir",
+      "arti": "perjanjian mereka",
+      "sharaf": {
+        "akar_kata": "ع-ه-د",
+        "makna_dasar": "ikatan, perjanjian",
+        "wazan_perubahan": "فَعْل"
+      },
+      "nahwu": {
+        "kedudukan": "maf'ul mutlaq dari fi'il amar *fa‑atimmū*",
+        "irab_dan_logika": "منصوب بالفتحة الظاهرة على آخره، والضمير المتصل في محل جر"
+      },
+      "hikmah": "Objek yang harus dipenuhi, yaitu ikatan yang telah disepakati antara kedua belah pihak.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "إِلَىٰ",
+      "transliterasi": "ilā",
+      "jenis_kata": "Huruf jar",
+      "arti": "sampai",
+      "sharaf": {
+        "akar_kata": "إ-ل-ى",
+        "makna_dasar": "menunjuk batas waktu atau tempat",
+        "wazan_perubahan": "حرف جر"
+      },
+      "nahwu": {
+        "kedudukan": "kata penghubung yang menandai batas akhir masa perjanjian",
+        "irab_dan_logika": "مجرور لأنه حرف جر"
+      },
+      "hikmah": "Menetapkan bahwa perjanjian berlaku hingga batas waktu yang ditentukan.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "مُدَّتِهِمْ",
+      "transliterasi": "muddatihim",
+      "jenis_kata": "Isim (isim zaman) dengan dhamir",
+      "arti": "masa mereka",
+      "sharaf": {
+        "akar_kata": "م-د-د",
+        "makna_dasar": "memperpanjang, durasi",
+        "wazan_perubahan": "مُفَعَّل"
+      },
+      "nahwu": {
+        "kedudukan": "majrur setelah huruf jar *ilā*",
+        "irab_dan_logika": "مجرور بالكسرة، والضمير المتصل في محل جر"
+      },
+      "hikmah": "Menunjukkan batas waktu spesifik yang telah disepakati dalam perjanjian tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda ayat)",
+      "jenis_kata": "Huruf",
+      "arti": "tanda akhir ayat",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca di akhir ayat",
+        "irab_dan_logika": "Tidak memiliki i‘rāb karena bukan kata, berfungsi sebagai pemisah"
+      },
+      "hikmah": "*Menandakan selesai ayat, memberi jeda bagi pembaca untuk merenungkan makna sebelumnya.*",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "إِنَّ",
+      "transliterasi": "inna",
+      "jenis_kata": "Huruf",
+      "arti": "sesungguhnya",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "huruf takwīn (harf tasbih) di awal kalimat",
+        "irab_dan_logika": "Marfu‘ karena berfungsi sebagai حرف مشبه يرفع ما بعده"
+      },
+      "hikmah": "*Menguatkan pernyataan Allah, menegaskan kebenaran apa yang akan diutarakan.*",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "ٱللَّهَ",
+      "transliterasi": "Allāha",
+      "jenis_kata": "Isim",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "ل-ه",
+        "makna_dasar": "menyembah, beribadah",
+        "wazan_perubahan": "nama khusus (Ism al-Jamīl)"
+      },
+      "nahwu": {
+        "kedudukan": "mansoob (maf‘ul bih) setelah إِنَّ",
+        "irab_dan_logika": "Mansūb karena إِنَّ تُنصب ما بعدها"
+      },
+      "hikmah": "*Allah menjadi subjek yang dicintai, menegaskan hubungan antara Sang Pencipta dan hamba‑hamba yang bertakwa.*",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "يُحِبُّ",
+      "transliterasi": "yuḥibbu",
+      "jenis_kata": "Fi'il",
+      "arti": "mencintai",
+      "sharaf": {
+        "akar_kata": "ح-ب-ب",
+        "makna_dasar": "cinta, kasih",
+        "wazan_perubahan": "yaf‘alu (bentuk I)"
+      },
+      "nahwu": {
+        "kedudukan": "fi‘il mudhari‘ marfu‘ sebagai predikat",
+        "irab_dan_logika": "Marfu‘ karena berada setelah إِنَّ dan berfungsi sebagai فعل"
+      },
+      "hikmah": "*Menunjukkan sifat Allah yang mencintai orang‑orang yang bertakwa, memberi motivasi moral bagi mukmin.*",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "ٱلْمُتَّقِينَ",
+      "transliterasi": "al‑muttaqīna",
+      "jenis_kata": "Isim",
+      "arti": "orang‑orang yang bertakwa",
+      "sharaf": {
+        "akar_kata": "و-ق-ي",
+        "makna_dasar": "menjaga diri, takut kepada Allah",
+        "wazan_perubahan": "mutaqqaf (bentuk II) jamak"
+      },
+      "nahwu": {
+        "kedudukan": "maf‘ul bih (objek) dari يُحِبُّ",
+        "irab_dan_logika": "Mansūb karena menjadi objek kata kerja يُحِبُّ"
+      },
+      "hikmah": "*Kelompok yang dicintai Allah ialah mereka yang hidup dalam ketakwaan, menegaskan nilai spiritual dalam Islam.*",
+      "role": "none"
+    }
+  ]
+}

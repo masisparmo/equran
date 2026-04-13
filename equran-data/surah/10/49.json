@@ -1,0 +1,456 @@
+{
+  "surah": 10,
+  "ayah": 49,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "قُل",
+      "transliterasi": "qul",
+      "jenis_kata": "Fi'il",
+      "arti": "katakan",
+      "sharaf": {
+        "akar_kata": "ق-و-ل",
+        "makna_dasar": "berkata",
+        "wazan_perubahan": "فعل أمر"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja perintah di awal kalimat",
+        "irab_dan_logika": "مبني على السكون لا محل له من الإعراب لأن حرف الأمر لا يُعرب"
+      },
+      "hikmah": "menyuruh pendengar menyampaikan apa yang akan dikatakan selanjutnya",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "لَّآ",
+      "transliterasi": "lā",
+      "jenis_kata": "Huruf",
+      "arti": "tidak",
+      "sharaf": {
+        "akar_kata": "لا",
+        "makna_dasar": "penolakan, negasi",
+        "wazan_perubahan": "حرف نفي"
+      },
+      "nahwu": {
+        "kedudukan": "menegasikan kata kerja setelahnya",
+        "irab_dan_logika": "مبني على السكون لا محل له من الإعراب لأنه حرف نفي"
+      },
+      "hikmah": "menyatakan bahwa apa yang disebutkan selanjutnya tidak terjadi",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "أَمْلِكُ",
+      "transliterasi": "amliku",
+      "jenis_kata": "Fi'il",
+      "arti": "aku menguasai",
+      "sharaf": {
+        "akar_kata": "م-ل-ك",
+        "makna_dasar": "memiliki, menguasai",
+        "wazan_perubahan": "فعل مضارع مرفوع"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع بالضمة",
+        "irab_dan_logika": "مرفوع بالضمة الظاهرة لأن الفعل مضارع غير مسبوق ولا يجره شيء"
+      },
+      "hikmah": "menegaskan ketidakberdayaan diri dalam menimbulkan mudharat atau manfaat",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "لِنَفْسِى",
+      "transliterasi": "linafsi",
+      "jenis_kata": "Huruf",
+      "arti": "bagi diriku",
+      "sharaf": {
+        "akar_kata": "ن-ف-س",
+        "makna_dasar": "diri, jiwa",
+        "wazan_perubahan": "اسم مجرور بحرف الجر"
+      },
+      "nahwu": {
+        "kedudukan": "اسم مجرور بحرف الجر \"لِ\" تابع للفعل \"amliku\"",
+        "irab_dan_logika": "مجرور وعلامة جره الكسرة لأنه تابع لحرف الجر"
+      },
+      "hikmah": "menunjukkan bahwa yang dimaksud adalah diri sendiri, bukan orang lain",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "ضَرًّۭا",
+      "transliterasi": "ḍarran",
+      "jenis_kata": "Isim",
+      "arti": "kerusakan, mudharat",
+      "sharaf": {
+        "akar_kata": "ض-ر-ر",
+        "makna_dasar": "mudharat, bahaya",
+        "wazan_perubahan": "اسم فعل مفعول"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به للفعل \"amliku\"",
+        "irab_dan_logika": "منصوب بالفتحة الظاهرة لأنه مفعول به"
+      },
+      "hikmah": "menyatakan bahwa tidak ada kuasa untuk menimbulkan mudharat",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "وَلَا",
+      "transliterasi": "wa lā",
+      "jenis_kata": "Huruf",
+      "arti": "dan tidak",
+      "sharaf": {
+        "akar_kata": "لا",
+        "makna_dasar": "penolakan, negasi",
+        "wazan_perubahan": "حرف عطف + نفي"
+      },
+      "nahwu": {
+        "kedudukan": "حرف عطف يربط بين dua bagian kalimat",
+        "irab_dan_logika": "مبني على السكون لا محل له من الإعراب لأنه حرف عطف"
+      },
+      "hikmah": "menyambung penegasan sebelumnya dengan menolak hal yang berlawanan",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "نَفْعًا",
+      "transliterasi": "naf'an",
+      "jenis_kata": "Isim (Kata Benda)",
+      "arti": "manfaat, keuntungan",
+      "sharaf": {
+        "akar_kata": "ن ف ع (N-F-'Ain)",
+        "makna_dasar": "memberi manfaat, berguna",
+        "wazan_perubahan": "Mashdar (kata benda verbal) dari fi'il نَفَعَ (nafa'a), dalam bentuk nakirah (indefinite) dan manshub (accusative)."
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul bih (objek) dari fi'il yang tersirat, yaitu 'aku tidak berkuasa mendatangkan'.",
+        "irab_dan_logika": "Manshub (berharakat fathatain) karena kedudukannya sebagai maf'ul bih. Tanda nashabnya adalah fathah."
+      },
+      "hikmah": "Kata ini menekankan bahwa manusia tidak memiliki kuasa mutlak untuk mendatangkan manfaat bagi dirinya sendiri, melainkan hanya atas kehendak Allah. Ini adalah pengakuan akan keterbatasan manusia dan keagungan kekuasaan Ilahi.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "إِلَّا",
+      "transliterasi": "illā",
+      "jenis_kata": "Huruf (Partikel)",
+      "arti": "kecuali, melainkan",
+      "sharaf": {
+        "akar_kata": "Tidak memiliki akar kata karena ini adalah huruf.",
+        "makna_dasar": "Pengecualian, pembatasan.",
+        "wazan_perubahan": "Tidak berlaku untuk huruf."
+      },
+      "nahwu": {
+        "kedudukan": "Huruf istitsna' (pengecualian).",
+        "irab_dan_logika": "Huruf tidak memiliki i'rab. Fungsinya adalah untuk mengecualikan atau membatasi pernyataan sebelumnya."
+      },
+      "hikmah": "Partikel ini berfungsi untuk membatasi klaim sebelumnya, menegaskan bahwa segala sesuatu, baik manfaat maupun mudarat, hanya terjadi atas izin dan kehendak Allah semata. Ini adalah penekanan pada keesaan Allah dalam kekuasaan-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "مَا",
+      "transliterasi": "mā",
+      "jenis_kata": "Isim Maushul (Kata Sambung)",
+      "arti": "apa yang, sesuatu yang",
+      "sharaf": {
+        "akar_kata": "Tidak memiliki akar kata karena ini adalah isim maushul.",
+        "makna_dasar": "Menghubungkan, menunjukkan sesuatu yang tidak spesifik.",
+        "wazan_perubahan": "Tidak berlaku."
+      },
+      "nahwu": {
+        "kedudukan": "Isim maushul yang menjadi mustatsna (yang dikecualikan) dari 'illa'. Ia mabni (tidak berubah harakatnya) dalam kedudukan nashab sebagai badal dari 'kemudharatan dan kemanfaatan' yang dikecualikan.",
+        "irab_dan_logika": "Mabni 'ala as-sukun (tetap berharakat sukun) dalam kedudukan nashab. Ia berfungsi sebagai penghubung antara 'illa' dan fi'il setelahnya, membentuk satu kesatuan makna pengecualian."
+      },
+      "hikmah": "Kata 'mā' di sini menggarisbawahi bahwa hanya 'apa yang dikehendaki Allah' sajalah yang benar-benar terjadi dan memiliki dampak, baik manfaat maupun mudarat. Ini memperkuat konsep takdir dan kehendak ilahi yang mutlak.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "شَآءَ",
+      "transliterasi": "shā'a",
+      "jenis_kata": "Fi'il (Kata Kerja)",
+      "arti": "Dia menghendaki, Dia menginginkan",
+      "sharaf": {
+        "akar_kata": "ش ي أ (Sh-Y-Hamzah)",
+        "makna_dasar": "Menghendaki, menginginkan, berkehendak.",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau), wazan فَعَلَ (fa'ala)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il madhi. Fa'ilnya adalah 'ٱللَّهُ' (Allah) yang disebutkan setelahnya.",
+        "irab_dan_logika": "Fi'il madhi mabni 'ala al-fath (tetap berharakat fathah di akhirnya)."
+      },
+      "hikmah": "Kata ini menekankan kehendak mutlak Allah sebagai satu-satunya penentu segala sesuatu. Tidak ada yang terjadi, baik manfaat maupun mudarat, tanpa kehendak-Nya. Ini adalah inti dari tauhid rububiyah (keesaan Allah dalam penciptaan dan pengaturan).",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "ٱللَّهُ",
+      "transliterasi": "Allāhu",
+      "jenis_kata": "Isim (Kata Benda), Isim Jalalah (Nama Allah yang Maha Agung)",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "أ ل ه (A-L-H)",
+        "makna_dasar": "Tuhan, yang disembah.",
+        "wazan_perubahan": "Tidak berlaku untuk Isim Jalalah."
+      },
+      "nahwu": {
+        "kedudukan": "Fa'il (subjek) dari fi'il 'شَاءَ' (shā'a).",
+        "irab_dan_logika": "Marfu' (berharakat dhammah) karena kedudukannya sebagai fa'il. Tanda rafa'nya adalah dhammah."
+      },
+      "hikmah": "Sebagai fa'il dari 'شَاءَ', kata ini mengukuhkan bahwa Allah adalah satu-satunya Dzat yang memiliki kehendak mutlak dan kekuasaan penuh atas segala sesuatu di alam semesta. Ini adalah penegasan sentral dalam akidah Islam.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "ۗ",
+      "transliterasi": "Tidak ada transliterasi",
+      "jenis_kata": "Tanda Waqaf (Simbol Bacaan)",
+      "arti": "Tanda berhenti",
+      "sharaf": {
+        "akar_kata": "Tidak ada akar kata karena ini adalah tanda baca.",
+        "makna_dasar": "Menunjukkan tempat berhenti yang dianjurkan dalam bacaan Al-Qur'an.",
+        "wazan_perubahan": "Tidak berlaku."
+      },
+      "nahwu": {
+        "kedudukan": "Bukan bagian dari struktur gramatikal kalimat. Ini adalah tanda baca.",
+        "irab_dan_logika": "Tidak memiliki i'rab."
+      },
+      "hikmah": "Tanda waqaf ini (waqaf mujawwaz) menunjukkan bahwa berhenti di sini lebih utama, namun boleh juga melanjutkan bacaan. Ini memberikan kesempatan bagi pembaca untuk merenungkan makna yang telah disampaikan, yaitu tentang kehendak mutlak Allah, sebelum melanjutkan ke bagian ayat berikutnya yang membahas tentang ajal setiap umat.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "لِكُلِّ",
+      "transliterasi": "li‑kulli",
+      "jenis_kata": "Huruf + Isim",
+      "arti": "bagi setiap",
+      "sharaf": {
+        "akar_kata": "ك‑ل‑ل",
+        "makna_dasar": "semua, seluruh",
+        "wazan_perubahan": "fa‘l (kull) dengan huruf jar li‑"
+      },
+      "nahwu": {
+        "kedudukan": "objek preposisi (jar) dalam frasa «li‑kulli ummatin»",
+        "irab_dan_logika": "ditandai dengan kasrah pada akhir kata (كُلِّ) karena berada dalam i‘rāb jar"
+      },
+      "hikmah": "menunjukkan bahwa setiap umat memiliki hakikat yang sama, yaitu adanya ajal yang ditetapkan Allah",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "أُمَّةٍ",
+      "transliterasi": "ummatin",
+      "jenis_kata": "Isim",
+      "arti": "umat, bangsa",
+      "sharaf": {
+        "akar_kata": "أ‑م‑م",
+        "makna_dasar": "kelompok manusia yang bersatu dalam kepercayaan",
+        "wazan_perubahan": "fa‘lah (أمة) dengan tanwin kasrah"
+      },
+      "nahwu": {
+        "kedudukan": "isim jar setelah preposisi li‑",
+        "irab_dan_logika": "berkasrah (أُمَّةٍ) menandakan i‘rāb jar"
+      },
+      "hikmah": "menegaskan bahwa Allah menetapkan ajal bagi tiap-tiap komunitas manusia",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "أَجَلٌ",
+      "transliterasi": "ajalu",
+      "jenis_kata": "Isim",
+      "arti": "takdir, ajal",
+      "sharaf": {
+        "akar_kata": "ج‑ل‑ل",
+        "makna_dasar": "waktu yang ditentukan, batas akhir",
+        "wazan_perubahan": "fa‘l dengan dhammah"
+      },
+      "nahwu": {
+        "kedudukan": "khabar (predikat) bagi mubtadaʾ «li‑kulli ummatin»",
+        "irab_dan_logika": "berdhammah (أَجَلٌ) karena berfungsi sebagai khabar"
+      },
+      "hikmah": "menyiratkan kepastian bahwa setiap umat memiliki batas waktu yang pasti",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "Simbol",
+      "arti": "tanda berhenti",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "pemisah antara dua klausa utama",
+        "irab_dan_logika": "tidak memiliki i‘rāb, berfungsi sebagai tanda jeda"
+      },
+      "hikmah": "menandai akhir pernyataan pertama dan mempersiapkan kalimat bersyarat selanjutnya",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "إِذَا",
+      "transliterasi": "idhā",
+      "jenis_kata": "Huruf",
+      "arti": "jika, apabila",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "huruf syarat yang memperkenalkan klausa syarat",
+        "irab_dan_logika": "tidak berharakat karena termasuk huruf syarat"
+      },
+      "hikmah": "menunjukkan hubungan sebab‑akibat, menyiapkan pernyataan tentang datangnya ajal",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "جَآءَ",
+      "transliterasi": "jāʾa",
+      "jenis_kata": "Fiʿil",
+      "arti": "datang",
+      "sharaf": {
+        "akar_kata": "ج‑أ‑ء",
+        "makna_dasar": "kedatangan, muncul",
+        "wazan_perubahan": "faʿala (جَاءَ)"
+      },
+      "nahwu": {
+        "kedudukan": "fiʿil madhi dalam klausa syarat «idhā jāʾa ajaluhā»",
+        "irab_dan_logika": "berdarab (جَاءَ) tanpa i‘rāb karena berada setelah huruf syarat"
+      },
+      "hikmah": "menegaskan kepastian kedatangan ajal, tidak dapat ditunda atau dipercepat oleh manusia",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "أَجَلُهُمْ",
+      "transliterasi": "ajaluhum",
+      "jenis_kata": "Isim",
+      "arti": "ajal mereka / batas waktu mereka",
+      "sharaf": {
+        "akar_kata": "أ ج ل",
+        "makna_dasar": "Waktu yang ditentukan, batas waktu, akhir.",
+        "wazan_perubahan": "Isim (kata benda) dari akar tiga huruf, dengan penambahan dhamir (kata ganti) هُمْ (hum - mereka)."
+      },
+      "nahwu": {
+        "kedudukan": "Fa'il (subjek)",
+        "irab_dan_logika": "Marfu' (rafa') dengan dhammah (ضمة) pada huruf lam (ل) karena berkedudukan sebagai fa'il dari fi'il yang tersirat sebelumnya (جَاءَ - telah datang). Dhamir هُمْ (hum) adalah mudhaf ilaih (kepemilikan) yang mabni (tetap) pada sukun."
+      },
+      "hikmah": "Kata ini menegaskan bahwa setiap umat atau individu memiliki batas waktu hidup yang telah ditetapkan secara ilahi. Ini adalah takdir yang mutlak, tidak bisa diubah, dan akan datang pada waktunya yang telah ditentukan oleh Allah.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "فَلَا",
+      "transliterasi": "falā",
+      "jenis_kata": "Huruf",
+      "arti": "maka tidak",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk huruf.",
+        "makna_dasar": "Huruf 'fa' (فَ) menunjukkan akibat atau urutan. Huruf 'lā' (لَا) adalah peniadaan (nafyi).",
+        "wazan_perubahan": "Tidak berlaku untuk huruf."
+      },
+      "nahwu": {
+        "kedudukan": "Huruf athaf (penghubung) dan huruf nafyi (peniadaan).",
+        "irab_dan_logika": "Kedua huruf ini mabni (tetap) dan tidak memiliki i'rab. 'Fa' menunjukkan konsekuensi logis dari datangnya ajal, dan 'lā' menafikan kemampuan untuk melakukan tindakan selanjutnya."
+      },
+      "hikmah": "Gabungan huruf ini secara tegas menyatakan bahwa sebagai konsekuensi dari datangnya ajal, tidak ada lagi kemampuan bagi siapa pun untuk mengintervensi ketetapan tersebut. Ini menekankan kemutlakan takdir Allah.",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "يَسْتَـْٔخِرُونَ",
+      "transliterasi": "yasta'khirūna",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka mengundurkan diri / mereka menunda",
+      "sharaf": {
+        "akar_kata": "أ خ ر",
+        "makna_dasar": "Belakang, akhir, menunda, mengundurkan.",
+        "wazan_perubahan": "Fi'il Mudhari' (kata kerja masa kini/mendatang) dari wazan istif'al (استفعل - istaf'ala), yang sering menunjukkan permintaan atau usaha untuk melakukan sesuatu, dalam hal ini 'meminta untuk diakhirkan' atau 'mengundurkan'."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Marfu'.",
+        "irab_dan_logika": "Marfu' (rafa') dengan tetapnya huruf nun (ثبوت النون) karena termasuk Af'alul Khamsah (lima fi'il). Wawu (و) adalah dhamir muttasil yang berkedudukan sebagai fa'il (subjek) yang kembali kepada 'mereka' (umat/individu)."
+      },
+      "hikmah": "Kata ini menggambarkan tindakan menunda atau mengundurkan. Dalam konteks ayat, ini berarti bahwa ketika ajal telah tiba, tidak ada satu pun dari mereka yang mampu menunda atau mengundurkan waktu kematiannya, bahkan sedikit pun. Ini menunjukkan ketidakberdayaan manusia di hadapan takdir ilahi.",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "سَاعَةًۭ",
+      "transliterasi": "sā'atan",
+      "jenis_kata": "Isim",
+      "arti": "sesaat / satu jam",
+      "sharaf": {
+        "akar_kata": "س و ع",
+        "makna_dasar": "Waktu, jam, sesaat.",
+        "wazan_perubahan": "Isim (kata benda) dari akar tiga huruf, dengan bentuk dasar سَاعَةٌ (sā'atun)."
+      },
+      "nahwu": {
+        "kedudukan": "Zharaf Zaman (keterangan waktu).",
+        "irab_dan_logika": "Manshub (nashab) dengan fathatain (فتحتين) karena berkedudukan sebagai zharaf zaman, yang menjelaskan durasi waktu penundaan yang tidak mungkin terjadi. Ini menekankan bahwa bahkan untuk waktu yang sangat singkat pun, penundaan tidak akan terjadi."
+      },
+      "hikmah": "Kata ini berfungsi sebagai penegas bahwa ajal tidak dapat ditunda sama sekali, bahkan untuk durasi waktu yang paling singkat sekalipun seperti 'sesaat'. Ini menyoroti ketepatan dan ketegasan takdir Allah yang tidak bisa diganggu gugat oleh siapa pun.",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "ۖ",
+      "transliterasi": "Tidak ada transliterasi",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "Tanda berhenti (waqaf jaiz)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk tanda baca.",
+        "makna_dasar": "Tanda waqaf jaiz (boleh berhenti atau melanjutkan bacaan).",
+        "wazan_perubahan": "Tidak berlaku untuk tanda baca."
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca dalam mushaf Al-Qur'an.",
+        "irab_dan_logika": "Tidak memiliki i'rab. Fungsinya adalah untuk membantu pembaca dalam memahami makna dan mengatur nafas. Tanda ini menunjukkan bahwa berhenti di sini lebih utama daripada melanjutkan, meskipun melanjutkan juga diperbolehkan."
+      },
+      "hikmah": "Secara linguistik, ini bukan kata melainkan tanda baca. Dalam konteks tafsir, tanda waqaf ini seringkali menandai selesainya satu gagasan atau bagian penting dari ayat, memberikan kesempatan untuk merenungkan makna yang baru saja disampaikan sebelum melanjutkan ke bagian berikutnya. Di sini, ia menandai akhir dari frasa 'mereka tidak dapat mengundurkannya barang sesaatpun'.",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "وَلَا",
+      "transliterasi": "walā",
+      "jenis_kata": "Huruf",
+      "arti": "dan tidak (pula)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk huruf.",
+        "makna_dasar": "Huruf 'waw' (وَ) adalah huruf athaf (penghubung) yang menunjukkan penambahan atau penyertaan. Huruf 'lā' (لَا) adalah peniadaan (nafyi).",
+        "wazan_perubahan": "Tidak berlaku untuk huruf."
+      },
+      "nahwu": {
+        "kedudukan": "Huruf athaf dan huruf nafyi.",
+        "irab_dan_logika": "Kedua huruf ini mabni (tetap) dan tidak memiliki i'rab. 'Waw' menghubungkan peniadaan pengunduran dengan peniadaan pendahuluan, sementara 'lā' menafikan kemampuan untuk melakukan tindakan selanjutnya."
+      },
+      "hikmah": "Gabungan huruf ini berfungsi untuk memperkuat penegasan sebelumnya. Tidak hanya ajal tidak bisa ditunda, tetapi juga tidak bisa dipercepat. Ini menegaskan bahwa waktu ajal adalah ketetapan yang tepat dan mutlak dari Allah, tidak dapat diubah sama sekali, baik maju maupun mundur.",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "يَسْتَقْدِمُونَ",
+      "transliterasi": "yastaqdimuna",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka mendahului (menjalankan sesuatu lebih awal)",
+      "sharaf": {
+        "akar_kata": "ق د م",
+        "makna_dasar": "depan, mendahului",
+        "wazan_perubahan": "istif‘ala (form X) → يَسْتَقْدِمُ (tunggal) → يَسْتَقْدِمُونَ (jamak)"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja aktif, mudhari‘ (present) jamak maskulin, predikat dalam ayat",
+        "irab_dan_logika": "مرفوع بالضمة الظاهرة على النون لأنّه فعل مضارع مرفوع، والواو للرفع لأنه جمع مذكر سالم"
+      },
+      "hikmah": "*Hikmah*: menunjukkan ketidakmampuan manusia mengubah takdir waktunya; tidak dapat mendahului ajal yang telah ditetapkan oleh Allah.",
+      "role": "none"
+    }
+  ]
+}

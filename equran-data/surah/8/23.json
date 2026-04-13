@@ -5,19 +5,19 @@
     {
       "index": 0,
       "kata_arab": "وَلَوْ",
-      "transliterasi": "walaw",
-      "jenis_kata": "Harf (Huruf)",
-      "arti": "Dan sekiranya; Dan kalau; Dan jikalau",
+      "transliterasi": "wa-law",
+      "jenis_kata": "Huruf",
+      "arti": "Dan sekiranya/kalau",
       "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
+        "akar_kata": "(Tidak berlaku untuk huruf)",
+        "makna_dasar": "(Tidak berlaku untuk huruf)",
+        "wazan_perubahan": "(Tidak berlaku untuk huruf)"
       },
       "nahwu": {
-        "kedudukan": "Kata ini adalah gabungan dari dua huruf: 'و' (wa) yang berarti 'dan' (huruf penghubung atau 'athaf) dan 'لَوْ' (law) yang berarti 'sekiranya' atau 'jikalau' (huruf pengandaian atau syarat). Jadi, secara keseluruhan, 'وَلَوْ' berfungsi sebagai penghubung dan penanda kalimat pengandaian.",
-        "irab_dan_logika": "Dalam bahasa Arab, huruf-huruf (harf) itu sifatnya 'mabni', artinya bentuk dan harakat akhirnya tidak akan pernah berubah, tidak peduli di mana posisinya dalam kalimat. Jadi, 'وَلَوْ' akan selalu dibaca 'walaw' dengan harakat fathah pada 'wa' dan sukun pada 'waw' di 'law'. Ini berbeda dengan kata benda (isim) atau kata kerja (fi'il) yang bisa berubah harakat akhirnya tergantung kedudukannya dalam kalimat. Logikanya, huruf-huruf ini seperti 'alat bantu' yang fungsinya tetap, tidak seperti 'pemain utama' yang perannya bisa berubah."
+        "kedudukan": "Huruf 'athaf (penghubung) dan huruf syarat (pengandaian)",
+        "irab_dan_logika": "Huruf mabni (tetap) tidak memiliki kedudukan i'rab. 'Waw' adalah huruf 'athaf yang menghubungkan dengan konteks sebelumnya, dan 'law' adalah huruf syarat yang menunjukkan pengandaian yang tidak mungkin terjadi atau tidak terjadi."
       },
-      "hikmah": "Dalam ayat ini, 'وَلَوْ' digunakan untuk menyatakan suatu pengandaian yang mustahil atau sangat kecil kemungkinannya terjadi, atau sesuatu yang bertentangan dengan kenyataan. Allah SWT ingin menegaskan bahwa orang-orang kafir ini sama sekali tidak memiliki kebaikan dalam diri mereka. Bahkan seandainya pun Allah mengetahui ada sedikit kebaikan pada mereka (yang mana Allah tahu tidak ada), Allah pasti akan membuat mereka mendengar kebenaran. Namun, ayat ini melanjutkan dengan penegasan bahwa meskipun mereka dibuat mendengar, mereka tetap akan berpaling. Ini menunjukkan betapa kerasnya hati mereka dan pengetahuan mutlak Allah tentang kondisi mereka. Penggunaan 'وَلَوْ' di sini adalah keunikan sastra Al-Quran yang sangat kuat, menyampaikan makna mendalam tentang kepastian dan kemustahilan dengan kata yang ringkas, sekaligus menyingkap tabiat orang-orang yang menolak kebenaran.",
+      "hikmah": "Menunjukkan pengandaian atau kondisi hipotetis yang berlawanan dengan kenyataan, seringkali untuk menekankan suatu fakta. Dalam konteks ini, 'kalau sekiranya' mengindikasikan bahwa kondisi yang diandaikan (Allah mengetahui kebaikan pada mereka) tidak ada.",
       "role": "none"
     },
     {
@@ -25,180 +25,198 @@
       "kata_arab": "عَلِمَ",
       "transliterasi": "alima",
       "jenis_kata": "Fi'il (Kata Kerja)",
-      "arti": "Mengetahui, mengetahui dengan pasti, menyadari",
+      "arti": "Dia mengetahui",
       "sharaf": {
-        "akar_kata": "ع ل م",
-        "makna_dasar": "Pengetahuan, mengetahui, ilmu",
-        "wazan_perubahan": "Ini adalah fi'il madhi (kata kerja lampau) dari wazan (pola) فَعَلَ (fa'ala). Wazan ini menunjukkan tindakan yang terjadi di masa lampau. Untuk akar kata ع ل م, wazan ini berarti 'dia (telah) mengetahui'."
+        "akar_kata": "ع ل م (Ain-Lam-Mim)",
+        "makna_dasar": "Mengetahui, ilmu",
+        "wazan_perubahan": "Fi'il Madhi (Kata Kerja Lampau) dari Bab Fa'ila-Yaf'alu (فَعِلَ-يَفْعَلُ) atau Fa'ila-Yaf'ilu (فَعِلَ-يَفْعِلُ). Di sini 'alima-ya'lamu (عَلِمَ-يَعْلَمُ). Wazan ini menunjukkan tindakan yang terjadi di masa lampau."
       },
       "nahwu": {
-        "kedudukan": "Predikat (Fi'il Madhi). Dalam kalimat ini, 'عَلِمَ' adalah kata kerja yang dilakukan oleh 'ٱللَّهُ' (Allah) sebagai subjeknya.",
-        "irab_dan_logika": "عَلِمَ' adalah fi'il madhi (kata kerja lampau). Fi'il madhi pada dasarnya 'mabni' (tetap) di atas fathah (harakat 'a'). Huruf terakhirnya (م - mim) berharakat fathah. Ini adalah ciri khas fi'il madhi yang tidak bersambung dengan kata ganti subjek yang bergerak atau wawu jama'ah. Logikanya, karena ini adalah kata kerja lampau yang berdiri sendiri dan tidak ada yang mengubah harakatnya, maka ia tetap pada bentuk aslinya yaitu berharakat fathah di akhirnya."
+        "kedudukan": "Fi'il Madhi, merupakan fi'il syarat dari huruf 'law'.",
+        "irab_dan_logika": "Fi'il Madhi mabniyyun 'ala al-fath (tetap dengan fathah) karena tidak bersambung dengan dhamir rafa' mutaharrik atau wawu jama'ah. Fa'il (subjek) dari fi'il ini adalah lafazh jalalah 'Allah' (ٱللَّهُ)."
       },
-      "hikmah": "Pada ayat ini, 'عَلِمَ' berarti 'mengetahui' atau 'mengetahui dengan pasti'. Penggunaannya dalam konteks 'وَلَوْ عَلِمَ ٱللَّهُ فِيهِمْ خَيْرًۭا' (Kalau sekiranya Allah mengetahui kebaikan ada pada mereka) menunjukkan pengetahuan Allah yang Maha Luas dan sempurna. Ini bukan sekadar 'mengetahui' biasa, tetapi pengetahuan yang meliputi segala sesuatu, termasuk potensi kebaikan dalam diri seseorang. Hikmahnya, ayat ini menegaskan bahwa Allah mengetahui secara mutlak apa yang ada dalam hati manusia. Jika ada sedikit saja kebaikan pada mereka (orang-orang yang menolak kebenaran), Allah pasti akan membimbing mereka. Namun, karena Allah mengetahui tidak ada kebaikan sejati yang akan membuat mereka menerima petunjuk, maka mereka tidak dijadikan mendengar (dalam arti menerima petunjuk). Bahkan jika mereka dibuat mendengar, mereka tetap akan berpaling karena kesombongan dan penolakan mereka. Ini menunjukkan keadilan dan kebijaksanaan Allah yang sempurna.",
-      "role": "predicate"
+      "hikmah": "Kata ini menekankan sifat Allah yang Maha Mengetahui segala sesuatu, baik yang tampak maupun yang tersembunyi. Dalam ayat ini, pengetahuan Allah adalah prasyarat untuk tindakan-Nya.",
+      "role": "none"
     },
     {
       "index": 2,
       "kata_arab": "ٱللَّهُ",
       "transliterasi": "Allāhu",
       "jenis_kata": "Isim (Kata Benda)",
-      "arti": "Allah (Tuhan Yang Maha Esa)",
+      "arti": "Allah (Nama Tuhan Yang Maha Esa)",
       "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "Nama diri (proper noun) yang merujuk kepada Tuhan Yang Maha Esa, satu-satunya yang berhak disembah.",
-        "wazan_perubahan": ""
+        "akar_kata": "(Tidak ada akar kata dalam pengertian sharaf umum, ini adalah Isim Alam)",
+        "makna_dasar": "Nama Dzat Tuhan Yang Maha Esa.",
+        "wazan_perubahan": "(Tidak berlaku untuk Isim Alam)"
       },
       "nahwu": {
-        "kedudukan": "Dalam kalimat ini, 'ٱللَّهُ' adalah subjek atau pelaku dari kata kerja 'عَلِمَ' (mengetahui). Dalam istilah tata bahasa Arab, ini disebut 'Fa'il'.",
-        "irab_dan_logika": "Harakat huruf terakhirnya adalah dhammah (bunyi 'u') pada huruf 'ه' (ha). Ini menunjukkan bahwa kata 'ٱللَّهُ' berada dalam keadaan 'marfu'' (rafa'). Logikanya, dalam bahasa Arab, setiap kata yang berfungsi sebagai subjek atau pelaku dari sebuah kata kerja (fi'il) harus dalam keadaan 'marfu'', yang ditandai dengan harakat dhammah pada huruf terakhirnya (jika isim mufrad/tunggal)."
+        "kedudukan": "Fa'il (Subjek) dari fi'il 'عَلِمَ'.",
+        "irab_dan_logika": "Marfu' (rafa') dengan dhammah karena merupakan fa'il. Fa'il selalu dalam keadaan rafa'."
       },
-      "hikmah": "Dalam ayat ini, 'ٱللَّهُ' menegaskan bahwa Tuhan Yang Maha Esa adalah satu-satunya Dzat yang memiliki pengetahuan mutlak dan sempurna tentang segala sesuatu, termasuk potensi kebaikan yang ada dalam diri manusia. Penggunaannya sebagai subjek dari kata kerja 'mengetahui' (عَلِمَ) menunjukkan bahwa ilmu Allah tidak terbatas dan meliputi hal-hal yang tersembunyi di dalam hati. Hikmahnya adalah bahwa keputusan dan kehendak Allah didasarkan pada ilmu yang sempurna, bukan dugaan, dan Dia Maha Adil dalam menilai siapa yang layak mendapat petunjuk atau tidak, karena Dia mengetahui apa yang terbaik bagi setiap hamba-Nya.",
-      "role": "subject"
+      "hikmah": "Lafazh jalalah ini adalah nama Dzat Tuhan Yang Maha Agung, menunjukkan keesaan dan kekuasaan-Nya. Dalam konteks ini, Allah adalah Subjek yang memiliki pengetahuan mutlak.",
+      "role": "none"
     },
     {
       "index": 3,
       "kata_arab": "فِيهِمْ",
       "transliterasi": "fīhim",
-      "jenis_kata": "Gabungan Harf (kata depan) dan Dhamir (kata ganti)",
-      "arti": "di dalam mereka, pada mereka, tentang mereka",
+      "jenis_kata": "Huruf (preposisi) + Isim (dhamir)",
+      "arti": "Pada mereka/di dalam mereka",
       "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "Kata 'فِي' (fī) secara dasar menunjukkan keberadaan di dalam, pada, atau tentang sesuatu. Sedangkan 'هِمْ' (him) adalah kata ganti orang ketiga jamak laki-laki yang berarti 'mereka'.",
-        "wazan_perubahan": ""
+        "akar_kata": "(Tidak berlaku untuk huruf dan dhamir)",
+        "makna_dasar": "(Tidak berlaku untuk huruf dan dhamir)",
+        "wazan_perubahan": "(Tidak berlaku untuk huruf dan dhamir)"
       },
       "nahwu": {
-        "kedudukan": "Dalam kalimat ini, 'فِيهِمْ' berfungsi sebagai keterangan yang menjelaskan di mana 'kebaikan' (خَيْرًۭا) itu ada, yaitu 'pada diri mereka'. Jadi, ia menunjukkan tempat atau kondisi keberadaan kebaikan tersebut.",
-        "irab_dan_logika": "Kata 'فِي' adalah Harf Jar (kata depan) yang selalu membuat kata setelahnya berada dalam kondisi Majrur (setara dengan kasrah). Sedangkan 'هِمْ' adalah Dhamir Muttasil (kata ganti yang melekat) yang bersifat Mabni (tidak berubah harakat akhirnya). Dalam konteks ini, 'هِمْ' berada pada posisi Majrur karena didahului oleh Harf Jar 'فِي'. Jadi, meskipun harakat akhirnya sukun (مْ), posisinya secara tata bahasa adalah Majrur, seolah-olah berharakat kasrah."
+        "kedudukan": "Jar Majrur (preposisi dan objeknya)",
+        "irab_dan_logika": "فِي' (fī) adalah huruf jar, yang menjadikan isim setelahnya majrur. 'هِمْ' (him) adalah dhamir muttashil (kata ganti bersambung) yang mabniyyun 'ala as-sukūn (tetap dengan sukun) pada posisi jar (majrur) karena didahului oleh huruf jar. Jar majrur ini berfungsi sebagai muta'alliq (terkait) dengan fi'il 'عَلِمَ' atau sebagai keterangan tempat/keadaan bagi 'خَيْرًۭا' yang diketahui ada pada mereka."
       },
-      "hikmah": "Penggunaan kata 'فِيهِمْ' dalam ayat ini sangat mendalam. Ia berarti 'pada diri mereka' atau 'di dalam hati mereka'. Ini menunjukkan bahwa Allah mengetahui kondisi batin dan potensi yang ada pada diri orang-orang tersebut. Jika saja ada sedikit kebaikan (potensi untuk menerima hidayah dan kebenaran) di dalam hati mereka, Allah pasti akan membuat mereka mendengar dan memahami. Namun, karena Allah mengetahui bahwa tidak ada kebaikan sejati di dalam diri mereka (hati mereka telah tertutup rapat dari kebenaran), maka pendengaran mereka tidak akan bermanfaat, bahkan mereka akan tetap berpaling. Ini menegaskan ilmu Allah yang Maha Luas dan keadilan-Nya dalam memberikan hidayah berdasarkan kesiapan hati manusia.",
+      "hikmah": "Menunjukkan keberadaan atau kondisi internal pada sekelompok orang (mereka). Dalam ayat ini, mengacu pada 'kebaikan' yang mungkin ada di dalam diri mereka.",
       "role": "none"
     },
     {
       "index": 4,
       "kata_arab": "خَيْرًۭا",
-      "transliterasi": "khairan",
+      "transliterasi": "khayran",
       "jenis_kata": "Isim (Kata Benda)",
-      "arti": "Kebaikan, sesuatu yang baik",
+      "arti": "Kebaikan",
       "sharaf": {
-        "akar_kata": "خ ي ر",
-        "makna_dasar": "Memilih, pilihan terbaik, kebaikan, lebih baik",
-        "wazan_perubahan": "Kata 'خَيْر' (khair) adalah bentuk isim masdar (kata benda dasar) yang menunjukkan makna 'kebaikan'. Wazan aslinya adalah فَعْلٌ (fa'lun). Dalam konteks ini, ia berfungsi sebagai kata benda yang berarti 'kebaikan'."
+        "akar_kata": "خ ي ر (Kha-Ya-Ra)",
+        "makna_dasar": "Baik, kebaikan, pilihan",
+        "wazan_perubahan": "Isim Masdar (kata benda abstrak) atau Isim Tafdhil (kata sifat komparatif/superlatif) yang digunakan sebagai isim. Di sini lebih ke isim masdar yang bermakna kebaikan."
       },
       "nahwu": {
-        "kedudukan": "Objek (Maf'ul Bih) dari kata kerja 'عَلِمَ' (mengetahui). Artinya, Allah mengetahui 'apa'? Jawabannya adalah 'kebaikan'.",
-        "irab_dan_logika": "Harakat huruf terakhirnya adalah fathatain (tanwin fathah) pada huruf 'ر' (ra) menjadi 'رًا'. Ini menunjukkan bahwa kata tersebut dalam keadaan *manshub* (objek). Dalam tata bahasa Arab, objek dari suatu kata kerja (maf'ul bih) biasanya berharakat fathah atau fathatain (jika kata tersebut umum/tidak spesifik). Di sini, Allah mengetahui 'kebaikan' (sesuatu yang umum, bukan kebaikan yang spesifik), sehingga menggunakan tanwin fathah."
+        "kedudukan": "Maf'ul Bih (Objek Penderita) dari fi'il 'عَلِمَ'.",
+        "irab_dan_logika": "Manshub (nashab) dengan fathatain (tanwin fathah) karena merupakan maf'ul bih. Maf'ul bih selalu dalam keadaan nashab."
       },
-      "hikmah": "Pada ayat ini, 'خَيْرًۭا' (kebaikan) merujuk pada potensi atau kesiapan hati untuk menerima petunjuk dan kebenaran dari Allah. Bukan sekadar kebaikan moral biasa, tetapi kebaikan dalam arti kesediaan untuk beriman dan taat. Penggunaan tanwin fathah (khairan) menunjukkan keumuman dan ketidakspesifikan. Ini berarti Allah tidak menemukan *kebaikan apa pun* (sekecil apa pun) dalam diri mereka yang bisa membuat mereka mendengar dan menerima kebenaran. Ini menunjukkan betapa kerasnya hati mereka dan betapa jauhnya mereka dari hidayah. Hikmahnya adalah bahwa hidayah adalah anugerah Allah yang diberikan kepada mereka yang memiliki potensi kebaikan dalam hati mereka, dan tanpa potensi itu, bahkan jika mereka dibuat mendengar, mereka akan tetap berpaling.",
-      "role": "object"
+      "hikmah": "Kata ini merujuk pada segala bentuk kebaikan, baik itu keimanan, ketaatan, atau kesediaan untuk menerima petunjuk. Ketiadaan 'kebaikan' ini pada mereka adalah alasan mengapa Allah tidak menjadikan mereka dapat mendengar (petunjuk).",
+      "role": "none"
     },
     {
       "index": 5,
       "kata_arab": "لَّأَسْمَعَهُمْ",
-      "transliterasi": "la'asma'ahum",
-      "jenis_kata": "Fi'il (Kata Kerja)",
-      "arti": "tentulah Dia menjadikan mereka dapat mendengar / tentulah Dia memperdengarkan mereka",
+      "transliterasi": "la-asma'ahum",
+      "jenis_kata": "Huruf (lam) + Fi'il (kata kerja) + Isim (dhamir)",
+      "arti": "Tentulah Dia menjadikan mereka dapat mendengar",
       "sharaf": {
-        "akar_kata": "س م ع",
-        "makna_dasar": "Mendengar, memperhatikan, menyimak.",
-        "wazan_perubahan": "Kata ini berasal dari akar kata س م ع (sama'a) yang berarti 'mendengar'. Bentuk 'أَسْمَعَ' (asma'a) adalah perubahan dari wazan أَفْعَلَ (af'ala), yang memberikan makna kausatif atau 'menjadikan sesuatu terjadi'. Jadi, dari 'mendengar' (سَمِعَ), menjadi 'menjadikan mendengar' atau 'memperdengarkan' (أَسْمَعَ). Huruf 'لَـ' (lam) di awal adalah 'lam al-jawab' yang berfungsi sebagai penekanan atau jawaban dari kalimat syarat sebelumnya ('kalau sekiranya... tentulah...'). Sedangkan 'ـهُمْ' (hum) adalah kata ganti orang ketiga jamak yang berarti 'mereka', berfungsi sebagai objek."
+        "akar_kata": "س م ع (Sin-Mim-Ain)",
+        "makna_dasar": "Mendengar",
+        "wazan_perubahan": "Fi'il Madhi (Kata Kerja Lampau) dari Bab Af'ala (أَفْعَلَ) yang menunjukkan makna 'menjadikan/menyebabkan'. Jadi, أَسْمَعَ (asma'a) berarti 'menjadikan mendengar' atau 'memperdengarkan'. Dhamir 'هُمْ' (hum) adalah dhamir maf'ul bih."
       },
       "nahwu": {
-        "kedudukan": "Kata ini adalah bagian dari predikat dalam kalimat. 'لَـ' adalah huruf jawab (jawaban dari 'لو'). 'أَسْمَعَ' adalah kata kerja lampau (fi'il madhi) yang pelakunya (subjeknya) adalah Allah (tersembunyi dalam kata kerja). 'ـهُمْ' adalah kata ganti sambung yang berfungsi sebagai objek dari kata kerja 'أَسْمَعَ'.",
-        "irab_dan_logika": "Kata kerja lampau (fi'il madhi) 'أَسْمَعَ' pada dasarnya selalu berharakat fathah di huruf terakhirnya (huruf 'ع' - 'ain') kecuali ada sebab tertentu. Di sini, ia tetap berharakat fathah. Huruf 'لَـ' di awal adalah huruf yang tidak mengubah harakat kata kerja setelahnya, ia hanya memberikan makna penekanan. Adapun 'ـهُمْ' adalah kata ganti yang posisinya sebagai objek (maf'ul bih), dan kata ganti selalu bersifat 'mabni' (tetap, tidak berubah harakat akhirnya). Dalam posisi objek, ia dianggap 'manshub' (berkedudukan sebagai objek) meskipun harakatnya tetap."
+        "kedudukan": "Fi'il Madhi, merupakan jawab syarat (jawaban dari pengandaian) yang diawali dengan Lam Jawab (لَـ).",
+        "irab_dan_logika": "لَـ' (la) adalah Lam Jawab, yang berfungsi sebagai penegas jawaban dari syarat 'لَوْ'. 'أَسْمَعَ' (asma'a) adalah fi'il madhi mabniyyun 'ala al-fath. Fa'ilnya adalah dhamir mustatir (tersembunyi) yang kembali kepada 'ٱللَّهُ'. 'هُمْ' (hum) adalah dhamir muttashil mabniyyun 'ala as-sukūn pada posisi nashab sebagai maf'ul bih."
       },
-      "hikmah": "Kata 'لَّأَسْمَعَهُمْ' secara harfiah berarti 'tentulah Dia (Allah) menjadikan mereka dapat mendengar' atau 'tentulah Dia memperdengarkan mereka'. Penggunaan wazan 'أَفْعَلَ' (asma'a) dari akar kata 'mendengar' (sama'a) sangat penting di sini. Ini menunjukkan bahwa Allah-lah yang aktif memberikan kemampuan mendengar (dalam konteks ini, mendengar kebenaran dan hidayah), bukan sekadar mereka mendengar secara pasif. Ini menekankan kekuasaan mutlak Allah dalam membuka atau menutup hati seseorang terhadap kebenaran. 'Lam al-jawab' (لَـ) di awal menegaskan bahwa ini adalah konsekuensi pasti jika Allah mengetahui ada kebaikan pada mereka. Namun, ayat ini melanjutkan dengan menyatakan bahwa bahkan jika mereka diberi kemampuan mendengar, mereka tetap akan berpaling, menunjukkan bahwa masalah utamanya adalah hati yang menolak, bukan kurangnya kesempatan untuk mendengar.",
-      "role": "predicate"
+      "hikmah": "Menunjukkan bahwa jika ada kebaikan pada mereka, Allah akan memberikan mereka kemampuan untuk mendengar petunjuk dengan hati dan akal mereka, bukan hanya dengan telinga fisik. Ini adalah bentuk rahmat dan hidayah dari Allah.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "ۖ",
+      "transliterasi": "waqf mutlaq",
+      "jenis_kata": "Tanda Baca",
+      "arti": "Berhenti sempurna",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Tidak berlaku",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf (berhenti)",
+        "irab_dan_logika": "Tanda ini menunjukkan tempat yang dianjurkan untuk berhenti secara sempurna dalam bacaan Al-Qur'an, menandakan selesainya satu bagian makna atau kalimat."
+      },
+      "hikmah": "Tanda waqaf ini membantu pembaca untuk memahami jeda makna dalam ayat, memisahkan dua gagasan utama: kondisi jika Allah mengetahui kebaikan pada mereka dan kondisi jika Allah menjadikan mereka mendengar.",
+      "role": "none"
     },
     {
       "index": 7,
       "kata_arab": "وَلَوْ",
       "transliterasi": "wa law",
-      "jenis_kata": "Harf (Huruf)",
-      "arti": "Dan sekiranya; Dan kalaupun; Dan jikalau",
+      "jenis_kata": "Huruf",
+      "arti": "Dan jikalau / Kalau sekiranya",
       "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
+        "akar_kata": "Tidak berlaku (gabungan huruf)",
+        "makna_dasar": "Pengandaian, syarat yang tidak mungkin terjadi",
+        "wazan_perubahan": "Tidak berlaku"
       },
       "nahwu": {
-        "kedudukan": "Ini adalah gabungan dari dua huruf:\n*   'و' (wawu): Berfungsi sebagai penghubung kalimat atau memulai kalimat baru. Dalam konteks ini, ia menghubungkan dengan kondisi orang-orang yang disebutkan sebelumnya.\n*   'لَوْ' (law): Berfungsi sebagai kata pengandaian atau 'sekiranya'. Ini digunakan untuk menyatakan suatu kondisi yang tidak mungkin terjadi atau sangat kecil kemungkinannya, atau bahkan berlawanan dengan kenyataan.",
-        "irab_dan_logika": "Kedua huruf ini ('و' dan 'لَوْ') termasuk 'harf' (kata tugas/partikel) dalam bahasa Arab. Kata-kata jenis 'harf' ini sifatnya 'mabni' (tetap), artinya harakat huruf terakhirnya tidak akan berubah, tidak peduli di mana posisinya dalam kalimat.\n*   'و' (wawu) selalu berharakat fathah (wa).\n*   'لَوْ' (law) selalu berharakat sukun (law).\nLogikanya, karena mereka hanya berfungsi sebagai penghubung atau penunjuk makna, bukan sebagai pelaku (subjek) atau tindakan (predikat) yang bisa berubah-ubah, maka harakatnya tidak perlu berubah."
+        "kedudukan": "`و` (wawu) adalah *huruf 'athaf* (penghubung) atau *istinaf* (permulaan kalimat baru). `لَوْ` (law) adalah *huruf syarat* (partikel pengandaian) yang menunjukkan sesuatu yang berlawanan dengan kenyataan atau tidak mungkin terjadi.",
+        "irab_dan_logika": "Keduanya adalah *mabni* (tetap) dan tidak berubah harakatnya. `و` *mabni 'ala al-fath* dan `لَوْ` *mabni 'ala as-sukun*."
       },
-      "hikmah": "Dalam ayat ini, 'وَلَوْ' (wa law) bukan sekadar 'jika' biasa, tetapi memiliki makna yang lebih kuat, yaitu 'sekiranya pun' atau 'andaikata pun'. Ini menunjukkan suatu pengandaian yang sangat kecil kemungkinannya terjadi, atau bahkan berlawanan dengan kenyataan yang ada.\n*   Ketika Allah berfirman 'وَلَوْ عَلِمَ ٱللَّهُ فِيهِمْ خَيْرًۭا لَّأَسْمَعَهُمْ' (Dan sekiranya Allah mengetahui kebaikan pada mereka, niscaya Dia akan menjadikan mereka mendengar), ini secara implisit berarti bahwa Allah *tidak* mengetahui adanya kebaikan pada mereka. Oleh karena itu, kondisi 'mendengar' (dalam arti menerima petunjuk dan beriman) tidak akan pernah terjadi pada mereka.\n*   Penggunaan 'وَلَوْ' ini adalah keunikan sastra Al-Quran yang sangat mendalam. Ia menegaskan bahwa orang-orang yang dimaksud (yaitu orang-orang kafir yang menolak kebenaran) telah mencapai titik di mana hati mereka tertutup rapat dari hidayah. Bahkan jika Allah memberikan mereka kemampuan mendengar secara fisik, hati mereka tetap akan berpaling. Ini menunjukkan hikmah luar biasa tentang kemahatahuan Allah dan kondisi hati manusia yang menolak kebenaran.",
+      "hikmah": "Penggunaan `وَلَوْ` di sini menekankan bahwa kondisi yang diandaikan (Allah menjadikan mereka mendengar) adalah sesuatu yang tidak akan mengubah sikap dasar mereka, karena hati mereka memang sudah tertutup. Ini menunjukkan kemustahilan perubahan sikap mereka meskipun diberi kesempatan.",
       "role": "none"
     },
     {
       "index": 8,
       "kata_arab": "أَسْمَعَهُمْ",
-      "transliterasi": "asma‘ahum",
-      "jenis_kata": "Fi'il",
-      "arti": "menjadikan mereka mendengar / membuat mereka mendengar",
+      "transliterasi": "asma'ahum",
+      "jenis_kata": "Fi'il (kata kerja) dan Isim (kata ganti)",
+      "arti": "Dia menjadikan mereka dapat mendengar",
       "sharaf": {
-        "akar_kata": "س م ع",
-        "makna_dasar": "mendengar",
-        "wazan_perubahan": "Form IV (أَفْعَل) – bentuk causatif yang berarti ‘menyebabkan untuk mendengar’"
+        "akar_kata": "س-م-ع (s-m-'a)",
+        "makna_dasar": "Mendengar",
+        "wazan_perubahan": "`أَفْعَلَ` (af'ala) - `أَسْمَعَ`. Wazan ini menunjukkan makna kausatif (menjadikan/menyebabkan seseorang melakukan sesuatu). `هُمْ` adalah *dhomir muttashil* (kata ganti sambung) untuk jamak laki-laki."
       },
       "nahwu": {
-        "kedudukan": "kata kerja (fi'il) dalam klausa bersyarat setelah particle 'لو', berfungsi sebagai predikat kondisi",
-        "irab_dan_logika": "Setelah 'لو' dipakai dengan fi'il madhi (past tense) untuk menyatakan kondisi yang tidak terjadi. Karena fi'il tidak memiliki i‘rāb, yang terlihat hanyalah huruf akhir pada ضمير متصل 'هُمْ' yang berkasrah? sebenarnya ber‑damma (هُمْ) menandakan objek (maf‘ūl bih) dalam kasus nasb. Jadi 'أَسْمَعَهُمْ' = fi'il madhi + ضمير متصل maf‘ūl bih."
+        "kedudukan": "`أَسْمَعَ` adalah *fi'il madhi* (kata kerja lampau). *Fa'il* (subjek) dari `أَسْمَعَ` adalah *dhomir mustatir* (tersembunyi) `هُوَ` yang kembali kepada Allah. `هُمْ` adalah *dhomir muttashil* yang berkedudukan sebagai *maf'ul bih* (objek) dari `أَسْمَعَ`.",
+        "irab_dan_logika": "`أَسْمَعَ` adalah *fi'il madhi mabni 'ala al-fath* (tetap dengan harakat fathah). `هُمْ` adalah *dhomir mabni 'ala as-sukun fi mahalli nasb maf'ul bih* (kata ganti tetap dengan sukun pada posisi nashab sebagai objek)."
       },
-      "hikmah": "Dalam ayat ini, Allah menegaskan bahwa bila Dia mengetahui kebaikan pada mereka, Dia akan menjadikan mereka mampu mendengar (menyadari kebenaran). Namun, meski diberikan kemampuan itu, mereka tetap akan berpaling. Kata ini menonjolkan keagungan kehendak Allah yang dapat mengubah kemampuan manusia, sekaligus menekankan kebebasan hati manusia yang tetap menolak meski diberi petunjuk.",
-      "role": "predicate"
+      "hikmah": "Kata ini menunjukkan kekuasaan Allah untuk memberikan pendengaran (pemahaman) jika Dia berkehendak. Namun, dalam konteks ayat ini, meskipun Allah memberikan pendengaran fisik atau pemahaman, hal itu tidak akan mengubah sikap mereka karena masalahnya bukan pada kemampuan mendengar, melainkan pada kemauan untuk menerima kebenaran.",
+      "role": "none"
     },
     {
       "index": 9,
       "kata_arab": "لَتَوَلَّوا۟",
-      "transliterasi": "la‑tawallaw",
-      "jenis_kata": "Fi'il",
-      "arti": "pasti mereka berpaling / mereka akan berpaling",
+      "transliterasi": "latawallaw",
+      "jenis_kata": "Huruf (lam) dan Fi'il (kata kerja)",
+      "arti": "Niscaya mereka pasti berpaling",
       "sharaf": {
-        "akar_kata": "و ل ي",
-        "makna_dasar": "berpindah, berpaling, beralih",
-        "wazan_perubahan": "Form II (تَفَعَّل) – menekankan tindakan berpindah atau beralih secara intensif; bentuknya 'تَوَلَّى' (imperatif jamak 'تَوَلَّوا')"
+        "akar_kata": "و-ل-ي (w-l-y)",
+        "makna_dasar": "Berpaling, membelakangi, menguasai",
+        "wazan_perubahan": "`تَفَعَّلَ` (tawallaa) - `تَوَلَّوا۟`. Wazan ini bisa menunjukkan makna *mutawa'ah* (menerima akibat) atau *ittikhadz* (mengambil sikap). Di sini, ia adalah *fi'il madhi* jamak laki-laki."
       },
       "nahwu": {
-        "kedudukan": "Predikat (fi'il amr) dengan lam al‑ta'kid, bagian dari ayat bersyarat \"walaw asma'ahum latawallaw\"",
-        "irab_dan_logika": "Lam dengan fatha (لَ) adalah huruf yang menegaskan (lam al‑ta'kid) dan tidak mempengaruhi i'rab. Kata 'تَوَلَّوا' adalah fi'il amr jam'i (imperatif jamak maskulin) sehingga tidak berharakat i'rab; akhiran 'وا' menandakan jamak maskulin. Karena ini bukan isim yang berkasrah/fathah/dhammah, tidak ada tanda i'rab pada akhir kata."
+        "kedudukan": "`لَ` adalah *lam al-jawab* (lam penegas sebagai jawaban dari syarat `لَوْ`). `تَوَلَّوا۟` adalah *fi'il madhi* (kata kerja lampau). *Wawu al-jama'ah* pada `تَوَلَّوا۟` adalah *fa'il* (subjek).",
+        "irab_dan_logika": "`لَ` adalah *huruf mabni 'ala al-fath*. `تَوَلَّوا۟` adalah *fi'il madhi mabni 'ala adh-dhamm al-muqaddar 'ala al-alif al-mahdzufah li ittisalihi bi wawu al-jama'ah* (kata kerja lampau yang tetap dengan dhommah yang diperkirakan pada alif yang dibuang karena bersambung dengan wawu jama'ah)."
       },
-      "hikmah": "Dengan tambahan lam al‑ta'kid, ayat menegaskan kepastian bahwa meski Allah memberi mereka pendengaran, mereka tetap akan berpaling (menolak kebenaran). Penggunaan bentuk imperatif jamak yang dipertegas oleh lam memberi nuansa keras kepala dan penolakan yang kuat, menambah keindahan retoris ayat.",
-      "role": "predicate"
+      "hikmah": "Kata ini menegaskan bahwa meskipun mereka diberikan kemampuan untuk mendengar dan memahami, mereka tetap akan memilih untuk berpaling dari kebenaran. Ini menunjukkan kerasnya hati dan penolakan mereka yang sudah mendarah daging, sehingga pendengaran fisik tidak akan mengubah sikap batin mereka.",
+      "role": "none"
     },
     {
       "index": 10,
       "kata_arab": "وَّهُم",
-      "transliterasi": "wa‑hum",
-      "jenis_kata": "Harf",
-      "arti": "dan mereka",
+      "transliterasi": "wa hum",
+      "jenis_kata": "Huruf (wawu) dan Isim (dhomir)",
+      "arti": "Sedang mereka",
       "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
+        "akar_kata": "Tidak berlaku (gabungan huruf dan dhomir)",
+        "makna_dasar": "Menunjukkan keadaan atau kondisi",
+        "wazan_perubahan": "Tidak berlaku"
       },
       "nahwu": {
-        "kedudukan": "Harf 'wa' yang menghubungkan ayat sebelumnya dengan ayat berikutnya, diikuti oleh ضمير منفصل 'هُم' yang berfungsi sebagai mubtada' (subjek) dalam kalimat nominal 'هُم مُعْرِضُونَ'.",
-        "irab_dan_logika": "Huruf 'و' tidak berirab karena merupakan huruf sambung. ضمير 'هُم' berada dalam keadaan marfu' (dhammah pada huruf م) karena menjadi mubtada' pada جملة اسمية. Karena ia subjek, ia tidak menerima tanda kasrah atau sukun; dammah menandakan posisi nominatifnya."
+        "kedudukan": "`و` adalah *wawu al-hal* (wawu yang menunjukkan keadaan/kondisi). `هُمْ` adalah *dhomir munfashil* (kata ganti terpisah) yang berkedudukan sebagai *mubtada'* (subjek awal) dari *jumlah ismiyah haliyah* (kalimat nominal yang menjelaskan keadaan).",
+        "irab_dan_logika": "`و` adalah *huruf mabni 'ala al-fath*. `هُمْ` adalah *dhomir mabni 'ala as-sukun fi mahalli raf' mubtada'* (kata ganti tetap dengan sukun pada posisi rafa' sebagai mubtada')."
       },
-      "hikmah": "‘وَهُم مُعْرِضُونَ’ berarti ‘dan mereka (yang) berpaling’. Kata ini menegaskan bahwa meskipun Allah memberi mereka kemampuan mendengar, mereka tetap menolak (مُعْرِضُونَ). Penggunaan ‘و’ di depan subjek memberi efek penekanan dan kontras dengan kalimat sebelumnya, menambah keindahan retoris ayat.",
-      "role": "subject"
+      "hikmah": "Penggunaan `وَّهُم` di sini menjelaskan kondisi atau keadaan mereka saat berpaling. Ini bukan hanya tindakan sesaat, melainkan sebuah sikap yang melekat pada diri mereka, yaitu mereka memang sedang dalam keadaan menolak atau memalingkan diri, memperkuat alasan mengapa mereka berpaling.",
+      "role": "none"
     },
     {
       "index": 11,
       "kata_arab": "مُّعْرِضُونَ",
-      "transliterasi": "mu‘riḍūna",
-      "jenis_kata": "Isim (Kata Benda)",
-      "arti": "yang memalingkan diri, yang menolak, yang mengabaikan",
+      "transliterasi": "mu'ridhuna",
+      "jenis_kata": "Isim (kata benda/sifat)",
+      "arti": "Orang-orang yang berpaling / menolak",
       "sharaf": {
-        "akar_kata": "ع ر ض",
-        "makna_dasar": "menolak, mengalihkan, memalingkan",
-        "wazan_perubahan": "مُفَعِل (active participle) → مُعْرِض (tunggal), مُعْرِضُونَ (jamak maskulin) dengan arti 'orang‑orang yang menolak/menjauhkan diri'"
+        "akar_kata": "ع-ر-ض ('-r-dh)",
+        "makna_dasar": "Menghadap, menawarkan, memalingkan",
+        "wazan_perubahan": "`مُفْعِلٌ` (muf'ilun) dari `أَفْعَلَ` (a'radha) - `مُعْرِضُونَ`. Ini adalah *Isim Fa'il* (pelaku) dari *fi'il ruba'i* (kata kerja empat huruf), menunjukkan pelaku dari perbuatan memalingkan diri atau menolak. Bentuk jamak laki-laki (`-un`)."
       },
       "nahwu": {
-        "kedudukan": "Kata ini berfungsi sebagai خبر (predikat) dalam kalimat nominal «هُم مُّعْرِضُونَ»",
-        "irab_dan_logika": "Karena berperan sebagai خبر مرفوع, huruf terakhirnya mendapat tanda dammah (نُ). Pada jamak maskulin berakhiran وَنَ, dammah menandakan keadaan marfu‘ (nominatif). Jadi «مُّعْرِضُونَ» dibaca dengan dammah pada ن karena ia berada di posisi yang harus berkasrah (marfu‘) dalam kalimat."
+        "kedudukan": "Sebagai *khabar* (predikat) dari *mubtada'* `هُمْ` dalam *jumlah haliyah* (kalimat yang menjelaskan keadaan).",
+        "irab_dan_logika": "*Khabar marfu' bi al-wawu li annahu jam'u mudzakkar salim* (predikat yang di-rafa'kan dengan wawu karena ia adalah jamak mudzakkar salim)."
       },
-      "hikmah": "Dalam ayat ini, «هُم مُّعْرِضُونَ» menegaskan bahwa orang‑orang itu tetap menolak kebenaran walaupun Allah memberi mereka kemampuan mendengar. Kata ini menekankan sikap aktif menolak, bukan sekadar tidak mengerti, sehingga menambah kekuatan retoris dengan mengulang makna «تَوَلَّوا» (mereka berpaling) dalam bentuk isim fa‘il yang menunjukkan keadaan terus‑menerus.",
-      "role": "predicate"
+      "hikmah": "Kata ini menggambarkan sifat atau karakter mereka yang memang sudah terbiasa atau memiliki kecenderungan kuat untuk menolak dan berpaling dari kebenaran. Ini bukan sekadar tindakan sesaat, melainkan sebuah sikap yang melekat pada diri mereka, menegaskan bahwa masalahnya ada pada kemauan dan hati mereka, bukan pada kemampuan mendengar.",
+      "role": "none"
     }
   ]
 }

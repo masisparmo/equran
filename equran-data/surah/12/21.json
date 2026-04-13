@@ -1,0 +1,528 @@
+{
+  "surah": 12,
+  "ayah": 21,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "وَقَالَ",
+      "transliterasi": "wa-qāla",
+      "jenis_kata": "Fi'il",
+      "arti": "dan (dia) berkata",
+      "sharaf": {
+        "akar_kata": "ق-و-ل",
+        "makna_dasar": "kata ‘kata’, mengucapkan",
+        "wazan_perubahan": "فعل ماضٍ ثلاثي مجرد"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ماضٍ مبني على الفتح",
+        "irab_dan_logika": "الفعل ماضٍ يُرفع بالفتحة لأنه غير مضارع ولا يجر"
+      },
+      "hikmah": "*Menunjukkan inisiasi percakapan, menandai perintah atau nasihat yang akan disampaikan.*",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "ٱلَّذِى",
+      "transliterasi": "al-ladhī",
+      "jenis_kata": "Isim",
+      "arti": "yang",
+      "sharaf": {
+        "akar_kata": "ذ-و-ي",
+        "makna_dasar": "yang memiliki, yang bersangkutan",
+        "wazan_perubahan": "اسم موصول مبني على ‘الذي’"
+      },
+      "nahwu": {
+        "kedudukan": "اسم موصول في محل رفع مبتدأ",
+        "irab_dan_logika": "مرفوع بالضمة الظاهرة لأنه اسم موصول يرفع كفاعل"
+      },
+      "hikmah": "*Berfungsi sebagai penghubung antara subjek dan klausa penjelas, menegaskan siapa yang melakukan tindakan selanjutnya.*",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "ٱشْتَرَىٰهُ",
+      "transliterasi": "ishtarāhu",
+      "jenis_kata": "Fi'il",
+      "arti": "membelinya",
+      "sharaf": {
+        "akar_kata": "ش-ر-ى",
+        "makna_dasar": "membeli",
+        "wazan_perubahan": "فعل ماضٍ ثلاثي مجرد مع ضمير متصل"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ماضٍ مع ضمير متصل في محل نصب مفعول به",
+        "irab_dan_logika": "الفعل ماضٍ مرفوع بالفتحة والضمير المتصل (هُ) منصوب لأنه مفعول به"
+      },
+      "hikmah": "*Menunjukkan tindakan konkret pembeli, menegaskan bahwa Yusuf dibeli oleh orang Mesir tersebut.*",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "مِن",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "huruf جر أصلية",
+        "wazan_perubahan": "حرف جر"
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر يجر الاسم التالي",
+        "irab_dan_logika": "يجر الاسم المجرور (مِصْرَ) إلى حالة الجر"
+      },
+      "hikmah": "*Menunjukkan asal tempat barang (Yusuf) dibeli, menambah konteks geografis.*",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "مِصْرَ",
+      "transliterasi": "Miṣra",
+      "jenis_kata": "Isim",
+      "arti": "Mesir",
+      "sharaf": {
+        "akar_kata": "ص-ر-ر",
+        "makna_dasar": "tempat yang terkurung, negeri",
+        "wazan_perubahan": "اسم علم مفرد مذكر"
+      },
+      "nahwu": {
+        "kedudukan": "اسم مجرور بحرف الجر مِن",
+        "irab_dan_logika": "مجرور بالكسرة لأنه تابع لحرف الجر"
+      },
+      "hikmah": "*Menandai lokasi geografis, memberi gambaran tentang latar tempat peristiwa terjadi.*",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "لِٱمْرَأَتِهِۦٓ",
+      "transliterasi": "li-imraʿati-hi",
+      "jenis_kata": "Huruf+Isim+Ḍamīr",
+      "arti": "kepada istrinya",
+      "sharaf": {
+        "akar_kata": "ʾم-ر-أ",
+        "makna_dasar": "wanita, istri",
+        "wazan_perubahan": "اسم مجرور بحرف الجر لِ مع ضمير متصل"
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر + اسم مجرور مع ضمير متصل في محل جر",
+        "irab_dan_logika": "لِ حرف جر يجر الاسم (امْرَأَتِهِ) والاسم مجرور بالكسرة والضمير المتصل (هِ) في محل جر لأنه تابع للجر"
+      },
+      "hikmah": "*Menunjukkan pihak yang menerima perintah, menegaskan peran istri dalam memberi perintah kepada Yusuf.*",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "أَكْرِمِى",
+      "transliterasi": "akrimī",
+      "jenis_kata": "Fi'il",
+      "arti": "hormatilah (berikan penghormatan)",
+      "sharaf": {
+        "akar_kata": "ك ر م",
+        "makna_dasar": "kram (menghormati)",
+        "wazan_perubahan": "فعل (form I)"
+      },
+      "nahwu": {
+        "kedudukan": "kata perintah (imperatif) kepada istri",
+        "irab_dan_logika": "fi'il amar, akhir kasrah menandakan bentuk perintah"
+      },
+      "hikmah": "menunjukkan permintaan untuk memberi penghormatan kepada Yusuf agar diperlakukan baik",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "مَثْوَىٰهُ",
+      "transliterasi": "mathwāhu",
+      "jenis_kata": "Isim",
+      "arti": "tempat tinggalnya",
+      "sharaf": {
+        "akar_kata": "س و ي",
+        "makna_dasar": "tempat beristirahat",
+        "wazan_perubahan": "مَفْعَل"
+      },
+      "nahwu": {
+        "kedudukan": "objek (maf'ul bih) dari perintah",
+        "irab_dan_logika": "منصوب karena menjadi maf'ul bih, ditandai ḍamma pada هُ"
+      },
+      "hikmah": "menunjukkan tempat yang diminta agar Yusuf diberi tempat yang baik",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "عَسَىٰٓ",
+      "transliterasi": "ʿasā",
+      "jenis_kata": "Huruf",
+      "arti": "mungkin, harapan",
+      "sharaf": {
+        "akar_kata": "ع س ي",
+        "makna_dasar": "harapan",
+        "wazan_perubahan": "tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "kata pengharapan yang mengawali klausa",
+        "irab_dan_logika": "حرف مبني لا محل له من الإعراب"
+      },
+      "hikmah": "menyiratkan kemungkinan bahwa Yusuf akan bermanfaat atau diadopsi",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "أَن",
+      "transliterasi": "an",
+      "jenis_kata": "Huruf",
+      "arti": "bahwa",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "menyambungkan kalimat subordinatif",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "kata sambung (huruf نصب)",
+        "irab_dan_logika": "حرف نصب يجر الفعل المضارع"
+      },
+      "hikmah": "memperkenalkan klausa yang menyatakan harapan atau kemungkinan",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "يَنفَعَنَآ",
+      "transliterasi": "yanfaʿunā",
+      "jenis_kata": "Fi'il",
+      "arti": "bermanfaat bagi kami",
+      "sharaf": {
+        "akar_kata": "ن ف ع",
+        "makna_dasar": "menjadi manfaat",
+        "wazan_perubahan": "فعل (form I)"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il mudhari' majzum setelah أَن",
+        "irab_dan_logika": "منصوب لأنه جاء بعد أن"
+      },
+      "hikmah": "menyatakan harapan bahwa Yusuf akan memberi manfaat kepada mereka",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "أَوْ",
+      "transliterasi": "aw",
+      "jenis_kata": "Huruf",
+      "arti": "atau",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "menyambungkan alternatif",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "kata hubung (huruf عطف)",
+        "irab_dan_logika": "حرف مبني لا محل له من الإعراب"
+      },
+      "hikmah": "menawarkan pilihan kedua, yaitu mengadopsi Yusuf",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "نَتَّخِذَهُۥ",
+      "transliterasi": "nattakhidhuhu",
+      "jenis_kata": "Fi'il",
+      "arti": "mengambil (dia)",
+      "sharaf": {
+        "akar_kata": "خ ذ ر",
+        "makna_dasar": "mengambil, menahan",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja mudhari‘ majzum (imperatif) yang berfungsi sebagai predikat",
+        "irab_dan_logika": "berharakat fathah pada نَ, sukun pada تّ (shadda), kasrah pada خِ, dhammah pada هُ karena huruf dhamir (objek)"
+      },
+      "hikmah": "menunjukkan keputusan Allah untuk menjadikan Yusuf dipilih dan dipelihara",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "وَلَدًۭا",
+      "transliterasi": "waladan",
+      "jenis_kata": "Isim",
+      "arti": "anak (laki‑laki)",
+      "sharaf": {
+        "akar_kata": "و ل د",
+        "makna_dasar": "kelahiran, keturunan",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "objek (mansub) dari kata kerja نَتَّخِذَهُ",
+        "irab_dan_logika": "diberi harakat fathah karena mansub setelah fi‘il"
+      },
+      "hikmah": "menyiratkan harapan agar Yusuf menjadi anak yang bermanfaat bagi keluarga Mesir",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Huruf",
+      "arti": "tanda jeda",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca yang memisahkan bagian kalimat",
+        "irab_dan_logika": "tidak berirab, berfungsi sebagai pemisah"
+      },
+      "hikmah": "menandakan akhir bagian kalimat dan memberi jeda untuk memahami makna",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "وَكَذَٰلِكَ",
+      "transliterasi": "wa‑kadhālika",
+      "jenis_kata": "Huruf",
+      "arti": "demikian",
+      "sharaf": {
+        "akar_kata": "ذ ل ك",
+        "makna_dasar": "demikian, serupa",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "huruf sambung (ʿatf) yang menghubungkan ayat sebelumnya dengan yang berikutnya",
+        "irab_dan_logika": "berharakat fatha setelah wa karena huruf al‑ʿatf tidak berirab"
+      },
+      "hikmah": "menegaskan bahwa apa yang terjadi pada Yusuf serupa dengan contoh‑contoh lain yang Allah sebutkan",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "مَكَّنَّا",
+      "transliterasi": "makannā",
+      "jenis_kata": "Fi'il",
+      "arti": "menempatkan, memberi kedudukan",
+      "sharaf": {
+        "akar_kata": "ك ن ن",
+        "makna_dasar": "menetapkan, memberi kekuatan",
+        "wazan_perubahan": "فعّل"
+      },
+      "nahwu": {
+        "kedudukan": "fi‘il madhi (past tense) yang dibangun على الفتح",
+        "irab_dan_logika": "berharakat dhammah pada alif akhir karena bentuknya mudhari‘ madhi yang berakhiran alif"
+      },
+      "hikmah": "menunjukkan bahwa Allah menempatkan Yusuf pada posisi yang mulia di Mesir",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "لِيُوسُفَ",
+      "transliterasi": "liyūsufa",
+      "jenis_kata": "Huruf",
+      "arti": "bagi Yusuf",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar (li) + isim (Yūsuf) yang menjadi objek preposisional",
+        "irab_dan_logika": "li berharakat kasrah, Yūsuf berharakat fathah karena menjadi mudhaf (yang dimaksud)"
+      },
+      "hikmah": "menyatakan tujuan Allah menempatkan Yusuf: demi kepentingan dan manfaat Yusuf sendiri",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "فِى",
+      "transliterasi": "fi",
+      "jenis_kata": "Huruf (preposisi)",
+      "arti": "di, dalam",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "preposisi tempat",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf **جر** (preposisi) yang menghubungkan ke *الأرض*",
+        "irab_dan_logika": "مكسور بالكسرة karena berfungsi sebagai جر"
+      },
+      "hikmah": "Menunjukkan lokasi kejadian **di bumi**",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "ۚ",
+      "transliterasi": "sukūn",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda berhenti/istirahat",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "tanda baca",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca di akhir ayat",
+        "irab_dan_logika": "menandakan jeda, tidak berharakat"
+      },
+      "hikmah": "menunjukkan jeda, memberi penekanan pada ayat sebelumnya",
+      "role": "none"
+    },
+    {
+      "index": 25,
+      "kata_arab": "وَاللَّهُ",
+      "transliterasi": "wa-llāhu",
+      "jenis_kata": "Isim (nama Allah) dengan huruf wa",
+      "arti": "dan Allah",
+      "sharaf": {
+        "akar_kata": "ل ه",
+        "makna_dasar": "Allah",
+        "wazan_perubahan": "bentuk marfu' dengan dammah"
+      },
+      "nahwu": {
+        "kedudukan": "mubtada' (subjek) dalam kalimat",
+        "irab_dan_logika": "dammah karena mubtada' marfu'"
+      },
+      "hikmah": "menegaskan kehadiran dan kekuasaan Allah sebagai subjek utama",
+      "role": "none"
+    },
+    {
+      "index": 26,
+      "kata_arab": "غَالِبٌ",
+      "transliterasi": "ghālibun",
+      "jenis_kata": "Isim (isim fa‘il)",
+      "arti": "yang menang",
+      "sharaf": {
+        "akar_kata": "غ ل ب",
+        "makna_dasar": "menang",
+        "wazan_perubahan": "fa‘il"
+      },
+      "nahwu": {
+        "kedudukan": "khabar (predikat)",
+        "irab_dan_logika": "dammah karena khabar marfu'"
+      },
+      "hikmah": "menyatakan Allah sebagai pemenang mutlak",
+      "role": "none"
+    },
+    {
+      "index": 27,
+      "kata_arab": "عَلَىٰ",
+      "transliterasi": "ʿalā",
+      "jenis_kata": "Huruf jar",
+      "arti": "atas",
+      "sharaf": {
+        "akar_kata": "ع ل ي",
+        "makna_dasar": "di atas",
+        "wazan_perubahan": "jar"
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar yang menghubungkan",
+        "irab_dan_logika": "fatha karena jar"
+      },
+      "hikmah": "menunjukkan hubungan tempat atau keadaan",
+      "role": "none"
+    },
+    {
+      "index": 28,
+      "kata_arab": "أَمْرِهِۦ",
+      "transliterasi": "amrihi",
+      "jenis_kata": "Isim majrur dengan i‘raab kasrah",
+      "arti": "urusan-Nya",
+      "sharaf": {
+        "akar_kata": "أ م ر",
+        "makna_dasar": "urusan",
+        "wazan_perubahan": "maf‘ul"
+      },
+      "nahwu": {
+        "kedudukan": "majrur (tergantung pada huruf jar)",
+        "irab_dan_logika": "kasrah karena jar"
+      },
+      "hikmah": "menegaskan bahwa segala urusan berada di bawah kendali Allah",
+      "role": "none"
+    },
+    {
+      "index": 29,
+      "kata_arab": "وَلَٰكِنَّ",
+      "transliterasi": "walākinna",
+      "jenis_kata": "Huruf (wa + lakinna)",
+      "arti": "tetapi",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "menunjukkan pertentangan",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "harf tafā‘ul (kata sambung)",
+        "irab_dan_logika": "tidak berharakat, berfungsi menghubungkan"
+      },
+      "hikmah": "menandai peralihan makna, mengingatkan bahwa meski ada pertentangan, Allah tetap berkuasa",
+      "role": "none"
+    },
+    {
+      "index": 30,
+      "kata_arab": "أَكْثَرَ",
+      "transliterasi": "akthara",
+      "jenis_kata": "Fi'il",
+      "arti": "lebih banyak",
+      "sharaf": {
+        "akar_kata": "ك-ث-ر",
+        "makna_dasar": "banyak, melimpah",
+        "wazan_perubahan": "أَفْعَلَ (form I)"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja utama dalam kalimat",
+        "irab_dan_logika": "fi'il madhi, tidak berharakat i'rab karena bentuk lampau"
+      },
+      "hikmah": "**أَكْثَرَ** menegaskan bahwa mayoritas orang tidak memiliki pengetahuan.",
+      "role": "none"
+    },
+    {
+      "index": 31,
+      "kata_arab": "ٱلنَّاسِ",
+      "transliterasi": "an-nāsi",
+      "jenis_kata": "Isim",
+      "arti": "orang‑orang",
+      "sharaf": {
+        "akar_kata": "ن-و-س",
+        "makna_dasar": "manusia, orang",
+        "wazan_perubahan": "jamak taksir (broken plural)"
+      },
+      "nahwu": {
+        "kedudukan": "muf'ul bihi (objek) dari أَكْثَرَ",
+        "irab_dan_logika": "مجرور بالكسرة لأنّها مفعول به"
+      },
+      "hikmah": "**ٱلنَّاسِ** menunjukkan kelompok besar yang menjadi subjek pengetahuan yang kurang.",
+      "role": "none"
+    },
+    {
+      "index": 32,
+      "kata_arab": "لَا",
+      "transliterasi": "lā",
+      "jenis_kata": "Huruf",
+      "arti": "tidak",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "huruf negasi sebelum fi'il",
+        "irab_dan_logika": "لا إعراب، تنصب الفعل التالي"
+      },
+      "hikmah": "**لَا** menegaskan penolakan terhadap tindakan **يَعْلَمُونَ**.",
+      "role": "none"
+    },
+    {
+      "index": 33,
+      "kata_arab": "يَعْلَمُونَ",
+      "transliterasi": "yaʿlamūna",
+      "jenis_kata": "Fi'il",
+      "arti": "mengetahui",
+      "sharaf": {
+        "akar_kata": "ع-ل-م",
+        "makna_dasar": "pengetahuan, mengetahui",
+        "wazan_perubahan": "يَفْعَلُونَ (form I, jamak maskulin)"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il mudhari‘ marfu‘ bi‑dhammat al‑nasb",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فعل مضارع مرفوع"
+      },
+      "hikmah": "**يَعْلَمُونَ** menyatakan bahwa orang‑orang tersebut tidak memiliki pengetahuan.",
+      "role": "none"
+    }
+  ]
+}

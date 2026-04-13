@@ -1,0 +1,312 @@
+{
+  "surah": 8,
+  "ayah": 47,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "وَلَا",
+      "transliterasi": "wa-lā",
+      "jenis_kata": "Huruf",
+      "arti": "dan tidak",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "negasi",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "huruf عطف ونفي di awal ayat",
+        "irab_dan_logika": "huruf لا berharakat fatha, tidak berubah karena merupakan حرف نفي"
+      },
+      "hikmah": "menyatakan larangan untuk tidak menjadi seperti yang dilarang",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "تَكُونُوا۟",
+      "transliterasi": "takūnū",
+      "jenis_kata": "Fi'il",
+      "arti": "kamu menjadi",
+      "sharaf": {
+        "akar_kata": "ك و ن",
+        "makna_dasar": "ada, eksistensi",
+        "wazan_perubahan": "فعل مضارع مرفوع"
+      },
+      "nahwu": {
+        "kedudukan": "verb predikat setelah لا",
+        "irab_dan_logika": "مرفوع بالضمة الظاهرة على الواو لأن الفعل مضارع مرفوع"
+      },
+      "hikmah": "menegaskan keadaan yang harus dihindari",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "كَٱلَّذِينَ",
+      "transliterasi": "kā-allaadhīna",
+      "jenis_kata": "Huruf+Isim",
+      "arti": "seperti orang‑orang yang",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "kata ganti relatif",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "حرف تشبيه + اسم موصول في محل جر",
+        "irab_dan_logika": "الذين مجرور بالكسرة لأنه تابع لحرف التشبيه ك"
+      },
+      "hikmah": "menunjukkan perbandingan dengan kelompok tertentu",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "خَرَجُوا۟",
+      "transliterasi": "kharajū",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka keluar",
+      "sharaf": {
+        "akar_kata": "خ ر ج",
+        "makna_dasar": "keluar, meninggalkan tempat",
+        "wazan_perubahan": "فعل ماضٍ ثلاثي مجرد"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ماضٍ مبني على الفتح",
+        "irab_dan_logika": "مرفوع بالضمة الظاهرة على الواو لأن الفعل ماضٍ"
+      },
+      "hikmah": "menyiratkan tindakan orang‑orang yang meninggalkan kampung",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "مِن",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "menunjukkan asal",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر يسبق الاسم",
+        "irab_dan_logika": "ليس له إعراب، يجر ما بعده"
+      },
+      "hikmah": "menunjukkan sumber atau tempat asal",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "بَطَرًۭا",
+      "transliterasi": "baṭaran",
+      "jenis_kata": "Isim",
+      "arti": "kesombongan, keangkuhan",
+      "sharaf": {
+        "akar_kata": "ب ط ر",
+        "makna_dasar": "bataar – keadaan sombong",
+        "wazan_perubahan": "فَعْلًا"
+      },
+      "nahwu": {
+        "kedudukan": "objek (مفعول به) dari فعل خَرَجُوا",
+        "irab_dan_logika": "منصوب بالفتحة لأنه مفعول به منصوب"
+      },
+      "hikmah": "**Hikmah:** menegaskan bahwa sikap angkuh menutup hati dari petunjuk Allah.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "وَرِئَآءَ",
+      "transliterasi": "wa riʾāʾa",
+      "jenis_kata": "Isim",
+      "arti": "depan, muka",
+      "sharaf": {
+        "akar_kata": "ر أ ي",
+        "makna_dasar": "riʾāʾ – bagian depan, muka",
+        "wazan_perubahan": "فِعَال"
+      },
+      "nahwu": {
+        "kedudukan": "keterangan tempat (ظرف مكان) yang melengkapi فعل خَرَجُوا",
+        "irab_dan_logika": "منصوب بالفتحة لأنه مضاف إلى الفعل"
+      },
+      "hikmah": "**Hikmah:** menyoroti posisi mereka yang menempatkan diri di depan orang lain dengan sikap sombong.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "ٱلنَّاسِ",
+      "transliterasi": "an-nāsi",
+      "jenis_kata": "Isim",
+      "arti": "orang‑orang",
+      "sharaf": {
+        "akar_kata": "ن و س",
+        "makna_dasar": "manusia, umat",
+        "wazan_perubahan": "مَفْعُول"
+      },
+      "nahwu": {
+        "kedudukan": "مجرور بحرف الجر رِئَاءَ",
+        "irab_dan_logika": "مجرور بالكسرة لأنه بعد حرف الجر"
+      },
+      "hikmah": "**Hikmah:** menegaskan bahwa orang‑orang itu adalah target yang dapat terhalang jalannya oleh kesombongan.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "وَيَصُدُّونَ",
+      "transliterasi": "wa yaṣuddūna",
+      "jenis_kata": "Fiʿil",
+      "arti": "mereka menghalangi",
+      "sharaf": {
+        "akar_kata": "ص د د",
+        "makna_dasar": "menyudahi, menghalangi",
+        "wazan_perubahan": "فَعَّل"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع، فاعل ضمير مستتر تقديره هم",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فعل مضارع مرفوع"
+      },
+      "hikmah": "**Hikmah:** tindakan menghalangi jalan Allah merupakan konsekuensi dari sikap angkuh.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "عَن",
+      "transliterasi": "ʿan",
+      "jenis_kata": "Huruf",
+      "arti": "dari, tentang",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر",
+        "irab_dan_logika": "حرف جر يجر ما بعده"
+      },
+      "hikmah": "**Hikmah:** preposisi ini menandakan pemisahan antara tindakan menghalangi dan jalan Allah.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "سَبِيلِ",
+      "transliterasi": "sabīli",
+      "jenis_kata": "Isim",
+      "arti": "jalan, cara",
+      "sharaf": {
+        "akar_kata": "س ب ل",
+        "makna_dasar": "jalan, cara",
+        "wazan_perubahan": "فَعِل"
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "ٱللَّهِ",
+      "transliterasi": "Allāhi",
+      "jenis_kata": "Isim (nama Allah)",
+      "arti": "Allah, Tuhan Yang Maha Esa",
+      "sharaf": {
+        "akar_kata": "أ ل ه",
+        "makna_dasar": "ilah (dewa)",
+        "wazan_perubahan": "فَعْل (bentuk isim al‑Ilāh)"
+      },
+      "nahwu": {
+        "kedudukan": "Kata benda (isim) yang berada dalam posisi majrur karena berkasrah, biasanya sebagai objek preposisi atau setelah huruf جر",
+        "irab_dan_logika": "مجرور بالكسرة الظاهرة، علامة الجر من حرف الجر أو من الظرف"
+      },
+      "hikmah": "Menegaskan bahwa segala sesuatu berada di bawah pengawasan Allah; Allah meliputi segala perbuatan manusia secara menyeluruh.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda baca)",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda berhenti (fasl)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Tidak memiliki i‘rāb, berfungsi sebagai pemisah ayat",
+        "irab_dan_logika": "Tanda baca tidak terinfleksi, menandakan jeda atau akhir kalimat"
+      },
+      "hikmah": "Memberi jeda bagi pembaca untuk merenungkan makna sebelumnya sebelum melanjutkan ke bagian selanjutnya.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "وَٱللَّهُ",
+      "transliterasi": "wa‑Allāhu",
+      "jenis_kata": "Isim (nama Allah) dengan huruf wa",
+      "arti": "dan Allah",
+      "sharaf": {
+        "akar_kata": "أ ل ه",
+        "makna_dasar": "ilah (dewa)",
+        "wazan_perubahan": "فَعْل (bentuk isim al‑Ilāh)"
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada' (subjek) dalam kalimat, مرفوع بالضمة",
+        "irab_dan_logika": "مرفوع بالضمة لأنه اسم مرفوع بالواو للربط"
+      },
+      "hikmah": "Allah menjadi subjek utama yang menegaskan kehadiran dan kekuasaan-Nya dalam pernyataan selanjutnya.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "بِمَا",
+      "transliterasi": "bi‑mā",
+      "jenis_kata": "Huruf (jar) + ism",
+      "arti": "dengan apa / atas apa",
+      "sharaf": {
+        "akar_kata": "ب",
+        "makna_dasar": "preposisi ‘bi’ (dengan)",
+        "wazan_perubahan": "حرف جر"
+      },
+      "nahwu": {
+        "kedudukan": "Jar (majrur) karena huruf جر",
+        "irab_dan_logika": "مجرور بالكسرة لأنه حرف جر يربط بين الفعل والاسم"
+      },
+      "hikmah": "Menunjukkan hubungan sebab‑akibat, yaitu apa yang Allah meliputi adalah segala sesuatu yang mereka kerjakan.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "يَعْمَلُونَ",
+      "transliterasi": "ya‘malūna",
+      "jenis_kata": "Fi‘il (verb) mudhari‘ (present) 3rd person masculine plural",
+      "arti": "mereka bekerja / melakukan",
+      "sharaf": {
+        "akar_kata": "ع م ل",
+        "makna_dasar": "bekerja, melakukan",
+        "wazan_perubahan": "فَعَلَ (bentuk fi‘il mudhari‘)"
+      },
+      "nahwu": {
+        "kedudukan": "Predikat (fi‘il) dalam kalimat, مرفوع بالضمة",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فعل مضارع مرفوع بالضمة للثبوت"
+      },
+      "hikmah": "Menegaskan bahwa segala perbuatan manusia berada dalam lingkup pengetahuan Allah yang meliputi semuanya.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "مُحِيطٌ",
+      "transliterasi": "muḥīṭun",
+      "jenis_kata": "Isim (isim maf‘ul) atau sifat",
+      "arti": "yang meliputi, yang mengelilingi",
+      "sharaf": {
+        "akar_kata": "ح و ط",
+        "makna_dasar": "mengelilingi, meliputi",
+        "wazan_perubahan": "مُفَعِل"
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    }
+  ]
+}

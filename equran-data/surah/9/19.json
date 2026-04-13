@@ -1,0 +1,330 @@
+{
+  "surah": 9,
+  "ayah": 19,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "أَجَعَلْتُمْ",
+      "transliterasi": "ajʿaltum",
+      "jenis_kata": "Fi'il",
+      "arti": "menjadikan",
+      "sharaf": {
+        "akar_kata": "ج ع ل",
+        "makna_dasar": "menetapkan, menjadikan",
+        "wazan_perubahan": "فعل مجرد (form I)"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja utama (verb) di awal ayat",
+        "irab_dan_logika": "مرفوع بالضمة لأن الفعل الماضي يُرفع بالضمة"
+      },
+      "hikmah": "*Menunjukkan tindakan menilai atau menganggap sesuatu sebagai sesuatu yang setara*",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "سِقَايَةَ",
+      "transliterasi": "siqāyah",
+      "jenis_kata": "Isim",
+      "arti": "minuman, pemberian air",
+      "sharaf": {
+        "akar_kata": "س ق ي",
+        "makna_dasar": "menyirami, memberi minum",
+        "wazan_perubahan": "مصدر (masdar) bentuk I"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به للفعل أَجَعَلْتُمْ",
+        "irab_dan_logika": "منصوب بالفتحة لأن الفعل المتعدي يحتاج مفعولاً به"
+      },
+      "hikmah": "*Mengacu pada tindakan memberi minum kepada orang yang menunaikan haji*",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "الْحَاجِّ",
+      "transliterasi": "al-ḥājj",
+      "jenis_kata": "Isim",
+      "arti": "orang yang menunaikan haji",
+      "sharaf": {
+        "akar_kata": "ح ج ج",
+        "makna_dasar": "menjalankan haji",
+        "wazan_perubahan": "فاعل من الفعل المزيد (حَجَّ)"
+      },
+      "nahwu": {
+        "kedudukan": "مضاف إليه لسِقَايَةَ",
+        "irab_dan_logika": "مجرور بالكسرة لأنه مضاف إليه"
+      },
+      "hikmah": "*Menyiratkan kelompok orang yang sedang menunaikan ibadah haji*",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "وَعِمَارَةَ",
+      "transliterasi": "waʿimārah",
+      "jenis_kata": "Huruf + Isim",
+      "arti": "dan (bangunan) pembangunan",
+      "sharaf": {
+        "akar_kata": "ع م ر",
+        "makna_dasar": "membangun",
+        "wazan_perubahan": "مصدر (masdar) من الفعل عَمَرَ"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به ثانٍ مضاف إلى سِقَايَةَ مع عطف (و)",
+        "irab_dan_logika": "منصوب بالفتحة لأن الفعل أَجَعَلْتُمْ يَتَطَلَّبُ مفعولين"
+      },
+      "hikmah": "*Menunjukkan tindakan membangun atau memperbaiki Masjid al‑Harām*",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "الْمَسْجِدِ",
+      "transliterasi": "al-masjidi",
+      "jenis_kata": "Isim",
+      "arti": "masjid",
+      "sharaf": {
+        "akar_kata": "س ج د",
+        "makna_dasar": "tempat sujud",
+        "wazan_perubahan": "اسم مصدر من الفعل المضعّف (سَجَدَ)"
+      },
+      "nahwu": {
+        "kedudukan": "مضاف إليه للعبارة الْحَرَامِ",
+        "irab_dan_logika": "مجرور بالكسرة لأنه مضاف إليه"
+      },
+      "hikmah": "*Merujuk pada bangunan tempat ibadah utama di Mekah*",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "الْحَرَامِ",
+      "transliterasi": "al-ḥarām",
+      "jenis_kata": "Isim",
+      "arti": "yang haram, tempat suci",
+      "sharaf": {
+        "akar_kata": "ح ر م",
+        "makna_dasar": "diharamkan, suci",
+        "wazan_perubahan": "اسم مصدر (masdar) من الفعل حَرَّمَ"
+      },
+      "nahwu": {
+        "kedudukan": "جزء من الإضافة (الْمَسْجِدِ الْحَرَامِ)",
+        "irab_dan_logika": "مجرور بالكسرة لأنه مضاف إليه"
+      },
+      "hikmah": "*Menandakan Masjid al‑Harām, tempat suci yang paling utama dalam Islam*",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "كَمَنْ",
+      "transliterasi": "ka‑man",
+      "jenis_kata": "Huruf (حرف تشبيه)",
+      "arti": "seperti (orang) yang",
+      "sharaf": {
+        "akar_kata": "ك",
+        "makna_dasar": "menunjuk perbandingan",
+        "wazan_perubahan": "tidak ada (huruf)"
+      },
+      "nahwu": {
+        "kedudukan": "حرف تشبيه يسبق جملة فعلية",
+        "irab_dan_logika": "حرف مشبه لا يُعرب، يُنطق بكَـ ثم مَنْ مكسور لتكوين معنى \"seperti\""
+      },
+      "hikmah": "*كَمَنْ* menegaskan perbandingan antara orang yang memberi minum haji dengan orang beriman, menekankan bahwa keduanya tidak setara.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "ءَامَنَ",
+      "transliterasi": "āmana",
+      "jenis_kata": "Fi'il (verb)",
+      "arti": "percaya",
+      "sharaf": {
+        "akar_kata": "أ م ن",
+        "makna_dasar": "amanah = kepercayaan, ketenangan",
+        "wazan_perubahan": "فعل ماضٍ ثلاثي مجرد"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ماضٍ مبني على الفتح",
+        "irab_dan_logika": "الفعل مرفوع بالضمة لأنه فعل ماضٍ لا يتأثر بالإعراب"
+      },
+      "hikmah": "*ءَامَنَ* menandakan keyakinan hati yang tulus kepada Allah, inti dari keimanan yang dibicarakan.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "بِٱللَّهِ",
+      "transliterasi": "bi‑llāhi",
+      "jenis_kata": "Huruf (حرف جر) + Isim (اسم علم)",
+      "arti": "dengan Allah",
+      "sharaf": {
+        "akar_kata": "ل ه",
+        "makna_dasar": "menyebut nama Allah",
+        "wazan_perubahan": "ليس له وزن لأنّه حرف جر"
+      },
+      "nahwu": {
+        "kedudukan": "جار ومجرور متعلق بـ \"ءَامَنَ\"",
+        "irab_dan_logika": "حرف الجر بِ يجر الاسم بعده، فالاسم مجرور بالكسرة"
+      },
+      "hikmah": "*بِٱللَّهِ* menegaskan bahwa keimanan itu ditujukan kepada Allah semata, bukan sekadar formalitas.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "وٱلْيَوْمِ",
+      "transliterasi": "wa‑al‑yawmi",
+      "jenis_kata": "Huruf (واو العطف) + Isim",
+      "arti": "dan hari",
+      "sharaf": {
+        "akar_kata": "ي و م",
+        "makna_dasar": "waktu harian",
+        "wazan_perubahan": "اسم مجرد"
+      },
+      "nahwu": {
+        "kedudukan": "معطوف على \"بِٱللَّهِ\" في جملة الجر",
+        "irab_dan_logika": "الواو حرف عطف لا يُعرب، واليوم مجرور بالكسرة لأنه تابع للجر"
+      },
+      "hikmah": "*وٱلْيَوْمِ* menambah dimensi waktu, menegaskan keimanan mencakup hari ini dan masa depan.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "ٱلْءَاخِرِ",
+      "transliterasi": "al‑ākhiri",
+      "jenis_kata": "Isim (اسم)",
+      "arti": "yang akhir",
+      "sharaf": {
+        "akar_kata": "أ خ ر",
+        "makna_dasar": "akhir, akhirat",
+        "wazan_perubahan": "اسم مضاف"
+      },
+      "nahwu": {
+        "kedudukan": "مضاف إليه في إِضافة \"ٱلْيَوْمِ ٱلْءَاخِرِ\"",
+        "irab_dan_logika": "مجرور بالكسرة لأنه مضاف إليه"
+      },
+      "hikmah": "*ٱلْءَاخِرِ* memperluas konsep keimanan hingga akhir zaman, menegaskan keyakinan pada kehidupan setelah mati.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "وَجَٰهَدَ",
+      "transliterasi": "wa‑jāhada",
+      "jenis_kata": "Fi'il (verb)",
+      "arti": "dan berjihad",
+      "sharaf": {
+        "akar_kata": "ج ه د",
+        "makna_dasar": "berusaha, berjuang di jalan Allah",
+        "wazan_perubahan": "فعل ماضٍ ثلاثي مجرد"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ماضٍ معطوف على \"ءَامَنَ\"",
+        "irab_dan_logika": "الفعل مرفوع بالضمة لأنه فعل ماضٍ"
+      },
+      "hikmah": "*وَجَٰهَدَ* menegaskan bahwa keimanan harus disertai usaha nyata di jalan Allah, bukan sekadar lafaz.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "فِى",
+      "transliterasi": "fi",
+      "jenis_kata": "Huruf (Preposisi)",
+      "arti": "di, dalam",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "menunjukkan tempat atau keadaan",
+        "wazan_perubahan": "tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar yang menghubungkan dengan isim *sabeeli*",
+        "irab_dan_logika": "Berharakat kasrah karena berfungsi sebagai huruf jar, menuntut isim ber‑i‘rāb majrūr"
+      },
+      "hikmah": "*Fi* menandakan bahwa perbuatan berada dalam konteks “jalan Allah”, menegaskan ruang lingkup tindakan.",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "عِندَ",
+      "transliterasi": "ʿinda",
+      "jenis_kata": "Huruf (jar)",
+      "arti": "di, pada, dekat",
+      "sharaf": {
+        "akar_kata": "ع-ن-د",
+        "makna_dasar": "berada dekat, memiliki kedekatan",
+        "wazan_perubahan": "tidak ada (kata dasar)"
+      },
+      "nahwu": {
+        "kedudukan": "Harf jar yang menghubungkan dengan isim \"اللَّهِ\"",
+        "irab_dan_logika": "Majrur karena setelah huruf jar, berkasrah pada \"اللَّهِ\""
+      },
+      "hikmah": "Menunjukkan kedekatan atau keberadaan seseorang/sesuatu di sisi Allah.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "ٱللَّهِ",
+      "transliterasi": "Allāh",
+      "jenis_kata": "Isim (nama Allah)",
+      "arti": "Tuhan",
+      "sharaf": {
+        "akar_kata": "أ-ل-ه (nama khusus)",
+        "makna_dasar": "Nama Tuhan yang Maha Esa",
+        "wazan_perubahan": "tidak berubah"
+      },
+      "nahwu": {
+        "kedudukan": "Isim majrur setelah huruf jar \"عِندَ\"",
+        "irab_dan_logika": "Berharakat kasrah karena majrur"
+      },
+      "hikmah": "Menegaskan bahwa Allah adalah tujuan atau tempat kedekatan yang dimaksud.",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "ۗ",
+      "transliterasi": "(tanda ayat)",
+      "jenis_kata": "Isyarat (tanda baca)",
+      "arti": "tanda akhir ayat",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "menandai selesai satu bagian ayat",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Penanda akhir ayat, tidak berfungsi dalam nahwu",
+        "irab_dan_logika": "Tidak memiliki i'rab"
+      },
+      "hikmah": "Memberi jeda dan menandai batas bacaan.",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "ٱلْقَوْمَ",
+      "transliterasi": "al‑qawma",
+      "jenis_kata": "Isim (isim mafʿūl)",
+      "arti": "orang‑orang, kaum",
+      "sharaf": {
+        "akar_kata": "ق‑و‑م",
+        "makna_dasar": "berdiri, menjadi kelompok, kaum",
+        "wazan_perubahan": "فَعَل → قَوْم (isim)"
+      },
+      "nahwu": {
+        "kedudukan": "objek (mafʿūl) dari kata kerja «samakan» atau dalam perbandingan «ashaddu»",
+        "irab_dan_logika": "Berakhiran fathah karena berfungsi sebagai mafʿūl (accusative)"
+      },
+      "hikmah": "Menunjukkan bahwa orang‑orang yang diberi minum (atau yang melakukan haji) tidak setara dengan kaum yang beriman; mereka berbeda derajat di sisi Allah.",
+      "role": "none"
+    },
+    {
+      "index": 25,
+      "kata_arab": "ٱلظَّٰلِمِينَ",
+      "transliterasi": "al‑ẓālimīna",
+      "jenis_kata": "Isim (isim mufʿal) jamak maskulin sahih",
+      "arti": "orang‑orang yang zalim, penindas",
+      "sharaf": {
+        "akar_kata": "ظ‑ل‑م",
+        "makna_dasar": "menindas, melakukan kezaliman",
+        "wazan_perubahan": "فَعِل → ظَالِم (isim faʿil) → الظَّالِمِينَ (jamak)"
+      },
+      "nahwu": {
+        "kedudukan": "objek (mafʿūl) dalam kalimat, biasanya berpasangan dengan «الْقَوْمَ» dalam perbandingan",
+        "irab_dan_logika": "Berakhiran kasrah + nun karena bentuk jamak berakhar (accusative/genitive)."
+      },
+      "hikmah": "Menggambarkan kelompok yang melakukan kezaliman; mereka tidak akan mendapat petunjuk Allah sebagaimana orang beriman, menegaskan perbedaan nasib di akhirat.",
+      "role": "none"
+    }
+  ]
+}
