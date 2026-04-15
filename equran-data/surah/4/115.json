@@ -1,0 +1,330 @@
+{
+  "surah": 4,
+  "ayah": 115,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "وَمَن",
+      "transliterasi": "wa‑man",
+      "jenis_kata": "Isim (اسم موصول) dengan huruf عطف \"wa\"",
+      "arti": "dan siapa",
+      "sharaf": {
+        "akar_kata": "م‑ن",
+        "makna_dasar": "siapa, orang yang",
+        "wazan_perubahan": "مَنْ (isim mawsul)"
+      },
+      "nahwu": {
+        "kedudukan": "اسم موصول مبني على الضمة في محل رفع مبتدأ",
+        "irab_dan_logika": "مرفوع بالضمة لأنّه اسم موصول يسبق الفعل"
+      },
+      "hikmah": "menunjukkan subjek siapa saja yang menentang Rasul",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "يُشَاقِقِ",
+      "transliterasi": "yushāqiqu",
+      "jenis_kata": "Fi'il (verb) bentuk mudhari‘ majzum",
+      "arti": "menentang, melawan",
+      "sharaf": {
+        "akar_kata": "ش‑ق‑ق",
+        "makna_dasar": "menentang, berselisih",
+        "wazan_perubahan": "فَعَلَ (form III) dengan prefiks yu‑ dan akhiran i"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مجزوم بحرف شرط \"من\"",
+        "irab_dan_logika": "مجزوم بالكسرة لأنّه يأتي بعد اسم شرط"
+      },
+      "hikmah": "menyiratkan tindakan menentang secara sengaja",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "الرَّسُولَ",
+      "transliterasi": "ar‑rasūla",
+      "jenis_kata": "Isim (nama benda) معرف بأل",
+      "arti": "rasul, utusan",
+      "sharaf": {
+        "akar_kata": "ر‑س‑ل",
+        "makna_dasar": "mengirim pesan, utusan",
+        "wazan_perubahan": "فَعُول (isim fa‘ūl)"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به للفعل \"يُشَاقِقِ\"",
+        "irab_dan_logika": "منصوب بالفتحة لأنه مفعول به"
+      },
+      "hikmah": "menunjukkan objek yang ditentang: sang Rasul",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "مِن",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf (preposisi)",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر يسبق اسمًا",
+        "irab_dan_logika": "حرف جر لا يتصرف، يجر ما بعده"
+      },
+      "hikmah": "menunjukkan sumber atau waktu setelah",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "بَعْدِ",
+      "transliterasi": "ba‘di",
+      "jenis_kata": "Isim (kata benda) ظرف زمان",
+      "arti": "sesudah",
+      "sharaf": {
+        "akar_kata": "ب‑ع‑د",
+        "makna_dasar": "setelah, sesudah",
+        "wazan_perubahan": "اسم ظرف زمان من الفعل \"بَعْدَ\""
+      },
+      "nahwu": {
+        "kedudukan": "اسم مجرور بحرف الجر \"من\"",
+        "irab_dan_logika": "مجرور بالكسرة لأنه تابع لحرف الجر"
+      },
+      "hikmah": "menandakan waktu setelah sesuatu",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "مَا",
+      "transliterasi": "mā",
+      "jenis_kata": "Huruf (kata sambung) atau اسم موصول",
+      "arti": "apa, yang",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "اسم موصول مبني على السكون في محل نصب مفعول به",
+        "irab_dan_logika": "منصوب بالفتحة (مَا) لأنه مفعول به للفعل \"تَبَيَّنَ\""
+      },
+      "hikmah": "menunjuk pada hal yang telah jelas kebenarannya",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "تَبَيَّنَ",
+      "transliterasi": "tabayyana",
+      "jenis_kata": "Fi'il",
+      "arti": "menjadi jelas, terbukti",
+      "sharaf": {
+        "akar_kata": "ب ي ن",
+        "makna_dasar": "jelas, terang",
+        "wazan_perubahan": "تَفَعَّل"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il madhi (verb past) sebagai predikat utama",
+        "irab_dan_logika": "مرفوع بالضمة لأن الفعل الماضي مرفوع بالضمة"
+      },
+      "hikmah": "menunjukkan bahwa petunjuk telah menjadi jelas bagi orang tersebut",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "لَهُ",
+      "transliterasi": "lahu",
+      "jenis_kata": "Huruf",
+      "arti": "bagi dia",
+      "sharaf": {
+        "akar_kata": "ل",
+        "makna_dasar": "untuk, kepada",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "huruf جر + ضمير متصل، يجرّ الاسم التالي",
+        "irab_dan_logika": "جرّ بحرف لِ، والضمير المتصل في محل جر"
+      },
+      "hikmah": "menunjukkan kepemilikan atau tujuan petunjuk itu ditujukan kepada orang itu",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "ٱلْهُدَىٰ",
+      "transliterasi": "al‑hudā",
+      "jenis_kata": "Isim",
+      "arti": "petunjuk, bimbingan",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "ٱلْمُؤْمِنِينَ",
+      "transliterasi": "al‑muʾminīna",
+      "jenis_kata": "Isim",
+      "arti": "orang‑orang yang beriman",
+      "sharaf": {
+        "akar_kata": "أ م ن",
+        "makna_dasar": "amanah, beriman",
+        "wazan_perubahan": "faʿīl jamīʿ (مُؤْمِنُون) → مُؤْمِنِينَ"
+      },
+      "nahwu": {
+        "kedudukan": "mudhaf ilaih (genitif) setelah kata «ال» dalam frasa «طريق المؤمنين»",
+        "irab_dan_logika": "dengan kasrah pada آخر الكلمة karena berfungsi sebagai mudhaf ilaih"
+      },
+      "hikmah": "menunjukkan kelompok umat beriman yang menjadi standar kebenaran dalam ayat",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "نُوَلِّهِۦ",
+      "transliterasi": "nuwallīhi",
+      "jenis_kata": "Fiʿil",
+      "arti": "Kami memberi (kepadanya)",
+      "sharaf": {
+        "akar_kata": "و ل ي",
+        "makna_dasar": "mengatur, melimpahkan, memberi",
+        "wazan_perubahan": "faʿala (bentuk I) dengan shadda pada lam"
+      },
+      "nahwu": {
+        "kedudukan": "fiʿl muḍāriʿ مرفوع بالضمة، والضمير المتصل «‑هِ» مفعول به غير مباشر",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "menyiratkan keputusan Allah yang memberi balasan atau karunia kepada orang yang menentang Rasul",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "مَا",
+      "transliterasi": "",
+      "jenis_kata": "Huruf",
+      "arti": "apa / tidak",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "kata tanya/penafian",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "isim mā منصوب (نصب) لأنه مفعول به للفعل «نُوَلِّهِ»",
+        "irab_dan_logika": "حركة الفتحة على آخره لأنّها مفعول به"
+      },
+      "hikmah": "menunjukkan hal yang tidak diberikan atau tidak dimiliki oleh orang yang menentang",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "تَوَلَّىٰ",
+      "transliterasi": "",
+      "jenis_kata": "Fiʿil",
+      "arti": "menyimpang, berpaling",
+      "sharaf": {
+        "akar_kata": "و ل ي",
+        "makna_dasar": "mengalihkan, berpaling",
+        "wazan_perubahan": "faʿʿala (bentuk I) dengan shadda"
+      },
+      "nahwu": {
+        "kedudukan": "fiʿl māḍī مَبْنِيّ على الفتح، والفاعل ضمير مستتر تقديره هو",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "menyiratkan tindakan berpaling dari kebenaran setelah jelas kepadanya",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "وَنُصْلِهِۦ",
+      "transliterasi": "",
+      "jenis_kata": "Fiʿil",
+      "arti": "dan Kami bakar (dia)",
+      "sharaf": {
+        "akar_kata": "ص ل ي",
+        "makna_dasar": "membakar, menghanguskan",
+        "wazan_perubahan": "faʿala (bentuk I)"
+      },
+      "nahwu": {
+        "kedudukan": "fiʿl muḍāriʿ مرفوع بالضمة، والواو حرف عطف، والضمير المتصل «‑هِ» مفعول به",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "menunjukkan azab yang akan ditimpakan berupa pembakaran di neraka",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "جَهَنَّمَ",
+      "transliterasi": "",
+      "jenis_kata": "Isim",
+      "arti": "neraka",
+      "sharaf": {
+        "akar_kata": "ج ه ن",
+        "makna_dasar": "tempat yang sangat panas, siksaan",
+        "wazan_perubahan": "isim maṣdar (جَهَنَّم)"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به للفعل «نُصْلِهِ» منصوب بالفتحة",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "ۖ",
+      "transliterasi": "sukun (tanda waqf)",
+      "jenis_kata": "Huruf",
+      "arti": "**tanda berhenti** dalam bacaan Al‑Qur'an",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "**tanda waqf** yang mengakhiri ayat atau bagian kalimat",
+        "irab_dan_logika": "Tidak memiliki i‘rāb karena merupakan **harf**; berfungsi memberi jeda dan menegaskan pemisahan"
+      },
+      "hikmah": "Menunjukkan **henti** untuk memberi ruang refleksi sebelum melanjutkan ayat",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "وَسَآءَتْ",
+      "transliterasi": "wa‑sāʾat",
+      "jenis_kata": "Fiʿil (verb) dengan huruf wa (و) sebagai huruf sambung",
+      "arti": "dan (itu) menjadi buruk",
+      "sharaf": {
+        "akar_kata": "س‑و‑ء",
+        "makna_dasar": "buruk, jahat, tidak baik",
+        "wazan_perubahan": "فَعَلَ (faʿala) – bentuk lampau"
+      },
+      "nahwu": {
+        "kedudukan": "predikat (fiʿil) dalam kalimat, menghubungkan subjek tak tersurat (kufr) dengan objek *مَصِيرًا*",
+        "irab_dan_logika": "fiʿil madhi orang ketiga perempuan tunggal, berakhiran **تْ** menandakan bentuk lampau; tidak ber‑irab karena verba tidak memiliki kasus"
+      },
+      "hikmah": "**وَسَآءَتْ** menegaskan bahwa menentang Rasul *menjadi sesuatu yang buruk* dan menjerumuskan pada kerusakan moral.",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "مَصِيرًا",
+      "transliterasi": "maṣīran",
+      "jenis_kata": "Isim (kata benda)",
+      "arti": "nasib, akhir, tujuan yang buruk",
+      "sharaf": {
+        "akar_kata": "ص‑و‑ر",
+        "makna_dasar": "tempat tujuan, takdir, nasib",
+        "wazan_perubahan": "مَفْعَل (mafaʿal)"
+      },
+      "nahwu": {
+        "kedudukan": "objek (mansūb) dari fiʿil **سَآءَتْ**",
+        "irab_dan_logika": "mansūb dengan tanwīn ً karena menjadi mafʿūl bi‑al‑ḥarf; menandakan bahwa kata ini merupakan tujuan atau hasil dari tindakan yang disebutkan"
+      },
+      "hikmah": "**مَصِيرًا** menggambarkan *akhir yang buruk* atau *takdir yang sengsara* bagi orang yang menentang kebenaran.",
+      "role": "none"
+    }
+  ]
+}

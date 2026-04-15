@@ -1,0 +1,438 @@
+{
+  "surah": 9,
+  "ayah": 42,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "لَوْ",
+      "transliterasi": "law",
+      "jenis_kata": "Huruf",
+      "arti": "jika",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "kata penghubung bersyarat",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "حرف شرط",
+        "irab_dan_logika": "مبني على السكون لا يتغير بحكم موقعه"
+      },
+      "hikmah": "menunjukkan syarat hipotetik yang menjadi dasar kalimat",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "كَانَ",
+      "transliterasi": "kaana",
+      "jenis_kata": "Fi'il",
+      "arti": "adalah",
+      "sharaf": {
+        "akar_kata": "ك-و-ن",
+        "makna_dasar": "menyatakan keberadaan atau keadaan",
+        "wazan_perubahan": "فعل ماض"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ناقص",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فعل ناقص يسبق المفعول به"
+      },
+      "hikmah": "menegaskan keadaan yang akan diikuti oleh objek-objek selanjutnya",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "عَرَضًۭا",
+      "transliterasi": "ʿaraḍan",
+      "jenis_kata": "Isim",
+      "arti": "keuntungan, sesuatu yang mudah didapat",
+      "sharaf": {
+        "akar_kata": "ع-ر-ض",
+        "makna_dasar": "sesuatu yang ditawarkan atau mudah diperoleh",
+        "wazan_perubahan": "اسم مفعول"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به لكان",
+        "irab_dan_logika": "منصوب بالفتحة وعلامة النصب تنوين لأنه مفعول به"
+      },
+      "hikmah": "menyiratkan tawaran yang bersifat ringan dan mudah",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "قَرِيبًۭا",
+      "transliterasi": "qarīban",
+      "jenis_kata": "Isim",
+      "arti": "dekat",
+      "sharaf": {
+        "akar_kata": "ق-ر-ب",
+        "makna_dasar": "kedekatan dalam jarak atau waktu",
+        "wazan_perubahan": "اسم صفة"
+      },
+      "nahwu": {
+        "kedudukan": "صفة منصوبة لِعَرَضًۭا",
+        "irab_dan_logika": "منصوب بالفتحة وعلامة النصب تنوين لأنه صفة مرفوعة"
+      },
+      "hikmah": "menegaskan bahwa keuntungan itu bersifat dekat dan tidak memakan waktu lama",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "وَسَفَرًۭا",
+      "transliterasi": "wa-safar-an",
+      "jenis_kata": "Isim",
+      "arti": "perjalanan",
+      "sharaf": {
+        "akar_kata": "س-ف-ر",
+        "makna_dasar": "pergerakan dari satu tempat ke tempat lain",
+        "wazan_perubahan": "اسم مفعول"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به لكان (kedua)",
+        "irab_dan_logika": "منصوب بالفتحة وعلامة النصب تنوين لأنه مفعول به"
+      },
+      "hikmah": "menambah unsur perjalanan yang juga mudah dan tidak jauh",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "قَاصِدًۭا",
+      "transliterasi": "",
+      "jenis_kata": "Isim",
+      "arti": "yang dituju, tujuan",
+      "sharaf": {
+        "akar_kata": "ق-ص-د",
+        "makna_dasar": "niat atau tujuan menuju sesuatu",
+        "wazan_perubahan": "اسم صفة"
+      },
+      "nahwu": {
+        "kedudukan": "صفة منصوبة لِسَفَرًۭا",
+        "irab_dan_logika": "منصوب بالفتحة وعلامة النصب تنوين لأنه صفة مرفوعة"
+      },
+      "hikmah": "menunjukkan bahwa tujuan perjalanan itu terasa sangat jauh bagi mereka",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "لَّٱتَّبَعُوكَ",
+      "transliterasi": "la-ttaba‘ūka",
+      "jenis_kata": "Fi'il",
+      "arti": "*mereka mengikutimu* (dengan makna syarat \"jika mereka mengikutimu\")",
+      "sharaf": {
+        "akar_kata": "ت ب ع",
+        "makna_dasar": "mengikuti",
+        "wazan_perubahan": "فَعَلَ (dengan prefiks اِـ) → اتَّبَعَ"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il maṣdar dalam klausa syarat (lam al‑jar)",
+        "irab_dan_logika": "مرفوع بالضمة الظاهرة على واو الفاعل، والكسرة pada ك karena هو مفعول به"
+      },
+      "hikmah": "**Jika** mereka mengikutimu, mereka akan menanggapi seruanmu dengan mudah.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "وَلَٰكِنۢ",
+      "transliterasi": "walâkin",
+      "jenis_kata": "Huruf",
+      "arti": "tetapi",
+      "sharaf": {
+        "akar_kata": "ك ن",
+        "makna_dasar": "keadaan, keberadaan",
+        "wazan_perubahan": "حرف عطف"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf عطف يربط بين جملتين",
+        "irab_dan_logika": "ليس له إعراب، يُنطق بسكون على اللام وفتحة على النون"
+      },
+      "hikmah": "Menunjukkan pertentangan dengan apa yang disebutkan sebelumnya.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "بَعُدَتْ",
+      "transliterasi": "ba‘udat",
+      "jenis_kata": "Fi'il",
+      "arti": "menjadi jauh",
+      "sharaf": {
+        "akar_kata": "ب ع د",
+        "makna_dasar": "jauh",
+        "wazan_perubahan": "فَعَلَ (ماضي)"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ماضٍ مبني على الفتح",
+        "irab_dan_logika": "مرفوع بالضمة الظاهرة على الباء، وتُسدل التاء لتدل على المؤنث"
+      },
+      "hikmah": "Menegaskan bahwa tujuan terasa sangat jauh bagi mereka.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "عَلَيْهِمُ",
+      "transliterasi": "ʿalayhim",
+      "jenis_kata": "Huruf (preposisi) + ضمير متصل",
+      "arti": "atas mereka",
+      "sharaf": {
+        "akar_kata": "ع ل ي",
+        "makna_dasar": "tinggi, berada di atas",
+        "wazan_perubahan": "حرف جر"
+      },
+      "nahwu": {
+        "kedudukan": "مجرور بحرف الجر \"على\"",
+        "irab_dan_logika": "الضمّة على الواو للرفع الضمير المتصل، والهاء مجرور بالكسرة"
+      },
+      "hikmah": "Menunjukkan beban atau kesulitan yang dirasakan oleh mereka.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "ٱلشُّقَّةُ",
+      "transliterasi": "ash-shuqquh",
+      "jenis_kata": "Isim",
+      "arti": "kesulitan, penderitaan",
+      "sharaf": {
+        "akar_kata": "ش ق ق",
+        "makna_dasar": "menyiksa, menekan",
+        "wazan_perubahan": "فَعَّة"
+      },
+      "nahwu": {
+        "kedudukan": "مبتدأ مرفوع",
+        "irab_dan_logika": "مرفوع بالضمة الظاهرة على التاء المربوطة"
+      },
+      "hikmah": "Menjadi simbol rasa berat dan penderitaan dalam perjalanan.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "ۚ",
+      "transliterasi": "(waqf)",
+      "jenis_kata": "Huruf (tanda waqf)",
+      "arti": "tanda berhenti",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "علامة وقف لا إعراب لها",
+        "irab_dan_logika": "تُستعمل لإنهاء الآية"
+      },
+      "hikmah": "Menandai akhir ayat, memberi jeda bagi pembaca.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "وَسَيَحْلِفُونَ",
+      "transliterasi": "wa sayahlifūna",
+      "jenis_kata": "Fi'il (verb) dengan awalan wa (conjunction)",
+      "arti": "dan mereka akan bersumpah",
+      "sharaf": {
+        "akar_kata": "ح ل ف",
+        "makna_dasar": "bersumpah",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "Predikat (verb) dalam kalimat, diawali dengan huruf wa sebagai penghubung",
+        "irab_dan_logika": "مرفوع بالضمة karena merupakan فعل مضارع مرفوع، والواو للواو الجماعة"
+      },
+      "hikmah": "Menunjukkan niat mereka bersumpah kepada Allah sebagai bentuk kepastian",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "بِٱللَّهِ",
+      "transliterasi": "bi-llāhi",
+      "jenis_kata": "Huruf jar + Isim (nama Allah)",
+      "arti": "dengan Allah",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Objek (majsur) dari فعل \"sayahlifūna\"",
+        "irab_dan_logika": "مجرور بالكسرة بسبب حرف الجر \"bi\""
+      },
+      "hikmah": "Menegaskan bahwa sumpah mereka diarahkan kepada Allah",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "لَوِ",
+      "transliterasi": "law",
+      "jenis_kata": "Huruf (particle)",
+      "arti": "jika",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "حرف شرط يسبق جملة شرطية",
+        "irab_dan_logika": "حرف لا يُعرب"
+      },
+      "hikmah": "Membuka kondisi yang bersifat hipotesis",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "ٱسْتَطَعْنَا",
+      "transliterasi": "istaṭaʿnā",
+      "jenis_kata": "Fi'il (verb) ماضي",
+      "arti": "kami sanggup",
+      "sharaf": {
+        "akar_kata": "ط و ع",
+        "makna_dasar": "mampu",
+        "wazan_perubahan": "استَفْعَل"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ماضٍ مبني على الفتح، فعل الشرط بعد \"law\"",
+        "irab_dan_logika": "مبني على الفتح لأنه فعل ماضٍ"
+      },
+      "hikmah": "Menyatakan kemampuan yang dimiliki bila kondisi terpenuhi",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "لَخَرَجْنَا",
+      "transliterasi": "la-kharajnā",
+      "jenis_kata": "Fi'il (verb) ماضي dengan حرف نفي \"la\"",
+      "arti": "tidak kami keluar",
+      "sharaf": {
+        "akar_kata": "خ ر ج",
+        "makna_dasar": "keluar",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ماضٍ مبني على الفتح مسبوق بحرف نفي \"la\"",
+        "irab_dan_logika": "مبني على الفتح، واللام حرف نفي لا يُعرب"
+      },
+      "hikmah": "Menegaskan bahwa mereka tidak akan berangkat meski mampu",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "مَعَكُمْ",
+      "transliterasi": "maʿakum",
+      "jenis_kata": "Huruf jar + ضمير متصل",
+      "arti": "bersamamu",
+      "sharaf": {
+        "akar_kata": "م ع",
+        "makna_dasar": "bersama",
+        "wazan_perubahan": "مَعَ"
+      },
+      "nahwu": {
+        "kedudukan": "جار ومجرور تابع للفعل \"la kharajna\"",
+        "irab_dan_logika": "مجرور بالكسرة لأن \"maʿa\" حرف جر والضمير المتصل يرفع الكسرة"
+      },
+      "hikmah": "Mengindikasikan tujuan perjalanan bersama Nabi ﷺ",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "يُهْلِكُونَ",
+      "transliterasi": "yuhlikūna",
+      "jenis_kata": "Fi'il (verb)",
+      "arti": "menghancurkan, memusnahkan",
+      "sharaf": {
+        "akar_kata": "ه ل ك",
+        "makna_dasar": "menghancurkan, memusnahkan",
+        "wazan_perubahan": "فعل مضارع مرفوع بالضمة"
+      },
+      "nahwu": {
+        "kedudukan": "*Predikat* (fi'il) dalam klausa \"يُهْلِكُونَ أَنفُسَهُمْ\"",
+        "irab_dan_logika": "مرفوع بالضمة لأنّه فعل مضارع مرفوع بالضمة الظاهرة"
+      },
+      "hikmah": "Mereka menghancurkan diri mereka sendiri, menandakan sikap self‑destruction yang menolak kebenaran.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "أَنفُسَهُمْ",
+      "transliterasi": "anfusahum",
+      "jenis_kata": "Isim (noun)",
+      "arti": "diri mereka sendiri",
+      "sharaf": {
+        "akar_kata": "ن ف س",
+        "makna_dasar": "diri, jiwa",
+        "wazan_perubahan": "جمع مؤنث سالم (أنفس) + ضمير متصل \"هم\""
+      },
+      "nahwu": {
+        "kedudukan": "*Maf‘ūl bih* (objek) dari فعل \"يُهْلِكُونَ\"",
+        "irab_dan_logika": "منصوب بالفتحة الظاهرة على النون karena berfungsi sebagai مفعول به"
+      },
+      "hikmah": "Menegaskan bahwa kehancuran itu terjadi pada diri mereka sendiri, bukan pada orang lain.",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "وَٱللَّهُ",
+      "transliterasi": "wa‑Allāhu",
+      "jenis_kata": "Huruf (wa) + Isim (Allah)",
+      "arti": "dan Allah",
+      "sharaf": {
+        "akar_kata": "الله (nama khusus)",
+        "makna_dasar": "Tuhan Yang Maha Esa",
+        "wazan_perubahan": "اسم علم"
+      },
+      "nahwu": {
+        "kedudukan": "*Mubtadaʾ* (subjek) dalam kalimat \"وَٱللَّهُ يَعْلَمُ\"",
+        "irab_dan_logika": "مرفوع بالضمة لأنه مبتدأ مرفوع"
+      },
+      "hikmah": "Allah menjadi saksi dan sumber pengetahuan atas keadaan mereka.",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "يَعْلَمُ",
+      "transliterasi": "yaʿlamu",
+      "jenis_kata": "Fi'il (verb)",
+      "arti": "mengetahui",
+      "sharaf": {
+        "akar_kata": "ع ل م",
+        "makna_dasar": "mengetahui, ilmu",
+        "wazan_perubahan": "فعل مضارع مرفوع بالضمة"
+      },
+      "nahwu": {
+        "kedudukan": "*Predikat* (fi'il) yang melengkapi mubtadaʾ \"ٱللَّهُ\"",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فعل مضارع مرفوع"
+      },
+      "hikmah": "Allah Maha Mengetahui segala niat dan tindakan mereka, meski mereka menyembunyikannya.",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "إِنَّهُمْ",
+      "transliterasi": "innahum",
+      "jenis_kata": "Huruf (إن) + ضمير (هم)",
+      "arti": "sesungguhnya mereka",
+      "sharaf": {
+        "akar_kata": "إن (particle) – هم (pronoun)",
+        "makna_dasar": "penegasan, subjek",
+        "wazan_perubahan": "حرف توكيد + ضمير متصل"
+      },
+      "nahwu": {
+        "kedudukan": "*Ism إن* (isim إن) berfungsi sebagai اسم إن منصوب",
+        "irab_dan_logika": "منصوب بالفتحة لأن حرف إن يجر الاسم إلى النصب"
+      },
+      "hikmah": "Penegasan bahwa apa yang akan disebutkan selanjutnya adalah fakta yang tidak dapat disangkal.",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "لَكَٰذِبُونَ",
+      "transliterasi": "la‑kādhībūna",
+      "jenis_kata": "Huruf (لَ) + Isim (كَاذِبُونَ)",
+      "arti": "sesungguhnya mereka pendusta",
+      "sharaf": {
+        "akar_kata": "ك ذ ب",
+        "makna_dasar": "mendustakan, berbohong",
+        "wazan_perubahan": "اسم فاعل مرفوع بالضمة، جمع مذكر سالم"
+      },
+      "nahwu": {
+        "kedudukan": "*Khabar* (predikat) setelah إنهم",
+        "irab_dan_logika": "مرفوع بالضمة لأنه خبر مرفوع"
+      },
+      "hikmah": "Mereka memang orang-orang yang berbohong, menegaskan kezaliman mereka di hadapan Allah.",
+      "role": "none"
+    }
+  ]
+}

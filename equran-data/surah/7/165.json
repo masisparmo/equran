@@ -1,0 +1,294 @@
+{
+  "surah": 7,
+  "ayah": 165,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "فَلَمَّا",
+      "transliterasi": "fa-lammā",
+      "jenis_kata": "Huruf",
+      "arti": "lalu ketika",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "حرف عطف + ظرف زمان"
+      },
+      "nahwu": {
+        "kedudukan": "حرف عطف يربط الجملة السابقة باللاحقة",
+        "irab_dan_logika": "حرف لا إعراب له، يربط بين جملتين ويعطي معنى التوقيت"
+      },
+      "hikmah": "Menunjukkan permulaan peristiwa setelah kejadian sebelumnya, menekankan bahwa mereka mengabaikan peringatan.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "نَسُوا۟",
+      "transliterasi": "nasū",
+      "jenis_kata": "Fi'il",
+      "arti": "lupa",
+      "sharaf": {
+        "akar_kata": "ن س ي",
+        "makna_dasar": "lupa, tidak mengingat",
+        "wazan_perubahan": "فعل ماضٍ ثلاثي مجرد"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ماضٍ مبني على الفتح، والفاعل ضمير مستتر تقديره هم",
+        "irab_dan_logika": "الفتح لأنه فعل ماضٍ، والفاعل مستتر تقديره هم"
+      },
+      "hikmah": "Mereka mengabaikan peringatan karena kelalaian hati, menandakan sikap durhaka.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "مَا",
+      "transliterasi": "mā",
+      "jenis_kata": "Huruf",
+      "arti": "apa / yang",
+      "sharaf": {
+        "akar_kata": "ما",
+        "makna_dasar": "kata tanya/penunjuk",
+        "wazan_perubahan": "اسم موصول مبني على السكون"
+      },
+      "nahwu": {
+        "kedudukan": "اسم موصول في محل مفعول به للفعل نَسُوا",
+        "irab_dan_logika": "مَنْصوب بالفتحة لأنه مفعول به"
+      },
+      "hikmah": "Menunjuk pada apa yang telah diingatkan, menegaskan bahwa mereka melupakan seluruh peringatan.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "ذُكِّرُوا۟",
+      "transliterasi": "dhukkirū",
+      "jenis_kata": "Fi'il",
+      "arti": "diingatkan",
+      "sharaf": {
+        "akar_kata": "ذ ك ر",
+        "makna_dasar": "ingat, mengingatkan",
+        "wazan_perubahan": "فعل ماضٍ مبني للمجهول (فعل ثلاثي مجرد)"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ماضٍ مبني للمجهول، والفاعل ضمير مستتر تقديره هم",
+        "irab_dan_logika": "الضم هو الضمة لأنه فعل ماضٍ مبني للمجهول"
+      },
+      "hikmah": "Mereka telah menerima peringatan, namun tetap mengabaikannya, menyoroti kegagalan mendengar hati.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "بِهِۦٓ",
+      "transliterasi": "bi-hi",
+      "jenis_kata": "Huruf",
+      "arti": "dengan dia/itu",
+      "sharaf": {
+        "akar_kata": "ب",
+        "makna_dasar": "preposisi menunjukkan alat atau sebab",
+        "wazan_perubahan": "حرف جر"
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر يتبع الفعل ذُكِّرُوا",
+        "irab_dan_logika": "مجرور بالكسرة لأن حرف جر، والضمير المتصل به في محل جر"
+      },
+      "hikmah": "Menunjukkan bahwa peringatan itu diberikan kepada mereka secara langsung.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "أَنجَيْنَا",
+      "transliterasi": "anjaynā",
+      "jenis_kata": "Fi'il",
+      "arti": "Kami selamatkan",
+      "sharaf": {
+        "akar_kata": "ن ج ي",
+        "makna_dasar": "menyelamatkan, menghindarkan",
+        "wazan_perubahan": "فعل ماضٍ مبني على الفتح مع ضمير المتكلم الجمع"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ماضٍ مبني على الفتح، والفاعل ضمير متصل 'نا' في محل رفع",
+        "irab_dan_logika": "الفتح لأنه فعل ماضٍ، والضمير المتصل يرفع الفاعل"
+      },
+      "hikmah": "Allah menyelamatkan orang-orang yang menolak kejahatan, menegaskan rahmat-Nya bagi yang beriman.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "ٱلَّذِينَ",
+      "transliterasi": "al-ladhīna",
+      "jenis_kata": "Isim",
+      "arti": "orang‑orang yang",
+      "sharaf": {
+        "akar_kata": "ذ‑و‑ن",
+        "makna_dasar": "yang (penunjuk)",
+        "wazan_perubahan": "isim isyarat (اسم إشارة)"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به بعد فعل أَخَذْنَا",
+        "irab_dan_logika": "منصوب بالفتحة لأنه مفعول به"
+      },
+      "hikmah": "Menunjukkan kelompok orang yang menolak kejahatan, menegaskan sifat mereka yang terpilih.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "يَنْهَوْنَ",
+      "transliterasi": "yanahawna",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka melarang",
+      "sharaf": {
+        "akar_kata": "ن‑ه‑ي",
+        "makna_dasar": "menahan, melarang",
+        "wazan_perubahan": "فعل مضارع مرفوع بالضمة"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع في جملة صلة موصولة",
+        "irab_dan_logika": "مرفوع بالضمة الظاهرة لأن الفعل مضارع غير مسبوق بأداة نصب"
+      },
+      "hikmah": "Menggambarkan tindakan aktif menahan perbuatan buruk, menegaskan peran moral mereka.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "عَنِ",
+      "transliterasi": "ʿani",
+      "jenis_kata": "Huruf",
+      "arti": "dari, tentang",
+      "sharaf": {
+        "akar_kata": "ع‑ن‑",
+        "makna_dasar": "menunjuk hubungan sebab‑akibat atau kepemilikan",
+        "wazan_perubahan": "حرف جر"
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر يربط الفعل يَنْهَوْنَ بالمفعول السُّوءِ",
+        "irab_dan_logika": "ليس له إعراب، لكنه يجر الاسم التالي إلى الجر"
+      },
+      "hikmah": "Menunjukkan arah larangan, yaitu menjauhkan diri dari kejahatan.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "ٱلسُّوٓءِ",
+      "transliterasi": "as‑sū'i",
+      "jenis_kata": "Isim",
+      "arti": "kejahatan, keburukan",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "ظَلَمُوا۟",
+      "transliterasi": "ẓalamū",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka menzalimi",
+      "sharaf": {
+        "akar_kata": "ظ ل م",
+        "makna_dasar": "menzalimi, melakukan kezaliman",
+        "wazan_perubahan": "فعلوا (faʿalū)"
+      },
+      "nahwu": {
+        "kedudukan": "predikat (fi'il) dalam frasa \"الَّذِينَ ظَلَمُوا\"",
+        "irab_dan_logika": "مرفوع بالضمة لأنّه فعل ماضٍ مبني على الفتح، والواو للغنى"
+      },
+      "hikmah": "menunjukkan kezaliman yang dilakukan oleh orang-orang tersebut, yang menjadi sebab turunnya azab",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "بِعَذَابٍۭ",
+      "transliterasi": "biʿadhābin",
+      "jenis_kata": "Huruf jar + Isim",
+      "arti": "dengan azab",
+      "sharaf": {
+        "akar_kata": "ع ذ ب",
+        "makna_dasar": "hukuman, siksaan",
+        "wazan_perubahan": "فعَل"
+      },
+      "nahwu": {
+        "kedudukan": "keterangan jar (jar majrur) yang menjelaskan kata \"ظَلَمُوا\"",
+        "irab_dan_logika": "مجرور بالكسرة لأنّ الباء حرف جر والاسم بعدها مجرور"
+      },
+      "hikmah": "azab yang diberikan bersifat menakutkan dan menjadi balasan atas kezaliman",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "بَئِسٍۭ",
+      "transliterasi": "ba'sin",
+      "jenis_kata": "Isim (isim sifat)",
+      "arti": "buruk, menjijikkan",
+      "sharaf": {
+        "akar_kata": "ب س س",
+        "makna_dasar": "jelek, tidak menyenangkan",
+        "wazan_perubahan": "فعِل"
+      },
+      "nahwu": {
+        "kedudukan": "sifat (na'at) yang menerangkan \"عَذَابٍ\"",
+        "irab_dan_logika": "مجرور بالكسرة لأنّ الصفة تتبع المجرور وتُجرّ بالكسرة"
+      },
+      "hikmah": "menegaskan bahwa azab yang diberikan itu sangat tidak menyenangkan dan hina",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "بِمَا",
+      "transliterasi": "bimā",
+      "jenis_kata": "Huruf jar + Isim ma (kata ganti)",
+      "arti": "karena apa",
+      "sharaf": {
+        "akar_kata": "م ا",
+        "makna_dasar": "apa yang menjadi sebab",
+        "wazan_perubahan": "ليس له وزن خاص"
+      },
+      "nahwu": {
+        "kedudukan": "keterangan sebab yang menjelaskan \"ظَلَمُوا\"",
+        "irab_dan_logika": "مجرور بالكسرة لأنّ الباء حرف جر والما اسم موصول مجرور"
+      },
+      "hikmah": "menyatakan bahwa kezaliman mereka disebabkan oleh perbuatan-perbuatan mereka sendiri",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "كَانُوا۟",
+      "transliterasi": "kānū",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka adalah",
+      "sharaf": {
+        "akar_kata": "ك و ن",
+        "makna_dasar": "to be, ada",
+        "wazan_perubahan": "كان"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il madhi nakirah (kata kerja bantu) yang berfungsi sebagai فعل ناقص",
+        "irab_dan_logika": "مرفوع بالضمة لأنّ الفعل الماضي مرفوع بالضمة"
+      },
+      "hikmah": "menjadi kata kerja bantu yang menghubungkan keadaan mereka dengan perbuatan \"يَفْسُقُونَ\"",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "يَفْسُقُونَ",
+      "transliterasi": "yafsuqūna",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka berbuat fasik",
+      "sharaf": {
+        "akar_kata": "ف س ق",
+        "makna_dasar": "berbuat dosa, melakukan kejahatan",
+        "wazan_perubahan": "يفعلون"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il mudhari' marfu' (خبر كان)",
+        "irab_dan_logika": "مرفوع بالضمة لأنّ الفعل المضارع المرفوع بالضمة في محل خبر كان"
+      },
+      "hikmah": "menunjukkan sifat fasik yang menjadi penyebab kezaliman dan azab yang ditimpakan",
+      "role": "none"
+    }
+  ]
+}

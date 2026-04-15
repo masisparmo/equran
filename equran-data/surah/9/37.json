@@ -1,0 +1,564 @@
+{
+  "surah": 9,
+  "ayah": 37,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "إِنَّمَا",
+      "transliterasi": "innamā",
+      "jenis_kata": "Huruf",
+      "arti": "hanya, sesungguhnya hanya",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf توكيد (particle of emphasis) yang menguatkan kata setelahnya",
+        "irab_dan_logika": "Tidak berharakat karena huruf, mengikat الاسم المنصوب بعده (النَّسِيءُ)"
+      },
+      "hikmah": "Menegaskan bahwa yang dimaksud hanyalah orang‑orang yang menunda bulan haram, sehingga menambah kekafiran.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "النَّسِيءُ",
+      "transliterasi": "an‑nasīʾu",
+      "jenis_kata": "Isim",
+      "arti": "orang yang menunda (menyembunyikan)",
+      "sharaf": {
+        "akar_kata": "ن س ي",
+        "makna_dasar": "menunda, menangguhkan",
+        "wazan_perubahan": "اسم الفاعل (فَاعِل)"
+      },
+      "nahwu": {
+        "kedudukan": "Mubtadaʾ (subjek) setelah إِنَّمَا",
+        "irab_dan_logika": "مَنْصُوب بالضمة لأن إِنَّ تُنصب الاسم بعدها"
+      },
+      "hikmah": "Orang‑orang yang menunda bulan haram menambah tingkat kekafiran mereka.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "زِيَادَةٌ",
+      "transliterasi": "ziyādah",
+      "jenis_kata": "Isim",
+      "arti": "penambahan",
+      "sharaf": {
+        "akar_kata": "ز ي د",
+        "makna_dasar": "menambah",
+        "wazan_perubahan": "اسم الفعل (فِعَالَة)"
+      },
+      "nahwu": {
+        "kedudukan": "Khabar (predikat) untuk النَّسِيءُ",
+        "irab_dan_logika": "مرفوع بالضمة لأنه خبر مرفوع"
+      },
+      "hikmah": "Penundaan itu merupakan tambahan (penambahan) dalam kekafiran.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "فِي",
+      "transliterasi": "fī",
+      "jenis_kata": "Huruf",
+      "arti": "di dalam, pada",
+      "sharaf": {
+        "akar_kata": "ف ي",
+        "makna_dasar": "preposisi menunjukkan tempat/lingkup",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf جر (preposisi)",
+        "irab_dan_logika": "لا إعراب له، لكنه يجر الاسم التالي"
+      },
+      "hikmah": "Menunjukkan bahwa penambahan itu berada dalam lingkup kekafiran.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "الْكُفْرِ",
+      "transliterasi": "al‑kufri",
+      "jenis_kata": "Isim",
+      "arti": "kekafiran",
+      "sharaf": {
+        "akar_kata": "ك ف ر",
+        "makna_dasar": "kafir, tidak beriman",
+        "wazan_perubahan": "مصدر (فَعْل)"
+      },
+      "nahwu": {
+        "kedudukan": "Majrur بحرف الجر فِي",
+        "irab_dan_logika": "مجرور بالكسرة لأنه تابع لحرف الجر"
+      },
+      "hikmah": "Penundaan bulan haram menambah dalam bidang kekafiran.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "ۖ",
+      "transliterasi": "-",
+      "jenis_kata": "Simbol",
+      "arti": "tanda waqf (istirahat)",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca (waqf) yang memisahkan bagian akhir ayat",
+        "irab_dan_logika": "Tidak berirab, berfungsi sebagai jeda bacaan"
+      },
+      "hikmah": "Memberi isyarat berhenti sejenak, menegaskan akhir pernyataan.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "يُضَلُّ",
+      "transliterasi": "yudallu",
+      "jenis_kata": "Fi'il",
+      "arti": "menyesatkan, mengarahkan ke kesesatan",
+      "sharaf": {
+        "akar_kata": "ض ل ل",
+        "makna_dasar": "kesesatan, kebingungan",
+        "wazan_perubahan": "form IV (فَعَّل) → يُضَلُّ"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja transitif yang menjadi predikat bagi subjek (الَّذِينَ كَفَرُوا)",
+        "irab_dan_logika": "dhammah pada akhir karena mudhari‘ majzum (verb in present tense)"
+      },
+      "hikmah": "Allah menegaskan bahwa menunda‑tunda bulan haram menyesatkan orang‑orang kafir, menjadikan mereka berada dalam kebingungan spiritual.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "بِهِ",
+      "transliterasi": "bihi",
+      "jenis_kata": "Huruf",
+      "arti": "dengan dia/itu",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "preposisi bi + zamir huwa (dia)",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "jarak (prepositional phrase) yang melengkapi فعل يُضَلُّ",
+        "irab_dan_logika": "jar karena preposisi bi, berkasrah pada huruf هِ"
+      },
+      "hikmah": "menunjukkan cara penyesatan itu dilakukan, yaitu dengan “menjadikannya” (bulan haram) sesuatu yang dapat diperlakukan secara tertentu.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "ٱلَّذِينَ",
+      "transliterasi": "alladhina",
+      "jenis_kata": "Isim",
+      "arti": "orang‑orang yang",
+      "sharaf": {
+        "akar_kata": "ذ ي",
+        "makna_dasar": "kata ganti relatif yang merujuk kepada orang",
+        "wazan_perubahan": "isim maushul (اسم موصول)"
+      },
+      "nahwu": {
+        "kedudukan": "isim maushul berfungsi sebagai subjek (mubtada') bagi فعل يُضَلُّ",
+        "irab_dan_logika": "marfu‘ dengan dhammah karena menjadi mubtada'"
+      },
+      "hikmah": "menyasar kelompok orang kafir secara spesifik, menegaskan bahwa mereka adalah pihak yang ditipu.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "كَفَرُوا۟",
+      "transliterasi": "kafarū",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka kafir",
+      "sharaf": {
+        "akar_kata": "ك ف ر",
+        "makna_dasar": "menolak iman, mengingkari kebenaran",
+        "wazan_perubahan": "form I (فَعَل) dengan akhiran waaw alif maksura untuk jamak maskulin"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja yang menjadi bagian dari isim maushul (ٱلَّذِينَ كَفَرُوا) sebagai penjelas subjek",
+        "irab_dan_logika": "marfu‘ dengan dhammah karena berada dalam isim maushul"
+      },
+      "hikmah": "menegaskan status kafir sebagai penyebab utama penyesatan yang dibicarakan.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "يُحِلُّونَهُۥ",
+      "transliterasi": "yuḥillūnahu",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka menghalalkannya",
+      "sharaf": {
+        "akar_kata": "ح ل ل",
+        "makna_dasar": "menghalalkan, melonggarkan larangan",
+        "wazan_perubahan": "form IV (فَعَّل) → يُحِلُّ"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja berhubungan dengan subjek (ٱلَّذِينَ كَفَرُوا) sebagai predikat kedua, dengan objek pronoun ‑هُ (nya)",
+        "irab_dan_logika": "marfu‘ dengan dhammah pada alif karena mudhari‘; huruf هُ ber‑kasrah sebagai objek"
+      },
+      "hikmah": "menunjukkan tindakan kafir yang sengaja mengubah status haram menjadi halal pada tahun tertentu.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "عَامًۭا",
+      "transliterasi": "ʿāman",
+      "jenis_kata": "Isim",
+      "arti": "tahun",
+      "sharaf": {
+        "akar_kata": "ع م ن",
+        "makna_dasar": "periode waktu satu tahun",
+        "wazan_perubahan": "faʿāl (noun)"
+      },
+      "nahwu": {
+        "kedudukan": "keterangan waktu (mansub) bagi فعل يُحِلُّونَهُ",
+        "irab_dan_logika": "tanwin fathah menandakan mansub (objek) karena berfungsi sebagai keterangan waktu"
+      },
+      "hikmah": "menyiratkan pola siklus tahunan dalam penentuan halal‑haram yang diputar‑balik oleh orang kafir.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "وَيُحَرِّمُونَهُۥ",
+      "transliterasi": "wa‑yuḥarrimūnahu",
+      "jenis_kata": "Fiʿil (verb) dengan huruf waʾiḍāfah",
+      "arti": "dan mereka mengharamkan (itu)",
+      "sharaf": {
+        "akar_kata": "ح ر م",
+        "makna_dasar": "mengharamkan, melarang",
+        "wazan_perubahan": "فَعَّلَ (faʿʿala) – bentuk intensif"
+      },
+      "nahwu": {
+        "kedudukan": "Predikat utama dalam klausa, fiʿil muḍāriʿ (present) berakhiran ‑ونَ",
+        "irab_dan_logika": "مرفوع بالضمة الظاهرة على آخره (يُحَرِّمُونَ)؛ الضمة علامة الرفع للفعل المضارع، والضمير المتصل **هُ** مفعول به منصوب بالفتحة الظاهرة على آخره"
+      },
+      "hikmah": "Menunjukkan tindakan sengaja mengharamkan sesuatu, yang menambah kekafiran karena menentang ketetapan Allah.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "عَامًۭا",
+      "transliterasi": "ʿāman",
+      "jenis_kata": "Isim (kata benda) tunggal",
+      "arti": "tahun (dalam bentuk tunggal)",
+      "sharaf": {
+        "akar_kata": "ع م م",
+        "makna_dasar": "tahun",
+        "wazan_perubahan": "فَعَل – bentuk isim"
+      },
+      "nahwu": {
+        "kedudukan": "Objek waktu (مفعول به ظرف زمان) dari fiʿil **يُحَرِّمُونَ**",
+        "irab_dan_logika": "منصوب بالفتحة الظاهرة على آخره (عَامًا) لأنّه مفعول به ظرف زمان"
+      },
+      "hikmah": "Menandakan durasi larangan selama satu tahun penuh.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "لِيُوَاطِئُوا۟",
+      "transliterasi": "li‑yuwāṭiʾū",
+      "jenis_kata": "Fiʿil (verb) dengan huruf li‑ (particle tujuan)",
+      "arti": "agar mereka menyesuaikan",
+      "sharaf": {
+        "akar_kata": "و ط أ",
+        "makna_dasar": "menyesuaikan, menyeimbangkan",
+        "wazan_perubahan": "يفاعِل (yufāʿilu) – bentuk aktif jamak"
+      },
+      "nahwu": {
+        "kedudukan": "Verb tujuan (جملة هدف) yang menjelaskan maksud larangan sebelumnya",
+        "irab_dan_logika": "مجزوم بحذف النون لأنه فعل مضارع مجزوم بعد لِ (li‑)؛ علامة الجزم السكون على آخره"
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "ٱللَّهُ",
+      "transliterasi": "Allāhu",
+      "jenis_kata": "Isim",
+      "arti": "Allah (Tuhan)",
+      "sharaf": {
+        "akar_kata": "أ ل ه",
+        "makna_dasar": "menyembah, beribadah",
+        "wazan_perubahan": "tidak ada (isim)"
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada' (subjek) dalam kalimat",
+        "irab_dan_logika": "Marfu' dengan dhammah karena berfungsi sebagai subjek"
+      },
+      "hikmah": "*Menegaskan bahwa hanya Allah yang memiliki otoritas menetapkan apa yang halal dan haram.*",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "فَيُحِلُّوا۟",
+      "transliterasi": "fa‑yuḥillu",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka menghalalkan",
+      "sharaf": {
+        "akar_kata": "ح ل ل",
+        "makna_dasar": "menghalalkan",
+        "wazan_perubahan": "Form III (يُفَعِّل)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il mudhari' (kata kerja) setelah huruf al‑fa'",
+        "irab_dan_logika": "Marfu' dengan dhammah karena kata kerja"
+      },
+      "hikmah": "*Menyiratkan tindakan sengaja mengubah larangan menjadi izin.*",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "مَا",
+      "transliterasi": "mā",
+      "jenis_kata": "Huruf",
+      "arti": "apa",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "kata tanya/penunjuk",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Mansub (objek) dari fi'il *yuḥillu*",
+        "irab_dan_logika": "Berharakat kasrah karena berfungsi sebagai objek"
+      },
+      "hikmah": "*Menunjuk pada segala sesuatu yang dihalalkan.*",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "حَرَّمَ",
+      "transliterasi": "ḥarrama",
+      "jenis_kata": "Fi'il",
+      "arti": "mengharamkan",
+      "sharaf": {
+        "akar_kata": "ح ر م",
+        "makna_dasar": "haram, dilarang",
+        "wazan_perubahan": "Form I (فَعَلَ)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il madhi (kata kerja lampau) sebagai predikat dalam frasa *mā ḥarrama*",
+        "irab_dan_logika": "Marfu' karena fi'il madhi"
+      },
+      "hikmah": "*Menegaskan bahwa larangan berasal dari Allah.*",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "ٱللَّهُ",
+      "transliterasi": "Allāhu",
+      "jenis_kata": "Isim",
+      "arti": "Allah (Tuhan)",
+      "sharaf": {
+        "akar_kata": "أ ل ه",
+        "makna_dasar": "menyembah, beribadah",
+        "wazan_perubahan": "tidak ada (isim)"
+      },
+      "nahwu": {
+        "kedudukan": "Fa'il (subjek) bagi fi'il *ḥarrama*",
+        "irab_dan_logika": "Marfu' dengan dhammah karena berfungsi sebagai subjek"
+      },
+      "hikmah": "*Menegaskan otoritas mutlak Allah dalam menetapkan apa yang haram.*",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda berhenti ayat",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "menandai akhir ayat",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Tidak termasuk dalam sintaks, hanya penanda akhir ayat",
+        "irab_dan_logika": "Tidak memiliki i'rab"
+      },
+      "hikmah": "*Memberi jeda bagi pembaca untuk merenungkan makna ayat.*",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "زُيِّنَ",
+      "transliterasi": "zuyyina",
+      "jenis_kata": "Fi'il",
+      "arti": "dihias, diperlengkap",
+      "sharaf": {
+        "akar_kata": "ز ي ن",
+        "makna_dasar": "hias, perindah",
+        "wazan_perubahan": "fu'illa (form II passive)"
+      },
+      "nahwu": {
+        "kedudukan": "predikat (fi'il madhi) dalam kalimat nominal",
+        "irab_dan_logika": "مرفوع بالضمة لأنّه فعل ماضٍ مبني على الفتح"
+      },
+      "hikmah": "*Allah memperindah (menyembunyikan) keburukan mereka, menjadikannya tampak baik di mata mereka.*",
+      "role": "none"
+    },
+    {
+      "index": 25,
+      "kata_arab": "لَهُمْ",
+      "transliterasi": "lahum",
+      "jenis_kata": "Huruf",
+      "arti": "bagi mereka",
+      "sharaf": {
+        "akar_kata": "ل + هم",
+        "makna_dasar": "preposisi li‑ ‘untuk’ + kata ganti mereka",
+        "wazan_perubahan": "li‑ + ضمير متصل"
+      },
+      "nahwu": {
+        "kedudukan": "جار ومجرور تابع للفعل زُيِّنَ",
+        "irab_dan_logika": "مجرور بالكسرة، والضمير المتصل ‘هم’ في محل جر"
+      },
+      "hikmah": "*Menunjukkan bahwa perbuatan itu ditujukan kepada mereka.*",
+      "role": "none"
+    },
+    {
+      "index": 26,
+      "kata_arab": "سُوٓءُ",
+      "transliterasi": "suu'",
+      "jenis_kata": "Isim",
+      "arti": "keburukan",
+      "sharaf": {
+        "akar_kata": "س و ء",
+        "makna_dasar": "buruk, jelek",
+        "wazan_perubahan": "fa'ul (bentuk tunggal)"
+      },
+      "nahwu": {
+        "kedudukan": "مبتدأ مرفوع",
+        "irab_dan_logika": "مرفوع بالضمة لأنه اسم مرفوع في جملة اسمية"
+      },
+      "hikmah": "*Menegaskan bahwa yang dimaksud adalah keburukan yang ada pada perbuatan mereka.*",
+      "role": "none"
+    },
+    {
+      "index": 27,
+      "kata_arab": "أَعْمَالِهِمْ",
+      "transliterasi": "a'maalihim",
+      "jenis_kata": "Isim",
+      "arti": "perbuatan mereka",
+      "sharaf": {
+        "akar_kata": "ع م ل",
+        "makna_dasar": "amal, perbuatan",
+        "wazan_perubahan": "af'al (bentuk jamak مكسر)"
+      },
+      "nahwu": {
+        "kedudukan": "مضاف إليه مجرور",
+        "irab_dan_logika": "مجرور بالكسرة لأنّه مضاف إليه لمبتدأ سُوٓءُ"
+      },
+      "hikmah": "*Keburukan yang dimaksud adalah keburukan perbuatan mereka sendiri.*",
+      "role": "none"
+    },
+    {
+      "index": 28,
+      "kata_arab": "ۗ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf",
+      "arti": "tanda waqf (titik)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "علامة وقف لا إعراب لها",
+        "irab_dan_logika": "تُستعمل لإنهاء الجملة أو الفقرة"
+      },
+      "hikmah": "*Memisahkan bagian sebelumnya dengan yang berikutnya dalam ayat.*",
+      "role": "none"
+    },
+    {
+      "index": 29,
+      "kata_arab": "وَٱللَّهُ",
+      "transliterasi": "wa-Allah",
+      "jenis_kata": "Huruf + Isim",
+      "arti": "dan Allah",
+      "sharaf": {
+        "akar_kata": "أ ل ه (Allah)",
+        "makna_dasar": "nama Allah",
+        "wazan_perubahan": "اسم علم"
+      },
+      "nahwu": {
+        "kedudukan": "حرف عطف + مبتدأ مرفوع",
+        "irab_dan_logika": "‘الله’ مرفوع بالضمة لأنّه مبتدأ، و‘و’ حرف عطف لا إعراب له"
+      },
+      "hikmah": "*Menegaskan bahwa segala keburukan berada di bawah pengetahuan dan kehendak Allah.*",
+      "role": "none"
+    },
+    {
+      "index": 30,
+      "kata_arab": "لَا",
+      "transliterasi": "lā",
+      "jenis_kata": "Huruf",
+      "arti": "tidak",
+      "sharaf": {
+        "akar_kata": "لا",
+        "makna_dasar": "negasi",
+        "wazan_perubahan": "tidak ada"
+      },
+      "nahwu": {
+        "kedudukan": "partikel negatif yang menolak kata berikutnya",
+        "irab_dan_logika": "berharakat sukun, tidak berubah karena berfungsi sebagai huruf"
+      },
+      "hikmah": "menegaskan bahwa tidak ada petunjuk yang diberikan",
+      "role": "none"
+    },
+    {
+      "index": 31,
+      "kata_arab": "يَهْدِي",
+      "transliterasi": "yahdī",
+      "jenis_kata": "Fi'il",
+      "arti": "menunjukkan jalan, memberi petunjuk",
+      "sharaf": {
+        "akar_kata": "ه د ي",
+        "makna_dasar": "huda (petunjuk)",
+        "wazan_perubahan": "yaftuʿul (form I)"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il mudhari' (kata kerja) yang terhubung dengan huruf لا",
+        "irab_dan_logika": "diberi harakat dhamma karena merupakan فعل مضارع مرفوع"
+      },
+      "hikmah": "menyiratkan bahwa Allah tidak memberi petunjuk kepada orang kafir",
+      "role": "none"
+    },
+    {
+      "index": 32,
+      "kata_arab": "ٱلْقَوْمَ",
+      "transliterasi": "al‑qawma",
+      "jenis_kata": "Isim",
+      "arti": "kaum, orang",
+      "sharaf": {
+        "akar_kata": "ق و م",
+        "makna_dasar": "berdiri, kelompok",
+        "wazan_perubahan": "مفعول"
+      },
+      "nahwu": {
+        "kedudukan": "mafʿul bih (objek) yang diletakkan setelah fi'il",
+        "irab_dan_logika": "diberi harakat fatha karena merupakan مفعول به منصوب"
+      },
+      "hikmah": "menunjuk pada orang‑orang yang tidak mendapat petunjuk",
+      "role": "none"
+    },
+    {
+      "index": 33,
+      "kata_arab": "ٱلْكَٰفِرِينَ",
+      "transliterasi": "al‑kāfirīna",
+      "jenis_kata": "Isim",
+      "arti": "orang‑orang kafir",
+      "sharaf": {
+        "akar_kata": "ك ف ر",
+        "makna_dasar": "menolak, tidak beriman",
+        "wazan_perubahan": "فاعل"
+      },
+      "nahwu": {
+        "kedudukan": "jamʿ muḍhakir salim (jamak maskulin) yang menjadi mafʿul bih",
+        "irab_dan_logika": "diberi harakat kasra sebelum ya dan nun sukun karena merupakan منصوب"
+      },
+      "hikmah": "menyiratkan kelompok orang yang menolak kebenaran",
+      "role": "none"
+    }
+  ]
+}

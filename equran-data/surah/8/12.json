@@ -1,0 +1,438 @@
+{
+  "surah": 8,
+  "ayah": 12,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "إِذْ",
+      "transliterasi": "idh",
+      "jenis_kata": "Huruf",
+      "arti": "ketika",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf زمان di awal ayat, memperkenalkan klausa temporal",
+        "irab_dan_logika": "Tidak berharakat i‘rabi, tetap sukun karena merupakan huruf indeklinabel"
+      },
+      "hikmah": "**Makna**: Menunjukkan bahwa peristiwa yang disebutkan terjadi di masa lampau, menyiapkan konteks historis bagi wahyu.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "يُوحِى",
+      "transliterasi": "yuḥī",
+      "jenis_kata": "Fi'il",
+      "arti": "menurunkan wahyu",
+      "sharaf": {
+        "akar_kata": "و ح ي",
+        "makna_dasar": "menyampaikan rahasia, memberi petunjuk",
+        "wazan_perubahan": "فعل مضارع مرفوع بالضمة"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il mudhari‘, 3rd person maskulin tunggal, subjek Allah tersirat",
+        "irab_dan_logika": "مرفوع بالضمة لأن الفعل مضارع غير مجزوم"
+      },
+      "hikmah": "**Makna**: Allah menurunkan wahyu kepada para malaikat, menegaskan keterlibatan-Nya secara langsung.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "رَبُّكَ",
+      "transliterasi": "rabbuka",
+      "jenis_kata": "Isim",
+      "arti": "Tuhanmu",
+      "sharaf": {
+        "akar_kata": "ر ب ب",
+        "makna_dasar": "menjadi pemelihara, memberi rezeki",
+        "wazan_perubahan": "isim mudhaf (milik)"
+      },
+      "nahwu": {
+        "kedudukan": "Isim mudhaf, objek dari fi'il يُوحِى",
+        "irab_dan_logika": "مرفوع بالضمة لأن المضاف مرفوع"
+      },
+      "hikmah": "**Makna**: Menegaskan bahwa yang memberi wahyu adalah Tuhan yang menjadi pemelihara bagi hamba‑Nya.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "إِلَى",
+      "transliterasi": "ilā",
+      "jenis_kata": "Huruf",
+      "arti": "kepada",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar, menghubungkan إلى dengan المَلَائِكَةِ",
+        "irab_dan_logika": "مجرور بالكسرة لأن حرف جر"
+      },
+      "hikmah": "**Makna**: Menunjukkan arah atau tujuan wahyu, yaitu kepada para malaikat.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "ٱلْمَلَٰٓئِكَةِ",
+      "transliterasi": "al‑malāʾikati",
+      "jenis_kata": "Isim",
+      "arti": "para malaikat",
+      "sharaf": {
+        "akar_kata": "م ل ك",
+        "makna_dasar": "menaklukkan, memerintah",
+        "wazan_perubahan": "جمع مذكر سالم (malāʾikatu)"
+      },
+      "nahwu": {
+        "kedudukan": "Isim majrur sebagai objek huruf جر إِلَى",
+        "irab_dan_logika": "مجرور بالكسرة لأن حرف الجر إِلَى يجره"
+      },
+      "hikmah": "**Makna**: Menunjukkan siapa yang menerima wahyu, yaitu para malaikat yang setia.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "أَنِّى",
+      "transliterasi": "annī",
+      "jenis_kata": "Huruf",
+      "arti": "bahwa Aku",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "مَعَكُمْ",
+      "transliterasi": "ma‘akum",
+      "jenis_kata": "Huruf",
+      "arti": "**dengan kamu**",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar yang menghubungkan Allah dengan para mukmin; berada setelah **إِنِّي**",
+        "irab_dan_logika": "حرف جر مبني على السكون، والضمير المتصل **كُمْ** في محل جر لأنه تابع لحرف الجر"
+      },
+      "hikmah": "Menegaskan kebersamaan Allah dengan orang‑orang yang beriman, memberi rasa aman dan dukungan ilahi.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "فَثَبِّتُوا۟",
+      "transliterasi": "fa‑thabbitū",
+      "jenis_kata": "Fi'il",
+      "arti": "**teguhkanlah**",
+      "sharaf": {
+        "akar_kata": "ث‑ب‑ت",
+        "makna_dasar": "kuat, tetap",
+        "wazan_perubahan": "Form II (فَعَّل) dengan awalan **فَ** للربط"
+      },
+      "nahwu": {
+        "kedudukan": "فعل أمر مبني على الفتح، يوجه إلى para mukmin setelah **مَعَكُمْ**",
+        "irab_dan_logika": "فعل أمر مبني على الفتح، والواو ضمير متصل في محل رفع الفاعل (أنتم)"
+      },
+      "hikmah": "Perintah Allah agar orang‑orang beriman memperkuat iman dan keteguhan hati mereka.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "ٱلَّذِينَ",
+      "transliterasi": "alladhīna",
+      "jenis_kata": "Isim",
+      "arti": "**yang** (kata ganti relatif)",
+      "sharaf": {
+        "akar_kata": "ذ‑و‑ن",
+        "makna_dasar": "yang, orang yang",
+        "wazan_perubahan": "اسم إشارة من الجذر ذ‑و‑ن على وزن **الـذي**"
+      },
+      "nahwu": {
+        "kedudukan": "اسم موصول مبني على السكون في محل نصب مفعول به لفعل **ثَبِّتُوا**",
+        "irab_dan_logika": "منصوب بالفتحة الظاهرة على آخره لأنّه مفعول به للفعل الأمر"
+      },
+      "hikmah": "Menunjuk secara khusus kepada sekumpulan orang beriman yang harus diteguhkan.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "ءَامَنُوا۟",
+      "transliterasi": "āmanū",
+      "jenis_kata": "Fi'il",
+      "arti": "**beriman** (mereka)",
+      "sharaf": {
+        "akar_kata": "أ‑م‑ن",
+        "makna_dasar": "aman, percaya, beriman",
+        "wazan_perubahan": "Form I (فعل ثلاثي مجرد)"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ماضٍ مبني على الفتح ضمن جملة الصفة **ٱلَّذِينَ آمَنُوا**",
+        "irab_dan_logika": "الفعل ماضٍ مبني على الفتح، والواو ضمير متصل في محل رفع الفاعل (هم)"
+      },
+      "hikmah": "Menegaskan bahwa orang‑orang yang dimaksud adalah mereka yang telah meneguhkan iman.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Tanda waqf",
+      "arti": "**tanda titik (pause)**",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "علامة وقف تفصل بين جملتين فرعيتين",
+        "irab_dan_logika": "ليس لها إعراب؛ تُستعمل لتبيين الوقفة بين الجمل"
+      },
+      "hikmah": "Memberi jeda untuk menekankan perintah sebelumnya sebelum melanjutkan ayat.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "سَأُلْقِى",
+      "transliterasi": "sa‑ulqī",
+      "jenis_kata": "Fi'il",
+      "arti": "**akan Aku lemparkan**",
+      "sharaf": {
+        "akar_kata": "ل‑ق‑ي",
+        "makna_dasar": "melempar, menimbulkan",
+        "wazan_perubahan": "Form I (أَلْقَى) مع حرف المستقبل **سَ**"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع بالضمة، يسبق جملة **فِي قُلُوبِ الَّذِينَ كَفَرُوا**",
+        "irab_dan_logika": "الفعل مضارع مرفوع بالضمة، والسين حرف مستقبل مبني على السكون، والواو ضمير متصل في محل رفع الفاعل (أنا)"
+      },
+      "hikmah": "Allah berjanji akan menimbulkan rasa takut dalam hati orang‑orang kafir sebagai bagian dari strategi kemenangan.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "فِى",
+      "transliterasi": "fī",
+      "jenis_kata": "Huruf",
+      "arti": "di, dalam",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar, memerintah kata benda setelahnya",
+        "irab_dan_logika": "Majrur karena huruf jar, berkasrah"
+      },
+      "hikmah": "Menunjukkan tempat atau keadaan, di dalam hati orang kafir",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "قُلُوبِ",
+      "transliterasi": "qulūbi",
+      "jenis_kata": "Isim",
+      "arti": "hati (jamak)",
+      "sharaf": {
+        "akar_kata": "ق-ل-ب",
+        "makna_dasar": "hati",
+        "wazan_perubahan": "مفعل"
+      },
+      "nahwu": {
+        "kedudukan": "Isim majrur setelah huruf jar فِى",
+        "irab_dan_logika": "Berakhiran kasrah karena majrur"
+      },
+      "hikmah": "Menyiratkan inti perasaan yang akan ditimpa rasa takut",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "ٱلَّذِينَ",
+      "transliterasi": "alladhīna",
+      "jenis_kata": "Isim",
+      "arti": "yang (pronomina relatif)",
+      "sharaf": {
+        "akar_kata": "ذ-و-ن (pronomina)",
+        "makna_dasar": "yang",
+        "wazan_perubahan": "اسم موصول"
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada' dalam klausa \"ٱلَّذِينَ كَفَرُوا\"",
+        "irab_dan_logika": "Marfu' karena berfungsi sebagai subject, berharakat dammah"
+      },
+      "hikmah": "Menunjuk kepada golongan orang kafir yang akan ditakuti",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "كَفَرُوا۟",
+      "transliterasi": "kafarū",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka kafir, tidak beriman",
+      "sharaf": {
+        "akar_kata": "ك-ف-ر",
+        "makna_dasar": "kafir (menolak iman)",
+        "wazan_perubahan": "فعل ماضٍ ثلاثي مجرد"
+      },
+      "nahwu": {
+        "kedudukan": "Predikat (fi'il madhi) untuk ٱلَّذِينَ",
+        "irab_dan_logika": "Marfu' بالضمة karena fi'il madhi"
+      },
+      "hikmah": "Menggambarkan sikap penolakan iman yang menjadi sasaran ketakutan",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "ٱلرُّعْبَ",
+      "transliterasi": "ar‑ru‘ba",
+      "jenis_kata": "Isim",
+      "arti": "ketakutan",
+      "sharaf": {
+        "akar_kata": "ر-ع-ب",
+        "makna_dasar": "takut",
+        "wazan_perubahan": "فَعْل"
+      },
+      "nahwu": {
+        "kedudukan": "Maf‘ul bih (objek) dari fi'il \"jatuhkan\"",
+        "irab_dan_logika": "Nasb karena berfungsi sebagai maf‘ul bih, berharakat fatha"
+      },
+      "hikmah": "Rasa takut yang diturunkan ke dalam hati orang kafir",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "فَٱضْرِبُوا۟",
+      "transliterasi": "fa‑adribū",
+      "jenis_kata": "Fi'il",
+      "arti": "maka pukullah",
+      "sharaf": {
+        "akar_kata": "ض-ر-ب",
+        "makna_dasar": "memukul, menampar",
+        "wazan_perubahan": "فعل أمر ثلاثي"
+      },
+      "nahwu": {
+        "kedudukan": "Perintah (imperatif) kepada para malaikat",
+        "irab_dan_logika": "Amr مبني على السكون، والواو للغائب الجمع"
+      },
+      "hikmah": "Ajakan kuat untuk menegakkan hukuman atas orang kafir",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "فَوْقَ",
+      "transliterasi": "fawqa",
+      "jenis_kata": "Huruf",
+      "arti": "di atas",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar (preposisi) yang menghubungkan ke *الأعنق*",
+        "irab_dan_logika": "**مُنصوب** karena huruf jar *فَوْقَ* mengambil isim ber‑nasb (حرف جر + نصب)"
+      },
+      "hikmah": "Menunjukkan tindakan memukul **di atas** leher musuh, menambah efek menakutkan.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "ٱلْأَعْنَاقِ",
+      "transliterasi": "al‑‘anaqi",
+      "jenis_kata": "Isim",
+      "arti": "leher‑leher",
+      "sharaf": {
+        "akar_kata": "ع‑ن‑ق",
+        "makna_dasar": "leher",
+        "wazan_perubahan": "مفعل"
+      },
+      "nahwu": {
+        "kedudukan": "Isim majrur (kasrah) setelah huruf jar *فَوْقَ*",
+        "irab_dan_logika": "**مجرور** karena berhubungan dengan preposisi *فَوْقَ*"
+      },
+      "hikmah": "Menunjuk pada **leher** musuh sebagai titik kritis yang akan dipukul.",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "وَٱضْرِبُوا",
+      "transliterasi": "wa‑adribū",
+      "jenis_kata": "Fi‘il",
+      "arti": "dan pukullah",
+      "sharaf": {
+        "akar_kata": "ض‑ر‑ب",
+        "makna_dasar": "memukul",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "Fi‘il amar (perintah) jamak maskulin, didahului waqf *و*",
+        "irab_dan_logika": "**مبني على السكون** (akhirnya sukun) dengan **واو** untuk **رفع**"
+      },
+      "hikmah": "Perintah tegas kepada para malaikat untuk **memukul** musuh.",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "مِنْهُمْ",
+      "transliterasi": "minhum",
+      "jenis_kata": "Huruf",
+      "arti": "dari mereka",
+      "sharaf": {
+        "akar_kata": "م‑ن",
+        "makna_dasar": "dari",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar *مِن* yang mengikat *هُمْ* (kata ganti)",
+        "irab_dan_logika": "**مجرور** karena preposisi *مِن* memerlukan isim dalam kasus genitif"
+      },
+      "hikmah": "Menunjukkan sumber **jari‑jari** yang akan dipukul, yaitu milik mereka.",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "كُلَّ",
+      "transliterasi": "kulla",
+      "jenis_kata": "Isim",
+      "arti": "setiap",
+      "sharaf": {
+        "akar_kata": "ك‑ل‑ل",
+        "makna_dasar": "seluruh, setiap",
+        "wazan_perubahan": "فعَل"
+      },
+      "nahwu": {
+        "kedudukan": "Isim منصوب (مفعول به) setelah fi‘il *اضْرِبُوا*",
+        "irab_dan_logika": "**منصوب** karena menjadi objek langsung fi‘il *اضْرِبُوا*"
+      },
+      "hikmah": "Menegaskan bahwa **setiap** jari harus dipukul, tanpa kecuali.",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "بَنَانٍۢ",
+      "transliterasi": "banānin",
+      "jenis_kata": "Isim",
+      "arti": "jari‑jari",
+      "sharaf": {
+        "akar_kata": "ب‑ن‑ن",
+        "makna_dasar": "jari",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "Isim مجرور (kasrah) sebagai **khabar** dari *كُلَّ*",
+        "irab_dan_logika": "**مجرور** karena *كُلَّ* mengharuskan isim berikutnya dalam genitif"
+      },
+      "hikmah": "Mengacu pada **setiap jari** musuh, menambah detail kekejaman perintah.",
+      "role": "none"
+    }
+  ]
+}

@@ -1,0 +1,402 @@
+{
+  "surah": 10,
+  "ayah": 93,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "وَلَقَدْ",
+      "transliterasi": "wa laqad",
+      "jenis_kata": "Huruf",
+      "arti": "dan sesungguhnya",
+      "sharaf": {
+        "akar_kata": "قَد",
+        "makna_dasar": "telah",
+        "wazan_perubahan": "قَدَ (partikel)"
+      },
+      "nahwu": {
+        "kedudukan": "pembuka ayat, huruf penguat",
+        "irab_dan_logika": "Tidak berharakat karena huruf, berfungsi memperkuat makna"
+      },
+      "hikmah": "Menegaskan kebenaran pernyataan selanjutnya",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "بَوَّأْنَا",
+      "transliterasi": "bawwa'nā",
+      "jenis_kata": "Fi'il",
+      "arti": "kami menempatkan",
+      "sharaf": {
+        "akar_kata": "و أ أ",
+        "makna_dasar": "menempatkan, menaruh",
+        "wazan_perubahan": "فَعَّ"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il madhi (predikat)",
+        "irab_dan_logika": "Marfu' dengan dhammah karena fi'il madhi, akhiran -na menunjukkan subjek 1st person plural"
+      },
+      "hikmah": "Menunjukkan Allah menempatkan Bani Israil di tempat yang baik",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "بَنِى",
+      "transliterasi": "banī",
+      "jenis_kata": "Isim",
+      "arti": "anak‑anak (keturunan)",
+      "sharaf": {
+        "akar_kata": "ب ن ي",
+        "makna_dasar": "anak",
+        "wazan_perubahan": "مَفْعَل (bani)"
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "وَرَزَقْنَٰهُم",
+      "transliterasi": "wa-razaqna-hum",
+      "jenis_kata": "Fi'il",
+      "arti": "dan Kami memberi rezeki kepada mereka",
+      "sharaf": {
+        "akar_kata": "ر-ز-ق",
+        "makna_dasar": "memberi rezeki, menyediakan",
+        "wazan_perubahan": "فعل ماضٍ مع واو العطف والضمير المتصل -نا‑هُم"
+      },
+      "nahwu": {
+        "kedudukan": "predikat (fi'il) yang berhubungan dengan subjek \"Kami\"",
+        "irab_dan_logika": "مرفوع بالفتحة لأنّه فعل ماضٍ مبني على الفتح، والواو حرف عطف"
+      },
+      "hikmah": "menunjukkan kemurahan Allah yang memberi rezeki yang baik kepada Bani Israil",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "مِّنَ",
+      "transliterasi": "mina",
+      "jenis_kata": "Huruf",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "preposisi yang menunjukkan asal atau sumber",
+        "wazan_perubahan": "حرف جر"
+      },
+      "nahwu": {
+        "kedudukan": "menunjukkan hubungan antara \"Kami memberi rezeki\" dan \"الطيبات\"",
+        "irab_dan_logika": "حرف جر مبني على السكون لا محل له من الإعراب"
+      },
+      "hikmah": "menandakan bahwa rezeki yang diberikan bersumber dari yang baik",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "ٱلطَّيِّبَٰتِ",
+      "transliterasi": "al-ṭayyibāti",
+      "jenis_kata": "Isim",
+      "arti": "yang baik‑baik",
+      "sharaf": {
+        "akar_kata": "ط-ي-ب",
+        "makna_dasar": "baik, bagus, suci",
+        "wazan_perubahan": "صيغة جمع مؤنث سالم"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به للفعل \"رَزَقْنَاهُم\" في حالة جر بسبب حرف الجر \"مِنَ\"",
+        "irab_dan_logika": "مجرور بالكسرة الظاهرة على آخره بسبب من"
+      },
+      "hikmah": "menegaskan bahwa rezeki yang diberikan adalah yang baik dan suci",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "فَمَا",
+      "transliterasi": "fa-mā",
+      "jenis_kata": "Huruf",
+      "arti": "maka tidak (apa)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "حرف عطف + اسم شرط غير جازم",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "حرف عطف يربط الجملة السابقة باللاحقة، والما اسم شرط غير جازم مبني على السكون في محل رفع مبتدأ",
+        "irab_dan_logika": "الفاء حرف عطف، والما مبني على السكون في محل رفع"
+      },
+      "hikmah": "menunjukkan bahwa sebelum datangnya bukti tidak ada perselisihan",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "ٱخْتَلَفُوا۟",
+      "transliterasi": "ikhtalafū",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka berselisih",
+      "sharaf": {
+        "akar_kata": "خ-ل-ف",
+        "makna_dasar": "berbeda, berselisih",
+        "wazan_perubahan": "فعل ماضٍ ثلاثي مجرد مع واو الجماعة"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ماضٍ مبني على الضم، والواو ضمير متصل في محل رفع فاعل",
+        "irab_dan_logika": "مرفوع بالضمة الظاهرة على آخره، والواو ضمير متصل في محل رفع فاعل"
+      },
+      "hikmah": "menegaskan bahwa perselisihan muncul setelah datangnya pengetahuan",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "حَتَّىٰ",
+      "transliterasi": "ḥattā",
+      "jenis_kata": "Huruf",
+      "arti": "hingga",
+      "sharaf": {
+        "akar_kata": "ح-ت-ى",
+        "makna_dasar": "sampai, sampai pada",
+        "wazan_perubahan": "حرف جر أو عطف"
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر مبني على السكون يربط الجملة اللاحقة \"جاءتهم البينة\"",
+        "irab_dan_logika": "حرف جر مبني على السكون لا محل له من الإعراب"
+      },
+      "hikmah": "menunjukkan batas waktu atau syarat munculnya perselisihan",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "جَاءَهُمُ",
+      "transliterasi": "jā'ahumu",
+      "jenis_kata": "Fi'il",
+      "arti": "datang kepada mereka",
+      "sharaf": {
+        "akar_kata": "ج-ء-",
+        "makna_dasar": "datang",
+        "wazan_perubahan": "فَعَلَ (fa'ala)"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il madhi (kata kerja lampau)",
+        "irab_dan_logika": "مبني على الفتح، والهاء المتصلة مفعول به منصوب بالضمة لأن الفعل متعدٍ"
+      },
+      "hikmah": "Menunjukkan bahwa ilmu datang kepada Bani Israil sebagai pemberian Ilahi, bukan hasil usaha mereka sendiri",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "ٱلْعِلْمُ",
+      "transliterasi": "al-ʿilm",
+      "jenis_kata": "Isim",
+      "arti": "pengetahuan",
+      "sharaf": {
+        "akar_kata": "ع-ل-م",
+        "makna_dasar": "mengetahui",
+        "wazan_perubahan": "فَعْل (faʿl)"
+      },
+      "nahwu": {
+        "kedudukan": "mubtada' (subjek)",
+        "irab_dan_logika": "مرفوع بالضمة لأنه مبتدأ"
+      },
+      "hikmah": "Ilmu adalah faktor pemicu perselisihan; ketika ilmu (wahyu) turun, manusia mulai menilai dan berdebat",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "ۚ",
+      "transliterasi": "(waqf)",
+      "jenis_kata": "Huruf",
+      "arti": "tanda jeda",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda waqf (hentian ayat)",
+        "irab_dan_logika": "tidak berirab, berfungsi memberi jeda untuk menekankan makna"
+      },
+      "hikmah": "Memberi ruang bagi pembaca merenungkan pentingnya ilmu sebelum melanjutkan penjelasan",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "إِنَّ",
+      "transliterasi": "inna",
+      "jenis_kata": "Huruf",
+      "arti": "sesungguhnya",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "huruf takid dan nasb",
+        "irab_dan_logika": "حرف توكيد ونصب يرفع ما بعده ويجعل ما قبله مرفوعاً"
+      },
+      "hikmah": "Menegaskan kepastian bahwa Tuhanlah yang akan memutuskan perselisihan",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "رَبَّكَ",
+      "transliterasi": "rabbaka",
+      "jenis_kata": "Isim",
+      "arti": "Tuhanmu",
+      "sharaf": {
+        "akar_kata": "ر-ب-ب",
+        "makna_dasar": "menjaga, memelihara",
+        "wazan_perubahan": "فَعَّ (fa''a)"
+      },
+      "nahwu": {
+        "kedudukan": "isim 'inna' منصوب",
+        "irab_dan_logika": "مُنصَب بالفتحة لأنه اسم إنّ، والضمير المتصل (كَ) في محل جر"
+      },
+      "hikmah": "Menunjukkan hubungan pribadi antara Allah dan hamba‑Nya, menegaskan otoritas-Nya dalam memutuskan",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "يَقْضِى",
+      "transliterasi": "yaqḍī",
+      "jenis_kata": "Fi'il",
+      "arti": "menetapkan, memutuskan",
+      "sharaf": {
+        "akar_kata": "ق-ض-ى",
+        "makna_dasar": "mengadili, memutuskan",
+        "wazan_perubahan": "يفعل (yafʿalu)"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il mudhari' (kata kerja)",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فعل مضارع مرفوع وعلامة رفعه الضمة الظاهرة"
+      },
+      "hikmah": "Allah akan menilai dan menyelesaikan semua perselisihan pada hari kiamat dengan keadilan mutlak",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "بَيْنَهُمْ",
+      "transliterasi": "baynahum",
+      "jenis_kata": "Huruf (preposisi dengan suffiks)",
+      "arti": "di antara mereka",
+      "sharaf": {
+        "akar_kata": "ب-ي-ن",
+        "makna_dasar": "memisahkan, berada di antara",
+        "wazan_perubahan": "baiyn"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar yang menghubungkan \"bayna\" dengan \"yawm al-qiyamah\"",
+        "irab_dan_logika": "مجرور بالكسرة لأن حرف جر يجر ما بعده، والضمير المتصل \"هم\" في محل جر"
+      },
+      "hikmah": "**Allah** akan menilai perselisihan **di antara mereka** pada hari kiamat",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "يَوْمَ",
+      "transliterasi": "yawma",
+      "jenis_kata": "Isim (isim zaman)",
+      "arti": "hari",
+      "sharaf": {
+        "akar_kata": "ي-و-م",
+        "makna_dasar": "hari, waktu",
+        "wazan_perubahan": "fa‘ala"
+      },
+      "nahwu": {
+        "kedudukan": "Objek langsung (مفعول به) dari fi'il \"يَحْكُمُ\"",
+        "irab_dan_logika": "منصوب بالفتحة لأن الفعل يَحْكُمُ يحتاج مفعولاً به منصوباً"
+      },
+      "hikmah": "Hari **kiamat** menjadi waktu keputusan Allah",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "ٱلْقِيَٰمَةِ",
+      "transliterasi": "al‑qiyāmati",
+      "jenis_kata": "Isim (isim maṣdar)",
+      "arti": "kebangkitan, kiamat",
+      "sharaf": {
+        "akar_kata": "ق-و-م",
+        "makna_dasar": "bangun, berdiri",
+        "wazan_perubahan": "fa‘ala"
+      },
+      "nahwu": {
+        "kedudukan": "مضاف إليه في عبارة الإضافة \"يَوْمَ ٱلْقِيَٰمَةِ\"",
+        "irab_dan_logika": "مجرور بالكسرة لأنه مضاف إليه"
+      },
+      "hikmah": "Menunjuk **hari kebangkitan** yang menentukan nasib",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "فِيمَا",
+      "transliterasi": "fīmā",
+      "jenis_kata": "Huruf (حرف جر + اسم موصول)",
+      "arti": "dalam apa",
+      "sharaf": {
+        "akar_kata": "ف-ي",
+        "makna_dasar": "di dalam, berada dalam",
+        "wazan_perubahan": "fi‘il"
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر يجر ما (اسم موصول)",
+        "irab_dan_logika": "حرف جر + اسم موصول مبني على السكون مجرور بالكسرة"
+      },
+      "hikmah": "Menunjukkan **isi** perselisihan yang akan diputus",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "كَانُوا۟",
+      "transliterasi": "kānū",
+      "jenis_kata": "Fi'il (verb)",
+      "arti": "mereka adalah",
+      "sharaf": {
+        "akar_kata": "ك-و-ن",
+        "makna_dasar": "menjadi, ada",
+        "wazan_perubahan": "fa‘ala"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ماضٍ مع واو الجماعة في محل رفع فاعل",
+        "irab_dan_logika": "مبني على الفتح، والواو ضمير متصل في محل رفع"
+      },
+      "hikmah": "Menyatakan **kondisi** mereka sebelum keputusan akhir",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "فِيهِ",
+      "transliterasi": "fīhi",
+      "jenis_kata": "Huruf (حرف جر + ضمير)",
+      "arti": "di dalamnya",
+      "sharaf": {
+        "akar_kata": "ف-ي",
+        "makna_dasar": "di dalam",
+        "wazan_perubahan": "fi‘il"
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر + ضمير متصل في محل جر",
+        "irab_dan_logika": "حرف جر يجر الضمير المتصل المجَرُور بالكسرة"
+      },
+      "hikmah": "Menegaskan **lokasi** perselisihan yang akan diputus oleh Allah",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "يَخْتَلِفُونَ",
+      "transliterasi": "yaḵtalifūna",
+      "jenis_kata": "Fi'il",
+      "arti": "**berbeda**, **berselisih**",
+      "sharaf": {
+        "akar_kata": "خ ل ف",
+        "makna_dasar": "perbedaan, pertentangan",
+        "wazan_perubahan": "bentuk I (فَعَلَ) → فعل مضارع مرفوع بالواو"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja aktif (fi‘il mudhari‘) yang berfungsi sebagai predikat dalam ayat",
+        "irab_dan_logika": "مرفوع بالواو لأنه فعل مضارع مرفوع بالواو، والواو للرفع لأنه من الأفعال المعتلة"
+      },
+      "hikmah": "Kata ini menegaskan bahwa perselisihan Bani Israil bukan karena sifat mereka, melainkan karena munculnya pengetahuan tertentu; menyingkap bahwa perbedaan pendapat adalah bagian dari ujian Allah yang akan diputuskan pada hari kiamat.",
+      "role": "none"
+    }
+  ]
+}

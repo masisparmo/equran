@@ -1,0 +1,690 @@
+{
+  "surah": 7,
+  "ayah": 150,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "وَلَمَّا",
+      "transliterasi": "wa‑lammā",
+      "jenis_kata": "Huruf",
+      "arti": "dan ketika",
+      "sharaf": {
+        "akar_kata": "ل‑م‑ا",
+        "makna_dasar": "menunjukkan waktu (ketika)",
+        "wazan_perubahan": "lamma (حرف زمان)"
+      },
+      "nahwu": {
+        "kedudukan": "kata pembuka klausa temporal",
+        "irab_dan_logika": "huruf **لا إعراب له**; berfungsi menghubungkan ayat sebelumnya dengan ayat ini"
+      },
+      "hikmah": "Menandakan bahwa peristiwa yang akan diceritakan terjadi pada saat Musa kembali, menegaskan kronologi cerita.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "رَجَعَ",
+      "transliterasi": "rajaʿa",
+      "jenis_kata": "Fi'il",
+      "arti": "kembali",
+      "sharaf": {
+        "akar_kata": "ر‑ج‑ع",
+        "makna_dasar": "kembali, pulang",
+        "wazan_perubahan": "فعل ماضٍ ثلاثي مجرد"
+      },
+      "nahwu": {
+        "kedudukan": "predikat utama (fi'il madhi) dalam kalimat",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فعل ماضٍ مبني على الفتح"
+      },
+      "hikmah": "Menunjukkan aksi utama Musa yang kembali kepada kaumnya, menyiapkan konteks emosional selanjutnya.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "مُوسَىٰ",
+      "transliterasi": "Mūsā",
+      "jenis_kata": "Isim",
+      "arti": "Musa (nama nabi)",
+      "sharaf": {
+        "akar_kata": "م‑و‑س",
+        "makna_dasar": "nama pribadi nabi Musa",
+        "wazan_perubahan": "اسم علم"
+      },
+      "nahwu": {
+        "kedudukan": "فاعل للفعل \"رَجَعَ\"",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فاعل مرفوع"
+      },
+      "hikmah": "Menegaskan subjek yang melakukan tindakan kembali, menekankan peran sentral Musa dalam peristiwa.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "إِلَىٰ",
+      "transliterasi": "ilā",
+      "jenis_kata": "Huruf",
+      "arti": "kepada, menuju",
+      "sharaf": {
+        "akar_kata": "إ‑ل‑ى",
+        "makna_dasar": "menunjukkan arah atau tujuan",
+        "wazan_perubahan": "حرف جر"
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر يجر ما بعده",
+        "irab_dan_logika": "لا إعراب له؛ يجر الاسم التالي (قَوْمِهِ)"
+      },
+      "hikmah": "Menunjukkan tujuan Musa kembali, yaitu kepada kaumnya.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "قَوْمِهِ",
+      "transliterasi": "qawmi‑hi",
+      "jenis_kata": "Isim",
+      "arti": "kaumnya",
+      "sharaf": {
+        "akar_kata": "ق‑و‑م",
+        "makna_dasar": "kaum, orang-orang",
+        "wazan_perubahan": "اسم مجرور بحرف الجر + ضمير متصل"
+      },
+      "nahwu": {
+        "kedudukan": "مجرور بحرف الجر \"إِلَى\" ومضاف إليه الضمير المتصل \"هِ\"",
+        "irab_dan_logika": "مجرور بالكسرة لأن حرف الجر يجر الاسم، والكسرة علامة الجر"
+      },
+      "hikmah": "Menunjukkan kelompok orang yang menjadi sasaran kembali Musa, menegaskan konteks sosial.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "غَضْبَٰنًا",
+      "transliterasi": "ghadbanan",
+      "jenis_kata": "Isim (nama keadaan)",
+      "arti": "marah, berang",
+      "sharaf": {
+        "akar_kata": "غ‑ض‑ب",
+        "makna_dasar": "kemarahan",
+        "wazan_perubahan": "اسم حالة منصوب على وزن فعولن"
+      },
+      "nahwu": {
+        "kedudukan": "حال منصوب يصف الفعل \"رَجَعَ\"",
+        "irab_dan_logika": "منصوب بالفتحة وعلامة النصب تنوين الفتح لأنه حال"
+      },
+      "hikmah": "Menggambarkan keadaan hati Musa yang penuh kemarahan ketika kembali, menambah dimensi emosional pada narasi.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "أَسِفًۭا",
+      "transliterasi": "asifan",
+      "jenis_kata": "Huruf",
+      "arti": "sungguh menyesal / celakalah",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "menyesal",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "kata seru (particle) yang menegaskan rasa penyesalan",
+        "irab_dan_logika": "berharakat tanwin fathah (ً) karena berfungsi sebagai nasb (accusative) pada seruan"
+      },
+      "hikmah": "Musa mengungkapkan penyesalan yang mendalam atas perbuatan kaum setelah kepergiannya",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "قَالَ",
+      "transliterasi": "qaala",
+      "jenis_kata": "Fi'il",
+      "arti": "dia berkata",
+      "sharaf": {
+        "akar_kata": "ق و ل",
+        "makna_dasar": "mengucapkan",
+        "wazan_perubahan": "فَعَلَ (fi'il madhi)"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il madhi, 3rd maskulin tunggal, subjek tersirat (Musa)",
+        "irab_dan_logika": "مرفوع بالضمة karena merupakan fi'il madhi"
+      },
+      "hikmah": "Menandakan ucapan Musa yang menegur kaum",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "بِئْسَمَا",
+      "transliterasi": "bi'samaa",
+      "jenis_kata": "Huruf",
+      "arti": "betapa buruknya",
+      "sharaf": {
+        "akar_kata": "ب س ع",
+        "makna_dasar": "buruk",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "huruf seru (particle) yang memperkenalkan kalimat seruan",
+        "irab_dan_logika": "berharakat tanwin fathah (ً) karena berfungsi sebagai nasb pada seruan"
+      },
+      "hikmah": "Menunjukkan rasa keterkejutan dan kecaman Musa terhadap perbuatan mereka",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "خَلَفْتُمُونِي",
+      "transliterasi": "khalaftumuni",
+      "jenis_kata": "Fi'il",
+      "arti": "kamu menggantiku",
+      "sharaf": {
+        "akar_kata": "خ ل ف",
+        "makna_dasar": "mengganti, menempati setelah",
+        "wazan_perubahan": "فَعَلَ (fi'il madhi) + suffix -tum (2nd pl) + -ni (objek pertama)"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il madhi, 2nd maskulin jamak, dengan objek pronoun pertama",
+        "irab_dan_logika": "مرفوع بالضمة karena fi'il madhi"
+      },
+      "hikmah": "Musa menuduh kaum telah mengambil alih kepemimpinan/posisinya setelah kepergiannya",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "مِنۢ",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar (preposisi)",
+        "irab_dan_logika": "harf jar tidak berharakat, menurunkan kata berikutnya ke kasus genitif"
+      },
+      "hikmah": "Menunjukkan sumber atau urutan waktu",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "بَعْدِىٓ",
+      "transliterasi": "ba'di",
+      "jenis_kata": "Isim",
+      "arti": "setelahku",
+      "sharaf": {
+        "akar_kata": "ب ع د",
+        "makna_dasar": "setelah",
+        "wazan_perubahan": "فَعْل"
+      },
+      "nahwu": {
+        "kedudukan": "isim majrur (kata benda dalam kasus genitif) karena dipengaruhi huruf jar \"min\"",
+        "irab_dan_logika": "berkasrah (ِ) menandakan jar"
+      },
+      "hikmah": "Menunjukkan waktu yang berlalu setelah Musa meninggalkan mereka",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "ۖ",
+      "transliterasi": "(tanda baca)",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "Koma Arab (virgul) yang menandakan jeda",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca, memisahkan bagian kalimat",
+        "irab_dan_logika": "Tidak memiliki i‘rāb karena bukan kata; berfungsi sebagai pemisah sintaks"
+      },
+      "hikmah": "Menunjukkan jeda sebelum lanjutan ayat, memberi ruang bagi pembaca merenungkan pertanyaan Musa",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "أَعَجِلْتُمْ",
+      "transliterasi": "aʿajiltum",
+      "jenis_kata": "Fi'il (verb)",
+      "arti": "kamu mempercepat / mendahului",
+      "sharaf": {
+        "akar_kata": "ع ج ل",
+        "makna_dasar": "cepat, tergesa‑gesa",
+        "wazan_perubahan": "فَعَلَ (bentuk perfect)"
+      },
+      "nahwu": {
+        "kedudukan": "Predikat dalam pertanyaan “أَأَنتُمْ تَسْتَعْجِلُونَ …”",
+        "irab_dan_logika": "Marfu‘ (damma) karena fi‘l madhi; menanyakan apakah kalian ingin mendahului (mempercepat) perintah Tuhan"
+      },
+      "hikmah": "Menggambarkan sikap kaum yang ingin melampaui atau mengabaikan perintah Allah dengan tergesa‑gesa",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "أَمْرَ",
+      "transliterasi": "amra",
+      "jenis_kata": "Isim (noun)",
+      "arti": "urusan, perintah",
+      "sharaf": {
+        "akar_kata": "أ م ر",
+        "makna_dasar": "perintah, urusan",
+        "wazan_perubahan": "فَعْل"
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "ٱلْأَلْوَاحَ",
+      "transliterasi": "al‑alwāḥa",
+      "jenis_kata": "Isim",
+      "arti": "tablet (jamak)",
+      "sharaf": {
+        "akar_kata": "ل و ح",
+        "makna_dasar": "permukaan datar, papan",
+        "wazan_perubahan": "فَعْلَة"
+      },
+      "nahwu": {
+        "kedudukan": "objek (مفعول به) dari fiʿl *akhadha*",
+        "irab_dan_logika": "مَنْصُوب بالفتحة لأنّه مفعول به"
+      },
+      "hikmah": "Menunjukkan tindakan Musa melemparkan **Al‑Alwāḥa** sebagai peringatan atas pelanggaran kaum.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "وَأَخَذَ",
+      "transliterasi": "wa‑akhadha",
+      "jenis_kata": "Fiʿl",
+      "arti": "dan dia mengambil",
+      "sharaf": {
+        "akar_kata": "أ خ ذ ر",
+        "makna_dasar": "mengambil, memegang",
+        "wazan_perubahan": "فَعَلَ"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja utama, فعل ماضٍ",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فعل ماضٍ"
+      },
+      "hikmah": "Menandakan aksi tegas Musa setelah kembali ke kaumnya.",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "بِرَأْسِ",
+      "transliterasi": "bi‑raʾsi",
+      "jenis_kata": "Isim",
+      "arti": "dengan kepala",
+      "sharaf": {
+        "akar_kata": "ر أ س",
+        "makna_dasar": "kepala",
+        "wazan_perubahan": "فَعْل"
+      },
+      "nahwu": {
+        "kedudukan": "keterangan cara (حرف جر + اسم مجرور)",
+        "irab_dan_logika": "مجرور بالكسرة لأنه مجرور بحرف الجر"
+      },
+      "hikmah": "Menunjukkan cara Musa memegang **raʾs** saudaranya, yaitu dengan menarik kepalanya.",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "أَخِيهِ",
+      "transliterasi": "akhīhi",
+      "jenis_kata": "Isim",
+      "arti": "saudaranya",
+      "sharaf": {
+        "akar_kata": "أ خ ر",
+        "makna_dasar": "saudara laki‑laki",
+        "wazan_perubahan": "فَعِيل"
+      },
+      "nahwu": {
+        "kedudukan": "objek preposisi *bi* (مجرور)",
+        "irab_dan_logika": "مجرور بالكسرة لأنه مجرور بحرف الجر"
+      },
+      "hikmah": "Menegaskan bahwa yang ditarik adalah **Harun**, saudara Musa.",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "يَجُرُّهُ",
+      "transliterasi": "yajurruhu",
+      "jenis_kata": "Fiʿl",
+      "arti": "menariknya",
+      "sharaf": {
+        "akar_kata": "ج ر ر",
+        "makna_dasar": "menarik, menyeret",
+        "wazan_perubahan": "فَعَّل"
+      },
+      "nahwu": {
+        "kedudukan": "fiʿl mudhariʿ (فعل مضارع) dengan ضمير متصل",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فعل مضارع مرفوع"
+      },
+      "hikmah": "Menggambarkan aksi Musa yang menarik **Harun** ke arah dirinya.",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "إِلَيْهِ",
+      "transliterasi": "ilayhi",
+      "jenis_kata": "Huruf",
+      "arti": "kepada dia",
+      "sharaf": {
+        "akar_kata": "ل ي",
+        "makna_dasar": "menuju, ke arah",
+        "wazan_perubahan": "حرف جر"
+      },
+      "nahwu": {
+        "kedudukan": "keterangan tempat (ظرف مكان)",
+        "irab_dan_logika": "مجرور بالكسرة لأنه مجرور بحرف الجر"
+      },
+      "hikmah": "Menunjukkan arah penarikan, yaitu **ke arah Musa**.",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf",
+      "arti": "tanda waqf (tanda koma Arab)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda waqf di akhir ayat",
+        "irab_dan_logika": "menandakan jeda, tidak berharakat"
+      },
+      "hikmah": "menunjukkan jeda untuk memisahkan bagian kalimat",
+      "role": "none"
+    },
+    {
+      "index": 25,
+      "kata_arab": "قَالَ",
+      "transliterasi": "qāla",
+      "jenis_kata": "Fi'il",
+      "arti": "dia berkata",
+      "sharaf": {
+        "akar_kata": "ق و ل",
+        "makna_dasar": "kata “kata” (berkata)",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il madhi mubni 'al‑fatha",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فعل ماضٍ"
+      },
+      "hikmah": "menunjukkan pernyataan atau ucapan",
+      "role": "none"
+    },
+    {
+      "index": 26,
+      "kata_arab": "ٱبْنَ",
+      "transliterasi": "ibn",
+      "jenis_kata": "Isim",
+      "arti": "anak laki‑laki",
+      "sharaf": {
+        "akar_kata": "ب ن ي",
+        "makna_dasar": "anak",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "mafʿūl bihi, منصوب بالفتحة",
+        "irab_dan_logika": "منصوب لأنه مفعول به للفعل “قَالَ”"
+      },
+      "hikmah": "menunjukkan hubungan kekerabatan, subjek ucapan",
+      "role": "none"
+    },
+    {
+      "index": 27,
+      "kata_arab": "أُمَّ",
+      "transliterasi": "umm",
+      "jenis_kata": "Isim",
+      "arti": "ibu",
+      "sharaf": {
+        "akar_kata": "أ م م",
+        "makna_dasar": "ibu",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "mudāf ilayh, مجرور بالكسرة",
+        "irab_dan_logika": "مجرور لأنه مضاف إليه في iḍāfah “ابن أُمّ”"
+      },
+      "hikmah": "menunjukkan asal‑usul, memperjelas hubungan",
+      "role": "none"
+    },
+    {
+      "index": 28,
+      "kata_arab": "إِنَّ",
+      "transliterasi": "innā",
+      "jenis_kata": "Huruf",
+      "arti": "sesungguhnya",
+      "sharaf": {
+        "akar_kata": "أ ن ن",
+        "makna_dasar": "penegasan",
+        "wazan_perubahan": "أَفْعَل"
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 30,
+      "kata_arab": "ٱسْتَضْعَفُونِى",
+      "transliterasi": "istadʿafuūnī",
+      "jenis_kata": "Fi'il",
+      "arti": "menjadikan aku lemah / menindas aku",
+      "sharaf": {
+        "akar_kata": "ض ع ف",
+        "makna_dasar": "lemah, lemahkan",
+        "wazan_perubahan": "استَفْعَل (istafʿala)"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja berkesudahan (verb) dalam bentuk mudhari‘ (present) dengan dhamir muttasil \"ونِي\"",
+        "irab_dan_logika": "harakat akhir dhammah karena mudhari‘ madhi (present) dengan dhamir muttasil"
+      },
+      "hikmah": "Menggambarkan rasa tertekan dan penindasan yang dirasakan Nabi Musa terhadap kaumnya.",
+      "role": "none"
+    },
+    {
+      "index": 31,
+      "kata_arab": "وَكَادُوا۟",
+      "transliterasi": "wa kādū",
+      "jenis_kata": "Fi'il",
+      "arti": "dan hampir (melakukan sesuatu)",
+      "sharaf": {
+        "akar_kata": "ك و د",
+        "makna_dasar": "hampir, hampir terjadi",
+        "wazan_perubahan": "كَادَ (kāda) – bentuk mudhari‘"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja dalam bentuk mudhari‘ (present) dengan dhamir jam‘ (plural)",
+        "irab_dan_logika": "harakat akhir dhammah menandakan mudhari‘"
+      },
+      "hikmah": "Menunjukkan intensitas tindakan yang hampir terjadi, yaitu mereka hampir membunuh Nabi Musa.",
+      "role": "none"
+    },
+    {
+      "index": 32,
+      "kata_arab": "يَقْتُلُونَنِى",
+      "transliterasi": "yaqtulūnanī",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka membunuhku",
+      "sharaf": {
+        "akar_kata": "ق ت ل",
+        "makna_dasar": "membunuh",
+        "wazan_perubahan": "فَعَلَ (faʿala) – mudhari‘ dengan dhamir jam‘"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja mudhari‘ (present) dengan dhamir jam‘ (mereka) dan dhamir muttasil \"نِي\" sebagai objek",
+        "irab_dan_logika": "harakat akhir dhammah karena mudhari‘"
+      },
+      "hikmah": "Menegaskan ancaman nyawa yang dihadapi Nabi Musa dari kaumnya.",
+      "role": "none"
+    },
+    {
+      "index": 33,
+      "kata_arab": "فَلَا",
+      "transliterasi": "fa-lā",
+      "jenis_kata": "Huruf",
+      "arti": "maka tidak",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "huruf sambung (fa) + huruf nakirah (lā) yang berfungsi sebagai penegas larangan",
+        "irab_dan_logika": "tidak berharakat karena huruf"
+      },
+      "hikmah": "Menandai perintah atau larangan yang akan diikuti, yaitu \"jangan\".",
+      "role": "none"
+    },
+    {
+      "index": 34,
+      "kata_arab": "تُشْمِتْ",
+      "transliterasi": "tushmit",
+      "jenis_kata": "Fi'il",
+      "arti": "kamu (men) mencela / memfitnah",
+      "sharaf": {
+        "akar_kata": "ش م ت",
+        "makna_dasar": "memfitnah, mencela",
+        "wazan_perubahan": "فَعَلَ (faʿala) – bentuk mudhari‘"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja mudhari‘ dalam bentuk majzum (jussive) setelah \"لا\" negatif",
+        "irab_dan_logika": "harakat akhir sukun karena majzum (jussive) setelah \"لا\""
+      },
+      "hikmah": "Peringatan agar tidak menjelekkan atau memfitnah Nabi Musa.",
+      "role": "none"
+    },
+    {
+      "index": 35,
+      "kata_arab": "بِىَ",
+      "transliterasi": "bī",
+      "jenis_kata": "Huruf",
+      "arti": "dengan aku",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar (preposisi) yang menghubungkan kata kerja \"تُشْمِتْ\" dengan objek \"بِي\"",
+        "irab_dan_logika": "berkasrah karena huruf jar"
+      },
+      "hikmah": "Menegaskan bahwa larangan tersebut ditujukan kepada tindakan mencela terhadap dirinya.",
+      "role": "none"
+    },
+    {
+      "index": 36,
+      "kata_arab": "ٱلْأَعْدَآءَ",
+      "transliterasi": "al‑a‘dā’",
+      "jenis_kata": "Isim",
+      "arti": "musuh‑musuh",
+      "sharaf": {
+        "akar_kata": "ع‑د‑و",
+        "makna_dasar": "menentang, melawan",
+        "wazan_perubahan": "جمع تكسير (الأعداء)"
+      },
+      "nahwu": {
+        "kedudukan": "objek preposisi **مَعَ**",
+        "irab_dan_logika": "مجرور بالكسرة الظاهرة لأن حرف الجر **مَعَ** يجر ما بعده"
+      },
+      "hikmah": "**Peringatan**: janganlah berada bersama golongan yang menentang kebenaran.",
+      "role": "none"
+    },
+    {
+      "index": 37,
+      "kata_arab": "وَلَا",
+      "transliterasi": "wa‑lā",
+      "jenis_kata": "Huruf",
+      "arti": "dan tidak",
+      "sharaf": {
+        "akar_kata": "ل‑ا",
+        "makna_dasar": "negasi",
+        "wazan_perubahan": "حرف نفي"
+      },
+      "nahwu": {
+        "kedudukan": "حرف عطف ونفي يسبق الفعل **تَجْعَلْنِي**",
+        "irab_dan_logika": "حرف لا نافية لا محل له من الإعراب"
+      },
+      "hikmah": "**Larangan**: menegaskan bahwa permintaan itu ditolak secara tegas.",
+      "role": "none"
+    },
+    {
+      "index": 38,
+      "kata_arab": "تَجْعَلْنِي",
+      "transliterasi": "tajʿalnī",
+      "jenis_kata": "Fiʿil",
+      "arti": "engkau menjadikan aku",
+      "sharaf": {
+        "akar_kata": "ج‑ع‑ل",
+        "makna_dasar": "menjadikan, membuat",
+        "wazan_perubahan": "فَعَلَ (مضارع)"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع بالضمة، والضمير المتصل **نِي** في محل نصب مفعول به",
+        "irab_dan_logika": "الضمة لأنها علامة رفع الفعل المضارع، والضمير مفعول به لأنه متصل بالفاعل"
+      },
+      "hikmah": "**Makna**: permohonan agar tidak dijadikan bagian dari kelompok yang zalim.",
+      "role": "none"
+    },
+    {
+      "index": 39,
+      "kata_arab": "مَعَ",
+      "transliterasi": "maʿa",
+      "jenis_kata": "Huruf",
+      "arti": "bersama",
+      "sharaf": {
+        "akar_kata": "م‑ع‑ا",
+        "makna_dasar": "menyertakan, bersama",
+        "wazan_perubahan": "حرف جر"
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر يسبق المجرور **ٱلْقَوْمِ**",
+        "irab_dan_logika": "ليس له إعراب، يجر ما بعده إلى الجر"
+      },
+      "hikmah": "**Hubungan**: menandakan kedekatan atau keterkaitan dengan golongan yang disebutkan.",
+      "role": "none"
+    },
+    {
+      "index": 40,
+      "kata_arab": "ٱلْقَوْمِ",
+      "transliterasi": "al‑qawmi",
+      "jenis_kata": "Isim",
+      "arti": "kaum",
+      "sharaf": {
+        "akar_kata": "ق‑و‑م",
+        "makna_dasar": "bangun, berdiri, kumpulan orang",
+        "wazan_perubahan": "اسم مصدر من الفعل"
+      },
+      "nahwu": {
+        "kedudukan": "مجرور بحرف الجر **مَعَ**",
+        "irab_dan_logika": "مجرور بالكسرة الظاهرة لأن ما قبله حرف جر"
+      },
+      "hikmah": "**Pengertian**: merujuk pada kelompok orang yang berada dalam keadaan bersama.",
+      "role": "none"
+    },
+    {
+      "index": 41,
+      "kata_arab": "ٱلظَّٰلِمِينَ",
+      "transliterasi": "al‑ẓālimīn",
+      "jenis_kata": "Isim",
+      "arti": "orang‑orang zalim",
+      "sharaf": {
+        "akar_kata": "ظ‑ل‑م",
+        "makna_dasar": "menindas, berbuat tidak adil",
+        "wazan_perubahan": "اسم فاعل جمع مذكر سالم"
+      },
+      "nahwu": {
+        "kedudukan": "مجرور بالكسرة لأنه مضاف إلى **ٱلْقَوْمِ** في تركيب الإضافة",
+        "irab_dan_logika": "الكسرة لأنها مجرور بالجر بسبب الإضافة"
+      },
+      "hikmah": "**Intisari**: menegaskan sifat kezaliman kelompok yang tidak patut disertakan.",
+      "role": "none"
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "surah": 9,
+  "ayah": 44,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "لَا",
+      "transliterasi": "lā",
+      "jenis_kata": "Huruf",
+      "arti": "tidak",
+      "sharaf": {
+        "akar_kata": "لا",
+        "makna_dasar": "negasi",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Partikel negatif yang mendahului fi‘il",
+        "irab_dan_logika": "*Marfu‘* (sukun) karena huruf nashb tidak berharakat"
+      },
+      "hikmah": "*Menegaskan penolakan*; tidak ada izin yang diminta dalam konteks ini",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "يَسْتَـْٔذِنُكَ",
+      "transliterasi": "yastadhinuka",
+      "jenis_kata": "Fi'il",
+      "arti": "meminta izin kepadamu",
+      "sharaf": {
+        "akar_kata": "أذن",
+        "makna_dasar": "memberi atau meminta izin",
+        "wazan_perubahan": "استفعل"
+      },
+      "nahwu": {
+        "kedudukan": "Fi‘il mudhari‘ (verb) dengan dhammah, diikuti *ḍamir muttasil* (كَ) sebagai objek",
+        "irab_dan_logika": "*Marfu‘* karena fi‘il mudhari‘; huruf alif berharakat dhammah, sukun pada س, dan كَ berkasrah karena objek"
+      },
+      "hikmah": "*Menunjukkan permohonan izin*; orang beriman tidak akan meminta izin untuk tidak berjihad",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "ٱلَّذِينَ",
+      "transliterasi": "alladhīna",
+      "jenis_kata": "Isim",
+      "arti": "orang‑orang yang",
+      "sharaf": {
+        "akar_kata": "ذ‑و",
+        "makna_dasar": "yang memiliki",
+        "wazan_perubahan": "isim al‑mawsul (اسم الموصول)"
+      },
+      "nahwu": {
+        "kedudukan": "Fa‘il (subjek) bagi fi‘il *yastadhinuka*",
+        "irab_dan_logika": "*Marfu‘* dengan dammah karena berfungsi sebagai fa‘il"
+      },
+      "hikmah": "*Menandai kelompok* orang beriman yang menjadi subjek tindakan",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "يُؤْمِنُونَ",
+      "transliterasi": "yuʾminūna",
+      "jenis_kata": "Fi'il",
+      "arti": "beriman",
+      "sharaf": {
+        "akar_kata": "أ م ن",
+        "makna_dasar": "memberi kepercayaan, beriman",
+        "wazan_perubahan": "فَعَلَ (مُفَعِل)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi‘il mudhari‘ dalam majzūl *alladhīna yuʾminūna*",
+        "irab_dan_logika": "*Marfu‘* dengan dhammah pada النون karena fi‘il mudhari‘"
+      },
+      "hikmah": "*Menegaskan keimanan* kepada Allah dan hari akhir",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "بِٱللَّهِ",
+      "transliterasi": "bi-Allāh",
+      "jenis_kata": "Huruf",
+      "arti": "dengan Allah",
+      "sharaf": {
+        "akar_kata": "ب",
+        "makna_dasar": "preposisi ‘dengan’",
+        "wazan_perubahan": "huruf jar"
+      },
+      "nahwu": {
+        "kedudukan": "Mudaf (objek) setelah huruf jar *bi* dalam *yuʾminūna bi-Allāh*",
+        "irab_dan_logika": "*Majrur* dengan kasrah pada ال karena huruf jar menuntut majrur"
+      },
+      "hikmah": "*Menunjukkan objek keimanan* yaitu kepada Allah",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "وَٱلْيَوْمِ",
+      "transliterasi": "wal‑yawm",
+      "jenis_kata": "Isim",
+      "arti": "dan hari (akhir)",
+      "sharaf": {
+        "akar_kata": "ي و م",
+        "makna_dasar": "hari",
+        "wazan_perubahan": "isim"
+      },
+      "nahwu": {
+        "kedudukan": "Bagian koordinatif pada frasa *bi-Allāh wa‑al‑yawm*; tetap *majrur* karena terikat pada huruf jar *bi*",
+        "irab_dan_logika": "*Majrur* dengan kasrah pada يَمِ karena preposisi *bi* menguasainya"
+      },
+      "hikmah": "*Menambah objek keimanan* yaitu kepada hari akhir",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "ٱلْءَاخِرِ",
+      "transliterasi": "al-ākhiri",
+      "jenis_kata": "Isim",
+      "arti": "yang akhir (Hari Akhir)",
+      "sharaf": {
+        "akar_kata": "خ ر",
+        "makna_dasar": "akhir, penutup",
+        "wazan_perubahan": "فَعِيل"
+      },
+      "nahwu": {
+        "kedudukan": "Isim majrur sebagai mudhaf bihi setelah preposisi *bi* (dalam konteks *bi‑ākhiri*)",
+        "irab_dan_logika": "Berakhiran kasrah karena berada dalam keadaan i'rab majrur (menunjukkan kepemilikan atau keterangan tempat)"
+      },
+      "hikmah": "Menegaskan bahwa keimanan kepada **Hari Akhir** adalah landasan utama dalam perintah jihad.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "أَن",
+      "transliterasi": "an",
+      "jenis_kata": "Huruf",
+      "arti": "bahwa",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf nasb yang menghubungkan kata kerja *yujāhidū* dengan kalimat berikutnya",
+        "irab_dan_logika": "Tidak berharakat karena huruf nasb; berfungsi memperkenalkan anak kalimat yang bersifat infinitif"
+      },
+      "hikmah": "Menandakan hubungan sebab‑akibat, yaitu *bahwa* mereka akan berjuang.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "يُجَٰهِدُوا۟",
+      "transliterasi": "yujāhidū",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka berjuang (jihad)",
+      "sharaf": {
+        "akar_kata": "ج ه د",
+        "makna_dasar": "berjuang, berikhtiar",
+        "wazan_perubahan": "يفاعِل"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il mudhari‘ marfū‘ (verb in present tense) dengan dhammah pada akhir kata",
+        "irab_dan_logika": "Marfū‘ karena tidak terikat oleh huruf atau preposisi; subjeknya tersirat (هم)"
+      },
+      "hikmah": "Menunjukkan aksi aktif umat Islam dalam berjuang demi Allah, baik dengan harta maupun diri.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "بِأَمْوَالِهِمْ",
+      "transliterasi": "bi‑amwālihim",
+      "jenis_kata": "Isim",
+      "arti": "dengan harta mereka",
+      "sharaf": {
+        "akar_kata": "م و ل",
+        "makna_dasar": "harta, kekayaan",
+        "wazan_perubahan": "مَفْعَل"
+      },
+      "nahwu": {
+        "kedudukan": "Jar + Majrur (preposisi *bi* diikuti isim)",
+        "irab_dan_logika": "Majrur berkasrah karena berada dalam konstruksi *bi‑* yang menandakan keterangan cara"
+      },
+      "hikmah": "Menekankan bahwa jihad meliputi sumbangan materi dari tiap individu.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "وَأَنفُسِهِمْ",
+      "transliterasi": "wa‑anfusihim",
+      "jenis_kata": "Isim",
+      "arti": "dan diri mereka",
+      "sharaf": {
+        "akar_kata": "ن ف س",
+        "makna_dasar": "jiwa, diri, nyawa",
+        "wazan_perubahan": "فَعْل"
+      },
+      "nahwu": {
+        "kedudukan": "Isim majrur yang ma‘ṭūf ‘ala *bi‑amwālihim* dengan huruf *wa* sebagai alat sambung",
+        "irab_dan_logika": "Majrur berkasrah karena tetap berada dalam keadaan majrur yang dipengaruhi preposisi *bi* sebelumnya"
+      },
+      "hikmah": "Menggarisbawahi bahwa jihad tidak hanya materi, tetapi juga melibatkan pengorbanan diri dan nyawa.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "ۗ",
+      "transliterasi": "",
+      "jenis_kata": "Isyarat",
+      "arti": "tanda waqf (tanda titik)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Tidak termasuk dalam i‘rāb; berfungsi sebagai tanda akhir ayat",
+        "irab_dan_logika": "Tidak berharakat karena bukan kata"
+      },
+      "hikmah": "Menandai selesai‑nya ayat, memberi jeda bagi pembaca untuk merenungkan makna keseluruhan.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "وَٱللَّهُ",
+      "transliterasi": "wa-Allahu",
+      "jenis_kata": "Isim (nama Allah) dengan huruf wa sebagai waṣl",
+      "arti": "dan Allah",
+      "sharaf": {
+        "akar_kata": "ا ل ل ه",
+        "makna_dasar": "Tuhan, Sang Pencipta",
+        "wazan_perubahan": "Isim al‑Mubtadaʾ (nama mutlak)"
+      },
+      "nahwu": {
+        "kedudukan": "Mubtadaʾ dalam kalimat",
+        "irab_dan_logika": "Marfuʿ dengan dhammah karena berfungsi sebagai subjek setelah waṣl"
+      },
+      "hikmah": "*Allah adalah subjek utama yang menegaskan keesaan dan kekuasaan-Nya dalam ayat ini.*",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "عَلِيمٌۢ",
+      "transliterasi": "ʿAlīmun",
+      "jenis_kata": "Isim sifat",
+      "arti": "Yang Maha Mengetahui",
+      "sharaf": {
+        "akar_kata": "ع ل م",
+        "makna_dasar": "mengetahui, ilmu",
+        "wazan_perubahan": "faʿīl"
+      },
+      "nahwu": {
+        "kedudukan": "Khabar (predikat) bagi Allah",
+        "irab_dan_logika": "Marfuʿ dengan tanwīn dammah karena menjadi khabar"
+      },
+      "hikmah": "*Sifat ‘Alīm menegaskan bahwa Allah mengetahui segala sesuatu, termasuk niat dan perbuatan hamba‑Nya.*",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "بِٱلْمُتَّقِينَ",
+      "transliterasi": "bi al‑muttaqīna",
+      "jenis_kata": "Isim jamīʿ (kata benda jamak) dengan huruf jar bi",
+      "arti": "kepada orang‑orang yang bertakwa",
+      "sharaf": {
+        "akar_kata": "و ق ي",
+        "makna_dasar": "takwa, takut kepada Allah",
+        "wazan_perubahan": "mutaqqi (mufʿal bi‑al‑mutaqqi)"
+      },
+      "nahwu": {
+        "kedudukan": "Majrur (objek preposisi)",
+        "irab_dan_logika": "Kasrah karena didahului huruf jar bi"
+      },
+      "hikmah": "*Allah mengetahui orang‑orang yang bertakwa, menegaskan bahwa takwa adalah sifat yang diperhatikan dan dihargai oleh Allah.*",
+      "role": "none"
+    }
+  ]
+}

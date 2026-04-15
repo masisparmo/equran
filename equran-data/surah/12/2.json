@@ -1,0 +1,114 @@
+{
+  "surah": 12,
+  "ayah": 2,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "إِنَّآ",
+      "transliterasi": "Inna",
+      "jenis_kata": "Huruf",
+      "arti": "Sesungguhnya",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "penegasan, menegaskan kebenaran",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf takdir yang memulai kalimat, menegaskan subjek **Kami**",
+        "irab_dan_logika": "Marfu' (tidak berharakat selain fathah) karena huruf takdir tidak berubah irabnya"
+      },
+      "hikmah": "Menegaskan bahwa apa yang akan disebutkan selanjutnya adalah fakta yang tidak dapat dipersoalkan",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "أَنزَلْنَٰهُ",
+      "transliterasi": "anzalnahu",
+      "jenis_kata": "Fi'il",
+      "arti": "Kami menurunkannya",
+      "sharaf": {
+        "akar_kata": "نزل",
+        "makna_dasar": "menurunkan, menurunkan dari atas",
+        "wazan_perubahan": "فَعَلَ (bentuk lampau)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il madhi (kata kerja lampau) yang menjadi predikat utama",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فعل ماضٍ مبني على السكون، والضمير المتصل **نا** (kami) والضمير المتصل **هُ** (nya) لا يؤثران على إعرابه"
+      },
+      "hikmah": "Menunjukkan tindakan Allah yang menurunkan Al‑Qur'an sebagai wahyu kepada umat manusia",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "قُرْءَٰنًا",
+      "transliterasi": "Qur'anan",
+      "jenis_kata": "Isim",
+      "arti": "Al‑Qur'an",
+      "sharaf": {
+        "akar_kata": "قرء",
+        "makna_dasar": "bacaan, sesuatu yang dibaca",
+        "wazan_perubahan": "مفعول (اسم مصدر)"
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul bih (objek) dari kata kerja **anzalnahu**",
+        "irab_dan_logika": "منصوب بالفتحة لأنه مفعول به منصوب، وعلامة النصب الفتحة الظاهرة على آخره"
+      },
+      "hikmah": "Menegaskan bahwa yang diturunkan adalah kitab suci yang dibaca dan dihafal",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "عَرَبِيًّۭا",
+      "transliterasi": "Arabiyy-an",
+      "jenis_kata": "Isim",
+      "arti": "bahasa Arab",
+      "sharaf": {
+        "akar_kata": "عرب",
+        "makna_dasar": "Arab, suku Arab",
+        "wazan_perubahan": "صيغة فعلي (مُصْدَر صِفَة)"
+      },
+      "nahwu": {
+        "kedudukan": "Sifat (kata sifat) yang menerangkan **Qur'anan**",
+        "irab_dan_logika": "منصوب بالفتحة لأنه صفة منصوبة، وعلامة النصب الفتحة الظاهرة على آخره"
+      },
+      "hikmah": "Menunjukkan bahwa Al‑Qur'an diturunkan dalam bahasa Arab, bahasa yang jelas dan mudah dipahami oleh umat",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "لَّعَلَّكُمْ",
+      "transliterasi": "la'allakum",
+      "jenis_kata": "Huruf",
+      "arti": "agar kamu",
+      "sharaf": {
+        "akar_kata": "عل",
+        "makna_dasar": "harapan, keinginan",
+        "wazan_perubahan": "حرف لام التعليل + عَلامة"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf ma'na (huruf tujuan) yang menghubungkan ayat sebelumnya dengan ayat berikutnya",
+        "irab_dan_logika": "مجرور بالكسرة لأن لام التعليل تجلب المجرور، والضمير **كم** (kalian) مضاف إليه"
+      },
+      "hikmah": "Menyiratkan harapan Allah bahwa manusia akan mengambil pelajaran dan memahami wahyu tersebut",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "تَعْقِلُونَ",
+      "transliterasi": "ta‘qiloon",
+      "jenis_kata": "Fi'il",
+      "arti": "kamu memahami",
+      "sharaf": {
+        "akar_kata": "عقل",
+        "makna_dasar": "memahami, berakal",
+        "wazan_perubahan": "تفعلون (verb pattern for present tense, 2nd person plural)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il mudhari‘ (kata kerja masa kini) yang menjadi predikat setelah **la'allakum**",
+        "irab_dan_logika": "مرفوع بالواو لأنه من الأفعال الخمسة، وعلامة الرفع الضمة الظاهرة على آخره"
+      },
+      "hikmah": "Mengajak manusia untuk menggunakan akal dan hati dalam menelaah Al‑Qur'an, sehingga dapat mengambil hikmah yang terkandung",
+      "role": "none"
+    }
+  ]
+}

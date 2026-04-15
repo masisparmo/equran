@@ -1,0 +1,186 @@
+{
+  "surah": 7,
+  "ayah": 67,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "قَالَ",
+      "transliterasi": "qāla",
+      "jenis_kata": "Fi'il",
+      "arti": "mengatakan",
+      "sharaf": {
+        "akar_kata": "ق-و-ل",
+        "makna_dasar": "kata",
+        "wazan_perubahan": "فَعَلَ"
+      },
+      "nahwu": {
+        "kedudukan": "predikat (fi'il) dalam kalimat",
+        "irab_dan_logika": "مرفوع بالضمة لأن الفعل الماضي يُرفع دائمًا"
+      },
+      "hikmah": "Menegaskan bahwa Nabi Hud menyampaikan pesan secara sadar dan berakal.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "يَٰقَوْمِ",
+      "transliterasi": "yā qawmi",
+      "jenis_kata": "Huruf (seruan)",
+      "arti": "hai, wahai",
+      "sharaf": {
+        "akar_kata": "ق-و-م",
+        "makna_dasar": "kaum, bangsa",
+        "wazan_perubahan": "لا يُجر"
+      },
+      "nahwu": {
+        "kedudukan": "seruan kepada pendengar (noun in vocative)",
+        "irab_dan_logika": "مجرور بالكسرة لأن اسم النداء يُجر بعد حرف النداء"
+      },
+      "hikmah": "Hud memanggil kaumnya dengan penuh keprihatinan, menandakan kedekatan emosional.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "لَيْسَ",
+      "transliterasi": "laysa",
+      "jenis_kata": "Fi'il",
+      "arti": "tidak",
+      "sharaf": {
+        "akar_kata": "ل-ي-س",
+        "makna_dasar": "ketiadaan, tidak ada",
+        "wazan_perubahan": "ليس غير منتظم"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja ناقص (negatif) sebagai predikat",
+        "irab_dan_logika": "مرفوع بالضمة لأن ليس فعل ناقص مرفوع دائمًا"
+      },
+      "hikmah": "Menegaskan penolakan Hud terhadap tuduhan bahwa ia kurang akal.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "بِى",
+      "transliterasi": "bī",
+      "jenis_kata": "Huruf (jar)",
+      "arti": "dengan",
+      "sharaf": {
+        "akar_kata": "ب",
+        "makna_dasar": "preposisi yang menunjukkan alat atau cara",
+        "wazan_perubahan": "لا يُجر"
+      },
+      "nahwu": {
+        "kedudukan": "huruf جر يربط بين ليس dan سفاهةٌ",
+        "irab_dan_logika": "مجرور بالكسرة لأن حرف الجر دائمًا يُجر ما بعده"
+      },
+      "hikmah": "Hud menegaskan bahwa kekurangan bukan berasal dari dirinya.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "سَفَاهَةٌۭ",
+      "transliterasi": "safāhah",
+      "jenis_kata": "Isim",
+      "arti": "kebodohan",
+      "sharaf": {
+        "akar_kata": "س-ف-ه",
+        "makna_dasar": "kebodohan, kebodohan hati",
+        "wazan_perubahan": "فَعَالَة"
+      },
+      "nahwu": {
+        "kedudukan": "خبر (predikat) setelah ليس",
+        "irab_dan_logika": "منصوب بالفتحة وتنوين لأنه خبر ليس منصوب"
+      },
+      "hikmah": "Hud menolak bahwa dirinya memiliki kebodohan; sebaliknya, ia adalah utusan yang berpengetahuan.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "وَلَٰكِنِّى",
+      "transliterasi": "walākinni",
+      "jenis_kata": "Huruf (عطف)",
+      "arti": "tetapi",
+      "sharaf": {
+        "akar_kata": "ك-ن",
+        "makna_dasar": "menyatakan pertentangan",
+        "wazan_perubahan": "لا يُجر"
+      },
+      "nahwu": {
+        "kedudukan": "حرف عطف يربط بين جملتين",
+        "irab_dan_logika": "حرف عطف لا إعراب له، يربط بين الجمل"
+      },
+      "hikmah": "Menyiratkan kontras antara tuduhan orang dan kenyataan bahwa Hud adalah utusan Allah.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "رَسُولٌۭ",
+      "transliterasi": "rasūlun",
+      "jenis_kata": "Isim",
+      "arti": "utusan",
+      "sharaf": {
+        "akar_kata": "ر س ل",
+        "makna_dasar": "mengirim, menyampaikan",
+        "wazan_perubahan": "muthallath majhul"
+      },
+      "nahwu": {
+        "kedudukan": "Isim dalam nominal (khabar)",
+        "irab_dan_logika": "Marfu' dengan dammah karena berfungsi sebagai predikat"
+      },
+      "hikmah": "*Hud menegaskan dirinya sebagai utusan Allah yang menuntun umat*",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "مِّن",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "م ن",
+        "makna_dasar": "asal, sumber",
+        "wazan_perubahan": "huruf jar"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar yang menghubungkan \"rasūlun\" dengan \"rabbi\"",
+        "irab_dan_logika": "Menjadikan \"rabbi\" majrur (kasrah) sebagai mudhaf"
+      },
+      "hikmah": "*Menunjukkan asal-usul atau sumber dari utusan tersebut*",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "رَّبِّ",
+      "transliterasi": "rabbi",
+      "jenis_kata": "Isim",
+      "arti": "Tuhan",
+      "sharaf": {
+        "akar_kata": "ر ب ب",
+        "makna_dasar": "penguasa, pemelihara",
+        "wazan_perubahan": "muthallath fa‘ala"
+      },
+      "nahwu": {
+        "kedudukan": "Isim mudhaf (milik) dalam iḍāfah \"rabbi al-‘ālamīn\"",
+        "irab_dan_logika": "Majrur (kasrah) karena dipengaruhi huruf \"min\""
+      },
+      "hikmah": "*Menegaskan bahwa sang utusan berasal dari Tuhan yang menguasai segala alam*",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "ٱلْعَٰلَمِينَ",
+      "transliterasi": "al-‘ālamīn",
+      "jenis_kata": "Isim",
+      "arti": "semesta alam",
+      "sharaf": {
+        "akar_kata": "ع ل م",
+        "makna_dasar": "pengetahuan, alam semesta",
+        "wazan_perubahan": "muzāri‘ majmū‘"
+      },
+      "nahwu": {
+        "kedudukan": "Isim mudhaf ‘ilāhiyyah dalam iḍāfah \"rabbi al-‘ālamīn\"",
+        "irab_dan_logika": "Majrur (kasrah) sebagai pelengkap \"rabbi\""
+      },
+      "hikmah": "*Menunjukkan kebesaran Tuhan yang meliputi seluruh makhluk dan alam semesta*",
+      "role": "none"
+    }
+  ]
+}

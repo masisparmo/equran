@@ -1,0 +1,456 @@
+{
+  "surah": 9,
+  "ayah": 7,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "كَيْفَ",
+      "transliterasi": "kayfa",
+      "jenis_kata": "Huruf (kata tanya)",
+      "arti": "bagaimana",
+      "sharaf": {
+        "akar_kata": "ك-ي-ف",
+        "makna_dasar": "cara, keadaan",
+        "wazan_perubahan": "tidak ada (kata tanya)"
+      },
+      "nahwu": {
+        "kedudukan": "kata tanya di awal kalimat",
+        "irab_dan_logika": "مُنصَب بالفتحة لأنّ كَيْفَ اسم استفهام منصوب"
+      },
+      "hikmah": "Menanyakan cara atau kondisi terjadinya sesuatu dalam konteks ayat",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "يَكُونُ",
+      "transliterasi": "yakūnu",
+      "jenis_kata": "Fi'il (verb)",
+      "arti": "menjadi, ada",
+      "sharaf": {
+        "akar_kata": "ك-و-ن",
+        "makna_dasar": "keberadaan, eksistensi",
+        "wazan_perubahan": "فعل مضارع غير مزيد"
+      },
+      "nahwu": {
+        "kedudukan": "خبر (predikat) untuk kata فعل \"يكون\"",
+        "irab_dan_logika": "مرفوع بالضمة لأنّه فعل مضارع مرفوع"
+      },
+      "hikmah": "Menyatakan keberadaan atau eksistensi suatu hal, dalam hal ini \"perjanjian\"",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "لِلْمُشْرِكِينَ",
+      "transliterasi": "lil‑mushrikīna",
+      "jenis_kata": "Huruf jar + Isim",
+      "arti": "bagi orang-orang musyrik",
+      "sharaf": {
+        "akar_kata": "ش-ر-ك",
+        "makna_dasar": "menyekutukan, bersekutu dengan Allah",
+        "wazan_perubahan": "اسم فاعل (مُشْرِك)"
+      },
+      "nahwu": {
+        "kedudukan": "جار ومجرور يوضح المستفيد من \"عهد\"",
+        "irab_dan_logika": "مجرور بالكسرة بسبب حرف الجر \"لِ\"، والاسم مضاف إليه مجرور"
+      },
+      "hikmah": "Menunjukkan pihak yang menjadi penerima atau target perjanjian, yaitu orang-orang yang menyekutukan Allah",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "عَهْدٌ",
+      "transliterasi": "ʿahdun",
+      "jenis_kata": "Isim (isim mufrad)",
+      "arti": "perjanjian, ikatan",
+      "sharaf": {
+        "akar_kata": "ع-ه-د",
+        "makna_dasar": "ikatan, perjanjian",
+        "wazan_perubahan": "اسم مجرد"
+      },
+      "nahwu": {
+        "kedudukan": "خبر (predikat) untuk فعل \"يكون\"",
+        "irab_dan_logika": "مرفوع بالضمة لأنه خبر مرفوع"
+      },
+      "hikmah": "Menyiratkan adanya ikatan atau perjanjian yang harus dipenuhi",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "عِندَ",
+      "transliterasi": "ʿinda",
+      "jenis_kata": "Huruf (preposisi)",
+      "arti": "di dekat, pada",
+      "sharaf": {
+        "akar_kata": "ع-ن-د",
+        "makna_dasar": "kedekatan, tempat",
+        "wazan_perubahan": "ليس له وزن صرفي"
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر يربط الجملة الفرعية بالموضع الجغرافي أو الزماني",
+        "irab_dan_logika": "حرف جر لا يُعرب"
+      },
+      "hikmah": "Menunjukkan lokasi atau tempat terjadinya perjanjian, yaitu di dekat Masjidil Haram",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "ٱللَّهِ",
+      "transliterasi": "Allāh",
+      "jenis_kata": "Isim (nama Allah)",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "أ-ل-ه",
+        "makna_dasar": "Tuhan, Sang Pencipta",
+        "wazan_perubahan": "اسم علم"
+      },
+      "nahwu": {
+        "kedudukan": "مجرور بحرف الجر \"عند\"",
+        "irab_dan_logika": "مجرور بالكسرة لأنه اسم مجرور بحرف الجر"
+      },
+      "hikmah": "Menegaskan bahwa perjanjian tersebut berasal dari Allah, sumber otoritas tertinggi",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "وَعِندَ",
+      "transliterasi": "waʿinda",
+      "jenis_kata": "Huruf",
+      "arti": "dan di (pada)",
+      "sharaf": {
+        "akar_kata": "ع-ن-د",
+        "makna_dasar": "memiliki, berada dekat",
+        "wazan_perubahan": "tidak ada (preposisi)"
+      },
+      "nahwu": {
+        "kedudukan": "Preposisi yang menghubungkan dengan kata «المسجد»",
+        "irab_dan_logika": "Majrur karena preposisi «عند» mengharuskan kasrah pada akhir kata"
+      },
+      "hikmah": "Menunjukkan tempat atau kedekatan, menekankan perjanjian yang dibuat di dekat Masjidil Haram.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "رَسُولِهِۦٓ",
+      "transliterasi": "rasūlihi",
+      "jenis_kata": "Isim",
+      "arti": "rasul‑Nya",
+      "sharaf": {
+        "akar_kata": "ر-س-ل",
+        "makna_dasar": "mengirim, menyampaikan",
+        "wazan_perubahan": "mudhaf (milik)"
+      },
+      "nahwu": {
+        "kedudukan": "Isim mudhaf yang menjelaskan «الله»",
+        "irab_dan_logika": "Majrur karena berada setelah preposisi «عند»"
+      },
+      "hikmah": "Menegaskan bahwa perjanjian itu berkaitan dengan Allah dan Rasul‑Nya.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "إِلَّا",
+      "transliterasi": "illā",
+      "jenis_kata": "Huruf",
+      "arti": "kecuali",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "huruf istisna, tidak memiliki akar kata",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Harf istisna yang mengecualikan",
+        "irab_dan_logika": "Tidak berubah; berfungsi sebagai penghubung logis"
+      },
+      "hikmah": "Menandai pengecualian dalam perjanjian yang disebutkan.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "ٱلَّذِينَ",
+      "transliterasi": "alladhīna",
+      "jenis_kata": "Isim",
+      "arti": "orang‑orang yang",
+      "sharaf": {
+        "akar_kata": "ل-ذ-ا",
+        "makna_dasar": "menunjuk orang",
+        "wazan_perubahan": "isim isyarah jamak"
+      },
+      "nahwu": {
+        "kedudukan": "Isim isyarah berfungsi sebagai subjek klausa «عَاهَدْتُم»",
+        "irab_dan_logika": "Marfuʿ dengan dammah karena menjadi mubtadaʿ"
+      },
+      "hikmah": "Menunjuk kelompok orang yang telah diadakan perjanjian dengan mereka.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "عَٰهَدتُّمْ",
+      "transliterasi": "ʿāhadttum",
+      "jenis_kata": "Fiʿil",
+      "arti": "kamu telah mengadakan perjanjian",
+      "sharaf": {
+        "akar_kata": "ع-ه-د",
+        "makna_dasar": "mengikat, berjanji",
+        "wazan_perubahan": "fiʿl madhi mabni al‑fatḥ dengan dhamir muttasil"
+      },
+      "nahwu": {
+        "kedudukan": "Fiʿl madhi dengan dhamir muttasil «kum»",
+        "irab_dan_logika": "Marfuʿ karena fiʿl madhi tidak berubah"
+      },
+      "hikmah": "Menegaskan tindakan perjanjian yang telah dilakukan oleh kaum Muslim.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "عِندَ",
+      "transliterasi": "ʿinda",
+      "jenis_kata": "Huruf",
+      "arti": "di, pada",
+      "sharaf": {
+        "akar_kata": "ع-ن-د",
+        "makna_dasar": "memiliki, berada dekat",
+        "wazan_perubahan": "tidak ada (preposisi)"
+      },
+      "nahwu": {
+        "kedudukan": "Preposisi yang menghubungkan dengan «المسجد»",
+        "irab_dan_logika": "Majrur dengan kasrah karena preposisi «عند»"
+      },
+      "hikmah": "Menekankan lokasi perjanjian di Masjidil Haram.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "ٱلْمَسْجِدِ",
+      "transliterasi": "al‑masjidi",
+      "jenis_kata": "Isim",
+      "arti": "masjid (tempat ibadah), khususnya ‘Masjid al‑Harām’",
+      "sharaf": {
+        "akar_kata": "س ج د",
+        "makna_dasar": "tempat suci, tempat beribadah",
+        "wazan_perubahan": "bentuk isim mudhari‘ dengan tanwin kasrah karena menjadi mudhaf dalam iḍāfah"
+      },
+      "nahwu": {
+        "kedudukan": "Bagian pertama iḍāfah ‘al‑masjidi al‑ḥarami’, berfungsi sebagai mudhaf (yang dimiliki)",
+        "irab_dan_logika": "Berharakat kasrah (‑i) karena menjadi mudhaf dalam iḍāfah, menandakan kepemilikan ‘Masjid yang …’"
+      },
+      "hikmah": "Menunjuk pada Masjid al‑Harām di Mekah, simbol kesucian perjanjian",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "ٱلْحَرَامِ",
+      "transliterasi": "al‑ḥarami",
+      "jenis_kata": "Isim",
+      "arti": "yang suci, tempat yang terlarang (haram) dalam konteks Masjid al‑Harām",
+      "sharaf": {
+        "akar_kata": "ح ر م",
+        "makna_dasar": "menyucikan, melarang, suci",
+        "wazan_perubahan": "bentuk isim mudhari‘ dengan tanwin kasrah sebagai mudhaf ilaih dalam iḍāfah"
+      },
+      "nahwu": {
+        "kedudukan": "Bagian kedua iḍāfah, mudhaf ilaih (yang dimiliki) ‘Masjid al‑Harām’",
+        "irab_dan_logika": "Berharakat kasrah (‑i) karena menjadi mudhaf ilaih, menegaskan sifat suci Masjid"
+      },
+      "hikmah": "Menegaskan bahwa perjanjian khusus berkaitan dengan Masjid yang paling suci",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "ۖ",
+      "transliterasi": "waqf",
+      "jenis_kata": "Huruf",
+      "arti": "tanda waqf, memberi jeda",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca yang memisahkan iḍāfah dengan kalimat selanjutnya",
+        "irab_dan_logika": "Tidak mempengaruhi i‘rab; berfungsi sebagai jeda untuk menekankan makna"
+      },
+      "hikmah": "Memberi jeda agar pembaca menekankan iḍāfah ‘al‑masjidi al‑ḥarami’ sebelum melanjutkan ayat",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "فَمَا",
+      "transliterasi": "fa‑mā",
+      "jenis_kata": "Huruf",
+      "arti": "lalu apa",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf sambung (fa) + huruf pertanyaan (mā) di awal kalimat, memperkenalkan pertanyaan retoris",
+        "irab_dan_logika": "Tidak berharakat karena huruf; menghubungkan ayat sebelumnya dengan pertanyaan selanjutnya"
+      },
+      "hikmah": "Menunjukkan pertanyaan retoris tentang keberadaan perjanjian",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "ٱسْتَقَٰمُوا۟",
+      "transliterasi": "istaqāmū",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka tetap lurus, berpegang teguh",
+      "sharaf": {
+        "akar_kata": "ق م",
+        "makna_dasar": "tegak, lurus",
+        "wazan_perubahan": "bentuk fi‘il madhi (istaf‘ala) pola اِسْتَفْعَلَ → استقاموا"
+      },
+      "nahwu": {
+        "kedudukan": "Kata kerja (fi‘il madhi) orang ketiga jamak, subjek tersirat (mereka) yang merujuk pada orang musyrikin",
+        "irab_dan_logika": "Berakhiran waw dammah (ū) menandakan madhi jamak; subjek jamak yang belum disebut secara eksplisit"
+      },
+      "hikmah": "Menegaskan bahwa orang musyrikin yang berperjanjian harus tetap lurus dalam perilaku",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "لَكُمْ",
+      "transliterasi": "lakum",
+      "jenis_kata": "Huruf",
+      "arti": "bagi kamu",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "فَٱسْتَقِيمُوا۟",
+      "transliterasi": "fa-istaqīmū",
+      "jenis_kata": "Fi'il",
+      "arti": "berjalan lurus, menegakkan diri",
+      "sharaf": {
+        "akar_kata": "ق-و-م",
+        "makna_dasar": "berdiri, menegakkan",
+        "wazan_perubahan": "istaf‘ala (bentuk X) dengan prefiks fa"
+      },
+      "nahwu": {
+        "kedudukan": "imperatif (perintah) kepada jama‘ (kamu sekalian)",
+        "irab_dan_logika": "marfu‘ dengan dammah pada huruf terakhir (ū) menandakan bentuk jamak maskulin"
+      },
+      "hikmah": "Allah memerintahkan umat untuk menegakkan sikap lurus dan konsisten dalam perjanjian.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "لَهُمْ",
+      "transliterasi": "lahum",
+      "jenis_kata": "Huruf",
+      "arti": "bagi mereka",
+      "sharaf": {
+        "akar_kata": "ل-ه",
+        "makna_dasar": "kepemilikan, tujuan",
+        "wazan_perubahan": "lam + zamir muttasil"
+      },
+      "nahwu": {
+        "kedudukan": "jar (preposisi) yang menghubungkan fi'il dengan objek",
+        "irab_dan_logika": "jar karena huruf jar, dan zamir muttasil berkasrah (هُمْ) menunjukkan kepemilikan"
+      },
+      "hikmah": "Menunjukkan bahwa sikap lurus itu ditujukan untuk orang-orang musyrikin yang telah berperjanjian.",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Huruf",
+      "arti": "tanda berhenti",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "simbol waqf yang memisahkan bagian kalimat",
+        "irab_dan_logika": "tidak berharakat, berfungsi sebagai jeda untuk menegaskan makna sebelumnya"
+      },
+      "hikmah": "Memberi jeda agar pembaca merenungkan perintah sebelumnya sebelum melanjutkan ke pernyataan berikutnya.",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "إِنَّ",
+      "transliterasi": "inna",
+      "jenis_kata": "Huruf",
+      "arti": "sesungguhnya",
+      "sharaf": {
+        "akar_kata": "أ-ن-ن",
+        "makna_dasar": "penegasan, penekanan",
+        "wazan_perubahan": "huruf nashb"
+      },
+      "nahwu": {
+        "kedudukan": "huruf nashb yang mengharuskan isim sesudahnya berada dalam posisi nasb",
+        "irab_dan_logika": "inna sendiri marfu‘, tetapi mengubah irab isim berikutnya menjadi nasb"
+      },
+      "hikmah": "Menegaskan kebenaran pernyataan selanjutnya bahwa Allah menyukai orang-orang yang bertakwa.",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "ٱللَّهَ",
+      "transliterasi": "Allāha",
+      "jenis_kata": "Isim",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "أ-ل-ه",
+        "makna_dasar": "nama Tuhan yang Maha Esa",
+        "wazan_perubahan": "isim mufrad"
+      },
+      "nahwu": {
+        "kedudukan": "isim nasb karena berada setelah huruf nashb إِنَّ",
+        "irab_dan_logika": "nasb dengan fathah pada huruf terakhir (هَ) menandakan posisi objek"
+      },
+      "hikmah": "Menegaskan bahwa Allah-lah yang menyukai orang-orang yang bertakwa.",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "يُحِبُّ",
+      "transliterasi": "yuḥibbu",
+      "jenis_kata": "Fi'il",
+      "arti": "menyukai",
+      "sharaf": {
+        "akar_kata": "ح-ب-ب",
+        "makna_dasar": "cinta, kasih",
+        "wazan_perubahan": "form III (fa‘ala) dalam bentuk mudhari‘"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il mudhari‘ (present) orang ketiga tunggal maskulin",
+        "irab_dan_logika": "marfu‘ dengan dammah pada huruf terakhir (ُّ) karena fi'il mudhari‘ tidak berharakat khusus"
+      },
+      "hikmah": "Allah mencintai orang-orang yang bertakwa, sehingga umat dianjurkan meneladani sifat tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "ٱلْمُتَّقِينَ",
+      "transliterasi": "al-muttaqīna",
+      "jenis_kata": "Isim (isim jamak mudhārr) / isim sifat",
+      "arti": "orang‑orang yang bertakwa",
+      "sharaf": {
+        "akar_kata": "ق‑و‑ي",
+        "makna_dasar": "menjaga diri, takut kepada Allah",
+        "wazan_perubahan": "mutaqqi (mufʿal) → muttaqī (isim) → muttaqīna (jamak)"
+      },
+      "nahwu": {
+        "kedudukan": "Kata benda (isim) berfungsi sebagai objek pelengkap (مفعول به) dalam kalimat \"Allah menyukai orang‑orang yang bertakwa\"",
+        "irab_dan_logika": "Berharakat **نَصْب** (kasrah pada akhir) menjadi **المُتَّقِينَ** karena berfungsi sebagai مفعول به setelah فعل مرفوع \"يُحِبُّ\""
+      },
+      "hikmah": "Menunjukkan bahwa kebaikan Allah ditujukan kepada mereka yang senantiasa menjaga ketakwaan, sehingga menjadi contoh moral bagi umat.",
+      "role": "none"
+    }
+  ]
+}

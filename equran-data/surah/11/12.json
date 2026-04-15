@@ -1,0 +1,438 @@
+{
+  "surah": 11,
+  "ayah": 12,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "فَلَعَلَّكَ",
+      "transliterasi": "fa‑la‘allaka",
+      "jenis_kata": "Huruf",
+      "arti": "Maka (mungkin) kamu",
+      "sharaf": {
+        "akar_kata": "ل ع ل",
+        "makna_dasar": "harapan",
+        "wazan_perubahan": "لاعل"
+      },
+      "nahwu": {
+        "kedudukan": "Awal ayat, sebagai huruf penghubung yang menandakan harapan",
+        "irab_dan_logika": "Tidak berharakat karena huruf, berfungsi menghubungkan"
+      },
+      "hikmah": "Menunjukkan kemungkinan atau harapan bahwa Nabi ﷺ mungkin merasa ragu atau takut",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "تَارِكٌۢ",
+      "transliterasi": "tārikun",
+      "jenis_kata": "Isim",
+      "arti": "yang meninggalkan",
+      "sharaf": {
+        "akar_kata": "ر ك",
+        "makna_dasar": "tinggalkan",
+        "wazan_perubahan": "فاعل"
+      },
+      "nahwu": {
+        "kedudukan": "Predikat (isim fa‘il) setelah فَلَعَلَّكَ, menandakan subjek",
+        "irab_dan_logika": "Marfu' بالضمة karena berfungsi sebagai isim fa‘il yang menjadi predikat"
+      },
+      "hikmah": "Menggambarkan sikap meninggalkan sebagian wahyu karena rasa takut atau cemas",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "بَعْضَ",
+      "transliterasi": "ba‘ḍa",
+      "jenis_kata": "Isim",
+      "arti": "sebagian",
+      "sharaf": {
+        "akar_kata": "ب ع ض",
+        "makna_dasar": "sebagian",
+        "wazan_perubahan": "فعل"
+      },
+      "nahwu": {
+        "kedudukan": "Objek dari فعل تَارِكٌ",
+        "irab_dan_logika": "Mansub بالفتحة karena menjadi maṣdar (objek) dari fi‘l"
+      },
+      "hikmah": "Menunjukkan bagian yang ditinggalkan dari apa yang diwahyukan",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "مَا",
+      "transliterasi": "mā",
+      "jenis_kata": "Isim",
+      "arti": "apa",
+      "sharaf": {
+        "akar_kata": "ما",
+        "makna_dasar": "yang",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "وَضَآئِقٌۢ",
+      "transliterasi": "waḍā'iqun",
+      "jenis_kata": "Isim",
+      "arti": "penyempitan, rasa sesak",
+      "sharaf": {
+        "akar_kata": "ض-ا-ق",
+        "makna_dasar": "menyempit, menekan",
+        "wazan_perubahan": "فَاعِل (مفعل)"
+      },
+      "nahwu": {
+        "kedudukan": "خبر مرفوع في جملة اسمية (صَدْرُكَ وَضَائِقٌ)",
+        "irab_dan_logika": "مرفوع بالضمة لأنّه خبر مرفوع لا terikat huruf"
+      },
+      "hikmah": "Menggambarkan rasa sesak hati Nabi karena beban dakwah, menekankan keprihatinan spiritual.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "بِهِۦ",
+      "transliterasi": "bihi",
+      "jenis_kata": "Huruf",
+      "arti": "dengan dia/itu",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "جار ومجرور (حرف جر + ضمير متصل) يوضح سبب الضيق",
+        "irab_dan_logika": "مجرور بالكسر لأنّ حرف الجر \"bi\" يجر ما بعده"
+      },
+      "hikmah": "Menunjukkan sebab rasa sesak, yaitu karena wahyu yang diberikan.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "صَدْرُكَ",
+      "transliterasi": "ṣadruka",
+      "jenis_kata": "Isim",
+      "arti": "dada‑mu",
+      "sharaf": {
+        "akar_kata": "ص-د-ر",
+        "makna_dasar": "bagian depan tubuh",
+        "wazan_perubahan": "فَعْل"
+      },
+      "nahwu": {
+        "kedudukan": "مبتدأ مرفوع في جملة اسمية",
+        "irab_dan_logika": "مرفوع بالضمة لأنّها مبتدأ غير مسبوق بحرف نصب"
+      },
+      "hikmah": "Menjadi pusat perasaan Nabi; rasa sesak itu berada pada dada, simbol hati.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "أُنزِلَ",
+      "transliterasi": "unzila",
+      "jenis_kata": "Fi'il",
+      "arti": "diturunkan",
+      "sharaf": {
+        "akar_kata": "ن ز ل",
+        "makna_dasar": "turun",
+        "wazan_perubahan": "فُعِل"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il madhi sebagai predikat",
+        "irab_dan_logika": "marfu' dengan dammah karena fi'il madhi"
+      },
+      "hikmah": "menunjukkan bahwa wahyu tidak diturunkan dalam bentuk harta, melainkan petunjuk",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "عَلَيْهِ",
+      "transliterasi": "ʿalayhi",
+      "jenis_kata": "Huruf",
+      "arti": "atasnya",
+      "sharaf": {
+        "akar_kata": "ع ل ي",
+        "makna_dasar": "di atas",
+        "wazan_perubahan": "على"
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar yang menghubungkan fi'il dengan maf'ul",
+        "irab_dan_logika": "majrur dengan kasrah pada ya' karena huruf jar"
+      },
+      "hikmah": "menunjukkan hubungan kepemilikan atau kedudukan sesuatu terhadap Nabi",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "كَنزٌ",
+      "transliterasi": "kanzun",
+      "jenis_kata": "Isim",
+      "arti": "harta, kekayaan",
+      "sharaf": {
+        "akar_kata": "ك ن ز",
+        "makna_dasar": "harta",
+        "wazan_perubahan": "فَعْل"
+      },
+      "nahwu": {
+        "kedudukan": "isim marfu' sebagai predikat",
+        "irab_dan_logika": "berharakat dhammah karena berfungsi sebagai isim muf'ul"
+      },
+      "hikmah": "menyiratkan harapan manusia pada materi sebagai bukti kenabian",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "أَوْ",
+      "transliterasi": "aw",
+      "jenis_kata": "Huruf",
+      "arti": "atau",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "huruf 'aw' sebagai penghubung dua isim",
+        "irab_dan_logika": "tidak berharakat, berfungsi menghubungkan"
+      },
+      "hikmah": "menunjukkan pilihan antara dua kemungkinan",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "جَآءَ",
+      "transliterasi": "jaa'a",
+      "jenis_kata": "Fi'il",
+      "arti": "datang",
+      "sharaf": {
+        "akar_kata": "ج و ي",
+        "makna_dasar": "datang",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il madhi sebagai alternatif predikat",
+        "irab_dan_logika": "marfu' dengan dammah karena fi'il madhi"
+      },
+      "hikmah": "menyiratkan harapan akan kedatangan malaikat sebagai bukti",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "مَعَهُۥ",
+      "transliterasi": "maʿahu",
+      "jenis_kata": "Huruf",
+      "arti": "bersamanya",
+      "sharaf": {
+        "akar_kata": "ع",
+        "makna_dasar": "bersama",
+        "wazan_perubahan": "مع"
+      },
+      "nahwu": {
+        "kedudukan": "frasa preposisional sebagai alternatif",
+        "irab_dan_logika": "majrur dengan kasrah karena huruf jar 'maʿa'"
+      },
+      "hikmah": "menunjukkan kemungkinan kedatangan malaikat bersama Nabi",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "مَلَكٌ",
+      "transliterasi": "malakun",
+      "jenis_kata": "Isim",
+      "arti": "malaikat",
+      "sharaf": {
+        "akar_kata": "م ل ك",
+        "makna_dasar": "memiliki, menguasai",
+        "wazan_perubahan": "faʿlun (tanwin)"
+      },
+      "nahwu": {
+        "kedudukan": "objek (mafʿul mutlaq) dalam kalimat",
+        "irab_dan_logika": "dhammah dengan tanwin karena indefinitif dan berfungsi sebagai mafʿul"
+      },
+      "hikmah": "menunjukkan keberadaan malaikat sebagai saksi atau penolong, menegaskan keajaiban yang diminta",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "ۚ",
+      "transliterasi": "(waqf)",
+      "jenis_kata": "Huruf",
+      "arti": "tanda jeda",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda waqf (istirahat) setelah kata sebelumnya",
+        "irab_dan_logika": "tidak berharakat, berfungsi memisahkan bagian ayat"
+      },
+      "hikmah": "menandakan jeda untuk memberi penekanan pada makna sebelumnya",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "إِنَّمَآ",
+      "transliterasi": "innama",
+      "jenis_kata": "Huruf",
+      "arti": "sesungguhnya hanya",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "huruf taksir yang menguatkan kalimat",
+        "irab_dan_logika": "tidak berirab, menegaskan bahwa apa yang datang sesudahnya adalah satu‑satunya kebenaran"
+      },
+      "hikmah": "menegaskan eksklusivitas pernyataan Allah bahwa Nabi hanyalah pemberi peringatan",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "أَنتَ",
+      "transliterasi": "anta",
+      "jenis_kata": "Isim",
+      "arti": "kamu",
+      "sharaf": {
+        "akar_kata": "أ ن ت",
+        "makna_dasar": "menunjuk kepada orang kedua",
+        "wazan_perubahan": "ism dhat"
+      },
+      "nahwu": {
+        "kedudukan": "mubtada' (subjek) dalam kalimat",
+        "irab_dan_logika": "dhammah karena mubtada' berharakat dhammah"
+      },
+      "hikmah": "menyasar langsung kepada Nabi Muhammad SAW, menegaskan peranannya",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "نَذِيرٌۭ",
+      "transliterasi": "nadhirun",
+      "jenis_kata": "Isim",
+      "arti": "pemberi peringatan",
+      "sharaf": {
+        "akar_kata": "ن ذ ر",
+        "makna_dasar": "menyerukan, memperingatkan",
+        "wazan_perubahan": "faʿilun (isim faʿil)"
+      },
+      "nahwu": {
+        "kedudukan": "khabar (predikat) untuk mubtada' أَنتَ",
+        "irab_dan_logika": "dhammah dengan tanwin karena indefinitif"
+      },
+      "hikmah": "menegaskan bahwa tugas Nabi hanyalah menyampaikan peringatan, bukan menuntut harta",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "ۚ",
+      "transliterasi": "(waqf)",
+      "jenis_kata": "Huruf",
+      "arti": "tanda jeda",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda waqf akhir ayat",
+        "irab_dan_logika": "tidak berharakat, menandai selesai ayat"
+      },
+      "hikmah": "mengakhiri pernyataan dengan penekanan akhir",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "وَٱللَّهُ",
+      "transliterasi": "wa-Allahu",
+      "jenis_kata": "Huruf (وَ) dan Isim (ٱللَّهُ)",
+      "arti": "Dan Allah",
+      "sharaf": {
+        "akar_kata": "أ ل ه (untuk Allah)",
+        "makna_dasar": "Yang disembah, Tuhan (untuk Allah)",
+        "wazan_perubahan": "Tidak berlaku untuk huruf; Isim 'Alam (nama diri) untuk Allah."
+      },
+      "nahwu": {
+        "kedudukan": "`وَ` adalah huruf athaf (penghubung). `ٱللَّهُ` adalah mubtada' (subjek kalimat) yang diakhirkan.",
+        "irab_dan_logika": "`وَ` adalah mabni (tetap) di atas fathah. `ٱللَّهُ` marfu' (rafa') dengan dhammah karena sebagai mubtada'."
+      },
+      "hikmah": "Kata ini berfungsi sebagai penghubung yang mengaitkan pernyataan sebelumnya dengan penegasan tentang Allah. Ia menegaskan bahwa Allah adalah entitas yang Maha Kuasa dan Maha Pemelihara, yang menjadi subjek utama dari pernyataan selanjutnya, memberikan penekanan pada peran dan sifat-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 25,
+      "kata_arab": "عَلَىٰ",
+      "transliterasi": "ala",
+      "jenis_kata": "Huruf",
+      "arti": "atas, terhadap, pada",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk huruf.",
+        "makna_dasar": "Tidak berlaku untuk huruf.",
+        "wazan_perubahan": "Tidak berlaku untuk huruf."
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Jar (preposisi).",
+        "irab_dan_logika": "Mabni (tetap) di atas sukun (yang diwakili oleh alif maqsurah). Huruf jar menyebabkan isim setelahnya menjadi majrur (kasrah)."
+      },
+      "hikmah": "Huruf jar ini menunjukkan hubungan kepemilikan, pengawasan, atau kekuasaan Allah terhadap apa yang disebutkan setelahnya. Ini mengindikasikan bahwa Allah memiliki otoritas penuh dan kendali atas segala sesuatu.",
+      "role": "none"
+    },
+    {
+      "index": 26,
+      "kata_arab": "كُلِّ",
+      "transliterasi": "kulli",
+      "jenis_kata": "Isim",
+      "arti": "setiap, semua",
+      "sharaf": {
+        "akar_kata": "ك ل ل (K-L-L)",
+        "makna_dasar": "Keseluruhan, totalitas.",
+        "wazan_perubahan": "Isim."
+      },
+      "nahwu": {
+        "kedudukan": "Isim majrur (kata benda yang dikenai huruf jar). Mudhaf (kata yang disandarkan).",
+        "irab_dan_logika": "Majrur dengan kasrah karena didahului oleh huruf jar `عَلَىٰ`. Sebagai mudhaf, ia akan diikuti oleh mudhaf ilaih yang majrur."
+      },
+      "hikmah": "Kata ini menekankan cakupan yang menyeluruh dan universal. Dengan menggunakan 'kulli', Al-Qur'an menegaskan bahwa tidak ada pengecualian dalam apa yang akan disebutkan selanjutnya, menunjukkan bahwa kekuasaan Allah meliputi segala aspek.",
+      "role": "none"
+    },
+    {
+      "index": 27,
+      "kata_arab": "شَىْءٍۢ",
+      "transliterasi": "shay'in",
+      "jenis_kata": "Isim",
+      "arti": "sesuatu",
+      "sharaf": {
+        "akar_kata": "ش ي ء (Sh-Y-')",
+        "makna_dasar": "Hal, benda, entitas.",
+        "wazan_perubahan": "Isim."
+      },
+      "nahwu": {
+        "kedudukan": "Mudhaf ilaih (kata benda yang menyandarkan).",
+        "irab_dan_logika": "Majrur dengan kasratain (tanwin kasrah) karena sebagai mudhaf ilaih dari `كُلِّ`."
+      },
+      "hikmah": "Kata ini merujuk pada segala sesuatu, baik yang terlihat maupun tidak, yang besar maupun kecil, yang ada maupun yang akan ada. Bersama dengan 'kulli', ia menegaskan keuniversalan dan kemutlakan kekuasaan serta pengawasan Allah atas seluruh ciptaan-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 28,
+      "kata_arab": "وَكِيلٌ",
+      "transliterasi": "wakilun",
+      "jenis_kata": "Isim",
+      "arti": "pemelihara, pelindung, penjamin, pengurus",
+      "sharaf": {
+        "akar_kata": "و ك ل (W-K-L)",
+        "makna_dasar": "Menyerahkan urusan, mempercayakan, bertanggung jawab.",
+        "wazan_perubahan": "Isim Fa'il (bentuk pelaku) dengan wazan `فَعِيلٌ` (fa'ilun) yang juga bisa menunjukkan makna mubalaghah (intensitas) atau sifat tetap."
+      },
+      "nahwu": {
+        "kedudukan": "Khabar (predikat) dari mubtada' `ٱللَّهُ`.",
+        "irab_dan_logika": "Marfu' (rafa') dengan dhammahtain (tanwin dhammah) karena sebagai khabar dari mubtada' `ٱللَّهُ`."
+      },
+      "hikmah": "Kata ini adalah salah satu Asmaul Husna yang menegaskan sifat Allah sebagai Dzat yang Maha Mengurus, Maha Memelihara, Maha Melindungi, dan Maha Menjamin segala sesuatu. Ini memberikan ketenangan dan keyakinan bagi Nabi Muhammad SAW (dan umatnya) bahwa urusan dakwah dan segala hal ada dalam pengawasan dan jaminan Allah, sehingga tidak perlu khawatir terhadap penolakan atau tuntutan manusia.",
+      "role": "none"
+    }
+  ]
+}

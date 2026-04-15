@@ -1,0 +1,402 @@
+{
+  "surah": 5,
+  "ayah": 107,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "فَإِنْ",
+      "transliterasi": "fa‑in",
+      "jenis_kata": "Huruf",
+      "arti": "**maka**, **jika**",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf شرط (kata sambung) di awal ayat",
+        "irab_dan_logika": "Tidak ber‑i‘rāb karena termasuk huruf, menghubungkan ayat sebelumnya dengan kondisi selanjutnya"
+      },
+      "hikmah": "Menandakan permulaan kondisi yang harus dipenuhi sebelum konsekuensi selanjutnya",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "عُثِرَ",
+      "transliterasi": "ʿuthira",
+      "jenis_kata": "Fi'il",
+      "arti": "**ditemukan**",
+      "sharaf": {
+        "akar_kata": "ع‑ث‑ر",
+        "makna_dasar": "menemukan jejak, menelusuri",
+        "wazan_perubahan": "فعل مضعف (passive)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il madhi majhūl (kata kerja lampau pasif)",
+        "irab_dan_logika": "Tidak ber‑i‘rāb; bentuk madhi tidak berubah dengan harakat akhir"
+      },
+      "hikmah": "Menunjukkan bahwa fakta kesalahan kedua saksi itu telah terungkap",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "عَلَىٰٓ",
+      "transliterasi": "ʿalā",
+      "jenis_kata": "Huruf",
+      "arti": "**atas**, **terhadap**",
+      "sharaf": {
+        "akar_kata": "ع‑ل‑ى",
+        "makna_dasar": "tinggi, mengarah ke atas",
+        "wazan_perubahan": "isim maṣdar"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar (preposisi)",
+        "irab_dan_logika": "Tidak ber‑i‘rāb; menuntut isim majrūr (kasrah) setelahnya"
+      },
+      "hikmah": "Menunjukkan hubungan kepemilikan atau kedekatan antara ahli waris dengan al‑marhūm",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "أَنَّهُمَا",
+      "transliterasi": "anna‑humā",
+      "jenis_kata": "Huruf + Isim",
+      "arti": "**bahwa mereka**",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Gabungan: حرف نصب (أن) + ضمير متصل (هما)",
+        "irab_dan_logika": "‘An’ berfungsi sebagai حرف نصب sehingga klausa yang mengikutinya (istahaqqā) menjadi منصوب; ‘هما’ berada dalam posisi accusative (فتحة)"
+      },
+      "hikmah": "Menegaskan bahwa yang dimaksud adalah kedua orang yang berhak",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "ٱسْتَحَقَّآ",
+      "transliterasi": "istahaqqā",
+      "jenis_kata": "Fi'il",
+      "arti": "**mereka berhak**",
+      "sharaf": {
+        "akar_kata": "ح‑ق‑ق",
+        "makna_dasar": "hak, layak",
+        "wazan_perubahan": "فعل استَفْعَل (istaf‘ala) – bentuk dual"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il madhi marfū‘ (kata kerja lampau) bentuk dual maskulin",
+        "irab_dan_logika": "Marfū‘ بالضمة karena merupakan فعل مرفوع dalam kalimat utama"
+      },
+      "hikmah": "Menunjukkan bahwa kedua ahli waris tersebut memiliki hak sah atas harta al‑marhūm",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "إِثْمًۭا",
+      "transliterasi": "ithman",
+      "jenis_kata": "Isim",
+      "arti": "**dosa**",
+      "sharaf": {
+        "akar_kata": "أ‑ث‑م",
+        "makna_dasar": "perbuatan yang melanggar hukum Allah",
+        "wazan_perubahan": "اسم مصدر"
+      },
+      "nahwu": {
+        "kedudukan": "Isim mansūb (objek) setelah فعل (عُثِرَ)",
+        "irab_dan_logika": "Dinasb dengan فتحة karena menjadi مفعول به لِفعل ماضٍ"
+      },
+      "hikmah": "Menegaskan bahwa kedua saksi tersebut telah melakukan kesalahan yang dapat menodai kesaksian mereka",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "فَآخَرَانِ",
+      "transliterasi": "fa-ākharāni",
+      "jenis_kata": "Isim",
+      "arti": "kemudian yang lain (dua orang)",
+      "sharaf": {
+        "akar_kata": "أ خ ر",
+        "makna_dasar": "lain",
+        "wazan_perubahan": "آفَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "Subjek (مبتدأ) bagi fi'il «يَقُومَانِ»",
+        "irab_dan_logika": "مرفوع بالكسرة لأنه مثنى مرفوع، وعلامة الرفع للمثنى هي الكسرة"
+      },
+      "hikmah": "Menunjukkan dua saksi yang lain, yang akan menggantikan saksi pertama bila terbukti dosa.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "يَقُومَانِ",
+      "transliterasi": "yaqūmāni",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka berdiri",
+      "sharaf": {
+        "akar_kata": "ق و م",
+        "makna_dasar": "berdiri, menegakkan",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "Predikat (خبر) bagi subjek «فَآخَرَانِ»",
+        "irab_dan_logika": "مرفوع بالكسرة لأن الفعل مثنى مرفوع، وعلامة الرفع للمثنى هي الكسرة"
+      },
+      "hikmah": "Kedua saksi tersebut bersumpah dan berdiri sebagai saksi yang sah.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "مَقَامَهُمَا",
+      "transliterasi": "maqāmuhumā",
+      "jenis_kata": "Isim",
+      "arti": "kedudukan mereka berdua",
+      "sharaf": {
+        "akar_kata": "ق و م",
+        "makna_dasar": "tempat, posisi, kedudukan",
+        "wazan_perubahan": "مَفْعَل"
+      },
+      "nahwu": {
+        "kedudukan": "مجرور بحرف الجر «مِنَ»",
+        "irab_dan_logika": "مجرور وعلامة جره الكسرة، والضمير المتصل «هما» يضيف ياء المتكلم"
+      },
+      "hikmah": "Menunjukkan status atau tempat yang layak bagi kedua saksi tersebut dalam urusan warisan.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "مِنَ",
+      "transliterasi": "mina",
+      "jenis_kata": "Huruf",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "م ن",
+        "makna_dasar": "dari, keluar",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر يسبق «مَقَامَهُمَا»",
+        "irab_dan_logika": "ليس له إعراب، لكنه يجر ما بعده إلى حالة الجر"
+      },
+      "hikmah": "Menandakan asal atau sumber kedudukan kedua saksi tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "ٱلَّذِينَ",
+      "transliterasi": "alladhīna",
+      "jenis_kata": "Isim",
+      "arti": "yang",
+      "sharaf": {
+        "akar_kata": "ل ذ ي",
+        "makna_dasar": "yang",
+        "wazan_perubahan": "الفاعل"
+      },
+      "nahwu": {
+        "kedudukan": "اسم موصول في محل رفع فاعل «ٱسْتَحَقَّ»",
+        "irab_dan_logika": "مرفوع بالضمة لأنّه فاعل مرفوع"
+      },
+      "hikmah": "Merujuk kepada orang‑orang yang berhak atas warisan.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "ٱسْتَحَقَّ",
+      "transliterasi": "istahaqqa",
+      "jenis_kata": "Fi'il",
+      "arti": "memperoleh hak",
+      "sharaf": {
+        "akar_kata": "ح ق ق",
+        "makna_dasar": "memperoleh hak, layak",
+        "wazan_perubahan": "استفعل"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ماضٍ مبني على الفتح",
+        "irab_dan_logika": "ليس له إعراب لأنه فعل ماضٍ مبني على الفتح"
+      },
+      "hikmah": "Menegaskan bahwa orang‑orang tersebut berhak secara sah atas harta warisan.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "عَلَيْهِمُ",
+      "transliterasi": "ʿalayhim",
+      "jenis_kata": "Huruf (preposisi) dengan ضمير متصل",
+      "arti": "atas mereka",
+      "sharaf": {
+        "akar_kata": "ع ل ي",
+        "makna_dasar": "tinggi, mengangkat",
+        "wazan_perubahan": "tanpa wazan khusus"
+      },
+      "nahwu": {
+        "kedudukan": "Jar (tergantung preposisi) sebagai pelengkap sebelumnya",
+        "irab_dan_logika": "Dhammah karena huruf jar + ضمير متصل, menandakan hubungan kepemilikan atau tempat"
+      },
+      "hikmah": "Menunjukkan bahwa hak atau tuntutan berada pada mereka yang lebih dekat dengan al‑marhum.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "ٱلْأَوْلَيَٰنِ",
+      "transliterasi": "al-awlayani",
+      "jenis_kata": "Isim (isim mufrad atau jamak taksir)",
+      "arti": "yang pertama, orang yang lebih tua",
+      "sharaf": {
+        "akar_kata": "أ و ل",
+        "makna_dasar": "pertama, awal",
+        "wazan_perubahan": "فَعْلَة (أَوْلَى) → جمع تكسير الأوَلَى"
+      },
+      "nahwu": {
+        "kedudukan": "Mujarrab karena preposisi عَلَيْهِمُ",
+        "irab_dan_logika": "Kasrah pada akhir kata menandakan i‘rāb majrūr (مجرور) sebagai pelengkap preposisi"
+      },
+      "hikmah": "Menegaskan bahwa orang‑orang yang lebih dulu (lebih senior) memiliki hak prioritas dalam pewarisan.",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "مِن",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar yang menghubungkan kata sebelumnya dengan kata sesudahnya",
+        "irab_dan_logika": "مِنُ dengan dhammah karena berjar"
+      },
+      "hikmah": "menunjukkan hubungan kepemilikan atau asal, di sini menegaskan bahwa \"kesaksian kami\" lebih layak daripada kesaksian mereka",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "شَهَٰدَتِهِمَا",
+      "transliterasi": "shahadatihima",
+      "jenis_kata": "Isim",
+      "arti": "kesaksian mereka (dual)",
+      "sharaf": {
+        "akar_kata": "ش-ه-د",
+        "makna_dasar": "menyaksikan, memberi kesaksian",
+        "wazan_perubahan": "bentuk isim fi‘il (shahāda) dengan tambahan -ti‑hima"
+      },
+      "nahwu": {
+        "kedudukan": "Isim majrur setelah huruf jar مِن, berkasrah karena jar",
+        "irab_dan_logika": "شَهَادَتِهِمَا dengan kasrah pada تِ karena berada dalam i‘rāb majrur"
+      },
+      "hikmah": "menegaskan bahwa saksi yang dimaksud adalah dua orang yang memberi kesaksian, dan kesaksian mereka berada dalam konteks perbandingan",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "وَمَا",
+      "transliterasi": "wa‑ma",
+      "jenis_kata": "Huruf",
+      "arti": "dan tidak",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf nafi yang menolak apa yang disebutkan sebelumnya",
+        "irab_dan_logika": "وَ bersukun, مَا berfatha; sebagai partikel nafi tidak beri‘rāb"
+      },
+      "hikmah": "menyatakan penolakan terhadap kemungkinan bahwa mereka tidak melanggar batas",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "ٱعْتَدَيْنَآ",
+      "transliterasi": "i‘tadaynā",
+      "jenis_kata": "Fi‘il",
+      "arti": "kami telah melampaui batas",
+      "sharaf": {
+        "akar_kata": "ع‑ت‑د",
+        "makna_dasar": "melampaui, melanggar batas",
+        "wazan_perubahan": "bentuk fi‘il madhi bentuk IV (iCtaC) dengan tambahan ‑ayn‑ untuk dual‑plural"
+      },
+      "nahwu": {
+        "kedudukan": "Fi‘il madhi 1 per orang pertama jamak, marfu‘ dengan dhammah pada alif terakhir",
+        "irab_dan_logika": "ٱعْتَدَيْنَا dengan dhammah karena berstatus marfu‘ (subjek)"
+      },
+      "hikmah": "menegaskan bahwa mereka memang melampaui batas, sehingga tidak dapat mengklaim keadilan",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "إِنَّآ",
+      "transliterasi": "innā",
+      "jenis_kata": "Huruf",
+      "arti": "sesungguhnya kami",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf takid (inna) yang menegaskan pernyataan selanjutnya",
+        "irab_dan_logika": "إِنَّ dengan kasrah pada alif, diikuti pronoun ‑na (kami) sehingga menjadi إِنَّا dengan kasrah pada alif"
+      },
+      "hikmah": "menunjukkan kepastian dan penegasan bahwa pembicara termasuk dalam kelompok yang mengakui kesalahan",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "إِذًۭا",
+      "transliterasi": "idhā",
+      "jenis_kata": "Huruf",
+      "arti": "kemudian",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf zaman yang menandakan konsekuensi setelah pernyataan sebelumnya",
+        "irab_dan_logika": "إِذًۭا dengan fatha pada alif, berfungsi sebagai adverbia waktu"
+      },
+      "hikmah": "menyiratkan bahwa akibat dari pengakuan tersebut adalah masuk ke dalam kesesatan yang besar",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "لَّمِنَ",
+      "transliterasi": "lamina",
+      "jenis_kata": "Huruf",
+      "arti": "bagi (orang) yang",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf **jar** yang memperkenalkan kata benda **ٱلظَّٰلِمِينَ**",
+        "irab_dan_logika": "Berfungsi sebagai **حرف جر**; karena itu kata yang diikutinya (**ٱلظَّٰلِمِينَ**) berada dalam **kasrah** (مجرور) sebagai balasan preposisi."
+      },
+      "hikmah": "Menunjukkan bahwa hukuman atau peringatan itu ditujukan **kepada orang-orang yang menzalimi**, menegaskan sifat khusus dari kelompok yang dimaksud.",
+      "role": "none"
+    },
+    {
+      "index": 25,
+      "kata_arab": "ٱلظَّٰلِمِينَ",
+      "transliterasi": "aẓ-ẓālimīna",
+      "jenis_kata": "Isim",
+      "arti": "orang‑orang yang menzalimi",
+      "sharaf": {
+        "akar_kata": "ظ ل م",
+        "makna_dasar": "menzalimi, menindas",
+        "wazan_perubahan": "pola **فَعِيل** (ظَالِم) → jamak **مُذَكَّر** (الظَّالِمِينَ) dalam bentuk **مجرور**"
+      },
+      "nahwu": {
+        "kedudukan": "**Isim** majrur (kata benda) yang menjadi **khabar** atau **majsur** dari preposisi **لَّمِنَ**",
+        "irab_dan_logika": "Berakhiran **‑ين** menandakan **kasrah** karena berada di belakang **حرف جر**; fungsi gramatikalnya sebagai **khabar** (pelengkap) bagi preposisi tersebut."
+      },
+      "hikmah": "Menyiratkan bahwa orang‑orang yang melakukan kezaliman berada dalam kategori yang akan menerima konsekuensi, menegaskan keadilan Allah terhadap **para zalim**.",
+      "role": "none"
+    }
+  ]
+}

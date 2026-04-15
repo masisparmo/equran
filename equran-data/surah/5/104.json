@@ -1,0 +1,456 @@
+{
+  "surah": 5,
+  "ayah": 104,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "وَإِذَا",
+      "transliterasi": "wa-idhā",
+      "jenis_kata": "Huruf",
+      "arti": "dan apabila",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "حرف شرط جازم يربط الجملة الشرطية",
+        "irab_dan_logika": "مبني على السكون لا إعراب له، يسبق الفعل ويشير إلى حدوث الفعل عند تحقق الشرط"
+      },
+      "hikmah": "menunjukkan kondisi \"ketika\" sebagai pembuka perintah atau pernyataan",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "قِيلَ",
+      "transliterasi": "qīla",
+      "jenis_kata": "Fi'il",
+      "arti": "dikatakan",
+      "sharaf": {
+        "akar_kata": "ق-و-ل",
+        "makna_dasar": "kata",
+        "wazan_perubahan": "فعل مضعف (مُفَعَّل)"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ماضٍ مبني على الفتح",
+        "irab_dan_logika": "مرفوع بالفتحة لأنه فعل ماضٍ مبني"
+      },
+      "hikmah": "menyatakan bahwa suatu perintah atau ajakan telah diucapkan kepada mereka",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "لَهُمْ",
+      "transliterasi": "lahum",
+      "jenis_kata": "Huruf",
+      "arti": "kepada mereka",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر + ضمير متصل",
+        "irab_dan_logika": "اللام حرف جر، والهاء ضمير متصل في محل جر بحرف الجر"
+      },
+      "hikmah": "menunjukkan tujuan atau arah ajakan kepada kelompok orang tertentu",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "تَعَالَوْا",
+      "transliterasi": "taʿālaw",
+      "jenis_kata": "Fi'il",
+      "arti": "marilah datang",
+      "sharaf": {
+        "akar_kata": "ع-ل-و",
+        "makna_dasar": "datang",
+        "wazan_perubahan": "فعل أمر من وزن تَفْعَلُوا"
+      },
+      "nahwu": {
+        "kedudukan": "فعل أمر مبني على السكون مع واو الجماعة",
+        "irab_dan_logika": "مبني على السكون، والواو للواحد الجمع، لا إعراب"
+      },
+      "hikmah": "perintah kolektif kepada mereka untuk datang atau mengikuti",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "إِلَىٰ",
+      "transliterasi": "ilā",
+      "jenis_kata": "Huruf",
+      "arti": "ke, menuju",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر",
+        "irab_dan_logika": "لا إعراب له، يربط ما بعده بالمجرور"
+      },
+      "hikmah": "menunjukkan arah atau tujuan ajakan",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "مَا",
+      "transliterasi": "mā",
+      "jenis_kata": "Isim",
+      "arti": "apa",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "اسم موصول أو اسم استفهام في محل نصب مفعول به",
+        "irab_dan_logika": "منصوب بالفتحة لأنه مفعول به للفعل تَعَالَوْا"
+      },
+      "hikmah": "menunjuk kepada segala sesuatu yang diturunkan Allah dan Rasul‑Nya",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "أَنزَلَ",
+      "transliterasi": "anzala",
+      "jenis_kata": "Fi'il",
+      "arti": "menurunkan",
+      "sharaf": {
+        "akar_kata": "نزل",
+        "makna_dasar": "turun",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja utama (verb) dalam kalimat",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فعل ماضٍ"
+      },
+      "hikmah": "menunjukkan tindakan Allah menurunkan wahyu atau petunjuk",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "ٱللَّهُ",
+      "transliterasi": "Allahu",
+      "jenis_kata": "Isim",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "الله",
+        "makna_dasar": "nama Tuhan yang Maha Esa",
+        "wazan_perubahan": "اسم علم"
+      },
+      "nahwu": {
+        "kedudukan": "subjek (fa'il) bagi fi'il أَنزَلَ",
+        "irab_dan_logika": "مرفوع بالضمة لأنه اسم مرفوع"
+      },
+      "hikmah": "menegaskan bahwa yang menurunkan adalah Allah",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "وإِلَى",
+      "transliterasi": "wa-ila",
+      "jenis_kata": "Huruf",
+      "arti": "dan kepada",
+      "sharaf": {
+        "akar_kata": "إلى",
+        "makna_dasar": "menuju, kepada",
+        "wazan_perubahan": "حرف جر"
+      },
+      "nahwu": {
+        "kedudukan": "kata sambung (wa) + huruf jar (ila) yang menghubungkan ke kata berikutnya",
+        "irab_dan_logika": "مجرور بحرف الجر إلى"
+      },
+      "hikmah": "menunjukkan arah atau tujuan penurunan wahyu",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "ٱلرَّسُولِ",
+      "transliterasi": "ar-rasūli",
+      "jenis_kata": "Isim",
+      "arti": "rasul",
+      "sharaf": {
+        "akar_kata": "رسل",
+        "makna_dasar": "mengirimkan pesan",
+        "wazan_perubahan": "فَعُول"
+      },
+      "nahwu": {
+        "kedudukan": "مجرور بحرف الجر إلى، وهو مضاف إلى اسم الله",
+        "irab_dan_logika": "مجرور وعلامة جره الكسرة"
+      },
+      "hikmah": "menunjukkan bahwa wahyu diturunkan kepada Nabi Muhammad SAW",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "قَالُوا۟",
+      "transliterasi": "qālū",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka berkata",
+      "sharaf": {
+        "akar_kata": "قال",
+        "makna_dasar": "mengucapkan",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ماضٍ مبني على الضمة، والواو للغائب جمع",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فعل ماضٍ"
+      },
+      "hikmah": "menyatakan respons orang-orang terhadap perintah Allah",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "حَسْبُنَا",
+      "transliterasi": "ḥasbunā",
+      "jenis_kata": "Isim",
+      "arti": "cukuplah bagi kami",
+      "sharaf": {
+        "akar_kata": "حسب",
+        "makna_dasar": "cukup, memadai",
+        "wazan_perubahan": "فَعْل"
+      },
+      "nahwu": {
+        "kedudukan": "اسم معطوف على قَالُوا، مرفوع بالضمة لأنه خبر مرفوع",
+        "irab_dan_logika": "مرفوع بالضمة لأنّه خبر"
+      },
+      "hikmah": "menunjukkan sikap puas dan menolak mengikuti wahyu baru",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "مَا",
+      "transliterasi": "mā",
+      "jenis_kata": "Isim",
+      "arti": "apa",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "apa",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "objek (مفعول به) dari fi'il وَجَدْنَا",
+        "irab_dan_logika": "مَنْصُوبٌ بِالفَتْحَةِ لأنّه اسم موصول منصوب يجرّ الفعل"
+      },
+      "hikmah": "menunjuk kepada sesuatu yang belum diketahui, dalam konteks: “apa yang …”",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "وَجَدْنَا",
+      "transliterasi": "wajadnā",
+      "jenis_kata": "Fi'il",
+      "arti": "kami menemukan",
+      "sharaf": {
+        "akar_kata": "و-ج-د",
+        "makna_dasar": "menemukan",
+        "wazan_perubahan": "فَعَلَ (past tense)"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il madhi (verb past) 1ʾ orang jamak",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فعل ماضٍ لا يجرّ"
+      },
+      "hikmah": "menyatakan tindakan menemukan sesuatu oleh pembicara dan sahabatnya",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "عَلَيْهِ",
+      "transliterasi": "ʿalayhi",
+      "jenis_kata": "Huruf (preposisi + zamir)",
+      "arti": "atasnya",
+      "sharaf": {
+        "akar_kata": "ع-ل-ى",
+        "makna_dasar": "di atas",
+        "wazan_perubahan": "حرف جر"
+      },
+      "nahwu": {
+        "kedudukan": "jar (مجرور) تابع لحرف الجر",
+        "irab_dan_logika": "مجرور بالكسرة لأنّ حرف الجر \"على\" يجرّ ما بعده"
+      },
+      "hikmah": "menunjukkan tempat atau keadaan yang menjadi dasar penemuan",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "آبَاءَنَا",
+      "transliterasi": "ābāʾanā",
+      "jenis_kata": "Isim",
+      "arti": "para bapak kami",
+      "sharaf": {
+        "akar_kata": "أ-ب-و",
+        "makna_dasar": "bapak",
+        "wazan_perubahan": "مَفْعَل (jamak مكسر)"
+      },
+      "nahwu": {
+        "kedudukan": "فاعل (subjek) dari fi'il وَجَدْنَا",
+        "irab_dan_logika": "مرفوع بالضمة لأنّه فاعل للفعل الماضي"
+      },
+      "hikmah": "menunjuk kepada generasi leluhur yang menjadi contoh bagi mereka",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "ۚ",
+      "transliterasi": "waqf",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda berhenti",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "tanda jeda",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda waqf yang memisahkan kalimat",
+        "irab_dan_logika": "tidak berirab karena bukan kata"
+      },
+      "hikmah": "menandakan akhir bagian kalimat sebelum pertanyaan selanjutnya",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "أَوَلَوْ",
+      "transliterasi": "awalu",
+      "jenis_kata": "Fi'il",
+      "arti": "apakah mereka berpaling",
+      "sharaf": {
+        "akar_kata": "و-ل-ى",
+        "makna_dasar": "berpaling, menolak",
+        "wazan_perubahan": "أَفْعَلَ (past tense, 3ʾ orang jamak)"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il madhi (verb) 3ʾ orang jamak",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فعل ماضٍ"
+      },
+      "hikmah": "menunjukkan sikap menolak atau berpaling dari petunjuk Allah",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "كَانَ",
+      "transliterasi": "kāna",
+      "jenis_kata": "Fi'il",
+      "arti": "adalah, menjadi",
+      "sharaf": {
+        "akar_kata": "ك-و-ن",
+        "makna_dasar": "menjadi, eksistensi",
+        "wazan_perubahan": "form I (فعل مجرد)"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja lampau, predikat dalam kalimat nominal (مبتدأ كان)",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فعل ماضٍ"
+      },
+      "hikmah": "menunjukkan keadaan yang tidak ada, menegaskan penolakan terhadap pengetahuan nenek moyang",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "آباؤهم",
+      "transliterasi": "ābā’uhum",
+      "jenis_kata": "Isim",
+      "arti": "ayah‑ayah mereka",
+      "sharaf": {
+        "akar_kata": "أ-ب",
+        "makna_dasar": "bapak, leluhur",
+        "wazan_perubahan": "مفعول"
+      },
+      "nahwu": {
+        "kedudukan": "isim mudhaf (milik) yang berfungsi sebagai subjek dalam ayat",
+        "irab_dan_logika": "مرفوع بالضمة لأنه مبتدأ مرفوع"
+      },
+      "hikmah": "menunjuk pada generasi terdahulu yang menjadi alasan orang-orang zaman kini menolak petunjuk",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "لَا",
+      "transliterasi": "lā",
+      "jenis_kata": "Huruf",
+      "arti": "tidak",
+      "sharaf": {
+        "akar_kata": "ل-ا",
+        "makna_dasar": "penolakan, negasi",
+        "wazan_perubahan": "حرف نفي"
+      },
+      "nahwu": {
+        "kedudukan": "huruf nafi yang menolak kata kerja berikutnya",
+        "irab_dan_logika": "مجرور بحرف الجر لأنه حرف نفي"
+      },
+      "hikmah": "menegaskan bahwa nenek moyang mereka tidak mengetahui apa‑apa",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "يَعْلَمُونَ",
+      "transliterasi": "ya‘lamūna",
+      "jenis_kata": "Fi'il",
+      "arti": "mengetahui",
+      "sharaf": {
+        "akar_kata": "ع-ل-م",
+        "makna_dasar": "pengetahuan, ilmu",
+        "wazan_perubahan": "فَعَلَ"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il mudhari‘ majzoom (verb present) sebagai predikat negatif setelah لَا",
+        "irab_dan_logika": "مجرور بالكسرة لأنه فعل مضارع مجزوم بحرف النفي"
+      },
+      "hikmah": "menyiratkan ketidaktahuan total nenek moyang terhadap wahyu",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "شَيْئًا",
+      "transliterasi": "shay’an",
+      "jenis_kata": "Isim",
+      "arti": "sesuatu",
+      "sharaf": {
+        "akar_kata": "ش-ي-ء",
+        "makna_dasar": "benda, hal",
+        "wazan_perubahan": "فَعْلاً"
+      },
+      "nahwu": {
+        "kedudukan": "isim maf‘ul (objek) yang menerima fi'il y‘lamūna",
+        "irab_dan_logika": "منصوب بالفتحة لأنه مفعول به"
+      },
+      "hikmah": "menegaskan bahwa tidak ada pengetahuan apa pun, sekecil apa pun",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "وَلَا",
+      "transliterasi": "wa‑lā",
+      "jenis_kata": "Huruf",
+      "arti": "dan tidak",
+      "sharaf": {
+        "akar_kata": "ل-ا",
+        "makna_dasar": "penolakan tambahan",
+        "wazan_perubahan": "حرف عطف مع نفي"
+      },
+      "nahwu": {
+        "kedudukan": "huruf 'wa' (conjunction) yang menghubungkan dua frasa negatif",
+        "irab_dan_logika": "مجرور بحرف الجر لأنه حرف عطف مع نفي"
+      },
+      "hikmah": "menyiratkan kesinambungan penolakan: tidak hanya tidak mengetahui, tetapi juga tidak mendapat petunjuk",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "يَهْتَدُونَ",
+      "transliterasi": "yahtadūna",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka mendapat petunjuk",
+      "sharaf": {
+        "akar_kata": "ه د ي",
+        "makna_dasar": "menunjukkan jalan, memberi petunjuk",
+        "wazan_perubahan": "فعل مضارع مرفوع بالضمة، والواو للواو الجماعة"
+      },
+      "nahwu": {
+        "kedudukan": "Predikat (fi'il) dalam kalimat, menunjukkan aksi menuntun",
+        "irab_dan_logika": "مرفوع بالضمة الظاهرة على آخره لأنّه فعل مضارع مرفوع، والواو للواو الجماعة"
+      },
+      "hikmah": "*Dalam konteks ayat, kata ini menegaskan bahwa orang‑orang menolak untuk **menjadi orang yang mendapat petunjuk** dari Allah, melainkan tetap berpegang pada tradisi nenek moyang yang tidak mendapat hidayah.*",
+      "role": "none"
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "surah": 9,
+  "ayah": 48,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "لَقَدِ",
+      "transliterasi": "laqadi",
+      "jenis_kata": "Huruf",
+      "arti": "sesungguhnya, memang",
+      "sharaf": {
+        "akar_kata": "ق‑د",
+        "makna_dasar": "menunjukkan kepastian",
+        "wazan_perubahan": "laf‘ul (huruf)"
+      },
+      "nahwu": {
+        "kedudukan": "pendahuluan kalimat, menegaskan pernyataan selanjutnya",
+        "irab_dan_logika": "huruf tidak ber‑i‘rāb, ber‑kasrah pada *qad* sebagai penanda penekanan"
+      },
+      "hikmah": "menegaskan bahwa apa yang akan disebutkan adalah fakta yang tidak dapat diperdebatkan",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "ٱبْتَغَوُا۟",
+      "transliterasi": "ibtaghaw",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka mencari, menginginkan",
+      "sharaf": {
+        "akar_kata": "ب‑غ‑ى",
+        "makna_dasar": "ingin, mengharapkan",
+        "wazan_perubahan": "form IV (أَفْعَل) → اِبْتَغَى"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il maḍi (kata kerja lampau) sebagai predikat utama",
+        "irab_dan_logika": "marfu‘ dengan dhammah pada akhir *‑وا* karena fi‘l maḍi tidak ber‑i‘rāb"
+      },
+      "hikmah": "menunjukkan niat aktif mereka untuk menciptakan kekacauan",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "ٱلْفِتْنَةَ",
+      "transliterasi": "al‑fitnah",
+      "jenis_kata": "Isim",
+      "arti": "kekacauan, fitnah",
+      "sharaf": {
+        "akar_kata": "ف‑ت‑ن",
+        "makna_dasar": "ujaran, cobaan, fitnah",
+        "wazan_perubahan": "maf‘ala"
+      },
+      "nahwu": {
+        "kedudukan": "maf‘ul bih (objek) dari fi‘l *ibtaghaw*",
+        "irab_dan_logika": "mansūb dengan fatha karena menjadi maf‘ul bih"
+      },
+      "hikmah": "menyiratkan bahwa tujuan mereka adalah menimbulkan fitnah yang merusak",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "مِن",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "م‑ن",
+        "makna_dasar": "menunjuk asal atau sumber",
+        "wazan_perubahan": "huruf jar"
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar yang menghubungkan *min* dengan *qabl*",
+        "irab_dan_logika": "huruf tidak ber‑i‘rāb, menyebabkan kata berikutnya ber‑majrur"
+      },
+      "hikmah": "menunjukkan rentang waktu sebelum terjadinya perbuatan mereka",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "قَبْلُ",
+      "transliterasi": "qabl",
+      "jenis_kata": "Isim",
+      "arti": "sebelum",
+      "sharaf": {
+        "akar_kata": "ق‑ب‑ل",
+        "makna_dasar": "menghadapi, sebelum",
+        "wazan_perubahan": "fa‘ala"
+      },
+      "nahwu": {
+        "kedudukan": "isim majrur setelah huruf *min*",
+        "irab_dan_logika": "majrur dengan kasrah karena dipengaruhi oleh *min*"
+      },
+      "hikmah": "menandakan bahwa tindakan mereka telah ada sejak masa yang lampau",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "وَقَلَّبُوا۟",
+      "transliterasi": "wa‑qallabū",
+      "jenis_kata": "Fi'il",
+      "arti": "dan mereka membalikkan (musuh)",
+      "sharaf": {
+        "akar_kata": "ق‑ل‑ب",
+        "makna_dasar": "memutar, membalikkan",
+        "wazan_perubahan": "fa‘ala"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il maḍi yang koordinatif dengan *ibtaghaw* melalui *wa*",
+        "irab_dan_logika": "marfu‘ dengan dhammah pada akhir *‑وا* karena fi‘l maḍi"
+      },
+      "hikmah": "menunjukkan aksi lanjutan mereka, yaitu berusaha menggulingkan atau menentang kebenaran",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "لَكَ",
+      "transliterasi": "laka",
+      "jenis_kata": "Huruf (preposisi + zamir)",
+      "arti": "bagi kamu",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar (menyambung ke kata berikutnya)",
+        "irab_dan_logika": "Majrur – harakat kasrah pada *ka* karena huruf *li-* menuntut i'rab majrur"
+      },
+      "hikmah": "Menunjukkan bahwa segala perintah atau ancaman ditujukan **kepadamu** (para pendengar)",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "ٱلْأُمُورَ",
+      "transliterasi": "al‑umūra",
+      "jenis_kata": "Isim (isim mafʿūl)",
+      "arti": "urusan‑urusan, hal‑hal",
+      "sharaf": {
+        "akar_kata": "أ م ر",
+        "makna_dasar": "perintah, urusan",
+        "wazan_perubahan": "فَعْلَة"
+      },
+      "nahwu": {
+        "kedudukan": "Mafʿūl mutaqārib (objek) setelah fiʿl *yutawwiru*",
+        "irab_dan_logika": "Mansūb – harakat fathah pada *ra* karena menjadi objek fiʿl"
+      },
+      "hikmah": "Menggambarkan rangkaian **rencana** dan **perbuatan** yang mereka susun",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "حَتَّىٰ",
+      "transliterasi": "ḥattā",
+      "jenis_kata": "Huruf (ʿādat al-ʿilāqa)",
+      "arti": "hingga, sampai",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar (menghubungkan dua klausa)",
+        "irab_dan_logika": "Tidak i'rab – huruf indeklinabel"
+      },
+      "hikmah": "Menandai **batas waktu** atau titik akhir dari rangkaian tipu‑daya",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "جَآءَ",
+      "transliterasi": "jā’a",
+      "jenis_kata": "Fiʿl (madī, 3rd masc. singular)",
+      "arti": "datang, tiba",
+      "sharaf": {
+        "akar_kata": "ج و ي",
+        "makna_dasar": "datang, hadir",
+        "wazan_perubahan": "فَعَلَ"
+      },
+      "nahwu": {
+        "kedudukan": "Fiʿl madī sebagai predikat utama",
+        "irab_dan_logika": "Marfūʿ – tidak berharakat akhir karena fiʿl madī"
+      },
+      "hikmah": "Menegaskan bahwa **kebenaran** telah **datang** sebagai pertolongan Allah",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "ٱلْحَقُّ",
+      "transliterasi": "al‑ḥaqq",
+      "jenis_kata": "Isim (marfūʿ)",
+      "arti": "kebenaran, hak",
+      "sharaf": {
+        "akar_kata": "ح ق ق",
+        "makna_dasar": "kebenaran, keadilan",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "Mubtadaʾ (subjek) bagi fiʿl *jā’a*",
+        "irab_dan_logika": "Marfūʿ – dammah pada *qaf* karena menjadi mubtadaʾ"
+      },
+      "hikmah": "Menunjukkan **kebenaran Allah** yang menjadi sumber pertolongan",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "وَظَهَرَ",
+      "transliterasi": "wa‑ẓahara",
+      "jenis_kata": "Fiʿl (madī, 3rd masc. singular) dengan wa‑ʾillat)",
+      "arti": "dan muncul, tampak",
+      "sharaf": {
+        "akar_kata": "ظ ه ر",
+        "makna_dasar": "tampak, muncul",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "Fiʿl madī yang dihubungkan dengan *wa* ke fiʿl sebelumnya",
+        "irab_dan_logika": "Marfūʿ – tidak berharakat akhir karena fiʿl madī"
+      },
+      "hikmah": "Menyiratkan bahwa **kebenaran** tidak hanya datang, tetapi juga **menampakkan** diri secara jelas",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "أَمْرُ",
+      "transliterasi": "amru",
+      "jenis_kata": "Isim",
+      "arti": "perintah, urusan, hal",
+      "sharaf": {
+        "akar_kata": "أ م ر",
+        "makna_dasar": "memerintahkan, mengatur",
+        "wazan_perubahan": "مُفْعَل (isim maf‘ul)"
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada' (subjek) dalam iḍāfah «أَمْرُ اللَّهِ»",
+        "irab_dan_logika": "Marfū‘ (dengan dammah) karena menjadi mubtada' yang menandai subjek kalimat"
+      },
+      "hikmah": "Menegaskan bahwa segala urusan atau perintah yang hakiki adalah milik Allah, tidak terpengaruh oleh tipu‑muslihat manusia.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "ٱللَّهِ",
+      "transliterasi": "Allahi",
+      "jenis_kata": "Isim (nama khusus)",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "ل ه",
+        "makna_dasar": "Yang Maha Esa, Sang Pencipta",
+        "wazan_perubahan": "Ism al-‘Ilm (nama Allah)"
+      },
+      "nahwu": {
+        "kedudukan": "Mudhaf (possesif) dalam iḍāfah «أَمْرُ اللَّهِ»",
+        "irab_dan_logika": "Majrūr (dengan kasrah) karena menjadi mudhaf setelah isim maf‘ul"
+      },
+      "hikmah": "Menunjukkan kepemilikan mutlak Allah atas perintah‑Nya, menegaskan otoritas Ilahi.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "وَهُمْ",
+      "transliterasi": "wahum",
+      "jenis_kata": "Huruf + Isim dhat (kata ganti)",
+      "arti": "dan mereka",
+      "sharaf": {
+        "akar_kata": "ه م",
+        "makna_dasar": "mereka (jamak maskulin)",
+        "wazan_perubahan": "ضمير منفصل"
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada' (subjek) bagi predikat «كَٰرِهُونَ»",
+        "irab_dan_logika": "Marfū‘ (dengan dammah) karena berfungsi sebagai subjek; huruf «و» hanyalah حرف عطف yang menghubungkan dengan kalimat sebelumnya"
+      },
+      "hikmah": "Menyiratkan bahwa kelompok orang tersebut (musuh) berada dalam posisi menentang dan tidak menyukai kebenaran.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "كَٰرِهُونَ",
+      "transliterasi": "kaarihūna",
+      "jenis_kata": "Isim (isim fa‘il – aktif participle)",
+      "arti": "yang membenci, orang yang tidak suka",
+      "sharaf": {
+        "akar_kata": "ك ر ه",
+        "makna_dasar": "benci, tidak suka",
+        "wazan_perubahan": "فاعِل (isim fa‘il) – bentuk aktif"
+      },
+      "nahwu": {
+        "kedudukan": "Khabar (predikat) bagi mubtada' «وهم»",
+        "irab_dan_logika": "Marfū‘ (dengan waw al‑marbūṭah) karena merupakan isim fa‘il jamī‘ muḍarrac (jamak maskulin سالم) yang berfungsi sebagai خبر"
+      },
+      "hikmah": "Menegaskan kebencian mereka terhadap agama Allah, menambah kejelasan bahwa mereka tidak menyukai kebenaran yang datang.",
+      "role": "none"
+    }
+  ]
+}

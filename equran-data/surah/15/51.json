@@ -1,0 +1,78 @@
+{
+  "surah": 15,
+  "ayah": 51,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "وَنَبِّئْهُمْ",
+      "transliterasi": "wa-nabbi'ahum",
+      "jenis_kata": "Fi'il (imperatif) dengan huruf wa sebagai sambung",
+      "arti": "dan beri tahu mereka",
+      "sharaf": {
+        "akar_kata": "ب-أ-ء",
+        "makna_dasar": "memberi informasi atau perintah untuk memberitahu",
+        "wazan_perubahan": "فَعِّئ (fa''i)"
+      },
+      "nahwu": {
+        "kedudukan": "Predikat perintah (imperatif) yang diikuti huruf wa sebagai huruf sambung",
+        "irab_dan_logika": "wa: huruf عطف مبني على السكون؛ nabbi' : فعل أمر مبني على السكون؛ -hum: ضمير متصل في محل نصب مفعول به"
+      },
+      "hikmah": "Mengajak Nabi untuk menyampaikan berita penting kepada umat tentang tamu‑tamu Ibrahim",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "عَن",
+      "transliterasi": "an",
+      "jenis_kata": "Huruf (preposisi)",
+      "arti": "tentang",
+      "sharaf": {
+        "akar_kata": "ع-ن",
+        "makna_dasar": "menunjukkan hubungan atau sumber",
+        "wazan_perubahan": "حرف جر"
+      },
+      "nahwu": {
+        "kedudukan": "Preposisi yang menghubungkan فعل \"نَبِّئْ\" dengan اسم \"ضَيْفِ\"",
+        "irab_dan_logika": "حرف جر مبني على السكون؛ الاسم بعده مجرور وعلامة جره الكسرة"
+      },
+      "hikmah": "Menandakan bahwa yang akan diberitahukan adalah tentang tamu‑tamu Ibrahim",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "ضَيْفِ",
+      "transliterasi": "ḍayfi",
+      "jenis_kata": "Isim (isim maf'ul)",
+      "arti": "tamu",
+      "sharaf": {
+        "akar_kata": "ض-ي-ف",
+        "makna_dasar": "orang yang diundang, tamu",
+        "wazan_perubahan": "فَعِل"
+      },
+      "nahwu": {
+        "kedudukan": "Isim مجرور بحرف العَن",
+        "irab_dan_logika": "مجرور وعلامة جره الكسرة لأنه مضاف إليه"
+      },
+      "hikmah": "Menekankan kedatangan tamu sebagai ujian dan pelajaran bagi Ibrahim",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "إِبْرَٰهِيمَ",
+      "transliterasi": "Ibrâhîm",
+      "jenis_kata": "Isim (nama pribadi)",
+      "arti": "Ibrahim",
+      "sharaf": {
+        "akar_kata": "ب-ر-أ (dari kata \"بَرِيء\"/\"بَرِي\" yang berarti 'banyak keturunan')",
+        "makna_dasar": "nama nabi yang terkenal dengan ketakwaan",
+        "wazan_perubahan": "اسم علم"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به للفعل \"نَبِّئْ\"",
+        "irab_dan_logika": "منصوب وعلامة نصبه الفتحة لأنه مفعول به"
+      },
+      "hikmah": "Menyampaikan bahwa kisah tamu‑tamu Ibrahim mengandung pelajaran moral dan keimanan yang penting",
+      "role": "none"
+    }
+  ]
+}

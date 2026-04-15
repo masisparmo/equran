@@ -1,0 +1,582 @@
+{
+  "surah": 2,
+  "ayah": 230,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "فَإِن",
+      "transliterasi": "fa-in",
+      "jenis_kata": "Huruf",
+      "arti": "Maka jika",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf athaf dan huruf syarat",
+        "irab_dan_logika": "`فَ` (fa) adalah huruf athaf yang menunjukkan akibat atau kelanjutan dari kalimat sebelumnya. `إِنْ` (in) adalah huruf syarat yang berfungsi untuk mengandaikan suatu kondisi dan akan menjazamkan dua fi'il (fi'il syarat dan jawab syarat) jika fi'ilnya mudhari'."
+      },
+      "hikmah": "Menunjukkan adanya kondisi atau prasyarat yang akan diikuti oleh suatu konsekuensi hukum. Dalam konteks ayat, ini adalah kelanjutan dari kondisi talak sebelumnya, mengisyaratkan adanya talak ketiga.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "طَلَّقَهَا",
+      "transliterasi": "ṭallaqahā",
+      "jenis_kata": "Fi'il",
+      "arti": "Dia (laki-laki) telah mentalaknya (perempuan itu)",
+      "sharaf": {
+        "akar_kata": "ط ل ق (ṭ-l-q)",
+        "makna_dasar": "Melepaskan, membebaskan, menceraikan",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau) dari Bab II (فَعَّلَ - fa''ala), yang menunjukkan makna intensif atau transitif. `طَلَّقَ` berarti 'menceraikan'. `هَا` adalah dhamir muttasil (kata ganti objek) untuk perempuan tunggal."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il syarat",
+        "irab_dan_logika": "`طَلَّقَ` adalah fi'il madhi mabniyyun 'ala al-fath (dibangun di atas fathah). Fi'il madhi tidak terpengaruh oleh `إِنْ` secara harakat, tetapi secara makna ia adalah fi'il syarat. Fa'il (pelaku) adalah dhamir mustatir (tersembunyi) yang kembali kepada suami. `هَا` adalah dhamir muttasil mabniyyun 'ala as-sukun fi mahalli nashbin maf'ul bih (kata ganti objek yang terhubung, dibangun di atas sukun, pada posisi nashab sebagai objek)."
+      },
+      "hikmah": "Merujuk pada tindakan talak ketiga yang dilakukan oleh suami. Tindakan ini memiliki konsekuensi hukum yang sangat serius dalam Islam, yaitu tidak halalnya lagi istri bagi suami tersebut secara langsung.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "فَلَا",
+      "transliterasi": "fa-lā",
+      "jenis_kata": "Huruf",
+      "arti": "Maka tidak",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jawab syarat dan huruf nafi",
+        "irab_dan_logika": "`فَ` (fa) adalah huruf jawab syarat (jawaban dari syarat `إِنْ`) yang menunjukkan akibat langsung dari kondisi yang disebutkan. `لَا` (lā) adalah huruf nafi (peniadaan) yang tidak beramal (tidak menjazamkan atau menashabkan) pada fi'il mudhari' yang mengikutinya, hanya meniadakan maknanya."
+      },
+      "hikmah": "Menegaskan konsekuensi hukum yang pasti dan langsung setelah talak ketiga, yaitu peniadaan kehalalan istri bagi suami. Ini adalah penekanan pada larangan syariat.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "تَحِلُّ",
+      "transliterasi": "taḥillu",
+      "jenis_kata": "Fi'il",
+      "arti": "Dia (perempuan itu) menjadi halal",
+      "sharaf": {
+        "akar_kata": "ح ل ل (ḥ-l-l)",
+        "makna_dasar": "Menjadi halal, dibolehkan, melepaskan ikatan",
+        "wazan_perubahan": "Fi'il Mudhari' (kata kerja sekarang/akan datang) dari Bab I (فَعَلَ - fa'ala). Di sini, `تَحِلُّ` berarti 'menjadi halal' atau 'dibolehkan'."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il mudhari' marfu' sebagai jawab syarat",
+        "irab_dan_logika": "`تَحِلُّ` adalah fi'il mudhari' marfu' dengan dhammah karena tidak didahului oleh amil nashab atau jazam. Fa'il (pelaku) adalah dhamir mustatir (tersembunyi) yang kembali kepada perempuan (istri). Meskipun ia adalah jawab syarat, keberadaan `فَ` (fa) di depannya mencegahnya dari jazam."
+      },
+      "hikmah": "Menjelaskan status hukum seorang istri setelah talak ketiga, yaitu tidak lagi halal bagi mantan suaminya. Ini adalah inti dari konsekuensi talak ketiga yang dijelaskan dalam ayat.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "لَهُۥ",
+      "transliterasi": "lahū",
+      "jenis_kata": "Huruf dan Isim",
+      "arti": "Baginya (laki-laki itu)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Jar Majrur",
+        "irab_dan_logika": "`لَ` (lam) adalah huruf jar (preposisi) yang menyebabkan isim setelahnya menjadi majrur. `هُۥ` (hu) adalah dhamir muttasil (kata ganti terhubung) mabniyyun 'ala adh-dhamm fi mahalli jarrin bi al-harf (dibangun di atas dhammah, pada posisi jarr karena huruf jar). Jar Majrur ini berkaitan dengan fi'il `تَحِلُّ`."
+      },
+      "hikmah": "Menentukan siapa yang tidak lagi dihalalkan bagi perempuan tersebut, yaitu mantan suaminya yang telah mentalaknya tiga kali. Ini memperjelas subjek larangan dan menegaskan bahwa larangan itu spesifik untuk suami pertama.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "مِنۢ",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf",
+      "arti": "Dari, sejak, hingga",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar",
+        "irab_dan_logika": "`مِنْ` adalah huruf jar yang menyebabkan isim setelahnya menjadi majrur. Dalam konteks ayat ini, ia berfungsi sebagai penjelas batasan waktu atau kondisi, yaitu 'hingga' atau 'sampai' suatu kondisi terpenuhi."
+      },
+      "hikmah": "Menunjukkan batasan atau titik awal dari suatu kondisi. Dalam ayat ini, ia mengindikasikan bahwa status 'tidak halal' itu berlaku 'hingga' perempuan tersebut kawin dengan suami yang lain, yang merupakan syarat agar ia bisa kembali halal bagi suami pertamanya.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "بَعْدُ",
+      "transliterasi": "ba'du",
+      "jenis_kata": "Isim",
+      "arti": "setelah, sesudah",
+      "sharaf": {
+        "akar_kata": "ب ع د",
+        "makna_dasar": "jauh, kemudian",
+        "wazan_perubahan": "Isim Zarf (kata keterangan waktu)"
+      },
+      "nahwu": {
+        "kedudukan": "Zarf Zaman (keterangan waktu)",
+        "irab_dan_logika": "Mabni 'ala ad-dhamm (tetap berharakat dhammah) karena mudhaf ilaih-nya dibuang dan niatnya masih ada. Jika mudhaf ilaih-nya disebutkan, ia akan manshub (fathah). Dalam ayat ini, ia berfungsi sebagai keterangan waktu yang merujuk pada talak sebelumnya."
+      },
+      "hikmah": "Kata ini menunjukkan urutan waktu, yaitu 'setelah' talak kedua terjadi. Ini mengindikasikan bahwa hukum yang akan disebutkan berlaku setelah peristiwa talak kedua, menekankan kronologi peristiwa dalam hukum talak.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "حَتَّىٰ",
+      "transliterasi": "hatta",
+      "jenis_kata": "Huruf",
+      "arti": "hingga, sampai",
+      "sharaf": {
+        "akar_kata": "(Tidak ada akar kata untuk huruf)",
+        "makna_dasar": "Batas akhir, tujuan",
+        "wazan_perubahan": "(Tidak berlaku untuk huruf)"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Nashib (yang menashabkan fi'il mudhari' setelahnya) dan Huruf Ghayah (menunjukkan batas akhir)",
+        "irab_dan_logika": "Huruf mabni (tetap) tidak memiliki i'rab. Fungsinya di sini adalah menashabkan fi'il mudhari' setelahnya (تَنكِحَ) dan menunjukkan batas waktu atau tujuan dari kehalalan kembali istri bagi suami pertama."
+      },
+      "hikmah": "Kata ini menetapkan batas waktu atau syarat bagi kehalalan kembali istri bagi suami pertama. Artinya, kehalalan itu tidak akan terjadi 'sampai' syarat berikutnya terpenuhi, yaitu pernikahan dengan suami lain.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "تَنكِحَ",
+      "transliterasi": "tankiha",
+      "jenis_kata": "Fi'il",
+      "arti": "dia (perempuan) menikah",
+      "sharaf": {
+        "akar_kata": "ن ك ح",
+        "makna_dasar": "menikah, mengawini",
+        "wazan_perubahan": "Fi'il Mudhari' dari Bab I (فَعَلَ - يَفْعَلُ). Bentuknya adalah تَفْعَلُ."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Manshub",
+        "irab_dan_logika": "Manshub dengan fathah karena didahului oleh huruf nashib 'حَتَّىٰ'. Fa'il (subjek) dari fi'il ini adalah dhamir mustatir (tersembunyi) yang kembali kepada perempuan yang ditalak."
+      },
+      "hikmah": "Kata ini merujuk pada tindakan pernikahan yang harus dilakukan oleh perempuan yang ditalak tiga. Ini adalah syarat mutlak agar ia bisa kembali kepada suami pertamanya, menunjukkan pentingnya pernikahan yang sah dan bukan rekayasa.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "زَوْجًا",
+      "transliterasi": "zawjan",
+      "jenis_kata": "Isim",
+      "arti": "suami",
+      "sharaf": {
+        "akar_kata": "ز و ج",
+        "makna_dasar": "pasangan, berpasangan, suami/istri",
+        "wazan_perubahan": "Isim Mufrad (kata benda tunggal)"
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul Bih (objek)",
+        "irab_dan_logika": "Manshub dengan fathah tanwin karena ia adalah objek dari fi'il 'تَنكِحَ' (menikahi siapa? seorang suami)."
+      },
+      "hikmah": "Kata ini menjelaskan objek dari pernikahan yang disyaratkan, yaitu 'seorang suami' yang lain, bukan suami pertama. Ini menekankan bahwa pernikahan tersebut haruslah dengan orang yang berbeda dan sah secara syariat.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "غَيْرَهُۥ",
+      "transliterasi": "ghayrahu",
+      "jenis_kata": "Isim",
+      "arti": "selain dia, yang lain",
+      "sharaf": {
+        "akar_kata": "غ ي ر",
+        "makna_dasar": "berbeda, selain",
+        "wazan_perubahan": "Isim Mufrad"
+      },
+      "nahwu": {
+        "kedudukan": "Sifat (Na'at) bagi 'زَوْجًا' atau bisa juga sebagai Badl (pengganti)",
+        "irab_dan_logika": "Manshub dengan fathah karena ia adalah sifat dari 'زَوْجًا' yang manshub. Huruf 'ـهُۥ' (hu) adalah dhamir muttashil (kata ganti sambung) yang kembali kepada suami pertama, dan ia majrur sebagai mudhaf ilaih."
+      },
+      "hikmah": "Kata ini memperjelas bahwa suami yang dinikahi haruslah 'selain' suami pertama. Ini adalah detail krusial dari syarat pernikahan kedua, menegaskan bahwa tidak boleh ada rekayasa atau pernikahan pura-pura (tahlil) untuk menghalalkan kembali kepada suami pertama.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "ۗ",
+      "transliterasi": "(Tidak ada transliterasi)",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "(Tidak ada arti harfiah)",
+      "sharaf": {
+        "akar_kata": "(Tidak ada akar kata)",
+        "makna_dasar": "(Tidak ada makna dasar)",
+        "wazan_perubahan": "(Tidak berlaku)"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca dalam Al-Qur'an",
+        "irab_dan_logika": "Bukan bagian dari tata bahasa Arab, melainkan konvensi penulisan mushaf untuk menunjukkan tempat berhenti yang dianjurkan. Tanda ini (Jim) menunjukkan bahwa berhenti di sini adalah *jaiz* (boleh), namun melanjutkan juga boleh."
+      },
+      "hikmah": "Tanda ini menunjukkan tempat berhenti yang dianjurkan dalam bacaan Al-Qur'an untuk membantu pembaca memahami makna ayat dengan lebih baik, memberikan jeda setelah penjelasan syarat pernikahan kedua.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "فَإِن",
+      "transliterasi": "fa-in",
+      "jenis_kata": "Huruf",
+      "arti": "Maka jika",
+      "sharaf": {
+        "akar_kata": "(gabungan dua huruf)",
+        "makna_dasar": "Menunjukkan konsekuensi dan syarat",
+        "wazan_perubahan": "Tidak berlaku untuk huruf"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf athaf (penghubung) dan huruf syarat",
+        "irab_dan_logika": "`فَ` (fa') adalah huruf athaf yang menunjukkan konsekuensi atau urutan. `إِنْ` (in) adalah huruf syarat yang menjazamkan dua fi'il (fi'il syarat dan fi'il jawab syarat). Keduanya adalah huruf mabni (tetap) dan tidak memiliki i'rab."
+      },
+      "hikmah": "Menghubungkan kalimat sebelumnya dengan kalimat syarat-jawab yang akan datang, menunjukkan adanya *kondisi* yang harus dipenuhi untuk *konsekuensi* tertentu. Dalam konteks ayat, ini merujuk pada kondisi talak ketiga.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "طَلَّقَهَا",
+      "transliterasi": "tallaqahā",
+      "jenis_kata": "Fi'il",
+      "arti": "Dia (laki-laki) telah mentalaknya (perempuan itu)",
+      "sharaf": {
+        "akar_kata": "ط ل ق (ṭ-l-q)",
+        "makna_dasar": "Melepaskan, membebaskan, menceraikan",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau) dari wazan فَعَّلَ (fa''ala), menunjukkan makna *ta'diyah* (menjadikan transitif) atau *taktsir* (banyak/berulang). Di sini, lebih ke *ta'diyah* (menceraikan)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Syarat",
+        "irab_dan_logika": "Fi'il Madhi mabni fathah. Huruf `هَا` (hā) adalah dhamir muttashil (kata ganti terhubung) yang berkedudukan sebagai maf'ul bih (objek) yang kembali kepada perempuan yang ditalak. Fa'il (subjek) adalah dhamir mustatir (tersembunyi) `هُوَ` (huwa) yang kembali kepada suami. Fi'il ini majzum secara mahal (kedudukan) karena didahului oleh `إِنْ` syarat."
+      },
+      "hikmah": "Menjelaskan tindakan talak yang dilakukan suami untuk ketiga kalinya, yang memiliki konsekuensi hukum serius dalam Islam, yaitu tidak halal lagi bagi suami tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "فَلَا",
+      "transliterasi": "fa-lā",
+      "jenis_kata": "Huruf",
+      "arti": "Maka tidak",
+      "sharaf": {
+        "akar_kata": "(gabungan dua huruf)",
+        "makna_dasar": "Menunjukkan konsekuensi dan penafian",
+        "wazan_perubahan": "Tidak berlaku untuk huruf"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf athaf dan huruf nafi (peniadaan)",
+        "irab_dan_logika": "`فَ` (fa') adalah huruf athaf yang menunjukkan konsekuensi dari syarat sebelumnya. `لَا` (lā) adalah huruf nafi jins (peniadaan jenis) yang beramal seperti `إِنَّ` (inna), yaitu menashabkan isimnya dan merafa'kan khabarnya. Keduanya adalah huruf mabni."
+      },
+      "hikmah": "Menegaskan konsekuensi langsung dari talak ketiga, yaitu peniadaan mutlak terhadap kehalalan perempuan tersebut bagi suami pertama.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "جُنَاحَ",
+      "transliterasi": "junāḥa",
+      "jenis_kata": "Isim",
+      "arti": "Dosa, kesalahan, keberatan",
+      "sharaf": {
+        "akar_kata": "ج ن ح (j-n-ḥ)",
+        "makna_dasar": "Miring, condong, berbuat dosa",
+        "wazan_perubahan": "Isim mashdar dari fi'il جَنَحَ (janaha) atau isim."
+      },
+      "nahwu": {
+        "kedudukan": "Isim `لَا` nafi jins",
+        "irab_dan_logika": "Manshub (berharakat fathah) karena menjadi isim `لَا` nafi jins yang beramal seperti `إِنَّ`. Khabar `لَا` nafi jins di sini mahdzuf (dihilangkan) yang diperkirakan `مَوْجُوْدٌ` (maujudun - ada). Jadi, 'tidak ada dosa (yang ada)'."
+      },
+      "hikmah": "Menunjukkan tidak adanya kesalahan atau keberatan hukum. Dalam konteks ayat, ini merujuk pada tidak adanya dosa bagi mantan suami-istri untuk rujuk kembali setelah istri menikah dengan pria lain dan bercerai.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "عَلَيْهِمَآ",
+      "transliterasi": "‘alayhimā",
+      "jenis_kata": "Huruf dan Isim (Dhamir)",
+      "arti": "Atas keduanya",
+      "sharaf": {
+        "akar_kata": "(gabungan huruf jar dan dhamir)",
+        "makna_dasar": "Menunjukkan kepemilikan, kewajiban, atau arah.",
+        "wazan_perubahan": "Tidak berlaku untuk huruf, `هِمَا` adalah dhamir mutsanna (dua orang)."
+      },
+      "nahwu": {
+        "kedudukan": "Jar Majrur (kata depan dan objeknya)",
+        "irab_dan_logika": "`عَلَى` (ala) adalah huruf jar (kata depan) yang menyebabkan isim setelahnya menjadi majrur. `هِمَا` (himā) adalah dhamir muttashil mabni sukun yang berkedudukan sebagai majrur karena didahului oleh huruf jar. Jar majrur ini berkedudukan sebagai khabar `لَا` nafi jins yang muqaddam (didahulukan) atau muta'alliq (terkait) dengan khabar yang mahdzuf."
+      },
+      "hikmah": "Menjelaskan bahwa hukum atau kondisi yang disebutkan berlaku untuk *kedua belah pihak*, yaitu bekas suami pertama dan bekas istri, menekankan bahwa tidak ada dosa bagi *mereka berdua* untuk rujuk.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "أَن",
+      "transliterasi": "an",
+      "jenis_kata": "Huruf",
+      "arti": "Bahwa, untuk",
+      "sharaf": {
+        "akar_kata": "(huruf)",
+        "makna_dasar": "Menunjukkan penjelasan, tujuan, atau sumber.",
+        "wazan_perubahan": "Tidak berlaku untuk huruf"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf mashdariyah dan nashibah",
+        "irab_dan_logika": "Huruf mabni. `أَن` (an) adalah huruf mashdariyah yang menashabkan fi'il mudhari' setelahnya dan mengubahnya menjadi makna mashdar (kata benda). Dalam konteks ini, ia menjelaskan sebab atau kondisi dari tidak adanya dosa."
+      },
+      "hikmah": "Memperkenalkan klausa yang menjelaskan *syarat* atau *alasan* mengapa tidak ada dosa bagi keduanya untuk rujuk, yaitu jika keduanya berpendapat akan dapat menjalankan hukum-hukum Allah.",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "يَتَرَاجَعَآ",
+      "transliterasi": "yatarāja'ā",
+      "jenis_kata": "Fi'il",
+      "arti": "keduanya kembali (rujuk)",
+      "sharaf": {
+        "akar_kata": "ر ج ع (R-J-'A)",
+        "makna_dasar": "kembali, rujuk",
+        "wazan_perubahan": "Fi'il Mudhari' (kata kerja sekarang/akan datang), wazan تَفَاعَلَ (tafā'ala), bentuk mutsanna (dual) untuk ghaib (mereka berdua). Asalnya يَتَرَاجَعَانِ, nun dihilangkan karena didahului oleh أَن (huruf nashab)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Manshub (dinashabkan)",
+        "irab_dan_logika": "Dinashabkan oleh huruf أَن (an an-nashibah) yang mendahuluinya. Tanda nashabnya adalah حذف النون (pembuangan huruf nun) karena termasuk Af'alul Khamsah (lima fi'il). Alif di akhir adalah alif mutsanna yang menunjukkan fa'il (pelaku) adalah dua orang."
+      },
+      "hikmah": "Menunjukkan tindakan 'kembali rujuk' atau 'mengulang pernikahan' antara mantan suami dan istri setelah talak tiga, yang hanya diperbolehkan jika istri telah menikah dengan pria lain dan bercerai secara sah. Ini menekankan pentingnya niat tulus untuk menjalankan syariat Allah dalam pernikahan kedua ini.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "إِن",
+      "transliterasi": "in",
+      "jenis_kata": "Huruf",
+      "arti": "jika, seandainya",
+      "sharaf": {
+        "akar_kata": "(tidak ada untuk huruf)",
+        "makna_dasar": "Huruf syarat (conditional particle)",
+        "wazan_perubahan": "(tidak ada untuk huruf)"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Syarat (Adat Syarat)",
+        "irab_dan_logika": "Huruf mabni (tidak berubah harakatnya). Berfungsi sebagai penghubung antara dua kalimat, menjadikan kalimat pertama sebagai syarat dan kalimat kedua sebagai jawab syarat."
+      },
+      "hikmah": "Menunjukkan adanya syarat atau kondisi yang harus dipenuhi agar rujuk kembali diperbolehkan, yaitu keyakinan bahwa mereka mampu menegakkan batasan-batasan Allah. Ini menekankan bahwa rujuk bukan sekadar keinginan, melainkan harus disertai komitmen terhadap syariat.",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "ظَنَّآ",
+      "transliterasi": "zhannā",
+      "jenis_kata": "Fi'il",
+      "arti": "keduanya berpendapat, keduanya menyangka, keduanya yakin",
+      "sharaf": {
+        "akar_kata": "ظ ن ن (Zh-N-N)",
+        "makna_dasar": "menyangka, berpendapat, yakin",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau), bentuk mutsanna (dual) untuk ghaib (mereka berdua)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Syarat (Fi'il al-Syart)",
+        "irab_dan_logika": "Fi'il Madhi mabni (tetap harakatnya). Berfungsi sebagai fi'il syarat dari huruf إِن. Alif di akhir adalah alif mutsanna yang menunjukkan fa'il (pelaku) adalah dua orang."
+      },
+      "hikmah": "Mengandung makna 'keyakinan kuat' atau 'dugaan yang mendekati kepastian' dari kedua belah pihak (mantan suami dan istri) bahwa mereka akan mampu menjalankan hukum-hukum Allah jika rujuk. Ini bukan sekadar harapan kosong, melainkan harus didasari pertimbangan matang dan niat yang sungguh-sungguh.",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "أَن",
+      "transliterasi": "an",
+      "jenis_kata": "Huruf",
+      "arti": "bahwa, akan",
+      "sharaf": {
+        "akar_kata": "(tidak ada untuk huruf)",
+        "makna_dasar": "Huruf mashdariyah dan nashibah (penghubung dan penashab)",
+        "wazan_perubahan": "(tidak ada untuk huruf)"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Mashdariyah dan Nashibah",
+        "irab_dan_logika": "Huruf mabni. Berfungsi mengubah fi'il mudhari' setelahnya menjadi makna mashdar (kata benda) dan menashabkan fi'il mudhari' tersebut. Kalimat 'أَن يُقِيمَا' secara keseluruhan menjadi maf'ul bih (objek) bagi fi'il 'ظَنَّآ'."
+      },
+      "hikmah": "Menghubungkan keyakinan (ظَنَّآ) dengan objek keyakinan tersebut, yaitu 'kemampuan untuk menegakkan hukum-hukum Allah'. Ini menegaskan bahwa keyakinan tersebut harus spesifik dan terarah pada komitmen terhadap syariat.",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "يُقِيمَا",
+      "transliterasi": "yuqīmā",
+      "jenis_kata": "Fi'il",
+      "arti": "keduanya menegakkan, keduanya menjalankan",
+      "sharaf": {
+        "akar_kata": "ق و م (Q-W-M)",
+        "makna_dasar": "berdiri, menegakkan, mendirikan, menjalankan",
+        "wazan_perubahan": "Fi'il Mudhari' (kata kerja sekarang/akan datang), wazan أَفْعَلَ (af'ala) - asalnya أَقَامَ (aqāma), bentuk mutsanna (dual) untuk ghaib (mereka berdua). Asalnya يُقِيمَانِ, nun dihilangkan karena didahului oleh أَن (huruf nashab)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Manshub (dinashabkan)",
+        "irab_dan_logika": "Dinashabkan oleh huruf أَن (an an-nashibah) yang mendahuluinya. Tanda nashabnya adalah حذف النون (pembuangan huruf nun) karena termasuk Af'alul Khamsah. Alif di akhir adalah alif mutsanna yang menunjukkan fa'il (pelaku) adalah dua orang."
+      },
+      "hikmah": "Menekankan tindakan aktif 'menegakkan' atau 'menjalankan' hukum-hukum Allah, bukan sekadar mengetahui atau menyetujui. Ini menunjukkan komitmen praktis dan tanggung jawab besar yang harus diemban oleh pasangan jika mereka memutuskan untuk rujuk kembali.",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "حُدُودَ",
+      "transliterasi": "ḥudūda",
+      "jenis_kata": "Isim",
+      "arti": "batasan-batasan, hukum-hukum",
+      "sharaf": {
+        "akar_kata": "ح د د (H-D-D)",
+        "makna_dasar": "batas, batasan, had",
+        "wazan_perubahan": "Jamak taksir (plural tidak beraturan) dari حَدّ (ḥadd)."
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul Bih (objek)",
+        "irab_dan_logika": "Manshub (dinashabkan) karena menjadi objek dari fi'il 'يُقِيمَا'. Tanda nashabnya adalah fathah (harakat 'a') yang tampak di akhir. Juga sebagai mudhaf (kata yang disandarkan) kepada 'ٱللَّهِ'."
+      },
+      "hikmah": "Merujuk pada 'batasan-batasan' atau 'hukum-hukum' yang telah ditetapkan oleh Allah dalam pernikahan dan kehidupan secara umum. Ini mencakup hak dan kewajiban suami istri, etika berinteraksi, dan semua syariat yang mengatur rumah tangga. Penekanan pada 'menegakkan batasan-batasan ini' menunjukkan bahwa rujuk harus didasari kesadaran penuh akan tanggung jawab syar'i.",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "ٱللَّهِ",
+      "transliterasi": "Allahi",
+      "jenis_kata": "Isim",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "أ ل ه (A-L-H)",
+        "makna_dasar": "Tuhan, yang disembah",
+        "wazan_perubahan": "Isim Dzat (Nama Diri), tidak mengikuti wazan fi'il atau isim musytaq biasa."
+      },
+      "nahwu": {
+        "kedudukan": "Mudhaf Ilaih",
+        "irab_dan_logika": "Majrur (berharakat kasrah) karena menjadi mudhaf ilaih dari kata 'حُدُودُ' (hududu - batas-batas). 'حُدُودُ ٱللَّهِ' berarti 'batas-batas Allah'."
+      },
+      "hikmah": "Merujuk pada Dzat Tuhan Yang Maha Esa, pencipta dan pengatur segala sesuatu. Dalam konteks ayat ini, 'hukum-hukum Allah' menekankan bahwa aturan perceraian ini berasal langsung dari otoritas ilahi, bukan buatan manusia, sehingga wajib ditaati.",
+      "role": "none"
+    },
+    {
+      "index": 25,
+      "kata_arab": "ۗ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "Tanda berhenti (waqaf jaiz kafi)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "N/A",
+        "irab_dan_logika": "N/A"
+      },
+      "hikmah": "Tanda waqaf (berhenti) yang menunjukkan bahwa berhenti di sini adalah baik dan cukup, namun melanjutkan bacaan juga diperbolehkan. Dalam konteks makna, ini menandai selesainya satu bagian penjelasan tentang hukum talak dan akan dilanjutkan dengan penegasan bahwa itu adalah hukum Allah.",
+      "role": "none"
+    },
+    {
+      "index": 26,
+      "kata_arab": "وَتِلْكَ",
+      "transliterasi": "wa tilka",
+      "jenis_kata": "Huruf + Isim Isyarah",
+      "arti": "Dan itu / Dan demikianlah",
+      "sharaf": {
+        "akar_kata": "N/A (Wawu), ذ ل ك (Dzal-Lam-Kaf) (Tilka)",
+        "makna_dasar": "Menunjuk (Tilka)",
+        "wazan_perubahan": "Isim Isyarah (Kata Tunjuk) untuk muannats (perempuan) jauh."
+      },
+      "nahwu": {
+        "kedudukan": "Wawu sebagai huruf athaf (penghubung) atau istinaf (permulaan kalimat baru). Tilka sebagai Mubtada' (subjek kalimat)",
+        "irab_dan_logika": "Wawu mabni (tetap) di atas fathah. Tilka adalah isim isyarah mabni di atas sukun pada huruf terakhirnya (alif maqsurah) dan berada pada posisi rafa' sebagai mubtada'."
+      },
+      "hikmah": "Kata 'وَتِلْكَ' berfungsi sebagai penegas dan penghubung. 'Wawu' (dan) menghubungkan penjelasan sebelumnya dengan penegasan baru. 'Tilka' (itu/demikianlah) menunjuk kembali kepada seluruh rangkaian hukum talak yang telah dijelaskan sebelumnya, menegaskan bahwa semua itu adalah 'hukum-hukum Allah'. Ini menguatkan otoritas dan kebenaran syariat yang baru saja dipaparkan.",
+      "role": "none"
+    },
+    {
+      "index": 27,
+      "kata_arab": "حُدُودُ",
+      "transliterasi": "hududu",
+      "jenis_kata": "Isim",
+      "arti": "Batas-batas / Hukum-hukum",
+      "sharaf": {
+        "akar_kata": "ح د د (Ha-Dal-Dal)",
+        "makna_dasar": "Batas, pembatasan, larangan",
+        "wazan_perubahan": "Jamak dari 'حدّ' (hadd), wazan 'فُعُول' (fu'ul)"
+      },
+      "nahwu": {
+        "kedudukan": "Khabar (predikat) dari mubtada' 'تِلْكَ' (tilka)",
+        "irab_dan_logika": "Marfu' (berharakat dhammah) karena menjadi khabar dari mubtada'. Juga sebagai mudhaf (kata yang menyandarkan)."
+      },
+      "hikmah": "Kata 'حُدُودُ' secara harfiah berarti 'batas-batas'. Dalam konteks syariat, ini merujuk pada hukum-hukum atau batasan-batasan yang telah ditetapkan oleh Allah. Ini menyiratkan bahwa ada batasan yang tidak boleh dilampaui dalam masalah perceraian, dan melanggarnya akan membawa konsekuensi. Maknanya adalah bahwa aturan-aturan ini adalah garis merah ilahi yang harus dipatuhi.",
+      "role": "none"
+    },
+    {
+      "index": 28,
+      "kata_arab": "ٱللَّهِ",
+      "transliterasi": "Allahi",
+      "jenis_kata": "Isim",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "أ ل ه (A-L-H)",
+        "makna_dasar": "Tuhan, yang disembah",
+        "wazan_perubahan": "Isim Dzat (Nama Diri), tidak mengikuti wazan fi'il atau isim musytaq biasa."
+      },
+      "nahwu": {
+        "kedudukan": "Mudhaf Ilaih",
+        "irab_dan_logika": "Majrur (berharakat kasrah) karena menjadi mudhaf ilaih dari kata 'حُدُودُ' (hududu - batas-batas). 'حُدُودُ ٱللَّهِ' berarti 'batas-batas Allah'."
+      },
+      "hikmah": "Sama seperti sebelumnya, menegaskan bahwa hukum-hukum ini berasal dari Allah SWT. Ini menekankan sifat ilahi dari syariat dan pentingnya ketaatan terhadapnya. Pengulangan nama Allah setelah 'hudud' memperkuat penekanan bahwa ini adalah ketetapan mutlak dari Sang Pencipta.",
+      "role": "none"
+    },
+    {
+      "index": 29,
+      "kata_arab": "يُبَيِّنُهَا",
+      "transliterasi": "yubayyinuha",
+      "jenis_kata": "Fi'il Mudhari' + Dhomir",
+      "arti": "Dia menjelaskan/menerangkannya",
+      "sharaf": {
+        "akar_kata": "ب ي ن (Ba-Ya-Nun)",
+        "makna_dasar": "Jelas, terang, nyata",
+        "wazan_perubahan": "Fi'il Mudhari' dari Bab II (فَعَّلَ - يُفَعِّلُ), wazan 'يُفَعِّلُ' (yufa''ilu). Dhomir 'ها' (ha) adalah dhomir nashab muttashil (kata ganti objek terhubung)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il (kata kerja) dengan fa'il (subjek) mustatir (tersembunyi) 'هو' (Dia - kembali kepada Allah) dan 'ها' (ha) sebagai maf'ul bih (objek).",
+        "irab_dan_logika": "يُبَيِّنُ' adalah fi'il mudhari' marfu' (berharakat dhammah) karena tidak didahului oleh amil nashab atau jazm. Fa'ilnya adalah dhomir mustatir 'هو' (Allah). 'ها' adalah dhomir mabni di atas sukun pada posisi nashab sebagai maf'ul bih, merujuk kepada 'حُدُودُ ٱللَّهِ' (hukum-hukum Allah)."
+      },
+      "hikmah": "Kata ini menunjukkan bahwa Allah tidak hanya menetapkan hukum-hukum, tetapi juga menjelaskannya dengan terang dan gamblang kepada manusia. Ini adalah bentuk rahmat dan petunjuk dari Allah agar manusia dapat memahami dan mengamalkan syariat-Nya dengan benar. Penjelasan ini ditujukan kepada 'kaum yang (mau) mengetahui', menekankan pentingnya akal dan kemauan untuk belajar dalam memahami agama.",
+      "role": "none"
+    },
+    {
+      "index": 30,
+      "kata_arab": "لِقَوْمٍۢ",
+      "transliterasi": "liqawmin",
+      "jenis_kata": "Huruf (لِ) + Isim (قَوْمٍ)",
+      "arti": "bagi suatu kaum / untuk suatu golongan",
+      "sharaf": {
+        "akar_kata": "ق و م (Qaf-Waw-Mim)",
+        "makna_dasar": "Berdiri, tegak, bangkit, kelompok orang.",
+        "wazan_perubahan": "قَوْمٌ adalah isim jamak yang berarti 'kaum' atau 'golongan'. Kata ini berasal dari akar kata yang memiliki makna dasar 'berdiri' atau 'tegak'."
+      },
+      "nahwu": {
+        "kedudukan": "Jar Majrur",
+        "irab_dan_logika": "Kata ini merupakan gabungan dari huruf jar 'لِ' (li) yang berarti 'bagi/untuk' dan isim 'قَوْمٍ' (qawmin). Huruf jar 'لِ' berfungsi menjadikan isim setelahnya majrur (berharakat kasrah). Oleh karena itu, 'قَوْمٍ' berharakat kasrah tanwin (ٍ) pada huruf mim, menunjukkan bahwa ia adalah isim majrur."
+      },
+      "hikmah": "Kata 'لِقَوْمٍ' (liqawmin) berarti 'bagi suatu kaum' atau 'untuk suatu golongan'. Dalam konteks ayat ini, ia mengisyaratkan bahwa hukum-hukum Allah yang dijelaskan sebelumnya adalah petunjuk yang terang dan mudah dipahami, *khususnya bagi kaum yang memiliki keinginan untuk mengetahui dan memahami*. Ini menunjukkan bahwa petunjuk Al-Qur'an tidak akan bermanfaat kecuali bagi mereka yang membuka hati dan pikiran untuk mempelajarinya.",
+      "role": "none"
+    },
+    {
+      "index": 31,
+      "kata_arab": "يَعْلَمُونَ",
+      "transliterasi": "ya'lamūna",
+      "jenis_kata": "Fi'il (kata kerja)",
+      "arti": "mereka mengetahui / mereka berilmu",
+      "sharaf": {
+        "akar_kata": "ع ل م (Ain-Lam-Mim)",
+        "makna_dasar": "Mengetahui, berilmu, memahami.",
+        "wazan_perubahan": "Ini adalah Fi'il Mudhari' (kata kerja sekarang/akan datang) dalam bentuk jamak mudzakkar ghaib (mereka laki-laki). Bentuk asalnya adalah عَلِمَ - يَعْلَمُ (mengetahui)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Marfu'",
+        "irab_dan_logika": "Kata 'يَعْلَمُونَ' (ya'lamūna) adalah Fi'il Mudhari' Marfu' karena tidak didahului oleh amil nashib (yang menashabkan) atau amil jazim (yang menjazamkan). Tanda rafa'nya adalah tetapnya huruf nun (ثبوت النون) karena termasuk Af'alul Khamsah (lima kata kerja). Wau (و) adalah fa'il (subjek) yang kembali kepada 'قَوْمٍ' (kaum)."
+      },
+      "hikmah": "Kata 'يَعْلَمُونَ' (ya'lamūna) berarti 'mereka mengetahui' atau 'mereka berilmu'. Dalam konteks ayat ini, ia merujuk pada *kaum yang memiliki kapasitas dan kemauan untuk memahami* hukum-hukum Allah. Ini menegaskan bahwa petunjuk ilahi bukanlah untuk semua orang secara otomatis, melainkan khusus bagi mereka yang menggunakan akal dan hati mereka untuk mencari ilmu dan kebenaran. Ini adalah dorongan untuk terus belajar dan merenungkan ayat-ayat Allah.",
+      "role": "none"
+    }
+  ]
+}

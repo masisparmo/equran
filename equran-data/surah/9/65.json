@@ -1,0 +1,186 @@
+{
+  "surah": 9,
+  "ayah": 65,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "وَلَئِن",
+      "transliterasi": "wa-la'in",
+      "jenis_kata": "Huruf",
+      "arti": "dan jika",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "jika",
+        "wazan_perubahan": "tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Awal ayat, memperkenalkan klausa bersyarat",
+        "irab_dan_logika": "حرف عطف + حرف شرط، لا إعراب له، يسبق فعلًا مجزومًا"
+      },
+      "hikmah": "*Menyatakan syarat* bahwa apa yang terjadi selanjutnya bergantung pada kondisi yang disebutkan",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "سَأَلْتَهُمْ",
+      "transliterasi": "sa'altahum",
+      "jenis_kata": "Fi'il",
+      "arti": "kamu menanyakan kepada mereka",
+      "sharaf": {
+        "akar_kata": "س-أ-ل",
+        "makna_dasar": "menanyakan",
+        "wazan_perubahan": "فعل مضارع مجزوم بحذف النون بسبب لَئِن"
+      },
+      "nahwu": {
+        "kedudukan": "Kata kerja setelah لَئِن, فعل مضارع مجزوم",
+        "irab_dan_logika": "مجزوم بالسكون على آخره، والضمير المتصل في محل نصب مفعول به"
+      },
+      "hikmah": "*Menunjukkan tindakan* menanyakan sesuatu kepada mereka",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "لَيَقُولُنَّ",
+      "transliterasi": "la-yaqulunna",
+      "jenis_kata": "Fi'il",
+      "arti": "tentu mereka akan berkata",
+      "sharaf": {
+        "akar_kata": "ق-و-ل",
+        "makna_dasar": "mengatakan",
+        "wazan_perubahan": "فعل مضارع مرفوع بالضمة مع لام التوكيد"
+      },
+      "nahwu": {
+        "kedudukan": "Kata kerja setelah الفعل السابق، فعل مضارع مرفوع",
+        "irab_dan_logika": "مرفوع بالضمة، واللام حرف مشبه بالفعل"
+      },
+      "hikmah": "*Menegaskan* jawaban mereka yang akan diucapkan",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "إِنَّمَا",
+      "transliterasi": "innama",
+      "jenis_kata": "Huruf",
+      "arti": "sesungguhnya",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "menegaskan",
+        "wazan_perubahan": "tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "حرف توكيد بعد جواب",
+        "irab_dan_logika": "حرف مبني على السكون لا محل له"
+      },
+      "hikmah": "*Menegaskan* bahwa apa yang disebutkan selanjutnya adalah fakta yang tidak dapat dipersoalkan",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "وَنَلْعَبُ",
+      "transliterasi": "wa-nal‘abu",
+      "jenis_kata": "Fi‘il (verb)",
+      "arti": "*dan kami bermain*",
+      "sharaf": {
+        "akar_kata": "ل-ع-ب",
+        "makna_dasar": "bermain, bersenang‑senang",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "fi‘il mudhari‘ (predikat) dengan huruf *wa* sebagai huruf sambung",
+        "irab_dan_logika": "dhammah karena fi‘il mudhari‘ tidak berharakat akhir selain dhammah"
+      },
+      "hikmah": "menunjukkan sikap santai, menganggap perbuatan mereka sebagai permainan semata",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "ۚ",
+      "transliterasi": "ۚ",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "*tanda berhenti (waqf)*",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda waqf, memisahkan dua bagian kalimat",
+        "irab_dan_logika": "tidak memiliki i‘rab karena bukan kata"
+      },
+      "hikmah": "menandakan jeda untuk menekankan pernyataan sebelumnya",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "قُلْ",
+      "transliterasi": "qul",
+      "jenis_kata": "Fi‘il (imperatif)",
+      "arti": "*katakanlah*",
+      "sharaf": {
+        "akar_kata": "ق-و-ل",
+        "makna_dasar": "mengatakan",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "kata perintah kepada pendengar",
+        "irab_dan_logika": "imperatif, berharakat sukun pada huruf terakhir"
+      },
+      "hikmah": "menyuruh pendengar menegaskan pertanyaan tentang sikap mereka",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "أَبِٱللَّهِ",
+      "transliterasi": "abillāhi",
+      "jenis_kata": "Huruf (kata tanya) + preposisi *bi*",
+      "arti": "*apakah dengan Allah*",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "kata tanya yang mengawali pertanyaan",
+        "irab_dan_logika": "huruf indeklinabel, tidak berubah bentuk"
+      },
+      "hikmah": "menunjukkan sikap menantang, meminta klarifikasi tentang Allah",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "كُنتُمْ",
+      "transliterasi": "kun tum",
+      "jenis_kata": "Fi'il",
+      "arti": "kamu (jamak) adalah",
+      "sharaf": {
+        "akar_kata": "ك-ن-ن",
+        "makna_dasar": "menjadi, ada",
+        "wazan_perubahan": "فَعَلَ (kata kerja biasa)"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja (fi'il) madhi) dalam klausa bersyarat setelah \"إن\"",
+        "irab_dan_logika": "damma pada كُ menandakan fi'il madhi, sukun pada ن menandakan huruf mati, damma pada ت menandakan akhir kata dengan suffiks -تم (anda semua)"
+      },
+      "hikmah": "Menunjukkan bahwa orang-orang itu *telah* berada dalam keadaan memperolok‑olok; penggunaan bentuk madhi menegaskan kebiasaan mereka yang berkelanjutan dalam menyepelekan ayat‑ayat Allah.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "تَسْتَهْزِئُونَ",
+      "transliterasi": "tastahzi'oon",
+      "jenis_kata": "Fi'il",
+      "arti": "kamu (jamak) mengejek",
+      "sharaf": {
+        "akar_kata": "س-ه-ز-ء",
+        "makna_dasar": "mengejek, memperolok‑olok",
+        "wazan_perubahan": "استفعل (bentuk intensif)"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja (fi'il) mudhari') sebagai predikat utama dalam kalimat bersyarat",
+        "irab_dan_logika": "fatha pada تَ menandakan mudhari', sukun pada سْ menandakan huruf mati, fatha pada تَ menandakan akar, sukun pada هْ menandakan huruf mati, kasra pada زِ menandakan huruf mati, damma pada ئُ menandakan akhir kata dengan suffiks -ون (jamak maskulin)"
+      },
+      "hikmah": "Menggambarkan sikap terus‑menerus menertawakan kebenaran; bentuk \"استفعل\" menekankan intensitas penghinaan terhadap ayat‑ayat Allah, sehingga menegaskan betapa seriusnya dosa mengolok‑olok Tuhan.",
+      "role": "none"
+    }
+  ]
+}

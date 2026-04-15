@@ -1,0 +1,204 @@
+{
+  "surah": 9,
+  "ayah": 57,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "لَوْ",
+      "transliterasi": "law",
+      "jenis_kata": "Huruf",
+      "arti": "jika",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf ma'iyyah (kata penghubung) di awal ayat",
+        "irab_dan_logika": "Berharakat sukun karena termasuk huruf yang tidak berinfleksi"
+      },
+      "hikmah": "Menunjukkan syarat atau kondisi yang belum terpenuhi, menyiapkan konteks kalimat selanjutnya",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "يَجِدُونَ",
+      "transliterasi": "yajiduuna",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka menemukan",
+      "sharaf": {
+        "akar_kata": "ج د و",
+        "makna_dasar": "menemukan, memperoleh",
+        "wazan_perubahan": "فعل مضارع مرفوع"
+      },
+      "nahwu": {
+        "kedudukan": "Kata kerja utama (verb) dalam klausa bersyarat",
+        "irab_dan_logika": "Marfu' (dhamma) karena merupakan فعل مضارع مرفوع بالضمة"
+      },
+      "hikmah": "Menunjukkan tindakan aktif mencari tempat perlindungan",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "مَلْجَـًٔا",
+      "transliterasi": "malja'an",
+      "jenis_kata": "Isim",
+      "arti": "tempat perlindungan",
+      "sharaf": {
+        "akar_kata": "ل ج أ",
+        "makna_dasar": "tempat masuk, tempat berlindung",
+        "wazan_perubahan": "اسم مصدر مع تنوين الفتح"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به (objek) dari يَجِدُونَ",
+        "irab_dan_logika": "منصوب بالفتحة وتنوين الفتح لأنه مفعول به"
+      },
+      "hikmah": "Menunjukkan salah satu pilihan tempat yang dapat dijadikan perlindungan",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "أَوْ",
+      "transliterasi": "aw",
+      "jenis_kata": "Huruf",
+      "arti": "atau",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf عطف تربط بين المفعولين",
+        "irab_dan_logika": "Tidak berinfleksi, tetap huruf"
+      },
+      "hikmah": "Menghubungkan alternatif tempat perlindungan secara pilihan",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "مَغَٰرَٰتٍ",
+      "transliterasi": "magharatin",
+      "jenis_kata": "Isim",
+      "arti": "gua-guan",
+      "sharaf": {
+        "akar_kata": "غ ر ر",
+        "makna_dasar": "lubang, gua",
+        "wazan_perubahan": "جمع مؤنث سالم مكسّر مع تنوين الكسر"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به alternatif kedua",
+        "irab_dan_logika": "منصوب بالكسرة وتنوين الكسر لأنه مفعول به"
+      },
+      "hikmah": "Memberi pilihan lain berupa gua atau lubang sebagai tempat perlindungan",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "أَوْ",
+      "transliterasi": "aw",
+      "jenis_kata": "Huruf",
+      "arti": "atau",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf عطف تربط antara pilihan ketiga (yang tidak dituliskan di sini)",
+        "irab_dan_logika": "Tidak berinfleksi, tetap huruf"
+      },
+      "hikmah": "Menandakan masih ada alternatif lain yang akan disebutkan dalam ayat selanjutnya",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "مُدَّخَلًۭا",
+      "transliterasi": "muddaḫalan",
+      "jenis_kata": "Isim",
+      "arti": "tempat masuk, lubang masuk",
+      "sharaf": {
+        "akar_kata": "د-خ-ل",
+        "makna_dasar": "memasukkan, masuk",
+        "wazan_perubahan": "mufaʿʿal (مُفَعَّل)"
+      },
+      "nahwu": {
+        "kedudukan": "objek (mansub) setelah huruf *fa* (فَ) yang menghubungkan dengan kata sebelumnya",
+        "irab_dan_logika": "مُدَّخَلًۭا berharakat fathah pada akhir karena berfungsi sebagai mafʿul mutlaq (kata benda tak berdefinitif)"
+      },
+      "hikmah": "*مُدَّخَلًۭا* menegaskan bahwa tempat perlindungan yang dimaksud adalah suatu lubang atau celah yang dapat dimasuki, menambah nuansa bahaya bagi musuh yang bersembunyi.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "لَّوَلَّوْا۟",
+      "transliterasi": "lawwalaw",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka berbalik (ke arah lain)",
+      "sharaf": {
+        "akar_kata": "و-ل-و",
+        "makna_dasar": "berbalik, berpindah arah",
+        "wazan_perubahan": "faʿala (فعل) bentuk lampau"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il madhi (kata kerja lampau) yang berfungsi sebagai predikat tambahan",
+        "irab_dan_logika": "مُعْرَبٌ بِالضَّمْرِ الْمُثْنَىِ *هُم* yang terletak setelahnya"
+      },
+      "hikmah": "*لَّوَلَّوْا۟* menekankan kecepatan musuh beralih ke tempat lain bila mereka menemukan tempat perlindungan, menegaskan sifat mereka yang selalu mencari jalan keluar.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "إِلَيْهِ",
+      "transliterasi": "ilayhi",
+      "jenis_kata": "Huruf",
+      "arti": "kepada-Nya",
+      "sharaf": {
+        "akar_kata": "ل-ي-ه",
+        "makna_dasar": "menunjuk arah atau tujuan",
+        "wazan_perubahan": "huruf jar (إِلَى) + ضمير متصل *ه*"
+      },
+      "nahwu": {
+        "kedudukan": "jar majrur (keterangan tempat) yang melengkapi fi'il *yajmaḥūna*",
+        "irab_dan_logika": "مجرور بالكسرة karena huruf جر *إِلَى* dan berakhiran *هِ* sebagai ضمير متصل"
+      },
+      "hikmah": "*إِلَيْهِ* menegaskan bahwa tujuan akhir mereka tetap kepada Allah, meski mereka bersembunyi, menyingkapkan kepastian takdir.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "وَهُمْ",
+      "transliterasi": "wahum",
+      "jenis_kata": "Huruf",
+      "arti": "dan mereka",
+      "sharaf": {
+        "akar_kata": "ه-م",
+        "makna_dasar": "mereka (jamak)",
+        "wazan_perubahan": "huruf *wa* (و) sebagai huruf sambung + ضمير متصل *هُم*"
+      },
+      "nahwu": {
+        "kedudukan": "huruf sambung yang menghubungkan dua klausa",
+        "irab_dan_logika": "مجرور بالكسرة pada *هُمْ* karena merupakan ضمير متصل"
+      },
+      "hikmah": "*وَهُمْ* menambah kesinambungan narasi, menegaskan bahwa semua orang yang bersembunyi tetap termasuk dalam kelompok yang sama.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "يَجْمَحُونَ",
+      "transliterasi": "yajmaḥūna",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka bergegas, berlari cepat",
+      "sharaf": {
+        "akar_kata": "ج-م-ح",
+        "makna_dasar": "bergerak cepat, berlari",
+        "wazan_perubahan": "faʿala (فعل) bentuk mudhari' majzoom"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il mudhari' (kata kerja sekarang) yang menjadi predikat utama dalam ayat",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فعل مضارع مرفوع بالضمة لأنه من الأفعال المعتلة"
+      },
+      "hikmah": "*يَجْمَحُونَ* menggambarkan kecepatan musuh dalam melarikan diri, menekankan urgensi dan bahaya bagi mereka yang mencoba menghindar.",
+      "role": "none"
+    }
+  ]
+}

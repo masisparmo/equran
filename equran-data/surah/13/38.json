@@ -1,0 +1,420 @@
+{
+  "surah": 13,
+  "ayah": 38,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "وَلَقَدْ",
+      "transliterasi": "wa laqad",
+      "jenis_kata": "Huruf",
+      "arti": "dan sesungguhnya",
+      "sharaf": {
+        "akar_kata": "قَد",
+        "makna_dasar": "partikel penegasan",
+        "wazan_perubahan": "tidak ada (partikel)"
+      },
+      "nahwu": {
+        "kedudukan": "harkat pembuka ayat, menghubungkan dengan fi'il berikutnya",
+        "irab_dan_logika": "harsul wa berharakat sukun, laqad berharakat fatha pada alif dan sukun pada dal; berfungsi sebagai huruf al‑ittisal + huruf al‑taqdiyah yang menegaskan fi'il"
+      },
+      "hikmah": "Menegaskan kepastian bahwa apa yang akan disebutkan selanjutnya memang telah terjadi.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "أَرْسَلْنَا",
+      "transliterasi": "arsalna",
+      "jenis_kata": "Fi'il",
+      "arti": "Kami mengutus",
+      "sharaf": {
+        "akar_kata": "ر س ل",
+        "makna_dasar": "mengirim, mengutus",
+        "wazan_perubahan": "faʿala (bentuk lampau)"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il madhi (kata kerja) sebagai predikat utama",
+        "irab_dan_logika": "berharakat dhammah karena fi'il madhi tidak berkasrah; subjek tersirat 'Kami' ditandai dengan akhiran -na"
+      },
+      "hikmah": "Menunjukkan tindakan pengutusan para rasul oleh Allah sebagai fakta historis.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "رُسُلًۭا",
+      "transliterasi": "rusulan",
+      "jenis_kata": "Isim",
+      "arti": "rasul‑rasul",
+      "sharaf": {
+        "akar_kata": "ر س ل",
+        "makna_dasar": "utusan Allah",
+        "wazan_perubahan": "faʿūl (jamak taksir)"
+      },
+      "nahwu": {
+        "kedudukan": "mafʿul bih (objek) dari fi'il أَرْسَلْنَا",
+        "irab_dan_logika": "ditempatkan dalam keadaan nasb dengan tanwin dammah karena menjadi mafʿul bih"
+      },
+      "hikmah": "Menegaskan bahwa yang diutus adalah para rasul, bukan orang lain.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "مِّن",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "menunjukkan asal atau titik waktu",
+        "wazan_perubahan": "preposisi"
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar, menghubungkan kata sebelumnya dengan majrur selanjutnya",
+        "irab_dan_logika": "tidak berharakat karena huruf jar; menuntut majrur pada kata berikutnya"
+      },
+      "hikmah": "Menunjukkan rentang waktu sebelum kenabian Muhammad SAW.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "قَبْلِكَ",
+      "transliterasi": "qablika",
+      "jenis_kata": "Isim",
+      "arti": "sebelummu",
+      "sharaf": {
+        "akar_kata": "ق ب ل",
+        "makna_dasar": "sebelum",
+        "wazan_perubahan": "isim zaman"
+      },
+      "nahwu": {
+        "kedudukan": "majrur (objek jar) setelah huruf min",
+        "irab_dan_logika": "berkasrah karena majrur, diikuti oleh zamir mutanabi' -ka"
+      },
+      "hikmah": "Menegaskan bahwa para rasul yang diutus sebelum Nabi Muhammad SAW.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "وَجَعَلْنَا",
+      "transliterasi": "wajaʿalna",
+      "jenis_kata": "Fi'il",
+      "arti": "dan Kami menjadikan",
+      "sharaf": {
+        "akar_kata": "ج ع ل",
+        "makna_dasar": "membuat, menjadikan",
+        "wazan_perubahan": "faʿala (bentuk lampau)"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il madhi yang dihubungkan dengan wa, sebagai lanjutan predikat",
+        "irab_dan_logika": "berharakat dhammah karena fi'il madhi; wa berharakat sukun menghubungkan"
+      },
+      "hikmah": "Menegaskan tambahan tindakan Allah, yaitu menjadikan sesuatu (misalnya kitab) untuk setiap zaman.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "لَهُمْ",
+      "transliterasi": "lahum",
+      "jenis_kata": "Huruf (preposisi dengan zamir)",
+      "arti": "bagi mereka",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Objek tidak langsung (jar) setelah فعل جَعَلْنَا",
+        "irab_dan_logika": "مجرور بالكسرة لأن حرف الجر لِ"
+      },
+      "hikmah": "Menunjukkan bahwa nikah dan keturunan diberikan **kepada** para rasul, bukan untuk diri mereka sendiri.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "أَزْوَاجًۭا",
+      "transliterasi": "azwajan",
+      "jenis_kata": "Isim (kata benda)",
+      "arti": "istri-istri",
+      "sharaf": {
+        "akar_kata": "ز-و-ج",
+        "makna_dasar": "pasangan, suami-istri",
+        "wazan_perubahan": "أَفْعَال"
+      },
+      "nahwu": {
+        "kedudukan": "Objek (مفعول به) dari فعل جَعَلْنَا",
+        "irab_dan_logika": "منصوب بالفتحة وعلامة تنوين الفتح لأنّه مضاف إلى فعل"
+      },
+      "hikmah": "Allah memberi para rasul istri-istri sebagai sarana kehidupan berkeluarga yang halal.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "وَذُرِّيَّةًۭ",
+      "transliterasi": "wadhurriyyatan",
+      "jenis_kata": "Isim (kata benda)",
+      "arti": "dan keturunan",
+      "sharaf": {
+        "akar_kata": "ذ-ر-ي",
+        "makna_dasar": "keturunan, generasi",
+        "wazan_perubahan": "فُعْلِيَّة"
+      },
+      "nahwu": {
+        "kedudukan": "Objek (مفعول به) kedua dari فعل جَعَلْنَا, dipisahkan dengan واو العطف",
+        "irab_dan_logika": "منصوب بالفتحة وعلامة تنوين الفتح لكونه مفعولاً به"
+      },
+      "hikmah": "Selain istri, Allah juga memberikan keturunan kepada para rasul untuk melanjutkan dakwah.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Simbol",
+      "arti": "tanda jeda/berhenti",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Penanda akhir bagian kalimat sebelum klausa berikutnya",
+        "irab_dan_logika": "Tidak berirab, berfungsi sebagai tanda waqf"
+      },
+      "hikmah": "Memberi jeda untuk menekankan makna sebelumnya sebelum melanjutkan ayat.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "وَمَا",
+      "transliterasi": "wama",
+      "jenis_kata": "Huruf (wa + ma)",
+      "arti": "dan tidak",
+      "sharaf": {
+        "akar_kata": "م-ا",
+        "makna_dasar": "negasi, tidak",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf penghubung yang memperkenalkan klausa negatif",
+        "irab_dan_logika": "حرف عطف لا يُعرب"
+      },
+      "hikmah": "Menegaskan bahwa tidak ada hak bagi seorang rasul untuk mendatangkan mukjizat kecuali dengan izin Allah.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "كَانَ",
+      "transliterasi": "kana",
+      "jenis_kata": "Fi'il (kata kerja)",
+      "arti": "adalah / menjadi",
+      "sharaf": {
+        "akar_kata": "ك-ا-ن",
+        "makna_dasar": "menjadi, ada",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "Kata kerja ماضٍ مبني على الفتح، فعل رئيسي dalam klausa \"ما كان\"",
+        "irab_dan_logika": "مبني على الفتح لأنه فعل ماضٍ"
+      },
+      "hikmah": "Menegaskan bahwa segala kemampuan mukjizat berada pada izin Allah, bukan kehendak pribadi rasul.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "لِرَسُولٍ",
+      "transliterasi": "li‑rasūlin",
+      "jenis_kata": "Huruf (preposisi) + Isim",
+      "arti": "bagi (seorang) rasul",
+      "sharaf": {
+        "akar_kata": "ر س ل",
+        "makna_dasar": "mengirim, menyampaikan",
+        "wazan_perubahan": "فَعُول (rasūl)"
+      },
+      "nahwu": {
+        "kedudukan": "مجرور بحرف الجر لِ",
+        "irab_dan_logika": "kasrah pada رَسُولٍ karena preposisi لِ"
+      },
+      "hikmah": "*Menegaskan* bahwa hak seorang rasul terbatas pada apa yang Allah perkenankan.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "أَن",
+      "transliterasi": "an",
+      "jenis_kata": "Huruf (حرف نصب)",
+      "arti": "bahwa",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "حرف نصب يجر الفعل بعده",
+        "irab_dan_logika": "sukun karena berfungsi sebagai حرف نصب"
+      },
+      "hikmah": "*Penghubung* yang menandakan kalimat bersyarat, menyiapkan verba nasb.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "يَأْتِيَ",
+      "transliterasi": "yaʾtī",
+      "jenis_kata": "Fiʿil (verb)",
+      "arti": "datang, membawa",
+      "sharaf": {
+        "akar_kata": "أ ت ي",
+        "makna_dasar": "datang, menurunkan",
+        "wazan_perubahan": "يفعل"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع منصوب بحرف نصب (أن)",
+        "irab_dan_logika": "kasrah pada يَأْتِيَ karena nasb setelah أَن"
+      },
+      "hikmah": "Menunjukkan tindakan yang *bergantung* pada izin Allah.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "بِـَٔايَةٍ",
+      "transliterasi": "bi‑āyah",
+      "jenis_kata": "Huruf (preposisi) + Isim",
+      "arti": "dengan suatu tanda (ayat)",
+      "sharaf": {
+        "akar_kata": "أ ي ة",
+        "makna_dasar": "tanda, mukjizat",
+        "wazan_perubahan": "فَعلة"
+      },
+      "nahwu": {
+        "kedudukan": "مجرور بحرف الجر بِ",
+        "irab_dan_logika": "kasrah pada آيةٍ karena preposisi بِ"
+      },
+      "hikmah": "*Ayat* di sini berarti mukjizat yang menjadi bukti kenabian.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "إِلَّا",
+      "transliterasi": "illā",
+      "jenis_kata": "Huruf (partikel pengecualian)",
+      "arti": "kecuali",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "حرف استثناء",
+        "irab_dan_logika": "sukun karena berfungsi sebagai حرف استثناء"
+      },
+      "hikmah": "Menegaskan *pengecualian* bahwa tidak ada yang dapat terjadi kecuali dengan izin Allah.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "بِإِذْنِ",
+      "transliterasi": "bi‑idhni",
+      "jenis_kata": "Huruf (preposisi) + Isim",
+      "arti": "dengan izin",
+      "sharaf": {
+        "akar_kata": "أ ذ ن",
+        "makna_dasar": "izin, perintah",
+        "wazan_perubahan": "فعل"
+      },
+      "nahwu": {
+        "kedudukan": "مجرور بحرف الجر بِ",
+        "irab_dan_logika": "kasrah pada إِذْنِ karena preposisi بِ"
+      },
+      "hikmah": "*Inti* ayat: segala mukjizat hanya dapat terjadi *dengan izin* Allah.",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "ٱللَّهِ",
+      "transliterasi": "Allāhi",
+      "jenis_kata": "Isim",
+      "arti": "Tuhan",
+      "sharaf": {
+        "akar_kata": "ل-ه",
+        "makna_dasar": "menyebut atau menyembah Tuhan",
+        "wazan_perubahan": "Isim mufrad (Al‑Ilāh)"
+      },
+      "nahwu": {
+        "kedudukan": "Jarr majrur setelah *bi‑idhni*",
+        "irab_dan_logika": "Berakhiran kasra karena preposisi *bi‑* menuntut jar"
+      },
+      "hikmah": "Segala mukjizat hanya dapat datang dengan izin Allah",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "ۗ",
+      "transliterasi": "Fasila",
+      "jenis_kata": "Huruf",
+      "arti": "tanda berhenti/akhiran ayat",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca yang menandai akhir ayat",
+        "irab_dan_logika": "Tidak memiliki i‘rāb karena bukan kata"
+      },
+      "hikmah": "Menunjukkan batas pemikiran, mengakhiri kalimat suci",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "لِكُلِّ",
+      "transliterasi": "likulli",
+      "jenis_kata": "Huruf",
+      "arti": "bagi setiap",
+      "sharaf": {
+        "akar_kata": "ك-ل-ل",
+        "makna_dasar": "menyatakan keseluruhan",
+        "wazan_perubahan": "huruf jar *li‑* + isim *kull*"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar yang menghubungkan ke *ajalin*",
+        "irab_dan_logika": "Berakhiran kasra karena preposisi *li‑* menuntut jar"
+      },
+      "hikmah": "Menegaskan bahwa ketentuan berlaku untuk setiap masa",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "أَجَلٍۢ",
+      "transliterasi": "ajal",
+      "jenis_kata": "Isim",
+      "arti": "waktu, masa",
+      "sharaf": {
+        "akar_kata": "ج-ل-",
+        "makna_dasar": "menunjuk pada waktu tertentu",
+        "wazan_perubahan": "bentuk *فَعَل*"
+      },
+      "nahwu": {
+        "kedudukan": "Isim jar setelah *li‑kull*",
+        "irab_dan_logika": "Berakhiran tanwin kasra karena berada dalam i‘rāb jar"
+      },
+      "hikmah": "Setiap masa memiliki ketentuan dan kitabnya masing‑masing",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "كِتَابٌۭ",
+      "transliterasi": "kitābun",
+      "jenis_kata": "Isim",
+      "arti": "buku, kitab",
+      "sharaf": {
+        "akar_kata": "ك-ت-ب",
+        "makna_dasar": "menulis, mencatat",
+        "wazan_perubahan": "bentuk *فَعَل*"
+      },
+      "nahwu": {
+        "kedudukan": "Isim marfu‘ sebagai predikat tak tersambung",
+        "irab_dan_logika": "Berakhiran dammah karena berstatus marfu‘ dalam konstruksi *kullu ajalin kitābun*"
+      },
+      "hikmah": "Setiap masa ditetapkan Allah dengan sebuah kitab yang mengatur segala sesuatu",
+      "role": "none"
+    }
+  ]
+}

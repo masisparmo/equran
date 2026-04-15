@@ -1,0 +1,96 @@
+{
+  "surah": 113,
+  "ayah": 3,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "وَمِن",
+      "transliterasi": "wa-min",
+      "jenis_kata": "Huruf",
+      "arti": "dan dari",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Tidak berlaku",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf 'athaf (penghubung) dan Huruf Jar (preposisi)",
+        "irab_dan_logika": "Huruf 'athaf (`و`) berfungsi menghubungkan dengan kalimat sebelumnya. Huruf Jar (`مِن`) menyebabkan kata setelahnya (شَرِّ) menjadi *majrur* (berharakat kasrah)."
+      },
+      "hikmah": "Menunjukkan kelanjutan dari perlindungan sebelumnya dan spesifikasi sumber kejahatan yang dimohonkan perlindungan darinya.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "شَرِّ",
+      "transliterasi": "syarri",
+      "jenis_kata": "Isim",
+      "arti": "kejahatan, keburukan",
+      "sharaf": {
+        "akar_kata": "ش ر ر (Syin-Ra-Ra)",
+        "makna_dasar": "Buruk, jahat, celaka",
+        "wazan_perubahan": "Isim Masdar (bentuk dasar kata benda) atau Isim Sifat (kata sifat)"
+      },
+      "nahwu": {
+        "kedudukan": "Isim Majrur",
+        "irab_dan_logika": "*Majrur* karena didahului oleh huruf jar `مِن`. Harakat akhirnya adalah kasrah (`ـِ`)."
+      },
+      "hikmah": "Menekankan objek perlindungan, yaitu dari segala bentuk keburukan atau kejahatan yang mungkin terjadi.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "غَاسِقٍ",
+      "transliterasi": "ghaasiqin",
+      "jenis_kata": "Isim",
+      "arti": "malam yang gelap gulita, bulan (ketika gelap), atau sesuatu yang dingin",
+      "sharaf": {
+        "akar_kata": "غ س ق (Ghain-Sin-Qaf)",
+        "makna_dasar": "Gelap, dingin, mengalir",
+        "wazan_perubahan": "Isim Fa'il (pelaku) dari fi'il tsulatsi mujarrad (kata kerja tiga huruf asli) `غَسَقَ` (gelap). Wazan `فَاعِلٌ`."
+      },
+      "nahwu": {
+        "kedudukan": "Mudhaf Ilaih",
+        "irab_dan_logika": "*Majrur* karena menjadi *mudhaf ilaih* dari `شَرِّ`. Harakat akhirnya adalah kasrah tanwin (`ـٍ`)."
+      },
+      "hikmah": "Merujuk pada waktu malam yang kegelapannya pekat, di mana kejahatan seringkali lebih mudah terjadi dan tersembunyi.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "إِذَا",
+      "transliterasi": "idzaa",
+      "jenis_kata": "Huruf (atau Zharaf Zaman)",
+      "arti": "apabila, ketika",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Tidak berlaku",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Zharaf Zaman (kata keterangan waktu)",
+        "irab_dan_logika": "*Zharaf zaman* yang *mabni* (tetap) di atas sukun, berfungsi sebagai syarat (kondisional) yang menunjukkan waktu terjadinya suatu peristiwa."
+      },
+      "hikmah": "Menunjukkan kondisi atau waktu spesifik di mana kejahatan 'ghasiq' (malam gelap) menjadi aktif atau lebih berbahaya, yaitu 'apabila telah gelap gulita'.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "وَقَبَ",
+      "transliterasi": "waqaba",
+      "jenis_kata": "Fi'il Madhi (kata kerja lampau)",
+      "arti": "telah masuk, telah gelap gulita, telah meliputi",
+      "sharaf": {
+        "akar_kata": "و ق ب (Waw-Qaf-Ba)",
+        "makna_dasar": "Masuk, meliputi, gelap",
+        "wazan_perubahan": "Fi'il Madhi tsulatsi mujarrad (kata kerja tiga huruf asli) dengan wazan `فَعَلَ`."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Syarat (kata kerja dalam klausa syarat)",
+        "irab_dan_logika": "*Fi'il madhi* *mabni* (tetap) di atas fathah. *Fa'il* (subjek)nya adalah *dhamir mustatir* (tersembunyi) yang kembali kepada `غَاسِقٍ` (malam)."
+      },
+      "hikmah": "Menggambarkan kondisi malam yang telah mencapai puncaknya dalam kegelapan, di mana cahaya telah sepenuhnya sirna dan kegelapan telah merasuk serta meliputi segalanya, menciptakan lingkungan yang kondusif bagi kejahatan.",
+      "role": "none"
+    }
+  ]
+}

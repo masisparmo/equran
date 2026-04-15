@@ -1,0 +1,330 @@
+{
+  "surah": 7,
+  "ayah": 70,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "قَالُوٓا۟",
+      "transliterasi": "qālū",
+      "jenis_kata": "Fi'il (verb)",
+      "arti": "mereka berkata",
+      "sharaf": {
+        "akar_kata": "ق-و-ل",
+        "makna_dasar": "mengatakan",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja (fi'il) dalam bentuk lampau",
+        "irab_dan_logika": "marfu' (tidak berharakat akhir) karena merupakan fi'il madhi"
+      },
+      "hikmah": "menunjukkan ucapan mereka yang menolak dan menantang Nabi",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "أَجِئْتَنَا",
+      "transliterasi": "ajʾiʾtana",
+      "jenis_kata": "Fi'il (verb)",
+      "arti": "kau datang kepada kami",
+      "sharaf": {
+        "akar_kata": "ج-ئ-ء",
+        "makna_dasar": "datang",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja (fi'il) lampau, 2nd person maskulin tunggal dengan objek pronoun نَا",
+        "irab_dan_logika": "marfu' karena fi'il madhi, huruf نَا sebagai objek (mansub)"
+      },
+      "hikmah": "menyatakan permintaan Nabi agar datang dan memberi peringatan",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "لِنَعْبُدَ",
+      "transliterasi": "li‑naʿbud",
+      "jenis_kata": "Fi'il (verb)",
+      "arti": "agar kami menyembah",
+      "sharaf": {
+        "akar_kata": "ع-ب-د",
+        "makna_dasar": "menyembah",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja (fi'il) majzūm (jussive) setelah huruf لِ tujuan",
+        "irab_dan_logika": "dengan sukun pada akhir karena majzūm setelah لِ"
+      },
+      "hikmah": "menunjukkan maksud mereka: menyembah hanya Allah",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "ٱللَّهَ",
+      "transliterasi": "Allāha",
+      "jenis_kata": "Isim (noun)",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "mafʿul bih (objek) dari fi'il نَعْبُدَ",
+        "irab_dan_logika": "mansub karena menjadi objek, ditandai fatha pada akhir"
+      },
+      "hikmah": "menegaskan bahwa yang disembah hanyalah Allah",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "وَحْدَهُۥ",
+      "transliterasi": "wa‑ḥdahu",
+      "jenis_kata": "Isim (noun) dengan huruf sambung وَ",
+      "arti": "sendiri‑Nya / Allah saja",
+      "sharaf": {
+        "akar_kata": "و-ح-د",
+        "makna_dasar": "tunggal, satu",
+        "wazan_perubahan": "فَعْل"
+      },
+      "nahwu": {
+        "kedudukan": "bagian dari objek (mafʿul bih) bersama ٱللَّهَ, dihubungkan dengan وَ",
+        "irab_dan_logika": "mansub karena menjadi bagian dari objek, ditandai dammah pada huruf هُ"
+      },
+      "hikmah": "menegaskan keesaan Allah, tidak ada sekutu",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "وَنَذَرَ",
+      "transliterasi": "wa‑nadhara",
+      "jenis_kata": "Fi'il (verb)",
+      "arti": "dan kami tinggalkan",
+      "sharaf": {
+        "akar_kata": "ذ-ر-ر",
+        "makna_dasar": "meninggalkan",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja (fi'il) madhi, 1st person jamak, didahului huruf وَ (konjungsi)",
+        "irab_dan_logika": "marfu' karena fi'il madhi, وَ hanya sambung"
+      },
+      "hikmah": "menyatakan penolakan mereka untuk menyembah selain Allah",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "مَا",
+      "transliterasi": "mā",
+      "jenis_kata": "Huruf",
+      "arti": "apa / tidak",
+      "sharaf": {
+        "akar_kata": "م-ا",
+        "makna_dasar": "kata tanya atau penyangkalan",
+        "wazan_perubahan": "tidak ada (kata bantu)"
+      },
+      "nahwu": {
+        "kedudukan": "objek (مفعول به) dalam kalimat *ما كان يعبد آباؤنا*",
+        "irab_dan_logika": "مَـ berharakat fatha menandakan i‘rāb نصب karena berfungsi sebagai مفعول به"
+      },
+      "hikmah": "Menunjukkan hal yang dipertanyakan atau ditolak, di sini merujuk pada *apa* yang dulu disembah",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "كَانَ",
+      "transliterasi": "kāna",
+      "jenis_kata": "Fi'il",
+      "arti": "adalah / pernah",
+      "sharaf": {
+        "akar_kata": "ك-و-ن",
+        "makna_dasar": "menjadi, ada",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja bantu (verb auxiliary) yang menghubungkan *ما* dengan *يعبد*",
+        "irab_dan_logika": "كَانَ ماضٍ مرفوع بالضمة، يربط المبتدأ *ما* بالمخبر *يعبد*"
+      },
+      "hikmah": "Menunjukkan keberadaan atau kebiasaan di masa lalu, di sini menegaskan bahwa *apa* itu dulu memang disembah",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "يَعْبُدُ",
+      "transliterasi": "ya‘budu",
+      "jenis_kata": "Fi'il",
+      "arti": "menyembah",
+      "sharaf": {
+        "akar_kata": "ع-ب-د",
+        "makna_dasar": "menyembah, mengabdi",
+        "wazan_perubahan": "يفعل"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja utama (verb) dalam bentuk mudhari‘ (present)",
+        "irab_dan_logika": "يَعْبُدُ مرفوع بالضمة لأنّه فعل مضارع مرفوع بالضمة الظاهرة"
+      },
+      "hikmah": "Menunjukkan tindakan ibadah yang dilakukan oleh *آباؤنا* pada masa lampau",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "آبَاؤُنا",
+      "transliterasi": "ābā’unā",
+      "jenis_kata": "Isim",
+      "arti": "ayah‑ayah kami",
+      "sharaf": {
+        "akar_kata": "أ ب أ",
+        "makna_dasar": "ayah",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به (objek) dari *يعبد*",
+        "irab_dan_logika": "آبَاؤُنا مرفوع بالضمة لأنّها مفعول به منصوب في النحو التقليدي، tetapi dalam قراءات القرآن تُظهر الضمة للدلالة على النصب"
+      },
+      "hikmah": "Menyiratkan bahwa generasi leluhur dulu menyembah sesuatu yang bukan Allah",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "ۖ",
+      "transliterasi": "ٰ",
+      "jenis_kata": "Huruf",
+      "arti": "tanda waqf (koma)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "simbol waqf (tanda baca) yang memisahkan klausa",
+        "irab_dan_logika": "tidak memiliki i‘rāb karena bukan kata"
+      },
+      "hikmah": "Memberi jeda untuk menekankan pernyataan sebelumnya sebelum melanjutkan permintaan",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "فَأْتِنَا",
+      "transliterasi": "fa‘ṭinā",
+      "jenis_kata": "Fi'il",
+      "arti": "datangkanlah kepada kami",
+      "sharaf": {
+        "akar_kata": "أ-ت-ى",
+        "makna_dasar": "datang, hadir",
+        "wazan_perubahan": "أتى"
+      },
+      "nahwu": {
+        "kedudukan": "imperatif (perintah) yang mengajak lawan bicara mengirimkan azab",
+        "irab_dan_logika": "فَأْتِنَا فعل أمر مبني على السكون، والضمير *نا* مفعول به منصوب بالفتحة"
+      },
+      "hikmah": "Menuntut bukti nyata berupa azab, menegaskan tantangan mereka kepada Nabi",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "بِمَا",
+      "transliterasi": "bima",
+      "jenis_kata": "Huruf",
+      "arti": "dengan apa / dengan sesuatu yang",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Bagian dari frasa preposisional yang melengkapi perintah أَتِنَا (bawalah)",
+        "irab_dan_logika": "بِ preposisi yang menuntut genitif; مَا kata indeklinabel sehingga tetap مَا, membentuk satuan بِمَا"
+      },
+      "hikmah": "Menunjukkan permintaan agar Nabi Muhammad ﷺ membawa apa yang dijanjikan (azab) sebagai bukti kebenarannya.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "تَعِدُنَا",
+      "transliterasi": "ta‘idunā",
+      "jenis_kata": "Fi'il",
+      "arti": "kamu menjanjikan kepada kami",
+      "sharaf": {
+        "akar_kata": "ع‑و‑د",
+        "makna_dasar": "menjanjikan, berjanji",
+        "wazan_perubahan": "فَعَل (bentuk I)"
+      },
+      "nahwu": {
+        "kedudukan": "Kata kerja dalam frasa بِمَا تَعِدُنَا, menjadi objek preposisi",
+        "irab_dan_logika": "Verb hadir (مضارع) dengan harakat dhammah pada تَ, tidak berkasrah karena verba tidak berirab; نَا sebagai objek (dhammah) terikat"
+      },
+      "hikmah": "Menyiratkan tantangan: buktikan janji azab yang telah kamu sampaikan.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "إِن",
+      "transliterasi": "in",
+      "jenis_kata": "Huruf",
+      "arti": "jika",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Partikel syarat yang memperkenalkan klausa إِن كُنتَ...",
+        "irab_dan_logika": "Tidak berirab, berfungsi menghubungkan kondisi"
+      },
+      "hikmah": "Menandai kondisi yang harus dipenuhi untuk menilai kebenaran Nabi.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "كُنتَ",
+      "transliterasi": "kunta",
+      "jenis_kata": "Fi'il",
+      "arti": "engkau adalah",
+      "sharaf": {
+        "akar_kata": "ك‑و‑ن",
+        "makna_dasar": "menjadi, ada",
+        "wazan_perubahan": "كان (bentuk I)"
+      },
+      "nahwu": {
+        "kedudukan": "Predikat dalam klausa syarat إِن كُنتَ",
+        "irab_dan_logika": "Verb lampau (ماض) 2nd person maskulin tunggal, tidak berkasrah"
+      },
+      "hikmah": "Menegaskan bahwa kebenaran Nabi terletak pada kejujurannya.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "مِنَ",
+      "transliterasi": "mina",
+      "jenis_kata": "Huruf",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Preposisi yang menghubungkan الصَّادِقِينَ ke kata sebelumnya",
+        "irab_dan_logika": "Menuntut genitif; الصَّادِقِينَ berkasrah"
+      },
+      "hikmah": "Menunjukkan bahwa Nabi termasuk golongan orang-orang yang benar.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "ٱلصَّٰدِقِينَ",
+      "transliterasi": "as‑sādiqīn",
+      "jenis_kata": "Isim",
+      "arti": "para yang benar / jujur",
+      "sharaf": {
+        "akar_kata": "ص‑د‑ق",
+        "makna_dasar": "kejujuran, kebenaran",
+        "wazan_perubahan": "فَاعِل (aktif participle) + جمع مذكر سالم"
+      },
+      "nahwu": {
+        "kedudukan": "Isim majrur setelah preposisi مِنَ",
+        "irab_dan_logika": "Berkasrah karena majrur (مِنَ) – tanda kasrah pada يَن"
+      },
+      "hikmah": "Menyiratkan bahwa Nabi termasuk dalam kelompok orang-orang yang selalu berkata benar, sehingga tantangan azab menjadi bukti kejujurannya.",
+      "role": "none"
+    }
+  ]
+}

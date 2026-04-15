@@ -1,0 +1,222 @@
+{
+  "surah": 3,
+  "ayah": 117,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "مَثَلُ",
+      "transliterasi": "mathalu",
+      "jenis_kata": "Isim",
+      "arti": "perumpamaan",
+      "sharaf": {
+        "akar_kata": "م-ث-ل",
+        "makna_dasar": "menyerupai, seperti",
+        "wazan_perubahan": "maf‘al (isim)"
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada’ (subjek) dalam ayat",
+        "irab_dan_logika": "Marfu‘ (damma) karena sebagai mubtada’ yang berada di posisi nominatif"
+      },
+      "hikmah": "Kata ini menandakan adanya analogi yang akan dijelaskan selanjutnya, yaitu perbandingan harta dunia dengan sesuatu yang bersifat sementara.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "مَا",
+      "transliterasi": "ma",
+      "jenis_kata": "Huruf",
+      "arti": "apa",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "kata tanya penunjuk",
+        "wazan_perubahan": "tidak ada"
+      },
+      "nahwu": {
+        "kedudukan": "Ism ma (isim ma) sebagai objek fi‘il",
+        "irab_dan_logika": "Mansub (kasrah) karena berfungsi sebagai maf‘ul bih (objek) dari fi‘il يُنفِقُونَ"
+      },
+      "hikmah": "Menegaskan apa yang mereka belanjakan, yaitu harta yang dimaksud dalam konteks ayat.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "يُنفِقُونَ",
+      "transliterasi": "yunfiqūna",
+      "jenis_kata": "Fi‘il",
+      "arti": "mereka mengeluarkan (harta)",
+      "sharaf": {
+        "akar_kata": "ن-ف-ق",
+        "makna_dasar": "mengeluarkan, membelanjakan",
+        "wazan_perubahan": "bentuk mudhari‘ (imperfect) dengan dhamir muta‘addi"
+      },
+      "nahwu": {
+        "kedudukan": "Fi‘il mudhari‘ marfu‘",
+        "irab_dan_logika": "Marfu‘ (damma) karena merupakan fi‘il mudhari‘ yang tidak terjammat (tidak ada huruf jaza’), sehingga berakhir dengan damma."
+      },
+      "hikmah": "Menunjukkan tindakan aktif mereka dalam membelanjakan harta di dunia, yang menjadi subjek perbandingan selanjutnya.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "فِى",
+      "transliterasi": "fi",
+      "jenis_kata": "Huruf",
+      "arti": "di, dalam",
+      "sharaf": {
+        "akar_kata": "ف-ي",
+        "makna_dasar": "menunjukkan tempat atau keadaan",
+        "wazan_perubahan": "tidak ada"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar",
+        "irab_dan_logika": "Mujarrab (kasrah) karena merupakan huruf jar yang mengharuskan kata berikutnya berkasrah."
+      },
+      "hikmah": "Menandakan bahwa perumpamaan tersebut berada dalam konteks kehidupan dunia.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "هَٰذِهِ",
+      "transliterasi": "hādhihi",
+      "jenis_kata": "Isim",
+      "arti": "ini",
+      "sharaf": {
+        "akar_kata": "ه-ذ-ا",
+        "makna_dasar": "menunjuk sesuatu yang dekat",
+        "wazan_perubahan": "tidak ada (kata isyarat demonstratif)"
+      },
+      "nahwu": {
+        "kedudukan": "Isim majrur (objek jar) setelah huruf «في»",
+        "irab_dan_logika": "Majrur (kasrah) karena terikat pada huruf jar «في»."
+      },
+      "hikmah": "Menegaskan bahwa yang dimaksud adalah kehidupan dunia yang sedang dibicarakan.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "ٱلْحَيَوٰةِ",
+      "transliterasi": "al-ḥayāh",
+      "jenis_kata": "Isim",
+      "arti": "kehidupan",
+      "sharaf": {
+        "akar_kata": "ح-ي-ي",
+        "makna_dasar": "hidup, keberadaan",
+        "wazan_perubahan": "maf‘ala (isim)"
+      },
+      "nahwu": {
+        "kedudukan": "Isim majrur (objek jar) setelah «في»",
+        "irab_dan_logika": "Majrur (kasrah) karena berada dalam konstruksi «في هذه الحياة»."
+      },
+      "hikmah": "Menunjukkan bahwa perumpamaan harta tersebut terkait dengan kehidupan dunia yang fana.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "ٱلدُّنْيَا",
+      "transliterasi": "ad-dunyā",
+      "jenis_kata": "Isim",
+      "arti": "dunia, alam hidup",
+      "sharaf": {
+        "akar_kata": "د ن ي",
+        "makna_dasar": "dunia, kehidupan",
+        "wazan_perubahan": "فَعْلة"
+      },
+      "nahwu": {
+        "kedudukan": "Isim majrur setelah حرف الجر *كَمَثَلِ*",
+        "irab_dan_logika": "Berakhiran kasra karena مجرور بحرف الجر"
+      },
+      "hikmah": "**Dunia** diibaratkan sesuatu yang bersifat sementara dan terpengaruh oleh kondisi eksternal.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "كَمَثَلِ",
+      "transliterasi": "kamathali",
+      "jenis_kata": "Huruf (preposisi)",
+      "arti": "seperti",
+      "sharaf": {
+        "akar_kata": "م ث ل",
+        "makna_dasar": "perumpamaan",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf جر يجر الكلمة التالية",
+        "irab_dan_logika": "ليس له إعراب، يجر الاسم بعده"
+      },
+      "hikmah": "Menunjukkan **perbandingan** yang kuat antara harta dan fenomena alam.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "رِيحٍۢ",
+      "transliterasi": "rīḥin",
+      "jenis_kata": "Isim",
+      "arti": "angin",
+      "sharaf": {
+        "akar_kata": "ر و ح",
+        "makna_dasar": "angin, hembusan",
+        "wazan_perubahan": "فِعْل"
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "حَرْثَ",
+      "transliterasi": "ḥarth(a)",
+      "jenis_kata": "Isim",
+      "arti": "tanaman, hasil pertanian",
+      "sharaf": {
+        "akar_kata": "ح ر ث",
+        "makna_dasar": "menanam, hasil pertanian",
+        "wazan_perubahan": "فَعْلَة"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به في جملة \"كَأَنَّهُ حَرْثَ قَوْمٍ\"",
+        "irab_dan_logika": "حَرْثَ منصوب بالفتحة لأنه مفعول به"
+      },
+      "hikmah": "menunjukkan harta yang dibelanjakan seperti tanaman yang akan hancur bila disia‑siakan",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "قَوْمٍ",
+      "transliterasi": "qawmin",
+      "jenis_kata": "Isim",
+      "arti": "kaum, orang‑orang",
+      "sharaf": {
+        "akar_kata": "ق و م",
+        "makna_dasar": "kaum, orang",
+        "wazan_perubahan": "فَعْل"
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "وَمَا",
+      "transliterasi": "wa-mā",
+      "jenis_kata": "Huruf",
+      "arti": "dan tidak",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    }
+  ]
+}

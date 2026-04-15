@@ -1,0 +1,258 @@
+{
+  "surah": 2,
+  "ayah": 182,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "فَمَنْ",
+      "transliterasi": "fa‑man",
+      "jenis_kata": "Huruf (فَ) + Isim (مَنْ)",
+      "arti": "maka siapa",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "siapa (kata ganti relatif)",
+        "wazan_perubahan": "tidak berwazan (isim maʿlū)"
+      },
+      "nahwu": {
+        "kedudukan": "huruf sambung yang menghubungkan ayat sebelumnya dengan klausa berikutnya; isim maʿlū sebagai subjek utama",
+        "irab_dan_logika": "فَ tidak berharakat; مَنْ marfuʿ (مَنْ) karena berfungsi sebagai subjek"
+      },
+      "hikmah": "menandakan bahwa perintah berlaku bagi siapa saja yang memenuhi syarat selanjutnya",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "خَافَ",
+      "transliterasi": "khāfa",
+      "jenis_kata": "Fiʿil (verb)",
+      "arti": "takut, khawatir",
+      "sharaf": {
+        "akar_kata": "خ‑ف‑و",
+        "makna_dasar": "takut, khawatir",
+        "wazan_perubahan": "faʿala (bentuk dasar)"
+      },
+      "nahwu": {
+        "kedudukan": "fiʿil madhi (kata kerja lampau) berfungsi sebagai predikat utama",
+        "irab_dan_logika": "marfuʿ dengan dhammah karena berstatus fiʿil madhi yang berdiri sendiri"
+      },
+      "hikmah": "menunjukkan tindakan khawatir terhadap sesuatu yang akan terjadi",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "مِن",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf (preposisi)",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "menunjuk asal atau sumber",
+        "wazan_perubahan": "tidak berwazan (huruf jar)"
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar yang menghubungkan kata setelahnya (مُّوصٍۢ) sebagai mudhaf ilayh",
+        "irab_dan_logika": "tidak berharakat; menimbulkan i‘rāb majrūr (kasrah) pada mudhaf"
+      },
+      "hikmah": "menunjukkan bahwa rasa takut itu berhubungan dengan orang yang memberi wasiat",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "مُّوصٍۢ",
+      "transliterasi": "muwwasin",
+      "jenis_kata": "Isim (isim faʿil)",
+      "arti": "yang memberi wasiat",
+      "sharaf": {
+        "akar_kata": "و‑ص‑ى",
+        "makna_dasar": "memberi wasiat, menasihati",
+        "wazan_perubahan": "muʿallaq (مُوَصٍّ) – bentuk isim faʿil"
+      },
+      "nahwu": {
+        "kedudukan": "mudhaf (terdapat jar مِن) berstatus iʿrāb majrūr (kasrah)",
+        "irab_dan_logika": "kasrah karena didahului huruf jar مِن; menunjukkan kepemilikan atau hubungan"
+      },
+      "hikmah": "menyiratkan orang yang telah membuat wasiat, subjek yang menjadi objek rasa takut",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "جَنَفًا",
+      "transliterasi": "janafan",
+      "jenis_kata": "Isim (masdar)",
+      "arti": "dosa, perbuatan melanggar",
+      "sharaf": {
+        "akar_kata": "ج‑ن‑ف",
+        "makna_dasar": "berbuat dosa, melanggar hukum Allah",
+        "wazan_perubahan": "faʿlan (جَنَفَ) → masdar جَنَفًا"
+      },
+      "nahwu": {
+        "kedudukan": "objek (mansub) dari fiʿil خَافَ, beriʿrāb nasb (accusative) dengan fathah",
+        "irab_dan_logika": "nasb karena menjadi maṣdar maṣdar (objek) dari fiʿil khāfa; tanda fathah pada akhir"
+      },
+      "hikmah": "menunjukkan perbuatan dosa yang menjadi sebab kekhawatiran",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "أَوْ",
+      "transliterasi": "aw",
+      "jenis_kata": "Huruf (konjungsi)",
+      "arti": "atau",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "menyatakan pilihan atau alternatif",
+        "wazan_perubahan": "tidak berwazan (huruf athaf)"
+      },
+      "nahwu": {
+        "kedudukan": "huruf athaf yang menghubungkan dua istilah (جَنَفًا أَوْ ...)",
+        "irab_dan_logika": "tidak berharakat; berfungsi mengikat dua kata atau frasa"
+      },
+      "hikmah": "menyiratkan adanya pilihan antara dosa dengan hal lain yang akan disebut selanjutnya",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "إِثْمًۭا",
+      "transliterasi": "ithman",
+      "jenis_kata": "Isim",
+      "arti": "dosa",
+      "sharaf": {
+        "akar_kata": "أ-ث-م",
+        "makna_dasar": "kesalahan, dosa",
+        "wazan_perubahan": "if‘al"
+      },
+      "nahwu": {
+        "kedudukan": "objek (مفعول به) dari فعل *فَأَصْلَحَ*",
+        "irab_dan_logika": "منصوب بالفتحة وعلامة النصب تنوين الفتح لأنّه مفعول به"
+      },
+      "hikmah": "Menunjukkan bahwa perbuatan yang dilarang adalah dosa yang dapat dihindari bila seseorang menengahi",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "فَأَصْلَحَ",
+      "transliterasi": "fa-aṣlaḥa",
+      "jenis_kata": "Fi'il",
+      "arti": "maka dia memperbaiki / mendamaikan",
+      "sharaf": {
+        "akar_kata": "ص-ل-ح",
+        "makna_dasar": "kebaikan, memperbaiki",
+        "wazan_perubahan": "fa‘ala"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ماضٍ مبني على الفتح",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فعل ماضٍ"
+      },
+      "hikmah": "Perintah Allah menekankan pentingnya menengahi dan memperbaiki hubungan bila ada perselisihan",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "بَيْنَهُمْ",
+      "transliterasi": "baynahum",
+      "jenis_kata": "Huruf (preposisi) + Isim (kata ganti)",
+      "arti": "antara mereka",
+      "sharaf": {
+        "akar_kata": "ب-ي-ن",
+        "makna_dasar": "memisahkan, berada di tengah",
+        "wazan_perubahan": "fa‘ala (bayan)"
+      },
+      "nahwu": {
+        "kedudukan": "جار ومجرور متعلق بـ *فَأَصْلَحَ*",
+        "irab_dan_logika": "بَاءُ جارٍّ، والهاء ضمير متصل في محل جر"
+      },
+      "hikmah": "Hubungan yang harus dipulihkan adalah yang berada ‘di antara’ dua pihak yang bersengketa",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "فَلَآ",
+      "transliterasi": "fa-lā",
+      "jenis_kata": "Huruf (partikel)",
+      "arti": "maka tidak",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "penafian",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "حرف نفي مبني على السكون لا محل له من الإعراب، مسبوقًا بالفاء العاطفة",
+        "irab_dan_logika": "اللام نافية لا محل لها، الفاء عاطفة تربط الجملة السابقة باللاحقة"
+      },
+      "hikmah": "Menegaskan bahwa setelah menengahi, tidak ada dosa yang menimpa",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "إِثْمَ",
+      "transliterasi": "ithma",
+      "jenis_kata": "Isim",
+      "arti": "dosa",
+      "sharaf": {
+        "akar_kata": "أ-ث-م",
+        "makna_dasar": "kesalahan, pelanggaran",
+        "wazan_perubahan": "if‘al"
+      },
+      "nahwu": {
+        "kedudukan": "اسم نكرة منصوب بعد حرف النفي *لا*",
+        "irab_dan_logika": "منصوب بالضمة لأنّ *لا* تنصب المبتدأ أو الخبر"
+      },
+      "hikmah": "Tidak ada dosa yang menimpa orang yang menengahi, asalkan ia melakukannya dengan benar",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "عَلَيْهِ",
+      "transliterasi": "ʿalayhi",
+      "jenis_kata": "Huruf (preposisi) + Isim (kata ganti)",
+      "arti": "atasnya",
+      "sharaf": {
+        "akar_kata": "ع-ل-ى",
+        "makna_dasar": "tinggi, berada di atas",
+        "wazan_perubahan": "fa‘ala"
+      },
+      "nahwu": {
+        "kedudukan": "جار ومجرور متعلق بـ *إِثْمَ*",
+        "irab_dan_logika": "على حرف جر، والهاء ضمير متصل في محل جر"
+      },
+      "hikmah": "Dosa yang dimaksud adalah dosa yang ‘menimpa’ orang tersebut; bila tidak ada, maka tidak ada beban dosa",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda baca)",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda jeda/istirahat dalam bacaan",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca, tidak termasuk dalam iʿrāb",
+        "irab_dan_logika": "menandakan waqf (jeda) panjang setelah kata sebelumnya untuk memperjelas pemahaman ayat"
+      },
+      "hikmah": "*Tidak memiliki makna leksikal; berfungsi sebagai penanda jeda agar pembaca dapat berhenti sejenak sebelum melanjutkan bacaan.*",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "إِنَّ",
+      "transliterasi": "inna",
+      "jenis_kata": "Huruf (particle)",
+      "arti": "sesungguhnya, memang",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "huruf takwīr (penegas) yang memperkenalkan jumla inna + isim + khabar",
+        "irab_dan_logika": "huruf ini tidak ber‑iʿrāb, tetapi menyebabkan isim setelahnya (ٱللَّهَ) menjadi منصوب (مَنْصُوب) dengan tanwīn dammah"
+      },
+      "hikmah": "",
+      "role": "none"
+    }
+  ]
+}

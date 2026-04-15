@@ -1,0 +1,510 @@
+{
+  "surah": 7,
+  "ayah": 33,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "قُلْ",
+      "transliterasi": "Qul",
+      "jenis_kata": "Fi'il",
+      "arti": "katakan",
+      "sharaf": {
+        "akar_kata": "ق-و-ل",
+        "makna_dasar": "mengucapkan",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "predikat perintah (فعل أمر)",
+        "irab_dan_logika": "مجزوم بالسكون لأن الفعل أمر"
+      },
+      "hikmah": "menunjukkan perintah langsung kepada pendengar untuk menyampaikan firman Allah",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "إِنَّمَا",
+      "transliterasi": "Innama",
+      "jenis_kata": "Huruf",
+      "arti": "hanya",
+      "sharaf": {
+        "akar_kata": "إ-ن",
+        "makna_dasar": "penegasan, pembatasan",
+        "wazan_perubahan": "ليس له وزن صرفي"
+      },
+      "nahwu": {
+        "kedudukan": "حرف توكيد وتخصيص",
+        "irab_dan_logika": "حرف مبني على السكون لا محل له من الإعراب"
+      },
+      "hikmah": "menegaskan bahwa yang diharamkan hanyalah hal-hal yang disebutkan selanjutnya",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "حَرَّمَ",
+      "transliterasi": "Harrama",
+      "jenis_kata": "Fi'il",
+      "arti": "mengharamkan",
+      "sharaf": {
+        "akar_kata": "ح-ر-م",
+        "makna_dasar": "melarang, menutup",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ماضٍ مبني على الفتح",
+        "irab_dan_logika": "مرفوع بالفتحة لأنه فعل ماضٍ"
+      },
+      "hikmah": "menyatakan larangan ilahi terhadap perbuatan tertentu",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "رَبِّيَ",
+      "transliterasi": "Rabbī",
+      "jenis_kata": "Isim",
+      "arti": "Tuhanku",
+      "sharaf": {
+        "akar_kata": "ر-ب-ب",
+        "makna_dasar": "pemilik, penguasa",
+        "wazan_perubahan": "فعّل"
+      },
+      "nahwu": {
+        "kedudukan": "مضاف إليه مجرور بالكسرة",
+        "irab_dan_logika": "مجرور لأن الفعل \"حَرَّمَ\" متعدٍ ويحتاج مفعول به"
+      },
+      "hikmah": "menunjukkan sumber larangan, yaitu Allah sebagai Tuhan",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "ٱلْفَوَٰحِشَ",
+      "transliterasi": "Al‑fawāḥisha",
+      "jenis_kata": "Isim",
+      "arti": "perbuatan keji",
+      "sharaf": {
+        "akar_kata": "ف-و-ش",
+        "makna_dasar": "keji, najis, tidak senonoh",
+        "wazan_perubahan": "فَعْل"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به منصوب بالفتحة",
+        "irab_dan_logika": "منصوب لأن الفعل \"حَرَّمَ\" متعدٍ ويحتاج مفعولاً به"
+      },
+      "hikmah": "menyasar segala tindakan yang melanggar moralitas dan kesucian",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "مَا",
+      "transliterasi": "Mā",
+      "jenis_kata": "Huruf",
+      "arti": "apa",
+      "sharaf": {
+        "akar_kata": "م-ا",
+        "makna_dasar": "menanyakan atau merujuk pada sesuatu yang tidak diketahui",
+        "wazan_perubahan": "ليس له وزن صرفي"
+      },
+      "nahwu": {
+        "kedudukan": "اسم موصول مبني على السكون في محل رفع نعت",
+        "irab_dan_logika": "مبني على السكون لأنه اسم موصول لا يتغير"
+      },
+      "hikmah": "menunjukkan bahwa larangan mencakup segala bentuk keji yang tidak diketahui atau belum teridentifikasi",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "ظَهَرَ",
+      "transliterasi": "ẓahara",
+      "jenis_kata": "Fi'il",
+      "arti": "tampak, muncul",
+      "sharaf": {
+        "akar_kata": "ظ-ه-ر",
+        "makna_dasar": "menampakkan sesuatu",
+        "wazan_perubahan": "فَعَلَ (fa'ala)"
+      },
+      "nahwu": {
+        "kedudukan": "objek dari kata ma (ما) yang menjadi مفعول به لِحَرَّمَ",
+        "irab_dan_logika": "فعل ماضٍ مبني على الفتح، لا إعراب له لأن الفعل الماضي لا يُعرب"
+      },
+      "hikmah": "menunjukkan segala hal yang tampak di luar, yang dilarang karena jelas terlihat",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "مِنْهَا",
+      "transliterasi": "min‑ha",
+      "jenis_kata": "Huruf",
+      "arti": "dari‑nya (perempuan)",
+      "sharaf": {
+        "akar_kata": "مِنْ",
+        "makna_dasar": "menunjuk asal atau sumber",
+        "wazan_perubahan": "حرف جر"
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر يجر ما بعده",
+        "irab_dan_logika": "مجرور وعلامة جره الكسرة الظاهرة على آخره بسبب حرف الجر مِنْ"
+      },
+      "hikmah": "menyatakan bahwa apa yang tampak itu berasal dari Allah",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "وَمَا",
+      "transliterasi": "wa‑mā",
+      "jenis_kata": "Huruf",
+      "arti": "dan apa",
+      "sharaf": {
+        "akar_kata": "ما",
+        "makna_dasar": "kata relatif yang merujuk pada sesuatu yang tidak disebutkan secara spesifik",
+        "wazan_perubahan": "اسم موصول"
+      },
+      "nahwu": {
+        "kedudukan": "حرف عطف يربط ما قبلها بما بعدها، و ما اسم موصول منصوب",
+        "irab_dan_logika": "ما منصوب بالفتحة لأنه مفعول به للفعل حَرَّمَ"
+      },
+      "hikmah": "menambah daftar larangan dengan menyebut “dan apa” yang termasuk dalam kategori tersebut",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "بَطَنَ",
+      "transliterasi": "baṭana",
+      "jenis_kata": "Fi'il",
+      "arti": "tersembunyi",
+      "sharaf": {
+        "akar_kata": "ب-ط-ن",
+        "makna_dasar": "menyembunyikan, tidak tampak",
+        "wazan_perubahan": "فَعَلَ (fa'ala)"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ماضٍ مبني على الفتح، جزء من جملة ما بطَن",
+        "irab_dan_logika": "الفعل الماضي لا يُعرب، وهو يكمّل معنى ما قبله"
+      },
+      "hikmah": "menyiratkan segala hal yang tidak tampak, yang tetap dilarang meski tersembunyi",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "وَالْإِثْمَ",
+      "transliterasi": "wal‑ithma",
+      "jenis_kata": "Isim",
+      "arti": "dan dosa",
+      "sharaf": {
+        "akar_kata": "إ-ث-م",
+        "makna_dasar": "perbuatan yang melanggar hak Allah atau manusia",
+        "wazan_perubahan": "مصدر الفعل (إثم)"
+      },
+      "nahwu": {
+        "kedudukan": "اسم منصوب مفعول به للفعل حَرَّمَ، مسبوق بحرف العطف وَ",
+        "irab_dan_logika": "منصوب بالفتحة لأنه مفعول به"
+      },
+      "hikmah": "menegaskan bahwa dosa termasuk dalam hal-hal yang dilarang",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "وَالْبَغْىَ",
+      "transliterasi": "wal‑baghā",
+      "jenis_kata": "Isim",
+      "arti": "dan kezaliman/penindasan",
+      "sharaf": {
+        "akar_kata": "ب-غ-ى",
+        "makna_dasar": "melampaui batas, menindas, melakukan kezaliman",
+        "wazan_perubahan": "مصدر الفعل (بغى)"
+      },
+      "nahwu": {
+        "kedudukan": "اسم منصوب مفعول به للفعل حَرَّمَ، مسبوق بحرف العطف وَ",
+        "irab_dan_logika": "منصوب بالفتحة لأنه مفعول به"
+      },
+      "hikmah": "menyatakan bahwa segala bentuk penindasan atau kezaliman juga dilarang",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "بِغَيْرِ",
+      "transliterasi": "bi‑ghayri",
+      "jenis_kata": "Huruf (jar)",
+      "arti": "tanpa, selain",
+      "sharaf": {
+        "akar_kata": "غ‑ي‑ر",
+        "makna_dasar": "lain, tidak sama",
+        "wazan_perubahan": "فَعْل (ghayr)"
+      },
+      "nahwu": {
+        "kedudukan": "objek jar setelah فعل حَرَّمَ",
+        "irab_dan_logika": "مجرور بالكسرة لأن حرف الجر \"bi\" يجر ما بعده"
+      },
+      "hikmah": "menunjukkan larangan terhadap perbuatan yang dilakukan tanpa dasar kebenaran",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "الْحَقِّ",
+      "transliterasi": "al‑ḥaqqi",
+      "jenis_kata": "Isim (isim mufrod)",
+      "arti": "kebenaran, hak",
+      "sharaf": {
+        "akar_kata": "ح‑ق‑ق",
+        "makna_dasar": "benar, tepat",
+        "wazan_perubahan": "فَعْل"
+      },
+      "nahwu": {
+        "kedudukan": "مجرور بالكسرة مضاف إلى \"bi‑ghayri\"",
+        "irab_dan_logika": "مجرور بالكسرة لأن كلمة \"الْحَقِّ\" مضافة إلى حرف الجر"
+      },
+      "hikmah": "menegaskan bahwa yang dilarang adalah perbuatan yang tidak berlandaskan kebenaran",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "وَأَن",
+      "transliterasi": "wa‑an",
+      "jenis_kata": "Huruf (wa: حرف عطف, an: حرف نصب)",
+      "arti": "dan (bahwa)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "حرف عطف يربط الجملة السابقة بالجملة التالية",
+        "irab_dan_logika": "حرف عطف لا يُعرب، وحرف النصب \"أن\" يرفع الفعل التالي إلى النصب"
+      },
+      "hikmah": "menghubungkan larangan sebelumnya dengan larangan selanjutnya yang berupa perbuatan menyekutukan",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "تُشْرِكُوا۟",
+      "transliterasi": "tushrikū",
+      "jenis_kata": "Fi'il (verb mudhari‘, 2‑mp)",
+      "arti": "menyekutukan",
+      "sharaf": {
+        "akar_kata": "ش‑ر‑ك",
+        "makna_dasar": "mengaitkan, menyertakan",
+        "wazan_perubahan": "يَفْعَلُ"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع منصوب بـ \"أن\"",
+        "irab_dan_logika": "منصوب بالضمة لأن حرف النصب \"أن\" يجر الفعل إلى النصب"
+      },
+      "hikmah": "menyatakan larangan menyekutukan Allah dengan sesuatu yang tidak memiliki bukti",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "بِٱللَّهِ",
+      "transliterasi": "bi‑Allāhi",
+      "jenis_kata": "Huruf (jar)",
+      "arti": "dengan Allah",
+      "sharaf": {
+        "akar_kata": "اللّه (اسم علم)",
+        "makna_dasar": "nama Tuhan yang Maha Esa",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "مجرور بالكسرة تابع لحرف الجر \"bi\"",
+        "irab_dan_logika": "مجرور بالكسرة لأن حرف الجر يجر ما بعده"
+      },
+      "hikmah": "menegaskan bahwa penyekutuan itu tidak boleh dilakukan terhadap Allah",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "لَمْ",
+      "transliterasi": "lam",
+      "jenis_kata": "Huruf",
+      "arti": "tidak",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf nakirah yang mendahului fi'il",
+        "irab_dan_logika": "harf nakirah, tidak berharakat; meniadakan fi'il berikutnya"
+      },
+      "hikmah": "menyatakan penolakan atau ketidakberlakuan suatu tindakan",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "يُنَزِّلْ",
+      "transliterasi": "yunazzil",
+      "jenis_kata": "Fi'il",
+      "arti": "menurunkan",
+      "sharaf": {
+        "akar_kata": "نزل",
+        "makna_dasar": "turun",
+        "wazan_perubahan": "فَعَّل"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il majzūʿ (jussive) setelah huruf nakirah لَمْ",
+        "irab_dan_logika": "berharakat sukun pada akhir karena dipengaruhi لَمْ"
+      },
+      "hikmah": "menyatakan bahwa Allah tidak menurunkan sesuatu",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "بِهِۦ",
+      "transliterasi": "bihi",
+      "jenis_kata": "Huruf",
+      "arti": "dengan dia/itu",
+      "sharaf": {
+        "akar_kata": "ب",
+        "makna_dasar": "dengan, memakai",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar yang menghubungkan kata sebelumnya dengan kata berikutnya",
+        "irab_dan_logika": "jar, berkasrah pada ه karena huruf jar"
+      },
+      "hikmah": "menunjukkan alat atau sarana yang dimaksud",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "سُلْطَٰنًۭا",
+      "transliterasi": "sulṭānan",
+      "jenis_kata": "Isim",
+      "arti": "kekuasaan, otoritas",
+      "sharaf": {
+        "akar_kata": "سلط",
+        "makna_dasar": "menguasai",
+        "wazan_perubahan": "فَعْلَة"
+      },
+      "nahwu": {
+        "kedudukan": "Isim mansūb (nasb) sebagai mafʿūl bih fi'il",
+        "irab_dan_logika": "bertanwin fatha karena menjadi objek fi'il"
+      },
+      "hikmah": "menunjukkan sesuatu yang tidak diturunkan sebagai otoritas",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "وَأَن",
+      "transliterasi": "wa-an",
+      "jenis_kata": "Huruf",
+      "arti": "dan (bahwa)",
+      "sharaf": {
+        "akar_kata": "أن",
+        "makna_dasar": "bahwa",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf wa (ʿaḍāf) + huruf an (ḥarf nashb) yang menghubungkan kalimat selanjutnya",
+        "irab_dan_logika": "an menuntut fi'il selanjutnya menjadi majzūʿ"
+      },
+      "hikmah": "menyambung dengan pernyataan selanjutnya",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "تَقُولُوا۟",
+      "transliterasi": "taqūlū",
+      "jenis_kata": "Fi'il",
+      "arti": "kamu katakan",
+      "sharaf": {
+        "akar_kata": "ق و ل",
+        "makna_dasar": "mengatakan",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il majzūʿ (jussive) setelah huruf an",
+        "irab_dan_logika": "berharakat sukun pada akhir karena an menuntut majzūʿ"
+      },
+      "hikmah": "menyampaikan larangan untuk mengucapkan sesuatu",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "عَلَى",
+      "transliterasi": "‘ala",
+      "jenis_kata": "Huruf",
+      "arti": "di atas, terhadap",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "preposisi yang menunjukkan hubungan tempat atau arah",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar (preposisi) yang menghubungkan ke kata berikutnya",
+        "irab_dan_logika": "menyebabkan kata berikutnya (ٱللَّهِ) menjadi مجرور بالكسرة karena huruf جر"
+      },
+      "hikmah": "Menunjukkan penyerahan atau ketundukan kepada Allah dalam konteks larangan",
+      "role": "none"
+    },
+    {
+      "index": 25,
+      "kata_arab": "ٱللَّهِ",
+      "transliterasi": "Allah",
+      "jenis_kata": "Isim",
+      "arti": "Tuhan",
+      "sharaf": {
+        "akar_kata": "أ-ل-ه",
+        "makna_dasar": "dewa, yang disembah",
+        "wazan_perubahan": "مُصْدَر"
+      },
+      "nahwu": {
+        "kedudukan": "Isim مجرور بحرف الجر (عَلَى)",
+        "irab_dan_logika": "مجرور بالكسرة لأنه تابع لحرف الجر"
+      },
+      "hikmah": "Menegaskan bahwa larangan ditujukan kepada Allah, menolak segala bentuk syirik",
+      "role": "none"
+    },
+    {
+      "index": 26,
+      "kata_arab": "مَا",
+      "transliterasi": "ma",
+      "jenis_kata": "Huruf",
+      "arti": "apa, yang",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "kata sambung yang memperkenalkan klausa relatif",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf relative (اسم موصول) memulai klausa \"مَا لا تَعْلَمُونَ\"",
+        "irab_dan_logika": "مبني على السكون لا محل له من الإعراب"
+      },
+      "hikmah": "Menunjukkan objek yang tidak diketahui manusia, yaitu hal‑hal yang tidak mereka ketahui",
+      "role": "none"
+    },
+    {
+      "index": 27,
+      "kata_arab": "لَا",
+      "transliterasi": "la",
+      "jenis_kata": "Huruf",
+      "arti": "tidak",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "kata penafian",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf نافية للجملة الفعلية \"تَعْلَمُونَ\"",
+        "irab_dan_logika": "حرف نفي لا محل له من الإعراب"
+      },
+      "hikmah": "Menyatakan penolakan pengetahuan terhadap hal‑hal yang tidak diketahui",
+      "role": "none"
+    },
+    {
+      "index": 28,
+      "kata_arab": "تَعْلَمُونَ",
+      "transliterasi": "ta‘lamūna",
+      "jenis_kata": "Fi’il",
+      "arti": "kalian mengetahui",
+      "sharaf": {
+        "akar_kata": "ع-ل-م",
+        "makna_dasar": "mengetahui",
+        "wazan_perubahan": "فَعَلَ"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع بالضمة الظاهرة على النون",
+        "irab_dan_logika": "مرفوع لأنه فعل مضارع مرفوع بالضمة"
+      },
+      "hikmah": "Menegaskan bahwa larangan mencakup segala hal yang tidak diketahui manusia",
+      "role": "none"
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "surah": 6,
+  "ayah": 163,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "لَا",
+      "transliterasi": "lā",
+      "jenis_kata": "Huruf",
+      "arti": "tidak",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "negasi",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "partikel penafian yang mendahului isim",
+        "irab_dan_logika": "tidak berharakat, berfungsi menafikan keberadaan sesuatu"
+      },
+      "hikmah": "Menegaskan bahwa tidak ada sekutu bagi Allah",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "شَرِيكَ",
+      "transliterasi": "sharīka",
+      "jenis_kata": "Isim",
+      "arti": "partner, sekutu",
+      "sharaf": {
+        "akar_kata": "ش ر ك",
+        "makna_dasar": "berbagi, bersatu",
+        "wazan_perubahan": "fa‘īl"
+      },
+      "nahwu": {
+        "kedudukan": "isim mansub (مَنْصُوب) sebagai predikat setelah لا",
+        "irab_dan_logika": "diberi tanda fatḥa pada huruf terakhir menandakan keadaan نصب karena لا النافية"
+      },
+      "hikmah": "Menyatakan bahwa tidak ada yang dapat menjadi sekutu atau partner bagi Allah",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "لَهُۥ",
+      "transliterasi": "lahu",
+      "jenis_kata": "Huruf",
+      "arti": "bagi-Nya",
+      "sharaf": {
+        "akar_kata": "ل ه",
+        "makna_dasar": "kepemilikan, arah kepada",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر + ضمير متصل، مجرور بالكسرة",
+        "irab_dan_logika": "حرف الجر لَـ يجرّ ما بعده، الضمير المتصل يكتسب حالة الجر"
+      },
+      "hikmah": "Menunjukkan kepemilikan mutlak Allah atas segala sesuatu",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "ۖ",
+      "transliterasi": "ٰ",
+      "jenis_kata": "Huruf",
+      "arti": "tanda waqf (koma)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "penanda jeda dalam bacaan",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca, tidak berirab",
+        "irab_dan_logika": "hanya berfungsi memisahkan bagian ayat"
+      },
+      "hikmah": "Memberi jeda untuk memperjelas makna sebelum melanjutkan ayat",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "وَبِذَٰلِكَ",
+      "transliterasi": "wa-bidhālika",
+      "jenis_kata": "Huruf",
+      "arti": "dan dengan itu",
+      "sharaf": {
+        "akar_kata": "ذ ل ك",
+        "makna_dasar": "itu, hal itu",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "حرف عطف (و) + حرف جر (بِ) + اسم إشارة (ذَٰلِكَ)",
+        "irab_dan_logika": "بِذَٰلِكَ مجرور بالكسرة بسبب حرف الجر ب"
+      },
+      "hikmah": "Menghubungkan perintah Allah dengan cara atau sarana yang disebutkan sebelumnya",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "أُمِرْتُ",
+      "transliterasi": "umirtu",
+      "jenis_kata": "Fi'il",
+      "arti": "aku diperintahkan",
+      "sharaf": {
+        "akar_kata": "أ م ر",
+        "makna_dasar": "memerintahkan, memberi perintah",
+        "wazan_perubahan": "أَفْعَل"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ماضٍ مبني على الفتح مع ضمير متصل متكلم",
+        "irab_dan_logika": "مبني على الفتح لأن الفعل الماضي لا يتغير إعرابه، والضمير المتصل يحدد الفاعل"
+      },
+      "hikmah": "Menegaskan bahwa Nabi Muhammad SAW menerima perintah langsung dari Allah untuk menyampaikan risalah",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "وَأَنَا۠",
+      "transliterasi": "wa-anā",
+      "jenis_kata": "Isim (dengan huruf wa sebagai awalan)",
+      "arti": "saya",
+      "sharaf": {
+        "akar_kata": "أنا",
+        "makna_dasar": "kata ganti diri pertama tunggal",
+        "wazan_perubahan": "tidak berwazn (kata ganti)"
+      },
+      "nahwu": {
+        "kedudukan": "مبتدأ (subject) dalam kalimat",
+        "irab_dan_logika": "مرفوع بالضمة لأنه مبتدأ مرفوع"
+      },
+      "hikmah": "*Menegaskan kehadiran diri pembicara sebagai yang pertama menyerahkan diri kepada Allah.*",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "أَوَّلُ",
+      "transliterasi": "awwal",
+      "jenis_kata": "Isim",
+      "arti": "yang pertama",
+      "sharaf": {
+        "akar_kata": "أول",
+        "makna_dasar": "pertama, yang terdepan",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "خبر (predikat) untuk مبتدأ \"أنا\"",
+        "irab_dan_logika": "مرفوع بالضمة لأنه خبر مرفوع"
+      },
+      "hikmah": "*Menunjukkan status pembicara sebagai yang terdepan dalam menyerahkan diri kepada Allah.*",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "ٱلْمُسْلِمِينَ",
+      "transliterasi": "al-muslimīna",
+      "jenis_kata": "Isim jam'i (kata benda jamak)",
+      "arti": "orang-orang yang berserah diri kepada Allah",
+      "sharaf": {
+        "akar_kata": "س ل م",
+        "makna_dasar": "menyembah, berserah diri",
+        "wazan_perubahan": "مُفَعَّل"
+      },
+      "nahwu": {
+        "kedudukan": "مجرور (bagian dari iḍāfa \"awwal al-muslimīna\")",
+        "irab_dan_logika": "مجرور بالكسرة لأنه مضاف إليه"
+      },
+      "hikmah": "*Menggambarkan kelompok orang yang pertama kali menyerahkan diri kepada Allah, menegaskan keutamaan keimanan.*",
+      "role": "none"
+    }
+  ]
+}

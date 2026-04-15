@@ -1,0 +1,330 @@
+{
+  "surah": 10,
+  "ayah": 72,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "فَإِن",
+      "transliterasi": "fa‑in",
+      "jenis_kata": "Huruf",
+      "arti": "maka jika",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "kata sambung menghubungkan ayat sebelumnya dengan ayat berikutnya",
+        "irab_dan_logika": "huruf tidak ber‑i‘rāb, berfungsi sebagai partikel penghubung"
+      },
+      "hikmah": "menunjukkan hubungan sebab‑akibat, mengajak pendengar memperhatikan peringatan selanjutnya",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "تَوَلَّيْتُمْ",
+      "transliterasi": "tawallaytum",
+      "jenis_kata": "Fi'il",
+      "arti": "kamu berpaling",
+      "sharaf": {
+        "akar_kata": "وَلِي",
+        "makna_dasar": "berpaling, mengalihkan",
+        "wazan_perubahan": "form IV (تَفَعَّل)"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il madhi (kata kerja lampau) 2 mp",
+        "irab_dan_logika": "dhammah karena fi'il madhi tidak ber‑i‘rāb; subjek tersirat “kamu”"
+      },
+      "hikmah": "menegaskan sikap menolak peringatan, menandakan pilihan bebas manusia",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "فَمَا",
+      "transliterasi": "fa‑mā",
+      "jenis_kata": "Huruf",
+      "arti": "maka apa",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "kata sambung (fa) + huruf ma‘rifah (mā) yang menanyakan konsekuensi",
+        "irab_dan_logika": "tidak ber‑i‘rāb, berfungsi sebagai partikel pertanyaan"
+      },
+      "hikmah": "menyiratkan pertanyaan retoris tentang apa yang akan terjadi bila menolak",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "سَأَلْتُكُم",
+      "transliterasi": "saʾaltukum",
+      "jenis_kata": "Fi'il",
+      "arti": "aku menanyakan kepadamu",
+      "sharaf": {
+        "akar_kata": "س‑أ‑ل",
+        "makna_dasar": "menanyakan, meminta informasi",
+        "wazan_perubahan": "form I (فَعَل)"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il madhi 1 ms, subjek “aku”, objek pronominal “kamu” (كم)",
+        "irab_dan_logika": "dhammah pada fi'il madhi; ضمير متصل “كم” ber‑i‘rāb mansūb (kasrah) sebagai objek"
+      },
+      "hikmah": "menegaskan bahwa tidak ada permintaan apa‑apa selain pertanyaan tentang upah",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "مِّنْ",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar (preposisi)",
+        "irab_dan_logika": "menjaga i‘rāb isim yang mengikutinya menjadi majrūr (kasrah)"
+      },
+      "hikmah": "menunjukkan sumber atau asal permintaan, yaitu dari Allah",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "أَجْرٍ",
+      "transliterasi": "ajr",
+      "jenis_kata": "Isim",
+      "arti": "upah",
+      "sharaf": {
+        "akar_kata": "ج‑ر",
+        "makna_dasar": "pembayaran, balasan",
+        "wazan_perubahan": "mafaʿal (فَعْل)"
+      },
+      "nahwu": {
+        "kedudukan": "isim majrūr (kasrah) setelah huruf jar “min”",
+        "irab_dan_logika": "kasrah karena berhubungan dengan “min”"
+      },
+      "hikmah": "menegaskan bahwa segala balasan hanya berasal dari Allah, bukan dari manusia",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "ۖ",
+      "transliterasi": "—",
+      "jenis_kata": "Huruf (tanda waqf)",
+      "arti": "tanda jeda (waqf) yang menandai berhentinya bacaan sesaat",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Berada di akhir frasa, memisahkan bagian kalimat sebelum dan sesudahnya",
+        "irab_dan_logika": "Tidak memiliki i‘rāb karena merupakan tanda baca, fungsinya memberi jeda bagi pendengar"
+      },
+      "hikmah": "Menunjukkan **pause** untuk menekankan makna ayat dan memberi ruang refleksi.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "إِنْ",
+      "transliterasi": "in",
+      "jenis_kata": "Huruf (harf syarat)",
+      "arti": "jika",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Harf syarat yang mengawali klausa bersyarat",
+        "irab_dan_logika": "Tidak ber-i‘rāb; berfungsi menghubungkan kalimat bersyarat dengan jawaban (jawab syarat) yang mengikutinya"
+      },
+      "hikmah": "Menyatakan **syarat**; bila orang menolak peringatan, maka konsekuensi selanjutnya akan terungkap.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "أَجْرِىَ",
+      "transliterasi": "ajri",
+      "jenis_kata": "Isim (isim maf‘ūl bi‑l‑jam‘)",
+      "arti": "upahku",
+      "sharaf": {
+        "akar_kata": "ج ر ي",
+        "makna_dasar": "bayar, upah, imbalan",
+        "wazan_perubahan": "fa‘il (bentuk isim)"
+      },
+      "nahwu": {
+        "kedudukan": "Isim maf‘ūl bi‑l‑jam‘ (objek) dalam kalimat «مَا أَجْرِي»",
+        "irab_dan_logika": "Ber‑i‘rāb = marfū‘ (nominatif) karena berada dalam konstruksi «مَا أَجْرِي» yang berfungsi sebagai subjek kalimat"
+      },
+      "hikmah": "Menegaskan bahwa **upah** Nabi tidak berasal dari manusia, melainkan hanya dari Allah.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "إِلَّا",
+      "transliterasi": "illa",
+      "jenis_kata": "Huruf (huruf istithna’)",
+      "arti": "kecuali",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf istithna’ yang mengecualikan objek «أَجْرِي»",
+        "irab_dan_logika": "Tidak ber‑i‘rāb; menempel pada kata yang dikecualikan (di sini «أَجْرِي»)"
+      },
+      "hikmah": "Menyatakan **pengecualian**: upah tidak berasal dari apa‑apa kecuali Allah.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "عَلَى",
+      "transliterasi": "‘ala",
+      "jenis_kata": "Huruf (harf jar)",
+      "arti": "atas, kepada",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Harf jar yang menghubungkan «أَجْرِي» dengan objek «ٱللَّهِ»",
+        "irab_dan_logika": "Menyebabkan kata yang di‑jarinya (ٱللَّهِ) menjadi majrur (genitif) dengan harakat kasrah"
+      },
+      "hikmah": "Menunjukkan **hubungan ketergantungan** upah kepada Allah semata.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "ٱللَّهِ",
+      "transliterasi": "Allahi",
+      "jenis_kata": "Isim (ism al‑ilah)",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "ل ه",
+        "makna_dasar": "nama Tuhan yang Maha Esa",
+        "wazan_perubahan": "isim al‑ilah (nama khusus)"
+      },
+      "nahwu": {
+        "kedudukan": "Isim majrur karena dipengaruhi huruf jar «عَلَى»",
+        "irab_dan_logika": "Ber‑i‘rāb = majrur (kasrah) menandakan bahwa ia menjadi objek preposisi «عَلَى»"
+      },
+      "hikmah": "Menegaskan bahwa **sumber upah** dan segala kebaikan hanyalah milik **Allah**.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "ۖ",
+      "transliterasi": "—",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda waqf (istirahat)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "penanda jeda setelah kata sebelumnya",
+        "irab_dan_logika": "tidak memiliki i‘rāb karena bukan kata"
+      },
+      "hikmah": "Menunjukkan jeda, memberi penekanan pada perintah selanjutnya",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "وَأُمِرْتُ",
+      "transliterasi": "wa‑umirtu",
+      "jenis_kata": "Fi‘il (verb pasif) dengan huruf wa",
+      "arti": "dan aku diperintahkan",
+      "sharaf": {
+        "akar_kata": "أ م ر",
+        "makna_dasar": "perintah",
+        "wazan_perubahan": "فُعِل (passive)"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja pasif, predikat, terhubung dengan wa",
+        "irab_dan_logika": "marfu‘ dengan dammah pada huruf terakhir karena bentuk fi‘il madhi majhul"
+      },
+      "hikmah": "Menegaskan bahwa Nabi diutus atas perintah Allah, bukan atas kehendak pribadi",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "أَنْ",
+      "transliterasi": "an",
+      "jenis_kata": "Huruf (harf nashb)",
+      "arti": "bahwa / untuk",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "harf nashb yang menghubungkan fi‘il majzub (أَكُونَ) dengan kalimat berikutnya",
+        "irab_dan_logika": "tidak berubah, berfungsi sebagai penanda tujuan"
+      },
+      "hikmah": "Menandakan maksud atau tujuan perintah yang akan diungkapkan",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "أَكُونَ",
+      "transliterasi": "akūna",
+      "jenis_kata": "Fi‘il (mudhari‘)",
+      "arti": "aku menjadi",
+      "sharaf": {
+        "akar_kata": "ك و ن",
+        "makna_dasar": "keberadaan, menjadi",
+        "wazan_perubahan": "أَفْعَل"
+      },
+      "nahwu": {
+        "kedudukan": "fi‘il mudhari‘ marfu‘ karena diikuti huruf nashb",
+        "irab_dan_logika": "marfu‘ dengan dhammah pada alif karena bentuk mudhari‘"
+      },
+      "hikmah": "Menyatakan keinginan menjadi bagian dari golongan yang berserah diri kepada Allah",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "مِنَ",
+      "transliterasi": "mina",
+      "jenis_kata": "Huruf (jar)",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar yang menghubungkan kata sebelumnya dengan kata berikutnya (ٱلْمُسْلِمِينَ)",
+        "irab_dan_logika": "jar, tidak ber‑i‘rāb"
+      },
+      "hikmah": "Menunjukkan asal atau keanggotaan, yaitu berasal dari golongan orang‑orang Muslim",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "ٱلْمُسْلِمِينَ",
+      "transliterasi": "al‑muslimīna",
+      "jenis_kata": "Isim (jamak mansub)",
+      "arti": "orang‑orang Muslim",
+      "sharaf": {
+        "akar_kata": "س ل م",
+        "makna_dasar": "kedamaian, penyerahan diri kepada Allah",
+        "wazan_perubahan": "مُفَعِل"
+      },
+      "nahwu": {
+        "kedudukan": "isim majrur karena jar مِنَ, berkasrah pada akhir karena jamak mansub",
+        "irab_dan_logika": "mansub dengan kasrah sebagai pelengkap jar"
+      },
+      "hikmah": "Menunjukkan kelompok yang berserah diri kepada Allah, menegaskan identitas umat yang dimaksud",
+      "role": "none"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "surah": 4,
+  "ayah": 98,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "إِلَّا",
+      "transliterasi": "illa",
+      "jenis_kata": "Huruf",
+      "arti": "kecuali, melainkan",
+      "sharaf": {
+        "akar_kata": "لا",
+        "makna_dasar": "negasi, penolakan",
+        "wazan_perubahan": "bukan bentuk kata kerja; huruf istithnaʾ"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf istithnaʾ (pengecualian) yang menghalalkan iʿrāb jarr pada kata berikutnya",
+        "irab_dan_logika": "Berharakat kasrah karena menghalalkan jarr pada **المستضعفين**"
+      },
+      "hikmah": "Menunjukkan pengecualian terhadap kelompok yang disebutkan selanjutnya, menegaskan bahwa hanya mereka yang lemah yang dikecualikan.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "ٱلْمُسْتَضْعَفِينَ",
+      "transliterasi": "al-mustaḍ‘afīna",
+      "jenis_kata": "Isim",
+      "arti": "orang‑orang yang lemah",
+      "sharaf": {
+        "akar_kata": "ض‑ع‑ف",
+        "makna_dasar": "lemah, tertekan",
+        "wazan_perubahan": "مستفعل (istifʿal) – jamak maskulin sahih"
+      },
+      "nahwu": {
+        "kedudukan": "Isim majrur (nama yang dijadikan objek pengecualian) setelah huruf **إِلَّا**",
+        "irab_dan_logika": "Berharakat kasrah (**المستضعفينِ**) karena huruf إِلَّا menghalalkan jarr"
+      },
+      "hikmah": "Menunjukkan kelompok orang yang berada dalam keadaan tidak berdaya, baik secara fisik, ekonomi, maupun sosial.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "مِنَ",
+      "transliterasi": "mina",
+      "jenis_kata": "Huruf",
+      "arti": "dari, kecuali (sebagai preposisi setelah إِلَّا)",
+      "sharaf": {
+        "akar_kata": "م‑ن‑",
+        "makna_dasar": "asal, sumber",
+        "wazan_perubahan": "حرف جر"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar yang menghubungkan kata‑kata berikutnya dengan إِلَّا",
+        "irab_dan_logika": "Membawa iʿrāb jarr pada **الرجالِ**, **النساءِ**, **الولدانِ**"
+      },
+      "hikmah": "Menunjukkan bahwa pengecualian mencakup semua golongan yang disebutkan selanjutnya.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "ٱلرِّجَالِ",
+      "transliterasi": "ar-rijāli",
+      "jenis_kata": "Isim",
+      "arti": "para laki‑laki",
+      "sharaf": {
+        "akar_kata": "ر‑ج‑ل",
+        "makna_dasar": "pria",
+        "wazan_perubahan": "فَعَل – jamak maskulin sahih"
+      },
+      "nahwu": {
+        "kedudukan": "Isim majrur setelah حرف الجر **مِنَ**",
+        "irab_dan_logika": "Berharakat kasrah (**الرجالِ**) karena jar"
+      },
+      "hikmah": "Menyatakan bahwa laki‑laki yang lemah termasuk dalam kelompok yang dikecualikan.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "لَا",
+      "transliterasi": "lā",
+      "jenis_kata": "Huruf",
+      "arti": "tidak",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "negasi",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "huruf negasi yang mendahului فعل مضارع",
+        "irab_dan_logika": "حرف نفي لا إعراب له، يرفع الفعل بعده"
+      },
+      "hikmah": "**لَا** menegaskan bahwa apa yang disebutkan selanjutnya tidak terjadi atau tidak dimungkinkan",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "يَسْتَطِيعُونَ",
+      "transliterasi": "yastatiʿūna",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka dapat",
+      "sharaf": {
+        "akar_kata": "ط-و-ع",
+        "makna_dasar": "kemampuan, dapat",
+        "wazan_perubahan": "استفعل"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع بالضمة الظاهرة على آخره، والواو للجمع",
+        "irab_dan_logika": "مرفوع لأن الفعل مضارع غير مسبوق بأداة نصب"
+      },
+      "hikmah": "menyatakan kemampuan atau kecakapan, yang dalam konteks ini dibatalkan oleh **لَا**",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "حِيلَةً",
+      "transliterasi": "ḥīlatan",
+      "jenis_kata": "Isim",
+      "arti": "cara licik, tipu daya",
+      "sharaf": {
+        "akar_kata": "ح-ي-ل",
+        "makna_dasar": "tipu daya, akal licik",
+        "wazan_perubahan": "فَعلة"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به منصوب للفعل **يَسْتَطِيعُونَ**",
+        "irab_dan_logika": "منصوب بالفتحة وعلامة النصب تنوين الفتح"
+      },
+      "hikmah": "menunjukkan bahwa tidak mampu menggunakan **حِيلَةً** sebagai sarana untuk melarikan diri",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "وَلَا",
+      "transliterasi": "walā",
+      "jenis_kata": "Huruf",
+      "arti": "dan tidak",
+      "sharaf": {
+        "akar_kata": "لا",
+        "makna_dasar": "negasi tambahan",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "حرف عطف ونفي يربط بين جزأين من النفي",
+        "irab_dan_logika": "لا إعراب له، يسبق الفعل الثاني"
+      },
+      "hikmah": "menambah penegasan bahwa hal berikutnya juga tidak terjadi",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "يَهْتَدُونَ",
+      "transliterasi": "yahtadūna",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka mendapat petunjuk",
+      "sharaf": {
+        "akar_kata": "ه-د-ي",
+        "makna_dasar": "memberi petunjuk, mendapat petunjuk",
+        "wazan_perubahan": "يفعل"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع بالضمة الظاهرة على آخره، والواو للجمع",
+        "irab_dan_logika": "مرفوع لأن الفعل مضارع غير مسبوق بأداة نصب"
+      },
+      "hikmah": "menyatakan adanya petunjuk, yang dalam ayat ini dibatalkan oleh **وَلَا**",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "سَبِيلًا",
+      "transliterasi": "sabīlan",
+      "jenis_kata": "Isim",
+      "arti": "jalan, cara",
+      "sharaf": {
+        "akar_kata": "س-ب-ل",
+        "makna_dasar": "jalan, cara",
+        "wazan_perubahan": "فَعْلًا"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به منصوب للفعل **يَهْتَدُونَ**",
+        "irab_dan_logika": "منصوب بالفتحة وعلامة النصب تنوين الفتح"
+      },
+      "hikmah": "menunjukkan bahwa mereka tidak menemukan **سَبِيلًا** yang benar untuk hijrah",
+      "role": "none"
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "surah": 9,
+  "ayah": 110,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "لَا",
+      "transliterasi": "lā",
+      "jenis_kata": "Huruf",
+      "arti": "tidak, jangan",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Nafi (peniadaan)",
+        "irab_dan_logika": "Huruf *mabni* (tetap) di atas sukun, tidak memiliki *i'rab*. Di sini berfungsi sebagai peniadaan yang mendahului *fi'il mudhari'*, yaitu 'يَزَالُ'."
+      },
+      "hikmah": "Menunjukkan peniadaan atau negasi terhadap keberlangsungan suatu keadaan. Dalam konteks ayat ini, 'لَا يَزَالُ' berarti 'tidak berhenti' atau 'senantiasa'.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "يَزَالُ",
+      "transliterasi": "yazālu",
+      "jenis_kata": "Fi'il",
+      "arti": "senantiasa, selalu, terus-menerus",
+      "sharaf": {
+        "akar_kata": "ز و ل (z-w-l)",
+        "makna_dasar": "bergerak, berpindah, hilang, berhenti. Dengan penambahan 'لَا' (tidak), menjadi 'tidak berhenti' yang berarti 'senantiasa' atau 'terus-menerus'.",
+        "wazan_perubahan": "Fi'il Mudhari' dari Bab I (فَعَلَ - يَفْعَلُ). Ini adalah salah satu dari 'أخوات كان' (saudara-saudara Kana) yang menunjukkan keberlangsungan."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Naqis (kurang)",
+        "irab_dan_logika": "*Marfu'* (rafa') dengan *dhammah* karena tidak didahului oleh *amil nasab* atau *jazm*. Merupakan *fi'il naqis* yang mengangkat *isim* (subjek) dan menasabkan *khabar* (predikat). *Isim*-nya adalah 'بُنْيَٰنُهُمُ'."
+      },
+      "hikmah": "Menekankan keberlangsungan dan ketidakberhentian suatu kondisi atau sifat. Dalam konteks ayat, keraguan itu akan terus-menerus ada dan melekat pada bangunan mereka.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "بُنْيَٰنُهُمُ",
+      "transliterasi": "bunyānuhumu",
+      "jenis_kata": "Isim",
+      "arti": "bangunan mereka",
+      "sharaf": {
+        "akar_kata": "ب ن ي (b-n-y)",
+        "makna_dasar": "membangun, mendirikan",
+        "wazan_perubahan": "Isim Masdar (bentuk kata benda) dari fi'il بَنَى (bana - membangun). Bentuk 'بُنْيَان' adalah masdar. Tambahan 'هُمُ' adalah *dhamir muttasil* (kata ganti sambung) yang berarti 'mereka'."
+      },
+      "nahwu": {
+        "kedudukan": "Isim يَزَالُ (subjek dari يَزَالُ)",
+        "irab_dan_logika": "*Marfu'* (rafa') dengan *dhammah* karena menjadi *isim* dari *fi'il naqis* 'يَزَالُ'. 'هُمُ' adalah *mudhaf ilaih* (kepemilikan) yang *mabni* di atas *dhammah* karena bertemu sukun setelahnya."
+      },
+      "hikmah": "Merujuk pada 'bangunan' yang secara fisik mereka dirikan, namun dalam konteks tafsir, ini juga bisa merujuk pada 'struktur' atau 'dasar' keyakinan dan perbuatan mereka yang rapuh dan penuh keraguan.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "ٱلَّذِى",
+      "transliterasi": "alladhī",
+      "jenis_kata": "Isim Maushul",
+      "arti": "yang",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Na'at (sifat) atau Badal (pengganti) dari 'بُنْيَٰنُهُمُ'",
+        "irab_dan_logika": "*Mabni* (tetap) di atas sukun. Mengikuti *i'rab* yang disifati, yaitu 'بُنْيَٰنُهُمُ' yang *marfu'*. Berfungsi sebagai penghubung antara 'بُنْيَٰنُهُمُ' dengan kalimat penjelas setelahnya ('بَنَوْا۟')."
+      },
+      "hikmah": "Menghubungkan 'bangunan' dengan perbuatan mereka 'membangun', menegaskan bahwa bangunan tersebut adalah hasil dari tindakan mereka sendiri, bukan sesuatu yang datang dari luar.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "بَنَوْا۟",
+      "transliterasi": "banaw",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka membangun/mendirikan",
+      "sharaf": {
+        "akar_kata": "ب ن ي (b-n-y)",
+        "makna_dasar": "membangun, mendirikan",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau) untuk *jamak mudzakkar ghaib* (mereka laki-laki). Bentuk asalnya بَنَى (bana). Tambahan *wawu alif* (وا) adalah *dhamir fa'il* (subjek) yang menunjukkan 'mereka'."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Madhi, merupakan *Shilah Maushul* (kalimat penjelas *isim maushul*) bagi 'ٱلَّذِى'",
+        "irab_dan_logika": "*Mabni* di atas *dhammah* yang tersembunyi pada *alif maqsurah* yang telah dihilangkan karena bertemu *wawu jama'ah*. *Wawu* (و) adalah *fa'il* (subjek) yang *mabni* di atas sukun. Kalimat ini secara keseluruhan tidak memiliki kedudukan *i'rab* karena merupakan *shilah maushul*."
+      },
+      "hikmah": "Menegaskan bahwa bangunan itu adalah hasil dari usaha dan perbuatan mereka sendiri, bukan sesuatu yang datang dari luar. Ini menekankan tanggung jawab mereka atas apa yang mereka dirikan.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "رِيبَةًۭ",
+      "transliterasi": "rībah",
+      "jenis_kata": "Isim",
+      "arti": "keraguan, kebimbangan",
+      "sharaf": {
+        "akar_kata": "ر ي ب (r-y-b)",
+        "makna_dasar": "ragu, bimbang, curiga",
+        "wazan_perubahan": "Isim Masdar (bentuk kata benda) dari fi'il رَابَ (rāba - meragukan). Bentuk 'رِيبَة' adalah masdar yang menunjukkan sifat atau keadaan."
+      },
+      "nahwu": {
+        "kedudukan": "Khabar يَزَالُ (predikat dari يَزَالُ)",
+        "irab_dan_logika": "*Manshub* (nashab) dengan *fathah* karena menjadi *khabar* dari *fi'il naqis* 'يَزَالُ'."
+      },
+      "hikmah": "Menjadi inti dari kondisi yang terus-menerus melekat pada bangunan mereka. Keraguan ini bukan hanya sekadar perasaan, tetapi menjadi sifat dasar dari apa yang mereka dirikan, mengindikasikan ketidakmurnian niat dan fondasi yang goyah.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "فِى",
+      "transliterasi": "fī",
+      "jenis_kata": "Huruf",
+      "arti": "di dalam, pada",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Harf Jar (preposisi)",
+        "irab_dan_logika": "Huruf jar adalah kata yang berfungsi meng-jar-kan (membuat majrur) isim setelahnya. Huruf ini bersifat *mabni* (tetap) dan tidak memiliki i'rab (perubahan harakat akhir) sendiri."
+      },
+      "hikmah": "Kata ini menunjukkan lokasi atau konteks, yaitu 'di dalam' hati mereka, menegaskan bahwa keraguan itu bersarang di sana.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "قُلُوبِهِمْ",
+      "transliterasi": "qulūbihim",
+      "jenis_kata": "Isim",
+      "arti": "hati-hati mereka",
+      "sharaf": {
+        "akar_kata": "ق ل ب (Q-L-B)",
+        "makna_dasar": "membalik, mengubah, hati (sebagai organ yang membalikkan pikiran/emosi)",
+        "wazan_perubahan": "Bentuk jamak dari قَلْبٌ (qalb) yang berarti 'hati'."
+      },
+      "nahwu": {
+        "kedudukan": "Isim Majrur (kata benda yang di-jar-kan)",
+        "irab_dan_logika": "Kata ini berkedudukan sebagai isim majrur karena didahului oleh harf jar `فِي`. Tanda jarnya adalah kasrah pada huruf ba (ب). Bagian `هِمْ` adalah *dhomir muttashil* (kata ganti sambung) yang berfungsi sebagai *mudhaf ilaih* (kata yang disandarkan), menunjukkan kepemilikan 'mereka'."
+      },
+      "hikmah": "Merujuk pada hati sebagai pusat keyakinan, emosi, dan keraguan. Penambahan dhomir `هِمْ` menegaskan bahwa keraguan itu ada *di dalam hati mereka* sendiri, bukan orang lain.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "إِلَّآ",
+      "transliterasi": "illā",
+      "jenis_kata": "Huruf",
+      "arti": "kecuali, melainkan",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Harf Istitsna' (partikel pengecualian)",
+        "irab_dan_logika": "Huruf istitsna' ini bersifat *mabni* (tetap) dan tidak memiliki i'rab. Fungsinya adalah untuk mengecualikan sesuatu dari hukum atau kondisi yang disebutkan sebelumnya."
+      },
+      "hikmah": "Menunjukkan adanya pengecualian terhadap kondisi sebelumnya. Keraguan akan terus ada, *kecuali* jika terjadi kondisi yang dikecualikan, yaitu hancurnya hati mereka.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "أَن",
+      "transliterasi": "an",
+      "jenis_kata": "Huruf",
+      "arti": "bahwa, agar",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Harf Mashdariyah",
+        "irab_dan_logika": "Huruf ini bersifat *mabni* (tetap) dan tidak memiliki i'rab. Fungsinya adalah untuk mengubah fi'il (kata kerja) yang mengikutinya menjadi *mashdar mu'awwal* (bentuk kata benda yang ditakwilkan dari fi'il), yang kemudian dapat menempati posisi i'rab tertentu dalam kalimat."
+      },
+      "hikmah": "Bersama dengan fi'il madhi `تَقَطَّعَ` setelahnya, membentuk makna 'terputusnya' atau 'hancurnya' hati sebagai kondisi pengecualian. Ini mengindikasikan bahwa pengecualian tersebut adalah suatu kejadian atau proses.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "تَقَطَّعَ",
+      "transliterasi": "taqaṭṭa'a",
+      "jenis_kata": "Fi'il",
+      "arti": "terputus, hancur, terkoyak",
+      "sharaf": {
+        "akar_kata": "ق ط ع (Q-Ṭ-'-)",
+        "makna_dasar": "memotong, memutuskan",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau) dari Bab V (تَفَعَّلَ - tafa''ala). Bentuk ini sering menunjukkan makna *mutawa'ah* (efek dari suatu perbuatan) atau *takalluf* (usaha keras). Dalam konteks ini, lebih ke 'menjadi terpotong/terputus' atau 'hancur'."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Madhi",
+        "irab_dan_logika": "Sebagai fi'il madhi, kata ini bersifat *mabni 'ala al-fath* (tetap dengan harakat fathah). Dalam konteks `أَن تَقَطَّعَ`, meskipun `أَن` biasanya menashabkan fi'il mudhari', di sini ia masuk pada fi'il madhi untuk membentuk *mashdar mu'awwal* yang berarti 'terputusnya' atau 'hancurnya'. *Mashdar mu'awwal* ini kemudian menempati posisi i'rab sebagai *mustatsna* (yang dikecualikan) dari keraguan."
+      },
+      "hikmah": "Menggambarkan kondisi ekstrem di mana hati menjadi hancur atau terputus-putus. Ini adalah metafora untuk hilangnya keraguan secara total, mungkin melalui kematian atau penyesalan yang mendalam hingga hati mereka 'hancur' karena penyesalan.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "قُلُوبُهُمْ",
+      "transliterasi": "qulūbuhum",
+      "jenis_kata": "Isim",
+      "arti": "hati-hati mereka",
+      "sharaf": {
+        "akar_kata": "ق ل ب (Q-L-B)",
+        "makna_dasar": "membalik, mengubah, hati",
+        "wazan_perubahan": "Bentuk jamak dari قَلْبٌ (qalb) yang berarti 'hati'."
+      },
+      "nahwu": {
+        "kedudukan": "Fa'il (subjek) dari fi'il `تَقَطَّعَ`",
+        "irab_dan_logika": "Kata ini berkedudukan sebagai *fa'il* (subjek) dari fi'il `تَقَطَّعَ`, sehingga ia berstatus *marfu'* (rafa'). Tanda rafa'nya adalah dhommah pada huruf ba (ب). Bagian `هُمْ` adalah *dhomir muttashil* (kata ganti sambung) yang berfungsi sebagai *mudhaf ilaih*, menunjukkan kepemilikan 'mereka'."
+      },
+      "hikmah": "Sama seperti `قُلُوبِهِمْ` sebelumnya, merujuk pada hati. Namun, di sini ia adalah subjek yang mengalami tindakan 'terputus/hancur', menekankan bahwa hati merekalah yang akan mengalami kehancuran tersebut sebagai syarat hilangnya keraguan.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "ۗ",
+      "transliterasi": "Waqf Laazim",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "Tanda berhenti sempurna (wajib)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk tanda waqaf",
+        "makna_dasar": "Tidak berlaku untuk tanda waqaf",
+        "wazan_perubahan": "Tidak berlaku untuk tanda waqaf"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf, bukan bagian dari struktur nahwu kalimat",
+        "irab_dan_logika": "Tidak memiliki i'rab karena bukan kata"
+      },
+      "hikmah": "Tanda ini mengindikasikan bahwa pembaca *wajib* berhenti di sini untuk menjaga kesempurnaan makna ayat. Melanjutkan bacaan tanpa berhenti dapat mengubah atau mengaburkan makna yang dimaksud.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "وَٱللَّهُ",
+      "transliterasi": "Wa-Allahu",
+      "jenis_kata": "Huruf (Waw) + Isim (Allah)",
+      "arti": "Dan Allah",
+      "sharaf": {
+        "akar_kata": "أ ل ه (untuk Allah)",
+        "makna_dasar": "Tuhan, yang disembah (untuk Allah); penghubung (untuk waw)",
+        "wazan_perubahan": "Isim Dzat (untuk Allah); Huruf 'Athaf (untuk waw)"
+      },
+      "nahwu": {
+        "kedudukan": "`وَ` (waw) adalah *huruf 'athaf* (penghubung) yang memulai kalimat baru atau menghubungkan dengan makna sebelumnya. `ٱللَّهُ` (Allah) adalah *mubtada'* (subjek) dari kalimat baru.",
+        "irab_dan_logika": "`ٱللَّهُ` *marfu'* dengan *dhammah* karena sebagai *mubtada'*. Huruf 'athaf `وَ` tidak memiliki i'rab."
+      },
+      "hikmah": "Penggunaan `وَٱللَّهُ` di sini menegaskan bahwa setelah penjelasan tentang kondisi hati orang-orang munafik, perhatian dialihkan kepada Allah sebagai Dzat yang Maha Mengetahui dan Maha Bijaksana, yang akan memutuskan segala urusan.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "عَلِيمٌ",
+      "transliterasi": "Alimun",
+      "jenis_kata": "Isim (Sifat Musyabbahah / Shighah Mubalaghah)",
+      "arti": "Maha Mengetahui",
+      "sharaf": {
+        "akar_kata": "ع ل م",
+        "makna_dasar": "Mengetahui, ilmu",
+        "wazan_perubahan": "فَعِيلٌ (fa'īlun), menunjukkan intensitas atau sifat yang melekat secara permanen."
+      },
+      "nahwu": {
+        "kedudukan": "*Khabar* (predikat) pertama dari *mubtada'* `ٱللَّهُ`.",
+        "irab_dan_logika": "*Marfu'* dengan *dhammah tanwin* karena sebagai *khabar* yang menjelaskan sifat dari *mubtada'* `ٱللَّهُ`."
+      },
+      "hikmah": "Sifat `عَلِيمٌ` menekankan bahwa Allah memiliki pengetahuan yang sempurna dan meliputi segala sesuatu, termasuk niat tersembunyi dan kondisi hati manusia yang penuh keraguan. Tidak ada yang luput dari pengetahuan-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "حَكِيمٌ",
+      "transliterasi": "Hakimun",
+      "jenis_kata": "Isim (Sifat Musyabbahah / Shighah Mubalaghah)",
+      "arti": "Maha Bijaksana",
+      "sharaf": {
+        "akar_kata": "ح ك م",
+        "makna_dasar": "Bijaksana, memutuskan, menghukumi",
+        "wazan_perubahan": "فَعِيلٌ (fa'īlun), menunjukkan intensitas atau sifat yang melekat secara permanen."
+      },
+      "nahwu": {
+        "kedudukan": "*Khabar* kedua dari *mubtada'* `ٱللَّهُ`, atau bisa juga dianggap sebagai *na'at* (sifat) dari `ٱللَّهُ` yang mengikuti *khabar* pertama.",
+        "irab_dan_logika": "*Marfu'* dengan *dhammah tanwin* karena sebagai *khabar* kedua yang menjelaskan sifat lain dari *mubtada'* `ٱللَّهُ`."
+      },
+      "hikmah": "Sifat `حَكِيمٌ` menegaskan bahwa setiap tindakan, keputusan, dan ketetapan Allah didasari oleh hikmah yang mendalam dan sempurna. Ini berarti bahwa segala konsekuensi dari perbuatan manusia, termasuk keraguan di hati mereka, adalah bagian dari rencana dan kebijaksanaan ilahi yang tak terjangkau.",
+      "role": "none"
+    }
+  ]
+}

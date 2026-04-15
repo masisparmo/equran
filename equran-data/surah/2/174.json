@@ -1,0 +1,546 @@
+{
+  "surah": 2,
+  "ayah": 174,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "إِنَّ",
+      "transliterasi": "inna",
+      "jenis_kata": "Huruf",
+      "arti": "sesungguhnya",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "حرف توكيد ونصب في بداية الجملة",
+        "irab_dan_logika": "حرف نصب يسبب نصب الاسم التالي لأنه من حروف النصب"
+      },
+      "hikmah": "Menegaskan kebenaran pernyataan yang akan diikuti",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "ٱلَّذِينَ",
+      "transliterasi": "alladhīna",
+      "jenis_kata": "Isim",
+      "arti": "mereka yang",
+      "sharaf": {
+        "akar_kata": "ذ-و-ن",
+        "makna_dasar": "yang memiliki, yang berhubungan",
+        "wazan_perubahan": "اسم موصول مبني على الفعل ذو"
+      },
+      "nahwu": {
+        "kedudukan": "اسم إنّ منصوب",
+        "irab_dan_logika": "منصوب بالفتحة الظاهرة لأنّ حرف نصب"
+      },
+      "hikmah": "Merujuk kepada kelompok orang yang menyembunyikan wahyu",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "يَكْتُمُونَ",
+      "transliterasi": "yaktumūna",
+      "jenis_kata": "Fi'il",
+      "arti": "menyembunyikan",
+      "sharaf": {
+        "akar_kata": "ك-ت-م",
+        "makna_dasar": "menutup, menyembunyikan",
+        "wazan_perubahan": "فعل مضارع مرفوع بالضمة"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع (خبر إنّ)",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فعل مضارع مرفوع بالضمة الظاهرة"
+      },
+      "hikmah": "Menunjukkan tindakan menutup apa yang telah diturunkan",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "مَآ",
+      "transliterasi": "mā",
+      "jenis_kata": "Isim",
+      "arti": "apa",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "اسم موصول في محل نصب مفعول به للفعل يكتُمون",
+        "irab_dan_logika": "منصوب لأنه مفعول به"
+      },
+      "hikmah": "Menunjuk kepada apa yang diturunkan Allah",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "أَنزَلَ",
+      "transliterasi": "anzala",
+      "jenis_kata": "Fi'il",
+      "arti": "menurunkan",
+      "sharaf": {
+        "akar_kata": "ن-ز-ل",
+        "makna_dasar": "turun, menurunkan",
+        "wazan_perubahan": "فعل ماضٍ ثلاثي مجرد"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ماضٍ مبني على الفتح",
+        "irab_dan_logika": "مبني على الفتح لأنه فعل ماضٍ"
+      },
+      "hikmah": "Menyatakan bahwa Allah menurunkan Kitab",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "ٱللَّهُ",
+      "transliterasi": "Allāhu",
+      "jenis_kata": "Isim",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "أ-ل-ه",
+        "makna_dasar": "Tuhan, dewa",
+        "wazan_perubahan": "اسم علم مرفوع بالضمة"
+      },
+      "nahwu": {
+        "kedudukan": "فاعل للفعل أنزل",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فاعل"
+      },
+      "hikmah": "Menegaskan bahwa yang menurunkan adalah Allah sendiri",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "مِنَ",
+      "transliterasi": "mina",
+      "jenis_kata": "Huruf",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku (huruf)",
+        "makna_dasar": "Tidak berlaku (huruf)",
+        "wazan_perubahan": "Tidak berlaku (huruf)"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Jar",
+        "irab_dan_logika": "Huruf jar yang berfungsi untuk mengawali isim majrur. Dalam konteks ini, ia mengawali \"ٱلْكِتَٰبِ\" (Al-Kitab) yang menjadikannya majrur."
+      },
+      "hikmah": "Huruf \"مِنَ\" (mina) di sini menunjukkan permulaan atau bagian dari sesuatu, yaitu \"apa yang telah diturunkan Allah\" yang secara spesifik adalah \"Al-Kitab\". Ini menekankan bahwa penyembunyian itu terjadi pada sebagian atau seluruh isi Kitab.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "ٱلْكِتَٰبِ",
+      "transliterasi": "al-Kitāb",
+      "jenis_kata": "Isim",
+      "arti": "Kitab",
+      "sharaf": {
+        "akar_kata": "ك-ت-ب (k-t-b)",
+        "makna_dasar": "Menulis, mencatat",
+        "wazan_perubahan": "Isim (kata benda) dari akar kata, dengan imbuhan alif lam (ال) sebagai penanda definitif."
+      },
+      "nahwu": {
+        "kedudukan": "Isim Majrur",
+        "irab_dan_logika": "Majrur karena didahului oleh huruf jar \"مِنَ\". Tanda jarnya adalah kasrah pada huruf ba (بِ)."
+      },
+      "hikmah": "\"ٱلْكِتَٰبِ\" (Al-Kitab) merujuk pada wahyu Allah yang diturunkan, khususnya Taurat dan Injil yang berisi kabar gembira tentang kedatangan Nabi Muhammad ﷺ. Penyembunyian Kitab ini adalah tindakan serius karena menghalangi kebenaran dan petunjuk Allah.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "وَيَشْتَرُونَ",
+      "transliterasi": "wa yashtarūna",
+      "jenis_kata": "Fi'il Mudhari'",
+      "arti": "dan mereka membeli",
+      "sharaf": {
+        "akar_kata": "ش-ر-ي (sh-r-y)",
+        "makna_dasar": "Membeli, menjual (dalam konteks tertentu bisa berarti menukar)",
+        "wazan_perubahan": "Fi'il Mudhari' (kata kerja sekarang/akan datang) dari Bab Iftia'al (افتعل) dengan dhamir hum (mereka)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Marfu'",
+        "irab_dan_logika": "Marfu' karena tidak didahului oleh amil nashab atau jazm. Tanda rafa'nya adalah tetapnya nun (ثبوت النون) karena termasuk Af'alul Khamsah (lima kata kerja). Huruf wawu (و) adalah fa'il (subjek) yang kembali kepada \"orang-orang yang menyembunyikan\"."
+      },
+      "hikmah": "Kata \"وَيَشْتَرُونَ\" (wa yashtarūna) di sini memiliki makna kiasan. Mereka \"membeli\" atau menukar kebenaran Al-Kitab dengan \"harga yang sedikit\" (keuntungan duniawi, jabatan, atau pujian manusia). Ini menunjukkan bahwa mereka lebih mengutamakan hal-hal fana daripada petunjuk Allah yang abadi.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "بِهِۦ",
+      "transliterasi": "bihī",
+      "jenis_kata": "Huruf + Isim Dhamir",
+      "arti": "dengannya",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk huruf, dhamir adalah isim mabni.",
+        "makna_dasar": "Tidak berlaku untuk huruf, dhamir adalah kata ganti.",
+        "wazan_perubahan": "Huruf jar \"بِ\" (bi) digabungkan dengan dhamir muttasil \"هُ\" (hu) yang berubah menjadi \"هِۦ\" (hī) karena didahului kasrah."
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Jar + Isim Majrur",
+        "irab_dan_logika": "Huruf jar \"بِ\" (bi) menjadikan dhamir \"هُ\" (hu) sebagai isim majrur. Dhamir \"هُ\" (hu) adalah dhamir muttasil mabni (tetap) dalam posisi jar. Dhamir ini merujuk kembali kepada \"apa yang telah diturunkan Allah, yaitu Al-Kitab\"."
+      },
+      "hikmah": "\"بِهِۦ\" (bihī) menunjukkan bahwa \"pembelian\" atau penukaran itu dilakukan *dengan* Kitab itu sendiri. Artinya, Kitab itu dijadikan alat atau objek untuk mendapatkan keuntungan duniawi, bukan sebagai sumber petunjuk yang harus dijaga dan disampaikan.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "ثَمَنًۭا",
+      "transliterasi": "thamanā",
+      "jenis_kata": "Isim",
+      "arti": "harga",
+      "sharaf": {
+        "akar_kata": "ث-م-ن (th-m-n)",
+        "makna_dasar": "Harga, nilai",
+        "wazan_perubahan": "Isim (kata benda) dari akar kata."
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul Bih (Objek)",
+        "irab_dan_logika": "Nashab karena menjadi maf'ul bih dari fi'il \"وَيَشْتَرُونَ\". Tanda nashabnya adalah fathatain (tanwin fathah) pada huruf nun (نً)."
+      },
+      "hikmah": "\"ثَمَنًۭا\" (thamanā) adalah objek dari tindakan \"membeli\". Ini secara eksplisit menyatakan bahwa mereka menukar kebenaran dengan \"harga\". Kata ini mempersiapkan untuk sifat \"qālīlan\" (sedikit) yang akan datang, menekankan betapa rendahnya nilai yang mereka pilih.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "قَلِيلًا",
+      "transliterasi": "qalīlā",
+      "jenis_kata": "Sifat (Na'at)",
+      "arti": "sedikit",
+      "sharaf": {
+        "akar_kata": "ق-ل-ل (q-l-l)",
+        "makna_dasar": "Sedikit, berkurang",
+        "wazan_perubahan": "Sifat (isim sifat) dari akar kata, mengikuti wazan فَعِيل (fa'īl)."
+      },
+      "nahwu": {
+        "kedudukan": "Na'at (Sifat)",
+        "irab_dan_logika": "Nashab karena menjadi sifat (na'at) dari \"ثَمَنًۭا\" (thamanā) yang juga nashab. Sifat harus mengikuti maushuf (yang disifati) dalam i'rab, jenis, jumlah, dan makrifat/nakirah. Tanda nashabnya adalah fathatain (tanwin fathah) pada huruf lam (لً)."
+      },
+      "hikmah": "\"قَلِيلًا\" (qalīlā) adalah penegas bahwa harga yang mereka dapatkan sebagai ganti kebenaran Al-Kitab adalah sangat sedikit dan tidak sebanding. Ini menunjukkan kebodohan dan kerugian besar mereka, karena menukar kebahagiaan abadi dengan kenikmatan duniawi yang fana dan remeh.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "ۙ",
+      "transliterasi": "Waqaf Lāzim",
+      "jenis_kata": "Tanda Baca (Waqaf)",
+      "arti": "Tanda berhenti sempurna",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "Tanda berhenti yang wajib atau sangat dianjurkan dalam bacaan Al-Qur'an.",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf (berhenti)",
+        "irab_dan_logika": "Tidak memiliki kedudukan i'rab. Fungsinya adalah sebagai petunjuk tajwid untuk berhenti membaca pada titik ini guna menjaga kesempurnaan makna ayat."
+      },
+      "hikmah": "Tanda waqaf ini menandakan akhir dari satu klausa atau bagian kalimat yang memiliki makna lengkap, memungkinkan pembaca untuk mengambil napas dan memahami makna yang telah disampaikan sebelum melanjutkan ke bagian berikutnya. Ini adalah bagian dari seni bacaan Al-Qur'an (tajwid) yang membantu dalam pemahaman dan penghayatan ayat.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "أُو۟لَٰٓئِكَ",
+      "transliterasi": "Ulā'ika",
+      "jenis_kata": "Isim (Isim Isyarah/Kata Tunjuk)",
+      "arti": "Mereka itu, itulah",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "Menunjuk pada sesuatu yang jauh atau sekelompok orang.",
+        "wazan_perubahan": "Isim isyarah mabni (tetap)"
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada' (subjek kalimat)",
+        "irab_dan_logika": "Isim isyarah (kata tunjuk) yang mabni (tetap) di atas kasrah pada huruf terakhir (kaf) dalam posisi rafa' (marfu') sebagai mubtada'. Ia menunjuk kembali kepada 'الَّذِينَ يَكْتُمُونَ مَا أَنزَلَ اللَّهُ' (orang-orang yang menyembunyikan apa yang diturunkan Allah)."
+      },
+      "hikmah": "Kata ini berfungsi sebagai penunjuk yang kuat, mengalihkan fokus kepada kelompok orang yang telah disebutkan sebelumnya (yaitu, mereka yang menyembunyikan kebenaran dan menjualnya dengan harga murah). Ini menegaskan bahwa hukuman yang akan datang adalah khusus bagi mereka, menyoroti identitas pelaku kejahatan tersebut dan membedakan mereka dari orang lain.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "مَا",
+      "transliterasi": "Mā",
+      "jenis_kata": "Huruf (Nafiyah/Penafian)",
+      "arti": "Tidak, bukan",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "Penafian, negasi.",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Nafi (penafian)",
+        "irab_dan_logika": "Huruf yang mabni (tetap) di atas sukun, tidak memiliki kedudukan i'rab. Fungsinya adalah menafikan atau meniadakan perbuatan yang mengikutinya. Di sini, ia menafikan perbuatan 'يَأْكُلُونَ' (mereka makan)."
+      },
+      "hikmah": "Penggunaan 'مَا' di sini sangat penting untuk menegaskan penafian. Ini bukan sekadar 'mereka tidak makan', tetapi lebih dalam, 'mereka *sama sekali tidak* makan'. Ini menekankan bahwa apa yang mereka masukkan ke dalam perut mereka bukanlah makanan yang menyehatkan, melainkan sesuatu yang merusak dan membakar, yaitu api neraka, sebagai balasan atas perbuatan mereka.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "يَأْكُلُونَ",
+      "transliterasi": "Ya'kulūna",
+      "jenis_kata": "Fi'il (Kata Kerja)",
+      "arti": "Mereka makan, mereka menelan",
+      "sharaf": {
+        "akar_kata": "أ-ك-ل (A-K-L)",
+        "makna_dasar": "Makan, mengonsumsi, menelan.",
+        "wazan_perubahan": "Fi'il Mudhari' (Kata Kerja Masa Kini/Akan Datang), wazan أَكَلَ - يَأْكُلُ. Bentuk jamak mudzakkar ghaib (mereka laki-laki)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' (Kata Kerja Masa Kini/Akan Datang)",
+        "irab_dan_logika": "Fi'il Mudhari' marfu' (rafa') karena tidak didahului oleh amil nashab (penashab) atau amil jazm (penjazm). Tanda rafa'nya adalah tetapnya huruf nun (ثبوت النون) karena termasuk Af'alul Khamsah (lima fi'il). Fa'il (subjek) dari fi'il ini adalah wawu al-jama'ah (و) yang kembali kepada 'أُو۟لَٰٓئِكَ' (mereka itu)."
+      },
+      "hikmah": "Kata kerja ini secara harfiah berarti 'mereka makan', namun dalam konteks ayat ini, ia memiliki makna metaforis yang sangat kuat. Ini bukan tentang makanan fisik, melainkan tentang konsekuensi dari perbuatan mereka. Dengan menyembunyikan kebenaran dan mengambil keuntungan darinya, mereka *seolah-olah* mengisi perut mereka dengan api, yang melambangkan azab pedih dan kehancuran abadi di akhirat.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "فِى",
+      "transliterasi": "Fī",
+      "jenis_kata": "Huruf (Huruf Jar)",
+      "arti": "Di dalam, pada, di",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "Menunjukkan tempat, wadah, atau konteks.",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Jar (Preposisi)",
+        "irab_dan_logika": "Huruf yang mabni (tetap) di atas sukun, tidak memiliki kedudukan i'rab. Fungsinya adalah menjarkan (meng-kasrah-kan) isim yang datang setelahnya. Di sini, ia menjarkan 'بُطُونِهِمْ' (perut mereka)."
+      },
+      "hikmah": "Huruf 'فِى' ini sangat penting untuk menunjukkan lokasi atau wadah dari perbuatan 'makan'. Ini menegaskan bahwa api yang mereka 'makan' itu bukan hanya membakar dari luar, tetapi masuk dan membakar *di dalam* perut mereka, menunjukkan azab yang sangat personal, internal, dan menghancurkan dari dalam diri mereka sendiri.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "بُطُونِهِمْ",
+      "transliterasi": "Buṭūnihim",
+      "jenis_kata": "Isim (Kata Benda)",
+      "arti": "Perut-perut mereka, isi perut mereka",
+      "sharaf": {
+        "akar_kata": "ب-ط-ن (B-Ṭ-N)",
+        "makna_dasar": "Perut, bagian dalam, tersembunyi.",
+        "wazan_perubahan": "Bentuk jamak dari بَطْنٌ (baṭnun - perut)."
+      },
+      "nahwu": {
+        "kedudukan": "Isim Majrur (Kata Benda yang Dijarkan)",
+        "irab_dan_logika": "Isim majrur (dijarkan) oleh huruf jar 'فِى'. Tanda jarnya adalah kasrah pada huruf nun (ن) dari 'بُطُونِ'. Kata ini juga merupakan mudhaf (yang disandarkan), dan 'هِمْ' (him) adalah mudhaf ilaih (yang disandari), yaitu dhamir (kata ganti) jamak ghaib yang mabni di atas sukun dalam posisi jar."
+      },
+      "hikmah": "Kata ini secara spesifik merujuk pada 'perut mereka', yang merupakan pusat pencernaan dan asupan. Dengan menyebut 'perut', Al-Qur'an menggambarkan azab yang sangat langsung dan internal. Ini bukan hanya hukuman eksternal, tetapi sesuatu yang merusak dari dalam diri mereka sendiri, sebagai konsekuensi dari tindakan mereka yang menyembunyikan kebenaran demi keuntungan duniawi. Ini adalah gambaran yang mengerikan tentang bagaimana perbuatan buruk dapat meracuni dan menghancurkan diri sendiri.",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "إِلَّا",
+      "transliterasi": "Illā",
+      "jenis_kata": "Huruf",
+      "arti": "Kecuali, melainkan",
+      "sharaf": {
+        "akar_kata": "Tidak ada (huruf)",
+        "makna_dasar": "Pembatasan, pengecualian",
+        "wazan_perubahan": "Tidak ada (huruf)"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf istitsna' (pengecualian)",
+        "irab_dan_logika": "Huruf mabni (tetap) tidak memiliki kedudukan i'rab. Berfungsi membatasi makna sebelumnya, menegaskan bahwa tidak ada yang mereka makan selain api."
+      },
+      "hikmah": "Kata ini berfungsi sebagai penegas dan pembatas. Ia menekankan bahwa tidak ada yang mereka masukkan ke dalam perut mereka melainkan api neraka, menunjukkan kepastian balasan dan kekejaman siksaan bagi mereka yang menyembunyikan kebenaran demi keuntungan duniawi.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "ٱلنَّارَ",
+      "transliterasi": "An-Nāra",
+      "jenis_kata": "Isim",
+      "arti": "Api",
+      "sharaf": {
+        "akar_kata": "ن و ر (n-w-r)",
+        "makna_dasar": "Cahaya, menerangi, membakar",
+        "wazan_perubahan": "Isim (kata benda)"
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul bih (objek) dari fi'il yang tersembunyi (يأكلون - mereka makan) atau sebagai mustatsna (yang dikecualikan) dari dhamir (mereka) dalam konteks 'tidak memakan kecuali api'.",
+        "irab_dan_logika": "Manshub (berharakat fathah) karena menjadi maf'ul bih atau mustatsna. Harakat fathah pada huruf ra (ر) menunjukkan nashab."
+      },
+      "hikmah": "Secara harfiah berarti api, dalam konteks ayat ini merujuk pada api neraka. Ini adalah metafora yang kuat, menunjukkan bahwa harta haram yang mereka peroleh dengan menyembunyikan kebenaran itu sesungguhnya adalah bahan bakar yang akan membakar mereka di akhirat. Ini adalah gambaran siksaan yang pedih dan membakar.",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "وَلَا",
+      "transliterasi": "Wa lā",
+      "jenis_kata": "Huruf",
+      "arti": "Dan tidak",
+      "sharaf": {
+        "akar_kata": "Tidak ada (huruf)",
+        "makna_dasar": "Penghubung dan penafian",
+        "wazan_perubahan": "Tidak ada (huruf)"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf 'athaf (penghubung) dan huruf nafi (penafian)",
+        "irab_dan_logika": "Huruf mabni (tetap) tidak memiliki kedudukan i'rab. Huruf wawu (و) berfungsi menghubungkan kalimat sebelumnya dengan kalimat ini, menunjukkan penambahan hukuman. Huruf la (لا) menafikan atau meniadakan perbuatan setelahnya."
+      },
+      "hikmah": "Gabungan huruf wawu dan la ini menunjukkan penambahan dimensi hukuman. Setelah disebutkan siksaan api, Allah menambahkan bahwa Dia tidak akan berbicara kepada mereka, yang merupakan bentuk penghinaan dan pemutusan rahmat yang sangat berat di Hari Kiamat.",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "يُكَلِّمُهُمُ",
+      "transliterasi": "Yukallimuhumu",
+      "jenis_kata": "Fi'il",
+      "arti": "Dia akan berbicara kepada mereka",
+      "sharaf": {
+        "akar_kata": "ك ل م (k-l-m)",
+        "makna_dasar": "Berbicara, berkata-kata",
+        "wazan_perubahan": "Fi'il Mudhari' (kata kerja sekarang/akan datang) dari Bab Taf'il (فَعَّلَ - يُفَعِّلُ). Bentuk aktif (ma'lum)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' marfu' (diangkat) karena tidak didahului oleh amil nashab atau jazm. Dhamir هُمُ (mereka) adalah maf'ul bih (objek) yang manshub.",
+        "irab_dan_logika": "Fi'il Mudhari' marfu' dengan dhammah yang tersembunyi (karena bersambung dengan dhamir). Huruf mim (م) pada يُكَلِّمُ adalah akhir fi'il. Dhamir هُمُ berharakat dhammah pada huruf mim (مُ) karena bertemu sukun pada huruf berikutnya (ٱللَّهُ), sehingga diubah menjadi dhammah untuk menghindari pertemuan dua sukun (kaidah iltiza' as-sakinain)."
+      },
+      "hikmah": "Kata ini menggambarkan penolakan Allah untuk berinteraksi dengan orang-orang yang menyembunyikan kebenaran. Ini bukan sekadar tidak berbicara, melainkan sebuah bentuk penghinaan dan pemutusan rahmat yang sangat mendalam. Di Hari Kiamat, berbicara dengan Allah adalah kehormatan, dan penolakan ini adalah siksaan psikologis yang berat, menunjukkan kemurkaan Allah yang luar biasa.",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "ٱللَّهُ",
+      "transliterasi": "Allāhu",
+      "jenis_kata": "Isim",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "أ ل ه (a-l-h)",
+        "makna_dasar": "Tuhan, yang disembah",
+        "wazan_perubahan": "Isim Jalaalah (nama agung Allah)"
+      },
+      "nahwu": {
+        "kedudukan": "Fa'il (subjek) dari fi'il يُكَلِّمُهُمُ.",
+        "irab_dan_logika": "Marfu' (berharakat dhammah) karena menjadi fa'il. Harakat dhammah pada huruf ha (ه) menunjukkan rafa'."
+      },
+      "hikmah": "Penyebutan nama Allah secara eksplisit sebagai subjek yang tidak akan berbicara dan mensucikan mereka, menegaskan betapa besar kemurkaan-Nya. Ini bukan sekadar hukuman dari pihak lain, melainkan langsung dari Zat Yang Maha Agung, menunjukkan betapa serius dosa menyembunyikan kebenaran dan menjualnya dengan harga murah di mata Allah.",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "يَوْمَ",
+      "transliterasi": "Yawma",
+      "jenis_kata": "Isim",
+      "arti": "Hari",
+      "sharaf": {
+        "akar_kata": "ي و م (y-w-m)",
+        "makna_dasar": "Waktu, periode",
+        "wazan_perubahan": "Isim zaman (kata benda penunjuk waktu)"
+      },
+      "nahwu": {
+        "kedudukan": "Zharf zaman (keterangan waktu)",
+        "irab_dan_logika": "Manshub (berharakat fathah) karena menjadi zharf zaman. Harakat fathah pada huruf mim (م) menunjukkan nashab."
+      },
+      "hikmah": "Kata 'hari' di sini merujuk pada Hari Kiamat. Ini menentukan waktu terjadinya hukuman dan penolakan Allah tersebut. Penekanan pada 'Hari Kiamat' menunjukkan bahwa balasan ini adalah pasti dan akan terjadi di akhirat, bukan di dunia. Ini memberikan peringatan keras bahwa meskipun mereka mungkin lolos di dunia, balasan di akhirat tidak dapat dihindari.",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "ٱلْقِيَٰمَةِ",
+      "transliterasi": "al-Qiyāmah",
+      "jenis_kata": "Isim",
+      "arti": "Hari Kiamat",
+      "sharaf": {
+        "akar_kata": "ق و م (Q-W-M)",
+        "makna_dasar": "Berdiri, bangkit, tegak",
+        "wazan_perubahan": "Isim Marrah (bentuk yang menunjukkan sekali kejadian atau waktu) dari fi'il قام (qāma) - berdiri. Bentuk قيامة (qiyāmah) secara spesifik merujuk pada 'kebangkitan' atau 'hari kebangkitan'."
+      },
+      "nahwu": {
+        "kedudukan": "Majrur sebagai mudhaf ilaih",
+        "irab_dan_logika": "Berharakat kasrah (ِ) karena merupakan mudhaf ilaih dari kata 'يَوْمَ' (yauma - hari) yang tersirat dari konteks 'pada hari kiamat'. Dalam ayat ini, 'يَوْمَ' adalah zharaf zaman (keterangan waktu) yang manshub, dan 'ٱلْقِيَٰمَةِ' adalah mudhaf ilaih dari 'يَوْمَ', sehingga majrur."
+      },
+      "hikmah": "Kata ini merujuk pada hari kebangkitan setelah kematian, di mana semua makhluk akan berdiri di hadapan Allah untuk dihisab. Ini adalah hari penentuan nasib akhir, yang menekankan keadilan ilahi dan pertanggungjawaban atas perbuatan di dunia.",
+      "role": "none"
+    },
+    {
+      "index": 25,
+      "kata_arab": "وَلَا",
+      "transliterasi": "wa-lā",
+      "jenis_kata": "Huruf",
+      "arti": "Dan tidak",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk huruf",
+        "makna_dasar": "Tidak berlaku untuk huruf",
+        "wazan_perubahan": "Tidak berlaku untuk huruf"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf 'athaf (penyambung) dan huruf nafi (penafian)",
+        "irab_dan_logika": "Huruf tidak memiliki i'rab. 'و' (wa) berfungsi sebagai 'athaf yang menyambungkan kalimat sebelumnya ('Allah tidak akan berbicara kepada mereka') dengan kalimat sesudahnya ('dan tidak mensucikan mereka'). 'لَا' (lā) adalah huruf nafi yang menafikan perbuatan (mensucikan)."
+      },
+      "hikmah": "Kombinasi ini menegaskan penafian terhadap suatu tindakan atau keadaan, sekaligus menghubungkannya dengan penafian sebelumnya. Dalam konteks ayat, ini berarti 'dan juga tidak' akan terjadi penyucian bagi mereka, menunjukkan penolakan total dari rahmat Allah.",
+      "role": "none"
+    },
+    {
+      "index": 26,
+      "kata_arab": "يُزَكِّيهِمْ",
+      "transliterasi": "yuzakkīhim",
+      "jenis_kata": "Fi'il",
+      "arti": "Dia mensucikan mereka",
+      "sharaf": {
+        "akar_kata": "ز ك و (Z-K-W)",
+        "makna_dasar": "Bersih, suci, tumbuh, berkembang",
+        "wazan_perubahan": "Fi'il Mudhari' (kata kerja sekarang/akan datang) dari Bab Taf'il (فَعَّلَ - يُفَعِّلُ). Bentuk يُزَكِّي (yuzakkī) berarti 'mensucikan' atau 'membersihkan'. Akhiran '-him' (هِمْ) adalah dhamir muttashil (kata ganti objek) yang berarti 'mereka'."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Marfu' (dhamir mustatir هو sebagai fa'il) dan dhamir هِمْ sebagai maf'ul bih",
+        "irab_dan_logika": "Fi'il Mudhari' ini marfu' karena tidak didahului oleh amil nashab atau jazm. Tanda rafa'nya adalah dhammah muqaddarah (tersembunyi) di atas ya' (ي) karena beratnya pengucapan. Fa'ilnya (subjek) adalah dhamir mustatir (tersembunyi) 'هو' (Dia/Allah). 'هِمْ' (mereka) adalah dhamir muttashil yang berkedudukan sebagai maf'ul bih (objek) dan mabniyyun 'ala as-sukūn (tetap sukun)."
+      },
+      "hikmah": "Allah tidak akan membersihkan atau mensucikan mereka dari dosa-dosa mereka. Ini berarti mereka tidak akan mendapatkan ampunan atau penyucian batin yang akan membawa mereka ke surga, melainkan akan tetap dalam keadaan kotoran dosa mereka, menunjukkan murka Allah atas perbuatan mereka.",
+      "role": "none"
+    },
+    {
+      "index": 27,
+      "kata_arab": "وَلَهُمْ",
+      "transliterasi": "wa-lahum",
+      "jenis_kata": "Huruf dan Isim Dhamir",
+      "arti": "Dan bagi mereka",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk huruf dan dhamir",
+        "makna_dasar": "Tidak berlaku untuk huruf dan dhamir",
+        "wazan_perubahan": "Tidak berlaku untuk huruf dan dhamir"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf 'athaf dan Jar Majrur (khabar muqaddam)",
+        "irab_dan_logika": "و' (wa) adalah huruf 'athaf yang menyambungkan kalimat ini dengan kalimat sebelumnya. 'لَ' (la) adalah huruf jar yang berarti 'bagi' atau 'untuk'. 'هُمْ' (hum) adalah dhamir muttashil yang berkedudukan sebagai majrur oleh huruf jar 'لَ'. Gabungan 'لَهُمْ' (lahum) membentuk syibhul jumlah (frasa شبه جملة) yang berkedudukan sebagai khabar muqaddam (predikat yang didahulukan)."
+      },
+      "hikmah": "Frasa ini memperkenalkan konsekuensi atau balasan lain yang akan menimpa mereka, yaitu siksaan yang pedih. Penempatan 'bagi mereka' di awal memberikan penekanan pada kepemilikan atau kekhususan siksaan tersebut bagi mereka, sebagai balasan yang setimpal atas perbuatan mereka.",
+      "role": "none"
+    },
+    {
+      "index": 28,
+      "kata_arab": "عَذَابٌ",
+      "transliterasi": "adhāb",
+      "jenis_kata": "Isim",
+      "arti": "Siksaan, azab",
+      "sharaf": {
+        "akar_kata": "ع ذ ب ('A-DH-B)",
+        "makna_dasar": "Menahan, mencegah, menyiksa",
+        "wazan_perubahan": "Isim Masdar (kata benda verbal) dari fi'il عذب ('adzaba) - menyiksa."
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada' mu'akhkhar (subjek yang diakhirkan)",
+        "irab_dan_logika": "Marfu' (berharakat dhammah tanwin - ٌ) karena merupakan mubtada' mu'akhkhar. Mubtada' diakhirkan karena khabar-nya (yaitu 'لَهُمْ') berbentuk syibhul jumlah (jar majrur)."
+      },
+      "hikmah": "Ini adalah bentuk hukuman atau penderitaan yang akan ditimpakan kepada mereka. Kata ini secara umum merujuk pada siksaan fisik maupun mental, yang merupakan konsekuensi langsung dari perbuatan menyembunyikan kebenaran dan menjualnya dengan harga murah.",
+      "role": "none"
+    },
+    {
+      "index": 29,
+      "kata_arab": "أَلِيمٌ",
+      "transliterasi": "alīm",
+      "jenis_kata": "Isim Sifat",
+      "arti": "Pedih, menyakitkan",
+      "sharaf": {
+        "akar_kata": "أ ل م (A-L-M)",
+        "makna_dasar": "Sakit, nyeri",
+        "wazan_perubahan": "Isim Sifat Musyabbahah (kata sifat yang menyerupai isim fa'il) dari fi'il أَلِمَ (alima) - merasa sakit. Wazan فَعِيل (fa'īl) menunjukkan sifat yang melekat atau intensitas."
+      },
+      "nahwu": {
+        "kedudukan": "Na'at (kata sifat) dari عَذَابٌ",
+        "irab_dan_logika": "Marfu' (berharakat dhammah tanwin - ٌ) karena mengikuti ma'nūt (kata yang disifati) yaitu 'عَذَابٌ' yang juga marfu'. Sifat harus sesuai dengan yang disifati dalam i'rab, jenis, jumlah, dan ma'rifah/nakirah."
+      },
+      "hikmah": "Kata ini menekankan intensitas dan keparahan siksaan yang akan mereka alami. Ini bukan sekadar siksaan biasa, melainkan siksaan yang sangat menyakitkan dan mendalam, baik secara fisik maupun emosional, yang menggambarkan betapa beratnya hukuman bagi orang-orang yang menyembunyikan kebenaran.",
+      "role": "none"
+    }
+  ]
+}

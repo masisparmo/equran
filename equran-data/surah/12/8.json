@@ -1,0 +1,276 @@
+{
+  "surah": 12,
+  "ayah": 8,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "إِذْ",
+      "transliterasi": "idh",
+      "jenis_kata": "Huruf",
+      "arti": "ketika",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "ketika",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "kata penghubung (huruf maushul) yang mengawali ayat",
+        "irab_dan_logika": "berharakat sukun karena huruf maushul tidak berinfleksi"
+      },
+      "hikmah": "menunjukkan waktu terjadinya peristiwa yang diceritakan",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "قَالُوا۟",
+      "transliterasi": "qālū",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka berkata",
+      "sharaf": {
+        "akar_kata": "ق و ل",
+        "makna_dasar": "kata",
+        "wazan_perubahan": "fa'ala (past tense)"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il madhi (kata kerja) setelah إِذْ, menjadi predikat ucapan",
+        "irab_dan_logika": "marfu' dengan dammah karena fi'il madhi berakhir dengan alif waw"
+      },
+      "hikmah": "menyatakan ucapan mereka mengenai rasa kecemburuan",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "لَيُوسُفُ",
+      "transliterasi": "layūsufu",
+      "jenis_kata": "Isim",
+      "arti": "sesungguhnya Yusuf",
+      "sharaf": {
+        "akar_kata": "ي س ف",
+        "makna_dasar": "Yusuf (nama pribadi)",
+        "wazan_perubahan": "isim mudhaf (nama)"
+      },
+      "nahwu": {
+        "kedudukan": "isim marfu' sebagai subjek dalam predikat أَحَبُّ",
+        "irab_dan_logika": "marfu' dengan dammah karena menjadi khabar (predikat) dalam nominal sentence"
+      },
+      "hikmah": "menegaskan bahwa Yusuf termasuk orang yang lebih dicintai",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "وَأَخُوهُ",
+      "transliterasi": "wa-akhūhu",
+      "jenis_kata": "Isim",
+      "arti": "dan saudara laki‑lakinya",
+      "sharaf": {
+        "akar_kata": "أ خ ر",
+        "makna_dasar": "saudara",
+        "wazan_perubahan": "isim mudhaf (mudhaf‑ilaih)"
+      },
+      "nahwu": {
+        "kedudukan": "isim marfu' yang dikoordinasikan dengan لَيُوسُفُ",
+        "irab_dan_logika": "marfu' dengan dammah karena menjadi bagian dari subjek"
+      },
+      "hikmah": "menambahkan bahwa Bunyamin juga termasuk yang lebih dicintai",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "أَحَبُّ",
+      "transliterasi": "aḥabbu",
+      "jenis_kata": "Isim",
+      "arti": "lebih dicintai",
+      "sharaf": {
+        "akar_kata": "ح ب ب",
+        "makna_dasar": "cinta",
+        "wazan_perubahan": "af‘al (elatif)"
+      },
+      "nahwu": {
+        "kedudukan": "khabar (predikat) dalam nominal sentence",
+        "irab_dan_logika": "marfu' dengan dammah karena menjadi khabar"
+      },
+      "hikmah": "menunjukkan kelebihan kasih sayang ayah kepada Yusuf dan saudaranya",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "إِلَىٰٓ",
+      "transliterasi": "ilā",
+      "jenis_kata": "Huruf",
+      "arti": "kepada",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "ke arah",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar yang menghubungkan أَحَبُّ dengan إِلَىٰٓ",
+        "irab_dan_logika": "menyebabkan isim setelahnya (الْفِرْعَوْنِ) menjadi majrur"
+      },
+      "hikmah": "menandakan arah atau tujuan kasih sayang ayah yang jelas",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "أَبِينَا",
+      "transliterasi": "abīnā",
+      "jenis_kata": "Isim (noun)",
+      "arti": "ayah kita",
+      "sharaf": {
+        "akar_kata": "أ ب",
+        "makna_dasar": "ayah",
+        "wazan_perubahan": "أَبٌ + نَا (penambahan ضمير kepemilikan \"kita\")"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به (objek) dari kata أَحَبَّ",
+        "irab_dan_logika": "منصوب بالفتحة لأن الفعل المقارن أَحَبَّ يجرّ مفعولًا به منصوبًا"
+      },
+      "hikmah": "Menunjukkan rasa cemburu bahwa mereka menganggap ayah mereka lebih menyukai Yusuf dan saudaranya daripada mereka.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "مِنَّا",
+      "transliterasi": "minnā",
+      "jenis_kata": "Huruf (preposisi) dengan ضمير",
+      "arti": "dari kami",
+      "sharaf": {
+        "akar_kata": "م ن",
+        "makna_dasar": "dari",
+        "wazan_perubahan": "مِنْ + نَا (penambahan ضمير \"kami\")"
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر يجرّ ما بعده (أَبِينَا) إلى حالة الجر",
+        "irab_dan_logika": "حرف جر لا يُنصب ولا يرفع، لذا لا يحمل حركة إعرابية"
+      },
+      "hikmah": "Menyiratkan perbandingan bahwa ayah mereka lebih menyukai Yusuf daripada mereka sendiri.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "وَنَحْنُ",
+      "transliterasi": "wa naḥnu",
+      "jenis_kata": "Huruf (wa) + Isim (pronoun)",
+      "arti": "dan kami",
+      "sharaf": {
+        "akar_kata": "ن ح ن",
+        "makna_dasar": "kami (kata ganti orang pertama jamak)",
+        "wazan_perubahan": "نَحْنُ (bentuk standar kata ganti)"
+      },
+      "nahwu": {
+        "kedudukan": "مبتدأ للجملة الفعلية \"نحن عصبةٌ\"",
+        "irab_dan_logika": "مرفوع بالضمة لأنّه مبتدأ"
+      },
+      "hikmah": "Mereka menegaskan identitas kelompok mereka sebagai satu kesatuan yang kuat.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "عُصْبَةٌ",
+      "transliterasi": "‘uṣbatun",
+      "jenis_kata": "Isim (noun)",
+      "arti": "kelompok, faksi",
+      "sharaf": {
+        "akar_kata": "ع ص ب",
+        "makna_dasar": "kelompok, sekte",
+        "wazan_perubahan": "فَعْلَةٌ (bentuk isim maf‘ul)"
+      },
+      "nahwu": {
+        "kedudukan": "خبر للمبتدأ \"نحن\"",
+        "irab_dan_logika": "مرفوع بالضمة لأنّه خبر مرفوع في جملة اسمية"
+      },
+      "hikmah": "Menegaskan bahwa mereka menganggap diri mereka satu golongan yang kuat dan bersatu.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "إِنَّ",
+      "transliterasi": "innā",
+      "jenis_kata": "Huruf (partikel)",
+      "arti": "sesungguhnya",
+      "sharaf": {
+        "akar_kata": "إن",
+        "makna_dasar": "menegaskan, menekankan",
+        "wazan_perubahan": "حرف توكيد ونصب"
+      },
+      "nahwu": {
+        "kedudukan": "حرف توكيد ونصب يرفع المبتدأ ويُنصب الخبر",
+        "irab_dan_logika": "يُنصب الاسم التالي (أَبَانَا) لأنه اسم إن"
+      },
+      "hikmah": "Memberi penekanan kuat bahwa ayah mereka berada dalam kesesatan yang nyata.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "أَبَانَا",
+      "transliterasi": "abānā",
+      "jenis_kata": "Isim (noun)",
+      "arti": "ayah kami",
+      "sharaf": {
+        "akar_kata": "أ ب",
+        "makna_dasar": "ayah",
+        "wazan_perubahan": "أَبٌ + نَا (penambahan ضمير kepemilikan \"kami\")"
+      },
+      "nahwu": {
+        "kedudukan": "خبر إن منصوب",
+        "irab_dan_logika": "منصوب بالفتحة لأن حرف إن يجرّ اسمه إلى حالة النصب"
+      },
+      "hikmah": "Menyatakan bahwa ayah mereka berada dalam kebodohan yang jelas, menegaskan alasan kecemburuan saudara‑saudara Yusuf.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "لَفِى",
+      "transliterasi": "lafī",
+      "jenis_kata": "Huruf (harf jar)",
+      "arti": "di dalam",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "preposisi menunjukkan tempat",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar yang menghubungkan ke kata berikutnya",
+        "irab_dan_logika": "Berharakat kasrah karena huruf jar mengharuskan majrur"
+      },
+      "hikmah": "*Menunjukkan bahwa kesesatan ayah berada *di dalam* hati dan pikiran, bukan sekadar luaran.*",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "ضَلَالٍ",
+      "transliterasi": "ḍalāl",
+      "jenis_kata": "Isim (isim maf'ul)",
+      "arti": "kekeliruan, kesesatan",
+      "sharaf": {
+        "akar_kata": "ض-ل-ل",
+        "makna_dasar": "tersesat, melenceng",
+        "wazan_perubahan": "maf'ul"
+      },
+      "nahwu": {
+        "kedudukan": "Isim majrur setelah huruf jar فِي",
+        "irab_dan_logika": "Berharakat kasrah karena majrur"
+      },
+      "hikmah": "*Ayah berada dalam *kekeliruan yang nyata*, menegaskan pentingnya introspeksi diri.*",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "مُبِينٍ",
+      "transliterasi": "mubīn",
+      "jenis_kata": "Isim sifat",
+      "arti": "jelas, nyata",
+      "sharaf": {
+        "akar_kata": "ب-ي-ن",
+        "makna_dasar": "menampakkan, memperjelas",
+        "wazan_perubahan": "maf'ul"
+      },
+      "nahwu": {
+        "kedudukan": "Sifat yang menerangkan ضَلَالٍ, berfungsi sebagai i'rab majrur",
+        "irab_dan_logika": "Berharakat kasrah karena menjadi majrur"
+      },
+      "hikmah": "*Kesesatan ayah *dijelaskan dengan jelas*, mengingatkan bahwa kesalahan yang tampak jelas harus dihindari.*",
+      "role": "none"
+    }
+  ]
+}

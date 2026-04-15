@@ -1,0 +1,330 @@
+{
+  "surah": 2,
+  "ayah": 277,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "إِنَّ",
+      "transliterasi": "inna",
+      "jenis_kata": "Huruf",
+      "arti": "sesungguhnya, memang",
+      "sharaf": {
+        "akar_kata": "إن",
+        "makna_dasar": "menegaskan",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "حرف توكيد يسبق اسم إِنَّ",
+        "irab_dan_logika": "حرف مشبه لا إعراب له، يرفع ما بعده ويجعل الاسم التالي منصوباً"
+      },
+      "hikmah": "Menegaskan keberadaan orang‑orang beriman yang beramal saleh",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "ٱلَّذِينَ",
+      "transliterasi": "alladhīna",
+      "jenis_kata": "Isim",
+      "arti": "yang",
+      "sharaf": {
+        "akar_kata": "ذ-و-ي",
+        "makna_dasar": "kata ganti relatif",
+        "wazan_perubahan": "اسم موصول"
+      },
+      "nahwu": {
+        "kedudukan": "اسم إِنَّ منصوب",
+        "irab_dan_logika": "منصوب بالفتحة لأن إِنَّ حرف توكيد"
+      },
+      "hikmah": "Menunjuk kepada kelompok orang beriman yang disebutkan",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "ءَامَنُوا۟",
+      "transliterasi": "āmanū",
+      "jenis_kata": "Fi'il",
+      "arti": "beriman",
+      "sharaf": {
+        "akar_kata": "أ-م-ن",
+        "makna_dasar": "menaruh kepercayaan, beriman",
+        "wazan_perubahan": "فعل ماضٍ ثلاثي مجرد"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ماضٍ مرفوع بالضمة، والواو ضمير متصل في محل رفع الفاعل",
+        "irab_dan_logika": "الفعل ماضٍ لا إعراب له، والواو للغائب"
+      },
+      "hikmah": "Menyatakan bahwa mereka telah beriman",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "وَعَمِلُوا۟",
+      "transliterasi": "waʿamilū",
+      "jenis_kata": "Fi'il",
+      "arti": "dan mereka mengerjakan",
+      "sharaf": {
+        "akar_kata": "ع-م-ل",
+        "makna_dasar": "melakukan, mengerjakan",
+        "wazan_perubahan": "فعل ماضٍ ثلاثي مجرد مع واو الجماعة"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ماضٍ معطوف على الفعل السابق",
+        "irab_dan_logika": "الفعل ماضٍ لا إعراب له، والواو للغائب"
+      },
+      "hikmah": "Menegaskan tindakan mengerjakan amal baik",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "ٱلصَّٰلِحَٰتِ",
+      "transliterasi": "aṣ-ṣāliḥāti",
+      "jenis_kata": "Isim",
+      "arti": "amal‑amal baik",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "ٱلصَّلَوٰةَ",
+      "transliterasi": "aṣ-ṣalāhata",
+      "jenis_kata": "Isim",
+      "arti": "shalat (doa, ibadah)",
+      "sharaf": {
+        "akar_kata": "ص-ل-و",
+        "makna_dasar": "menyucikan, berdoa",
+        "wazan_perubahan": "fa‘ala (kata benda)"
+      },
+      "nahwu": {
+        "kedudukan": "Mafsuul (objek) dari fi'il **أَقَامُوا**",
+        "irab_dan_logika": "Berharakat fathah karena berkasus mansub (accusative) sebagai objek transitif"
+      },
+      "hikmah": "Menunjukkan pentingnya menegakkan shalat sebagai bagian integral dari keimanan",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "وَءَاتَوُا۟",
+      "transliterasi": "wa-ʾātawū",
+      "jenis_kata": "Fi'il",
+      "arti": "dan mereka memberi",
+      "sharaf": {
+        "akar_kata": "أ-و-ت",
+        "makna_dasar": "memberi",
+        "wazan_perubahan": "fa‘ala (verb form I)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il madhi, 3rd person maskulin jamak, marfu' dengan dhammah",
+        "irab_dan_logika": "Sebagai fi'il madhi, huruf alif bertanda dammah menandakan marfu' (nominatif)"
+      },
+      "hikmah": "Menegaskan tindakan memberi zakat sebagai perintah yang aktif dan kolektif",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "ٱلزَّكَوٰةَ",
+      "transliterasi": "az-zakāhata",
+      "jenis_kata": "Isim",
+      "arti": "zakat",
+      "sharaf": {
+        "akar_kata": "ز-ك-و",
+        "makna_dasar": "menyucikan, membersihkan",
+        "wazan_perubahan": "fa‘ala (kata benda)"
+      },
+      "nahwu": {
+        "kedudukan": "Mafsuul (objek) dari fi'il **وَءَاتَوُا**",
+        "irab_dan_logika": "Berharakat fathah karena berkasus mansub (accusative) sebagai objek langsung"
+      },
+      "hikmah": "Zakat diposisikan sebagai amal wajib yang melengkapi shalat dalam rangka penyucian harta",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "لَهُمْ",
+      "transliterasi": "lahum",
+      "jenis_kata": "Huruf",
+      "arti": "bagi mereka",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar + dhamir muttasir (pronominal)",
+        "irab_dan_logika": "Preposisi *li-* menjadikan seluruh frasa dalam i'rab majrur (kasrah)"
+      },
+      "hikmah": "Menunjukkan kepemilikan pahala yang khusus diberikan kepada orang‑orang beriman",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "أَجْرُهُمْ",
+      "transliterasi": "ajruhum",
+      "jenis_kata": "Isim",
+      "arti": "pahala mereka",
+      "sharaf": {
+        "akar_kata": "أ-ج-ر",
+        "makna_dasar": "ganjar, upah",
+        "wazan_perubahan": "fa‘l (kata benda)"
+      },
+      "nahwu": {
+        "kedudukan": "Mansub (kasrah) setelah huruf jar *li-*",
+        "irab_dan_logika": "Karena berada dalam frasa *li‑ajr*, kata ini berkasus majrur dengan kasrah"
+      },
+      "hikmah": "Pahala yang dijanjikan bersifat tetap dan tak terhingga bagi yang beriman",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "عِندَ",
+      "transliterasi": "ʿinda",
+      "jenis_kata": "Huruf",
+      "arti": "di (samping), pada",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar yang menghubungkan ke kata *رَبِّهِمْ* selanjutnya",
+        "irab_dan_logika": "Preposisi *ʿinda* menuntut majrur pada kata berikutnya, menandakan tempat atau kedudukan"
+      },
+      "hikmah": "Menegaskan bahwa pahala berada di sisi Allah, bukan di dunia",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "رَبِّهِمْ",
+      "transliterasi": "Rabbihim",
+      "jenis_kata": "Isim",
+      "arti": "Tuhan mereka",
+      "sharaf": {
+        "akar_kata": "ر ب ب (R-B-B)",
+        "makna_dasar": "Memelihara, menguasai, mendidik, Tuhan",
+        "wazan_perubahan": "Isim (kata benda), bentuk mudhaf (kepemilikan) dengan dhamir (kata ganti) 'hum' (mereka)"
+      },
+      "nahwu": {
+        "kedudukan": "Mudhaf ilaih (kata yang disandarkan kepadanya) dari kata sebelumnya (أَجْرُهُمْ - ajruhum - pahala mereka)",
+        "irab_dan_logika": "Majrur (berharakat kasrah) karena kedudukannya sebagai mudhaf ilaih. Harakat kasrah pada huruf ba' (ب) dan mim sukun (مْ) pada dhamir 'hum' yang menunjukkan kepemilikan."
+      },
+      "hikmah": "Menekankan hubungan kepemilikan dan pemeliharaan Allah terhadap orang-orang beriman, menunjukkan bahwa pahala yang mereka terima berasal langsung dari Tuhan yang memelihara mereka.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "وَلَا",
+      "transliterasi": "Wa lā",
+      "jenis_kata": "Huruf",
+      "arti": "Dan tidak",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk huruf",
+        "makna_dasar": "Penafian (negasi) dan penghubung (konjungsi)",
+        "wazan_perubahan": "Tidak berlaku untuk huruf"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf 'waw' (و) sebagai huruf athaf (penghubung) dan 'lā' (لا) sebagai huruf nāfiyah (penafian)",
+        "irab_dan_logika": "Huruf tidak memiliki i'rab, ia mabni (tetap). 'Waw' menghubungkan kalimat sebelumnya dengan kalimat penafian ini. 'Lā' menafikan keberadaan kekhawatiran."
+      },
+      "hikmah": "Menegaskan penafian terhadap kekhawatiran, menunjukkan bahwa orang-orang beriman yang memenuhi syarat tidak akan merasakan kekhawatiran sama sekali.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "خَوْفٌ",
+      "transliterasi": "Khawfun",
+      "jenis_kata": "Isim",
+      "arti": "Kekhawatiran, ketakutan",
+      "sharaf": {
+        "akar_kata": "خ و ف (Kh-W-F)",
+        "makna_dasar": "Takut, khawatir",
+        "wazan_perubahan": "Isim mashdar (kata benda yang menunjukkan tindakan/keadaan) dari fi'il (kata kerja) خاف (khafa)"
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada' mu'akhkhar (subjek yang diakhirkan) dari kalimat nominal (jumlah ismiyah) yang diawali dengan 'lā' nāfiyah",
+        "irab_dan_logika": "Marfu' (berharakat dhammah tanwin) karena kedudukannya sebagai mubtada'."
+      },
+      "hikmah": "Menggambarkan kondisi batin yang bebas dari rasa takut atau cemas akan masa depan, sebagai salah satu buah dari keimanan dan amal saleh.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "عَلَيْهِمْ",
+      "transliterasi": "Alayhim",
+      "jenis_kata": "Huruf dan Isim",
+      "arti": "Atas mereka, terhadap mereka",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk huruf 'ala'. 'Hum' adalah dhamir",
+        "makna_dasar": "Ala' (atas, terhadap), 'hum' (mereka)",
+        "wazan_perubahan": "Ala' adalah huruf jar. 'Hum' adalah dhamir muttasil (kata ganti sambung) untuk jamak mudzakkar ghaib (mereka laki-laki)."
+      },
+      "nahwu": {
+        "kedudukan": "Jar Majrur (frasa preposisional) yang berfungsi sebagai khabar muqaddam (predikat yang didahulukan) untuk mubtada' mu'akhkhar (خَوْفٌ)",
+        "irab_dan_logika": "Ala' adalah huruf jar, sehingga 'hum' yang bersambung dengannya berada dalam posisi majrur secara mahal (posisi i'rab)."
+      },
+      "hikmah": "Menentukan subjek dari penafian kekhawatiran, yaitu 'mereka' (orang-orang beriman), menegaskan bahwa kekhawatiran itu tidak akan menimpa mereka.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "وَلَا",
+      "transliterasi": "Wa lā",
+      "jenis_kata": "Huruf",
+      "arti": "Dan tidak (pula)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk huruf",
+        "makna_dasar": "Penafian (negasi) dan penghubung (konjungsi)",
+        "wazan_perubahan": "Tidak berlaku untuk huruf"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf 'waw' (و) sebagai huruf athaf (penghubung) dan 'lā' (لا) sebagai huruf nāfiyah (penafian)",
+        "irab_dan_logika": "Huruf tidak memiliki i'rab, ia mabni (tetap). 'Waw' menghubungkan penafian sebelumnya dengan penafian yang baru ini. 'Lā' menafikan kesedihan."
+      },
+      "hikmah": "Mengulangi penafian untuk menegaskan bahwa bukan hanya kekhawatiran, tetapi juga kesedihan, tidak akan menimpa mereka. Ini menunjukkan kesempurnaan ketenangan batin yang dianugerahkan.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "هُمْ",
+      "transliterasi": "Hum",
+      "jenis_kata": "Isim",
+      "arti": "Mereka",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk dhamir",
+        "makna_dasar": "Kata ganti orang ketiga jamak laki-laki",
+        "wazan_perubahan": "Dhamir munfasil (kata ganti terpisah) untuk jamak mudzakkar ghaib"
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada' (subjek) dari kalimat nominal yang akan datang (يَحْزَنُونَ - yahzanun - mereka bersedih)",
+        "irab_dan_logika": "Dhamir munfasil selalu mabni (tetap) dan berada dalam posisi marfu' (rafa') sebagai mubtada'."
+      },
+      "hikmah": "Menegaskan kembali subjek yang dimaksud, yaitu orang-orang beriman, dan mempersiapkan untuk penafian berikutnya tentang kesedihan yang tidak akan menimpa mereka.",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "يَحْزَنُونَ",
+      "transliterasi": "yaḥzanūna",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka bersedih / mereka akan bersedih",
+      "sharaf": {
+        "akar_kata": "ح-ز-ن (Ḥ-Z-N)",
+        "makna_dasar": "Kesedihan, duka cita, kegelisahan.",
+        "wazan_perubahan": "Fi'il Mudhari' (kata kerja sekarang/akan datang) dari Bab I (فَعَلَ - يَفْعَلُ). Bentuk jamak mudzakkar ghaib (mereka laki-laki). Wazan: يَفْعَلُونَ."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' (kata kerja sekarang/akan datang) yang menjadi khabar (predikat) bagi 'mereka' (yang tidak bersedih).",
+        "irab_dan_logika": "Marfu' (rafa') karena tidak didahului oleh amil nashab (penashab) atau amil jazm (penjazm). Tanda rafa'nya adalah tetapnya huruf nun (ثبوت النون) karena termasuk Af'alul Khamsah (lima kata kerja). Huruf wawu (و) adalah fa'il (subjek) yang kembali kepada 'mereka' (orang-orang yang beriman, beramal saleh, mendirikan shalat, dan menunaikan zakat)."
+      },
+      "hikmah": "Kata ini menegaskan janji Allah bahwa orang-orang yang memenuhi kriteria yang disebutkan sebelumnya (beriman, beramal saleh, mendirikan shalat, dan menunaikan zakat) tidak akan mengalami kesedihan atau duka cita. Bentuk *mudhari'* (sekarang/akan datang) menunjukkan keberlangsungan dan kepastian janji ini, baik di dunia maupun di akhirat. Ini memberikan ketenangan jiwa dan jaminan kebahagiaan bagi para hamba yang taat.",
+      "role": "none"
+    }
+  ]
+}

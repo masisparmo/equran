@@ -1,0 +1,222 @@
+{
+  "surah": 14,
+  "ayah": 17,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "يَتَجَرَّعُهُۥ",
+      "transliterasi": "yatajarraʿuhu",
+      "jenis_kata": "Fi'il",
+      "arti": "menyiramkan (kepada)",
+      "sharaf": {
+        "akar_kata": "ج ر ع",
+        "makna_dasar": "menyiram, menurunkan",
+        "wazan_perubahan": "تَفَعَّل (form VIII)"
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "مِن",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf (preposisi)",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Objek preposisi, mengikuti kata **كُلِّ**",
+        "irab_dan_logika": "مجرور بالكسرة لأن حرف الجر **مِن** يجر ما بعده"
+      },
+      "hikmah": "Menunjukkan asal atau sumber, di sini berarti **dari** segala tempat",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "كُلِّ",
+      "transliterasi": "kulli",
+      "jenis_kata": "Isim (isim majrur)",
+      "arti": "segala",
+      "sharaf": {
+        "akar_kata": "ك ل ل",
+        "makna_dasar": "keseluruhan, totalitas",
+        "wazan_perubahan": "فعَل"
+      },
+      "nahwu": {
+        "kedudukan": "Mujarrab setelah **مِن**",
+        "irab_dan_logika": "مجرور بالكسرة لأن حرف الجر **مِن** يجر الاسم"
+      },
+      "hikmah": "Menegaskan bahwa yang dimaksud meliputi **semua** tempat",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "مَكَانٍۢ",
+      "transliterasi": "makānin",
+      "jenis_kata": "Isim (isim majrur)",
+      "arti": "tempat",
+      "sharaf": {
+        "akar_kata": "ك و ن",
+        "makna_dasar": "berada, berada di suatu tempat",
+        "wazan_perubahan": "مَفْعَل"
+      },
+      "nahwu": {
+        "kedudukan": "Mujarrab setelah **كُلِّ**",
+        "irab_dan_logika": "مجرور بالكسرة لأن حرف الجر **مِن** يجر الاسم"
+      },
+      "hikmah": "Mengacu pada **setiap tempat** yang ada",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "وَمَا",
+      "transliterasi": "wa-mā",
+      "jenis_kata": "Huruf (wa + mā)",
+      "arti": "dan apa",
+      "sharaf": {
+        "akar_kata": "م ا",
+        "makna_dasar": "kata tanya yang menanyakan sesuatu yang tidak disebutkan",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Penghubung antara dua klausa",
+        "irab_dan_logika": "مبني على السكون لا محل له من الإعراب"
+      },
+      "hikmah": "Menyatakan pertanyaan retoris **dan apa** yang terjadi selanjutnya",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "هُوَ",
+      "transliterasi": "huwa",
+      "jenis_kata": "Isim (dhamir)",
+      "arti": "dia (laki-laki)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Rafa' (marfu') sebagai subjek dalam klausa baru",
+        "irab_dan_logika": "مرفوع بالضمة لأنه مبتدأ"
+      },
+      "hikmah": "Menunjuk kepada subjek yang sedang dibicarakan, **dia**",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "بِمَيِّتٍۢ",
+      "transliterasi": "bi-mayyitin",
+      "jenis_kata": "Huruf (preposisi) + Isim",
+      "arti": "dengan orang mati",
+      "sharaf": {
+        "akar_kata": "م ي ت",
+        "makna_dasar": "mati",
+        "wazan_perubahan": "فَعِل"
+      },
+      "nahwu": {
+        "kedudukan": "Majrur setelah preposisi **بِ**",
+        "irab_dan_logika": "مجرور بالكسرة لأن حرف الجر **بِ** يجر الاسم"
+      },
+      "hikmah": "Menggambarkan keadaan **dengan orang yang sudah mati**, menekankan ketidakmampuannya untuk menelan",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "ۖ",
+      "transliterasi": "waqf",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda jeda",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca, memisahkan bagian ayat",
+        "irab_dan_logika": "tidak memiliki harakat karena bukan kata"
+      },
+      "hikmah": "Menandakan jeda dalam bacaan, memberi ruang bagi makna sebelumnya untuk dipahami dengan tenang.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "وَمِن",
+      "transliterasi": "wa‑min",
+      "jenis_kata": "Huruf",
+      "arti": "dan dari",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "huruf sambung (wa) + huruf jar (min) yang menghubungkan frasa sebelumnya dengan frasa berikutnya",
+        "irab_dan_logika": "tidak berharakat karena merupakan huruf, berfungsi sebagai penghubung"
+      },
+      "hikmah": "Menyiratkan hubungan sebab‑akibat atau penambahan informasi, menegaskan bahwa apa yang disebutkan selanjutnya bersumber dari sesuatu.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "وَرَاءِهِۦ",
+      "transliterasi": "wa‑rāʾihi",
+      "jenis_kata": "Isim (isim maushul) dengan huruf wa‑",
+      "arti": "dan di belakangnya",
+      "sharaf": {
+        "akar_kata": "ر‑أ‑ى",
+        "makna_dasar": "melihat, berada di belakang",
+        "wazan_perubahan": "bentuk isim maushul (mausul) dengan huruf wa‑"
+      },
+      "nahwu": {
+        "kedudukan": "isim maushul berfungsi sebagai objek preposisional yang diterangkan oleh huruf wa‑",
+        "irab_dan_logika": "dengan dammah karena berstatus marfuʿ (isim maushul) dalam posisi objek preposisi"
+      },
+      "hikmah": "Menunjukkan bahwa azab yang dimaksud berada di belakang (setelah) sesuatu, memberi gambaran tentang urutan atau kedudukan azab dalam konteks ayat.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "عَذَابٌ",
+      "transliterasi": "ʿadhābun",
+      "jenis_kata": "Isim",
+      "arti": "azab, siksa",
+      "sharaf": {
+        "akar_kata": "ع‑ذ‑ب",
+        "makna_dasar": "menyiksa, memberi hukuman",
+        "wazan_perubahan": "bentuk isim mudhariʿ (istiqra)"
+      },
+      "nahwu": {
+        "kedudukan": "isim marfuʿ sebagai predikat (khabar) dalam kalimat nominal",
+        "irab_dan_logika": "dengan dhammah karena berstatus marfuʿ sebagai subjek/khabar"
+      },
+      "hikmah": "Menggambarkan adanya hukuman yang berat, menegaskan sifat keras azab yang menimpa orang yang disebutkan.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "غَلِيظٌۭ",
+      "transliterasi": "ghalīẓun",
+      "jenis_kata": "Isim sifat",
+      "arti": "berat, tebal, keras",
+      "sharaf": {
+        "akar_kata": "غ‑ل‑ظ",
+        "makna_dasar": "kekentalan, keparahan",
+        "wazan_perubahan": "bentuk isim sifat (sifatus)"
+      },
+      "nahwu": {
+        "kedudukan": "isim sifat yang menerangkan عَذَابٌ, berfungsi sebagai na't (penjelas)",
+        "irab_dan_logika": "dengan dhammah karena menyesuaikan dengan isim yang dijelaskannya (marfuʿ)"
+      },
+      "hikmah": "Menekankan bahwa azab tersebut sangat keras dan menakutkan, menambah kedalaman pemahaman tentang betapa beratnya siksa yang dijanjikan.",
+      "role": "none"
+    }
+  ]
+}

@@ -1,0 +1,402 @@
+{
+  "surah": 9,
+  "ayah": 13,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "أَلَا",
+      "transliterasi": "alā",
+      "jenis_kata": "Huruf",
+      "arti": "bukankah, tidak",
+      "sharaf": {
+        "akar_kata": "لا",
+        "makna_dasar": "penolakan atau pertanyaan retoris",
+        "wazan_perubahan": "tidak ada (huruf)"
+      },
+      "nahwu": {
+        "kedudukan": "huruf pembuka ayat, menandai pertanyaan retoris",
+        "irab_dan_logika": "tidak ber-i'rab; huruf indeklinabel karena fungsinya sebagai partikel"
+      },
+      "hikmah": "Menegaskan seruan Allah agar kaum Muslimin tidak mengabaikan perintah-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "تُقَٰتِلُونَ",
+      "transliterasi": "tuqātilūna",
+      "jenis_kata": "Fi'il",
+      "arti": "kamu berperang",
+      "sharaf": {
+        "akar_kata": "ق-ت-ل",
+        "makna_dasar": "membunuh, melawan",
+        "wazan_perubahan": "فَعَلَ (fa‘ala)"
+      },
+      "nahwu": {
+        "kedudukan": "predikat utama dalam kalimat",
+        "irab_dan_logika": "dhammah karena fi'il mudhari‘ (present) dengan nun alif sebagai tanda mudhari‘"
+      },
+      "hikmah": "Menunjukkan perintah atau anjuran untuk melawan kaum yang mengingkari janji.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "قَوْمًۭا",
+      "transliterasi": "qawman",
+      "jenis_kata": "Isim",
+      "arti": "kaum (sebuah)",
+      "sharaf": {
+        "akar_kata": "ق-و-م",
+        "makna_dasar": "kumpulan, bangsa",
+        "wazan_perubahan": "فَعْلٌ (fa‘l)"
+      },
+      "nahwu": {
+        "kedudukan": "objek (mansūb) fi'il تُقَاتِلُونَ",
+        "irab_dan_logika": "fathah tanwin karena mansūb sebagai maf‘ūl bihi"
+      },
+      "hikmah": "Merujuk pada kelompok yang menentang dakwah Rasulullah.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "نَّكَثُوٓا۟",
+      "transliterasi": "nakathū",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka mengingkari",
+      "sharaf": {
+        "akar_kata": "ن-ك-ث",
+        "makna_dasar": "memutuskan atau melanggar sumpah",
+        "wazan_perubahan": "فَعَلَ (fa‘ala)"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il madhi (past) yang menjelaskan sifat kaum",
+        "irab_dan_logika": "tidak ber-i'rab karena fi'il madhi tidak berubah"
+      },
+      "hikmah": "Menegaskan pelanggaran sumpah yang dilakukan oleh kaum tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "أَيْمَٰنَهُمْ",
+      "transliterasi": "aymānahum",
+      "jenis_kata": "Isim",
+      "arti": "sumpah mereka",
+      "sharaf": {
+        "akar_kata": "ي-م-ن",
+        "makna_dasar": "janji, sumpah",
+        "wazan_perubahan": "مَفْعُول"
+      },
+      "nahwu": {
+        "kedudukan": "objek (mansūb) dari fi'il نَكَثُوا",
+        "irab_dan_logika": "kasrah karena maf‘ūl bihi"
+      },
+      "hikmah": "Menunjukkan apa yang telah mereka langgar, yaitu janji mereka kepada Allah.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "وَهُمْ",
+      "transliterasi": "wahum",
+      "jenis_kata": "Huruf+Isim",
+      "arti": "dan mereka",
+      "sharaf": {
+        "akar_kata": "ه-و-م (kata ganti)",
+        "makna_dasar": "pronomina ketiga jamak",
+        "wazan_perubahan": "tidak ada (kata ganti)"
+      },
+      "nahwu": {
+        "kedudukan": "huruf al-waṣl yang menghubungkan frasa sebelumnya dengan klausa berikutnya (implicit: عَصَبُوا)",
+        "irab_dan_logika": "dhammah karena berfungsi sebagai mubtada’ tersirat dalam ayat"
+      },
+      "hikmah": "Menegaskan bahwa kaum tersebut adalah subjek yang bersikap keras dan menentang.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "بِإِخْرَاجِ",
+      "transliterasi": "bi-ikhrajin",
+      "jenis_kata": "Isim (masdar) dengan huruf jar",
+      "arti": "dengan mengusir/penyingkiran",
+      "sharaf": {
+        "akar_kata": "خ ر ج",
+        "makna_dasar": "keluar, mengeluarkan",
+        "wazan_perubahan": "إِفْعَال (iFʿāl)"
+      },
+      "nahwu": {
+        "kedudukan": "Majrur setelah huruf jar \"bi\"",
+        "irab_dan_logika": "Berakhiran kasrah karena berada dalam keadaan majrur"
+      },
+      "hikmah": "Menunjukkan sebab pengusiran Rasul sebagai alasan utama",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "ٱلرَّسُولِ",
+      "transliterasi": "ar-rasūli",
+      "jenis_kata": "Isim (nama)",
+      "arti": "utusan, Rasul",
+      "sharaf": {
+        "akar_kata": "ر س ل",
+        "makna_dasar": "mengirim",
+        "wazan_perubahan": "فَعُول (faʿūl) – isim faʿil"
+      },
+      "nahwu": {
+        "kedudukan": "Majrur karena berjarak dengan \"bi\" sebelumnya",
+        "irab_dan_logika": "Berakhiran kasrah menandakan status majrur"
+      },
+      "hikmah": "Menegaskan bahwa yang diusir adalah Nabi, bukan sekadar orang lain",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "وَهُم",
+      "transliterasi": "wa hum",
+      "jenis_kata": "Huruf (wa) + ضمير (hum)",
+      "arti": "dan mereka",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada' (subjek) bagi fi'il \"bada'ūkum\"",
+        "irab_dan_logika": "Berakhiran dammah karena marfu' sebagai subjek"
+      },
+      "hikmah": "Menunjukkan pihak yang melakukan serangan pertama",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "بَدَءُوكُمْ",
+      "transliterasi": "bada'ūkum",
+      "jenis_kata": "Fi'il (madhi) 3rd person masc. plural dengan attached object pronoun",
+      "arti": "mereka memulai (menyerang) kamu",
+      "sharaf": {
+        "akar_kata": "ب د أ",
+        "makna_dasar": "memulai",
+        "wazan_perubahan": "فَعَلَ (faʿala) – bentuk madhi sederhana"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il madhi marfu' dengan dammah; \"kum\" majrur (kasrah) sebagai objek",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "Menegaskan bahwa mereka adalah pihak yang pertama kali menyerang umat Islam",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "أَوَّلَ",
+      "transliterasi": "awwala",
+      "jenis_kata": "Isim",
+      "arti": "pertama",
+      "sharaf": {
+        "akar_kata": "أ و ل",
+        "makna_dasar": "pertama",
+        "wazan_perubahan": "أَفْعَل (afʿal) – pola isim"
+      },
+      "nahwu": {
+        "kedudukan": "Nasb (accusative) sebagai bagian objek \"awwala marrah\"",
+        "irab_dan_logika": "Berakhiran fatḥah menandakan nasb"
+      },
+      "hikmah": "Menekankan urutan, bahwa serangan itu terjadi pada kali pertama",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "مَرَّةٍ",
+      "transliterasi": "marratin",
+      "jenis_kata": "Isim",
+      "arti": "kali, kesempatan",
+      "sharaf": {
+        "akar_kata": "ر م ر",
+        "makna_dasar": "kali, peristiwa",
+        "wazan_perubahan": "فَعَّل (faʿʿal) – pola isim"
+      },
+      "nahwu": {
+        "kedudukan": "Majrur (jar) karena berada setelah \"awwala\" dalam i'rab iḍāfah",
+        "irab_dan_logika": "Berakhiran kasrah (tanwin kasrah) menandakan status majrur"
+      },
+      "hikmah": "Menunjukkan bahwa serangan itu terjadi pada satu kesempatan pertama",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "ۚ",
+      "transliterasi": "-",
+      "jenis_kata": "Huruf (tanda waqf)",
+      "arti": "tanda berhenti/istirahat dalam bacaan",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Pemutus ayat (waqf) setelah kata sebelumnya",
+        "irab_dan_logika": "Tidak berharakat karena merupakan tanda baca, berfungsi memisahkan bagian kalimat"
+      },
+      "hikmah": "Menandakan jeda untuk menekankan makna ayat sebelumnya sebelum melanjutkan ke pertanyaan selanjutnya.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "أَتَخْشَوْنَهُمْ",
+      "transliterasi": "a‑takhshawnahum",
+      "jenis_kata": "Fi'il (verb) bentuk mudhari‘ dengan suku‑kata al‑muḍāri‘ dan dhamir muta‘alliqat",
+      "arti": "apakah kamu (mereka) takut",
+      "sharaf": {
+        "akar_kata": "خ ش ي",
+        "makna_dasar": "khawsha – takut, gentar",
+        "wazan_perubahan": "فَعَلَ (fa‘ala) – bentuk dasar"
+      },
+      "nahwu": {
+        "kedudukan": "Predikat pertanyaan (fi‘l‑mu‘allaq) yang menanyakan sikap orang beriman",
+        "irab_dan_logika": "Berharakat dhammah pada alif (أَ) sebagai harakat al‑muḍāri‘, sukun pada خ, fathah pada ش, sukun pada وَ, dhammah pada ن, dan kasrah pada هُم untuk menandakan objek (mereka)"
+      },
+      "hikmah": "Menegaskan bahwa rasa takut kepada musuh itu tidak sepatutnya, karena takut itu harus ditujukan kepada Allah semata.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "ۚ",
+      "transliterasi": "-",
+      "jenis_kata": "Huruf (tanda waqf)",
+      "arti": "tanda berhenti",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Pemutus ayat setelah pertanyaan",
+        "irab_dan_logika": "Tidak berharakat, berfungsi memisahkan klausa"
+      },
+      "hikmah": "Memberi jeda bagi pendengar untuk merenungkan pertanyaan sebelumnya sebelum melanjutkan penjelasan.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "فَٱللَّهُ",
+      "transliterasi": "fa‑Allahu",
+      "jenis_kata": "Huruf (فَ) + Isim (ٱللَّهُ)",
+      "arti": "maka Allah",
+      "sharaf": {
+        "akar_kata": "ل ه",
+        "makna_dasar": "Allah – nama Tuhan yang Maha Esa",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Kata sambung (فَ) yang menghubungkan ayat sebelumnya dengan kalimat berikutnya; ٱللَّهُ berfungsi sebagai mubtada’ (subjek)",
+        "irab_dan_logika": "فَ berharakat fathah sebagai huruf al‑‘illa; ٱللَّهُ berharakat dhammah pada akhir (اللهُ) menandakan i‘rāb raf‘ (marfu‘)"
+      },
+      "hikmah": "Menegaskan bahwa yang berhak ditakuti hanyalah Allah, bukan manusia atau kelompok lain.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "أَحَقُّ",
+      "transliterasi": "aḥaqqu",
+      "jenis_kata": "Isim tafdīl (kata sifat perbandingan)",
+      "arti": "lebih berhak",
+      "sharaf": {
+        "akar_kata": "ح ق ق",
+        "makna_dasar": "hak – berhak, layak",
+        "wazan_perubahan": "فَعَلَ – bentuk dasar"
+      },
+      "nahwu": {
+        "kedudukan": "Bagian predikat yang menjelaskan sifat Allah dalam konteks perbandingan (Allah lebih berhak ditakuti)",
+        "irab_dan_logika": "Berharakat dammah pada akhir (أَحَقُّ) menandakan i‘rāb raf‘ karena berfungsi sebagai isim tafdīl"
+      },
+      "hikmah": "Menunjukkan keutamaan Allah dibandingkan makhluk lain dalam hal hak ditakuti.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "أَن",
+      "transliterasi": "an",
+      "jenis_kata": "Huruf (harf al‑nasb)",
+      "arti": "bahwa, supaya",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Penghubung (harf al‑nasb) yang memperkenalkan kalimat infinitif (verb‑noun) selanjutnya",
+        "irab_dan_logika": "Tidak berharakat karena huruf al‑nasb tidak memiliki i‘rāb"
+      },
+      "hikmah": "Menyatakan tujuan atau sebab, dalam konteks ayat ini menghubungkan klausa “Allah lebih berhak ditakuti” dengan pernyataan selanjutnya tentang keimanan.",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "تَخْشَوْهُ",
+      "transliterasi": "takhshawhu",
+      "jenis_kata": "Fi'il",
+      "arti": "kamu takut (kepada) dia/itu)",
+      "sharaf": {
+        "akar_kata": "خ ش ي",
+        "makna_dasar": "takut",
+        "wazan_perubahan": "فَعَلَ (faʿala)"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja (fi'il) dalam klausa bersyarat setelah **إِن**",
+        "irab_dan_logika": "مرفوع بالضمة الظاهرة على الواو لأنّه فعل مضارع مرفوع، والضمير المتصل **هُ** مفعول به منصوب"
+      },
+      "hikmah": "*Menunjukkan sikap takut yang tidak seharusnya kepada Allah, melainkan harus menakutkan diri kepada-Nya.*",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "إِن",
+      "transliterasi": "in",
+      "jenis_kata": "Huruf",
+      "arti": "jika",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "huruf شرط (kata sambung bersyarat)",
+        "irab_dan_logika": "مبني لا محل له من الإعراب، يربط بين الشرط وجوابه"
+      },
+      "hikmah": "*Membuka rangkaian syarat yang menegaskan konsekuensi bila orang beriman takut kepada musuh.*",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "كُنتُم",
+      "transliterasi": "kuntum",
+      "jenis_kata": "Fi'il",
+      "arti": "kamu (itu) adalah",
+      "sharaf": {
+        "akar_kata": "ك ن ي",
+        "makna_dasar": "menjadi, ada",
+        "wazan_perubahan": "كان"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja (fi'il) dalam klausa bersyarat, predikat setelah **إِن**",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فعل ماضٍ مبني على الفتح"
+      },
+      "hikmah": "*Menegaskan keadaan kalian pada masa lalu/sekitar kondisi, yaitu sebagai orang beriman.*",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "مُّؤْمِنِينَ",
+      "transliterasi": "mu'minīn",
+      "jenis_kata": "Isim",
+      "arti": "orang‑orang beriman",
+      "sharaf": {
+        "akar_kata": "أ م ن",
+        "makna_dasar": "iman, percaya",
+        "wazan_perubahan": "مُفَعِلُون"
+      },
+      "nahwu": {
+        "kedudukan": "isim (isim maf'ul) sebagai predikat setelah **كُنتُم**",
+        "irab_dan_logika": "منصوب بالفتحة لأنه خبر كان"
+      },
+      "hikmah": "*Mengajarkan bahwa sesungguhnya yang patut ditakuti hanyalah Allah, dan orang beriman harus tetap teguh tanpa rasa takut kepada manusia.*",
+      "role": "none"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "surah": 11,
+  "ayah": 2,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "أَلَّا",
+      "transliterasi": "alla",
+      "jenis_kata": "Huruf",
+      "arti": "agar tidak",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "negasi",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "setelah huruf *li* (لِ) sebagai bagian dari larangan",
+        "irab_dan_logika": "حرف نصب لا يُعرب، يُنصب الفعل التالي لأنه نهي"
+      },
+      "hikmah": "menegaskan larangan menyembah selain Allah",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "تَعْبُدُوٓا۟",
+      "transliterasi": "ta'budū",
+      "jenis_kata": "Fi'il",
+      "arti": "kamu menyembah",
+      "sharaf": {
+        "akar_kata": "ع ب د",
+        "makna_dasar": "menyembah, beribadah",
+        "wazan_perubahan": "فعل مضارع"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja utama setelah *alla*",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فعل مضارع مرفوع"
+      },
+      "hikmah": "menunjukkan tindakan ibadah yang dilarang kecuali kepada Allah",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "إِلَّا",
+      "transliterasi": "illā",
+      "jenis_kata": "Huruf",
+      "arti": "kecuali",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "pengecualian",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "kata sambung setelah *alla*",
+        "irab_dan_logika": "حرف استثناء نصب"
+      },
+      "hikmah": "membatasi objek ibadah hanya kepada Allah",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "ٱللَّهَ",
+      "transliterasi": "Allāha",
+      "jenis_kata": "Isim",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "ل ه ا",
+        "makna_dasar": "nama Tuhan yang Maha Esa",
+        "wazan_perubahan": "اسم علم"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به للفعل *ta'budū*",
+        "irab_dan_logika": "منصوب بالفتحة لأنه مفعول به"
+      },
+      "hikmah": "objek tunggal ibadah yang diperintahkan",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Huruf",
+      "arti": "tanda waqf",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "menandai akhir bagian pertama ayat",
+        "irab_dan_logika": "bukan جزء من الإعراب"
+      },
+      "hikmah": "memberi jeda untuk memahami larangan",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "إِنَّنِى",
+      "transliterasi": "innani",
+      "jenis_kata": "Huruf",
+      "arti": "sesungguhnya aku",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "penegasan",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "حرف توكيد يسبق جملة الخبر",
+        "irab_dan_logika": "منصوب لأنه حرف نصب"
+      },
+      "hikmah": "menegaskan kedudukan Nabi sebagai pemberi peringatan",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "لَكُم",
+      "transliterasi": "lâkum",
+      "jenis_kata": "Huruf (preposisi)",
+      "arti": "bagi kamu",
+      "sharaf": {
+        "akar_kata": "li- (حرف جر)",
+        "makna_dasar": "menunjuk kepemilikan atau tujuan",
+        "wazan_perubahan": "tidak berlaku (bukan kata berakar tiga)"
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar yang melekat pada kata berikutnya (مِّنْهُ)",
+        "irab_dan_logika": "huruf *li* berharakat fatha pada lam, sukun pada kaf, damma pada mim; memberi i'rab jar pada kata sesudahnya"
+      },
+      "hikmah": "menunjukkan bahwa peringatan dan kabar gembira itu ditujukan **kepada kamu sekalian**",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "مِّنْهُ",
+      "transliterasi": "minhu",
+      "jenis_kata": "Huruf (preposisi)",
+      "arti": "dari Dia",
+      "sharaf": {
+        "akar_kata": "م‑ن (m‑n)",
+        "makna_dasar": "menunjuk asal atau sumber",
+        "wazan_perubahan": "bentuk *min* (حرف جر) + ضمير متصل"
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar yang melekat pada ضمير متصل (هُ)",
+        "irab_dan_logika": "*min* berharakat kasrah pada mim; ضمير المتصل berharakat dammah menandakan i'rab jar"
+      },
+      "hikmah": "menegaskan bahwa segala peringatan dan kabar gembira **berasal dari Allah SWT**",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "نَذِيرٌۭ",
+      "transliterasi": "nadhîrun",
+      "jenis_kata": "Isim (isim mufrad)",
+      "arti": "pemberi peringatan",
+      "sharaf": {
+        "akar_kata": "ن‑ذ‑ر",
+        "makna_dasar": "peringatan, nasihat",
+        "wazan_perubahan": "faʿīl (فَعِيل)"
+      },
+      "nahwu": {
+        "kedudukan": "isim predikat setelah *huwa* (هو)",
+        "irab_dan_logika": "marfuʿ dengan tanwin dammah karena menjadi خبر (khabar)"
+      },
+      "hikmah": "menyiratkan bahwa Allah **adalah sang pemberi peringatan** kepada umat manusia",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "وَبَشِيرٌۭ",
+      "transliterasi": "wa-bashîrûn",
+      "jenis_kata": "Huruf (wa) + Isim",
+      "arti": "dan pembawa kabar gembira",
+      "sharaf": {
+        "akar_kata": "ب‑ش‑ر",
+        "makna_dasar": "kabar gembira, berita baik",
+        "wazan_perubahan": "faʿīl (فَعِيل)"
+      },
+      "nahwu": {
+        "kedudukan": "isim yang dihubungkan dengan *nadhîr* lewat huruf *wa*",
+        "irab_dan_logika": "marfuʿ dengan tanwin dammah karena menjadi bagian dari predikat yang sama"
+      },
+      "hikmah": "Allah **juga merupakan pembawa kabar gembira** bagi orang-orang yang beriman",
+      "role": "none"
+    }
+  ]
+}

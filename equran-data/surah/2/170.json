@@ -1,0 +1,420 @@
+{
+  "surah": 2,
+  "ayah": 170,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "وَإِذَا",
+      "transliterasi": "wa-idhā",
+      "jenis_kata": "Huruf (Waw) + Isim (Idhā)",
+      "arti": "Dan apabila",
+      "sharaf": {
+        "akar_kata": "N/A (Waw: tidak ada, Idhā: tidak ada akar kata tunggal karena ini adalah ظرف زمان)",
+        "makna_dasar": "Waw: penghubung, Idhā: menunjukkan waktu atau kondisi yang akan datang.",
+        "wazan_perubahan": "N/A (Huruf dan Isim Dzharaf)"
+      },
+      "nahwu": {
+        "kedudukan": "Waw: Huruf 'athaf (penghubung), Idhā: Dzharaf zaman (keterangan waktu)",
+        "irab_dan_logika": "Waw: mabniyyun 'ala al-fath (tetap fathah), Idhā: mabniyyun 'ala as-sukūn fī mahalli nasb (tetap sukun, pada posisi nashab sebagai keterangan waktu)."
+      },
+      "hikmah": "Menunjukkan permulaan suatu kondisi atau peristiwa yang akan terjadi, menghubungkan dengan konteks sebelumnya.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "قِيلَ",
+      "transliterasi": "qīla",
+      "jenis_kata": "Fi'il (Kata Kerja)",
+      "arti": "Dikatakan",
+      "sharaf": {
+        "akar_kata": "ق و ل (Qāf, Waw, Lām)",
+        "makna_dasar": "Berkata, mengucapkan.",
+        "wazan_perubahan": "Fi'il Madhi Majhul (Kata kerja lampau pasif) dari wazan فَعَلَ (fa'ala) menjadi فُعِلَ (fu'ila)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Madhi Majhul",
+        "irab_dan_logika": "Mabniyyun 'ala al-fath (tetap fathah). Ini adalah fi'il majhul, sehingga membutuhkan nā'ib al-fā'il (pengganti subjek)."
+      },
+      "hikmah": "Menyoroti bahwa perkataan tersebut disampaikan oleh pihak lain, menunjukkan adanya dialog atau komunikasi yang terjadi.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "لَهُمُ",
+      "transliterasi": "lahumu",
+      "jenis_kata": "Huruf (Lām) + Dhamir (Hum)",
+      "arti": "Kepada mereka",
+      "sharaf": {
+        "akar_kata": "N/A (Lām: tidak ada, Hum: tidak ada)",
+        "makna_dasar": "Lām: kepemilikan, tujuan, Hum: mereka (jamak laki-laki)",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Lām: Huruf Jarr (preposisi), Hum: Dhamir muttasil majrur (kata ganti terhubung yang majrur)",
+        "irab_dan_logika": "Lām: mabniyyun 'ala al-fath (tetap fathah), Hum: mabniyyun 'ala ad-dhamm (tetap dhammah) fī mahalli jarr bi al-lām (pada posisi jarr karena huruf Lām). Mim dhammah di akhir karena bertemu alif lam pada kata berikutnya (ٱتَّبِعُوا۟), untuk menghindari dua sukun."
+      },
+      "hikmah": "Menjelaskan siapa yang menjadi objek atau sasaran dari perkataan yang disampaikan, yaitu sekelompok orang.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "ٱتَّبِعُوا۟",
+      "transliterasi": "ittabi'ū",
+      "jenis_kata": "Fi'il (Kata Kerja)",
+      "arti": "Ikutilah",
+      "sharaf": {
+        "akar_kata": "ت ب ع (Tā', Bā', 'Ain)",
+        "makna_dasar": "Mengikuti, menuruti.",
+        "wazan_perubahan": "Fi'il Amr (Kata kerja perintah) dari wazan اِفْتَعَلَ (ifta'ala). Asalnya تَبِعَ (tabi'a) menjadi اِتَّبَعَ (ittaba'a) lalu perintahnya اِتَّبِعْ (ittabi') dan untuk jamak اِتَّبِعُوا۟ (ittabi'ū)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Amr",
+        "irab_dan_logika": "Mabniyyun 'ala hadzfi an-nūn (tetap dengan menghilangkan nun) karena termasuk af'alul khamsah (lima kata kerja). Waw al-jama'ah adalah fa'il (subjek)."
+      },
+      "hikmah": "Sebuah perintah tegas untuk mengikuti sesuatu, menunjukkan ajakan atau tuntutan untuk patuh.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "مَآ",
+      "transliterasi": "mā",
+      "jenis_kata": "Isim Maushul (Kata Sambung)",
+      "arti": "Apa yang",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "Menghubungkan antara dua kalimat, merujuk pada sesuatu yang tidak spesifik.",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Isim Maushul",
+        "irab_dan_logika": "Mabniyyun 'ala as-sukūn fī mahalli nasb maf'ul bih (tetap sukun, pada posisi nashab sebagai objek) dari fi'il sebelumnya (ٱتَّبِعُوا۟). Alif kecil di atas mim menunjukkan mad thabi'i karena bertemu hamzah setelahnya (أَنزَلَ)."
+      },
+      "hikmah": "Berfungsi sebagai penghubung, merujuk pada 'sesuatu' yang akan dijelaskan lebih lanjut, dalam konteks ini adalah 'apa yang diturunkan'.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "أَنزَلَ",
+      "transliterasi": "anzala",
+      "jenis_kata": "Fi'il (Kata Kerja)",
+      "arti": "Menurunkan",
+      "sharaf": {
+        "akar_kata": "ن ز ل (Nūn, Zāy, Lām)",
+        "makna_dasar": "Turun, menurunkan.",
+        "wazan_perubahan": "Fi'il Madhi (Kata kerja lampau) dari wazan أَفْعَلَ (af'ala)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Madhi",
+        "irab_dan_logika": "Mabniyyun 'ala al-fath (tetap fathah). Fa'ilnya (subjeknya) adalah dhamir mustatir (tersembunyi) takdiruhu 'Huwa' (Allah)."
+      },
+      "hikmah": "Menunjukkan tindakan menurunkan sesuatu dari atas ke bawah, dalam konteks ini merujuk pada wahyu atau petunjuk dari Allah.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "ٱللَّهُ",
+      "transliterasi": "Allāhu",
+      "jenis_kata": "Isim (Nama Dzat)",
+      "arti": "Allah (Tuhan Yang Maha Esa)",
+      "sharaf": {
+        "akar_kata": "(Tidak memiliki akar kata dalam arti biasa, ini adalah Isim Dzat)",
+        "makna_dasar": "Nama Dzat Tuhan Yang Maha Esa, satu-satunya yang berhak disembah.",
+        "wazan_perubahan": "(Tidak berlaku untuk Isim Dzat)"
+      },
+      "nahwu": {
+        "kedudukan": "Fa'il (subjek) dari fi'il 'أَنزَلَ' (telah menurunkan) yang tersirat dalam frasa 'مَآ أَنزَلَ ٱللَّهُ'.",
+        "irab_dan_logika": "Marfu' (berharakat dhammah) karena kedudukannya sebagai Fa'il."
+      },
+      "hikmah": "Nama Dzat yang agung, menunjukkan keesaan dan kekuasaan Allah sebagai satu-satunya sumber petunjuk dan hukum yang wajib diikuti.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "قَالُوا۟",
+      "transliterasi": "Qālū",
+      "jenis_kata": "Fi'il (Kata Kerja)",
+      "arti": "Mereka berkata/menjawab",
+      "sharaf": {
+        "akar_kata": "ق و ل (Qāf-Wāw-Lām)",
+        "makna_dasar": "Berkata, berbicara, mengatakan.",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau), wazan فَعَلُوا (fa'alū) untuk jamak mudzakkar ghaib (mereka laki-laki)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Madhi (kata kerja lampau) yang diikuti oleh Wawu Jama'ah sebagai Fa'il (subjek).",
+        "irab_dan_logika": "Mabni (tetap) di atas dhammah karena bersambung dengan Wawu Jama'ah. Wawu Jama'ah adalah dhamir rafa' muttasil yang menjadi Fa'il."
+      },
+      "hikmah": "Menunjukkan respons penolakan dan pembangkangan dari orang-orang musyrik atau kaum yang menolak petunjuk Allah, mereka lebih memilih tradisi nenek moyang daripada wahyu.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "بَلْ",
+      "transliterasi": "Bal",
+      "jenis_kata": "Huruf (Partikel)",
+      "arti": "Tetapi, bahkan, melainkan",
+      "sharaf": {
+        "akar_kata": "(Tidak memiliki akar kata, ini adalah huruf)",
+        "makna_dasar": "Menunjukkan koreksi, pengalihan, atau penegasan.",
+        "wazan_perubahan": "(Tidak berlaku untuk huruf)"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf 'athaf (penghubung) atau huruf istidrak (koreksi/penegasan). Dalam konteks ini, ia berfungsi untuk mengoreksi atau menolak pernyataan sebelumnya dan menggantinya dengan pernyataan baru.",
+        "irab_dan_logika": "Mabni (tetap) di atas sukun, tidak memiliki kedudukan i'rab."
+      },
+      "hikmah": "Mengindikasikan penolakan tegas terhadap perintah Allah dan pengalihan fokus pada tradisi nenek moyang, menunjukkan keras kepala dan keengganan untuk menerima kebenaran.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "نَتَّبِعُ",
+      "transliterasi": "Nattabi'u",
+      "jenis_kata": "Fi'il (Kata Kerja)",
+      "arti": "Kami mengikuti",
+      "sharaf": {
+        "akar_kata": "ت ب ع (Tā'-Bā'-'Ain)",
+        "makna_dasar": "Mengikuti, menuruti, mengekor.",
+        "wazan_perubahan": "Fi'il Mudhari' (kata kerja sekarang/akan datang), wazan نَفْتَعِلُ (nafta'ilu) dari bab افتعل (ifta'ala). Huruf 'ن' di awal menunjukkan pelakunya adalah 'kami' (nahnu)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' (kata kerja sekarang/akan datang). Fa'ilnya adalah dhamir mustatir (tersembunyi) 'نحن' (kami).",
+        "irab_dan_logika": "Marfu' (berharakat dhammah) karena tidak didahului oleh amil nashab (penashab) atau amil jazm (penjazm)."
+      },
+      "hikmah": "Menunjukkan tindakan mengikuti secara aktif, namun dalam konteks ayat ini, ia digunakan untuk menyatakan pilihan yang salah, yaitu mengikuti tradisi nenek moyang yang tidak berdasar, bukan petunjuk Allah.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "مَآ",
+      "transliterasi": "Mā",
+      "jenis_kata": "Isim Maushul (Kata Sambung)",
+      "arti": "Apa yang, sesuatu yang",
+      "sharaf": {
+        "akar_kata": "(Tidak memiliki akar kata, ini adalah isim maushul)",
+        "makna_dasar": "Menghubungkan dua kalimat, merujuk pada sesuatu yang tidak spesifik.",
+        "wazan_perubahan": "(Tidak berlaku untuk isim maushul)"
+      },
+      "nahwu": {
+        "kedudukan": "Isim Maushul yang berfungsi sebagai Maf'ul Bih (objek) dari fi'il 'نَتَّبِعُ'.",
+        "irab_dan_logika": "Mabni (tetap) di atas sukun pada posisi nashab (objek)."
+      },
+      "hikmah": "Menunjukkan ketidakjelasan atau ketidakspesifikan dari apa yang mereka ikuti, yaitu 'sesuatu yang' mereka dapati dari nenek moyang, mengisyaratkan bahwa dasar pegangan mereka tidak kokoh dan tidak jelas.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "أَلْفَيْنَا",
+      "transliterasi": "Alfainā",
+      "jenis_kata": "Fi'il (Kata Kerja)",
+      "arti": "Kami dapati, kami temukan",
+      "sharaf": {
+        "akar_kata": "ل ف ي (Lām-Fā'-Yā')",
+        "makna_dasar": "Menemukan, mendapati, menjumpai.",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau), wazan أَفْعَلْنَا (af'alnā) dari bab أَفْعَلَ (af'ala). Huruf 'نَا' di akhir menunjukkan pelakunya adalah 'kami' (nahnu)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Madhi (kata kerja lampau). 'نَا' adalah dhamir rafa' muttasil yang menjadi Fa'il (subjek). Kalimat fi'liyah 'أَلْفَيْنَا' adalah Silatul Maushul (anak kalimat penghubung) bagi Isim Maushul 'مَآ'.",
+        "irab_dan_logika": "Mabni (tetap) di atas sukun karena bersambung dengan dhamir rafa' muttasil 'نَا'."
+      },
+      "hikmah": "Menjelaskan bahwa dasar pegangan mereka adalah apa yang 'telah mereka dapati' atau 'temukan' dari nenek moyang, bukan dari wahyu atau akal sehat, menunjukkan keterikatan buta pada tradisi tanpa dasar yang kuat.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "عَلَيْهِ",
+      "transliterasi": "ʿalayhi",
+      "jenis_kata": "Huruf (preposisi + ضمير)",
+      "arti": "atasnya, kepadanya",
+      "sharaf": {
+        "akar_kata": "على",
+        "makna_dasar": "di atas, mengenai",
+        "wazan_perubahan": "penambahan ضمير متصل (ه) untuk menunjukkan kepemilikan"
+      },
+      "nahwu": {
+        "kedudukan": "keterangan tempat (jar) yang menjelaskan فعل *وَجَدْنَا*",
+        "irab_dan_logika": "مجرور بالكسرة بسبب حرف الجر *على*، والضمير المتصل *ه* في محل جر"
+      },
+      "hikmah": "Menunjukkan bahwa apa yang mereka ikuti dianggap **diturunkan atas** nenek moyang mereka, bukan perintah langsung Allah.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "آبَائِنَا",
+      "transliterasi": "ābā'inā",
+      "jenis_kata": "Isim (kata benda)",
+      "arti": "para ayah kami",
+      "sharaf": {
+        "akar_kata": "أ ب أ",
+        "makna_dasar": "ayah",
+        "wazan_perubahan": "مفعل (bentuk jamak غير مذكر سالم) dengan tanda kepemilikan *‑نا*"
+      },
+      "nahwu": {
+        "kedudukan": "keterangan tempat (jar) yang tergantung pada *على*",
+        "irab_dan_logika": "مجرور بالكسرة بسبب حرف الجر *على*، والضمير المتصل *نا* في محل جر"
+      },
+      "hikmah": "Menegaskan bahwa mereka meneladani **tradisi ayah‑ayah mereka**, bukan petunjuk Allah.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "ۗ",
+      "transliterasi": "ۗ",
+      "jenis_kata": "Huruf (tanda waqf)",
+      "arti": "tanda berhenti, koma",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "simbol waqf, tidak berirab",
+        "irab_dan_logika": "bukan bagian sintaks, berfungsi sebagai jeda bacaan"
+      },
+      "hikmah": "Memberi jeda untuk menekankan makna sebelumnya sebelum pertanyaan retoris selanjutnya.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "أَوَلَوْ",
+      "transliterasi": "awalu",
+      "jenis_kata": "Huruf (partikel pertanyaan)",
+      "arti": "apakah mereka",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "حرف استفهام مبني على السكون، لا محل له من الإعراب",
+        "irab_dan_logika": "مبني على السكون، يسبق جملة استفهامية ويعمل على طلب جواب رَدِّي"
+      },
+      "hikmah": "Menyiratkan **pertanyaan retoris** tentang kebodohan mereka yang tetap mengikuti tradisi lama.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "كَانَ",
+      "transliterasi": "kāna",
+      "jenis_kata": "Fi'il (kata kerja)",
+      "arti": "adalah, menjadi",
+      "sharaf": {
+        "akar_kata": "ك و ن",
+        "makna_dasar": "menjadi, ada",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ماضٍ مبني على الفتح",
+        "irab_dan_logika": "مبني على الفتح، والفاعل ضمير مستتر تقديره هو (الـنّ)"
+      },
+      "hikmah": "Menegaskan keadaan **tidak mengetahui** atau **ketidaktahuan** mereka terhadap kebenaran.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "آبَاؤُهُمْ",
+      "transliterasi": "ābā'uhum",
+      "jenis_kata": "Isim (kata benda)",
+      "arti": "para ayah mereka",
+      "sharaf": {
+        "akar_kata": "أ ب أ",
+        "makna_dasar": "ayah",
+        "wazan_perubahan": "مفعول (jamak غير مذكر سالم) مع ضمير المتصل *‑هم*"
+      },
+      "nahwu": {
+        "kedudukan": "مجرور بحرف الجر *إِلَى* في العبارة *إِلَىٰ أَهْلِهِمْ*",
+        "irab_dan_logika": "مجرور بالكسرة بسبب حرف الجر *إِلَى*، والضمير المتصل *هم* في محل جر"
+      },
+      "hikmah": "Menunjukkan bahwa **nenek moyang mereka** tidak memiliki petunjuk, sehingga mengikuti mereka adalah mengikuti kebodohan.",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "لَا",
+      "transliterasi": "lā",
+      "jenis_kata": "Huruf (partikel negatif)",
+      "arti": "tidak",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf nashr (penafian) yang memperkenalkan verba selanjutnya",
+        "irab_dan_logika": "حرف نفي مبني على السكون لا إعراب له، يسبق الفعل المضارع"
+      },
+      "hikmah": "*Menegaskan penolakan total*; tidak ada ruang bagi alasan atau pembenaran.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "يَعْقِلُونَ",
+      "transliterasi": "ya‘qilūna",
+      "jenis_kata": "Fi'il (verb)",
+      "arti": "mereka mengerti / berakal",
+      "sharaf": {
+        "akar_kata": "ع ق ل",
+        "makna_dasar": "akal, pemahaman",
+        "wazan_perubahan": "فَعَلَ – bentuk مضارع مرفوع (يَفْعَلُ)"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع بالضمة الظاهرة، فاعل مستتر (هم)",
+        "irab_dan_logika": "الضمة علامة الرفع لأن الفعل مضارع مرفوع بعد لا النافية"
+      },
+      "hikmah": "*Mereka tidak memiliki kemampuan berpikir*; kebodohan mereka bukan sekadar tidak tahu, melainkan tidak mampu mengerti apa pun.",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "شَيْئًا",
+      "transliterasi": "shay’an",
+      "jenis_kata": "Isim (noun)",
+      "arti": "sesuatu",
+      "sharaf": {
+        "akar_kata": "ش ي ء",
+        "makna_dasar": "benda, sesuatu yang dapat dipikirkan",
+        "wazan_perubahan": "فَعْلاً"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به منصوب للفعل يَعْقِلُونَ",
+        "irab_dan_logika": "الفتحة الظاهرة تدل على النصب لأن الكلمة مفعول به"
+      },
+      "hikmah": "*Tidak ada apa‑apa* yang mereka mengerti; kebodohan mereka meluas hingga pada hal paling sederhana.",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "وَلَا",
+      "transliterasi": "wa‑lā",
+      "jenis_kata": "Huruf (wa + lā)",
+      "arti": "dan tidak",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "حرف عطف مبني على السكون يربط بين جملتين سلبية",
+        "irab_dan_logika": "حرف عطف لا إعراب له، يسبق الفعل المضارع الثاني"
+      },
+      "hikmah": "*Penegasan lanjutan*; selain tidak mengerti, mereka juga tidak mendapat petunjuk.",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "يَهْتَدُونَ",
+      "transliterasi": "yah'tadūna",
+      "jenis_kata": "Fi'il (verb)",
+      "arti": "mereka mendapat petunjuk",
+      "sharaf": {
+        "akar_kata": "ه د ي",
+        "makna_dasar": "menunjukkan jalan, memberi petunjuk",
+        "wazan_perubahan": "اِفْتَعَل – صيغة مفعول به ذاتية (يَفْتَعِل)"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع بالضمة الظاهرة، فاعل مستتر (هم)",
+        "irab_dan_logika": "الضمة علامة الرفع لأن الفعل مضارع مرفوع بعد لا النافية"
+      },
+      "hikmah": "*Mereka tidak dipandu*; kebodohan mereka tidak hanya pada akal, tetapi juga pada petunjuk ilahi, sehingga terjerumus dalam kesesatan.",
+      "role": "none"
+    }
+  ]
+}

@@ -1,0 +1,420 @@
+{
+  "surah": 9,
+  "ayah": 18,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "إِنَّمَا",
+      "transliterasi": "innama",
+      "jenis_kata": "Huruf (partikel penegasan)",
+      "arti": "hanya",
+      "sharaf": {
+        "akar_kata": "—",
+        "makna_dasar": "—",
+        "wazan_perubahan": "—"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf takid (penegasan) yang mendahului klausa *يَعْمُرُ*",
+        "irab_dan_logika": "Tidak memiliki إعراب karena merupakan حرف توكيد لا إعراب له؛ يسبق الفعل المضارع المرفوع"
+      },
+      "hikmah": "Menegaskan bahwa yang menegakkan masjid‑masjid Allah hanyalah **orang‑orang tertentu** yang disebutkan kemudian.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "يَعْمُرُ",
+      "transliterasi": "ya‘muru",
+      "jenis_kata": "Fi'il (verb, mudhari‘)",
+      "arti": "menyemarakkan, mengisi",
+      "sharaf": {
+        "akar_kata": "ع م ر",
+        "makna_dasar": "hidup, mengisi, memelihara",
+        "wazan_perubahan": "فعل مضارع مرفوع بالضمة"
+      },
+      "nahwu": {
+        "kedudukan": "Predikat (khabar) setelah حرف إنَّمَا",
+        "irab_dan_logika": "مرفوع بالضمة لأن الفعل مضارع مرفوع بعد حرف إنَّمَا الذي لا يغير إعراب الفعل"
+      },
+      "hikmah": "Menggambarkan tindakan aktif memperbanyak aktivitas ibadah di dalam masjid‑masjid Allah.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "مَسَٰجِدَ",
+      "transliterasi": "masājida",
+      "jenis_kata": "Isim (noun, jamak taksir)",
+      "arti": "masjid‑masjid",
+      "sharaf": {
+        "akar_kata": "س ج د",
+        "makna_dasar": "tempat sujud, tempat ibadah",
+        "wazan_perubahan": "اسم جمع مذكر سالم (مساجد)"
+      },
+      "nahwu": {
+        "kedudukan": "Maf‘ūl bihi (objek) dari الفعل يَعْمُرُ",
+        "irab_dan_logika": "منصوب بالفتحة لأنه مفعول به للفعل المتعدي يَعْمُرُ"
+      },
+      "hikmah": "Menunjukkan bahwa yang dimaksud adalah **semua tempat ibadah** yang berada di bawah naungan Allah.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "ٱللَّهِ",
+      "transliterasi": "Allāh",
+      "jenis_kata": "Isim (nama Allah)",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "أ ل ه",
+        "makna_dasar": "ilah, Tuhan Yang Maha Esa",
+        "wazan_perubahan": "اسم علم"
+      },
+      "nahwu": {
+        "kedudukan": "مضاف إليه dalam iḍāfah *مساجد الله*",
+        "irab_dan_logika": "مجرور بالكسرة لأنه مضاف إليه بعد المضاف *مساجد*"
+      },
+      "hikmah": "Menegaskan kepemilikan Allah atas semua masjid, sehingga menambah nilai kesucian tempat ibadah tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "مَنْ",
+      "transliterasi": "man",
+      "jenis_kata": "Isim (اسم موصول)",
+      "arti": "siapa",
+      "sharaf": {
+        "akar_kata": "—",
+        "makna_dasar": "—",
+        "wazan_perubahan": "—"
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada’ (subjek) bagi الفعل *آمَنَ*",
+        "irab_dan_logika": "مرفوع بالضمة المقدرة على النون لأنه اسم موصول مبني على السكون في محل رفع"
+      },
+      "hikmah": "Menunjuk kepada **golongan orang beriman** yang akan disebutkan selanjutnya.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "ءَامَنَ",
+      "transliterasi": "āmana",
+      "jenis_kata": "Fi'il (verb, madhi)",
+      "arti": "beriman",
+      "sharaf": {
+        "akar_kata": "أ م ن",
+        "makna_dasar": "amanah, percaya, yakin",
+        "wazan_perubahan": "فعل ماضٍ ثلاثي مجرد"
+      },
+      "nahwu": {
+        "kedudukan": "Predikat (khabar) untuk اسم موصول *مَنْ*",
+        "irab_dan_logika": "مبني على الفتح لأنه فعل ماضٍ لا يتغير إعرابه"
+      },
+      "hikmah": "Menyiratkan bahwa keimanan adalah syarat utama bagi mereka yang menegakkan masjid‑masjid Allah.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "بِٱللَّهِ",
+      "transliterasi": "bi-llāhi",
+      "jenis_kata": "Huruf",
+      "arti": "dengan Allah",
+      "sharaf": {
+        "akar_kata": "الله",
+        "makna_dasar": "Allah",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Preposisi yang menghubungkan kata kerja \"يُسَبِّحُ\" (memakmurkan) dengan nama Allah",
+        "irab_dan_logika": "Majrur karena huruf jar \"bi\" memberi kasrah pada kata berikutnya"
+      },
+      "hikmah": "Menunjukkan bahwa kemakmuran masjid hanya terjadi bila didasarkan pada ketundukan kepada Allah",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "ٱلْءَاخِرِ",
+      "transliterasi": "al-ākhiri",
+      "jenis_kata": "Isim",
+      "arti": "yang akhir",
+      "sharaf": {
+        "akar_kata": "آخَر",
+        "makna_dasar": "akhir",
+        "wazan_perubahan": "isim sifat (aktif)"
+      },
+      "nahwu": {
+        "kedudukan": "Lanjutan frasa \"al-yawmi al-ākhiri\" sebagai mudhaf majrur",
+        "irab_dan_logika": "Majrur (kasrah) karena berhubungan dengan kata sebelumnya"
+      },
+      "hikmah": "Menegaskan bahwa keimanan mencakup keyakinan pada akhir zaman",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "وَأَقَامَ",
+      "transliterasi": "wa-aqāma",
+      "jenis_kata": "Fi'il",
+      "arti": "dan mendirikan",
+      "sharaf": {
+        "akar_kata": "ق و م",
+        "makna_dasar": "mendirikan, menegakkan",
+        "wazan_perubahan": "فعل ثلاثي مجرد"
+      },
+      "nahwu": {
+        "kedudukan": "Kata kerja utama dalam ayat, dihubungkan dengan konjungsi \"wa\"",
+        "irab_dan_logika": "Mazi (past tense) berharakat fathah karena bentuk fi'il madhi"
+      },
+      "hikmah": "Menunjukkan tindakan menegakkan shalat sebagai bagian dari keimanan",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "ٱلصَّلَوٰةَ",
+      "transliterasi": "aṣ-ṣalāh",
+      "jenis_kata": "Isim",
+      "arti": "shalat",
+      "sharaf": {
+        "akar_kata": "ص ل و",
+        "makna_dasar": "salat (ibadah shalat)",
+        "wazan_perubahan": "isim"
+      },
+      "nahwu": {
+        "kedudukan": "Objek (maf'ul bih) dari fi'il \"aqāma\"",
+        "irab_dan_logika": "Munshab (ditempatkan) dengan harakat fathah karena menjadi maf'ul bih"
+      },
+      "hikmah": "Shalat adalah ibadah yang wajib ditegakkan oleh orang beriman",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "وَءَاتَى",
+      "transliterasi": "wa-ʾāṭā",
+      "jenis_kata": "Fi'il",
+      "arti": "dan memberi",
+      "sharaf": {
+        "akar_kata": "أ ت ي",
+        "makna_dasar": "memberi, menunaikan",
+        "wazan_perubahan": "فعل ثلاثي مجرد"
+      },
+      "nahwu": {
+        "kedudukan": "Kata kerja lanjutan yang dihubungkan dengan konjungsi \"wa\"",
+        "irab_dan_logika": "Mazi (past tense) berharakat fathah"
+      },
+      "hikmah": "Menunjukkan kewajiban memberi zakat sebagai manifestasi keimanan",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "ٱلزَّكَوٰةَ",
+      "transliterasi": "al‑zakāhata",
+      "jenis_kata": "Isim (kata benda)",
+      "arti": "zakat (pemberian amal)",
+      "sharaf": {
+        "akar_kata": "ز‑ك‑و",
+        "makna_dasar": "menyucikan, menambah",
+        "wazan_perubahan": "fa‘ala (bentuk I) → zakāh"
+      },
+      "nahwu": {
+        "kedudukan": "objek (maf‘ūl bi al‑ḥarf) dari fi‘il *yakhsha*",
+        "irab_dan_logika": "berharakat fathah + tanwīn fathah karena berfungsi sebagai maf‘ūl bi al‑ḥarf dalam kalimat"
+      },
+      "hikmah": "Zakat adalah sarana penyucian harta dan peningkatan spiritual, menandakan kepatuhan hamba kepada Allah.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "وَلَمْ",
+      "transliterasi": "wa lam",
+      "jenis_kata": "Huruf (partikel)",
+      "arti": "dan tidak",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "menyatakan penolakan/negasi",
+        "wazan_perubahan": "partikel penghubung + partikel negasi"
+      },
+      "nahwu": {
+        "kedudukan": "huruf ‘am ‘azim yang menghubungkan dan meniadakan fi‘il selanjutnya",
+        "irab_dan_logika": "‘lam’ mengharuskan fi‘il berikutnya berharakat sukun (jazm)"
+      },
+      "hikmah": "Menegaskan bahwa tindakan selanjutnya (takut) tidak terjadi kecuali kepada Allah semata.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "يَخْشَ",
+      "transliterasi": "yakhsha",
+      "jenis_kata": "Fi‘il (kata kerja)",
+      "arti": "takut",
+      "sharaf": {
+        "akar_kata": "خ‑ش‑ع",
+        "makna_dasar": "merasa takut, khawatir",
+        "wazan_perubahan": "ya‑CCaC (bentuk I, mudhari‘)"
+      },
+      "nahwu": {
+        "kedudukan": "fi‘il majhūm (jazm) karena didahului ‘lam’",
+        "irab_dan_logika": "berharakat sukun pada huruf terakhir (ya‑khsha) menandakan bentuk jazm"
+      },
+      "hikmah": "Menunjukkan bahwa rasa takut yang dimaksud hanyalah kepada Allah, bukan kepada makhluk lain.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "إِلَّا",
+      "transliterasi": "illā",
+      "jenis_kata": "Huruf (partikel)",
+      "arti": "kecuali",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "mengecualikan, membatasi",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "huruf ‘istithnā’ yang mengecualikan objek sebelumnya",
+        "irab_dan_logika": "menyambung langsung ke kata berikutnya tanpa harakat tambahan"
+      },
+      "hikmah": "Menyiratkan bahwa satu‑satunya yang ditakuti adalah Allah saja.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "ٱللَّهَ",
+      "transliterasi": "Allāha",
+      "jenis_kata": "Isim (kata benda)",
+      "arti": "Allah (Tuhan)",
+      "sharaf": {
+        "akar_kata": "ل‑ه‑ا (الله)",
+        "makna_dasar": "nama Allah, Tuhan yang Maha Esa",
+        "wazan_perubahan": "nama khusus, tidak mengikuti pola biasa"
+      },
+      "nahwu": {
+        "kedudukan": "maf‘ūl bi al‑ḥarf (objek) dari fi‘il *yakhsha*",
+        "irab_dan_logika": "berharakat fathah karena berfungsi sebagai maf‘ūl bi al‑ḥarf"
+      },
+      "hikmah": "Menegaskan bahwa ketakwaan sejati hanya ditujukan kepada Allah, Sang Pencipta.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "ۖ",
+      "transliterasi": "(tanda waqf ‘istirāḥah)",
+      "jenis_kata": "Tanda baca (simbol waqf)",
+      "arti": "tanda jeda",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "menunjukkan jeda singkat dalam bacaan",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "simbol waqf akhir ayat, tidak berirab",
+        "irab_dan_logika": "tidak memengaruhi i‘rāb kata‑kata sebelumnya"
+      },
+      "hikmah": "Memberi kesempatan bagi pendengar untuk merenungkan makna ayat sebelum melanjutkan bacaan.",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "فَعَسَىٰ",
+      "transliterasi": "fa‘asā",
+      "jenis_kata": "Huruf",
+      "arti": "mungkin; harap",
+      "sharaf": {
+        "akar_kata": "ع س ي",
+        "makna_dasar": "mengharapkan, berkeinginan",
+        "wazan_perubahan": "فَعَلَ (fa‘ala)"
+      },
+      "nahwu": {
+        "kedudukan": "huruf pengharapan yang memperkenalkan kalimat bersyarat",
+        "irab_dan_logika": "berharakat fatha pada ف, sukun pada ع, alif setelah س; berfungsi sebagai حرف نصب غير جازم"
+      },
+      "hikmah": "menunjukkan harapan Allah bahwa kelompok tersebut termasuk orang yang mendapat petunjuk.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "أُولَٰئِكَ",
+      "transliterasi": "ulā’ika",
+      "jenis_kata": "Isim",
+      "arti": "mereka itu",
+      "sharaf": {
+        "akar_kata": "أ ل ك",
+        "makna_dasar": "menunjuk pada orang tertentu",
+        "wazan_perubahan": "اسم إشارة"
+      },
+      "nahwu": {
+        "kedudukan": "isim إشارة في محل رفع مبتدأ بعد فَعَسَىٰ",
+        "irab_dan_logika": "مبني على الضم، علامة الرفع الضمة الظاهرة على أُ"
+      },
+      "hikmah": "menandai kelompok orang yang dimaksud dalam ayat, yaitu orang‑orang beriman.",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "أَن",
+      "transliterasi": "an",
+      "jenis_kata": "Huruf",
+      "arti": "bahwa",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "menyatakan sebab أو شرط",
+        "wazan_perubahan": "حرف نصب"
+      },
+      "nahwu": {
+        "kedudukan": "حرف نصب يربط الجملة الفعلية بالسابقة",
+        "irab_dan_logika": "حرف مبني على الفتح، يسبب نصب الفعل المضارع التالي"
+      },
+      "hikmah": "menyambungkan harapan dengan kemungkinan bahwa mereka termasuk orang yang mendapat petunjuk.",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "يَكُونُوا۟",
+      "transliterasi": "yakūnū",
+      "jenis_kata": "Fi'il",
+      "arti": "menjadi",
+      "sharaf": {
+        "akar_kata": "ك و ن",
+        "makna_dasar": "keberadaan, menjadi",
+        "wazan_perubahan": "فعل مضارع"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع منصوب بـ 'أن'",
+        "irab_dan_logika": "مرفوع بالضمة لأن 'أن' تنصب الفعل، والواو للغائب جمع مذكر سالم"
+      },
+      "hikmah": "menyiratkan kemungkinan bahwa mereka akan termasuk dalam golongan yang mendapat petunjuk.",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "مِنَ",
+      "transliterasi": "mina",
+      "jenis_kata": "Huruf",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "menunjuk asal atau bagian",
+        "wazan_perubahan": "حرف جر"
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر يجر الاسم التالي",
+        "irab_dan_logika": "مجرور بالكسرة، والكسرة على الميم تدل على الجر"
+      },
+      "hikmah": "menunjukkan bahwa mereka termasuk dalam kelompok 'orang‑orang yang mendapat petunjuk'.",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "ٱلْمُهْتَدِينَ",
+      "transliterasi": "al-muh'tadīna",
+      "jenis_kata": "Isim",
+      "arti": "orang‑orang yang mendapat petunjuk",
+      "sharaf": {
+        "akar_kata": "ه د ي",
+        "makna_dasar": "petunjuk, bimbingan",
+        "wazan_perubahan": "اسم فاعل مضعف (مُهْتَدٍ) + جمع مذكر سالم"
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    }
+  ]
+}

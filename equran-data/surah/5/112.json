@@ -1,0 +1,366 @@
+{
+  "surah": 5,
+  "ayah": 112,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "إِذْ",
+      "transliterasi": "idh",
+      "jenis_kata": "Huruf",
+      "arti": "*ketika*",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "kata sambung waktu",
+        "wazan_perubahan": "tidak berlaku (kata tak berakar)"
+      },
+      "nahwu": {
+        "kedudukan": "kata sambung (حرف زمان) yang memperkenalkan klausa temporal",
+        "irab_dan_logika": "tidak ber-i'rab, berharakat sukun karena merupakan huruf yang indeklinable"
+      },
+      "hikmah": "Menunjukkan bahwa peristiwa yang akan diceritakan terjadi pada waktu tertentu, menyiapkan konteks historis.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "قَالَ",
+      "transliterasi": "qaala",
+      "jenis_kata": "Fi'il",
+      "arti": "*berkata*",
+      "sharaf": {
+        "akar_kata": "ق و ل",
+        "makna_dasar": "mengucapkan, menyatakan",
+        "wazan_perubahan": "fi'il madhi tiga huruf (فعل ماضٍ مجرد)"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja utama dalam ayat, predikat bagi subjek *الْحَوَارِيُّونَ*",
+        "irab_dan_logika": "مرفوع بالضمة karena fi'il madhi"
+      },
+      "hikmah": "Menegaskan tindakan verbal para pengikut Isa, menyiapkan dialog antara mereka dan Isa.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "ٱلْحَوَارِيُّونَ",
+      "transliterasi": "al-ḥawāriyyūna",
+      "jenis_kata": "Isim",
+      "arti": "*para pengikut*",
+      "sharaf": {
+        "akar_kata": "ح و ر",
+        "makna_dasar": "orang yang mengelilingi, pengikut",
+        "wazan_perubahan": "isim jamak muthakkar salim (فَعَلِيُّون)"
+      },
+      "nahwu": {
+        "kedudukan": "مبتدأ (subjek) bagi fi'il *قَالَ*",
+        "irab_dan_logika": "مرفوع بالضمة لأنّها مبتدأ"
+      },
+      "hikmah": "Menunjukkan kelompok orang yang setia kepada Isa, menyoroti peran kolektif dalam pertanyaan mereka.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "يَٰعِيسَى",
+      "transliterasi": "yā ‘Īsā",
+      "jenis_kata": "Huruf",
+      "arti": "*hai Isa*",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "seruan panggilan",
+        "wazan_perubahan": "kata panggilan (نادى)"
+      },
+      "nahwu": {
+        "kedudukan": "منادى (panggilan) kepada Isa",
+        "irab_dan_logika": "مجرور بالكسرة لأنّها منادى"
+      },
+      "hikmah": "Menyampaikan rasa hormat dan keintiman dalam dialog, menegaskan bahwa pertanyaan diarahkan langsung kepada Isa.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "ٱبْنَ",
+      "transliterasi": "ibna",
+      "jenis_kata": "Isim",
+      "arti": "*anak laki‑laki*",
+      "sharaf": {
+        "akar_kata": "أ ب ن",
+        "makna_dasar": "anak",
+        "wazan_perubahan": "isim mudhaf (مضاف) dalam iḍāfah"
+      },
+      "nahwu": {
+        "kedudukan": "مضاف في إِضَافَة (bagian pertama) setelah *يَٰعِيسَى*",
+        "irab_dan_logika": "منصوب بالفتحة لأنّها مضاف إليه"
+      },
+      "hikmah": "Menegaskan identitas Isa sebagai 'putera' Maryam, menekankan hubungan genealogis yang penting dalam konteks pertanyaan.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "مَرْيَمَ",
+      "transliterasi": "Maryam",
+      "jenis_kata": "Isim",
+      "arti": "*Maryam*",
+      "sharaf": {
+        "akar_kata": "م ر ي م",
+        "makna_dasar": "nama perempuan, ibu Isa",
+        "wazan_perubahan": "nama khusus (اسم علم)"
+      },
+      "nahwu": {
+        "kedudukan": "مضاف إليه (bagian kedua) dalam iḍāfah *ابن مريم*",
+        "irab_dan_logika": "منصوب بالفتحة karena termasuk dalam iḍāfah"
+      },
+      "hikmah": "Menegaskan peran Maryam sebagai ibu Isa, memperkuat konteks historis‑teologis pertanyaan para pengikut.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "هَلْ",
+      "transliterasi": "hal",
+      "jenis_kata": "Huruf",
+      "arti": "apakah (kata tanya)",
+      "sharaf": {
+        "akar_kata": "هَل",
+        "makna_dasar": "menunjukkan pertanyaan",
+        "wazan_perubahan": "tidak berubah"
+      },
+      "nahwu": {
+        "kedudukan": "kata tanya di awal pertanyaan",
+        "irab_dan_logika": "berharakat sukun pada akhir karena huruf pertanyaan tidak berinfleksi"
+      },
+      "hikmah": "menunjukkan keraguan atau permintaan penjelasan tentang kemampuan Tuhan",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "يَسْتَطِيعُ",
+      "transliterasi": "yastati‘u",
+      "jenis_kata": "Fi‘il",
+      "arti": "dapat, mampu",
+      "sharaf": {
+        "akar_kata": "ط-و-ع",
+        "makna_dasar": "memungkinkan, memberi kemampuan",
+        "wazan_perubahan": "form I (istaf‘ala) dengan pola يَستَطِيعُ"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja mudhari‘ (present) sebagai predikat pertanyaan",
+        "irab_dan_logika": "dhammah karena mudhari‘"
+      },
+      "hikmah": "menanyakan kemampuan Tuhan untuk menurunkan",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "رَبُّكَ",
+      "transliterasi": "rabbuka",
+      "jenis_kata": "Isim",
+      "arti": "Tuhannya (mu)",
+      "sharaf": {
+        "akar_kata": "ر-ب-ب",
+        "makna_dasar": "pemilik, penguasa",
+        "wazan_perubahan": "isim mudhaf dengan dammah pada رَبُّ dan kasrah pada suffix كَ"
+      },
+      "nahwu": {
+        "kedudukan": "objek mudhaf (milik) dalam pertanyaan",
+        "irab_dan_logika": "marfu‘ dengan dammah pada رَبُّ, kasrah pada كَ"
+      },
+      "hikmah": "menunjuk kepada Tuhan yang dimiliki oleh Isa",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "أَن",
+      "transliterasi": "an",
+      "jenis_kata": "Huruf",
+      "arti": "bahwa",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "menyambungkan kalimat",
+        "wazan_perubahan": "tidak berubah"
+      },
+      "nahwu": {
+        "kedudukan": "huruf penghubung (jar) sebelum فعل",
+        "irab_dan_logika": "tidak berirab, menghubungkan fi‘il dan jamak"
+      },
+      "hikmah": "menandakan kutipan pertanyaan",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "مَآئِدَةًۭ",
+      "transliterasi": "ma'idatan",
+      "jenis_kata": "Isim",
+      "arti": "hidangan, makanan",
+      "sharaf": {
+        "akar_kata": "أ-و-د",
+        "makna_dasar": "tempat duduk, meja",
+        "wazan_perubahan": "مَفْعَلَة"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به (objek) dari فعل نَزَلَ",
+        "irab_dan_logika": "مجرَّد مفعول به منصوب بالفتحة وتنوين الضمّة لأنّها غير معرفة"
+      },
+      "hikmah": "Menunjukkan permintaan akan rezeki yang turun dari Allah, melambangkan harapan akan keberkahan ilahi.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "مِّنَ",
+      "transliterasi": "mina",
+      "jenis_kata": "Huruf",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "م-ن-ا",
+        "makna_dasar": "menunjuk asal atau sumber",
+        "wazan_perubahan": "حرف جر"
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر يربط بين المفعول به (مائدةً) واسم الجر (السَّماءِ)",
+        "irab_dan_logika": "حرف لا إعراب له، يجر الاسم بعده إلى الجر"
+      },
+      "hikmah": "Menegaskan bahwa hidangan diminta berasal dari sumber yang tinggi, yaitu langit.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "ٱلسَّمَآءِ",
+      "transliterasi": "as-samā'i",
+      "jenis_kata": "Isim",
+      "arti": "langit",
+      "sharaf": {
+        "akar_kata": "س-م-و",
+        "makna_dasar": "tinggi, ruang di atas",
+        "wazan_perubahan": "فَعَال"
+      },
+      "nahwu": {
+        "kedudukan": "اسم مجرور بحرف الجر \"مِنَ\"",
+        "irab_dan_logika": "مجرور بالكسرة لأنّها مضافة إلى حرف الجر"
+      },
+      "hikmah": "Menyiratkan sumber yang maha luas dan mulia, tempat turunnya rezeki bila Allah menghendaki.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "ۖ",
+      "transliterasi": "(tanda jeda)",
+      "jenis_kata": "Huruf",
+      "arti": "tanda baca (pause)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": "tanda baca"
+      },
+      "nahwu": {
+        "kedudukan": "علامة وقف تُستعمل لتقسيم الجملة",
+        "irab_dan_logika": "ليس لها إعراب؛ تُظهر وقفة خفيفة بين الجمل"
+      },
+      "hikmah": "Memberi jeda bagi pendengar/ pembaca sebelum melanjutkan ke pernyataan berikutnya.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "قَالَ",
+      "transliterasi": "qāla",
+      "jenis_kata": "Fi'il",
+      "arti": "dia berkata",
+      "sharaf": {
+        "akar_kata": "ق-و-ل",
+        "makna_dasar": "mengucapkan, menyatakan",
+        "wazan_perubahan": "فعل ماضٍ ثلاثي مجرد"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ماضٍ مبني على الفتح",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فعل ماضٍ لا محل له من الإعراب"
+      },
+      "hikmah": "Menegaskan respons Isa terhadap permintaan para pengikutnya.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "ٱتَّقُوا۟",
+      "transliterasi": "ittaqu",
+      "jenis_kata": "Fi'il",
+      "arti": "bertakwalah (perintah)",
+      "sharaf": {
+        "akar_kata": "و-ق-ى",
+        "makna_dasar": "menjaga diri dari Allah, takut kepada-Nya",
+        "wazan_perubahan": "فعل أمر من وزن اِفْعَلُوا"
+      },
+      "nahwu": {
+        "kedudukan": "فعل أمر موجه للمخاطبين الجمع",
+        "irab_dan_logika": "لا إعراب له؛ يُنادى على الجمع بأمرٍ"
+      },
+      "hikmah": "Ajakan kuat kepada keimanan sejati, menekankan bahwa ketakwaan adalah syarat utama bagi mereka yang menginginkan mukjizat.",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "ٱللَّهَ",
+      "transliterasi": "Allāha",
+      "jenis_kata": "Isim",
+      "arti": "Tuhan",
+      "sharaf": {
+        "akar_kata": "أ ل ه",
+        "makna_dasar": "menyembah, mengatur",
+        "wazan_perubahan": "Isim mufrad singular accusative"
+      },
+      "nahwu": {
+        "kedudukan": "objek (مفعول به) dalam kalimat",
+        "irab_dan_logika": "مَنْصُوب بالفتحة لأنّها مفعول به بعد حرف الشرط **إِن**"
+      },
+      "hikmah": "Allah disebut sebagai tujuan permohonan, menegaskan keesaan‑Nya dan pentingnya ketakwaan kepada-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "إِن",
+      "transliterasi": "in",
+      "jenis_kata": "Huruf",
+      "arti": "jika",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "huruf شرط (kata sambung bersyarat)",
+        "irab_dan_logika": "حرف لا إعراب له، يجر الفعل إلى الجزم"
+      },
+      "hikmah": "Membuka syarat, menegaskan bahwa apa yang disebutkan selanjutnya bersifat kondisional.",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "كُنتُم",
+      "transliterasi": "kuntum",
+      "jenis_kata": "Fi'il",
+      "arti": "kamu adalah",
+      "sharaf": {
+        "akar_kata": "ك و ن",
+        "makna_dasar": "ada, menjadi",
+        "wazan_perubahan": "فعل ماضٍ مبني على الفتح"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ماضٍ مع ضمير متصل في محل رفع الفاعل",
+        "irab_dan_logika": "الفعل ماضٍ لا إعراب له، والواو ضمير متصل مبني على الضم"
+      },
+      "hikmah": "Menegaskan keadaan keimanan para pendengar; bila mereka memang beriman, maka ...",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "مُّؤْمِنِينَ",
+      "transliterasi": "mu'minīna",
+      "jenis_kata": "Isim",
+      "arti": "orang‑orang beriman",
+      "sharaf": {
+        "akar_kata": "أ م ن",
+        "makna_dasar": "percaya, aman",
+        "wazan_perubahan": "اسم فاعل مضعّف (مُفَعَّل) جمع مذكر سالم"
+      },
+      "nahwu": {
+        "kedudukan": "خبر فعل كان، منصوب",
+        "irab_dan_logika": "منصوب بالياء لأنه جمع مذكر سالم"
+      },
+      "hikmah": "Menunjukkan bahwa keimanan adalah syarat utama untuk memperoleh petunjuk dan rahmat Allah.",
+      "role": "none"
+    }
+  ]
+}

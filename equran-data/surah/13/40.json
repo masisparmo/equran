@@ -1,0 +1,186 @@
+{
+  "surah": 13,
+  "ayah": 40,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "وَإِن",
+      "transliterasi": "wa‑in",
+      "jenis_kata": "Huruf",
+      "arti": "dan sesungguhnya",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "memulai ayat, menghubungkan dengan ayat sebelumnya sebagai partikel penguat",
+        "irab_dan_logika": "huruf لا إعراب له، يبقى مرفوعاً لأنّه حرف عطف"
+      },
+      "hikmah": "menegaskan bahwa apa yang akan disebutkan berikutnya bersifat pasti dan penting",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "مَّا",
+      "transliterasi": "mā",
+      "jenis_kata": "Huruf",
+      "arti": "tidak",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "huruf نافية تُنفي الفعل التالي",
+        "irab_dan_logika": "لا إعراب له، يبقى مرفوعاً لأنّه حرف نفي"
+      },
+      "hikmah": "menyatakan penolakan atau ketiadaan tindakan yang disebutkan",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "نُرِيَنَّكَ",
+      "transliterasi": "nurīʾannaka",
+      "jenis_kata": "Fiʿil",
+      "arti": "kami perlihatkan kepadamu",
+      "sharaf": {
+        "akar_kata": "ر‑أ‑ى",
+        "makna_dasar": "melihat",
+        "wazan_perubahan": "فعل مضارع مرفوع بالضمة، مع تشديد النون للوقاية من السكون"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع، والفاعل ضمير مستتر تقديره نحن، والضمير المتصل كافٍ (كَ) مفعول به",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "menegaskan tugas Nabi hanya menyampaikan apa yang Allah perlihatkan",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "بَعْضَ",
+      "transliterasi": "baʿḍa",
+      "jenis_kata": "Isim",
+      "arti": "sebagian",
+      "sharaf": {
+        "akar_kata": "ب‑ع‑ض",
+        "makna_dasar": "bagian",
+        "wazan_perubahan": "اسم مفرد من وزن فَعْل"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به للفعل نُرِيَنَّكَ",
+        "irab_dan_logika": "منصوب بالفتحة لأنه مفعول به"
+      },
+      "hikmah": "menunjukkan bahwa yang ditunjukkan hanyalah sebagian dari siksaan",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "ٱلَّذِى",
+      "transliterasi": "alladhī",
+      "jenis_kata": "Isim",
+      "arti": "yang",
+      "sharaf": {
+        "akar_kata": "ل‑ذ‑ى",
+        "makna_dasar": "yang",
+        "wazan_perubahan": "اسم موصول"
+      },
+      "nahwu": {
+        "kedudukan": "اسم موصول يجرّه اسم «بَعْضَ»",
+        "irab_dan_logika": "مجرور بالكسرة لأنه تابع لِ«بَعْضَ»"
+      },
+      "hikmah": "merujuk pada siksaan yang dijanjikan",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "نَعِدُهُمْ",
+      "transliterasi": "naʿīdahum",
+      "jenis_kata": "Fiʿil",
+      "arti": "kami ancamkan mereka",
+      "sharaf": {
+        "akar_kata": "و‑ع‑د",
+        "makna_dasar": "menjanjikan/menancamkan",
+        "wazan_perubahan": "فعل مضارع مرفوع بالضمة"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع، والفاعل ضمير مستتر تقديره نحن، والهاء ضمير متصل في محل نصب مفعول به",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "menegaskan bahwa ancaman Allah itu nyata dan akan terjadi",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "أَوْ",
+      "transliterasi": "aw",
+      "jenis_kata": "Huruf",
+      "arti": "atau",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "pilihan antara dua hal",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "huruf sambung yang menghubungkan dua alternatif dalam ayat",
+        "irab_dan_logika": "berharakat sukun karena huruf, tidak berubah"
+      },
+      "hikmah": "menandakan pilihan antara azab di bumi atau kematian Nabi",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "نَتَوَفَّيَنَّكَ",
+      "transliterasi": "natawaffayannaka",
+      "jenis_kata": "Fi'il",
+      "arti": "kami akan menyebabkan kamu meninggal",
+      "sharaf": {
+        "akar_kata": "و ف ي",
+        "makna_dasar": "menyebabkan kematian",
+        "wazan_perubahan": "fi'il mudhari‘ murtakab bi‑nun al‑tafkid"
+      },
+      "nahwu": {
+        "kedudukan": "predikat dalam klausa yang dihubungkan dengan أَوْ",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فعل مضارع، والضمير المتصل \"كَ\" مفعول به منصوب بالفتحة"
+      },
+      "hikmah": "menunjukkan bahwa Allah dapat menyebabkan kematian Nabi sebagai alternatif azab",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "فَإِنَّمَا",
+      "transliterasi": "fa‑innama",
+      "jenis_kata": "Huruf",
+      "arti": "maka sesungguhnya hanya",
+      "sharaf": {
+        "akar_kata": "إن",
+        "makna_dasar": "menegaskan pembatasan",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "huruf penghubung yang memperkenalkan penegasan setelah pilihan",
+        "irab_dan_logika": "لا إعراب لأنه حرف"
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "ٱلْحِسَابُ",
+      "transliterasi": "al-ḥisābu",
+      "jenis_kata": "Isim",
+      "arti": "perhitungan, penghitungan",
+      "sharaf": {
+        "akar_kata": "ح س ب",
+        "makna_dasar": "mengukur, menilai, menghitung",
+        "wazan_perubahan": "faʿāl (kata benda)"
+      },
+      "nahwu": {
+        "kedudukan": "mafʿul bih (objek) dari fiʿil *raʾayta*",
+        "irab_dan_logika": "مُنصَبٌ بالضمة لأنّه مفعول به منصوب"
+      },
+      "hikmah": "**Hisab** menegaskan bahwa setiap perbuatan akan dihisab (dihitung) oleh Allah pada hari kiamat, mengingatkan manusia akan tanggung jawab moralnya.",
+      "role": "none"
+    }
+  ]
+}

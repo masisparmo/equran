@@ -1,0 +1,312 @@
+{
+  "surah": 9,
+  "ayah": 39,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "إِلَّا",
+      "transliterasi": "illa",
+      "jenis_kata": "Huruf",
+      "arti": "kecuali",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "kata sambung (harf istisna) yang menolak atau mengecualikan",
+        "irab_dan_logika": "harf tidak berharakat, tidak berubah karena termasuk kata bantu"
+      },
+      "hikmah": "Menunjukkan batasan bahwa jika tidak berangkat, maka konsekuensi yang disebutkan selanjutnya tidak dapat dihindari.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "تَنفِرُوا۟",
+      "transliterasi": "tanfirū",
+      "jenis_kata": "Fi'il",
+      "arti": "kamu berangkat (menyebar)",
+      "sharaf": {
+        "akar_kata": "ف ر ر",
+        "makna_dasar": "menyebar, melarikan diri",
+        "wazan_perubahan": "تَفْعِلُ (bentuk I)"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja dalam klausa bersyarat setelah \"إن\"",
+        "irab_dan_logika": "نَصْبٌ بالفتحة لأن \"إن\" حرف نصب"
+      },
+      "hikmah": "Jika umat Islam tidak melaksanakan perintah berperang, maka mereka menolak perintah Allah.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "يُعَذِّبْكُمْ",
+      "transliterasi": "yuʿaḍḍibkum",
+      "jenis_kata": "Fi'il",
+      "arti": "Allah akan menyiksa kamu",
+      "sharaf": {
+        "akar_kata": "ع ذ ب",
+        "makna_dasar": "menyiksa, memberi azab",
+        "wazan_perubahan": "يُفَعِّل (bentuk II)"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja utama dalam ayat setelah klausa bersyarat",
+        "irab_dan_logika": "نَصْبٌ بالفتحة لأن \"إن\" (dalam \"فَإِن\") menyebabkan فعل النصب"
+      },
+      "hikmah": "Azab Allah bersifat keras dan pasti menimpa mereka yang menolak perintah.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "عَذَابًا",
+      "transliterasi": "ʿadhāban",
+      "jenis_kata": "Isim",
+      "arti": "siksaan",
+      "sharaf": {
+        "akar_kata": "ع ذ ب",
+        "makna_dasar": "azab, penderitaan",
+        "wazan_perubahan": "فَعَابًا (isim mafʿūl)"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به (objek) dari يُعَذِّبْكُمْ",
+        "irab_dan_logika": "نَصْبٌ بالفتحة لأن المفعول به منصوب"
+      },
+      "hikmah": "Azab yang dimaksud adalah siksaan yang nyata dan menyakitkan.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "أَلِيمًۭا",
+      "transliterasi": "alīman",
+      "jenis_kata": "Isim",
+      "arti": "sakit, pedih",
+      "sharaf": {
+        "akar_kata": "ل ي م",
+        "makna_dasar": "rasa sakit, penderitaan",
+        "wazan_perubahan": "أَفْعَلًا (isim sifat)"
+      },
+      "nahwu": {
+        "kedudukan": "صفة (keterangan) yang melengkapi \"عَذَابًا\"",
+        "irab_dan_logika": "نَصْبٌ بالفتحة لأن الصفة المتصلة بالمفعول به تتبع إعرابه"
+      },
+      "hikmah": "Azab Allah bersifat sangat pedih, menimbulkan rasa sakit yang mendalam.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "وَيَسْتَبْدِلْ",
+      "transliterasi": "wa-yastabdil",
+      "jenis_kata": "Fi'il",
+      "arti": "dan Allah akan mengganti (mereka)",
+      "sharaf": {
+        "akar_kata": "ب د ل",
+        "makna_dasar": "mengganti, menukar",
+        "wazan_perubahan": "يستفعل (bentuk X)"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja yang dihubungkan dengan \"و\" setelah فعل النصب sebelumnya",
+        "irab_dan_logika": "نَصْبٌ (مجزوم) بالسكون على آخره لأن الفعل متصل بـ \"و\" بعد فعل نصب"
+      },
+      "hikmah": "Jika umat menolak perintah, Allah akan menukar mereka dengan kaum lain yang lebih patuh, menegaskan kekuasaan-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "قَوْمًا",
+      "transliterasi": "qawman",
+      "jenis_kata": "Isim",
+      "arti": "kaum",
+      "sharaf": {
+        "akar_kata": "ق-و-م",
+        "makna_dasar": "orang, bangsa",
+        "wazan_perubahan": "faʿlan (isim mansub dengan tanwin)"
+      },
+      "nahwu": {
+        "kedudukan": "Objek (مفعول به) dari kata kerja يَسْتَبْدِلُهُ",
+        "irab_dan_logika": "مُنصوب بالفتحة لأنه منصوب كمنصوب مفعول به، وعلامة النصب تنوين الفتح"
+      },
+      "hikmah": "Allah akan menggantikanmu dengan **kaum lain** yang bukan kamu, menegaskan bahwa penggantian itu bersifat kolektif dan bukan individu.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "غَيْرَكُمْ",
+      "transliterasi": "ghayrakum",
+      "jenis_kata": "Isim",
+      "arti": "yang bukan kamu / lain",
+      "sharaf": {
+        "akar_kata": "غ-ي-ر",
+        "makna_dasar": "berbeda, lain",
+        "wazan_perubahan": "faʿl (isim mansub) dengan tambahan ضمير متصل"
+      },
+      "nahwu": {
+        "kedudukan": "Objek (مفعول به) dari يَسْتَبْدِلُهُ, bersamaan dengan قَوْمًا",
+        "irab_dan_logika": "مُنصوب بالفتحة لأنّه مفعول به، والضمير المتصل «كم» لا يغير إعراب الكلمة"
+      },
+      "hikmah": "Penggantian yang dimaksud ialah **kaum yang berbeda** dari kalian, menegaskan perubahan total dalam kepemimpinan.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "وَلَا",
+      "transliterasi": "wala",
+      "jenis_kata": "Huruf",
+      "arti": "dan tidak",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Harf nasb (kata sambung + penyangkal) yang menghubungkan ayat sebelumnya dengan فعل نفي",
+        "irab_dan_logika": "حرف لا إعراب له، يسبق الفعل المضارع لتنفيه"
+      },
+      "hikmah": "Menegaskan larangan: **jangan** kalian menyakiti Allah dengan apa pun.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "تَضُرُّوهُ",
+      "transliterasi": "tadurrūhu",
+      "jenis_kata": "Fi'il",
+      "arti": "kamu menyakiti (Nya)",
+      "sharaf": {
+        "akar_kata": "ض-ر-ر",
+        "makna_dasar": "menyakiti, merugikan",
+        "wazan_perubahan": "faʿala (bentuk I)"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع بالضمة الظاهرة، والواو للرفع، والهاء ضمير متصل في محل نصب مفعول به",
+        "irab_dan_logika": "مرفوع لأن الفعل مضارع غير مسبوق بأداة نصب، والواو للرفع تدل على جمع المخاطب"
+      },
+      "hikmah": "Tidak ada cara bagi manusia untuk **menyakiti Allah**; segala usaha itu sia‑sia.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "شَيْـًۭٔا",
+      "transliterasi": "shay'an",
+      "jenis_kata": "Isim",
+      "arti": "sesuatu",
+      "sharaf": {
+        "akar_kata": "ش-ي-ء",
+        "makna_dasar": "benda, hal",
+        "wazan_perubahan": "faʿl (isim mansub مع tanwin)"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به للفعل تَضُرُّوهُ",
+        "irab_dan_logika": "مُنصوب بالفتحة وعلامة النصب تنوين الفتح لأنه مفعول به غير معرف"
+      },
+      "hikmah": "Tidak ada **sesuatu** yang dapat menimbulkan mudharat kepada Allah; kekuasaan-Nya mutlak.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "ۗ",
+      "transliterasi": "",
+      "jenis_kata": "Isyarat",
+      "arti": "tanda akhir ayat (waqf)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca yang menandai berakhirnya ayat",
+        "irab_dan_logika": "Tidak memiliki إعراب"
+      },
+      "hikmah": "Menandakan selesai‑nya pernyataan Allah dalam ayat ini.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "وَٱللَّهُ",
+      "transliterasi": "wa‑Allāhu",
+      "jenis_kata": "**Huruf** (konjungsi) yang melekat pada isim",
+      "arti": "**dan Allah**",
+      "sharaf": {
+        "akar_kata": "أ‑ل‑ه",
+        "makna_dasar": "Tuhan, Ilah",
+        "wazan_perubahan": "Ism al‑Muḍāf (Allah) yang diikat oleh huruf *wa*"
+      },
+      "nahwu": {
+        "kedudukan": "Subjek (fa‘il) dalam kalimat nominal «ٱللَّهُ قَدِيرٌ»",
+        "irab_dan_logika": "Marfu‘ (damma) karena berfungsi sebagai **fa‘il** dalam جملة اسمية"
+      },
+      "hikmah": "Menegaskan bahwa **Allah** adalah subjek yang memiliki sifat **Maha Kuasa** atas segala sesuatu.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "عَلَىٰ",
+      "transliterasi": "ʿalā",
+      "jenis_kata": "**Huruf** (preposisi)",
+      "arti": "**atas**",
+      "sharaf": {
+        "akar_kata": "ع‑ل‑ى",
+        "makna_dasar": "tinggi, berada di atas",
+        "wazan_perubahan": "Preposisi standar"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar yang menghubungkan «ٱللَّهُ» dengan objek «كُلِّ شَيْءٍ»",
+        "irab_dan_logika": "Menyebabkan kata berikutnya menjadi **majrur** (kasrah) karena fungsi **jar**"
+      },
+      "hikmah": "Menunjukkan hubungan **kuasa** Allah yang meliputi **segala sesuatu**.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "كُلِّ",
+      "transliterasi": "kullī",
+      "jenis_kata": "**Isim** (kata benda totalitas)",
+      "arti": "**segala**",
+      "sharaf": {
+        "akar_kata": "ك‑ل‑ل",
+        "makna_dasar": "semua, seluruh",
+        "wazan_perubahan": "Isim maf‘ūl (faʿl) dengan tanwin kasrah"
+      },
+      "nahwu": {
+        "kedudukan": "Mutsarrif (majrur) karena berada di belakang preposisi «عَلَىٰ»",
+        "irab_dan_logika": "Berkasrah (كُلِّ) sebagai **majrur** yang menandakan kepemilikan/ruang lingkup"
+      },
+      "hikmah": "Menyiratkan bahwa **Allah** berkuasa atas **seluruh** ciptaan.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "شَىْءٍۢ",
+      "transliterasi": "shaiʾin",
+      "jenis_kata": "**Isim** (kata benda)",
+      "arti": "**sesuatu**",
+      "sharaf": {
+        "akar_kata": "ش‑ء‑ء",
+        "makna_dasar": "benda, apa‑apa",
+        "wazan_perubahan": "Isim majhul (faʿl) dengan tanwin kasrah"
+      },
+      "nahwu": {
+        "kedudukan": "Mutsarrif (majrur) setelah preposisi «عَلَىٰ» bersama «كُلِّ»",
+        "irab_dan_logika": "Ber‑kasrah (شَىْءٍ) sebagai **majrur** yang melengkapi arti «atas segala sesuatu»"
+      },
+      "hikmah": "Menguatkan makna **totalitas**: Allah menguasai **setiap hal** yang ada.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "قَدِيرٌ",
+      "transliterasi": "qadīrun",
+      "jenis_kata": "**Isim** (sifat, khabar)",
+      "arti": "**Maha Kuasa**",
+      "sharaf": {
+        "akar_kata": "ق‑د‑ر",
+        "makna_dasar": "kuasa, kemampuan",
+        "wazan_perubahan": "faʿīl (isim sifat)"
+      },
+      "nahwu": {
+        "kedudukan": "Khabar (predikat) dalam جملة اسمية «ٱللَّهُ قَدِيرٌ»",
+        "irab_dan_logika": "Marfu‘ (damma) karena berfungsi sebagai **khabar** yang menegaskan sifat subjek"
+      },
+      "hikmah": "Menyatakan sifat **Allah** yang **Maha Kuasa** atas **segala sesuatu**.",
+      "role": "none"
+    }
+  ]
+}

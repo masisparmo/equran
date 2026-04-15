@@ -1,0 +1,330 @@
+{
+  "surah": 6,
+  "ayah": 17,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "وَإِن",
+      "transliterasi": "wa‑in",
+      "jenis_kata": "Huruf",
+      "arti": "wa = dan, in = sesungguhnya",
+      "sharaf": {
+        "akar_kata": "إن",
+        "makna_dasar": "sesungguhnya, jika",
+        "wazan_perubahan": "حرف مشبه"
+      },
+      "nahwu": {
+        "kedudukan": "kata sambung di awal ayat, memperkenalkan syarat",
+        "irab_dan_logika": "مبني على السكون karena حرف مشبه لا يُعرَب"
+      },
+      "hikmah": "Menunjukkan bahwa apa yang akan disebutkan selanjutnya bersifat kondisional dan pasti terjadi bila Allah menghendaki.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "يَمْسَسْكَ",
+      "transliterasi": "yamsas‑ka",
+      "jenis_kata": "Fi'il",
+      "arti": "menyentuhmu",
+      "sharaf": {
+        "akar_kata": "م س س",
+        "makna_dasar": "menyentuh, mengganggu",
+        "wazan_perubahan": "يفعل"
+      },
+      "nahwu": {
+        "kedudukan": "verb مضارع yang mengawali kalimat",
+        "irab_dan_logika": "مرفوع بالضمة، والضمير المتصل كاف المتكلم في محل نصب كمفعول به"
+      },
+      "hikmah": "Allah dapat menyentuh (menimpakan) kesulitan kepada hamba, menegaskan kekuasaan-Nya atas segala keadaan.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "اللَّهُ",
+      "transliterasi": "Allahu",
+      "jenis_kata": "Isim",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "أ ل ه",
+        "makna_dasar": "Tuhan yang Maha Esa",
+        "wazan_perubahan": "اسم علم"
+      },
+      "nahwu": {
+        "kedudukan": "مبتدأ مرفوع بالضمة",
+        "irab_dan_logika": "مرفوع بالضمة لأنه مبتدأ"
+      },
+      "hikmah": "Menegaskan bahwa Allah-lah subjek yang memiliki kuasa atas segala mudharat dan kebaikan.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "بِضُرٍّ",
+      "transliterasi": "bi‑durrin",
+      "jenis_kata": "Huruf",
+      "arti": "dengan kesusahan/kerusakan",
+      "sharaf": {
+        "akar_kata": "ض ر ر",
+        "makna_dasar": "kerusakan, keburukan",
+        "wazan_perubahan": "اسم مجرور بحرف الجر"
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر + اسم مجرور",
+        "irab_dan_logika": "بِ حرف جر، ضُرٍّ مجرور بالكسرة لأنه تابع للجر"
+      },
+      "hikmah": "Menunjukkan jenis mudharat yang dapat menimpa manusia, menegaskan bahwa segala kesulitan berasal dari kehendak Allah.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "فَلَا",
+      "transliterasi": "fa‑la",
+      "jenis_kata": "Huruf",
+      "arti": "maka tidak",
+      "sharaf": {
+        "akar_kata": "لا",
+        "makna_dasar": "penafian",
+        "wazan_perubahan": "حرف عطف + نافية"
+      },
+      "nahwu": {
+        "kedudukan": "حرف عطف يربط الجملة، ثم حرف نفي جازم",
+        "irab_dan_logika": "فَ حرف عطف مبني على الفتح، لا حرف نفي جازم لا يُنصب"
+      },
+      "hikmah": "Menyatakan bahwa tidak ada yang dapat menghilangkan mudharat kecuali Allah sendiri.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "كَاشِفَ",
+      "transliterasi": "kashifa",
+      "jenis_kata": "Isim",
+      "arti": "penghilang",
+      "sharaf": {
+        "akar_kata": "ك ش ف",
+        "makna_dasar": "menyembunyikan, menghilangkan",
+        "wazan_perubahan": "فاعل"
+      },
+      "nahwu": {
+        "kedudukan": "اسم فعل منصوب بعد نافية",
+        "irab_dan_logika": "منصوب بالفتحة لأنه خبر نافية"
+      },
+      "hikmah": "Menegaskan bahwa hanya Allah yang memiliki kemampuan menghilangkan segala mudharat, menegaskan sifat Maha Kuasa-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "لَهُۥٓ",
+      "transliterasi": "lahu",
+      "jenis_kata": "Huruf",
+      "arti": "bagi dia",
+      "sharaf": {
+        "akar_kata": "ل-ه",
+        "makna_dasar": "kepada",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Preposisi yang menghubungkan ke kata sebelumnya (إِلَّا)",
+        "irab_dan_logika": "جار ومجرور؛ kasrah pada لِ dan dammah pada هُ karena huruf jar"
+      },
+      "hikmah": "Menegaskan bahwa hanya Allah yang dapat menghilangkan kemudharatan.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "إِلَّا",
+      "transliterasi": "illa",
+      "jenis_kata": "Huruf",
+      "arti": "kecuali",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "mengecualikan",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Harf istithna (pengecualian) setelah جملة الشرط",
+        "irab_dan_logika": "Sukun pada لّ karena huruf istithna, menandakan pengecualian"
+      },
+      "hikmah": "Menunjukkan bahwa tidak ada yang dapat menghilangkan kemudharatan kecuali Allah.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "هُوَ",
+      "transliterasi": "huwa",
+      "jenis_kata": "Isim",
+      "arti": "dia (laki‑laki)",
+      "sharaf": {
+        "akar_kata": "ه-و-ا",
+        "makna_dasar": "menunjuk kepada Allah",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada' (subjek) dalam frasa \"إِلَّا هُوَ\"",
+        "irab_dan_logika": "Dammah karena berfungsi sebagai mubtada'"
+      },
+      "hikmah": "Allah adalah satu‑satunya yang berhak menghilangkan kemudharatan.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "ۖ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Tanda baca",
+      "arti": "(istirahat)",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqf (virgul) yang memisahkan bagian kalimat",
+        "irab_dan_logika": "Tidak berirab, berfungsi sebagai jeda"
+      },
+      "hikmah": "Memberi jeda untuk menekankan makna sebelumnya sebelum melanjutkan ayat.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "وَإِن",
+      "transliterasi": "wa‑in",
+      "jenis_kata": "Huruf",
+      "arti": "dan jika",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "menghubungkan syarat",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Harf atf (penghubung) yang memperkenalkan ayat syarat selanjutnya",
+        "irab_dan_logika": "Wa bersukun, إِن berkasrah; menandakan kondisi"
+      },
+      "hikmah": "Menyatakan kondisi baru: bila Allah mendatangkan kebaikan.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "يَمْسَسْكَ",
+      "transliterasi": "yamsask",
+      "jenis_kata": "Fi'il",
+      "arti": "menyentuhmu",
+      "sharaf": {
+        "akar_kata": "م-س-س",
+        "makna_dasar": "menyentuh, mempengaruhi",
+        "wazan_perubahan": "فَعَلَ"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il mudhari' tiga orang maskulin tunggal, dengan objek pronoun \"ka\"",
+        "irab_dan_logika": "Dhammah pada يَ karena mudhari', sukun pada مْ, fatha pada سَ, kasrah pada كَ sebagai huruf jar"
+      },
+      "hikmah": "Allah yang menurunkan kebaikan yang menyentuh hamba‑Nya.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "بِخَيْرٍۢ",
+      "transliterasi": "bi-khairin",
+      "jenis_kata": "Huruf",
+      "arti": "dengan kebaikan",
+      "sharaf": {
+        "akar_kata": "خ-ي-ر",
+        "makna_dasar": "baik, kebaikan",
+        "wazan_perubahan": "isim maf'ul (khair) yang dijadikan majrur karena huruf jar"
+      },
+      "nahwu": {
+        "kedudukan": "objek preposisi, menunjukkan keadaan yang diturunkan kepada manusia",
+        "irab_dan_logika": "مجرور بالكسرة لأنه مضاف إلى حرف الجر"
+      },
+      "hikmah": "Allah menurunkan kebaikan kepada hamba-Nya sebagai rahmat yang tak terhingga",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "فَهُوَ",
+      "transliterasi": "fa-huwa",
+      "jenis_kata": "Huruf",
+      "arti": "lalu Dia",
+      "sharaf": {
+        "akar_kata": "ه-و-ا",
+        "makna_dasar": "menjadi, ada",
+        "wazan_perubahan": "kata ganti orang ketiga tunggal"
+      },
+      "nahwu": {
+        "kedudukan": "kata ganti subjek yang menegaskan subjek Allah",
+        "irab_dan_logika": "مرفوع بالضمة لأنه مبتدأ مرفوع"
+      },
+      "hikmah": "Menegaskan bahwa Allah-lah yang berkuasa atas segala sesuatu",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "عَلَىٰ",
+      "transliterasi": "ʿala",
+      "jenis_kata": "Huruf",
+      "arti": "atas, terhadap",
+      "sharaf": {
+        "akar_kata": "ع-ل-ى",
+        "makna_dasar": "tinggi, mengatasi",
+        "wazan_perubahan": "preposisi"
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar yang menghubungkan ke kata berikutnya",
+        "irab_dan_logika": "مجرور لا إعراب له"
+      },
+      "hikmah": "Menunjukkan hubungan kekuasaan Allah yang meliputi seluruh ciptaan",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "كُلِّ",
+      "transliterasi": "kulli",
+      "jenis_kata": "Isim",
+      "arti": "setiap",
+      "sharaf": {
+        "akar_kata": "ك-ل-ل",
+        "makna_dasar": "seluruh, semua",
+        "wazan_perubahan": "isim majrur (kull)"
+      },
+      "nahwu": {
+        "kedudukan": "objek preposisi, majrur",
+        "irab_dan_logika": "مجرور بالكسرة لأنه مجرور بحرف الجر"
+      },
+      "hikmah": "Menegaskan bahwa tidak ada yang luput dari kekuasaan Allah",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "شَىْءٍۢ",
+      "transliterasi": "shai'in",
+      "jenis_kata": "Isim",
+      "arti": "sesuatu",
+      "sharaf": {
+        "akar_kata": "ش-ئ-ء",
+        "makna_dasar": "benda, sesuatu",
+        "wazan_perubahan": "isim majrur"
+      },
+      "nahwu": {
+        "kedudukan": "objek preposisi, majrur",
+        "irab_dan_logika": "مجرور بالكسرة لأنه مجرور بحرف الجر"
+      },
+      "hikmah": "Setiap makhluk, apa pun itu, berada dalam lingkup kekuasaan Allah",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "قَدِيرٌۭ",
+      "transliterasi": "qadirun",
+      "jenis_kata": "Isim",
+      "arti": "mampu, berkuasa",
+      "sharaf": {
+        "akar_kata": "ق-د-ر",
+        "makna_dasar": "kuasa",
+        "wazan_perubahan": "isim fa'il"
+      },
+      "nahwu": {
+        "kedudukan": "keterangan (khabar) untuk alif, menegaskan sifat Allah",
+        "irab_dan_logika": "مرفوع بالضمة لأنه خبر"
+      },
+      "hikmah": "Allah Maha Kuasa atas segala sesuatu, tak ada yang melampaui kemampuan-Nya",
+      "role": "none"
+    }
+  ]
+}

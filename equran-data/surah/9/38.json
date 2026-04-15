@@ -1,0 +1,438 @@
+{
+  "surah": 9,
+  "ayah": 38,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "يَٰٓأَيُّهَا",
+      "transliterasi": "yā ayyuhā",
+      "jenis_kata": "Huruf",
+      "arti": "Wahai",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "kata panggilan/seruan",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Kata seru yang menandai panggilan kepada orang beriman di awal ayat",
+        "irab_dan_logika": "Berharakat dammah pada alif (يَا) dan kasrah pada يَ (أَيُّهَا) karena berfungsi sebagai isim da'wat (nashb)"
+      },
+      "hikmah": "Menunjukkan sikap lembut Allah dalam memanggil hamba‑hamba-Nya, menegaskan bahwa apa yang akan disampaikan adalah panggilan khusus bagi orang beriman.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "ٱلَّذِينَ",
+      "transliterasi": "alladhīna",
+      "jenis_kata": "Isim",
+      "arti": "orang‑orang yang",
+      "sharaf": {
+        "akar_kata": "ل-ذ-و",
+        "makna_dasar": "yang (penunjuk relatif)",
+        "wazan_perubahan": "isim dhomir ma'rifah jamak"
+      },
+      "nahwu": {
+        "kedudukan": "Isim dhomir yang menjadi subjek dalam klausa relatif \"الَّذِينَ آمَنُوا\"",
+        "irab_dan_logika": "Marfu' (dhammah) karena berfungsi sebagai subjek fi'il madhi \"آمَنُوا\""
+      },
+      "hikmah": "Menandakan kelompok khusus, yaitu mereka yang telah beriman, sehingga ayat menargetkan kelompok tersebut secara spesifik.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "ءَامَنُوا۟",
+      "transliterasi": "āmanū",
+      "jenis_kata": "Fi'il",
+      "arti": "beriman",
+      "sharaf": {
+        "akar_kata": "أ-م-ن",
+        "makna_dasar": "amanah, percaya, beriman",
+        "wazan_perubahan": "فعل ماضٍ ثلاثي مجرد, 3rd person masculine plural"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il madhi sebagai predikat dalam klausa relatif",
+        "irab_dan_logika": "Marfu' dengan harakat dhammah pada alif akhir (وا) karena merupakan fi'il madhi"
+      },
+      "hikmah": "Menegaskan tindakan keimanan sebagai dasar panggilan Allah, menyoroti bahwa orang yang dimaksud telah melaksanakan iman.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "مَا",
+      "transliterasi": "mā",
+      "jenis_kata": "Huruf",
+      "arti": "apa / tidak",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "kata tanya atau penafian",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf tanya yang memulai pertanyaan \"مَا لَكُمْ\"",
+        "irab_dan_logika": "Nakira, tidak berharakat karena berfungsi sebagai kata tanya"
+      },
+      "hikmah": "Menyiratkan rasa ingin tahu Allah terhadap alasan atau sikap orang beriman yang enggan berperang.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "لَكُمْ",
+      "transliterasi": "lakum",
+      "jenis_kata": "Huruf",
+      "arti": "bagi kalian",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "preposisi + zamir (li‑ + kum)",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar + zamir, melengkapi \"مَا\" sebagai objek pertanyaan",
+        "irab_dan_logika": "Majrur, berharakat kasrah pada lam (li‑) karena berfungsi sebagai preposisi"
+      },
+      "hikmah": "Menunjukkan kepemilikan atau tujuan, menegaskan bahwa pertanyaan ditujukan khusus kepada orang‑orang beriman.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "إِذَا",
+      "transliterasi": "idhā",
+      "jenis_kata": "Huruf",
+      "arti": "apabila",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "kata penghubung syarat",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf syarat yang menghubungkan ayat selanjutnya (\"إِذَا قِيلَ لَكُمْ...\" )",
+        "irab_dan_logika": "Nakira, tidak berharakat karena berfungsi sebagai kata sambung"
+      },
+      "hikmah": "Menyiratkan kondisi atau waktu yang akan datang, mengingatkan bahwa jawaban terhadap pertanyaan di atas akan dijelaskan selanjutnya.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "قِيلَ",
+      "transliterasi": "qīla",
+      "jenis_kata": "Fi'il",
+      "arti": "dikatakan",
+      "sharaf": {
+        "akar_kata": "ق-و-ل",
+        "makna_dasar": "katakan",
+        "wazan_perubahan": "فعل ماضٍ مبني للمجهول"
+      },
+      "nahwu": {
+        "kedudukan": "predikat (fi'il) dalam kalimat",
+        "irab_dan_logika": "مبني على الفتح لا إعراب لأن الفعل الماضي لا يُعرب"
+      },
+      "hikmah": "Menunjukkan pernyataan yang disampaikan kepada orang beriman",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "ٱثَّاقَلْتُمْ",
+      "transliterasi": "aththaqaltum",
+      "jenis_kata": "Fi'il (verb)",
+      "arti": "menjadi berat / merasa berat",
+      "sharaf": {
+        "akar_kata": "ث‑ق‑ل",
+        "makna_dasar": "berat",
+        "wazan_perubahan": "أَفْعَلْتُم (past, 2nd person plural)"
+      },
+      "nahwu": {
+        "kedudukan": "Kata kerja utama dalam klausa pertama",
+        "irab_dan_logika": "مرفوع بالضمة لأنّها فعل ماضٍ لا يتأثر بالإعراب"
+      },
+      "hikmah": "Menggambarkan rasa enggan atau beban hati ketika diperintahkan **berangkat** ke medan perang.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "إِلَى",
+      "transliterasi": "ilā",
+      "jenis_kata": "Huruf (preposisi)",
+      "arti": "ke, menuju",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "kata bantu (preposisi) tidak memiliki wazan"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar, menghubungkan kata sebelumnya dengan **الأرضِ**",
+        "irab_dan_logika": "تجرّ الاسم المجرور بالكسرة (الأرضِ) لأنها مضافة إلى حرف الجر إِلَى"
+      },
+      "hikmah": "Menunjukkan arah atau tujuan, yaitu **ke bumi**.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "ٱلْأَرْضِ",
+      "transliterasi": "al-arḍi",
+      "jenis_kata": "Isim (kata benda)",
+      "arti": "bumi, tanah",
+      "sharaf": {
+        "akar_kata": "ر‑ض‑? (arḍ)",
+        "makna_dasar": "tanah, permukaan bumi",
+        "wazan_perubahan": "فَعْل (kata benda tunggal, maskulin/feminin)"
+      },
+      "nahwu": {
+        "kedudukan": "اسم مجرور بحرف الجر إِلَى",
+        "irab_dan_logika": "مجرور بالكسرة لأنّها مضافة إلى حرف الجر إِلَى"
+      },
+      "hikmah": "Menyiratkan tempat tinggal atau zona nyaman yang ingin dipertahankan oleh orang beriman.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Isyarat (tanda waqf)",
+      "arti": "tanda berhenti, koma Arab",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Menandai akhir klausa pertama dan memisahkan dengan klausa berikutnya",
+        "irab_dan_logika": "Tidak berirab karena bukan kata, berfungsi sebagai pemisah sintaksis"
+      },
+      "hikmah": "Memberi jeda bagi pendengar/ pembaca untuk merenungkan pertanyaan pertama sebelum melanjutkan.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "أَرَضِيتُم",
+      "transliterasi": "araḍītum",
+      "jenis_kata": "Fi'il (verb)",
+      "arti": "kamu puas / kamu merasa cukup",
+      "sharaf": {
+        "akar_kata": "ر‑ض‑ي",
+        "makna_dasar": "rida = kepuasan, kesenangan",
+        "wazan_perubahan": "أَفْعَلْتُم (past, 2nd person plural)"
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "ٱلدُّنْيَا",
+      "transliterasi": "al‑dunyā",
+      "jenis_kata": "Isim",
+      "arti": "dunia, kehidupan duniawi",
+      "sharaf": {
+        "akar_kata": "د‑ن‑ي",
+        "makna_dasar": "dekat, yang bersifat duniawi",
+        "wazan_perubahan": "mafʿūla (فُعْلَة)"
+      },
+      "nahwu": {
+        "kedudukan": "Kata kedua dalam iḍāfah «مَتَٰعُ الدُّنْيَا»",
+        "irab_dan_logika": "Majrur (kasrah) karena menjadi mudhaf ul‑khārij dari iḍāfah; huruf al‑taḥrīf «الـ» menambah kejelasan definiteness"
+      },
+      "hikmah": "Menunjukkan bahwa kenikmatan dunia bersifat sementara dan terikat pada apa yang dimiliki dunia, bukan pada akhirat.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "مِنَ",
+      "transliterasi": "mina",
+      "jenis_kata": "Huruf",
+      "arti": "dari, tentang",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar, menghubungkan «مِنَ» dengan «الْءَاخِرَةِ»",
+        "irab_dan_logika": "Mengharuskan kata berikutnya ber‑iʿrāb majrur (kasrah) karena merupakan objek preposisi"
+      },
+      "hikmah": "Menegaskan perbandingan antara dunia dan akhirat, menandakan sumber perbandingan yang jelas.",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "ٱلْءَاخِرَةِ",
+      "transliterasi": "al‑ākhirah",
+      "jenis_kata": "Isim",
+      "arti": "akhir, kehidupan setelah mati",
+      "sharaf": {
+        "akar_kata": "أ‑خ‑ر",
+        "makna_dasar": "akhir, yang terakhir",
+        "wazan_perubahan": "mafʿala (آخِرَة) – bentuk isim maṣdar"
+      },
+      "nahwu": {
+        "kedudukan": "Objek preposisi «مِنَ»",
+        "irab_dan_logika": "Majrur (kasrah) karena berada di belakang huruf jar «مِنَ»; tanda kasrah tampak pada akhir kata"
+      },
+      "hikmah": "Menyiratkan bahwa akhirat adalah tujuan akhir yang abadi, kontras dengan dunia yang fana.",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Tanda baca",
+      "arti": "tanda berhenti ayat (waqf)",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Pemutus kalimat, menandai jeda setelah iḍāfah",
+        "irab_dan_logika": "Tidak memiliki iʿrāb; fungsinya memberi jeda untuk mempertegas makna"
+      },
+      "hikmah": "Memberi kesempatan bagi pendengar/penyimak merenungkan perbandingan dunia‑akhirat sebelum melanjutkan ayat.",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "فَمَا",
+      "transliterasi": "fa‑mā",
+      "jenis_kata": "Huruf",
+      "arti": "lalu apa",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Kombinasi huruf «فَ» (harf ‘af‘al) + «مَا» (isim istifhām) sebagai subjek nominal",
+        "irab_dan_logika": "«مَا» ber‑iʿrāb marfū‘ (damma) karena menjadi مبتدأ dalam جملة اسمية; «فَ» hanyalah penghubung sebab‑akibat"
+      },
+      "hikmah": "Menyampaikan pertanyaan retoris yang menantang orang beriman untuk menilai nilai dunia dibanding akhirat.",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "مَتَٰعُ",
+      "transliterasi": "maṭāʿu",
+      "jenis_kata": "Isim",
+      "arti": "barang, harta, kenikmatan",
+      "sharaf": {
+        "akar_kata": "م‑ت‑ع",
+        "makna_dasar": "memberi, menyediakan",
+        "wazan_perubahan": "faʿāl (مَتَاع) – isim fa‘āl"
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada’ (subjek) dalam جملة اسمية «فَمَا مَتَٰعُ الدُّنْيَا»",
+        "irab_dan_logika": "Marfū‘ (damma) karena berada di posisi مبتدأ; diikuti iḍāfah «الدُّنْيَا» yang menjelaskan jenis kenikmatan"
+      },
+      "hikmah": "Menegaskan bahwa apa yang disebut sebagai kenikmatan dunia hanyalah barang duniawi yang terbatas, bukan kebahagiaan abadi.",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "ٱلْحَيَوٰةِ",
+      "transliterasi": "al-ḥayāh",
+      "jenis_kata": "Isim",
+      "arti": "kehidupan",
+      "sharaf": {
+        "akar_kata": "ح ي ي",
+        "makna_dasar": "hidup, hidup",
+        "wazan_perubahan": "فَعَالَة"
+      },
+      "nahwu": {
+        "kedudukan": "Ism inna (mubtada') setelah حرف إنَّ",
+        "irab_dan_logika": "مرفوع بالضمة لأنّها اسم إنَّ"
+      },
+      "hikmah": "Menunjukkan bahwa yang dibicarakan adalah **kehidupan** secara umum, bukan hanya aspek duniawi.",
+      "role": "none"
+    },
+    {
+      "index": 25,
+      "kata_arab": "ٱلدُّنْيَا",
+      "transliterasi": "ad-dunyā",
+      "jenis_kata": "Isim",
+      "arti": "dunia",
+      "sharaf": {
+        "akar_kata": "د ن ي",
+        "makna_dasar": "dunia, alam hidup di bumi",
+        "wazan_perubahan": "فَعَلَة"
+      },
+      "nahwu": {
+        "kedudukan": "Mudaf akhir dalam iḍāfa (الْحَيَوٰةُ الدُّنْيَا)",
+        "irab_dan_logika": "مجرور بالكسرة لأنه مُضاف إليه"
+      },
+      "hikmah": "Mengacu pada **kehidupan duniawi** yang bersifat sementara.",
+      "role": "none"
+    },
+    {
+      "index": 26,
+      "kata_arab": "فِى",
+      "transliterasi": "fī",
+      "jenis_kata": "Huruf",
+      "arti": "di, dalam",
+      "sharaf": {
+        "akar_kata": "ف ي",
+        "makna_dasar": "di dalam, berada di",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Harf jar",
+        "irab_dan_logika": "حرف جر لا إعراب له، يجر ما بعده"
+      },
+      "hikmah": "Menunjukkan **lokasi** atau **tempat** keberadaan sesuatu, dalam hal ini akhirat.",
+      "role": "none"
+    },
+    {
+      "index": 27,
+      "kata_arab": "ٱلْءَاخِرَةِ",
+      "transliterasi": "al-ākhirah",
+      "jenis_kata": "Isim",
+      "arti": "akhirat",
+      "sharaf": {
+        "akar_kata": "أ خ ر",
+        "makna_dasar": "akhir, yang terakhir",
+        "wazan_perubahan": "فَعِلة"
+      },
+      "nahwu": {
+        "kedudukan": "Mutsarrif pada حرف جر (فِي)",
+        "irab_dan_logika": "مجرور بالكسرة لأنّها مضاف إليه لحرف الجر"
+      },
+      "hikmah": "Menyiratkan **kehidupan akhirat**, tempat yang abadi setelah dunia.",
+      "role": "none"
+    },
+    {
+      "index": 28,
+      "kata_arab": "إِلَّا",
+      "transliterasi": "illā",
+      "jenis_kata": "Huruf",
+      "arti": "kecuali",
+      "sharaf": {
+        "akar_kata": "ل و",
+        "makna_dasar": "pengecualian",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Harf istithnāʾ (pengecualian)",
+        "irab_dan_logika": "ليس له إعراب، يجر ما بعده إلى حالة النصب"
+      },
+      "hikmah": "Berfungsi sebagai **penanda pengecualian**, menegaskan bahwa apa yang disebutkan selanjutnya bersifat berbeda.",
+      "role": "none"
+    },
+    {
+      "index": 29,
+      "kata_arab": "قَلِيلٌ",
+      "transliterasi": "qalīlun",
+      "jenis_kata": "Isim",
+      "arti": "sedikit",
+      "sharaf": {
+        "akar_kata": "ق ل ل",
+        "makna_dasar": "kurang, sedikit",
+        "wazan_perubahan": "فَعِيل"
+      },
+      "nahwu": {
+        "kedudukan": "Ism illā (مستثنى)",
+        "irab_dan_logika": "منصوب بالفتحة لأنه اسم إِلَّا"
+      },
+      "hikmah": "Menyiratkan bahwa **kehidupan dunia** hanyalah **sedikit** bila dibandingkan dengan akhirat.",
+      "role": "none"
+    }
+  ]
+}

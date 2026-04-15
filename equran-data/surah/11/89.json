@@ -1,0 +1,366 @@
+{
+  "surah": 11,
+  "ayah": 89,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "وَيَٰقَوْمِ",
+      "transliterasi": "wa yā qawmi",
+      "jenis_kata": "Huruf + Isim",
+      "arti": "\"wa\" = dan, \"yā\" = wahai, \"qawm\" = kaum",
+      "sharaf": {
+        "akar_kata": "ق و م",
+        "makna_dasar": "kaum, orang",
+        "wazan_perubahan": "bentuk isim majrur dengan harf al‑nidaʾ"
+      },
+      "nahwu": {
+        "kedudukan": "seruan (nidaʾ) kepada kaum",
+        "irab_dan_logika": "berkasrah karena berada dalam konstruksi \"yā\" + isim"
+      },
+      "hikmah": "seruan kepada kaum agar memperhatikan apa yang akan disampaikan",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "لَا",
+      "transliterasi": "lā",
+      "jenis_kata": "Huruf nasb (penafian)",
+      "arti": "tidak",
+      "sharaf": {
+        "akar_kata": "ل و",
+        "makna_dasar": "menolak, menafikan",
+        "wazan_perubahan": "bentuk huruf nasb"
+      },
+      "nahwu": {
+        "kedudukan": "kata penafian yang mengikat fiʿl selanjutnya",
+        "irab_dan_logika": "tidak berharakat karena huruf nasb"
+      },
+      "hikmah": "menegaskan larangan atau penolakan",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "يَجْرِمَنَّكُمْ",
+      "transliterasi": "yajrimannakum",
+      "jenis_kata": "Fiʿl mudhariʿ (verb)",
+      "arti": "menjadikan kamu bersalah",
+      "sharaf": {
+        "akar_kata": "ج ر م",
+        "makna_dasar": "menyalahkan, menganggap berdosa",
+        "wazan_perubahan": "bentuk mudhariʿ dengan penekanan (shadda) pada nūn"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja yang dipengaruhi oleh \"lā\" di depan",
+        "irab_dan_logika": "marfuʿ karena mudhariʿ, harakat dhammah"
+      },
+      "hikmah": "menyatakan bahwa pertentangan dapat menjerumuskan kalian ke dalam dosa",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "شِقَاقِىٓ",
+      "transliterasi": "shiqāqī",
+      "jenis_kata": "Isim (noun) dengan iʿrāb majrur",
+      "arti": "perpecahan, pertikaian (milikku)",
+      "sharaf": {
+        "akar_kata": "ش ق ق",
+        "makna_dasar": "memisahkan, memecah",
+        "wazan_perubahan": "bentuk isim majrur dengan tambahan ʿiḍāfah milik (‑ī)"
+      },
+      "nahwu": {
+        "kedudukan": "objek dari huruf \"an\" (حرف نصب)",
+        "irab_dan_logika": "majrur karena didahului \"an\"; harakat kasrah pada akhir kata"
+      },
+      "hikmah": "menunjuk pada perpecahan yang menjadi milik (atau akibat) pembicara",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "أَن",
+      "transliterasi": "an",
+      "jenis_kata": "Huruf nasb (subordinatif)",
+      "arti": "bahwa",
+      "sharaf": {
+        "akar_kata": "أ ن",
+        "makna_dasar": "menyatakan sebab‑akibat atau tujuan",
+        "wazan_perubahan": "bentuk huruf nasb"
+      },
+      "nahwu": {
+        "kedudukan": "penghubung antara \\\"shiqāqī\\\" dan fiʿl selanjutnya",
+        "irab_dan_logika": "tidak berharakat karena huruf nasb"
+      },
+      "hikmah": "menyiratkan bahwa perpecahan itu dapat menimbulkan sesuatu",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "يُصِيبَكُم",
+      "transliterasi": "yuṣībakum",
+      "jenis_kata": "Fiʿl mudhariʿ (verb)",
+      "arti": "menimpakan (azab) kepada kalian",
+      "sharaf": {
+        "akar_kata": "ص و ب",
+        "makna_dasar": "menyentuh, menimpa, menimpa dengan azab",
+        "wazan_perubahan": "bentuk mudhariʿ"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja yang menjadi predikat bagi \"shiqāqī\" melalui \"an\"",
+        "irab_dan_logika": "marfuʿ karena mudhariʿ, harakat dhammah"
+      },
+      "hikmah": "menyatakan ancaman bahwa perpecahan dapat menyebabkan azab menimpa kalian",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "مِّثْلُ",
+      "transliterasi": "miṯlu",
+      "jenis_kata": "Isim",
+      "arti": "seperti, seperti",
+      "sharaf": {
+        "akar_kata": "م ث ل",
+        "makna_dasar": "menyerupai",
+        "wazan_perubahan": "مِثْل"
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر يسبق المجرور",
+        "irab_dan_logika": "مِثْلُ مرفوع بالضمة إذا كان مبتدأً، لكن في السياق هنا يعمل كحرف جر لذا يُنصب المجرور التالي (مَا) ويُعرب مِثْلُ مجرورًا بالكسرة"
+      },
+      "hikmah": "*Mengajarkan perbandingan*: Allah membandingkan azab yang menimpa kaum sebelumnya dengan ancaman bagi kaum pendengar.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "مَا",
+      "transliterasi": "mā",
+      "jenis_kata": "Huruf",
+      "arti": "apa, yang",
+      "sharaf": {
+        "akar_kata": "م ا",
+        "makna_dasar": "kata tanya atau penunjuk",
+        "wazan_perubahan": "لا يوجد"
+      },
+      "nahwu": {
+        "kedudukan": "اسم موصول يربط الجملة الفرعية",
+        "irab_dan_logika": "مَا مبني على السكون في محل رفع اسم موصول يسبق الفعل أَصَابَ"
+      },
+      "hikmah": "*Menunjukkan hal yang terjadi*: ‘apa yang menimpa’ menegaskan contoh azab yang konkret.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "أَصَابَ",
+      "transliterasi": "aṣāba",
+      "jenis_kata": "Fi'il",
+      "arti": "menimpa, menabrak",
+      "sharaf": {
+        "akar_kata": "ص ب ب",
+        "makna_dasar": "menyentuh, menimpa",
+        "wazan_perubahan": "فَعَلَ"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ماضٍ ثلاثي مجرد",
+        "irab_dan_logika": "أَصَابَ مبني على الفتح لا محل له من الإعراب، والفاعل ضمير مستتر تقديره هو (الله)"
+      },
+      "hikmah": "*Menegaskan tindakan Allah* yang menimpakan azab kepada kaum tertentu.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "قَوْمَ",
+      "transliterasi": "qawma",
+      "jenis_kata": "Isim",
+      "arti": "kaum",
+      "sharaf": {
+        "akar_kata": "ق و م",
+        "makna_dasar": "kelompok manusia",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به منصوب",
+        "irab_dan_logika": "قَوْمَ منصوب بالفتحة لأنه مفعول به للفعل أَصَابَ"
+      },
+      "hikmah": "*Menunjuk kelompok* yang menjadi sasaran azab.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "نُوحٍ",
+      "transliterasi": "Nūḥin",
+      "jenis_kata": "Isim",
+      "arti": "Nuh",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "قَوْمَ",
+      "transliterasi": "qawma",
+      "jenis_kata": "Isim",
+      "arti": "kaum, suku",
+      "sharaf": {
+        "akar_kata": "ق-و-م",
+        "makna_dasar": "kaum, kelompok manusia",
+        "wazan_perubahan": "فَعْل (faʿl) – bentuk dasar"
+      },
+      "nahwu": {
+        "kedudukan": "**خبر** dari kata kerja كان",
+        "irab_dan_logika": "مُنصَب بالفتحة لأنّه خبر كان"
+      },
+      "hikmah": "Menunjukkan bahwa **kaum** Nabi Hud termasuk dalam contoh‑contoh umat yang mendapat azab karena menolak kebenaran.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "هُودٍ",
+      "transliterasi": "hūdin",
+      "jenis_kata": "Isim",
+      "arti": "Hud (nama nabi)",
+      "sharaf": {
+        "akar_kata": "ه-و-د",
+        "makna_dasar": "nama nabi Hud",
+        "wazan_perubahan": "فُعْ (fuʿl) – bentuk isim"
+      },
+      "nahwu": {
+        "kedudukan": "**مضاف إليه** dalam iʿdāfa \"قَوْمَ هُودٍ\"",
+        "irab_dan_logika": "مجرور بالكسرة لأنه مضاف إليه"
+      },
+      "hikmah": "Mengingatkan bahwa **kaum Hud** pernah mengalami azab sebagai peringatan bagi umat‑umat lain.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "أَوْ",
+      "transliterasi": "aw",
+      "jenis_kata": "Huruf",
+      "arti": "atau",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "**حرف عطف** يربط بين جزأين من الجملة",
+        "irab_dan_logika": "مبني على السكون لا محل له من الإعراب"
+      },
+      "hikmah": "Menghubungkan dua contoh umat yang mendapat azab, menegaskan pilihan antara **kaum Hud** atau **kaum Shaleh**.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "قَوْمَ",
+      "transliterasi": "qawma",
+      "jenis_kata": "Isim",
+      "arti": "kaum, suku",
+      "sharaf": {
+        "akar_kata": "ق-و-م",
+        "makna_dasar": "kaum, kelompok manusia",
+        "wazan_perubahan": "فَعْل (faʿl) – bentuk dasar"
+      },
+      "nahwu": {
+        "kedudukan": "**خبر** من كان في العبارة الثانية \"أَوْ قَوْمَ صَالِحٍ\"",
+        "irab_dan_logika": "مُنصَب بالفتحة لأنه خبر كان"
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "وَمَا",
+      "transliterasi": "wa‑mā",
+      "jenis_kata": "Huruf",
+      "arti": "**dan tidak**; serta **apa**",
+      "sharaf": {
+        "akar_kata": "ما (partikel)",
+        "makna_dasar": "negasi, tidak",
+        "wazan_perubahan": "tidak berlaku wazan (partikel)"
+      },
+      "nahwu": {
+        "kedudukan": "pembuka ayat, huruf al‑‘itaf yang menegaskan larangan",
+        "irab_dan_logika": "**ما** huruf نفي مبني على السكون لا إعراب له، متصل بـ **و** التي هي حرف عطف"
+      },
+      "hikmah": "Menegaskan agar pendengar **tidak** meniru perbuatan kaum Luth yang mendapat azab.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "قَوْمُ",
+      "transliterasi": "qawmu",
+      "jenis_kata": "Isim",
+      "arti": "kaum",
+      "sharaf": {
+        "akar_kata": "ق‑و‑م",
+        "makna_dasar": "kelompok, suku",
+        "wazan_perubahan": "فَعْل"
+      },
+      "nahwu": {
+        "kedudukan": "mudhaf (possessee) dalam iḍāfah **قَوْمُ لُوطٍ**",
+        "irab_dan_logika": "مرفوع بالضمة لأنّه مضاف"
+      },
+      "hikmah": "Menunjuk pada **kelompok** tertentu, yaitu **kaum Luth**.",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "لُوطٍۢ",
+      "transliterasi": "Lūṭin",
+      "jenis_kata": "Isim",
+      "arti": "Luth (nama nabi)",
+      "sharaf": {
+        "akar_kata": "ل‑و‑ط",
+        "makna_dasar": "nama nabi Luth",
+        "wazan_perubahan": "فَعْل"
+      },
+      "nahwu": {
+        "kedudukan": "mudhaf (possessee) dalam iḍāfah **قَوْمُ لُوطٍ**",
+        "irab_dan_logika": "مجرور بالكسرة لأنه مضاف إليه"
+      },
+      "hikmah": "Menyiratkan **umat Nabi Luth** yang mendapat azab sebagai peringatan.",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "مِّنكُم",
+      "transliterasi": "minkum",
+      "jenis_kata": "Huruf",
+      "arti": "dari kalian",
+      "sharaf": {
+        "akar_kata": "م‑ن (من)",
+        "makna_dasar": "dari, keluar",
+        "wazan_perubahan": "tidak berubah"
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر يربط اسم الجر **بَعِيدٍ** بالضمير المتصل",
+        "irab_dan_logika": "مجرور ولا إعراب له، والضمير **كم** في محل جر مضاف إليه"
+      },
+      "hikmah": "Menunjukkan **sumber** atau **asal** jarak, yakni **dari kalian**.",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "بِبَعِيدٍۢ",
+      "transliterasi": "biba‘idin",
+      "jenis_kata": "Huruf",
+      "arti": "dengan jauh; pada jarak yang jauh",
+      "sharaf": {
+        "akar_kata": "ب‑ع‑د",
+        "makna_dasar": "jauh",
+        "wazan_perubahan": "فَعِيل"
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر + اسم مجرور يوضح حالة المكان",
+        "irab_dan_logika": "**بِ** حرف جر، والاسم **بَعِيدٍ** مجرور بالكسرة وعلامة الجر تنوين الكسر"
+      },
+      "hikmah": "Menyiratkan bahwa **kaum Luth tidak jauh** dari pendengar, sehingga peringatan itu bersifat **dekat**.",
+      "role": "none"
+    }
+  ]
+}

@@ -1,0 +1,366 @@
+{
+  "surah": 9,
+  "ayah": 100,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "وَٱلسَّٰبِقُونَ",
+      "transliterasi": "wa‑as‑sābiqūna",
+      "jenis_kata": "Isim",
+      "arti": "yang mendahului / orang‑orang yang terdepan",
+      "sharaf": {
+        "akar_kata": "س ب ق",
+        "makna_dasar": "mendahului, mendahulukan",
+        "wazan_perubahan": "فَعِلُون (fa‘ilūna) – bentuk aktif participle jamak"
+      },
+      "nahwu": {
+        "kedudukan": "subjek pertama dalam rangkaian *wa‑* (dan)",
+        "irab_dan_logika": "marfuʿ dengan dammah karena berfungsi sebagai mubtadaʿ (subjek)"
+      },
+      "hikmah": "menunjukkan keutamaan orang‑orang yang pertama masuk Islam dan menempati posisi terdepan dalam keimanan",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "ٱلْأَوَّلُونَ",
+      "transliterasi": "al‑awwalūna",
+      "jenis_kata": "Isim",
+      "arti": "yang pertama",
+      "sharaf": {
+        "akar_kata": "أ و ل",
+        "makna_dasar": "pertama, awalan",
+        "wazan_perubahan": "أَوَّلُونَ – bentuk jamak isim (broken plural)"
+      },
+      "nahwu": {
+        "kedudukan": "subjek kedua yang dihubungkan dengan *wa*",
+        "irab_dan_logika": "marfuʿ dengan dammah, karena termasuk dalam daftar mubtadaʿ"
+      },
+      "hikmah": "menegaskan bahwa mereka adalah golongan pertama yang beriman, menambah bobot keistimewaan mereka",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "مِنَ",
+      "transliterasi": "mina",
+      "jenis_kata": "Huruf",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar yang menghubungkan subjek dengan objek",
+        "irab_dan_logika": "menjadikan kata setelahnya majrur (kasrah) karena berfungsi sebagai *jar*"
+      },
+      "hikmah": "menunjukkan asal‑usul atau sumber keanggotaan golongan yang disebutkan",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "ٱلْمُهَٰجِرِينَ",
+      "transliterasi": "al‑muhājirīna",
+      "jenis_kata": "Isim",
+      "arti": "para Muhajirin",
+      "sharaf": {
+        "akar_kata": "ه ج ر",
+        "makna_dasar": "migrasi, hijrah",
+        "wazan_perubahan": "مُهَاجِرِين – isim faʿil (aktif participle) jamak"
+      },
+      "nahwu": {
+        "kedudukan": "objek majrur setelah *mina*",
+        "irab_dan_logika": "majrur dengan kasrah karena berada dalam konstruksi *mina al‑muhājirīna*"
+      },
+      "hikmah": "menyiratkan keberanian dan pengorbanan mereka yang meninggalkan tanah kelahiran demi Islam",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "وَٱلْأَنصَارِ",
+      "transliterasi": "wa‑al‑anṣār",
+      "jenis_kata": "Isim",
+      "arti": "dan Anshar (para pendukung)",
+      "sharaf": {
+        "akar_kata": "ن ص ر",
+        "makna_dasar": "menolong, membantu",
+        "wazan_perubahan": "أَنصَار – isim jamak taksir (broken plural)"
+      },
+      "nahwu": {
+        "kedudukan": "objek majrur yang berkoordinasi dengan *al‑muhājirīna*",
+        "irab_dan_logika": "majrur dengan kasrah karena masih berada dalam rangkaian *mina*"
+      },
+      "hikmah": "menunjukkan peran penting sahabat-sahabat yang menolong dan mendukung kaum Muhajirin",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "وَٱلَّذِينَ",
+      "transliterasi": "wa‑alladhīna",
+      "jenis_kata": "Isim",
+      "arti": "dan orang‑orang yang",
+      "sharaf": {
+        "akar_kata": "ذ ي ن",
+        "makna_dasar": "yang, orang yang",
+        "wazan_perubahan": "الَّذِينَ – isim mawsul (kata ganti relatif)"
+      },
+      "nahwu": {
+        "kedudukan": "subjek baru yang mengawali klausa berikutnya (*alladhīna attabaʿū*)",
+        "irab_dan_logika": "marfuʿ dengan dammah karena berfungsi sebagai mubtadaʿ dalam kalimat selanjutnya"
+      },
+      "hikmah": "menyiratkan kelanjutan keutamaan bagi mereka yang mengikuti jejak para Muhajirin dan Anshar dengan baik",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "ٱتَّبَعُوهُم",
+      "transliterasi": "ittabaʿūhum",
+      "jenis_kata": "Fi'il",
+      "arti": "mengikuti mereka",
+      "sharaf": {
+        "akar_kata": "ت ب ع",
+        "makna_dasar": "mengikuti",
+        "wazan_perubahan": "فَعَلَ (dengan alif ta' marbuta dan akhiran -وا)"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja transitif dalam kalimat, subjek tersirat (mereka)",
+        "irab_dan_logika": "مرفوع بالضمة الظاهرة على الواو لأنه فعل ماضٍ مبني على الفتح"
+      },
+      "hikmah": "Menunjukkan kepatuhan dan kesetiaan sahabat kepada ajaran Islam",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "عَنْهُ",
+      "transliterasi": "ʿanhu",
+      "jenis_kata": "Huruf (preposisi)",
+      "arti": "dari dia / tentang dia",
+      "sharaf": {
+        "akar_kata": "ع ن",
+        "makna_dasar": "dari, tentang",
+        "wazan_perubahan": "tidak berlaku (huruf)"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar yang menghubungkan dengan kata sebelumnya",
+        "irab_dan_logika": "مبني على السكون؛ علامة الجر الكسرة على الهاء لأنّه ضمير متصل"
+      },
+      "hikmah": "Menunjukkan hubungan sebab‑akibat, menegaskan bahwa Allah menurunkan rahmat **dari**-Nya kepada mereka",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "وَأَعَدَّ",
+      "transliterasi": "wa-aʿadda",
+      "jenis_kata": "Fi'il (verb) madhi",
+      "arti": "dan menyiapkan",
+      "sharaf": {
+        "akar_kata": "ع د د",
+        "makna_dasar": "menyiapkan, mengatur",
+        "wazan_perubahan": "فعل مضعف (عَدَّ)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il madhi مرفوع بالضمة، والواو حرف عطف يربط الفعل بالجزء السابق",
+        "irab_dan_logika": "مرفوع بالضمة لأنّه فعل ماضٍ مبني على الفتح"
+      },
+      "hikmah": "Allah **menyiapkan** balasan yang baik bagi orang‑orang beriman",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "لَهُمْ",
+      "transliterasi": "lahum",
+      "jenis_kata": "Huruf (preposisi) + ضمير متصل",
+      "arti": "bagi mereka",
+      "sharaf": {
+        "akar_kata": "ل",
+        "makna_dasar": "untuk, demi",
+        "wazan_perubahan": "tidak berlaku (huruf)"
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر يجر الضمير المتصل \"هُم\"",
+        "irab_dan_logika": "مجرور بالكسرة لأنّها حرف جر، والهاء في محل جر"
+      },
+      "hikmah": "Menunjukkan tujuan penyediaan, yaitu **untuk** mereka",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "جَنَّٰتٍۢ",
+      "transliterasi": "jannātin",
+      "jenis_kata": "Isim (noun) jamak",
+      "arti": "surga, taman",
+      "sharaf": {
+        "akar_kata": "ج ن ن",
+        "makna_dasar": "tempat yang indah, taman",
+        "wazan_perubahan": "اسم تفعيل"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به للفعل \"أَعَدَّ\"",
+        "irab_dan_logika": "منصوب بالفتحة الظاهرة وعلامة النصب تنوين النصب (ٍ)"
+      },
+      "hikmah": "Objek yang disiapkan Allah: **surga‑surga** yang penuh kenikmatan",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "تَجْرِي",
+      "transliterasi": "tajrī",
+      "jenis_kata": "Fi'il (verb) mudhari",
+      "arti": "mengalir",
+      "sharaf": {
+        "akar_kata": "ج ر ي",
+        "makna_dasar": "mengalir, menggerakkan air",
+        "wazan_perubahan": "فعل مضارع"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع بالضمة، والفاعل ضمير مستتر تقديره هي (الجنة)",
+        "irab_dan_logika": "مرفوع بالضمة لأن الفعل مضارع مرفوع"
+      },
+      "hikmah": "Surga‑surga **mengalir** dengan air yang melimpah",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "ٱلْأَنْهَٰرُ",
+      "transliterasi": "al-anhāru",
+      "jenis_kata": "Isim",
+      "arti": "sungai‑sungai",
+      "sharaf": {
+        "akar_kata": "ن-ه-ر",
+        "makna_dasar": "aliran air, sungai",
+        "wazan_perubahan": "جمع تكسير"
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada' (subjek) dalam kalimat nominal",
+        "irab_dan_logika": "مرفوع بالضمة لأنّه اسم مرفوع في محل رفع"
+      },
+      "hikmah": "*Allah menjanjikan surga yang dipenuhi dengan sungai‑sungai yang mengalir terus‑menerus*",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "خَٰلِدِينَ",
+      "transliterasi": "khālidīna",
+      "jenis_kata": "Isim (اسم الفاعل)",
+      "arti": "yang kekal",
+      "sharaf": {
+        "akar_kata": "خ-ل-د",
+        "makna_dasar": "kekal, abadi",
+        "wazan_perubahan": "فَاعِل"
+      },
+      "nahwu": {
+        "kedudukan": "Khabar (predikat) untuk mubtada' ٱلْأَنْهَٰرُ, منصوب بالفتحة الظاهرة على النون بسبب الفعل المحذوف \"يَكُونُ\"",
+        "irab_dan_logika": "منصوب لأن الفعل \"يَكُونُ\" مستتر والاسم الفاعل يأتي في محل نصب"
+      },
+      "hikmah": "*Menunjukkan sifat abadi sungai‑sungai di surga, yaitu tidak pernah berakhir*",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "فِيهَآ",
+      "transliterasi": "fīhā",
+      "jenis_kata": "Huruf (حرف جر)",
+      "arti": "di dalamnya",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Jar (preposisi) + ضمير متصل, يشكل جار ومجرور يعبّر عن الظرف المكاني",
+        "irab_dan_logika": "مجرور بالكسرة لأنه تابع لحرف الجر \"في\""
+      },
+      "hikmah": "*Menunjukkan tempat keberadaan sungai‑sungai, yaitu di dalam surga*",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "أَبَدًۭا",
+      "transliterasi": "abadan",
+      "jenis_kata": "Isim (اسم ظرف زمان)",
+      "arti": "selamanya",
+      "sharaf": {
+        "akar_kata": "ب-د-د",
+        "makna_dasar": "kekal, tidak berakhir",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "ظرف زمان منصوب يضيف معنى الدوام إلى الجملة",
+        "irab_dan_logika": "منصوب بالفتحة الظاهرة على آخره لأنه ظرف زمان منصوب"
+      },
+      "hikmah": "*Menegaskan bahwa kenikmatan itu berlangsung selama-lamanya*",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "ۚ",
+      "transliterasi": "waqf",
+      "jenis_kata": "Huruf (علامة وقف)",
+      "arti": "tanda jeda",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "علامة وقف تُستعمل لتقسيم المعنى وتوضيح الوقف",
+        "irab_dan_logika": "ليس لها إعراب لأنها علامة فقط"
+      },
+      "hikmah": "*Memberi jeda untuk menekankan makna sebelumnya sebelum melanjutkan*",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "ذَٰلِكَ",
+      "transliterasi": "dhālika",
+      "jenis_kata": "Isim (اسم إشارة)",
+      "arti": "itu",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "ٱلْفَوْزُ",
+      "transliterasi": "al‑fawzu",
+      "jenis_kata": "Isim (nama benda)",
+      "arti": "kemenangan, keberhasilan",
+      "sharaf": {
+        "akar_kata": "ف و ز",
+        "makna_dasar": "menang, memperoleh kemenangan",
+        "wazan_perubahan": "فَوْزٌ – pola *fa‘ul* (isim maf‘ūl)"
+      },
+      "nahwu": {
+        "kedudukan": "خبر مرفوع (sebagai bagian dari predikat \"فَوْzٌ عَظِيمٌ\")",
+        "irab_dan_logika": "مرفوع بالضمة لأنّها خبر مرفوع في جملة اسمية، والضمة تُظهر حالة الرفع"
+      },
+      "hikmah": "Kata ini menegaskan **kemenangan** yang dijanjikan Allah kepada orang‑orang beriman; makna spiritualnya ialah kemenangan atas dosa dan dunia.",
+      "role": "none"
+    },
+    {
+      "index": 25,
+      "kata_arab": "ٱلْعَظِيمُ",
+      "transliterasi": "al‑‘azīmu",
+      "jenis_kata": "Isim (nama sifat)",
+      "arti": "yang besar, agung",
+      "sharaf": {
+        "akar_kata": "ع ظ م",
+        "makna_dasar": "besar, mulia, agung",
+        "wazan_perubahan": "عَظِيمٌ – pola *fa‘īl* (isim fa‘īl, sifat)"
+      },
+      "nahwu": {
+        "kedudukan": "نعت مرفوع (menjelaskan kata \"الفوزُ\")",
+        "irab_dan_logika": "مرفوع بالضمة لأنّ النعت يتبع المبتدأ أو الخبر المرفوع ويُعرب مرفوعًا"
+      },
+      "hikmah": "Menunjukkan bahwa kemenangan yang dijanjikan itu **besar sekali**, melampaui segala harapan duniawi, dan bersifat abadi dalam konteks akhirat.",
+      "role": "none"
+    }
+  ]
+}

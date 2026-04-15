@@ -1,0 +1,456 @@
+{
+  "surah": 4,
+  "ayah": 84,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "فَقَٰتِلْ",
+      "transliterasi": "fa-qātil",
+      "jenis_kata": "**Fi'il** (kata kerja)",
+      "arti": "Maka berperanglah!",
+      "sharaf": {
+        "akar_kata": "ق-ت-ل",
+        "makna_dasar": "Membunuh, memerangi",
+        "wazan_perubahan": "**Fi'il Amr** (kata kerja perintah) dari Bab III (**فاعل** - **يُفَاعِلُ**). Huruf 'fa' (فَ) di awal adalah huruf 'athaf/isti'naf' (penghubung/permulaan)."
+      },
+      "nahwu": {
+        "kedudukan": "**Fi'il Amr**",
+        "irab_dan_logika": "**Fi'il Amr** mabni sukun (**مبني على السكون**) karena sahih akhir dan tidak bersambung dengan dhamir apapun. Pelaku (**fa'il**) adalah dhamir mustatir (**ضمير مستتر**) تقديره أنت (kamu tunggal laki-laki)."
+      },
+      "hikmah": "Perintah tegas untuk berjihad atau berperang di jalan Allah, menunjukkan **kewajiban** dan **urgensi** tindakan.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "فِى",
+      "transliterasi": "fī",
+      "jenis_kata": "**Huruf** (preposisi)",
+      "arti": "Di dalam, pada, di",
+      "sharaf": {
+        "akar_kata": "Tidak memiliki akar kata dalam sharaf.",
+        "makna_dasar": "Menunjukkan tempat, waktu, atau tujuan.",
+        "wazan_perubahan": "**Huruf** tidak memiliki wazan."
+      },
+      "nahwu": {
+        "kedudukan": "**Harf Jar** (huruf preposisi)",
+        "irab_dan_logika": "**Harf Jar** mabni sukun (**مبني على السكون**), tidak memiliki kedudukan i'rab. Berfungsi men-jar-kan isim setelahnya."
+      },
+      "hikmah": "Menunjukkan konteks atau tujuan dari perintah berperang, yaitu \"**di jalan Allah**,\" menekankan niat dan tujuan ilahi.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "سَبِيلِ",
+      "transliterasi": "sabīl",
+      "jenis_kata": "**Isim** (kata benda)",
+      "arti": "Jalan, cara",
+      "sharaf": {
+        "akar_kata": "س-ب-ل",
+        "makna_dasar": "Mengalir, membuka jalan, jalan.",
+        "wazan_perubahan": "**فَعِيل** (fa'īl) - **Isim**."
+      },
+      "nahwu": {
+        "kedudukan": "**Isim Majrur** (kata benda yang di-jar-kan)",
+        "irab_dan_logika": "**Majrur** dengan kasrah (**مجرور بالكسرة**) karena didahului oleh **Harf Jar** 'fī' (فِى). Juga berkedudukan sebagai **Mudhaf** (yang disandarkan) kepada 'Allah'."
+      },
+      "hikmah": "Merujuk pada \"**jalan**\" atau \"**cara**\" yang benar, yang dalam konteks ini adalah jalan Allah, yaitu **jihad fi sabilillah**.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "ٱللَّهِ",
+      "transliterasi": "Allāh",
+      "jenis_kata": "**Isim** (kata benda)",
+      "arti": "Allah (Nama Tuhan)",
+      "sharaf": {
+        "akar_kata": "ا-ل-ه",
+        "makna_dasar": "Tuhan yang disembah.",
+        "wazan_perubahan": "**Isim 'alam** (nama diri)."
+      },
+      "nahwu": {
+        "kedudukan": "**Mudhaf Ilaih** (yang disandari)",
+        "irab_dan_logika": "**Majrur** dengan kasrah (**مجرور بالكسرة**) karena berkedudukan sebagai **Mudhaf Ilaih** dari 'sabīl' (سَبِيلِ)."
+      },
+      "hikmah": "Menegaskan bahwa tujuan dari jihad adalah **demi Allah semata**, bukan untuk kepentingan pribadi atau duniawi.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "لَا",
+      "transliterasi": "lā",
+      "jenis_kata": "**Huruf**",
+      "arti": "Tidak, jangan",
+      "sharaf": {
+        "akar_kata": "Tidak memiliki akar kata.",
+        "makna_dasar": "Penafian atau pelarangan.",
+        "wazan_perubahan": "**Huruf** tidak memiliki wazan."
+      },
+      "nahwu": {
+        "kedudukan": "**Harf Nafy** (huruf penafian)",
+        "irab_dan_logika": "**Harf Nafy** mabni sukun (**مبني على السكون**), tidak memiliki kedudukan i'rab. Berfungsi menafikan atau meniadakan makna fi'il setelahnya."
+      },
+      "hikmah": "Menunjukkan **penafian** atau **peniadaan** suatu kondisi, dalam hal ini menafikan beban yang berlebihan.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "تُكَلَّفُ",
+      "transliterasi": "tukallafu",
+      "jenis_kata": "**Fi'il** (kata kerja)",
+      "arti": "Kamu dibebani",
+      "sharaf": {
+        "akar_kata": "ك-ل-ف",
+        "makna_dasar": "Membebankan, membebani.",
+        "wazan_perubahan": "**Fi'il Mudhari' Majhul** (pasif) dari Bab II (**فَعَّلَ** - **يُفَعِّلُ**). Bentuk aslinya adalah كَلَّفَ (aktif) atau تُكَلِّفُ (aktif mudhari'). Bentuk pasif mudhari'nya adalah تُكَلَّفُ."
+      },
+      "nahwu": {
+        "kedudukan": "**Fi'il Mudhari' Majhul** (kata kerja sekarang/akan datang pasif)",
+        "irab_dan_logika": "**Marfu'** dengan dhammah (**مرفوع بالضمة**) karena tidak didahului oleh amil nashab atau amil jazm. **Na'ibul Fa'il** (pengganti subjek) adalah dhamir mustatir (**ضمير مستتر**) تقديره أنت (kamu tunggal laki-laki)."
+      },
+      "hikmah": "Menjelaskan bahwa seseorang **tidak akan dibebani melebihi kemampuannya**, menegaskan prinsip **kemudahan** dalam syariat Islam.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "إِلَّا",
+      "transliterasi": "Illā",
+      "jenis_kata": "Huruf",
+      "arti": "kecuali, melainkan",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk huruf.",
+        "makna_dasar": "Tidak berlaku untuk huruf.",
+        "wazan_perubahan": "Tidak berlaku untuk huruf."
+      },
+      "nahwu": {
+        "kedudukan": "Huruf istitsna' (pengecualian).",
+        "irab_dan_logika": "Huruf mabni (tetap) dan tidak memiliki i'rab. Berfungsi untuk menunjukkan pengecualian atau pembatasan."
+      },
+      "hikmah": "Kata ini berfungsi untuk membatasi tanggung jawab jihad hanya pada diri sendiri, menekankan bahwa setiap individu bertanggung jawab atas kewajibannya di jalan Allah tanpa membebani orang lain.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "نَفْسَكَ",
+      "transliterasi": "Nafsaka",
+      "jenis_kata": "Isim",
+      "arti": "dirimu",
+      "sharaf": {
+        "akar_kata": "ن ف س (N-F-S)",
+        "makna_dasar": "Jiwa, diri, nafas.",
+        "wazan_perubahan": "Isim Mufrad (kata benda tunggal) yang ditambahkan dhamir muttasil (kata ganti sambung) 'ka' (kamu). Bentuk asalnya adalah نَفْسٌ (nafsun)."
+      },
+      "nahwu": {
+        "kedudukan": "Mustatsna (yang dikecualikan) dari dhamir 'kamu' pada 'تُكَلَّفُ' (tukallafu) yang tersembunyi, atau sebagai maf'ul bih (objek) dari fi'il yang tersembunyi. Dhamir 'كَ' (ka) adalah mudhaf ilaih.",
+        "irab_dan_logika": "Mansub (berharakat fathah) karena ia adalah mustatsna. Mustatsna setelah 'إِلَّا' biasanya mansub jika kalamnya mujab (positif) dan tam (lengkap). Dhamir 'كَ' (ka) adalah dhamir mabni yang berada pada posisi jar (majrur) sebagai mudhaf ilaih."
+      },
+      "hikmah": "Menegaskan bahwa tanggung jawab utama dalam berjihad terletak pada diri sendiri. Ini adalah penekanan pada akuntabilitas pribadi dan kesiapan individu untuk berkorban di jalan Allah.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "ۚ",
+      "transliterasi": "(Tanda Waqaf)",
+      "jenis_kata": "Tanda Baca",
+      "arti": "(Tanda Waqaf Lazim)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk tanda baca.",
+        "makna_dasar": "Tidak berlaku untuk tanda baca.",
+        "wazan_perubahan": "Tidak berlaku untuk tanda baca."
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf lazim (harus berhenti).",
+        "irab_dan_logika": "Tidak memiliki i'rab. Berfungsi untuk menunjukkan tempat berhenti yang dianjurkan dalam pembacaan Al-Qur'an, menandakan akhir dari satu gagasan atau kalimat yang lengkap."
+      },
+      "hikmah": "Menandakan jeda yang penting dalam pembacaan, membantu pembaca untuk mencerna makna dari kalimat sebelumnya sebelum melanjutkan ke perintah berikutnya.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "وَحَرِّضِ",
+      "transliterasi": "Wa harridzi",
+      "jenis_kata": "Fi'il",
+      "arti": "Dan kobarkanlah semangat, doronglah",
+      "sharaf": {
+        "akar_kata": "ح ر ض (H-R-D)",
+        "makna_dasar": "Mendorong, menghasut, memprovokasi.",
+        "wazan_perubahan": "Fi'il Amr (kata kerja perintah) dari Bab Taf'il (فَعَّلَ - يُفَعِّلُ). Bentuk asalnya adalah حَرَّضَ (harradha) - يُحَرِّضُ (yuharridhu). Bentuk amr-nya adalah حَرِّضْ (harridh), namun di sini diwasalkan dengan kasrah karena bertemu alif lam qamariyah pada kata berikutnya."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Amr. Fa'il (subjek) adalah dhamir mustatir (tersembunyi) yang kembali kepada 'kamu' (Nabi Muhammad SAW).",
+        "irab_dan_logika": "Fi'il Amr mabni 'ala as-sukun (tetap dengan sukun), namun di sini harakat sukun diubah menjadi kasrah (وَحَرِّضِ) karena bertemu dengan alif lam qamariyah dari kata 'ٱلْمُؤْمِنِينَ' (al-mu'minin) untuk memudahkan pengucapan (iltiqa' as-sakinain - pertemuan dua sukun)."
+      },
+      "hikmah": "Ini adalah perintah langsung kepada Nabi Muhammad SAW (dan secara umum kepada para pemimpin umat) untuk memotivasi dan membangkitkan semangat juang kaum mukmin. Menunjukkan pentingnya peran kepemimpinan dalam menggerakkan umat untuk berjihad dan menghadapi musuh.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "ٱلْمُؤْمِنِينَ",
+      "transliterasi": "Al-Mu'minin",
+      "jenis_kata": "Isim",
+      "arti": "orang-orang mukmin",
+      "sharaf": {
+        "akar_kata": "أ م ن (A-M-N)",
+        "makna_dasar": "Aman, percaya, beriman.",
+        "wazan_perubahan": "Isim Fa'il (pelaku) dalam bentuk jamak mudzakkar salim (plural maskulin teratur). Bentuk tunggalnya adalah مُؤْمِنٌ (mu'minun)."
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul bih (objek) dari fi'il 'وَحَرِّضِ' (wa harridzi).",
+        "irab_dan_logika": "Mansub (berharakat ya' karena ia adalah jamak mudzakkar salim). Maf'ul bih selalu mansub. Tanda nasab untuk jamak mudzakkar salim adalah huruf ya' (ي)."
+      },
+      "hikmah": "Merujuk pada komunitas orang-orang yang beriman, yang menjadi sasaran motivasi untuk berjihad. Ini menunjukkan bahwa jihad adalah tanggung jawab kolektif umat Islam, dan peran pemimpin adalah untuk menggerakkan mereka.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "ۖ",
+      "transliterasi": "(Tanda Waqaf)",
+      "jenis_kata": "Tanda Baca",
+      "arti": "(Tanda Waqaf Jaiz)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk tanda baca.",
+        "makna_dasar": "Tidak berlaku untuk tanda baca.",
+        "wazan_perubahan": "Tidak berlaku untuk tanda baca."
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf jaiz (boleh berhenti atau melanjutkan).",
+        "irab_dan_logika": "Tidak memiliki i'rab. Berfungsi untuk menunjukkan tempat berhenti yang diperbolehkan dalam pembacaan Al-Qur'an, namun melanjutkan juga tidak masalah karena gagasan berikutnya masih terkait."
+      },
+      "hikmah": "Memberikan fleksibilitas dalam pembacaan, memungkinkan pembaca untuk berhenti sejenak untuk merenungkan makna atau melanjutkan untuk menghubungkan gagasan dengan kalimat berikutnya yang masih dalam satu konteks.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "عَسَى",
+      "transliterasi": "ʿAsā",
+      "jenis_kata": "Fi'il Naqish / Harf Rajaa'",
+      "arti": "Semoga, mudah-mudahan, barangkali",
+      "sharaf": {
+        "akar_kata": "ع س و / ع س ي",
+        "makna_dasar": "Menunjukkan harapan atau kemungkinan yang kuat.",
+        "wazan_perubahan": "Fi'il Madhi Naqish"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Naqish yang berfungsi sebagai 'Harf Rajaa'' (partikel harapan). Ia mengangkat Isim dan menashabkan Khabar.",
+        "irab_dan_logika": "Mabni (tetap) di atas Fathah Muqaddarah (fathah yang diperkirakan) pada Alif. Dalam konteks Al-Qur'an, 'عَسَى' dari Allah sering bermakna kepastian."
+      },
+      "hikmah": "Ketika 'عَسَى' disandarkan kepada Allah dalam Al-Qur'an, ia seringkali tidak hanya berarti harapan, melainkan janji yang pasti akan terwujud. Ini menunjukkan keyakinan akan pertolongan dan kekuasaan Allah.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "ٱللَّهُ",
+      "transliterasi": "Allāhu",
+      "jenis_kata": "Isim (Isim Jalalah)",
+      "arti": "Allah (Tuhan Yang Maha Esa)",
+      "sharaf": {
+        "akar_kata": "ا ل ه",
+        "makna_dasar": "Sesuatu yang disembah, yang patut diibadahi.",
+        "wazan_perubahan": "Isim Mufrad"
+      },
+      "nahwu": {
+        "kedudukan": "Isim 'عَسَى' (Isim 'Asā).",
+        "irab_dan_logika": "Marfu' (rafa') dengan Dhammah karena ia adalah Isim dari 'عَسَى' yang selalu dalam keadaan rafa'."
+      },
+      "hikmah": "Menegaskan bahwa segala harapan dan kekuasaan mutlak untuk menolak kejahatan dan memberikan kemenangan bersumber dari Allah SWT. Dialah satu-satunya yang mampu mewujudkan harapan tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "أَن",
+      "transliterasi": "An",
+      "jenis_kata": "Huruf (Harf Nashb)",
+      "arti": "Bahwa, untuk, agar",
+      "sharaf": {
+        "akar_kata": "Tidak memiliki akar kata (huruf)",
+        "makna_dasar": "Menghubungkan dan menashabkan fi'il mudhari' setelahnya.",
+        "wazan_perubahan": "Huruf Mabni"
+      },
+      "nahwu": {
+        "kedudukan": "Harf Nashb (partikel yang menashabkan fi'il mudhari').",
+        "irab_dan_logika": "Mabni (tetap) di atas Sukun, tidak memiliki kedudukan i'rab. Fungsinya adalah menashabkan fi'il mudhari' yang mengikutinya."
+      },
+      "hikmah": "Berfungsi sebagai penghubung yang menjelaskan tujuan atau akibat dari harapan yang disebutkan sebelumnya. Ini mengindikasikan bahwa tindakan Allah (menolak serangan) adalah objek dari harapan tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "يَكُفَّ",
+      "transliterasi": "Yakuffa",
+      "jenis_kata": "Fi'il Mudhari'",
+      "arti": "Menolak, menahan, mencegah",
+      "sharaf": {
+        "akar_kata": "ك ف ف",
+        "makna_dasar": "Menahan, mencegah, menghentikan.",
+        "wazan_perubahan": "Fi'il Mudhari' dari Bab I (Fa'ala - Yaf'ulu)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Manshub (dinashabkan).",
+        "irab_dan_logika": "Manshub dengan Fathah karena didahului oleh 'أَن' (Harf Nashb). Fa'il (pelaku) dari fi'il ini adalah 'هُوَ' (Dia/Allah) yang tersembunyi (mustatir) secara jawaz. Fi'il ini bersama 'أَن' dan Fa'il-nya membentuk 'mashdar mu'awwal' (bentuk mashdar yang diinterpretasikan) yang menjadi Khabar dari 'عَسَى' dalam kedudukan Nashb."
+      },
+      "hikmah": "Menjelaskan tindakan spesifik Allah, yaitu menolak atau menghentikan serangan orang-orang kafir. Ini menunjukkan kekuasaan Allah dalam melindungi hamba-Nya dan mengalahkan musuh.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "بَأْسَ",
+      "transliterasi": "Ba'sa",
+      "jenis_kata": "Isim",
+      "arti": "Serangan, kekuatan, kejahatan, bahaya, siksaan",
+      "sharaf": {
+        "akar_kata": "ب أ س",
+        "makna_dasar": "Kesulitan, kekuatan, keberanian, bahaya.",
+        "wazan_perubahan": "Isim Mufrad"
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul Bih (objek) dari fi'il 'يَكُفَّ'.",
+        "irab_dan_logika": "Manshub (nashab) dengan Fathah karena ia adalah Maf'ul Bih."
+      },
+      "hikmah": "Merujuk pada kekuatan, serangan, atau kejahatan yang dilakukan oleh orang-orang kafir. Penggunaan kata ini menekankan bahwa Allah akan menolak segala bentuk ancaman dan bahaya yang datang dari mereka.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "ٱلَّذِينَ",
+      "transliterasi": "Alladhīna",
+      "jenis_kata": "Isim Maushul",
+      "arti": "Orang-orang yang",
+      "sharaf": {
+        "akar_kata": "Tidak memiliki akar kata (isim maushul)",
+        "makna_dasar": "Menghubungkan antara kalimat sebelumnya dengan kalimat sifat yang menjelaskan siapa 'orang-orang' tersebut.",
+        "wazan_perubahan": "Isim Maushul Jamak Mudzakkar"
+      },
+      "nahwu": {
+        "kedudukan": "Mudhaf Ilaih (kata yang disandarkan kepadanya) dari 'بَأْسَ'.",
+        "irab_dan_logika": "Mabni (tetap) di atas Fathah, tidak berubah harakatnya. Meskipun secara kedudukan ia adalah Mudhaf Ilaih yang seharusnya Majrur, namun karena ia adalah Isim Mabni, maka ia tetap pada bentuknya. Kedudukannya adalah Majrur secara mahal (secara tempat)."
+      },
+      "hikmah": "Menjelaskan identitas dari pihak yang serangannya akan ditolak oleh Allah. Ini menunjukkan bahwa penolakan Allah itu spesifik terhadap musuh-musuh-Nya, yaitu 'orang-orang yang' akan dijelaskan lebih lanjut (dalam ayat ini adalah 'kafir').",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "كَفَرُوا۟",
+      "transliterasi": "kafarū",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka telah kafir/ingkar",
+      "sharaf": {
+        "akar_kata": "ك ف ر (k-f-r)",
+        "makna_dasar": "Menutupi, mengingkari, tidak beriman.",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau), jama' mudzakkar gha'ib (mereka laki-laki). Wazan: فَعَلُوا (fa'alū)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il dan Fa'il (kata kerja dan pelakunya). Fa'ilnya adalah wawu al-jama'ah (و) yang kembali kepada 'orang-orang yang kafir' yang disebutkan sebelumnya dalam konteks ayat.",
+        "irab_dan_logika": "Fi'il Madhi mabniyyun 'ala ad-dhammi (dibangun di atas dhammah) karena bersambung dengan wawu al-jama'ah. Wawu al-jama'ah adalah dhamir muttashil (kata ganti bersambung) dalam posisi rafa' sebagai fa'il."
+      },
+      "hikmah": "Kata ini menegaskan tindakan penolakan dan ketidakpercayaan terhadap kebenaran dari pihak orang-orang kafir. Dalam konteks ayat, ini merujuk pada mereka yang menentang Allah dan Rasul-Nya, yang menjadi target perlawanan kaum mukmin.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqaf lazim)",
+      "jenis_kata": "Huruf",
+      "arti": "Tanda waqaf lazim (harus berhenti)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf.",
+        "irab_dan_logika": "Bukan bagian dari i'rab, melainkan tanda baca untuk membantu pembacaan Al-Qur'an."
+      },
+      "hikmah": "Menunjukkan tempat berhenti yang dianjurkan atau bahkan diwajibkan dalam pembacaan Al-Qur'an untuk menjaga makna ayat agar tidak salah dipahami.",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "وَٱللَّهُ",
+      "transliterasi": "wallāhu",
+      "jenis_kata": "Huruf dan Isim",
+      "arti": "Dan Allah",
+      "sharaf": {
+        "akar_kata": "ا ل ه (a-l-h) untuk Allah.",
+        "makna_dasar": "Wawu: penghubung/sumpah. Allah: Tuhan yang disembah.",
+        "wazan_perubahan": "N/A untuk wawu. Isim 'alam (nama diri) untuk Allah."
+      },
+      "nahwu": {
+        "kedudukan": "Wawu: Huruf 'athaf (penghubung) atau wawu isti'naf (permulaan kalimat baru). Allah: Mubtada' (subjek) dari kalimat baru.",
+        "irab_dan_logika": "Wawu: Huruf mabniyyun 'ala al-fathi la mahalla lahu min al-i'rab (huruf yang dibangun di atas fathah, tidak memiliki kedudukan i'rab). Allah: Isim jalalah (nama Allah) sebagai mubtada' marfu'un wa 'alamatun raf'ihi ad-dhammatu azh-zhahiratu 'ala akhirihi (marfu' dengan tanda dhammah yang jelas di akhirnya)."
+      },
+      "hikmah": "Wawu di sini berfungsi sebagai penghubung atau permulaan kalimat baru yang mengalihkan perhatian kepada sifat-sifat keagungan Allah setelah perintah berperang. Ini menekankan bahwa kekuatan dan siksaan yang akan disebutkan selanjutnya adalah milik Allah semata.",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "أَشَدُّ",
+      "transliterasi": "ashaddu",
+      "jenis_kata": "Isim",
+      "arti": "lebih keras, lebih kuat, sangat keras/kuat",
+      "sharaf": {
+        "akar_kata": "ش د د (sh-d-d)",
+        "makna_dasar": "Keras, kuat, kokoh.",
+        "wazan_perubahan": "Isim Tafdhil (kata sifat komparatif/superlatif). Wazan: أَفْعَلُ (af'alu)."
+      },
+      "nahwu": {
+        "kedudukan": "Khabar (predikat) dari mubtada' 'Allah'.",
+        "irab_dan_logika": "Khabar marfu'un wa 'alamatun raf'ihi ad-dhammatu azh-zhahiratu 'ala akhirihi (marfu' dengan tanda dhammah yang jelas di akhirnya). Isim tafdhil ini mamnu' min ash-sharfi (tidak menerima tanwin dan kasrah) karena wazan af'alu, sehingga tidak ada tanwin."
+      },
+      "hikmah": "Menunjukkan tingkat kekuatan dan kekerasan yang sangat tinggi, menegaskan bahwa kekuatan Allah jauh melampaui kekuatan makhluk manapun. Ini adalah peringatan bagi orang-orang kafir dan penegasan bagi kaum mukmin.",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "بَأْسًۭا",
+      "transliterasi": "ba'san",
+      "jenis_kata": "Isim",
+      "arti": "kekuatan, keganasan, siksaan, keberanian dalam perang",
+      "sharaf": {
+        "akar_kata": "ب أ س (b-'-s)",
+        "makna_dasar": "Kesulitan, kekuatan, keberanian, siksaan.",
+        "wazan_perubahan": "Mashdar (kata benda verbal)."
+      },
+      "nahwu": {
+        "kedudukan": "Tamyiz (penjelas) untuk isim tafdhil 'أَشَدُّ'.",
+        "irab_dan_logika": "Tamyiz manshubun wa 'alamatun nashbihi al-fathatu azh-zhahiratu 'ala akhirihi (manshub dengan tanda fathah yang jelas di akhirnya). Menjelaskan aspek apa dari 'ashaddu' (lebih keras/kuat) itu."
+      },
+      "hikmah": "Kata ini memperjelas aspek kekuatan atau keganasan Allah. Ini bisa diartikan sebagai kekuatan-Nya dalam menolak serangan, atau keganasan-Nya dalam siksaan. Dalam konteks ini, ia menekankan keperkasaan Allah dalam menghadapi musuh-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "وَأَشَدُّ",
+      "transliterasi": "wa'ashaddu",
+      "jenis_kata": "Huruf dan Isim",
+      "arti": "Dan lebih keras/kuat (lagi)",
+      "sharaf": {
+        "akar_kata": "ش د د (sh-d-d)",
+        "makna_dasar": "Keras, kuat, kokoh.",
+        "wazan_perubahan": "Isim Tafdhil (kata sifat komparatif/superlatif). Wazan: أَفْعَلُ (af'alu)."
+      },
+      "nahwu": {
+        "kedudukan": "Wawu: Huruf 'athaf (penghubung). Ashaddu: Ma'thuf (mengikuti) kepada 'أَشَدُّ' sebelumnya.",
+        "irab_dan_logika": "Wawu: Huruf mabniyyun 'ala al-fathi la mahalla lahu min al-i'rab. Ashaddu: Ma'thuf 'ala marfu'in marfu'un مثله (mengikuti yang marfu', maka ia juga marfu'). Isim tafdhil ini juga mamnu' min ash-sharfi."
+      },
+      "hikmah": "Pengulangan 'أَشَدُّ' dengan wawu 'athaf menunjukkan penambahan atau penekanan pada aspek lain dari keperkasaan Allah, yaitu 'siksaan-Nya' (yang akan dijelaskan oleh kata berikutnya, 'عِقَابًا'). Ini menegaskan bahwa Allah tidak hanya kuat dalam menolak serangan, tetapi juga sangat keras dalam memberikan siksaan kepada mereka yang menentang-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "تَنكِيلًۭا",
+      "transliterasi": "Tankīlan",
+      "jenis_kata": "Isim (Masdar)",
+      "arti": "Hukuman berat, siksaan yang membuat jera, pelajaran yang keras",
+      "sharaf": {
+        "akar_kata": "ن ك ل (N-K-L)",
+        "makna_dasar": "Menghukum, mencegah, menjadikan pelajaran, menahan",
+        "wazan_perubahan": "Masdar dari Fi'il Tsulatsi Mazid (kata kerja tiga huruf yang ditambahi) wazan تَفْعِيل (taf'īl) dari fi'il نَكَّلَ (nakkala)."
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul Mutlaq (atau bisa juga Maf'ul li Ajlih)",
+        "irab_dan_logika": "Manshub (berharakat fathah tanwin karena ada alif di akhir). Ini adalah masdar yang berfungsi sebagai penegas atau penjelas jenis perbuatan yang disebutkan sebelumnya (sikap Allah yang keras siksaan-Nya). Dalam konteks ayat, 'شَدِيدُ ٱلْعِقَابِ' (keras siksaan-Nya) diikuti oleh 'تَنكِيلًۭا' yang memperkuat makna siksaan tersebut, menjadikannya sebagai penegas atau penjelas jenis siksaan yang sangat berat dan membuat jera."
+      },
+      "hikmah": "Kata 'تَنكِيلًۭا' menekankan bahwa siksaan Allah bukan sekadar hukuman biasa, melainkan siksaan yang sangat berat dan bertujuan untuk memberikan pelajaran yang sangat keras agar pelakunya jera dan menjadi peringatan bagi orang lain. Ini menunjukkan keadilan dan kekuasaan Allah yang mutlak dalam memberikan balasan, serta betapa dahsyatnya akibat dari kekafiran dan penolakan terhadap kebenaran.",
+      "role": "none"
+    }
+  ]
+}

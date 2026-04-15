@@ -1,0 +1,474 @@
+{
+  "surah": 14,
+  "ayah": 37,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "رَّبَّنَآ",
+      "transliterasi": "Rabbana",
+      "jenis_kata": "Isim",
+      "arti": "Tuhan kami",
+      "sharaf": {
+        "akar_kata": "ر ب ب",
+        "makna_dasar": "pemilik, penguasa",
+        "wazan_perubahan": "fa''ala (faʿʿala) pola tiga huruf"
+      },
+      "nahwu": {
+        "kedudukan": "Kata seruan (nida) di awal doa",
+        "irab_dan_logika": "Nasb (accusative) karena merupakan isim da'ud, ditandai fatha pada ba"
+      },
+      "hikmah": "Memohon kepada Tuhan dengan penuh keintiman, menegaskan hubungan kepemilikan",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "إِنِّىٓ",
+      "transliterasi": "Inni",
+      "jenis_kata": "Huruf",
+      "arti": "Sesungguhnya aku",
+      "sharaf": {
+        "akar_kata": "إ ن ن",
+        "makna_dasar": "penegasan, menekankan",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf takwim (penegas) yang mengawali kalimat",
+        "irab_dan_logika": "Tidak ber-i'rab, berfungsi menegaskan subjek yang akan datang"
+      },
+      "hikmah": "Menegaskan keikhlasan pembicara dalam doa",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "أَسْكَنتُ",
+      "transliterasi": "Askantu",
+      "jenis_kata": "Fi'il",
+      "arti": "menetapkan, menempatkan",
+      "sharaf": {
+        "akar_kata": "س ك ن",
+        "makna_dasar": "tinggal, menetap",
+        "wazan_perubahan": "Form I (فعل)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il madhi (kata kerja lampau) sebagai predikat utama",
+        "irab_dan_logika": "Berakhiran dhammah (u) menandakan fi'il madhi orang pertama tunggal"
+      },
+      "hikmah": "Menyatakan tindakan penempatan keturunan di lembah",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "مِن",
+      "transliterasi": "Min",
+      "jenis_kata": "Huruf",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "menunjukkan asal atau pemisahan",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar (preposisi) yang menghubungkan kata benda selanjutnya",
+        "irab_dan_logika": "Tidak ber-i'rab, menurunkan majrur pada kata yang diikutinya"
+      },
+      "hikmah": "Menunjukkan asal keturunan yang dipindahkan",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "ذُرِّيَّتِى",
+      "transliterasi": "Dhurriyyati",
+      "jenis_kata": "Isim",
+      "arti": "keturunan saya",
+      "sharaf": {
+        "akar_kata": "ذ ر ي",
+        "makna_dasar": "keturunan, generasi",
+        "wazan_perubahan": "fa'liyya (فَعِلِيَّة)"
+      },
+      "nahwu": {
+        "kedudukan": "Isim majrur karena didahului huruf jar 'min'",
+        "irab_dan_logika": "Berakhiran kasrah (ti) menandakan majrur"
+      },
+      "hikmah": "Menunjukkan kepemilikan pribadi atas generasi yang dimaksud",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "بِوَادٍ",
+      "transliterasi": "Bi-wadin",
+      "jenis_kata": "Isim",
+      "arti": "di lembah",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "غَيْرِ",
+      "transliterasi": "ghayri",
+      "jenis_kata": "Huruf (jar)",
+      "arti": "kecuali, bukan",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar yang menghubungkan ke kata *ذِى*",
+        "irab_dan_logika": "Berkasrah karena berfungsi sebagai **jar** dan menuntut isim majrur"
+      },
+      "hikmah": "Menunjukkan bahwa lembah tersebut **tidak** memiliki tanaman, menekankan kekosongan agrikultur",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "ذِى",
+      "transliterasi": "dhī",
+      "jenis_kata": "Isim (isim iḍāfah)",
+      "arti": "yang memiliki",
+      "sharaf": {
+        "akar_kata": "ذ-ي",
+        "makna_dasar": "kepemilikan, memiliki",
+        "wazan_perubahan": "bentuk isim iḍāfah"
+      },
+      "nahwu": {
+        "kedudukan": "Isim majrur dalam iḍāfah *ذِى زَرْعٍ*",
+        "irab_dan_logika": "Berkasrah karena didahului huruf jar *غَيْرِ*"
+      },
+      "hikmah": "Menunjukkan kepemilikan **tanaman** yang tidak ada di lembah",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "زَرْعٍ",
+      "transliterasi": "zar'in",
+      "jenis_kata": "Isim",
+      "arti": "tanaman, hasil pertanian",
+      "sharaf": {
+        "akar_kata": "ز ر ع",
+        "makna_dasar": "menyemai, menanam",
+        "wazan_perubahan": "maf‘al (فَعْل)"
+      },
+      "nahwu": {
+        "kedudukan": "Isim majrur sebagai pelengkap *ذِى*",
+        "irab_dan_logika": "Berkasrah karena menjadi bagian dari iḍāfah *ذِى زَرْعٍ*"
+      },
+      "hikmah": "Menguatkan makna **kekosongan** lembah yang tidak menghasilkan apa‑apa",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "عِندَ",
+      "transliterasi": "inda",
+      "jenis_kata": "Huruf (jar)",
+      "arti": "di dekat, di sisi",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar yang menghubungkan ke *بَيْتِكَ*",
+        "irab_dan_logika": "Berjar karena menuntut isim majrur"
+      },
+      "hikmah": "Menunjukkan **kedekatan** tempat suci (Baitullah) dengan lembah",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "بَيْتِكَ",
+      "transliterasi": "baytika",
+      "jenis_kata": "Isim",
+      "arti": "rumahmu",
+      "sharaf": {
+        "akar_kata": "ب ي ت",
+        "makna_dasar": "rumah, tempat tinggal",
+        "wazan_perubahan": "maf‘al"
+      },
+      "nahwu": {
+        "kedudukan": "Isim majrur sebagai objek preposisi *عِندَ*",
+        "irab_dan_logika": "Berkasrah karena preposisi *عِندَ* menuntut majrur"
+      },
+      "hikmah": "Menandakan **lokasi** Baitullah yang dihormati",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "ٱلْمُحَرَّمِ",
+      "transliterasi": "al-muharram",
+      "jenis_kata": "Isim (isim iḍāfah)",
+      "arti": "yang suci, yang dilarang",
+      "sharaf": {
+        "akar_kata": "ح ر م",
+        "makna_dasar": "mengharamkan, suci",
+        "wazan_perubahan": "muf‘al (مُفَعَّل)"
+      },
+      "nahwu": {
+        "kedudukan": "Isim majrur dalam iḍāfah *بَيْتِكَ ٱلْمُحَرَّمِ*",
+        "irab_dan_logika": "Berkasrah karena menjadi bagian dari iḍāfah"
+      },
+      "hikmah": "Menegaskan **kesucian** dan **keharaman** rumah Allah, yaitu Baitullah",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "رَبَّنَا",
+      "transliterasi": "rabbānā",
+      "jenis_kata": "Isim",
+      "arti": "Tuhan kami",
+      "sharaf": {
+        "akar_kata": "ر ب ب",
+        "makna_dasar": "menjadi pemilik, memelihara",
+        "wazan_perubahan": "fa‘ala (noun)"
+      },
+      "nahwu": {
+        "kedudukan": "Kata seru (nida) yang menujuk kepada Allah",
+        "irab_dan_logika": "Nasb karena fungsi seru, tidak berharakat pada akhiran *na*"
+      },
+      "hikmah": "Menunjukkan permohonan yang bersifat pribadi, menegaskan hubungan intim hamba dengan Tuhannya",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "لِيُقِيمُوا۟",
+      "transliterasi": "liyuqīmū",
+      "jenis_kata": "Fi'il",
+      "arti": "agar mereka mendirikan",
+      "sharaf": {
+        "akar_kata": "ق و م",
+        "makna_dasar": "menegakkan, mendirikan",
+        "wazan_perubahan": "fa‘ala (bentuk I)"
+      },
+      "nahwu": {
+        "kedudukan": "Verb mudhari‘ (imperfect) setelah huruf li (tujuan)",
+        "irab_dan_logika": "Majzūm (subjunctive) karena didahului huruf li"
+      },
+      "hikmah": "Mengandung maksud harapan bahwa keturunan akan menegakkan shalat secara konsisten",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "ٱلصَّلَوٰةَ",
+      "transliterasi": "aṣ-ṣalāhata",
+      "jenis_kata": "Isim",
+      "arti": "shalat",
+      "sharaf": {
+        "akar_kata": "ص ل و",
+        "makna_dasar": "doa, ibadah, shalat",
+        "wazan_perubahan": "fa‘ala (isim fi‘li)"
+      },
+      "nahwu": {
+        "kedudukan": "Objek (maf‘ūl bih) dari fi‘il *yuqīmū*",
+        "irab_dan_logika": "Nasb karena berfungsi sebagai maf‘ūl"
+      },
+      "hikmah": "Menegaskan inti ibadah yang diminta untuk dipertahankan oleh keturunan",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "فَٱجْعَلْ",
+      "transliterasi": "fa‑ij‘al",
+      "jenis_kata": "Fi'il",
+      "arti": "maka jadikan",
+      "sharaf": {
+        "akar_kata": "ج ع ل",
+        "makna_dasar": "menjadikan, membuat",
+        "wazan_perubahan": "fa‘ala (bentuk I)"
+      },
+      "nahwu": {
+        "kedudukan": "Perintah (amr) yang dihubungkan dengan *fa* (konjungsi)",
+        "irab_dan_logika": "Amr dengan sukun pada huruf terakhir, menunjukkan permintaan langsung"
+      },
+      "hikmah": "Doa memohon agar Allah menjadikan hati manusia condong kepada kelompok tersebut",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "أَفْـِٔدَةًۭ",
+      "transliterasi": "afidatan",
+      "jenis_kata": "Isim",
+      "arti": "sekelompok, sekumpulan",
+      "sharaf": {
+        "akar_kata": "أ ف د",
+        "makna_dasar": "mengikat, mengumpulkan",
+        "wazan_perubahan": "fa‘ala (isim jamī‘)"
+      },
+      "nahwu": {
+        "kedudukan": "Maf‘ūl (objek) dari fi‘il *aj‘al*",
+        "irab_dan_logika": "Nasb dengan tanwin fatha (ً) karena berfungsi sebagai maf‘ūl"
+      },
+      "hikmah": "Menggambarkan kumpulan orang yang diharapkan menjadi pelaku shalat yang konsisten",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "مِّنَ",
+      "transliterasi": "mina",
+      "jenis_kata": "Huruf",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Preposisi yang menghubungkan kata selanjutnya (biasanya isim)",
+        "irab_dan_logika": "Menjadikan isim berikutnya dalam kasus jar (kasrah)"
+      },
+      "hikmah": "Menunjukkan sumber atau asal rezeki yang diminta agar diberikan kepada kelompok tersebut",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "ٱلنَّاسِ",
+      "transliterasi": "al‑nāsi",
+      "jenis_kata": "Isim",
+      "arti": "manusia, orang",
+      "sharaf": {
+        "akar_kata": "ن س ي",
+        "makna_dasar": "manusia",
+        "wazan_perubahan": "فَعَل (isim mufrad)"
+      },
+      "nahwu": {
+        "kedudukan": "mudhaf majrur dalam frasa «من ٱلنَّاسِ»",
+        "irab_dan_logika": "Berkasrah karena huruf jar «من» menuntut majrur"
+      },
+      "hikmah": "Menunjukkan bahwa permohonan ini ditujukan kepada seluruh umat manusia, menekankan sifat universalitas doa.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "تَهْوِىٓ",
+      "transliterasi": "tahwī",
+      "jenis_kata": "Fi'il",
+      "arti": "menyukai, menginginkan",
+      "sharaf": {
+        "akar_kata": "ه و ي",
+        "makna_dasar": "cinta, keinginan",
+        "wazan_perubahan": "فَعَل (bentuk IV)"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il mudhari‘ (kata kerja bentuk sekarang)",
+        "irab_dan_logika": "Marfu‘ (dhammah) karena merupakan kata kerja yang berdiri sendiri dalam kalimat"
+      },
+      "hikmah": "Menggambarkan kecenderungan hati manusia untuk tertarik kepada kebaikan yang disebutkan sebelumnya.",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "إِلَيْهِمْ",
+      "transliterasi": "ilāhum",
+      "jenis_kata": "Huruf",
+      "arti": "kepada mereka",
+      "sharaf": {
+        "akar_kata": "إ ل ى",
+        "makna_dasar": "arah, tujuan",
+        "wazan_perubahan": "kata ma'rifah (preposisi)"
+      },
+      "nahwu": {
+        "kedudukan": "jar majrur yang melengkapi fi'il «تَهْوِى»",
+        "irab_dan_logika": "Majrur (kasrah) karena huruf jar «إِلَى» menuntut majrur"
+      },
+      "hikmah": "Menunjukkan arah kecenderungan hati manusia, yaitu menuju kepada mereka yang diberi rezeki.",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "وَٱرْزُقْهُم",
+      "transliterasi": "wa‑arzuq‑hum",
+      "jenis_kata": "Fi'il",
+      "arti": "dan beri rezeki kepada mereka",
+      "sharaf": {
+        "akar_kata": "ر ز ق",
+        "makna_dasar": "memberi rezeki",
+        "wazan_perubahan": "فَعَل (bentuk I) dalam bentuk أمر"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il amar (perintah) dengan dhamir muttasil «هُم» sebagai objek",
+        "irab_dan_logika": "Tidak berharakat karena bentuk أمر; dhamir «هُم» berkasrah sebagai maf‘ul bih"
+      },
+      "hikmah": "Doa memohon agar Allah mencukupi kebutuhan mereka, menegaskan sifat pemeliharaan Ilahi.",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "مِّنَ",
+      "transliterasi": "mina",
+      "jenis_kata": "Huruf",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "kata ma'rifah (preposisi)"
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar yang memperkenalkan objek «ٱلثَّمَرَٰتِ»",
+        "irab_dan_logika": "Menuntut majrur; kata berikutnya berkasrah"
+      },
+      "hikmah": "Menunjukkan sumber rezeki yang diminta, yaitu dari buah‑buah yang Allah ciptakan.",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "ٱلثَّمَرَٰتِ",
+      "transliterasi": "al‑thamarāti",
+      "jenis_kata": "Isim",
+      "arti": "buah‑buah",
+      "sharaf": {
+        "akar_kata": "ث م ر",
+        "makna_dasar": "buah",
+        "wazan_perubahan": "فَعَل (isim jam‘ salim)"
+      },
+      "nahwu": {
+        "kedudukan": "majrur setelah huruf jar «مِّنَ»",
+        "irab_dan_logika": "Berkasrah karena menjadi objek preposisi «مِّنَ»"
+      },
+      "hikmah": "Menggambarkan rezeki yang bersifat alami dan melimpah, menegaskan harapan agar manusia bersyukur atas nikmat tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "لَعَلَّهُمْ",
+      "transliterasi": "la'alahum",
+      "jenis_kata": "Huruf",
+      "arti": "agar, supaya",
+      "sharaf": {
+        "akar_kata": "ل ع ل",
+        "makna_dasar": "mengharapkan, harapan",
+        "wazan_perubahan": "huruf ma‘na (لَعَلَّ)"
+      },
+      "nahwu": {
+        "kedudukan": "huruf ma‘na yang berfungsi sebagai kata keterangan harapan",
+        "irab_dan_logika": "tidak berirab; huruf ma‘na tidak berubah kasus, sehingga dibaca dengan fatha pada lam dan sukun pada ‘ain"
+      },
+      "hikmah": "menunjukkan harapan agar keturunan yang ditempatkan di lembah itu bersyukur kepada Allah",
+      "role": "none"
+    },
+    {
+      "index": 25,
+      "kata_arab": "يَشْكُرُونَ",
+      "transliterasi": "yashkuroona",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka bersyukur",
+      "sharaf": {
+        "akar_kata": "ش ك ر",
+        "makna_dasar": "syukur",
+        "wazan_perubahan": "fa‘ala → yushkuru (bentuk I, mudhari‘)"
+      },
+      "nahwu": {
+        "kedudukan": "fi‘l mudhari‘ aktif, orang ketiga jamak",
+        "irab_dan_logika": "marfu‘ karena berakhir dengan alif dan nun sukun (نُ) menandakan nominatif jamak"
+      },
+      "hikmah": "menyiratkan doa agar mereka senantiasa mengucapkan rasa syukur kepada Allah",
+      "role": "none"
+    }
+  ]
+}

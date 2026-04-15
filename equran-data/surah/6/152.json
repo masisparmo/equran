@@ -1,0 +1,564 @@
+{
+  "surah": 6,
+  "ayah": 152,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "وَلَا",
+      "transliterasi": "wa-lā",
+      "jenis_kata": "Huruf",
+      "arti": "dan tidak",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf penghubung (negasi) di awal ayat",
+        "irab_dan_logika": "Tidak berharakat karena berfungsi sebagai **حرف نفي**"
+      },
+      "hikmah": "Menegaskan larangan, mengingatkan bahwa segala perbuatan harus berada dalam batas ketaatan kepada Allah.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "تَقْرَبُوا۟",
+      "transliterasi": "taqrabū",
+      "jenis_kata": "Fi'il",
+      "arti": "mendekat, mendekatkan diri",
+      "sharaf": {
+        "akar_kata": "ق ر ب",
+        "makna_dasar": "dekat",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il amar majzum setelah **لا** (negasi)",
+        "irab_dan_logika": "Berakhiran sukun (atau dammah pada alif waw) menandakan bentuk majzum karena didahului **لا**"
+      },
+      "hikmah": "Perintah negatif agar tidak mendekati harta anak yatim secara tidak sah; menekankan sikap menjauhi perbuatan yang melanggar hak.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "مَالَ",
+      "transliterasi": "māla",
+      "jenis_kata": "Isim",
+      "arti": "harta, kekayaan",
+      "sharaf": {
+        "akar_kata": "م و ل",
+        "makna_dasar": "menjadi kaya, memiliki harta",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul bih (objek) dalam iDaafa **مال اليتيم**",
+        "irab_dan_logika": "Berharakat fatha karena berfungsi sebagai مفعول به منصوب"
+      },
+      "hikmah": "Menunjuk pada harta yang menjadi hak milik anak yatim, yang harus diperlakukan dengan keadilan.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "ٱلْيَتِيمِ",
+      "transliterasi": "al-yatīmi",
+      "jenis_kata": "Isim",
+      "arti": "anak yatim",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "هِىَ",
+      "transliterasi": "hiya",
+      "jenis_kata": "Isim (kata ganti)",
+      "arti": "dia (perempuan) / itu",
+      "sharaf": {
+        "akar_kata": "ه-ي-ى",
+        "makna_dasar": "menunjuk kepada sesuatu",
+        "wazan_perubahan": "kata ganti (ism al‑mawsūl)"
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "وَأَوْفُوا۟",
+      "transliterasi": "wa awfū",
+      "jenis_kata": "Fiʿil (amar)",
+      "arti": "**dan penuhilah**",
+      "sharaf": {
+        "akar_kata": "و‑ف‑و",
+        "makna_dasar": "menepati, melaksanakan",
+        "wazan_perubahan": "bentuk I (فَعَلَ) imperatif jamak"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja perintah yang menghubungkan dengan ayat sebelumnya",
+        "irab_dan_logika": "مرفوع بالضمة لأنّه فعل أمر"
+      },
+      "hikmah": "**Menegaskan pentingnya menunaikan janji**, khususnya dalam menegakkan takaran dan timbangan secara adil.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "ٱلْكَيْلَ",
+      "transliterasi": "al‑kayla",
+      "jenis_kata": "Isim (mufʿal)",
+      "arti": "**takaran**",
+      "sharaf": {
+        "akar_kata": "ك‑ي‑ل",
+        "makna_dasar": "mengukur, menakar",
+        "wazan_perubahan": "مِفْعَلَة (اسم الفعل)"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به dari فعل الأمر وَأَوْفُوا",
+        "irab_dan_logika": "منصوب بالفتحة لأنّه مفعول به"
+      },
+      "hikmah": "**Keadilan dimulai dari ukuran yang tepat**, sehingga tidak ada penipuan dalam transaksi.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "وٱلْمِيزَانَ",
+      "transliterasi": "wal‑mīzāna",
+      "jenis_kata": "Isim (mufʿal)",
+      "arti": "**timbangan**",
+      "sharaf": {
+        "akar_kata": "و‑ز‑ن",
+        "makna_dasar": "menimbang, menyeimbangkan",
+        "wazan_perubahan": "مِيزَان (اسم الفعل)"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به kedua yang terhubung dengan فعل الأمر وَأَوْفُوا",
+        "irab_dan_logika": "منصوب بالفتحة لأنّه مفعول به"
+      },
+      "hikmah": "**Tidak hanya takaran, tetapi juga timbangan harus adil**, menutup celah kecurangan dalam perdagangan.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "بِٱلْقِسْطِ",
+      "transliterasi": "bi al‑qiṣṭ",
+      "jenis_kata": "Huruf (preposisi) + Isim",
+      "arti": "**dengan keadilan**",
+      "sharaf": {
+        "akar_kata": "ق‑ص‑ط",
+        "makna_dasar": "keadilan, pembagian yang adil",
+        "wazan_perubahan": "اسم الفعل (مصدر)"
+      },
+      "nahwu": {
+        "kedudukan": "جار ومجرور يوضح طريقة pelaksanaan perintah",
+        "irab_dan_logika": "مجرور بالكسرة لأنّ الباء حرف جر"
+      },
+      "hikmah": "**Segala tindakan harus dilakukan dengan keadilan**, menjadikan hak semua pihak terjaga.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "ۖ",
+      "transliterasi": "—",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "**tanda jeda (waqf)**",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "menandai jeda antara frasa sebelumnya dan ayat selanjutnya",
+        "irab_dan_logika": "tidak berlaku karena bukan kata"
+      },
+      "hikmah": "**Memberi kesempatan bagi pembaca untuk merenung** sebelum melanjutkan perintah selanjutnya.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "لَا",
+      "transliterasi": "lā",
+      "jenis_kata": "Huruf (naḥī)",
+      "arti": "**jangan**",
+      "sharaf": {
+        "akar_kata": "ل‑ا",
+        "makna_dasar": "negasi",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "حرف نهي يسبق الفعل الناقص في ayat selanjutnya",
+        "irab_dan_logika": "مبني على السكون لأنه حرف نهي"
+      },
+      "hikmah": "**Larangan tegas** agar tidak melakukan ketidakadilan, meskipun berhubungan dengan kerabat.",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "نُكَلِّفُ",
+      "transliterasi": "nukallifu",
+      "jenis_kata": "Fi'il",
+      "arti": "menetapkan beban, membebani",
+      "sharaf": {
+        "akar_kata": "ك ل ف",
+        "makna_dasar": "menanggung, memberi beban",
+        "wazan_perubahan": "فعل (form II)"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il mudhari' aktif sebagai predikat utama",
+        "irab_dan_logika": "dhammah karena fi'il mudhari' marfu'"
+      },
+      "hikmah": "Allah melarang membebani seseorang melebihi kemampuan yang dimilikinya",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "نَفْسًا",
+      "transliterasi": "nafsan",
+      "jenis_kata": "Isim",
+      "arti": "jiwa, diri",
+      "sharaf": {
+        "akar_kata": "ن ف س",
+        "makna_dasar": "diri, jiwa",
+        "wazan_perubahan": "isim maf'ul dengan tanwin"
+      },
+      "nahwu": {
+        "kedudukan": "maf'ul bih (objek) fi'il",
+        "irab_dan_logika": "tanwin fatha karena objek dalam kasus accusatif"
+      },
+      "hikmah": "Menegaskan bahwa beban tidak boleh diberikan pada jiwa manusia secara berlebihan",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "إِلَّا",
+      "transliterasi": "illa",
+      "jenis_kata": "Huruf",
+      "arti": "kecuali",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "menunjukkan pengecualian",
+        "wazan_perubahan": "huruf istithna'"
+      },
+      "nahwu": {
+        "kedudukan": "huruf istithna' yang menghubungkan kata sebelumnya dengan berikutnya",
+        "irab_dan_logika": "tidak berharakat khusus, berfungsi sebagai partikel"
+      },
+      "hikmah": "Memberi batasan bahwa hanya kemampuan yang dapat dijadikan beban",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "وُسْعَهَا",
+      "transliterasi": "wus'aha",
+      "jenis_kata": "Isim",
+      "arti": "kemampuannya",
+      "sharaf": {
+        "akar_kata": "و س ع",
+        "makna_dasar": "luas, kemampuan",
+        "wazan_perubahan": "isim mudhaf dengan dhammah pada al-jذر"
+      },
+      "nahwu": {
+        "kedudukan": "isim al-istithna' (penyebutan pengecualian)",
+        "irab_dan_logika": "dhammah karena marfu' sebagai bagian dari konstruksi istithna'"
+      },
+      "hikmah": "Menegaskan bahwa beban hanya sampai pada batas kemampuan individu",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "قُلْتُمْ",
+      "transliterasi": "qultum",
+      "jenis_kata": "Fi'il",
+      "arti": "kamu berkata / kamu mengatakan",
+      "sharaf": {
+        "akar_kata": "ق-ل-و",
+        "makna_dasar": "berkata, mengucapkan",
+        "wazan_perubahan": "فعل (fa'ala)"
+      },
+      "nahwu": {
+        "kedudukan": "verb dalam klausa إِذَا قُلْتُمْ (jika kamu berkata)",
+        "irab_dan_logika": "فعل ماضٍ مبني على السكون، والواو ضمير متصل في محل رفع الفاعل"
+      },
+      "hikmah": "Menegaskan bahwa setiap perkataan harus dilandasi keadilan, meski dalam konteks perintah Allah.",
+      "role": "none"
+    },
+    {
+      "index": 25,
+      "kata_arab": "فَٱعْدِلُوا۟",
+      "transliterasi": "faʿadilū",
+      "jenis_kata": "Fi'il (amar)",
+      "arti": "maka perbaiki / berlaku adil",
+      "sharaf": {
+        "akar_kata": "ع-د-ل",
+        "makna_dasar": "adil, menyeimbangkan",
+        "wazan_perubahan": "فعل (ʿadala)"
+      },
+      "nahwu": {
+        "kedudukan": "perintah setelah إِذَا قُلْتُمْ (jika kamu berkata, maka perbaikilah)",
+        "irab_dan_logika": "فعل أمر مبني على السكون، والواو ضمير متصل في محل رفع الفاعل"
+      },
+      "hikmah": "Keadilan harus ditegakkan secara tegas setelah ucapan, tanpa pengecualian.",
+      "role": "none"
+    },
+    {
+      "index": 26,
+      "kata_arab": "وَلَوْ",
+      "transliterasi": "walaw",
+      "jenis_kata": "Huruf",
+      "arti": "meskipun / walaupun",
+      "sharaf": {
+        "akar_kata": "و-ل-و",
+        "makna_dasar": "huruf penghubung bersyarat",
+        "wazan_perubahan": "حرف مشروط"
+      },
+      "nahwu": {
+        "kedudukan": "huruf مشروط جازم يربط الجملة الشرطية (walaw kana)",
+        "irab_dan_logika": "ليس له إعراب، يجر الجملة التي تليه إلى الجزم"
+      },
+      "hikmah": "Menunjukkan bahwa keadilan wajib dipertahankan walau kondisi tampak memudarkan kewajiban.",
+      "role": "none"
+    },
+    {
+      "index": 27,
+      "kata_arab": "كَانَ",
+      "transliterasi": "kāna",
+      "jenis_kata": "Fi'il",
+      "arti": "adalah / menjadi",
+      "sharaf": {
+        "akar_kata": "ك-و-ن",
+        "makna_dasar": "menyatakan keberadaan, menjadi",
+        "wazan_perubahan": "فعل (faʿala)"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ماضٍ في جملة الشرط (walaw kana)",
+        "irab_dan_logika": "مبني على الفتح، لا محل له من الإعراب"
+      },
+      "hikmah": "Menyatakan kondisi yang menjadi dasar penegakan keadilan, yaitu keberadaan kerabat.",
+      "role": "none"
+    },
+    {
+      "index": 28,
+      "kata_arab": "ذَا",
+      "transliterasi": "dhā",
+      "jenis_kata": "Isim",
+      "arti": "ini",
+      "sharaf": {
+        "akar_kata": "ذ-ا",
+        "makna_dasar": "kata tunjuk demonstratif",
+        "wazan_perubahan": "اسم إشارة"
+      },
+      "nahwu": {
+        "kedudukan": "اسم كان منصوب (خبر كان)",
+        "irab_dan_logika": "منصوب بالفتحة لأنه خبر كان"
+      },
+      "hikmah": "Menunjuk secara spesifik kepada kerabat yang dimaksud dalam perintah Allah.",
+      "role": "none"
+    },
+    {
+      "index": 29,
+      "kata_arab": "قُرْبَىٰ",
+      "transliterasi": "qur'bā",
+      "jenis_kata": "Isim",
+      "arti": "kerabat",
+      "sharaf": {
+        "akar_kata": "ق-ر-ب",
+        "makna_dasar": "dekat, hubungan keluarga",
+        "wazan_perubahan": "اسم فَعْل"
+      },
+      "nahwu": {
+        "kedudukan": "خبر كان منصوب",
+        "irab_dan_logika": "منصوب بالفتحة الظاهرة على آخره (ًى)"
+      },
+      "hikmah": "Keadilan harus ditegakkan bahkan terhadap orang yang paling dekat secara darah, menegaskan universalitas keadilan dalam Islam.",
+      "role": "none"
+    },
+    {
+      "index": 30,
+      "kata_arab": "ۖ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda jeda (waqf)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "penanda akhir ayat, memisahkan bagian sebelumnya dengan yang berikutnya",
+        "irab_dan_logika": "bukan kata, sehingga tidak memiliki i‘rāb; berfungsi sebagai waqf untuk memberi jeda dan menekankan makna"
+      },
+      "hikmah": "Menandakan berhenti sejenak, memberi kesempatan bagi pendengar merenungkan perintah sebelumnya",
+      "role": "none"
+    },
+    {
+      "index": 31,
+      "kata_arab": "وَبِعَهْدِ",
+      "transliterasi": "wa-bi-‘ahdi",
+      "jenis_kata": "Huruf (wa + bi) + Isim (‘ahd)",
+      "arti": "dan dengan perjanjian",
+      "sharaf": {
+        "akar_kata": "ع-ه-د",
+        "makna_dasar": "perjanjian, ikatan",
+        "wazan_perubahan": "فَعْل"
+      },
+      "nahwu": {
+        "kedudukan": "kata sambung yang menghubungkan perintah sebelumnya dengan perintah selanjutnya",
+        "irab_dan_logika": "مجرور بالكسرة بسبب حرف الجر \"bi\"؛ علامة الجر هي الكسرة تحت \"د\""
+      },
+      "hikmah": "Menekankan pentingnya menepati ikatan yang telah Allah janjikan kepada hamba‑Nya",
+      "role": "none"
+    },
+    {
+      "index": 32,
+      "kata_arab": "ٱللَّهِ",
+      "transliterasi": "Allahi",
+      "jenis_kata": "Isim (nama Allah)",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "ل-ه-ا",
+        "makna_dasar": "Tuhan Yang Maha Esa",
+        "wazan_perubahan": "فَعْل"
+      },
+      "nahwu": {
+        "kedudukan": "kata yang menjadi objek preposisi \"bi\" pada kata sebelumnya",
+        "irab_dan_logika": "مجرور بالكسرة لأنه مضاف إليه لحرف الجر \"bi\""
+      },
+      "hikmah": "Menunjukkan bahwa perjanjian yang dimaksud adalah perjanjian dengan Allah, bukan dengan manusia",
+      "role": "none"
+    },
+    {
+      "index": 33,
+      "kata_arab": "أَوْفُوا۟",
+      "transliterasi": "awfu",
+      "jenis_kata": "Fi'il (perintah)",
+      "arti": "penuhilah",
+      "sharaf": {
+        "akar_kata": "و-ف-ء",
+        "makna_dasar": "menepati, melaksanakan",
+        "wazan_perubahan": "أَفْعَل"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il amar (perintah) untuk jama' maskulin",
+        "irab_dan_logika": "مبني على السكون، والواو للرفع لأن الفعل أمر مبني على الفتح"
+      },
+      "hikmah": "Ajakan kuat untuk menunaikan perjanjian Allah dengan penuh kesungguhan",
+      "role": "none"
+    },
+    {
+      "index": 34,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda jeda (waqf)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "penanda akhir frasa \"أَوْفُوا بِعَهْدِ اللَّهِ\"",
+        "irab_dan_logika": "tidak memiliki i‘rāb, berfungsi sebagai waqf untuk memisahkan perintah selanjutnya"
+      },
+      "hikmah": "Memberi jeda agar pendengar merenungkan perintah menepati perjanjian",
+      "role": "none"
+    },
+    {
+      "index": 35,
+      "kata_arab": "ذَٰلِكُمْ",
+      "transliterasi": "dhalikum",
+      "jenis_kata": "Isim (kata tunjuk)",
+      "arti": "itu (kalian)",
+      "sharaf": {
+        "akar_kata": "ذ-ل-ك",
+        "makna_dasar": "yang disebut, itu",
+        "wazan_perubahan": "فَعِل"
+      },
+      "nahwu": {
+        "kedudukan": "isim dharuri (kata tunjuk) yang berfungsi sebagai mubtada’ atau pelengkap penegasan",
+        "irab_dan_logika": "مرفوع بالضمة لأنه مبتدأ أو اسم إشارة مرفوع"
+      },
+      "hikmah": "Menegaskan bahwa seluruh perintah tersebut adalah perintah Allah yang harus diingat dan dijalankan",
+      "role": "none"
+    },
+    {
+      "index": 36,
+      "kata_arab": "وَصَّاكُم",
+      "transliterasi": "waṣṣākum",
+      "jenis_kata": "Fi'il",
+      "arti": "perintahkan kamu",
+      "sharaf": {
+        "akar_kata": "ص و",
+        "makna_dasar": "menasihati, memerintahkan",
+        "wazan_perubahan": "فَعَّل"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja perintah (imperatif) di awal ayat",
+        "irab_dan_logika": "marfu' bila dipisah, tetapi dalam bentuk imperatif ber‑sukun; **كم** ber‑kasrah menandakan objek (kamu)"
+      },
+      "hikmah": "**Allah** menegaskan pentingnya perintah moral yang harus dilaksanakan oleh umat.",
+      "role": "none"
+    },
+    {
+      "index": 37,
+      "kata_arab": "بِهِۖ",
+      "transliterasi": "bihi",
+      "jenis_kata": "Huruf",
+      "arti": "dengan dia/itu",
+      "sharaf": {
+        "akar_kata": "ب",
+        "makna_dasar": "menunjukkan cara atau sarana",
+        "wazan_perubahan": "tidak ada (huruf jar)"
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar yang menghubungkan kata sebelumnya dengan **هِ** (dia)",
+        "irab_dan_logika": "jar karena huruf **ب**; **هِ** ber‑kasrah sebagai mudhari‘ jar"
+      },
+      "hikmah": "menunjukkan cara atau sarana yang harus dipilih secara **adil**.",
+      "role": "none"
+    },
+    {
+      "index": 38,
+      "kata_arab": "لَعَلَّكُمْ",
+      "transliterasi": "laʿallakum",
+      "jenis_kata": "Huruf",
+      "arti": "agar kamu",
+      "sharaf": {
+        "akar_kata": "ل ع ل",
+        "makna_dasar": "kemungkinan, harapan",
+        "wazan_perubahan": "لاعل"
+      },
+      "nahwu": {
+        "kedudukan": "huruf نصب (atau jar) yang memperkenalkan harapan",
+        "irab_dan_logika": "حرف نصب؛ **كُمْ** ber‑kasrah sebagai mudhari‘ نصب"
+      },
+      "hikmah": "menyiratkan tujuan **mengingat** sebagai harapan Allah agar manusia kembali pada kebenaran.",
+      "role": "none"
+    },
+    {
+      "index": 39,
+      "kata_arab": "تَذَكَّرُونَ",
+      "transliterasi": "tadhakkarūna",
+      "jenis_kata": "Fi'il",
+      "arti": "kamu mengingat",
+      "sharaf": {
+        "akar_kata": "ذ ك ر",
+        "makna_dasar": "ingat, mengingat kembali",
+        "wazan_perubahan": "فَعَّل"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il mudhari‘ (imperatif tidak langsung) jamak maskulin kedua",
+        "irab_dan_logika": "مرفوع بالضمة لأنّه فعل مضارع مرفوع بالعلامة الظاهرة"
+      },
+      "hikmah": "seruan **Allah** agar umat selalu mengingat ayat‑ayat-Nya dan pelajaran moralnya.",
+      "role": "none"
+    }
+  ]
+}

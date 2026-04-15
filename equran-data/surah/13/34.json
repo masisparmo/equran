@@ -1,0 +1,240 @@
+{
+  "surah": 13,
+  "ayah": 34,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "لَّهُمْ",
+      "transliterasi": "lahum",
+      "jenis_kata": "Huruf",
+      "arti": "bagi mereka",
+      "sharaf": {
+        "akar_kata": "ل",
+        "makna_dasar": "menunjuk kepada kepemilikan atau tujuan",
+        "wazan_perubahan": "li- + pronoun suffix"
+      },
+      "nahwu": {
+        "kedudukan": "objek preposisi (marfu' / majrur tergantung pada preposisi)",
+        "irab_dan_logika": "majrur karena terikat pada huruf jar *li*; huruf *li* menuntut kasus genitif pada kata yang diikutinya"
+      },
+      "hikmah": "menunjukkan bahwa azab itu ditujukan khusus kepada mereka",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "عَذَابٌۭ",
+      "transliterasi": "ʿadhābun",
+      "jenis_kata": "Isim",
+      "arti": "siksaan",
+      "sharaf": {
+        "akar_kata": "ع-ذ-ب",
+        "makna_dasar": "menyiksa, menimbulkan penderitaan",
+        "wazan_perubahan": "faʿāl (pola kata benda)"
+      },
+      "nahwu": {
+        "kedudukan": "khabar (predikat) dalam nominal \"لَّهُمْ عَذَابٌ\"",
+        "irab_dan_logika": "marfu' dengan dammah karena berfungsi sebagai khabar"
+      },
+      "hikmah": "menegaskan adanya siksa yang menimpa mereka",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "فِى",
+      "transliterasi": "fī",
+      "jenis_kata": "Huruf",
+      "arti": "di",
+      "sharaf": {
+        "akar_kata": "ف-ي",
+        "makna_dasar": "menunjukkan tempat atau keadaan",
+        "wazan_perubahan": "huruf jar"
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar yang memperkenalkan frase tempat",
+        "irab_dan_logika": "jar; menuntut kata berikutnya menjadi majrur"
+      },
+      "hikmah": "menyatakan lokasi azab, yaitu dalam kehidupan dunia",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "ٱلْحَيَوٰةِ",
+      "transliterasi": "al-ḥayāati",
+      "jenis_kata": "Isim",
+      "arti": "kehidupan",
+      "sharaf": {
+        "akar_kata": "ح-ي-ي",
+        "makna_dasar": "hidup, keberadaan",
+        "wazan_perubahan": "faʿāl"
+      },
+      "nahwu": {
+        "kedudukan": "objek preposisi *fī*; bagian pertama dari iḍāfa \"الحياة الدنيا\"",
+        "irab_dan_logika": "majrur (kasrah) karena terikat pada huruf jar *fī*"
+      },
+      "hikmah": "menunjukkan bahwa azab itu terjadi selama masa hidup di dunia",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "ٱلدُّنْيَا",
+      "transliterasi": "ad-dunyā",
+      "jenis_kata": "Isim",
+      "arti": "dunia",
+      "sharaf": {
+        "akar_kata": "د-ن-ي",
+        "makna_dasar": "dunia, alam fana",
+        "wazan_perubahan": "faʿala"
+      },
+      "nahwu": {
+        "kedudukan": "kata kedua dalam iḍāfa \"الحياة الدنيا\"; menambah penjelas pada kata sebelumnya",
+        "irab_dan_logika": "majrur (kasrah) sebagai istilah iḍāfa, mengikuti kasus kata pertama"
+      },
+      "hikmah": "menegaskan bahwa azab itu terjadi dalam konteks kehidupan dunia yang fana",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "ۖ",
+      "transliterasi": "(waqf)",
+      "jenis_kata": "Huruf",
+      "arti": "tanda berhenti",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "simbol waqf (tanda baca) yang memisahkan bagian ayat",
+        "irab_dan_logika": "bukan bagian tata bahasa; berfungsi sebagai jeda baca"
+      },
+      "hikmah": "menandakan akhir segmen ayat sebelum melanjutkan ke bagian berikutnya",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "وَلَعَذَابُ",
+      "transliterasi": "wa la‘adhābu",
+      "jenis_kata": "Huruf (wa) + Isim (al-‘adhāb)",
+      "arti": "dan azab",
+      "sharaf": {
+        "akar_kata": "ع-ذ-ب",
+        "makna_dasar": "azab, siksaan",
+        "wazan_perubahan": "muthanna (isim muf‘al)"
+      },
+      "nahwu": {
+        "kedudukan": "Bagian awal kalimat, berfungsi sebagai mubtada’ (subjek) setelah konjungsi **wa**",
+        "irab_dan_logika": "Marfu‘ dengan dhammah karena menjadi mubtada’"
+      },
+      "hikmah": "Menegaskan adanya azab yang menimpa orang‑orang yang menolak kebenaran",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "ٱلْءَاخِرَةِ",
+      "transliterasi": "al-ākhirah",
+      "jenis_kata": "Isim",
+      "arti": "yang akhir",
+      "sharaf": {
+        "akar_kata": "خ-ر-ر",
+        "makna_dasar": "akhir, yang terakhir",
+        "wazan_perubahan": "فَعِلة (fa‘ila)"
+      },
+      "nahwu": {
+        "kedudukan": "Objek (majrur) setelah kata **أَشَقُّ** dalam perbandingan",
+        "irab_dan_logika": "Majrur dengan kasrah karena berhubungan dengan **أَشَقُّ** (istifham al‑tafdil)"
+      },
+      "hikmah": "Menunjukkan bahwa azab akhirat lebih berat dibandingkan dunia",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "أَشَقُّ",
+      "transliterasi": "ashaqqu",
+      "jenis_kata": "Isim (sifat istifham)",
+      "arti": "lebih keras",
+      "sharaf": {
+        "akar_kata": "ش-ق-ق",
+        "makna_dasar": "keras, susah",
+        "wazan_perubahan": "أَفْعَل (af‘al) – bentuk istifham"
+      },
+      "nahwu": {
+        "kedudukan": "Kata sifat perbandingan (istifham) yang menghubungkan **الْءَاخِرَةِ**",
+        "irab_dan_logika": "Marfu‘ karena berfungsi sebagai predikat dalam perbandingan"
+      },
+      "hikmah": "Menyiratkan tingkat keparahan azab akhirat yang lebih tinggi",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "مِّنَ",
+      "transliterasi": "mina",
+      "jenis_kata": "Huruf (preposisi)",
+      "arti": "**dari**",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar yang menghubungkan ke kata berikutnya **اللَّهِ**",
+        "irab_dan_logika": "Berjar, sehingga berharakat **kasrah** pada kata sesudahnya; menandakan hubungan kepemilikan atau asal"
+      },
+      "hikmah": "Menunjukkan bahwa azab itu bersumber **dari Allah**.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "اللَّهِ",
+      "transliterasi": "Allāh",
+      "jenis_kata": "Isim (nama Allah)",
+      "arti": "**Allah**, Tuhan Yang Maha Esa",
+      "sharaf": {
+        "akar_kata": "أ ل ه",
+        "makna_dasar": "menyembah, mengakui keesaan",
+        "wazan_perubahan": "مُفَعَّل"
+      },
+      "nahwu": {
+        "kedudukan": "Isim majrur setelah huruf jar **مِّنَ**",
+        "irab_dan_logika": "Berharakat **kasrah** karena berada dalam posisi majrur (tertarik oleh huruf jar)"
+      },
+      "hikmah": "Azab itu datang **dari Allah**, menegaskan kekuasaan‑Nya atas segala sesuatu.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "مِن",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf (preposisi)",
+      "arti": "**dari**",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar yang menghubungkan ke kata **وَاقٍ**",
+        "irab_dan_logika": "Tidak berharakat (sukun) pada ن karena huruf jar tidak menerima harakat; fungsi semantik: menunjukkan asal atau sumber"
+      },
+      "hikmah": "Menegaskan bahwa azab itu juga datang **dari** sesuatu yang melindungi (yaitu **وَاقٍ**).",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "وَاقٍۢ",
+      "transliterasi": "wāqin",
+      "jenis_kata": "Isim (nama)",
+      "arti": "**pelindung**, penjaga",
+      "sharaf": {
+        "akar_kata": "و ق ي",
+        "makna_dasar": "menjaga, melindungi",
+        "wazan_perubahan": "فَاعِل"
+      },
+      "nahwu": {
+        "kedudukan": "Isim majrur setelah huruf jar **مِن**",
+        "irab_dan_logika": "Berharakat **kasrah** pada akhir karena berada dalam posisi majrur (tertarik oleh huruf jar)"
+      },
+      "hikmah": "Azab yang dimaksud tidak ada pelindungnya; tidak ada **وَاقٍ** yang dapat menolak atau menahan azab tersebut.",
+      "role": "none"
+    }
+  ]
+}

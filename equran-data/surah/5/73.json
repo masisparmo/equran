@@ -1,0 +1,492 @@
+{
+  "surah": 5,
+  "ayah": 73,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "لَّقَدْ",
+      "transliterasi": "laqad",
+      "jenis_kata": "Huruf (partikel)",
+      "arti": "sesungguhnya, memang",
+      "sharaf": {
+        "akar_kata": "لا + قد",
+        "makna_dasar": "menegaskan pernyataan",
+        "wazan_perubahan": "tidak berlaku (partikel tidak berakar)"
+      },
+      "nahwu": {
+        "kedudukan": "Awal ayat, memperkuat fiʿil **kafara**",
+        "irab_dan_logika": "Tidak berirab karena huruf; berfungsi sebagai **ḥarf tafʿīl** yang menegaskan makna kalimat"
+      },
+      "hikmah": "Partikel ini menegaskan bahwa apa yang akan disebutkan selanjutnya adalah fakta yang pasti dan tidak dapat diperdebatkan.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "كَفَرَ",
+      "transliterasi": "kafara",
+      "jenis_kata": "Fiʿil (kata kerja)",
+      "arti": "menolak keimanan, kafir",
+      "sharaf": {
+        "akar_kata": "ك-ف-ر",
+        "makna_dasar": "kafir, menolak keesaan Allah",
+        "wazan_perubahan": "فَعَلَ (faʿala)"
+      },
+      "nahwu": {
+        "kedudukan": "Predikat (fiʿil madhi) bagi subjek **الَّذِينَ**",
+        "irab_dan_logika": "Berharakat fathah pada akhir karena bentuk madhi (past tense) yang tidak berirab"
+      },
+      "hikmah": "Menunjukkan tindakan menolak keimanan yang dilakukan oleh orang‑orang yang disebutkan sebelumnya.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "ٱلَّذِينَ",
+      "transliterasi": "alladhīna",
+      "jenis_kata": "Isim (isim mawsūl – kata ganti relatif)",
+      "arti": "orang‑orang yang",
+      "sharaf": {
+        "akar_kata": "ذ-و-ن",
+        "makna_dasar": "yang berhubungan dengan orang",
+        "wazan_perubahan": "اسم موصول"
+      },
+      "nahwu": {
+        "kedudukan": "Subjek (faʿl) bagi fiʿil **كَفَرَ**",
+        "irab_dan_logika": "Marfuʿ (nominatif) walaupun harakatnya kasrah dalam teks karena al‑qiraʼah; fungsi gramatikalnya tetap sebagai **faʿl**"
+      },
+      "hikmah": "Menunjuk kepada kelompok orang yang melakukan perkataan menolak keesaan Allah.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "قَالُوٓا۟",
+      "transliterasi": "qālū",
+      "jenis_kata": "Fiʿil (kata kerja)",
+      "arti": "mereka berkata",
+      "sharaf": {
+        "akar_kata": "ق-و-ل",
+        "makna_dasar": "kata, ucapan",
+        "wazan_perubahan": "فَعَلَ (faʿala) – bentuk 3rd maskulin jamak"
+      },
+      "nahwu": {
+        "kedudukan": "Fiʿil madhi yang mengikuti subjek **ٱلَّذِينَ**",
+        "irab_dan_logika": "Tidak berirab; berakhiran dhammah pada huruf alif‑wasl menandakan bentuk jamak"
+      },
+      "hikmah": "Menyatakan bahwa orang‑orang tersebut mengucapkan sesuatu yang menentang keesaan Allah.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "إِنَّ",
+      "transliterasi": "inna",
+      "jenis_kata": "Huruf (harf tasrih)",
+      "arti": "bahwa, sesungguhnya",
+      "sharaf": {
+        "akar_kata": "إن",
+        "makna_dasar": "menegaskan pernyataan selanjutnya",
+        "wazan_perubahan": "partikel tasrih"
+      },
+      "nahwu": {
+        "kedudukan": "Harf tasrih yang mengawali **جملة اسمية** (nominal sentence)",
+        "irab_dan_logika": "Menyebabkan isim berikutnya (**اللَّهَ**) menjadi majrur (مجرور) dengan harakat fathah"
+      },
+      "hikmah": "Memberi penekanan kuat pada kebenaran pernyataan tentang keesaan Allah.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "ٱللَّهَ",
+      "transliterasi": "Allāha",
+      "jenis_kata": "Isim (nama Allah)",
+      "arti": "Tuhan",
+      "sharaf": {
+        "akar_kata": "اللّه",
+        "makna_dasar": "Tuhan Yang Esa",
+        "wazan_perubahan": "اسم علم"
+      },
+      "nahwu": {
+        "kedudukan": "Isim majrur dalam **جملة اسمية** yang diawali **إِنَّ**",
+        "irab_dan_logika": "Berharakat fathah karena **إِنَّ** menuntut majrur; menandakan objek kalimat tasrih"
+      },
+      "hikmah": "Menegaskan bahwa tidak ada Tuhan selain Allah yang Esa, inti dari ayat ini.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "ثَالِثُ",
+      "transliterasi": "thālithu",
+      "jenis_kata": "Isim",
+      "arti": "yang ketiga",
+      "sharaf": {
+        "akar_kata": "ث-ل-ث",
+        "makna_dasar": "tiga, urutan ketiga",
+        "wazan_perubahan": "فَاعِل"
+      },
+      "nahwu": {
+        "kedudukan": "Isim maf'ul mutakarrir sebagai predikat dalam kalimat nominal “Allah adalah yang ketiga”",
+        "irab_dan_logika": "Marfu' dengan dhammah karena berfungsi sebagai isim mufrad dalam nominal sentence"
+      },
+      "hikmah": "Menegaskan penolakan konsep trinitas, menekankan keesaan Allah",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "ثَلَٰثَةٍۢ",
+      "transliterasi": "thalāthatin",
+      "jenis_kata": "Isim",
+      "arti": "tiga (jumlah)",
+      "sharaf": {
+        "akar_kata": "ث-ل-ث",
+        "makna_dasar": "jumlah tiga",
+        "wazan_perubahan": "فَعَلَة"
+      },
+      "nahwu": {
+        "kedudukan": "Isim mansub sebagai mudhaf (mutsarrif) yang menjelaskan kata إِلَٰهٍ",
+        "irab_dan_logika": "Kasrah karena berfungsi sebagai mudhaf ilaih (kepemilikan) dalam konstruksi “thalāthatin ilāhin”"
+      },
+      "hikmah": "Menunjukkan bahwa orang-orang menyekutukan Allah dengan tiga dewa, menyingkap bentuk syirik",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "ۘ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf",
+      "arti": "tanda berhenti (waqf)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Tidak termasuk dalam tata bahasa, berfungsi sebagai tanda baca Qur'an",
+        "irab_dan_logika": "Tidak memiliki harakat karena bukan kata"
+      },
+      "hikmah": "Memberi jeda pembacaan, menandai akhir bagian ayat",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "وَمَا",
+      "transliterasi": "wa-mā",
+      "jenis_kata": "Huruf",
+      "arti": "dan apa",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Harf al-'ataf (penghubung) yang memperkenalkan klausa baru",
+        "irab_dan_logika": "Tidak berharakat karena berfungsi sebagai huruf sambung, menghubungkan dengan kalimat sebelumnya"
+      },
+      "hikmah": "Menyiratkan pertanyaan retoris tentang apa yang ada di antara Allah dan sekutu‑sekutu mereka",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "مِنْ",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Preposisi yang menghubungkan kata berikutnya (إِلَٰهٍ)",
+        "irab_dan_logika": "Menyebabkan kata berikutnya menjadi majrur (kasrah) karena preposisi mengharuskan genitif"
+      },
+      "hikmah": "Menegaskan bahwa tidak ada sekutu apapun yang berasal dari Allah",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "إِلَٰهٍ",
+      "transliterasi": "ilāhin",
+      "jenis_kata": "Isim",
+      "arti": "dewa, tuhan",
+      "sharaf": {
+        "akar_kata": "أ-ل-ه",
+        "makna_dasar": "sesuatu yang disembah",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "Isim majrur karena berada setelah preposisi مِنْ",
+        "irab_dan_logika": "Kasrah untuk menandakan status majrur (genitif) dalam frasa “min ilāhin”"
+      },
+      "hikmah": "Menegaskan bahwa tidak ada ilah (dewa) selain Allah, menolak segala bentuk penyembahan selain kepada-Nya",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "إِلَّا",
+      "transliterasi": "illa",
+      "jenis_kata": "Huruf",
+      "arti": "kecuali",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "kecuali",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf istithna' (pengecualian) yang menghubungkan frasa",
+        "irab_dan_logika": "Tidak ber-i'rab; berharakat kasrah pada alif dan sukun pada lam karena termasuk huruf"
+      },
+      "hikmah": "Menegaskan bahwa apa yang disebutkan selanjutnya adalah satu‑satunya Tuhan yang berhak disembah.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "إِلَٰهٌ",
+      "transliterasi": "ilahun",
+      "jenis_kata": "Isim",
+      "arti": "Tuhan, sesuatu yang disembah",
+      "sharaf": {
+        "akar_kata": "أ ل ه",
+        "makna_dasar": "menyembah",
+        "wazan_perubahan": "مفعول"
+      },
+      "nahwu": {
+        "kedudukan": "Isim marfu' (subjek) dengan tanwin dammah",
+        "irab_dan_logika": "Marfu' karena berakhir dengan tanwin dammah, menandakan subjek kalimat"
+      },
+      "hikmah": "Menegaskan keesaan Tuhan yang tidak ada sekutu‑nya.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "وَاحِدٌ",
+      "transliterasi": "wahidun",
+      "jenis_kata": "Isim",
+      "arti": "satu",
+      "sharaf": {
+        "akar_kata": "و ح د",
+        "makna_dasar": "satu, tunggal",
+        "wazan_perubahan": "فعيل"
+      },
+      "nahwu": {
+        "kedudukan": "Isim marfu' (sifat) yang melengkapi إِلَٰهٌ",
+        "irab_dan_logika": "Marfu' karena berakhir dengan tanwin dammah, berfungsi sebagai sifat (khas) dari إِلَٰهٌ"
+      },
+      "hikmah": "Menunjukkan sifat tunggal Tuhan, menolak adanya sekutu.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda ayat)",
+      "jenis_kata": "Isyarat",
+      "arti": "tanda berhenti ayat",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca (waqf) yang menandai akhir bagian kalimat",
+        "irab_dan_logika": "Tidak ber-i'rab, berfungsi sebagai pemisah ritmis"
+      },
+      "hikmah": "Memberi jeda bagi pembaca untuk merenungkan makna sebelumnya sebelum melanjutkan.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "وَإِن",
+      "transliterasi": "wa‑in",
+      "jenis_kata": "Huruf",
+      "arti": "dan jika",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf al‑waṣl (wa) + huruf syarat (in) yang menghubungkan klausa",
+        "irab_dan_logika": "Tidak ber-i'rab; berfungsi menghubungkan dan menandakan syarat"
+      },
+      "hikmah": "Menyiratkan hubungan sebab‑akibat antara pernyataan sebelumnya dan apa yang akan diikuti.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "لَّمْ",
+      "transliterasi": "lam",
+      "jenis_kata": "Huruf",
+      "arti": "tidak",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf nakirah (negasi) yang meniadakan fi'il madhi",
+        "irab_dan_logika": "Tidak ber-i'rab; menandakan bahwa fi'il yang mengikutinya berada dalam bentuk majhul (tidak terjadi)"
+      },
+      "hikmah": "Menegaskan penolakan atau ketiadaan tindakan yang dibicarakan, memperkuat peringatan akan siksaan bagi orang kafir.",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "يَنتَهُوا۟",
+      "transliterasi": "yantaḥū",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka berhenti / menghentikan",
+      "sharaf": {
+        "akar_kata": "ن-ه-ى",
+        "makna_dasar": "mengakhiri, berhenti",
+        "wazan_perubahan": "فَعَلَ (form IV) → يَفْعَلُ"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja dalam klausa bersyarat (jika tidak berhenti)",
+        "irab_dan_logika": "مرفوع بالضمة الظاهرة على الواو لأنه فعل مضارع مرفوع بالضمة لأنه لم يسبق له نون الوقاية ولا حرف نصب"
+      },
+      "hikmah": "menunjukkan anjuran agar orang‑orang berhenti dari tuduhan mereka",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "عَمَّا",
+      "transliterasi": "ʿammā",
+      "jenis_kata": "Huruf",
+      "arti": "dari apa",
+      "sharaf": {
+        "akar_kata": "ع-م-ا",
+        "makna_dasar": "tentang, mengenai",
+        "wazan_perubahan": "حرف جر + ما (اسم موصول) menjadi عَمَّا"
+      },
+      "nahwu": {
+        "kedudukan": "kata depan yang menghubungkan فعل يَنتَهُوا dengan ما",
+        "irab_dan_logika": "مجرور وعلامة جره الكسرة الظاهرة على ما"
+      },
+      "hikmah": "menunjukkan objek yang harus dihentikan, yaitu ucapan mereka",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "يَقُولُونَ",
+      "transliterasi": "yaqūlūna",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka berkata",
+      "sharaf": {
+        "akar_kata": "ق-و-ل",
+        "makna_dasar": "mengatakan",
+        "wazan_perubahan": "فَعَلَ (form I) → يَفْعَلُ"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja setelah huruf عَمَّا, objeknya ما",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فعل مضارع مرفوع"
+      },
+      "hikmah": "menyatakan tuduhan mereka tentang Allah",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "لَيَمَسَّنَّ",
+      "transliterasi": "layamassanna",
+      "jenis_kata": "Fi'il",
+      "arti": "pasti akan menyentuh / menimpa",
+      "sharaf": {
+        "akar_kata": "م-س-س",
+        "makna_dasar": "menyentuh, menimpa",
+        "wazan_perubahan": "فَعَّلَ (form II) → يَفَعَّلُ, ditambah لَ لتأكيد"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja utama dalam klausa hasil (akan menimpa)",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فعل مضارع مرفوع بالضمة، واللام لام التعليل"
+      },
+      "hikmah": "menunjukkan ancaman azab yang pasti menimpa mereka",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "ٱلَّذِينَ",
+      "transliterasi": "alladhīna",
+      "jenis_kata": "Isim",
+      "arti": "orang‑orang yang",
+      "sharaf": {
+        "akar_kata": "ل-ذ-ي",
+        "makna_dasar": "yang, yang mana",
+        "wazan_perubahan": "اسم إشارة + اسم موصول"
+      },
+      "nahwu": {
+        "kedudukan": "isim mawsul (isim al‑‘alaqa) yang menghubungkan dengan kata kerja كَفَرُوا",
+        "irab_dan_logika": "مرفوع بالضمة لأنه مبتدأ"
+      },
+      "hikmah": "menunjuk kepada kelompok orang kafir",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "كَفَرُوا۟",
+      "transliterasi": "kafarū",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka kafir",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "مِنْهُمْ",
+      "transliterasi": "minhum",
+      "jenis_kata": "Huruf",
+      "arti": "dari mereka",
+      "sharaf": {
+        "akar_kata": "م‑ن",
+        "makna_dasar": "menunjuk asal atau sumber",
+        "wazan_perubahan": "huruf jar"
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar yang berfungsi sebagai kata depan, menghubungkan *عَذَابٌ* dengan subjek *هُمْ*",
+        "irab_dan_logika": "jar, tidak berharakat tanwin, berharakat kasrah pada *مِنْ* karena huruf jar"
+      },
+      "hikmah": "menegaskan bahwa siksaan itu **dari** Allah kepada mereka",
+      "role": "none"
+    },
+    {
+      "index": 25,
+      "kata_arab": "عَذَابٌ",
+      "transliterasi": "ʿadhābun",
+      "jenis_kata": "Isim",
+      "arti": "siksaan",
+      "sharaf": {
+        "akar_kata": "ع‑ذ‑ب",
+        "makna_dasar": "menyebabkan penderitaan",
+        "wazan_perubahan": "faʿlāl"
+      },
+      "nahwu": {
+        "kedudukan": "isim marfuʿ (khabar) setelah kata kerja *يَكُونُ* atau *سَيَكُونُ* yang tersirat",
+        "irab_dan_logika": "marfuʿ dengan dhammah karena berfungsi sebagai predikat"
+      },
+      "hikmah": "menyiratkan azab yang **menyakitkan** dan tak terhindarkan bagi orang kafir",
+      "role": "none"
+    },
+    {
+      "index": 26,
+      "kata_arab": "أَلِيمٌ",
+      "transliterasi": "alīmun",
+      "jenis_kata": "Isim",
+      "arti": "pedih, menyakitkan",
+      "sharaf": {
+        "akar_kata": "ل‑م",
+        "makna_dasar": "menimbulkan rasa sakit",
+        "wazan_perubahan": "faʿīl"
+      },
+      "nahwu": {
+        "kedudukan": "sifat (khabar) yang menjelaskan *عَذَابٌ*",
+        "irab_dan_logika": "marfuʿ dengan dhammah karena sifat berhubungan dengan isim marfuʿ"
+      },
+      "hikmah": "menegaskan bahwa siksaan itu **sangat menyakitkan**, menambah keparahan hukuman",
+      "role": "none"
+    }
+  ]
+}

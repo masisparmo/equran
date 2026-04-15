@@ -1,0 +1,654 @@
+{
+  "surah": 5,
+  "ayah": 4,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "يَسْـَٔلُونَكَ",
+      "transliterasi": "Yas'alūnak",
+      "jenis_kata": "Fi'il",
+      "arti": "Mereka bertanya kepadamu",
+      "sharaf": {
+        "akar_kata": "س-أ-ل (s-'-l)",
+        "makna_dasar": "Bertanya, meminta",
+        "wazan_perubahan": "Fi'il Mudhari' (kata kerja sekarang/akan datang), wazan فَعَلَ - يَفْعَلُ (Fa'ala - Yaf'alu), bentuk jamak mudzakkar ghaib (mereka laki-laki). Ditambah dhomir كَ (ka) yang berarti 'kamu'."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' marfu' (diangkat)",
+        "irab_dan_logika": "Marfu' dengan tetapnya huruf nun (ثبوت النون) karena termasuk Af'alul Khamsah (lima kata kerja). Huruf wawu (و) adalah fa'il (subjek) yang kembali kepada 'mereka'. Huruf kaf (كَ) adalah maf'ul bih (objek) yang manshub (dinashabkan) karena berupa dhomir muttashil."
+      },
+      "hikmah": "Menggambarkan sebuah pertanyaan yang diajukan oleh para sahabat kepada Nabi Muhammad ﷺ mengenai hal-hal yang dihalalkan bagi mereka, menunjukkan keinginan mereka untuk memahami batasan syariat.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "مَاذَآ",
+      "transliterasi": "Mādhā",
+      "jenis_kata": "Isim Istifham",
+      "arti": "Apa yang",
+      "sharaf": {
+        "akar_kata": "Tidak memiliki akar kata dalam arti fi'il, ini adalah gabungan dari مَا (ma) dan ذَا (dha).",
+        "makna_dasar": "Menanyakan sesuatu yang tidak diketahui.",
+        "wazan_perubahan": "Tidak berlaku wazan sharaf untuk kata ini. Ini adalah gabungan dari *ma* (apa) dan *dha* (ini/yang)."
+      },
+      "nahwu": {
+        "kedudukan": "Isim istifham, maf'ul bih muqaddam (objek yang didahulukan)",
+        "irab_dan_logika": "Mabni (tetap) di atas sukun. Dalam konteks ini, ia berfungsi sebagai maf'ul bih dari fi'il 'uhilla' (dihalalkan) yang akan datang, namun karena ia isim istifham, ia didahulukan."
+      },
+      "hikmah": "Menunjukkan inti dari pertanyaan yang diajukan, yaitu tentang batasan-batasan hukum halal dan haram, mencerminkan kebutuhan manusia akan panduan syariat dalam kehidupan sehari-hari.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "أُحِلَّ",
+      "transliterasi": "Uhilla",
+      "jenis_kata": "Fi'il",
+      "arti": "Dihalalkan",
+      "sharaf": {
+        "akar_kata": "ح-ل-ل (h-l-l)",
+        "makna_dasar": "Halal, boleh, melepaskan ikatan.",
+        "wazan_perubahan": "Fi'il Madhi Majhul (kata kerja lampau pasif), wazan أَفْعَلَ - يُفْعِلُ (Af'ala - Yuf'ilu), bentuk pasifnya أُفْعِلَ (Uf'ila)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Madhi Majhul",
+        "irab_dan_logika": "Mabni (tetap) di atas fathah. Karena ia majhul (pasif), ia membutuhkan na'ibul fa'il (pengganti subjek) yang marfu'."
+      },
+      "hikmah": "Menekankan bahwa penetapan halal dan haram adalah hak prerogatif Allah SWT. Penggunaan bentuk pasif ('dihalalkan') menunjukkan bahwa ada pihak yang menghalalkan, yaitu Allah, tanpa perlu disebutkan secara eksplisit.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "لَهُمْ",
+      "transliterasi": "Lahum",
+      "jenis_kata": "Huruf + Dhomir",
+      "arti": "Bagi mereka",
+      "sharaf": {
+        "akar_kata": "Tidak ada akar kata untuk huruf lam (ل). Dhomir هُمْ (hum) adalah kata ganti.",
+        "makna_dasar": "Kepemilikan, tujuan, atau kebermanfaatan.",
+        "wazan_perubahan": "Tidak berlaku wazan sharaf. Terdiri dari huruf jar لِ (li) dan dhomir هُمْ (hum)."
+      },
+      "nahwu": {
+        "kedudukan": "Jar Majrur (preposisi dan objeknya)",
+        "irab_dan_logika": "Huruf lam (لِ) adalah huruf jar. Dhomir هُمْ (hum) adalah dhomir muttashil mabni di atas sukun, dalam posisi majrur (dijarkan) oleh huruf lam. Jar majrur ini berkaitan dengan fi'il 'uhilla'."
+      },
+      "hikmah": "Menjelaskan bahwa pertanyaan tentang halal dan haram itu spesifik ditujukan untuk 'mereka' (para penanya), menunjukkan relevansi hukum syariat bagi individu atau kelompok tertentu.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "ۖ",
+      "transliterasi": "Tidak ada transliterasi kata, ini adalah tanda waqaf",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "Berhenti lebih baik",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku.",
+        "makna_dasar": "Tanda untuk berhenti membaca Al-Qur'an.",
+        "wazan_perubahan": "Tidak berlaku."
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca, bukan bagian dari struktur gramatikal kalimat.",
+        "irab_dan_logika": "Tidak memiliki i'rab. Ini adalah tanda waqaf jaiz (boleh berhenti) yang menunjukkan bahwa berhenti di sini lebih utama (al-waqfu awla)."
+      },
+      "hikmah": "Secara gramatikal tidak memiliki makna mendalam, namun dalam konteks tilawah Al-Qur'an, ia berfungsi untuk mengatur pernapasan dan pemahaman makna ayat, memberikan jeda setelah pertanyaan diajukan sebelum jawaban diberikan.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "قُلْ",
+      "transliterasi": "Qul",
+      "jenis_kata": "Fi'il",
+      "arti": "Katakanlah",
+      "sharaf": {
+        "akar_kata": "ق-و-ل (q-w-l)",
+        "makna_dasar": "Berkata, berbicara.",
+        "wazan_perubahan": "Fi'il Amr (kata kerja perintah), wazan فَعَلَ - يَفْعُلُ (Fa'ala - Yaf'ulu), bentuk perintah untuk orang kedua tunggal mudzakkar (kamu laki-laki)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Amr",
+        "irab_dan_logika": "Mabni (tetap) di atas sukun. Fa'il (subjek) dari fi'il amr ini adalah dhomir mustatir (tersembunyi) تقديره أنت (taqdiruhu anta - yaitu 'kamu' wahai Muhammad)."
+      },
+      "hikmah": "Merupakan perintah langsung dari Allah kepada Nabi Muhammad ﷺ untuk memberikan jawaban atas pertanyaan yang diajukan. Ini menunjukkan otoritas ilahi dalam penetapan hukum dan peran Nabi sebagai penyampai wahyu.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "أُحِلَّ",
+      "transliterasi": "Uhilla",
+      "jenis_kata": "Fi'il",
+      "arti": "Dihalalkan",
+      "sharaf": {
+        "akar_kata": "ح-ل-ل",
+        "makna_dasar": "Melepaskan ikatan, membuka, menjadi halal.",
+        "wazan_perubahan": "Fi'il Madhi Majhul (Kata kerja lampau pasif) dari Wazan IV (أَفْعَلَ - af'ala). Bentuk aktifnya adalah أَحَلَّ (ahalla - menghalalkan)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Madhi Majhul",
+        "irab_dan_logika": "Mabniyyun lil majhul (dibangun untuk pasif). Harakat akhirnya fathah karena fi'il madhi. Dhomir mustatir (tersembunyi) sebagai Na'ibul Fa'il (subjek pasif) yang merujuk pada 'yang baik-baik' (ٱلطَّيِّبَٰتُ) yang akan datang."
+      },
+      "hikmah": "Kata ini menunjukkan bahwa penghalalan adalah tindakan dari Allah SWT, bukan dari manusia. Ini menekankan otoritas ilahi dalam menetapkan hukum syariat, memberikan kemudahan dan kebaikan bagi hamba-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "لَكُمُ",
+      "transliterasi": "Lakumu",
+      "jenis_kata": "Huruf + Dhomir",
+      "arti": "Bagi kalian/untuk kalian",
+      "sharaf": {
+        "akar_kata": "Tidak ada akar kata untuk huruf. Dhomir كُمْ (kum) adalah kata ganti orang kedua jamak.",
+        "makna_dasar": "Menunjukkan kepemilikan, tujuan, atau manfaat.",
+        "wazan_perubahan": "Huruf Jar (لِ - li) + Dhomir Muttashil (كُمْ - kum)."
+      },
+      "nahwu": {
+        "kedudukan": "Jar Majrur (preposisi dan objeknya)",
+        "irab_dan_logika": "لِ (li): Huruf Jar, mabniyyun 'alal kasri (dibangun di atas kasrah), tidak memiliki kedudukan i'rab. كُمْ (kum): Dhomir muttashil, mabniyyun 'ala as-sukun (dibangun di atas sukun), fi mahalli jarrin bil harfi (dalam posisi jar karena huruf jar). Harakat mim diubah menjadi dhommah (كُمُ) karena bertemu dengan alif lam syamsiyah (ٱلطَّيِّبَٰتُ) pada kata berikutnya untuk memudahkan pengucapan (kaidah iltizaq al-harakat)."
+      },
+      "hikmah": "Menegaskan bahwa apa yang dihalalkan itu adalah *untuk* atau *bagi* umat manusia, sebagai bentuk rahmat dan kemudahan dari Allah SWT. Ini menunjukkan bahwa syariat Islam bertujuan untuk kemaslahatan hamba-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "ٱلطَّيِّبَٰتُ",
+      "transliterasi": "At-Tayyibātu",
+      "jenis_kata": "Isim",
+      "arti": "Yang baik-baik, hal-hal yang baik",
+      "sharaf": {
+        "akar_kata": "ط-ي-ب",
+        "makna_dasar": "Baik, suci, enak, murni, halal.",
+        "wazan_perubahan": "Isim Fa'il (bentuk jamak muannats salim dari طَيِّبَةٌ - tayyibah)."
+      },
+      "nahwu": {
+        "kedudukan": "Na'ibul Fa'il (subjek pasif) dari fi'il أُحِلَّ (uhilla)",
+        "irab_dan_logika": "Marfu' (rafa') dengan dhommah karena ia adalah Na'ibul Fa'il, dan merupakan jamak muannats salim yang tanda rafa'nya adalah dhommah."
+      },
+      "hikmah": "Menekankan bahwa Islam hanya menghalalkan segala sesuatu yang baik, suci, bermanfaat, dan tidak membahayakan. Ini adalah prinsip dasar dalam syariat Islam, bahwa kebaikan adalah tolok ukur kehalalan.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "ۙ",
+      "transliterasi": "",
+      "jenis_kata": "Tanda Baca",
+      "arti": "Tanda berhenti wajib (waqaf lazim)",
+      "sharaf": {
+        "akar_kata": "Tidak ada.",
+        "makna_dasar": "Menunjukkan tempat berhenti yang disarankan atau wajib dalam bacaan Al-Qur'an untuk menjaga makna.",
+        "wazan_perubahan": "Tidak ada."
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca",
+        "irab_dan_logika": "Tidak memiliki kedudukan i'rab."
+      },
+      "hikmah": "Secara tata bahasa, ini adalah tanda baca yang tidak memiliki makna linguistik langsung pada kata, tetapi penting untuk pemahaman makna ayat secara keseluruhan dalam konteks tilawah Al-Qur'an. Ini menandakan bahwa kalimat sebelumnya sudah lengkap maknanya.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "وَمَا",
+      "transliterasi": "Wa mā",
+      "jenis_kata": "Huruf + Isim Maushul",
+      "arti": "Dan apa yang",
+      "sharaf": {
+        "akar_kata": "Tidak ada akar kata untuk huruf.",
+        "makna_dasar": "وَ (wa): Menghubungkan, 'dan'. مَا (ma): Menunjukkan sesuatu yang tidak spesifik, 'apa yang', 'sesuatu yang'.",
+        "wazan_perubahan": "وَ (wa): Huruf 'Athaf. مَا (ma): Isim Maushul (kata sambung)."
+      },
+      "nahwu": {
+        "kedudukan": "Huruf 'Athaf dan Isim Maushul",
+        "irab_dan_logika": "وَ (wa): Huruf 'Athaf, tidak memiliki kedudukan i'rab. مَا (ma): Isim Maushul, mabniyyun 'ala as-sukun (dibangun di atas sukun), fi mahalli rafa'in (dalam posisi rafa') karena di'athafkan (dihubungkan) kepada ٱلطَّيِّبَٰتُ (At-Tayyibātu) yang juga marfu' sebagai Na'ibul Fa'il."
+      },
+      "hikmah": "Kata ini berfungsi sebagai penghubung dan perluasan dari objek yang dihalalkan. Setelah menyebutkan 'yang baik-baik' secara umum, ayat ini kemudian merinci salah satu jenis 'yang baik-baik' tersebut, yaitu 'apa yang' ditangkap oleh binatang buas yang terlatih. Ini menunjukkan detail dan spesifikasi hukum.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "عَلَّمْتُم",
+      "transliterasi": "Allamtum",
+      "jenis_kata": "Fi'il + Dhomir",
+      "arti": "Kalian telah mengajari/melatih",
+      "sharaf": {
+        "akar_kata": "ع-ل-م",
+        "makna_dasar": "Mengetahui, mengajar, memberi pelajaran.",
+        "wazan_perubahan": "Fi'il Madhi (Kata kerja lampau) dari Wazan II (فَعَّلَ - fa''ala) + Dhomir Fa'il (تُمْ - tum). Wazan II menunjukkan makna 'mengajarkan' atau 'melatih' (transitif dan intensif)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il (kata kerja) dan Fa'il (subjek)",
+        "irab_dan_logika": "عَلَّمْ (allam): Fi'il Madhi, mabniyyun 'ala as-sukun (dibangun di atas sukun) karena bersambung dengan dhomir rafa' muttashil (تُمْ). تُمْ (tum): Dhomir muttashil, mabniyyun 'ala as-sukun (dibangun di atas sukun), fi mahalli rafa'in fa'il (dalam posisi rafa' sebagai fa'il)."
+      },
+      "hikmah": "Menyoroti peran manusia dalam mendidik dan melatih binatang buas untuk berburu. Ini menunjukkan bahwa kehalalan hasil buruan tidak hanya bergantung pada binatang itu sendiri, tetapi juga pada usaha dan pengetahuan manusia dalam melatihnya, yang mana pengetahuan itu sendiri berasal dari Allah. Ini juga mengisyaratkan pentingnya ilmu dan pendidikan dalam kehidupan.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "مِّنَ",
+      "transliterasi": "minna",
+      "jenis_kata": "Huruf",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Menunjukkan permulaan, bagian, atau sebab",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Harf Jar",
+        "irab_dan_logika": "Huruf Jar yang berfungsi meng-jar-kan isim setelahnya. Fathah pada nun (نَ) adalah harakat penyambung (harakat iltiqa' as-sakinain) untuk menghindari dua sukun ketika bertemu alif lam pada kata berikutnya (ٱلْجَوَارِحِ)."
+      },
+      "hikmah": "Menunjukkan bahwa buruan yang dihalalkan itu berasal dari (tangkapannya) binatang buas, mengindikasikan sumber atau asal muasal.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "ٱلْجَوَارِحِ",
+      "transliterasi": "al-jawāriḥi",
+      "jenis_kata": "Isim",
+      "arti": "binatang buas (yang berburu), pemangsa",
+      "sharaf": {
+        "akar_kata": "ج ر ح (j-r-ḥ)",
+        "makna_dasar": "melukai, menciderai, berburu",
+        "wazan_perubahan": "فواعل (fawā'il) - jamak taksir dari جارحة (jāriḥah)"
+      },
+      "nahwu": {
+        "kedudukan": "Isim Majrur",
+        "irab_dan_logika": "Majrur dengan kasrah (ـِ) karena didahului oleh Harf Jar 'مِّنَ'. Isim ini adalah jamak taksir (plural pecah)."
+      },
+      "hikmah": "Merujuk pada binatang-binatang yang memiliki kemampuan alami untuk berburu dan melukai mangsanya (seperti anjing pemburu atau burung elang). Dalam konteks ayat ini, secara spesifik merujuk pada binatang buas yang telah dilatih untuk berburu.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "مُكَلِّبِينَ",
+      "transliterasi": "mukallibīn",
+      "jenis_kata": "Isim Fa'il",
+      "arti": "orang-orang yang melatih anjing (untuk berburu), para pelatih anjing",
+      "sharaf": {
+        "akar_kata": "ك ل ب (k-l-b)",
+        "makna_dasar": "anjing, melatih anjing",
+        "wazan_perubahan": "مُفَعِّلِينَ (mufa''ilīn) - jamak mudzakkar salim dari مُكَلِّبٌ (mukallibun), yang berasal dari Fi'il tsulatsi mazid bab taf'il (كَـلَّـبَ - يُـكَـلِّـبُ)."
+      },
+      "nahwu": {
+        "kedudukan": "Hal (Keadaan)",
+        "irab_dan_logika": "Mansub dengan 'ya'' (ـِيْنَ) karena merupakan jamak mudzakkar salim dan berfungsi sebagai Hal (penjelas keadaan) bagi subjek yang tidak disebutkan secara eksplisit, yaitu 'kalian' (yang mengajar binatang buas)."
+      },
+      "hikmah": "Menjelaskan kondisi atau peran orang-orang yang melakukan aktivitas melatih binatang buas (khususnya anjing, karena akar katanya 'kalb' berarti anjing) untuk tujuan berburu. Ini menunjukkan bahwa perburuan tersebut dilakukan dengan metode yang terstruktur dan diajarkan oleh manusia.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "تُعَلِّمُونَهُنَّ",
+      "transliterasi": "tu'allimūnahunna",
+      "jenis_kata": "Fi'il Mudhari'",
+      "arti": "kalian mengajari mereka (para betina)",
+      "sharaf": {
+        "akar_kata": "ع ل م ('-l-m)",
+        "makna_dasar": "mengetahui, mengajar",
+        "wazan_perubahan": "تَفْعِيلُونَ (taf'īlūna) - Fi'il Mudhari' jamak mudzakkar mukhatab dari bab taf'il (عَلَّمَ - يُعَلِّمُ). Tambahan 'هُنَّ' adalah dhamir maf'ul bih."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Marfu'",
+        "irab_dan_logika": "Marfu' dengan tetapnya nun (ثبوت النون) karena termasuk Af'alul Khamsah (lima fi'il) dan tidak didahului oleh nashib (penashab) atau jazim (penjazam). 'و' (wawu) adalah Fa'il (subjek) yang kembali kepada 'kalian', dan 'هُنَّ' adalah Dhamir Muttasil Mansub sebagai Maf'ul Bih (objek) yang merujuk pada binatang buas betina."
+      },
+      "hikmah": "Menekankan proses pengajaran dan pelatihan yang aktif dilakukan oleh manusia terhadap binatang buas. Ini menunjukkan bahwa hasil buruan dari binatang yang terlatih adalah halal karena ada campur tangan dan kontrol manusia dalam proses perburuannya, sesuai dengan ajaran Allah.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "مِمَّا",
+      "transliterasi": "mimmā",
+      "jenis_kata": "Gabungan Huruf dan Isim Maushul",
+      "arti": "dari apa yang",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku (gabungan)",
+        "makna_dasar": "Gabungan dari 'dari' dan 'apa yang'",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Gabungan Harf Jar dan Isim Maushul",
+        "irab_dan_logika": "Terdiri dari 'مِّنَ' (Harf Jar) dan 'مَا' (Isim Maushul). 'مَا' di sini adalah Isim Maushul yang bermakna 'sesuatu yang' atau 'apa yang', dan kedudukannya adalah Majrur karena didahului oleh 'مِّنَ'. Nun pada 'مِّنَ' diidghamkan (dileburkan) ke mim pada 'مَا', sehingga menjadi 'مِمَّا'."
+      },
+      "hikmah": "Menunjukkan bahwa tindakan mengajar atau hasil dari pengajaran tersebut adalah bagian dari atau sesuai dengan apa yang telah diajarkan oleh Allah. Ini menekankan sumber dan legitimasi ajaran tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "عَلَّمَكُمُ",
+      "transliterasi": "allamakumu",
+      "jenis_kata": "Fi'il Madhi",
+      "arti": "Dia (Allah) telah mengajarkan kalian",
+      "sharaf": {
+        "akar_kata": "ع ل م ('-l-m)",
+        "makna_dasar": "mengetahui, mengajar",
+        "wazan_perubahan": "فَعَّلَ (fa''ala) - Fi'il Madhi dari bab taf'il (عَلَّمَ). Tambahan 'كُمُ' adalah dhamir maf'ul bih."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Madhi",
+        "irab_dan_logika": "Fi'il Madhi mabni fathah. Fa'il (subjek) adalah dhamir mustatir (tersembunyi) yang kembali kepada Allah (هُوَ). 'كُمُ' adalah Dhamir Muttasil Mansub sebagai Maf'ul Bih (objek) yang merujuk pada 'kalian'. Dhommah pada mim 'كُمُ' adalah harakat penyambung (harakat iltiqa' as-sakinain) untuk menghindari dua sukun jika disambung dengan kata berikutnya (misalnya, 'اللَّهُ' dalam ayat lengkapnya)."
+      },
+      "hikmah": "Menggarisbawahi bahwa pengetahuan dan kemampuan untuk melatih binatang buas, serta hukum-hukum terkait, berasal langsung dari ajaran Allah. Ini menegaskan bahwa segala sesuatu yang dilakukan harus sesuai dengan petunjuk ilahi, dan bahwa Allah adalah sumber segala ilmu dan hikmah.",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "ٱللَّهُ",
+      "transliterasi": "Allāh",
+      "jenis_kata": "Isim",
+      "arti": "Allah (Nama Dzat Tuhan Yang Maha Esa)",
+      "sharaf": {
+        "akar_kata": "ا ل ه",
+        "makna_dasar": "Dzat yang disembah, Tuhan",
+        "wazan_perubahan": "Isim Dzat, bentuk khusus"
+      },
+      "nahwu": {
+        "kedudukan": "Fa'il (pelaku)",
+        "irab_dan_logika": "Marfu' (berharakat dhammah) karena sebagai Fa'il dari fi'il 'عَلَّمَكُمْ' (Dia mengajarkan kalian)."
+      },
+      "hikmah": "Kata 'Allah' di sini menegaskan bahwa segala ilmu dan kemampuan, termasuk melatih binatang buas untuk berburu, pada hakikatnya adalah ajaran dan anugerah dari Allah SWT. Ini menunjukkan keagungan ilmu Allah yang mencakup segala makhluk-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "ۖ",
+      "transliterasi": "-",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "Tanda berhenti (waqaf jaiz)",
+      "sharaf": {
+        "akar_kata": "Tidak ada",
+        "makna_dasar": "Tanda baca untuk jeda dalam pembacaan Al-Qur'an",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf jaiz",
+        "irab_dan_logika": "Tidak memiliki i'rab karena bukan bagian dari struktur kalimat, melainkan tanda baca."
+      },
+      "hikmah": "Tanda waqaf ini mengindikasikan bahwa pembaca boleh berhenti atau melanjutkan bacaan. Dalam konteks makna, ia seringkali menandai selesainya satu gagasan atau bagian dari perintah, sebelum beralih ke perintah atau penjelasan berikutnya. Di sini, ia memisahkan penjelasan tentang ajaran Allah kepada binatang buas dari perintah untuk memakan hasil buruan.",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "فَكُلُوا۟",
+      "transliterasi": "Fakulū",
+      "jenis_kata": "Fi'il",
+      "arti": "Maka makanlah!",
+      "sharaf": {
+        "akar_kata": "أ ك ل",
+        "makna_dasar": "Makan, mengonsumsi",
+        "wazan_perubahan": "Fi'il Amr (Kata Kerja Perintah), wazan (فَعَلَ - يَفْعُلُ), bentuk jamak laki-laki. Wawu jama'ah (و) adalah fa'ilnya."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Amr",
+        "irab_dan_logika": "Mabni (tetap) di atas hadzfun nun (penghapusan nun) karena termasuk Af'alul Khamsah (lima fi'il) yang di-jazm-kan atau di-amr-kan. Huruf 'فَ' (fa') adalah huruf 'athaf (penyambung) yang bermakna 'maka' atau 'kemudian', menunjukkan konsekuensi dari kalimat sebelumnya."
+      },
+      "hikmah": "Ini adalah perintah langsung dari Allah yang menunjukkan kebolehan dan legitimasi untuk mengonsumsi hasil buruan dari binatang buas yang telah dilatih. Ini adalah bentuk kemudahan (rukhsah) dalam syariat Islam, asalkan syarat-syarat yang disebutkan telah terpenuhi.",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "مِمَّآ",
+      "transliterasi": "Mimmā",
+      "jenis_kata": "Gabungan Huruf dan Isim Maushul",
+      "arti": "Dari apa yang... / Dari sesuatu yang...",
+      "sharaf": {
+        "akar_kata": "Terdiri dari 'مِنْ' (min) dan 'مَا' (mā)",
+        "makna_dasar": "Menunjukkan sebagian atau asal dari sesuatu (min) dan merujuk pada sesuatu yang tidak spesifik (ma)",
+        "wazan_perubahan": "Tidak berlaku untuk gabungan ini"
+      },
+      "nahwu": {
+        "kedudukan": "Jar Majrur",
+        "irab_dan_logika": "مِنْ' adalah Huruf Jar, sehingga 'مَا' adalah Isim Maushul yang mabni fi mahalli jar (berkedudukan majrur) karena didahului huruf jar. Jumlah setelahnya adalah shilah maushul (penjelas isim maushul)."
+      },
+      "hikmah": "Frasa ini menjelaskan bahwa yang boleh dimakan adalah *sebagian dari apa* yang ditangkap oleh binatang buas tersebut. Ini mengindikasikan bahwa bukan semua hasil tangkapan boleh dimakan, melainkan yang memenuhi syarat-syarat syariat, yaitu yang ditangkap oleh binatang terlatih dan disebut nama Allah saat melepaskannya.",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "أَمْسَكْنَ",
+      "transliterasi": "Amsakna",
+      "jenis_kata": "Fi'il",
+      "arti": "Mereka (betina) menahan/menangkap",
+      "sharaf": {
+        "akar_kata": "م س ك",
+        "makna_dasar": "Memegang, menahan, menangkap",
+        "wazan_perubahan": "Fi'il Madhi (Kata Kerja Lampau), wazan (أَفْعَلَ - يُفْعِلُ), bentuk jamak muannats ghaib (mereka perempuan). Nun (نَ) adalah Nun Niswah (Nun perempuan jamak) yang berfungsi sebagai fa'il."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Madhi",
+        "irab_dan_logika": "Mabni (tetap) di atas sukun karena bersambung dengan Nun Niswah. Nun Niswah adalah dhamir rafa' yang mabni di atas fathah sebagai fa'il. Jumlah fi'liyah ini adalah shilah maushul bagi 'مَا'."
+      },
+      "hikmah": "Kata ini menegaskan bahwa yang dihalalkan adalah hasil tangkapan yang *benar-benar ditangkap dan ditahan* oleh binatang buas yang terlatih. Ini mengisyaratkan bahwa jika binatang buas itu hanya melukai buruan tanpa menahannya, atau buruan itu mati bukan karena tangkapan binatang buas tersebut, maka hukumnya bisa berbeda. Ini menekankan pentingnya peran aktif binatang pemburu dalam menahan mangsanya.",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "عَلَيْكُمْ",
+      "transliterasi": "Alaykum",
+      "jenis_kata": "Gabungan Huruf Jar dan Dhamir",
+      "arti": "Atas kalian / Untuk kalian",
+      "sharaf": {
+        "akar_kata": "Terdiri dari 'عَلَى' ('alā) dan 'كُمْ' (kum)",
+        "makna_dasar": "Menunjukkan keberadaan di atas, kewajiban, atau manfaat bagi",
+        "wazan_perubahan": "Tidak berlaku untuk gabungan ini"
+      },
+      "nahwu": {
+        "kedudukan": "Jar Majrur",
+        "irab_dan_logika": "عَلَى' adalah Huruf Jar. 'كُمْ' adalah Dhamir Muttashil (kata ganti sambung) yang mabni fi mahalli jar (berkedudukan majrur) karena didahului huruf jar. Jar Majrur ini muta'alliq (terkait) dengan fi'il 'أَمْسَكْنَ'."
+      },
+      "hikmah": "Frasa ini sangat penting karena menjelaskan tujuan dari tangkapan tersebut: *untuk kalian* (manusia). Ini membedakan tangkapan yang dilakukan binatang buas untuk dirinya sendiri (yang tidak halal bagi manusia) dengan tangkapan yang dilakukan sebagai hasil pelatihan dan dimaksudkan untuk pemiliknya. Ini menekankan aspek manfaat dan kepemilikan dalam konteks hukum berburu.",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "وَٱذْكُرُوا۟",
+      "transliterasi": "wa-dzkuruu",
+      "jenis_kata": "Fi'il",
+      "arti": "dan ingatlah/sebutlah",
+      "sharaf": {
+        "akar_kata": "ذ ك ر (dh-k-r)",
+        "makna_dasar": "Mengingat, menyebut, berzikir.",
+        "wazan_perubahan": "Fi'il Amr (kata kerja perintah) dari Bab I (فَعَلَ يَفْعُلُ), dalam bentuk jamak mudzakkar. Asalnya ذَكَرَ - يَذْكُرُ. Bentuk amr-nya اُذْكُرْ. Dengan wawu jamak menjadi اُذْكُرُوا. Ditambah wawu athaf (penghubung) menjadi وَاذْكُرُوا."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Amr, yang berfungsi sebagai perintah.",
+        "irab_dan_logika": "Fi'il Amr mabni (tetap) pada حذف النون (penghapusan nun) karena termasuk af'alul khamsah (lima kata kerja) yang diakhiri dengan wawu jamak. Wawu (و) adalah fa'il (subjek) dalam posisi rafa'."
+      },
+      "hikmah": "Perintah untuk senantiasa mengingat atau menyebut nama Allah, khususnya saat melepaskan binatang buruan. Ini menunjukkan pentingnya kesadaran ilahi dalam setiap tindakan, bahkan dalam hal yang mubah seperti berburu, dan menegaskan bahwa segala sesuatu yang kita nikmati berasal dari Allah.",
+      "role": "none"
+    },
+    {
+      "index": 25,
+      "kata_arab": "ٱسْمَ",
+      "transliterasi": "isma",
+      "jenis_kata": "Isim",
+      "arti": "nama",
+      "sharaf": {
+        "akar_kata": "س م و (s-m-w)",
+        "makna_dasar": "Ketinggian, tanda, nama.",
+        "wazan_perubahan": "Isim, bentuk tunggal."
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul Bih (objek) dari fi'il \"اذكروا\".",
+        "irab_dan_logika": "Manshub (berharakat fathah) karena menjadi maf'ul bih. Tanda manshubnya adalah fathah pada huruf mim (م)."
+      },
+      "hikmah": "Menekankan bahwa yang harus disebut adalah 'nama' Allah, bukan sekadar mengingat-Nya secara abstrak, melainkan dengan menyebut asma-Nya yang mulia, sebagai bentuk pengagungan dan pengakuan atas kekuasaan-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 26,
+      "kata_arab": "ٱللَّهِ",
+      "transliterasi": "Allahi",
+      "jenis_kata": "Isim",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "ا ل ه (a-l-h)",
+        "makna_dasar": "Tuhan, yang disembah.",
+        "wazan_perubahan": "Isim, bentuk tunggal."
+      },
+      "nahwu": {
+        "kedudukan": "Mudhaf Ilaih (kata benda yang disandarkan) dari \"اسم\".",
+        "irab_dan_logika": "Majrur (berharakat kasrah) karena menjadi mudhaf ilaih. Tanda jarnya adalah kasrah pada huruf ha' (ه)."
+      },
+      "hikmah": "Menegaskan bahwa nama yang disebut adalah nama *Allah*, Tuhan Yang Maha Esa, pencipta dan pengatur alam semesta. Ini menguatkan tauhid dan pengakuan bahwa segala rezeki dan karunia berasal dari-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 27,
+      "kata_arab": "عَلَيْهِ",
+      "transliterasi": "alaihi",
+      "jenis_kata": "Huruf + Isim",
+      "arti": "atasnya/padanya",
+      "sharaf": {
+        "akar_kata": "ع ل و ('-l-w) untuk 'ala, dan ه و (h-w) untuk dhamir 'hu'.",
+        "makna_dasar": "Ketinggian, di atas (untuk 'ala'); dia (untuk 'hu').",
+        "wazan_perubahan": "Ala (حرف جر) + Hu (ضمير مجرور)."
+      },
+      "nahwu": {
+        "kedudukan": "Jar Majrur (preposisi dan objek preposisi).",
+        "irab_dan_logika": "Ala (على) adalah huruf jar, sehingga dhamir 'hu' (ه) yang melekat padanya berada dalam posisi majrur secara mahal (posisi i'rab, meskipun harakatnya tetap). Dhamir 'hu' merujuk kembali kepada \"ما أمسكن عليكم\" (apa yang ditangkapnya untukmu) atau secara umum kepada binatang buruan."
+      },
+      "hikmah": "Penekanan bahwa penyebutan nama Allah itu dilakukan *atas* buruan tersebut, yaitu saat melepaskan binatang pemburu atau saat menyembelihnya (jika diperlukan), sebagai bentuk pensucian dan legitimasi atas konsumsi makanan tersebut. Ini juga bisa diartikan sebagai 'atasnya' yaitu atas perbuatan berburu itu sendiri.",
+      "role": "none"
+    },
+    {
+      "index": 28,
+      "kata_arab": "ۖ",
+      "transliterasi": "N/A",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "Tanda berhenti (waqaf mutlaq)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca dalam Al-Qur'an.",
+        "irab_dan_logika": "Bukan bagian dari struktur gramatikal kalimat."
+      },
+      "hikmah": "Menunjukkan tempat yang dianjurkan untuk berhenti membaca, memberikan jeda untuk memahami makna kalimat sebelumnya sebelum melanjutkan ke kalimat berikutnya. Dalam konteks ini, ia memisahkan perintah tentang menyebut nama Allah dari perintah tentang bertakwa.",
+      "role": "none"
+    },
+    {
+      "index": 29,
+      "kata_arab": "وَٱتَّقُوا۟",
+      "transliterasi": "wa-ttaqū",
+      "jenis_kata": "Fi'il",
+      "arti": "dan bertakwalah",
+      "sharaf": {
+        "akar_kata": "و ق ي (w-q-y)",
+        "makna_dasar": "Menjaga diri, melindungi, takut (kepada Allah).",
+        "wazan_perubahan": "Fi'il Amr (kata kerja perintah) dari Bab VIII (اِفْتَعَلَ يَفْتَعِلُ) dengan perubahan huruf 'waw' menjadi 'ta'. Asalnya وَقَى - يَتَّقِي. Bentuk amr-nya اِتَّقِ. Dengan wawu jamak menjadi اِتَّقُوا. Ditambah wawu athaf menjadi وَاتَّقُوا."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Amr, yang berfungsi sebagai perintah.",
+        "irab_dan_logika": "Fi'il Amr mabni pada حذف النون (penghapusan nun) karena termasuk af'alul khamsah. Wawu (و) adalah fa'il (subjek) dalam posisi rafa'. Wawu di awal adalah wawu athaf (penghubung) yang menghubungkan perintah ini dengan perintah sebelumnya."
+      },
+      "hikmah": "Perintah untuk bertakwa kepada Allah, yaitu menjaga diri dari murka-Nya dengan menjalankan perintah-Nya dan menjauhi larangan-Nya. Ini adalah inti dari ajaran Islam, mengingatkan bahwa semua hukum dan ketentuan Allah bertujuan untuk kebaikan manusia dan harus dijalankan dengan kesadaran akan pengawasan-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 30,
+      "kata_arab": "ٱللَّهَ",
+      "transliterasi": "Allāha",
+      "jenis_kata": "Isim",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "ا ل ه",
+        "makna_dasar": "Yang disembah, Tuhan",
+        "wazan_perubahan": "Isim Dzat (nama diri yang agung)"
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul Bih (Objek)",
+        "irab_dan_logika": "Manshub (berharakat fathah) karena menjadi objek dari fi'il perintah 'ٱتَّقُوا۟' (bertaqwalah). Harakat fathah pada huruf 'ه' menunjukkan kedudukannya sebagai maf'ul bih."
+      },
+      "hikmah": "Kata 'ٱللَّهَ' di sini menekankan pentingnya bertakwa hanya kepada Allah SWT, Dzat yang Maha Esa dan memiliki segala kekuasaan. Ini adalah pengingat akan keagungan-Nya dan tujuan utama ketaatan.",
+      "role": "none"
+    },
+    {
+      "index": 31,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqaf lazim)",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "Tanda berhenti sempurna (waqaf lazim)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca dalam Al-Qur'an",
+        "irab_dan_logika": "N/A (tidak memiliki irab karena bukan kata gramatikal)"
+      },
+      "hikmah": "Tanda waqaf lazim (ۖ) menunjukkan bahwa berhenti di sini adalah lebih utama dan makna ayat sudah sempurna. Melanjutkan bacaan tanpa berhenti di sini tidak mengubah makna, namun berhenti lebih baik untuk pemahaman dan pengambilan nafas.",
+      "role": "none"
+    },
+    {
+      "index": 32,
+      "kata_arab": "إِنَّ",
+      "transliterasi": "Inna",
+      "jenis_kata": "Huruf",
+      "arti": "Sesungguhnya, sungguh",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "Penekanan, penguatan",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Taukid dan Nasab",
+        "irab_dan_logika": "Huruf mabni (tetap) yang berfungsi menashabkan mubtada' (menjadi isimnya inna) dan merafa'kan khabar (menjadi khabarnya inna). Ini adalah huruf yang memulai kalimat penegas."
+      },
+      "hikmah": "إِنَّ' berfungsi untuk memberikan penekanan dan penguatan pada kalimat setelahnya. Ini menegaskan kebenaran bahwa Allah sangat cepat dalam perhitungan-Nya, memberikan peringatan dan motivasi untuk bertakwa.",
+      "role": "none"
+    },
+    {
+      "index": 33,
+      "kata_arab": "ٱللَّهَ",
+      "transliterasi": "Allāha",
+      "jenis_kata": "Isim",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "ا ل ه",
+        "makna_dasar": "Yang disembah, Tuhan",
+        "wazan_perubahan": "Isim Dzat (nama diri yang agung)"
+      },
+      "nahwu": {
+        "kedudukan": "Isim 'إِنَّ' (Isim Inna)",
+        "irab_dan_logika": "Manshub (berharakat fathah) karena menjadi isim dari 'إِنَّ', yang menashabkan isim setelahnya. Harakat fathah pada huruf 'ه' menunjukkan kedudukannya sebagai isim inna."
+      },
+      "hikmah": "Pengulangan nama 'ٱللَّهَ' setelah 'إِنَّ' semakin menegaskan Dzat yang dimaksud, yaitu Allah SWT, sebagai subjek dari sifat 'sangat cepat hisab-Nya'. Ini memperkuat pesan tentang kekuasaan dan keadilan-Nya yang tak terhindarkan.",
+      "role": "none"
+    },
+    {
+      "index": 34,
+      "kata_arab": "سَرِيعُ",
+      "transliterasi": "Sarī'u",
+      "jenis_kata": "Isim (Sifat/Kata Sifat)",
+      "arti": "Cepat, tangkas",
+      "sharaf": {
+        "akar_kata": "س ر ع",
+        "makna_dasar": "Kecepatan, ketangkasan",
+        "wazan_perubahan": "فَعِيلٌ (fa'īlun), menunjukkan sifat yang melekat"
+      },
+      "nahwu": {
+        "kedudukan": "Khabar 'إِنَّ' (Khabar Inna) dan Mudhaf (kata yang disandarkan)",
+        "irab_dan_logika": "Marfu' (berharakat dhammah) karena menjadi khabar dari 'إِنَّ', yang merafa'kan khabarnya. Juga berkedudukan sebagai mudhaf, sehingga tidak bertanwin."
+      },
+      "hikmah": "Kata 'سَرِيعُ' menggambarkan salah satu sifat Allah, yaitu kecepatan-Nya dalam menghisab. Ini adalah peringatan bagi manusia bahwa hari perhitungan pasti datang dan akan berlangsung dengan sangat cepat, sehingga tidak ada waktu untuk menunda-nunda amal kebaikan.",
+      "role": "none"
+    },
+    {
+      "index": 35,
+      "kata_arab": "ٱلْحِسَابِ",
+      "transliterasi": "Al-Ḥisābi",
+      "jenis_kata": "Isim (Kata Benda)",
+      "arti": "Perhitungan, hisab",
+      "sharaf": {
+        "akar_kata": "ح س ب",
+        "makna_dasar": "Menghitung, memperhitungkan",
+        "wazan_perubahan": "فِعَالٌ (fi'ālun), bentuk masdar (kata benda verbal) yang menunjukkan tindakan atau hasil dari tindakan"
+      },
+      "nahwu": {
+        "kedudukan": "Mudhaf Ilaih (kata yang disandari)",
+        "irab_dan_logika": "Majrur (berharakat kasrah) karena menjadi mudhaf ilaih dari 'سَرِيعُ'. 'Al' (ال) menunjukkan kemakrifatan (definitif)."
+      },
+      "hikmah": "ٱلْحِسَابِ' merujuk pada perhitungan amal perbuatan manusia di akhirat. Ketika digabungkan dengan 'سَرِيعُ', ini menekankan bahwa perhitungan tersebut akan dilakukan dengan sangat teliti dan cepat oleh Allah, mengingatkan manusia akan pertanggungjawaban atas setiap perbuatannya dan pentingnya mempersiapkan diri.",
+      "role": "none"
+    }
+  ]
+}

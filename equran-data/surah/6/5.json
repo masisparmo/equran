@@ -1,0 +1,240 @@
+{
+  "surah": 6,
+  "ayah": 5,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "فَقَدْ",
+      "transliterasi": "fa‑qad",
+      "jenis_kata": "Huruf (partikel penegas)",
+      "arti": "sesungguhnya, memang",
+      "sharaf": {
+        "akar_kata": "ق‑د",
+        "makna_dasar": "menunjukkan penegasan, tidak memiliki arti leksikal tersendiri",
+        "wazan_perubahan": "bukan bentuk berakar; termasuk partikel"
+      },
+      "nahwu": {
+        "kedudukan": "Pembuka ayat, menegaskan pernyataan selanjutnya",
+        "irab_dan_logika": "Tidak berirab karena merupakan huruf; berfungsi memperkuat makna kalimat"
+      },
+      "hikmah": "Menegaskan bahwa apa yang akan disebutkan berikutnya adalah fakta yang tidak dapat diperdebatkan.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "كَذَّبُوا۟",
+      "transliterasi": "kadhabū",
+      "jenis_kata": "Fi'il (kata kerja lampau, 3 mlk)",
+      "arti": "mereka mendustakan",
+      "sharaf": {
+        "akar_kata": "ك‑ذ‑ب",
+        "makna_dasar": "menolak kebenaran, memfitnah",
+        "wazan_perubahan": "فَعَّلَ (faʿʿala) → كَذَّبَ"
+      },
+      "nahwu": {
+        "kedudukan": "Predikat utama setelah partikel فَقَدْ",
+        "irab_dan_logika": "Marfu' dengan dhammah karena fi'il madhi (lampau) tidak berjarak"
+      },
+      "hikmah": "Mereka secara tegas menolak kebenaran yang telah disampaikan kepada mereka.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "بِٱلْحَقِّ",
+      "transliterasi": "bi‑al‑ḥaqqi",
+      "jenis_kata": "Huruf jar + Isim (isim majrur)",
+      "arti": "dengan kebenaran",
+      "sharaf": {
+        "akar_kata": "ح‑ق‑ق",
+        "makna_dasar": "kebenaran, fakta",
+        "wazan_perubahan": "فَعْل (faʿl) → الحَقّ"
+      },
+      "nahwu": {
+        "kedudukan": "Objek preposisional yang melengkapi fi'il كَذَّبُوا۟",
+        "irab_dan_logika": "حَقّ مجرور بالكسرة لأن حرف الجر بِ يجر ما بعده"
+      },
+      "hikmah": "Mereka menolak sesuatu yang bersifat mutlak benar dan tidak dapat dipertikaikan.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "لَمَّا",
+      "transliterasi": "lamma",
+      "jenis_kata": "Huruf (konjungsi waktu)",
+      "arti": "ketika",
+      "sharaf": {
+        "akar_kata": "ل‑م‑ا",
+        "makna_dasar": "menunjukkan waktu yang lampau",
+        "wazan_perubahan": "partikel khusus, bukan bentuk berakar"
+      },
+      "nahwu": {
+        "kedudukan": "Penghubung antara dua klausa (sebelum جَاءَهُمْ)",
+        "irab_dan_logika": "Tidak berirab; mengikat fi'il setelahnya dalam bentuk majzum (jussive) walaupun di sini fi'il berakhir dengan dammah karena bentuk madhi"
+      },
+      "hikmah": "Menandakan bahwa peristiwa yang akan disebutkan terjadi setelah penolakan mereka.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "جَآءَهُمْ",
+      "transliterasi": "jāʾahum",
+      "jenis_kata": "Fi'il (kata kerja lampau, 3 mlk) + ضمير متصل",
+      "arti": "datang kepada mereka",
+      "sharaf": {
+        "akar_kata": "ج‑ا‑ء",
+        "makna_dasar": "datang, tiba",
+        "wazan_perubahan": "فَعَلَ (faʿala) → جاء"
+      },
+      "nahwu": {
+        "kedudukan": "Predikat dalam klausa yang dipimpin oleh لَمَّا",
+        "irab_dan_logika": "Marfu' karena fi'il madhi; الضمير المتصل (هُمْ) berkasrah sebagai objek langsung"
+      },
+      "hikmah": "Sesungguhnya kebenaran itu akan datang kepada mereka, meskipun mereka telah mendustakannya.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "ۖ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf (tanda waqf — tanda koma panjang)",
+      "arti": "tanda jeda/berhenti",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Akhir ayat, memisahkan bagian selanjutnya dalam teks",
+        "irab_dan_logika": "Tidak berirab karena bukan kata"
+      },
+      "hikmah": "Menandakan jeda sebelum lanjutan ayat atau ayat berikutnya.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "فَسَوْفَ",
+      "transliterasi": "fa‑sawfa",
+      "jenis_kata": "Huruf (partikel)",
+      "arti": "maka akan segera",
+      "sharaf": {
+        "akar_kata": "س‑و‑ف",
+        "makna_dasar": "dekat, hampir terjadi",
+        "wazan_perubahan": "partikel masa depan"
+      },
+      "nahwu": {
+        "kedudukan": "partikel yang memperkuat makna masa depan, menempel pada fi'il berikutnya",
+        "irab_dan_logika": "tidak ber‑i‘rāb karena termasuk huruf, menandakan kesinambungan makna"
+      },
+      "hikmah": "Menegaskan bahwa azab yang dijanjikan akan datang dengan cepat setelah penolakan mereka.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "يَأْتِيهِمْ",
+      "transliterasi": "yaʾtī‑hum",
+      "jenis_kata": "Fiʿil (verb) dengan dhamir muttasir",
+      "arti": "akan datang kepada mereka",
+      "sharaf": {
+        "akar_kata": "أ‑ت‑ي",
+        "makna_dasar": "datang",
+        "wazan_perubahan": "fiʿil mudāriʿ (مضارع)"
+      },
+      "nahwu": {
+        "kedudukan": "fiʿil mudāriʿ yang berhubungan dengan partikel فَسَوْفَ, dhamir muttasir \"هم\" sebagai mafʿūl bih (مفعول به)",
+        "irab_dan_logika": "مرفوع بالضمة الظاهرة، والضمير المتصل في محل نصب مفعول به"
+      },
+      "hikmah": "Allah akan menurunkan kebenaran kepada mereka sebagai balasan penolakan mereka.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "أَنۢبَٰٓؤُا۟",
+      "transliterasi": "anbāʾu",
+      "jenis_kata": "Isim (kata benda) jamak",
+      "arti": "berita, kabar",
+      "sharaf": {
+        "akar_kata": "ن‑ب‑أ",
+        "makna_dasar": "memberi kabar",
+        "wazan_perubahan": "صيغة جمع مذكر سالم"
+      },
+      "nahwu": {
+        "kedudukan": "مبتدأ مرفوع يسبق الفعل يَأْتِيهِمْ",
+        "irab_dan_logika": "مرفوع بالضمة لأنه مبتدأ"
+      },
+      "hikmah": "Berita yang akan datang adalah kebenaran yang mereka selalu ejek‑ejek.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "مَا",
+      "transliterasi": "mā",
+      "jenis_kata": "Isim (kata ganti relatif)",
+      "arti": "apa",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "isim maʿrif yang berfungsi sebagai خبر كان",
+        "irab_dan_logika": "منصوب لأنه خبر كان"
+      },
+      "hikmah": "Menunjuk kepada segala hal yang mereka sangka‑sangka dan ejek‑ejek.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "كَانُوا۟",
+      "transliterasi": "kānū",
+      "jenis_kata": "Fiʿil (kata kerja) masa lalu",
+      "arti": "adalah (dulu)",
+      "sharaf": {
+        "akar_kata": "ك‑و‑ن",
+        "makna_dasar": "ada, menjadi",
+        "wazan_perubahan": "فعل ماضٍ ثلاثي مجرد"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ماضٍ مبني على الفتح، يسبق اسم ما",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فعل ماضٍ"
+      },
+      "hikmah": "Menyatakan keadaan mereka di masa lalu yang kini akan diganti dengan kebenaran.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "بِهِۦ",
+      "transliterasi": "bihi",
+      "jenis_kata": "Huruf (preposisi) + dhamir muttasir",
+      "arti": "dengan itu",
+      "sharaf": {
+        "akar_kata": "ب‑ي",
+        "makna_dasar": "dengan, memakai",
+        "wazan_perubahan": "حرف جر"
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر يتبع ما في محل جر",
+        "irab_dan_logika": "مجرور بالكسرة لأن حرف الجر لا يُعرَب"
+      },
+      "hikmah": "Menunjukkan bahwa berita itu berkaitan dengan apa yang mereka sangka‑sangka sebelumnya.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "يَسْتَهْزِءُونَ",
+      "transliterasi": "yastahzi'ūna",
+      "jenis_kata": "Fi'il",
+      "arti": "menertawakan, memperolok‑olok",
+      "sharaf": {
+        "akar_kata": "ه ز ئ",
+        "makna_dasar": "menyindir, mengejek",
+        "wazan_perubahan": "فَعَلَ → يَسْتَفْعِلُ (form IV) dengan tambahan alif dan waw"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja bentuk mudhari' (present tense) aktif, subjek tak tersurat (mereka)",
+        "irab_dan_logika": "berharakat dammah pada akhir karena mudhari' yang berakhiran waw alif maqsurah, menandakan indikasi waktu kini/berkelanjutan"
+      },
+      "hikmah": "*Mereka* menolak kebenaran dengan sikap mengejek yang terus‑menerus, menandakan keangkuhan dan ketidakmauan menerima petunjuk Allah.",
+      "role": "none"
+    }
+  ]
+}

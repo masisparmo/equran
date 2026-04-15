@@ -1,0 +1,168 @@
+{
+  "surah": 6,
+  "ayah": 15,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "قُلْ",
+      "transliterasi": "qul",
+      "jenis_kata": "Fi'il (imperatif)",
+      "arti": "katakan",
+      "sharaf": {
+        "akar_kata": "ق-و-ل",
+        "makna_dasar": "berkata",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "kata perintah, fi'il amar di awal kalimat",
+        "irab_dan_logika": "sukun pada huruf terakhir menandakan fi'il amar"
+      },
+      "hikmah": "menegaskan perintah menyampaikan wahyu kepada Nabi",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "إِنِّىٓ",
+      "transliterasi": "innī",
+      "jenis_kata": "Huruf (penegas) + damir",
+      "arti": "sesungguhnya aku",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "penegasan subjek",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "partikel penegas setelah kata perintah",
+        "irab_dan_logika": "إِنّ حرف توكيد، والضمير المتصل ي في محل رفع اسم إنّ مرفوع بالضمة"
+      },
+      "hikmah": "menegaskan keikhlasan pembicara bahwa yang dibicarakan adalah dirinya sendiri",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "أَخَافُ",
+      "transliterasi": "akhāfu",
+      "jenis_kata": "Fi'il (madhi/masdar)",
+      "arti": "aku takut",
+      "sharaf": {
+        "akar_kata": "خ-و-ف",
+        "makna_dasar": "takut",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "predikat utama dalam kalimat",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فعل مضارع مرفوع"
+      },
+      "hikmah": "menyatakan rasa takut yang mendalam terhadap azab hari kiamat",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "إِنْ",
+      "transliterasi": "in",
+      "jenis_kata": "Huruf (syarat)",
+      "arti": "jika",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "penghubung syarat",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "huruf شرط جازم menghubungkan syarat dengan konsekuensi",
+        "irab_dan_logika": "ليس له إعراب، حرف مشبه ولا"
+      },
+      "hikmah": "menunjukkan hubungan sebab‑akibat antara rasa takut dan kemungkinan melanggar Tuhan",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "عَصَيْتُ",
+      "transliterasi": "ʿaṣaytu",
+      "jenis_kata": "Fi'il (madhi)",
+      "arti": "aku melanggar",
+      "sharaf": {
+        "akar_kata": "ع-ص-ى",
+        "makna_dasar": "menyimpang, menentang",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il madhi مرفوع بالضمة مع ضمير متصل",
+        "irab_dan_logika": "مرفوع بالضمة لأن الفعل الماضي مبني على السكون والضمير المتصل في محل رفع"
+      },
+      "hikmah": "menyatakan pengakuan dosa, yaitu melanggar perintah Tuhan",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "رَبِّى",
+      "transliterasi": "rabbī",
+      "jenis_kata": "Isim (isim mudhaf)",
+      "arti": "Tuhanku",
+      "sharaf": {
+        "akar_kata": "ر-ب-ب",
+        "makna_dasar": "tuhan",
+        "wazan_perubahan": "فَعَّل"
+      },
+      "nahwu": {
+        "kedudukan": "mudhaf ilayh (objek) setelah فعل عَصَيْتُ",
+        "irab_dan_logika": "مجرور بالكسرة لأنه مضاف إليه"
+      },
+      "hikmah": "menunjukkan hubungan kepemilikan, yaitu azab yang ditakuti berasal dari Tuhan yang Maha Esa",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "عَذَابَ",
+      "transliterasi": "ʿadhāba",
+      "jenis_kata": "Isim",
+      "arti": "siksaan",
+      "sharaf": {
+        "akar_kata": "ع‑ذ‑ب",
+        "makna_dasar": "menyiksa, menimbulkan rasa sakit",
+        "wazan_perubahan": "faʿāl"
+      },
+      "nahwu": {
+        "kedudukan": "objek (mafʿūl bih) dari kata takut (أخاف)",
+        "irab_dan_logika": "مُنصوب بالفتحة لأنّه مفعول به للفعل أَخَاف"
+      },
+      "hikmah": "menunjukkan ancaman nyata akan siksaan yang menimpa pada hari kiamat",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "يَوْمٍ",
+      "transliterasi": "yawmin",
+      "jenis_kata": "Isim",
+      "arti": "hari",
+      "sharaf": {
+        "akar_kata": "ي‑و‑م",
+        "makna_dasar": "berjalan, waktu",
+        "wazan_perubahan": "faʿil"
+      },
+      "nahwu": {
+        "kedudukan": "bagian pertama dari iḍāfah (azāb yawm)",
+        "irab_dan_logika": "مجرور بالكسرة لأنه مضاف إليه"
+      },
+      "hikmah": "menandakan waktu tertentu, yaitu hari kiamat",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "عَظِيمٍۢ",
+      "transliterasi": "ʿaẓīm",
+      "jenis_kata": "Isim (sifat)",
+      "arti": "besar, agung",
+      "sharaf": {
+        "akar_kata": "ع‑ظ‑م",
+        "makna_dasar": "keagungan, kebesaran",
+        "wazan_perubahan": "faʿīl"
+      },
+      "nahwu": {
+        "kedudukan": "sifat (khabar) bagi يَوْمٍ dalam iḍāfah",
+        "irab_dan_logika": "مجرور بالكسرة لأنه صفة مجرورة مع المضاف"
+      },
+      "hikmah": "menegaskan betapa dahsyatnya hari itu, menambah berat ancaman azab",
+      "role": "none"
+    }
+  ]
+}

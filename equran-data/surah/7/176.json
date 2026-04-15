@@ -1,0 +1,492 @@
+{
+  "surah": 7,
+  "ayah": 176,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "وَلَوْ",
+      "transliterasi": "walaw",
+      "jenis_kata": "Huruf",
+      "arti": "seandainya / jika",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "huruf شرط جازم di awal ayat",
+        "irab_dan_logika": "مبني على الفتح لا محل له من الإعراب"
+      },
+      "hikmah": "menunjukkan bahwa Allah memiliki kuasa mengangkat, tetapi tidak mengangkat karena kehendak-Nya",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "شِئْنَا",
+      "transliterasi": "shi'na",
+      "jenis_kata": "Fi'il",
+      "arti": "Kami menghendaki",
+      "sharaf": {
+        "akar_kata": "ش-ئ-ء",
+        "makna_dasar": "ingin, menghendaki",
+        "wazan_perubahan": "فَعَلْنَا"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il ماضٍ 1st person plural",
+        "irab_dan_logika": "مرفوع بالضمة الظاهرة على النون"
+      },
+      "hikmah": "menegaskan kehendak Allah yang mutlak",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "إِلَى",
+      "transliterasi": "ilā",
+      "jenis_kata": "Huruf",
+      "arti": "ke, menuju",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "menunjukkan arah atau tujuan",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Preposisi yang menghubungkan ke kata benda berikutnya",
+        "irab_dan_logika": "مجرور بالكسرة لأن حرف الجر إِلَى يجر الاسم إلى حالة الجر"
+      },
+      "hikmah": "Menunjukkan tujuan atau arah gerakan, di sini mengarah kepada 'bumi'",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "ٱلْأَرْضِ",
+      "transliterasi": "al-arḍi",
+      "jenis_kata": "Isim",
+      "arti": "bumi, tanah",
+      "sharaf": {
+        "akar_kata": "ر-ض-",
+        "makna_dasar": "tanah, permukaan tempat tinggal",
+        "wazan_perubahan": "فَعْل"
+      },
+      "nahwu": {
+        "kedudukan": "Objek preposisi إِلَى",
+        "irab_dan_logika": "مجرور بالكسرة لأن كلمة الأرضِ مجرورة بحرف الجر إِلَى"
+      },
+      "hikmah": "Menggambarkan dunia materi tempat manusia hidup, yang menjadi sasaran pilihan manusia",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "وَٱتَّبَعَ",
+      "transliterasi": "wa-ttabaʿa",
+      "jenis_kata": "Fi'il",
+      "arti": "dan dia mengikuti",
+      "sharaf": {
+        "akar_kata": "ت-ب-ع",
+        "makna_dasar": "mengikuti, menuruti",
+        "wazan_perubahan": "فعل مجرد (form I) dengan prefiks وَ"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il madhi (kata kerja lampau) sebagai predikat utama",
+        "irab_dan_logika": "مبني على الفتح لأن الفعل الماضي يرفع آخره بالفتحة"
+      },
+      "hikmah": "Menunjukkan kecenderungan manusia yang memilih mengikuti hawa nafsu alih-alih petunjuk Allah",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "هَوَىٰهُ",
+      "transliterasi": "hawāhu",
+      "jenis_kata": "Isim",
+      "arti": "nafsunya, keinginannya",
+      "sharaf": {
+        "akar_kata": "ه-و-ى",
+        "makna_dasar": "nafsu, keinginan, hawa",
+        "wazan_perubahan": "فَعَى"
+      },
+      "nahwu": {
+        "kedudukan": "Objek preposisi فِي",
+        "irab_dan_logika": "مجرور بالكسرة لأن كلمة هَوَىً مجرورة بحرف الجر فِي، والهاء المتصلة تتبع حالة الجر"
+      },
+      "hikmah": "Mewakili kecenderungan rendah hati manusia yang terjerumus dalam keinginan duniawi",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf (tanda waqf)",
+      "arti": "tanda jeda/berhenti",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Simbol waqf yang menandai jeda antar ayat atau frasa",
+        "irab_dan_logika": "Tidak berirab karena bukan kata, berfungsi sebagai tanda baca"
+      },
+      "hikmah": "Memberi kesempatan bagi pembaca merenungkan makna sebelum melanjutkan",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "فَمَثَلُهُۥ",
+      "transliterasi": "fa-mathaluhu",
+      "jenis_kata": "Isim",
+      "arti": "maka perumpamaannya",
+      "sharaf": {
+        "akar_kata": "م-ث-ل",
+        "makna_dasar": "perumpamaan, contoh",
+        "wazan_perubahan": "اسم فعل"
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada' (subjek) setelah huruf عطف فَ",
+        "irab_dan_logika": "مرفوع بالضمة لأن المثَلُ مبتدأ مرفوع، والهاء المتصلة في محل جر مضاف إليه"
+      },
+      "hikmah": "Menegaskan bahwa orang yang menolak ayat-ayat Allah diibaratkan dengan contoh yang jelas, yaitu anjing yang menggeram",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "كَمَثَلِ",
+      "transliterasi": "ka-mathali",
+      "jenis_kata": "Huruf",
+      "arti": "seperti",
+      "sharaf": {
+        "akar_kata": "م-ث-ل",
+        "makna_dasar": "contoh, perumpamaan",
+        "wazan_perubahan": "مَفْعَل (isim)"
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر يسبق اسم المثل (الكلب)",
+        "irab_dan_logika": "مجرور بالكسرة لأن حرف الجر \"كـ\" يجر ما بعده"
+      },
+      "hikmah": "Menunjukkan bahwa apa yang dibicarakan adalah perumpamaan atau contoh",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "ٱلْكَلْبِ",
+      "transliterasi": "al-kalbi",
+      "jenis_kata": "Isim",
+      "arti": "anjing",
+      "sharaf": {
+        "akar_kata": "ك-ل-ب",
+        "makna_dasar": "anjing",
+        "wazan_perubahan": "فَعَل (isim)"
+      },
+      "nahwu": {
+        "kedudukan": "اسم مجرور بحرف الجر \"كـ\"",
+        "irab_dan_logika": "مجرور بالكسرة لأن قبله حرف جر"
+      },
+      "hikmah": "Menjadi objek perumpamaan yang menggambarkan sifat rendah dan lalai",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "إِن",
+      "transliterasi": "in",
+      "jenis_kata": "Huruf",
+      "arti": "jika",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "حرف شرط",
+        "irab_dan_logika": "حرف مبني لا محل له من الإعراب"
+      },
+      "hikmah": "Menyatakan syarat yang akan diikuti oleh pernyataan selanjutnya",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "تَحْمِلْ",
+      "transliterasi": "tahmil",
+      "jenis_kata": "Fi'il",
+      "arti": "engkau memikul / menanggung",
+      "sharaf": {
+        "akar_kata": "ح-م-ل",
+        "makna_dasar": "memikul, membawa",
+        "wazan_perubahan": "فعل أمر (مضارع مجزوم) للمتكلم المخاطب"
+      },
+      "nahwu": {
+        "kedudukan": "فعل أمر مبني على السكون",
+        "irab_dan_logika": "ليس له إعراب؛ الفعل أمر والفاعل مستتر تقديره \"أنت\""
+      },
+      "hikmah": "Perintah/anjuran untuk menanggung sesuatu (dalam konteks: menanggung dosa atau beban)",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "عَلَيْهِ",
+      "transliterasi": "ʿalayhi",
+      "jenis_kata": "Huruf + ضمير",
+      "arti": "atasnya",
+      "sharaf": {
+        "akar_kata": "ع-ل-ى",
+        "makna_dasar": "tinggi, berada di atas",
+        "wazan_perubahan": "حرف جر"
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر + ضمير متصل في محل جر",
+        "irab_dan_logika": "مجرور بالكسرة لأن \"على\" حرف جر"
+      },
+      "hikmah": "Menunjukkan arah atau tempat yang menjadi sasaran tindakan (menanggung pada anjing)",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "يَلْهَثْ",
+      "transliterasi": "yalhath",
+      "jenis_kata": "Fi'il",
+      "arti": "menjilat / mengeluarkan napas",
+      "sharaf": {
+        "akar_kata": "ل-ه-ث",
+        "makna_dasar": "menjilat, mengeluarkan napas dengan cepat",
+        "wazan_perubahan": "فعل مضارع مجزوم (سكون على آخره) للغائب"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مجزوم بعد حرف الشرط \"إن\"",
+        "irab_dan_logika": "مجزوم وعلامة جزمه السكون لأنه بعد \"إن\""
+      },
+      "hikmah": "Menggambarkan reaksi anjing yang mengeluarkan napas (atau menjilat) bila dibebani, menegaskan betapa lemah dan hina perumpamaan itu",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "أَوْ",
+      "transliterasi": "aw",
+      "jenis_kata": "Huruf",
+      "arti": "atau",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "kata sambung yang memberi pilihan",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "حرف عطف يربط بين جملتين أو عبارات",
+        "irab_dan_logika": "ليس له إعراب؛ يُعرب حرف عطف"
+      },
+      "hikmah": "Menunjukkan adanya pilihan antara mengangkat atau membiarkan (meninggalkan)",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "تَتْرُكْهُ",
+      "transliterasi": "tatrukhu",
+      "jenis_kata": "Fi'il",
+      "arti": "engkau meninggalkannya",
+      "sharaf": {
+        "akar_kata": "ر ك",
+        "makna_dasar": "meninggalkan, membiarkan",
+        "wazan_perubahan": "فعل مجرد"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع (مرفوع بالضمة المقدرة) مع ضمير متصل هو (هُ)",
+        "irab_dan_logika": "الضمة المقدرة على آخر الفعل لأن الفعل مضارع مرفوع وعلامة رفعه الضمة، والسكون على الكاف بسبب الضمائر المتصلة"
+      },
+      "hikmah": "Menggambarkan tindakan membiarkan anjing tetap mengeluarkan napas, menegaskan sikap penolakan",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "يَلْهَث",
+      "transliterasi": "yalhathu",
+      "jenis_kata": "Fi'il",
+      "arti": "menghembus napas dengan cepat",
+      "sharaf": {
+        "akar_kata": "ل ه ث",
+        "makna_dasar": "mengeluarkan napas (terengah‑engah)",
+        "wazan_perubahan": "فعل مجرد"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع بالضمة، خبر لضمير مستتر (هو) في جملة \"... فَيَلْهَثُ\"",
+        "irab_dan_logika": "الضمة الظاهرة على آخر الفعل تدل على رفعه لأن الفعل مضارع غير منصوب"
+      },
+      "hikmah": "Menunjukkan keadaan anjing yang terengah‑engah, memperkuat perumpamaan tentang orang yang mendustakan ayat",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf",
+      "arti": "tanda waqf (tanda berhenti)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "menandai akhir bagian kalimat",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "علامة وقف لا إعراب لها",
+        "irab_dan_logika": "تُقرأ كوقف ولا تُؤثر على إعراب الكلمات"
+      },
+      "hikmah": "Memberi jeda untuk merenungkan perumpamaan yang baru saja disebut",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "ذَّٰلِكَ",
+      "transliterasi": "dhalika",
+      "jenis_kata": "Isim",
+      "arti": "itu",
+      "sharaf": {
+        "akar_kata": "ذ ل ك",
+        "makna_dasar": "kata penunjuk untuk sesuatu yang telah disebut",
+        "wazan_perubahan": "اسم إشارة"
+      },
+      "nahwu": {
+        "kedudukan": "اسم إشارة مبني على السكون في محل رفع مبتدأ",
+        "irab_dan_logika": "مرفوع وعلامة رفعه الضمة المقدرة لأن الاسم الإشارة لا يُنصب"
+      },
+      "hikmah": "Menegaskan bahwa contoh yang dimaksud adalah sesuatu yang sudah dijelaskan sebelumnya",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "مَثَلُ",
+      "transliterasi": "mathalu",
+      "jenis_kata": "Isim",
+      "arti": "perumpamaan",
+      "sharaf": {
+        "akar_kata": "م ث ل",
+        "makna_dasar": "contoh, analogi",
+        "wazan_perubahan": "اسم مجرد"
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "ٱلْقَوْمِ",
+      "transliterasi": "al‑qawmi",
+      "jenis_kata": "Isim",
+      "arti": "kaum, orang‑orang",
+      "sharaf": {
+        "akar_kata": "ق‑و‑م",
+        "makna_dasar": "berkumpul, menjadi kelompok",
+        "wazan_perubahan": "isim jamak (muthanna/ta‘dīd)"
+      },
+      "nahwu": {
+        "kedudukan": "mudhaf majrur (tergantung pada huruf jar li‑)",
+        "irab_dan_logika": "dengan kasra karena berada dalam konstruksi li‑al‑qawmi"
+      },
+      "hikmah": "menunjukkan kelompok manusia yang menjadi contoh dalam ayat ini",
+      "role": "none"
+    },
+    {
+      "index": 25,
+      "kata_arab": "ٱلَّذِينَ",
+      "transliterasi": "alladhīna",
+      "jenis_kata": "Isim",
+      "arti": "yang (orang‑orang)",
+      "sharaf": {
+        "akar_kata": "ذ‑ي‑ن (kata sambung relatif)",
+        "makna_dasar": "menunjuk kepada orang yang disebutkan",
+        "wazan_perubahan": "isim dhāri muf‘al"
+      },
+      "nahwu": {
+        "kedudukan": "mubtada' (subjek) bagi fi‘il kadhdhabū",
+        "irab_dan_logika": "marfu‘ dhammah karena berfungsi sebagai mubtada'"
+      },
+      "hikmah": "menandai kelompok orang yang menolak ayat‑ayat Allah",
+      "role": "none"
+    },
+    {
+      "index": 26,
+      "kata_arab": "كَذَّبُوا۟",
+      "transliterasi": "kadhdhabū",
+      "jenis_kata": "Fi‘il",
+      "arti": "menolak, mendustakan",
+      "sharaf": {
+        "akar_kata": "ك‑ذ‑ب",
+        "makna_dasar": "menyatakan tidak benar",
+        "wazan_perubahan": "fa‘ala (mazi) tiga‑huruf mazīd"
+      },
+      "nahwu": {
+        "kedudukan": "khabar (predikat) untuk mubtada' alladhīna",
+        "irab_dan_logika": "marfu‘ dhammah karena fi‘il madi"
+      },
+      "hikmah": "menegaskan tindakan penolakan mereka terhadap tanda‑tanda Allah",
+      "role": "none"
+    },
+    {
+      "index": 27,
+      "kata_arab": "بِـَٔايَٰتِنَا",
+      "transliterasi": "bi‑āyātinā",
+      "jenis_kata": "Huruf jar + Isim",
+      "arti": "dengan ayat‑ayat kami",
+      "sharaf": {
+        "akar_kata": "آ‑ي‑ت",
+        "makna_dasar": "tanda, mukjizat",
+        "wazan_perubahan": "isim jamak (āyāt)"
+      },
+      "nahwu": {
+        "kedudukan": "majrur (objek jar) pada fi‘il kadhdhabū",
+        "irab_dan_logika": "kasra pada alif akhir menandakan majrur setelah huruf bi"
+      },
+      "hikmah": "menyiratkan bahwa penolakan itu terjadi atas dasar ayat‑ayat Allah",
+      "role": "none"
+    },
+    {
+      "index": 28,
+      "kata_arab": "ۚ",
+      "transliterasi": "—",
+      "jenis_kata": "Huruf tanda waqf",
+      "arti": "tanda berhenti",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "simbol waqf, tidak berirab",
+        "irab_dan_logika": "menandakan jeda dalam bacaan"
+      },
+      "hikmah": "memberi jeda untuk merenungkan makna sebelumnya",
+      "role": "none"
+    },
+    {
+      "index": 29,
+      "kata_arab": "فَٱقْصُصِ",
+      "transliterasi": "fa‑aqṣusi",
+      "jenis_kata": "Fi‘il amr",
+      "arti": "maka ceritakanlah",
+      "sharaf": {
+        "akar_kata": "ق‑ص‑ص",
+        "makna_dasar": "menyampaikan kisah, mengisahkan",
+        "wazan_perubahan": "fa‘ala (amr) tiga‑huruf mazīd"
+      },
+      "nahwu": {
+        "kedudukan": "fi‘il amr dengan huruf fa sebagai huruf ‘ataf",
+        "irab_dan_logika": "kasra pada akhir kata menandakan mudhari‘ ma‘ruf (2 mdh)"
+      },
+      "hikmah": "perintah Allah agar Nabi menyampaikan kisah‑kisah agar orang berfikir dan mengambil pelajaran",
+      "role": "none"
+    },
+    {
+      "index": 30,
+      "kata_arab": "ٱلْقَصَصَ",
+      "transliterasi": "al‑qaṣaṣa",
+      "jenis_kata": "Isim (kata benda)",
+      "arti": "cerita‑cerita, kisah‑kisah",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    }
+  ]
+}

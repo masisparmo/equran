@@ -1,0 +1,35 @@
+name: Sinkronisasi Data GAS ke GitHub JSON
+
+on:
+  schedule:
+    - cron: '0 17 * * *' # Menjalankan otomatis setiap jam 12 malam (WIB / UTC+7)
+  workflow_dispatch: # Memungkinkan jalankan manual via GitHub UI
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install Dependencies
+        run: |
+          pip install requests
+
+      - name: Jalankan Skrip Sinkronisasi
+        run: python sync_gas_to_github.py
+
+      - name: Commit & Push Perubahan
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action Bot"
+          git add equran-data/
+          git commit -m "auto: sinkronisasi data dari Google Sheets [$(date +'%Y-%m-%d %H:%M')]" || echo "Tidak ada perubahan data."
+          git push

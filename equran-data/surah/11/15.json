@@ -1,0 +1,258 @@
+{
+  "surah": 11,
+  "ayah": 15,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "مَن",
+      "transliterasi": "man",
+      "jenis_kata": "Isim",
+      "arti": "siapa",
+      "sharaf": {
+        "akar_kata": "م-ن",
+        "makna_dasar": "orang yang",
+        "wazan_perubahan": "isim maʿūl"
+      },
+      "nahwu": {
+        "kedudukan": "اسم موصول مبني على السكون في محل رفع مبتدأ",
+        "irab_dan_logika": "رفع لأنه مبتدأ"
+      },
+      "hikmah": "Menunjukkan subjek yang tidak spesifik, menekankan bahwa siapa saja yang memiliki keinginan tersebut akan mendapat balasan.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "كَانَ",
+      "transliterasi": "kaana",
+      "jenis_kata": "Fi'il",
+      "arti": "adalah",
+      "sharaf": {
+        "akar_kata": "ك-و-ن",
+        "makna_dasar": "ada, menjadi",
+        "wazan_perubahan": "فعل ماضٍ ثلاثي مجرد"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ناقص (كان) يرفع المبتدأ ويجزم الخبر",
+        "irab_dan_logika": "رفع لأنه فعل ماضٍ"
+      },
+      "hikmah": "Berfungsi sebagai فعل ناسخ yang menegaskan keadaan subjek (من) pada masa lampau, menyiapkan kalimat untuk predikat selanjutnya.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "يُرِيدُ",
+      "transliterasi": "yurīdu",
+      "jenis_kata": "Fi'il",
+      "arti": "ingin",
+      "sharaf": {
+        "akar_kata": "ر-و-د",
+        "makna_dasar": "hasrat, keinginan",
+        "wazan_perubahan": "فعل مضارع مرفوع"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع منصوب (مستتر به أن) بعد كان",
+        "irab_dan_logika": "منصوب بالفتحة لأنه فعل مضارع منصوب بـ(أن) المستترة"
+      },
+      "hikmah": "Menunjukkan keinginan aktif subjek; setelah كان, keinginan ini menjadi kondisi yang harus dipenuhi.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "ٱلْحَيَوٰةَ",
+      "transliterasi": "al-ḥayāh",
+      "jenis_kata": "Isim",
+      "arti": "kehidupan",
+      "sharaf": {
+        "akar_kata": "ح-ي-ي",
+        "makna_dasar": "hidup",
+        "wazan_perubahan": "اسم مؤنث"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به أول للفعل يُرِيدُ",
+        "irab_dan_logika": "منصوب بالفتحة لأنه مفعول به"
+      },
+      "hikmah": "Objek pertama yang diinginkan; menegaskan bahwa yang dimaksud adalah kehidupan duniawi secara umum.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "ٱلدُّنْيَا",
+      "transliterasi": "ad-dunyā",
+      "jenis_kata": "Isim",
+      "arti": "dunia",
+      "sharaf": {
+        "akar_kata": "د-ن-ي",
+        "makna_dasar": "dunia, kehidupan duniawi",
+        "wazan_perubahan": "اسم مؤنث"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به ثانٍ للفعل يُرِيدُ (مضاف إلى الحَيَوٰةَ)",
+        "irab_dan_logika": "منصوب بالفتحة لأنه مفعول به مركب"
+      },
+      "hikmah": "Menjelaskan bahwa keinginan itu mencakup seluruh aspek kehidupan dunia, bukan sekadar eksistensi fisik.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "وَزِينَتَهَا",
+      "transliterasi": "wa‑zīnatuhā",
+      "jenis_kata": "Huruf + Isim",
+      "arti": "dan perhiasannya",
+      "sharaf": {
+        "akar_kata": "ز-و-ن",
+        "makna_dasar": "hiasan, keindahan",
+        "wazan_perubahan": "اسم مؤنث"
+      },
+      "nahwu": {
+        "kedudukan": "واو عطف + مفعول به ثالث للفعل يُرِيدُ",
+        "irab_dan_logika": "الواو حرف عطف مبني على الفتح، وزينتها منصوبة بالفتحة لأنها مفعول به"
+      },
+      "hikmah": "Menambahkan dimensi estetika pada keinginan duniawi, menegaskan bahwa tidak hanya materi tetapi juga keindahan menjadi target manusia.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "نُفِّقْ",
+      "transliterasi": "nuffiq",
+      "jenis_kata": "Fi'il",
+      "arti": "Kami berikan / Kami menghabiskan",
+      "sharaf": {
+        "akar_kata": "ف-ق-ق",
+        "makna_dasar": "menghabiskan, memberi",
+        "wazan_perubahan": "فَعَلَ (bentuk I) dengan prefiks نُ untuk bentuk 1‑person plural"
+      },
+      "nahwu": {
+        "kedudukan": "Kata kerja **imperatif/jussif** yang berfungsi sebagai predikat utama ayat",
+        "irab_dan_logika": "Berharakat **damma** pada huruf pertama (نُ) menandakan **marfu'** (madlūl) karena merupakan bentuk **madhi** (kata kerja yang menunjukkan tindakan Allah), diikuti sukun pada huruf terakhir menandakan **sukun** karena kata kerja ini berada dalam **jussif** (perintah/permintaan) yang mengakhiri ayat."
+      },
+      "hikmah": "Allah berjanji akan **menyempurnakan balasan** bagi orang yang menginginkan kehidupan dunia, menegaskan keadilan dan kepastian pahala di dunia.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "إِلَيْهِمْ",
+      "transliterasi": "ilayhim",
+      "jenis_kata": "Huruf",
+      "arti": "kepada mereka",
+      "sharaf": {
+        "akar_kata": "إ-ل-ى",
+        "makna_dasar": "menuju, mengarah ke",
+        "wazan_perubahan": "preposisi standar"
+      },
+      "nahwu": {
+        "kedudukan": "Preposisi yang **menghubungkan** kata kerja *نُفِّقْ* dengan objek *أَعْمَٰلَهُمْ*",
+        "irab_dan_logika": "Berharakat **kasra** pada huruf terakhir (هِمْ) menandakan **jar** (kasrah) karena merupakan **majrur** (tergantung) pada huruf *إِلَى*."
+      },
+      "hikmah": "Menunjukkan arah pemberian balasan **kepada** mereka, menegaskan bahwa balasan itu ditujukan khusus kepada orang‑orang tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "أَعْمَٰلَهُمْ",
+      "transliterasi": "a‘malahum",
+      "jenis_kata": "Isim",
+      "arti": "perbuatan mereka",
+      "sharaf": {
+        "akar_kata": "ع-م-ل",
+        "makna_dasar": "bekerja, melakukan amal",
+        "wazan_perubahan": "أَفْعَال (bentuk isim fi‘il) dengan tambahan **alif** sebagai penanda jamak"
+      },
+      "nahwu": {
+        "kedudukan": "Objek **mansoora** dari kata kerja *نُفِّقْ*",
+        "irab_dan_logika": "Berharakat **kasra** pada huruf terakhir (هُمْ) menandakan **jar** (kasrah) karena berfungsi sebagai **majrur** setelah preposisi *إِلَى*."
+      },
+      "hikmah": "Balasan yang diberikan Allah adalah **penuh** dengan hasil perbuatan mereka di dunia, menegaskan keadilan ilahi.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "فِيهَا",
+      "transliterasi": "fiha",
+      "jenis_kata": "Huruf",
+      "arti": "di dalamnya",
+      "sharaf": {
+        "akar_kata": "ف-ي",
+        "makna_dasar": "di, berada dalam",
+        "wazan_perubahan": "preposisi standar"
+      },
+      "nahwu": {
+        "kedudukan": "Keterangan **tempat** yang menjelaskan di mana *أَعْمَٰلَهُمْ* berada",
+        "irab_dan_logika": "Berharakat **kasra** pada huruf terakhir (هَا) menandakan **jar** (kasrah) karena merupakan **majrur** setelah preposisi *فِي*."
+      },
+      "hikmah": "Menegaskan bahwa balasan itu **terletak** di dunia itu sendiri, bukan di alam lain.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "وَهُمْ",
+      "transliterasi": "wahum",
+      "jenis_kata": "Huruf",
+      "arti": "dan mereka",
+      "sharaf": {
+        "akar_kata": "و",
+        "makna_dasar": "menyambung, menambah",
+        "wazan_perubahan": "konjungsi *wa*"
+      },
+      "nahwu": {
+        "kedudukan": "Kata sambung **wa** yang menghubungkan dua klausa: *فِيهَا* dan *فِيهَا* selanjutnya",
+        "irab_dan_logika": "Tidak berharakat karena **huruf** sambung; huruf *و* bersifat **ʿarūḍiyyah** (tidak berubah) dan menghubungkan dua unsur yang sejenis."
+      },
+      "hikmah": "Menunjukkan kesinambungan bahwa **mereka** juga berada dalam keadaan yang sama di dunia.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "فِيهَا",
+      "transliterasi": "fiha",
+      "jenis_kata": "Huruf",
+      "arti": "di dalamnya",
+      "sharaf": {
+        "akar_kata": "ف-ي",
+        "makna_dasar": "di, berada dalam",
+        "wazan_perubahan": "preposisi standar"
+      },
+      "nahwu": {
+        "kedudukan": "Keterangan **tempat** kedua yang melengkapi klausa *وَهُمْ*",
+        "irab_dan_logika": "Berharakat **kasra** pada huruf terakhir (هَا) menandakan **jar** (kasrah) karena merupakan **majrur** setelah preposisi *فِي*."
+      },
+      "hikmah": "Menegaskan bahwa **mereka tidak akan dirugikan** di dunia itu; keduanya berada dalam keadaan yang sama, yaitu aman dan tidak dirugikan.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "لَا",
+      "transliterasi": "lā",
+      "jenis_kata": "Huruf",
+      "arti": "tidak",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf nifi (penafian) yang mendahului fi'il (يُبْخَسُونَ)",
+        "irab_dan_logika": "Tidak ber-i‘rāb, berharakat sukun; berfungsi meniadakan makna kerja fi'il yang mengikutinya"
+      },
+      "hikmah": "Menegaskan penolakan total; dalam ayat ini menegaskan bahwa mereka tidak akan *tidak* dirugikan, melainkan akan mendapat balasan penuh.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "يُبْخَسُونَ",
+      "transliterasi": "yubkhason",
+      "jenis_kata": "Fi'il",
+      "arti": "menyusutkan, mengurangi hak",
+      "sharaf": {
+        "akar_kata": "ب خ س",
+        "makna_dasar": "kurang, menyusut",
+        "wazan_perubahan": "فَعَلَ (bakhasa) → يُبْخَسُونَ (bentuk mudhari‘ majhul)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il mudhari‘ (kata kerja) yang menjadi predikat bagi subjek tak tersurat (mereka)",
+        "irab_dan_logika": "Diberi damma pada alif (يُ) dan nun (نَ) menandakan i‘rāb marfu‘ karena berfungsi sebagai predikat dalam kalimat nominal"
+      },
+      "hikmah": "Allah menjanjikan bahwa orang yang menginginkan dunia akan *diberi* balasan yang lengkap tanpa kekurangan; tidak ada yang akan *dikurangi* atau dirugikan dalam balasannya.",
+      "role": "none"
+    }
+  ]
+}

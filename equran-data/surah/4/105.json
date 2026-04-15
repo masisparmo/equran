@@ -1,0 +1,294 @@
+{
+  "surah": 4,
+  "ayah": 105,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "إِنَّآ",
+      "transliterasi": "Inna",
+      "jenis_kata": "Huruf",
+      "arti": "sesungguhnya",
+      "sharaf": {
+        "akar_kata": "ن",
+        "makna_dasar": "menegaskan",
+        "wazan_perubahan": "bentuk huruf توكيد"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf توكيد yang menguatkan kalimat nominal",
+        "irab_dan_logika": "Tidak berharakat, berfungsi sebagai حرف توكيد; tidak mempengaruhi إعراب kata sesudahnya"
+      },
+      "hikmah": "Menegaskan kebenaran pernyataan selanjutnya, memberi bobot pada ayat",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "أَنزَلْنَآ",
+      "transliterasi": "anzalnā",
+      "jenis_kata": "Fi'il",
+      "arti": "menurunkan",
+      "sharaf": {
+        "akar_kata": "نزل",
+        "makna_dasar": "turun",
+        "wazan_perubahan": "فعل ماضٍ مبني على الفتح"
+      },
+      "nahwu": {
+        "kedudukan": "Verb 3rd person plural, perfect, dengan dhamir kami (نا) sebagai suffix",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فعل ماضٍ"
+      },
+      "hikmah": "Menunjukkan tindakan Allah menurunkan kitab sebagai pemberian yang turun dari langit",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "إِلَيْكَ",
+      "transliterasi": "ilayka",
+      "jenis_kata": "Huruf",
+      "arti": "kepada kamu",
+      "sharaf": {
+        "akar_kata": "ل",
+        "makna_dasar": "arah, tujuan",
+        "wazan_perubahan": "حرف جر"
+      },
+      "nahwu": {
+        "kedudukan": "Bagian dari جار ومجرور yang menjadi keterangan tempat/tujuan",
+        "irab_dan_logika": "مجرور بالكسرة لأنّه حرف جر"
+      },
+      "hikmah": "Menunjukkan arah penurunan kitab kepada Nabi Muhammad SAW",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "ٱلْكِتَٰبَ",
+      "transliterasi": "alkitāb",
+      "jenis_kata": "Isim",
+      "arti": "kitab",
+      "sharaf": {
+        "akar_kata": "ك ت ب",
+        "makna_dasar": "menulis",
+        "wazan_perubahan": "اسم مفعول"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به للفعل أَنزَلْنَا",
+        "irab_dan_logika": "منصوب بالفتحة لأنه مفعول به"
+      },
+      "hikmah": "Kitab yang diturunkan adalah Al‑Qurʾan, sumber hukum dan petunjuk",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "بِٱلْحَقِّ",
+      "transliterasi": "bil-ḥaqqi",
+      "jenis_kata": "Huruf",
+      "arti": "dengan kebenaran",
+      "sharaf": {
+        "akar_kata": "ح ق ق",
+        "makna_dasar": "kebenaran, hak",
+        "wazan_perubahan": "حرف جر"
+      },
+      "nahwu": {
+        "kedudukan": "جار ومجرور يوضح سبب penurunan kitab",
+        "irab_dan_logika": "مجرور بالكسرة لأنّه حرف جر"
+      },
+      "hikmah": "Kitab diturunkan dengan membawa kebenaran mutlak sebagai pedoman",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "لِتَحْكُمَ",
+      "transliterasi": "li-taḥkuma",
+      "jenis_kata": "Huruf",
+      "arti": "agar kamu mengadili",
+      "sharaf": {
+        "akar_kata": "حكم",
+        "makna_dasar": "memutuskan, mengadili",
+        "wazan_perubahan": "لام التعليل + فعل مضارع منصوب"
+      },
+      "nahwu": {
+        "kedudukan": "لام التعليل تُظهر هدف الفعل",
+        "irab_dan_logika": "اللام مبنية على الفتح، والفعل مضارع منصوب لأنه مسبوق بلام التعليل"
+      },
+      "hikmah": "Tujuan penurunan kitab adalah memberi kemampuan kepada Nabi untuk menegakkan keadilan di antara manusia",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "بَيْنَ",
+      "transliterasi": "bayna",
+      "jenis_kata": "Huruf",
+      "arti": "di antara, antara",
+      "sharaf": {
+        "akar_kata": "ب-ي-ن",
+        "makna_dasar": "antara",
+        "wazan_perubahan": "baiyān"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar (preposisi) yang menghubungkan فعل ‘تحكم’ dengan isim ‘النَّاسِ’",
+        "irab_dan_logika": "Berharakat fatha karena huruf jar mengambil kasus nasb"
+      },
+      "hikmah": "*Menunjukkan ruang lingkup keadilan* antara manusia",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "ٱلنَّاسِ",
+      "transliterasi": "an-nāsi",
+      "jenis_kata": "Isim",
+      "arti": "manusia, orang",
+      "sharaf": {
+        "akar_kata": "ن-و-س",
+        "makna_dasar": "orang banyak",
+        "wazan_perubahan": "فَعَال"
+      },
+      "nahwu": {
+        "kedudukan": "Isim majrur (kasrah) setelah huruf jar ‘بَيْنَ’",
+        "irab_dan_logika": "Berharakat kasrah karena berada dalam posisi majrur"
+      },
+      "hikmah": "*Menunjukkan kelompok* manusia yang menjadi objek penilaian Allah",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "بِمَآ",
+      "transliterasi": "bimā",
+      "jenis_kata": "Huruf",
+      "arti": "dengan apa",
+      "sharaf": {
+        "akar_kata": "م-ا",
+        "makna_dasar": "apa (pronoun)",
+        "wazan_perubahan": "b + mā"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar yang menghubungkan فعل ‘تحكم’ dengan objek selanjutnya",
+        "irab_dan_logika": "Mengambil kasus nasb pada mā karena huruf ‘bi’ bersifat jar"
+      },
+      "hikmah": "*Menunjukkan dasar* hukum yang dijadikan pedoman",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "أَرَىٰكَ",
+      "transliterasi": "arāka",
+      "jenis_kata": "Fi'il",
+      "arti": "aku melihatmu",
+      "sharaf": {
+        "akar_kata": "ر-أ-ى",
+        "makna_dasar": "melihat",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il madhi (3rd person) dengan dhamir ‘ka’ sebagai objek",
+        "irab_dan_logika": "Tidak berirab karena fi'il madhi berdiri sendiri; dhamir ‘ka’ berkasrah"
+      },
+      "hikmah": "*Menunjukkan tindakan* melihat sebagai contoh penegakan keadilan",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "ٱللَّهُ",
+      "transliterasi": "Allāhu",
+      "jenis_kata": "Isim",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "أ-ل-ه",
+        "makna_dasar": "Tuhan, dewa yang Maha Esa",
+        "wazan_perubahan": "فَعْل"
+      },
+      "nahwu": {
+        "kedudukan": "Isim marfu‘ (nominatif) sebagai subjek kalimat",
+        "irab_dan_logika": "Berharakat dhammah karena berfungsi sebagai مبتدأ"
+      },
+      "hikmah": "*Menegaskan* bahwa sumber wahyu dan hukum adalah Allah",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Huruf",
+      "arti": "tanda akhir ayat",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca waqf (sukun) yang menandai akhir ayat",
+        "irab_dan_logika": "Tidak berirab, berfungsi sebagai pemisah"
+      },
+      "hikmah": "*Menunjukkan* selesai pembacaan ayat, memberi jeda untuk refleksi",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "وَلَا",
+      "transliterasi": "wa-lā",
+      "jenis_kata": "Huruf",
+      "arti": "**dan tidak**",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "menyatakan larangan",
+        "wazan_perubahan": "gabungan huruf عطف (و) + نهي (لا)"
+      },
+      "nahwu": {
+        "kedudukan": "huruf عطف + نهي, menghubungkan kalimat sebelumnya dengan larangan selanjutnya",
+        "irab_dan_logika": "**لا** مبنية على السكون، والواو حرف عطف لا محل له من الإعراب"
+      },
+      "hikmah": "**Larangan** yang dihubungkan dengan perintah sebelumnya, menegaskan agar tidak menjadi penantang bagi orang-orang yang mengkhianati.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "تَكُن",
+      "transliterasi": "takun",
+      "jenis_kata": "Fi'il",
+      "arti": "**menjadi**",
+      "sharaf": {
+        "akar_kata": "ك-ن-و",
+        "makna_dasar": "keberadaan, menjadi",
+        "wazan_perubahan": "فعل مضارع مرفوع بالضمة المقدرة"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مجزوم بحرف النهي **لا**",
+        "irab_dan_logika": "مرفوع بالضمة المقدرة لأن الفعل مضارع مجزوم بحرف النهي لا"
+      },
+      "hikmah": "Menegaskan **ketidakbolehan** menjadi penantang bagi orang-orang yang mengkhianati.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "لِّلْخَآئِنِينَ",
+      "transliterasi": "lilkhā'inīna",
+      "jenis_kata": "Isim",
+      "arti": "**bagi orang‑orang khianat**",
+      "sharaf": {
+        "akar_kata": "خ-ا-ن",
+        "makna_dasar": "pengkhianat",
+        "wazan_perubahan": "اسم مجرور بحرف الجر لِ + ال"
+      },
+      "nahwu": {
+        "kedudukan": "اسم مجرور بحرف الجر **لِ**",
+        "irab_dan_logika": "مجرور بالكسرة لأنه تابع لحرف الجر لِ"
+      },
+      "hikmah": "Menunjukkan bahwa larangan tersebut **khusus** bagi mereka yang berkhianat, bukan bagi orang yang tidak bersalah.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "خَصِيمًۭا",
+      "transliterasi": "khaṣīman",
+      "jenis_kata": "Isim",
+      "arti": "**seorang penentang**",
+      "sharaf": {
+        "akar_kata": "خ-ص-م",
+        "makna_dasar": "yang menentang, lawan",
+        "wazan_perubahan": "اسم فاعل من الفعل خصم"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به منصوب",
+        "irab_dan_logika": "منصوب بالفتحة لأنه مفعول به للفعل لا تكون"
+      },
+      "hikmah": "Menegaskan bahwa tidak boleh menjadi **penentang** (khāṣīm) bagi orang‑orang yang mengkhianati, melainkan menegakkan keadilan.",
+      "role": "none"
+    }
+  ]
+}

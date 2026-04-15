@@ -1,0 +1,618 @@
+{
+  "surah": 3,
+  "ayah": 73,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "وَلَا",
+      "transliterasi": "wa-lā",
+      "jenis_kata": "Huruf",
+      "arti": "dan janganlah",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "Huruf 'و' (wawu) berfungsi sebagai penghubung (athaf) yang berarti 'dan'. Huruf 'لَا' (laa) di sini adalah 'laa nahiyah' yang berfungsi untuk melarang.",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf athaf dan huruf nahiyah",
+        "irab_dan_logika": "و' adalah huruf mabni (tetap) di atas fathah, tidak memiliki kedudukan i'rab. 'لَا' adalah huruf jazm (penjasm) yang berfungsi menjazmkan fi'il mudhari' setelahnya, juga mabni sukun."
+      },
+      "hikmah": "Gabungan 'dan janganlah' menunjukkan adanya larangan atau penekanan pada suatu tindakan yang tidak boleh dilakukan, sekaligus menghubungkan dengan konteks sebelumnya.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "تُؤْمِنُوٓا۟",
+      "transliterasi": "tu'minū",
+      "jenis_kata": "Fi'il",
+      "arti": "kalian percaya/beriman",
+      "sharaf": {
+        "akar_kata": "أ م ن (a-m-n)",
+        "makna_dasar": "Aman, percaya, beriman.",
+        "wazan_perubahan": "Fi'il Mudhari' dari Bab IV (أَفْعَلَ - يُفْعِلُ), bentuk jamak mudzakkar mukhatab (kalian laki-laki). Asalnya تُؤْمِنُونَ, namun huruf nun dibuang karena dijazmkan oleh 'لَا الناهية'."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Majzum",
+        "irab_dan_logika": "Majzum karena didahului oleh 'لَا الناهية' (huruf jazm). Tanda jazmnya adalah membuang huruf nun (حذف النون) karena termasuk Af'alul Khamsah (lima fi'il). Wawu al-jama'ah adalah fa'il (subjek) yang mabni sukun pada kedudukan rafa'."
+      },
+      "hikmah": "Larangan keras untuk tidak memberikan kepercayaan atau keimanan kecuali kepada pihak yang disebutkan setelahnya. Ini menunjukkan pentingnya selektivitas dalam memberikan kepercayaan, terutama dalam hal agama.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "إِلَّا",
+      "transliterasi": "illā",
+      "jenis_kata": "Huruf",
+      "arti": "kecuali",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "Huruf istitsna' (pengecualian).",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf istitsna' (pengecualian)",
+        "irab_dan_logika": "Mabni sukun, tidak memiliki kedudukan i'rab. Berfungsi untuk mengecualikan sesuatu dari hukum sebelumnya. Dalam konteks ini, istitsna' mufarragh karena ada nafi' (peniadaan) sebelumnya."
+      },
+      "hikmah": "Menunjukkan adanya batasan atau pengecualian yang sangat spesifik terhadap larangan sebelumnya. Ini mempersempit ruang lingkup tindakan yang dilarang, mengarahkan pada satu-satunya kondisi yang diperbolehkan.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "لِمَن",
+      "transliterasi": "liman",
+      "jenis_kata": "Huruf + Isim Maushul",
+      "arti": "bagi siapa saja / kepada siapa saja",
+      "sharaf": {
+        "akar_kata": "N/A (untuk 'لِ'), N/A (untuk 'مَن' sebagai isim maushul)",
+        "makna_dasar": "لِ' adalah huruf jar (preposisi) yang menunjukkan kepemilikan atau tujuan. 'مَن' adalah isim maushul (kata sambung) yang bermakna 'siapa saja' atau 'orang yang'.",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Jar Majrur",
+        "irab_dan_logika": "لِ' adalah huruf jar, mabni kasrah, tidak memiliki kedudukan i'rab. 'مَن' adalah isim maushul, mabni sukun, pada kedudukan jar (majrur) karena didahului oleh huruf jar 'لِ'. Jar majrur ini berkaitan dengan fi'il 'تُؤْمِنُوا'."
+      },
+      "hikmah": "Menentukan target atau penerima dari tindakan 'percaya'. Ini mengarahkan kepercayaan hanya kepada individu atau kelompok yang memiliki karakteristik tertentu, yaitu yang disebutkan setelahnya.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "تَبِعَ",
+      "transliterasi": "tabi'a",
+      "jenis_kata": "Fi'il",
+      "arti": "ia mengikuti",
+      "sharaf": {
+        "akar_kata": "ت ب ع (t-b-'a)",
+        "makna_dasar": "Mengikuti, menuruti, mengekor.",
+        "wazan_perubahan": "Fi'il Madhi, bentuk tunggal mudzakkar ghaib (dia laki-laki). Wazan فَعِلَ."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Madhi",
+        "irab_dan_logika": "Fi'il Madhi mabni fathah. Fa'ilnya adalah dhamir mustatir (tersembunyi) تقديره هو (dia), kembali kepada 'مَن'. Jumlah fi'liyah (تَبِعَ دِينَكُمْ) adalah shilah maushul (kalimat penghubung) bagi 'مَن', tidak memiliki kedudukan i'rab."
+      },
+      "hikmah": "Menjelaskan kriteria atau sifat dari 'siapa saja' yang boleh dipercaya, yaitu mereka yang 'mengikuti'. Ini menekankan pentingnya keselarasan dalam keyakinan atau prinsip sebagai dasar kepercayaan.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "دِينَكُمْ",
+      "transliterasi": "dīnakum",
+      "jenis_kata": "Isim",
+      "arti": "agama kalian",
+      "sharaf": {
+        "akar_kata": "د ي ن (d-y-n)",
+        "makna_dasar": "Agama, keyakinan, hutang, balasan.",
+        "wazan_perubahan": "Isim tunggal (مفرد) yang diidhafahkan (disandarkan) kepada dhamir jamak mukhatab (كُم)."
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul Bih (objek) dan Mudhaf",
+        "irab_dan_logika": "Maf'ul bih dari fi'il 'تَبِعَ', manshub (berharakat fathah). Tanda nashabnya adalah fathah zhahirah pada huruf nun. 'كُم' adalah dhamir muttashil (kata ganti sambung), mabni sukun, pada kedudukan jar (majrur) sebagai mudhaf ilaih."
+      },
+      "hikmah": "Mengidentifikasi secara spesifik apa yang harus diikuti sebagai dasar kepercayaan, yaitu 'agama kalian'. Ini menegaskan bahwa kepercayaan hanya boleh diberikan kepada mereka yang memiliki kesamaan dalam keyakinan agama, menunjukkan eksklusivitas dalam konteks keimanan.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "قُلْ",
+      "transliterasi": "Qul",
+      "jenis_kata": "Fi'il",
+      "arti": "Katakanlah!",
+      "sharaf": {
+        "akar_kata": "ق و ل (Qaf-Waw-Lam)",
+        "makna_dasar": "Berbicara, mengatakan",
+        "wazan_perubahan": "Fi'il Amr (kata kerja perintah) dari wazan فَعَلَ - يَفْعُلُ (fa'ala - yaf'ulu). Asalnya قَوْلٌ (qaulun) -> قَالَ (qaala) -> يَقُولُ (yaqulu) -> قُلْ (qul). Huruf wawu dihilangkan karena kaidah fi'il ajwaf."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Amr",
+        "irab_dan_logika": "Fi'il Amr mabni sukun (berharakat mati) karena shahih akhir dan tidak bersambung dengan dhamir apapun. Pelaku (fa'il) adalah dhamir mustatir (tersembunyi) تقديره أنت (engkau), merujuk kepada Nabi Muhammad SAW."
+      },
+      "hikmah": "Perintah tegas dari Allah untuk menyampaikan kebenaran, menunjukkan pentingnya dakwah dan penyampaian risalah.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "إِنَّ",
+      "transliterasi": "Inna",
+      "jenis_kata": "Huruf",
+      "arti": "Sesungguhnya, bahwasanya",
+      "sharaf": {
+        "akar_kata": "Tidak memiliki akar kata dalam sharaf karena ini adalah huruf.",
+        "makna_dasar": "Penegas, penguat",
+        "wazan_perubahan": "Tidak berlaku untuk huruf."
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Taukid wa Nashb (huruf penegas dan penashab)",
+        "irab_dan_logika": "Huruf mabni fathah (berharakat fathah) yang berfungsi menashabkan isim setelahnya (menjadikannya manshub) dan merafa'kan khabar setelahnya (menjadikannya marfu'). Dalam konteks ini, ia menashabkan ٱلْهُدَىٰ sebagai isimnya dan merafa'kan هُدَى ٱللَّهِ sebagai khabarnya."
+      },
+      "hikmah": "Menekankan kebenaran mutlak dari pernyataan yang mengikutinya, yaitu bahwa petunjuk sejati hanyalah dari Allah.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "ٱلْهُدَىٰ",
+      "transliterasi": "Al-Hudā",
+      "jenis_kata": "Isim",
+      "arti": "Petunjuk, bimbingan",
+      "sharaf": {
+        "akar_kata": "ه د ي (Ha-Dal-Ya)",
+        "makna_dasar": "Membimbing, menunjuki jalan yang benar",
+        "wazan_perubahan": "Isim Masdar (kata benda dasar) dari fi'il هَدَى (hadā). Bentuknya adalah Isim Maqshur (berakhir dengan alif layyinah)."
+      },
+      "nahwu": {
+        "kedudukan": "Isim إِنَّ (Isim Inna)",
+        "irab_dan_logika": "Manshub (berharakat fathah) secara takdiri (tersembunyi) karena merupakan Isim Maqshur. Tanda nashabnya adalah fathah muqaddarah (fathah yang diperkirakan) di atas alif."
+      },
+      "hikmah": "Menunjuk pada petunjuk ilahi yang komprehensif, mencakup syariat, akidah, dan akhlak, yang merupakan satu-satunya jalan kebenaran.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "هُدَى",
+      "transliterasi": "Hudā",
+      "jenis_kata": "Isim",
+      "arti": "Petunjuk, bimbingan",
+      "sharaf": {
+        "akar_kata": "ه د ي (Ha-Dal-Ya)",
+        "makna_dasar": "Membimbing, menunjuki jalan yang benar",
+        "wazan_perubahan": "Isim Masdar (kata benda dasar) dari fi'il هَدَى (hadā). Sama seperti ٱلْهُدَىٰ tetapi tanpa alif lam dan dalam konteks idhafah."
+      },
+      "nahwu": {
+        "kedudukan": "Khabar إِنَّ (Khabar Inna) dan Mudhaf (kata yang disandarkan)",
+        "irab_dan_logika": "Marfu' (berharakat dhammah) secara takdiri (tersembunyi) karena merupakan Isim Maqshur. Tanda rafa'nya adalah dhammah muqaddarah (dhammah yang diperkirakan) di atas alif. Ia juga berkedudukan sebagai mudhaf kepada ٱللَّهِ."
+      },
+      "hikmah": "Pengulangan kata 'petunjuk' ini menegaskan kembali bahwa sumber petunjuk tersebut adalah tunggal dan tidak ada yang lain, yaitu Allah SWT.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "ٱللَّهِ",
+      "transliterasi": "Allāhi",
+      "jenis_kata": "Isim",
+      "arti": "Allah (Nama Tuhan Yang Maha Esa)",
+      "sharaf": {
+        "akar_kata": "ا ل ه (Alif-Lam-Ha) - meskipun nama Allah sering dianggap tidak memiliki akar kata sharaf dalam arti konvensional, namun secara etimologi terkait dengan إله (ilah).",
+        "makna_dasar": "Yang disembah, Tuhan",
+        "wazan_perubahan": "Tidak berlaku dalam konteks nama diri Allah."
+      },
+      "nahwu": {
+        "kedudukan": "Mudhaf Ilaih (kata yang disandari)",
+        "irab_dan_logika": "Majrur (berharakat kasrah) karena berkedudukan sebagai Mudhaf Ilaih dari هُدَى."
+      },
+      "hikmah": "Menegaskan bahwa petunjuk sejati berasal dari Dzat Yang Maha Kuasa dan Maha Bijaksana, yaitu Allah SWT, yang merupakan satu-satunya sumber kebenaran dan bimbingan.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "أَن",
+      "transliterasi": "An",
+      "jenis_kata": "Huruf",
+      "arti": "Bahwa, agar",
+      "sharaf": {
+        "akar_kata": "Tidak memiliki akar kata dalam sharaf.",
+        "makna_dasar": "Penghubung, penjelas",
+        "wazan_perubahan": "Tidak berlaku untuk huruf."
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Nashb (huruf penashab) atau Huruf Mashdariyah (huruf yang mengubah fi'il setelahnya menjadi masdar)",
+        "irab_dan_logika": "Huruf mabni sukun (berharakat mati) yang berfungsi menashabkan fi'il mudhari' setelahnya. Dalam konteks ayat ini, ia diikuti oleh fi'il mudhari' يُؤْتَىٰ (yu'tā) yang kemudian menjadi manshub."
+      },
+      "hikmah": "Berfungsi sebagai penghubung yang menjelaskan atau mengawali klausa baru, seringkali dengan makna 'bahwa' atau 'agar', yang di sini mengawali penolakan terhadap keyakinan bahwa karunia serupa akan diberikan kepada orang lain.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "يُؤْتَىٰٓ",
+      "transliterasi": "yu'tā",
+      "jenis_kata": "Fi'il",
+      "arti": "diberikan, diberi",
+      "sharaf": {
+        "akar_kata": "أَتَى (alif-ta-ya)",
+        "makna_dasar": "datang, memberi, mendatangkan",
+        "wazan_perubahan": "Fi'il Mudhari' Majhul (pasif), wazan 'af'ala (أَفْعَلَ) dari fi'il tsulatsi mazid bihamzah. Asalnya يُؤْتِي (aktif), menjadi يُؤْتَى (pasif)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Majhul Manshub (kata kerja sekarang/akan datang pasif yang dinashabkan).",
+        "irab_dan_logika": "Dinashabkan karena didahului oleh huruf `أَن` (an) yang merupakan huruf nashab. Tanda nashabnya adalah fathah muqaddarah (tersembunyi) di atas alif layyinah (ىٰ) karena ia adalah fi'il mu'tal akhir (berakhir dengan huruf illat)."
+      },
+      "hikmah": "Kata ini menekankan bahwa pemberian atau karunia itu adalah hak prerogatif Allah. Penggunaan bentuk pasif (majhul) 'diberikan' menunjukkan bahwa ada pihak yang memberi (Allah) tanpa menyebutkannya secara langsung, mengisyaratkan keagungan dan kekuasaan-Nya sebagai pemberi.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "أَحَدٌۭ",
+      "transliterasi": "ahadun",
+      "jenis_kata": "Isim",
+      "arti": "seseorang, siapa pun",
+      "sharaf": {
+        "akar_kata": "وَحَدَ (waw-ha-dal)",
+        "makna_dasar": "satu, tunggal",
+        "wazan_perubahan": "Isim nakirah (indefinite noun) yang menunjukkan keumuman."
+      },
+      "nahwu": {
+        "kedudukan": "Na'ibul Fa'il (pengganti subjek) dari fi'il majhul `يُؤْتَىٰٓ`.",
+        "irab_dan_logika": "Marfu' (dirafa'kan) karena kedudukannya sebagai Na'ibul Fa'il. Tanda rafa'nya adalah dhammah tanwin (ٌۭ) yang jelas terlihat."
+      },
+      "hikmah": "Menunjukkan keumuman, bahwa tidak ada *siapa pun* yang akan diberikan karunia yang sama persis dengan yang diberikan kepada umat Islam (khususnya Nabi Muhammad dan para sahabatnya), menegaskan keistimewaan karunia Allah.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "مِّثْلَ",
+      "transliterasi": "mithla",
+      "jenis_kata": "Isim",
+      "arti": "seperti, serupa, semisal",
+      "sharaf": {
+        "akar_kata": "مَثَلَ (mim-tsa-lam)",
+        "makna_dasar": "menyerupai, contoh, perumpamaan",
+        "wazan_perubahan": "Isim mufrad (tunggal), berfungsi sebagai mudhaf (kata yang disandarkan)."
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul Bih (objek) dari fi'il `يُؤْتَىٰٓ`.",
+        "irab_dan_logika": "Manshub (dinashabkan) karena kedudukannya sebagai Maf'ul Bih. Tanda nashabnya adalah fathah (َ) yang jelas terlihat. Ia juga mudhaf, sehingga kata setelahnya (`مَا`) akan menjadi mudhaf ilaih."
+      },
+      "hikmah": "Menekankan perbandingan atau kesamaan. Ayat ini menafikan bahwa akan ada *kesamaan* dalam pemberian karunia Allah kepada selain mereka yang beriman, menunjukkan keunikan dan keistimewaan karunia yang diberikan kepada umat Islam.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "مَآ",
+      "transliterasi": "mā",
+      "jenis_kata": "Isim Maushul",
+      "arti": "apa yang, sesuatu yang",
+      "sharaf": {
+        "akar_kata": "Tidak memiliki akar kata dalam arti sharaf karena ini adalah isim maushul.",
+        "makna_dasar": "Menghubungkan antara dua kalimat atau frasa.",
+        "wazan_perubahan": "Isim maushul ghoiru 'aqil (untuk yang tidak berakal) atau umum."
+      },
+      "nahwu": {
+        "kedudukan": "Mudhaf Ilaih (kata yang disandarkan kepadanya) dari `مِّثْلَ`.",
+        "irab_dan_logika": "Majrur (dijerkan) karena kedudukannya sebagai Mudhaf Ilaih. Namun, `مَآ` adalah isim mabni (tidak berubah harakat akhirnya), sehingga ia berada pada posisi jar (mahallu jar)."
+      },
+      "hikmah": "Berfungsi sebagai penghubung, merujuk pada 'apa yang' telah diberikan kepada umat Islam. Ini mengacu pada karunia-karunia khusus seperti kenabian, Al-Qur'an, dan petunjuk ilahi.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "أُوتِيتُمْ",
+      "transliterasi": "ūtītum",
+      "jenis_kata": "Fi'il",
+      "arti": "kalian telah diberi, telah diberikan kepada kalian",
+      "sharaf": {
+        "akar_kata": "أَتَى (alif-ta-ya)",
+        "makna_dasar": "datang, memberi, mendatangkan",
+        "wazan_perubahan": "Fi'il Madhi Majhul (pasif lampau), wazan 'af'ala (أَفْعَلَ) dari fi'il tsulatsi mazid bihamzah. Bentuk asalnya آتَى (aktif), menjadi أُوتِيَ (pasif). Di sini, dijamakkan dan ditujukan kepada mukhatab (orang kedua jamak)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Madhi Majhul (kata kerja lampau pasif).",
+        "irab_dan_logika": "Fi'il Madhi adalah mabni (tetap). Di sini mabni 'ala sukun karena bersambung dengan ta' fa'il (tum). `تُمْ` (tum) adalah dhamir muttashil (kata ganti bersambung) yang berkedudukan sebagai Na'ibul Fa'il (pengganti subjek) dalam posisi rafa' (mahallu rafa')."
+      },
+      "hikmah": "Menegaskan bahwa karunia yang dimaksud adalah sesuatu yang *telah* Allah berikan secara spesifik kepada umat Islam. Penggunaan bentuk pasif kembali menekankan bahwa Allah adalah pemberi karunia tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "أَوْ",
+      "transliterasi": "aw",
+      "jenis_kata": "Huruf",
+      "arti": "atau",
+      "sharaf": {
+        "akar_kata": "Tidak memiliki akar kata karena ini adalah huruf.",
+        "makna_dasar": "Pilihan, keraguan, penjelasan, atau pembagian.",
+        "wazan_perubahan": "Huruf 'athaf (penghubung)."
+      },
+      "nahwu": {
+        "kedudukan": "Huruf 'Athaf (kata penghubung).",
+        "irab_dan_logika": "Huruf adalah mabni (tidak berubah harakatnya) dan tidak memiliki kedudukan i'rab. Ia berfungsi menghubungkan kalimat sebelumnya (`أَن يُؤْتَىٰٓ أَحَدٌۭ مِّثْلَ مَآ أُوتِيتُمْ`) dengan kalimat sesudahnya (`يُحَآجُّوكُمْ عِندَ رَبِّكُمْ`). Dalam konteks ini, ia menunjukkan pilihan atau kemungkinan lain yang juga dinafikan."
+      },
+      "hikmah": "Menghubungkan dua kemungkinan yang sama-sama dinafikan oleh ayat. Ini berarti, bukan hanya tidak akan diberikan karunia yang sama, tetapi juga tidak akan ada yang bisa mengalahkan argumen atau hujjah umat Islam di hadapan Allah. Ini menegaskan kebenaran dan kekuatan argumen Islam.",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "يُحَآجُّوكُمْ",
+      "transliterasi": "Yuḥājjūkum",
+      "jenis_kata": "Fi'il",
+      "arti": "Mereka akan mendebatmu/membantahmu",
+      "sharaf": {
+        "akar_kata": "ح ج ج (H-J-J)",
+        "makna_dasar": "Debat, argumen, bantahan. Akar kata ini sering terkait dengan perdebatan atau upaya untuk menegakkan suatu argumen.",
+        "wazan_perubahan": "Fi'il Mudhari' (kata kerja sekarang/mendatang) dari wazan مُفَاعَلَة (mufā'alah - Form III), yang menunjukkan interaksi atau usaha bersama. Bentuk aslinya adalah يُحَاجُّونَ, namun nun dihilangkan karena dinasabkan."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' mansub (kata kerja sekarang/mendatang yang dinasabkan).",
+        "irab_dan_logika": "Mansub dengan tanda حذف النون (penghapusan huruf nun) karena didahului oleh 'an' yang tersirat (atau sebagai ma'thuf kepada 'an' sebelumnya). Wawu (و) adalah fa'il (subjek) yang kembali kepada 'mereka' (orang-orang yang tidak mengikuti agamamu). كُمْ (kum) adalah dhamir muttasil (kata ganti terhubung) yang berfungsi sebagai maf'ul bih (objek)."
+      },
+      "hikmah": "Kata ini memperingatkan umat Islam tentang potensi perdebatan atau bantahan dari pihak lain mengenai kebenaran ajaran Islam. Ini adalah pengingat untuk tidak merasa rendah diri atau khawatir akan argumentasi lawan, karena kebenaran hakiki ada pada petunjuk Allah.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "عِندَ",
+      "transliterasi": "Inda",
+      "jenis_kata": "Isim",
+      "arti": "Di sisi, di dekat, pada",
+      "sharaf": {
+        "akar_kata": "ع ن د ('A-N-D)",
+        "makna_dasar": "Kehadiran, kedekatan, di samping. Menunjukkan lokasi atau posisi relatif.",
+        "wazan_perubahan": "Isim zharaf makan (kata keterangan tempat)."
+      },
+      "nahwu": {
+        "kedudukan": "Zharaf makan (kata keterangan tempat) mansub.",
+        "irab_dan_logika": "Mansub dengan fathah karena merupakan zharaf makan. Ia berfungsi sebagai mudhaf (yang disandarkan), dan kata setelahnya (رَبِّكُمْ) adalah mudhaf ilaih (yang disandari)."
+      },
+      "hikmah": "Menunjukkan lokasi atau konteks perdebatan, yaitu 'di sisi Tuhanmu'. Ini menggarisbawahi bahwa segala perdebatan dan argumen pada akhirnya akan diadili di hadapan Allah, menekankan pentingnya kebenaran hakiki di mata-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "رَبِّكُمْ",
+      "transliterasi": "Rabbikum",
+      "jenis_kata": "Isim",
+      "arti": "Tuhanmu",
+      "sharaf": {
+        "akar_kata": "ر ب ب (R-B-B)",
+        "makna_dasar": "Memelihara, mengasuh, memiliki, menguasai, Tuhan. Menunjukkan hubungan kepemilikan dan pemeliharaan.",
+        "wazan_perubahan": "Isim (kata benda), bentuk mudhaf (yang disandarkan)."
+      },
+      "nahwu": {
+        "kedudukan": "Mudhaf ilaih (yang disandari).",
+        "irab_dan_logika": "Majrur dengan kasrah karena merupakan mudhaf ilaih dari 'Inda (عِندَ). كُمْ (kum) adalah dhamir muttasil dalam posisi mudhaf ilaih juga (disandarkan kepada Rabb)."
+      },
+      "hikmah": "Menegaskan bahwa Allah adalah Tuhan yang Maha Mengatur dan Maha Mengetahui segala sesuatu, termasuk kebenaran dari setiap argumen. Ini mengingatkan bahwa pertanggungjawaban akhir adalah kepada Allah, bukan kepada manusia, sehingga kebenaran harus dipegang teguh.",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "ۗ",
+      "transliterasi": "(Tanda Waqaf)",
+      "jenis_kata": "Huruf",
+      "arti": "Tanda waqaf lazim (berhenti wajib)",
+      "sharaf": {
+        "akar_kata": "Tidak ada",
+        "makna_dasar": "Tidak ada",
+        "wazan_perubahan": "Tidak ada"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf.",
+        "irab_dan_logika": "Tidak memiliki i'rab. Fungsinya adalah untuk menunjukkan tempat berhenti yang dianjurkan atau wajib dalam bacaan Al-Qur'an, menandakan selesainya satu gagasan atau kalimat."
+      },
+      "hikmah": "Tanda ini menandakan akhir dari satu gagasan atau kalimat, memberikan jeda bagi pembaca untuk memahami makna yang telah disampaikan sebelum melanjutkan ke bagian berikutnya. Dalam konteks ini, ia mengakhiri peringatan tentang perdebatan dan memulai pernyataan baru.",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "قُلْ",
+      "transliterasi": "Qul",
+      "jenis_kata": "Fi'il",
+      "arti": "Katakanlah!",
+      "sharaf": {
+        "akar_kata": "ق و ل (Q-W-L)",
+        "makna_dasar": "Berkata, berbicara, mengatakan. Menunjukkan tindakan verbal.",
+        "wazan_perubahan": "Fi'il Amr (kata kerja perintah), wazan اِفْعَلْ (if'al) dari fi'il ajwaf wawi (huruf tengah wawu). Asalnya قُوْلْ (qūl), lalu wawu dihilangkan karena sukun bertemu sukun."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Amr mabni (kata kerja perintah yang tetap).",
+        "irab_dan_logika": "Mabni 'ala as-sukun (tetap dengan sukun). Fa'il (subjek) adalah dhamir mustatir (tersembunyi) تقديره أنت (taqdiruhu anta - engkau), merujuk kepada Nabi Muhammad SAW."
+      },
+      "hikmah": "Ini adalah perintah langsung dari Allah kepada Nabi Muhammad SAW (dan secara tidak langsung kepada umatnya) untuk menyatakan kebenaran dengan tegas. Ini menunjukkan pentingnya proklamasi kebenaran tanpa keraguan, sebagai respons terhadap keraguan atau perdebatan sebelumnya.",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "إِنَّ",
+      "transliterasi": "Inna",
+      "jenis_kata": "Huruf",
+      "arti": "Sesungguhnya, sungguh",
+      "sharaf": {
+        "akar_kata": "Tidak ada",
+        "makna_dasar": "Penekanan, penguatan. Digunakan untuk menegaskan suatu pernyataan.",
+        "wazan_perubahan": "Tidak ada"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf taukid wa nasb (huruf penguat dan penashab).",
+        "irab_dan_logika": "Huruf mabni 'ala al-fath (tetap dengan fathah), tidak memiliki kedudukan i'rab. Ia menashabkan isim setelahnya (menjadi Isim Inna) dan merafa'kan khabar setelahnya (menjadi Khabar Inna)."
+      },
+      "hikmah": "Penggunaan 'Inna' berfungsi untuk memberikan penekanan kuat pada pernyataan yang akan disampaikan setelahnya, menegaskan kebenaran mutlak dari apa yang diucapkan. Ini menandakan bahwa informasi yang mengikuti adalah sebuah fakta yang tidak dapat dibantah dan sangat penting untuk diperhatikan.",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "ٱلْفَضْلَ",
+      "transliterasi": "al-Faḍl",
+      "jenis_kata": "Isim",
+      "arti": "Karunia, keutamaan, anugerah, kelebihan",
+      "sharaf": {
+        "akar_kata": "ف ض ل (Fāḍ-ḍād-Lām)",
+        "makna_dasar": "Kelebihan, tambahan, anugerah yang diberikan tanpa imbalan.",
+        "wazan_perubahan": "Isim Masdar (kata benda dasar) dari fi'il فضل (faḍala) - يفضل (yafaḍulu). Berbentuk Isim Ma'rifah (definite noun) dengan awalan Alif Lam (ال)."
+      },
+      "nahwu": {
+        "kedudukan": "Isim Inna (اسم إنّ)",
+        "irab_dan_logika": "Manshub (berharakat fathah) karena menjadi Isim Inna. Inna (إنّ) adalah huruf nashab yang menashabkan mubtada' dan merafa'kan khabar."
+      },
+      "hikmah": "Kata 'al-Faḍl' di sini merujuk pada segala bentuk anugerah, kebaikan, dan keutamaan yang mutlak berasal dari Allah SWT. Ini mencakup petunjuk, kenabian, rezeki, dan segala bentuk kebaikan dunia dan akhirat. Penekanan bahwa 'al-Faḍl' itu di tangan Allah menegaskan kemutlakan kekuasaan dan kehendak-Nya dalam memberikan karunia.",
+      "role": "none"
+    },
+    {
+      "index": 25,
+      "kata_arab": "بِيَدِ",
+      "transliterasi": "bi-Yadi",
+      "jenis_kata": "Huruf dan Isim",
+      "arti": "Dengan tangan, di tangan",
+      "sharaf": {
+        "akar_kata": "ي د ي (Yā-Dāl-Yā) untuk يَدِ",
+        "makna_dasar": "Tangan, kekuasaan, kendali.",
+        "wazan_perubahan": "Isim Mufrad (kata benda tunggal) يَد (yad). Huruf ب (bi) adalah huruf jar."
+      },
+      "nahwu": {
+        "kedudukan": "Jar Majrur (جار ومجرور) yang berfungsi sebagai Khabar Inna (خبر إنّ) dalam bentuk Syibh Jumlah (شبه جملة).",
+        "irab_dan_logika": "Kata يَدِ (yadi) majrur (berharakat kasrah) karena didahului oleh huruf jar ب (bi). Secara keseluruhan, frasa 'بِيَدِ' (bi-yadi) berada pada posisi rafa' secara mahal (kedudukan) sebagai khabar dari 'إنّ'."
+      },
+      "hikmah": "Frasa 'biyadi' (di tangan) adalah ungkapan metaforis yang sangat kuat dalam bahasa Arab, menunjukkan kepemilikan mutlak, kekuasaan penuh, dan kendali tak terbatas. Ketika dikatakan 'di tangan Allah', ini berarti Allah-lah satu-satunya yang memiliki, menguasai, dan berhak memberikan karunia tersebut, tanpa ada campur tangan atau batasan dari siapapun. Ini menolak klaim bahwa karunia bisa didapatkan dari selain-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 26,
+      "kata_arab": "ٱللَّهِ",
+      "transliterasi": "Allāh",
+      "jenis_kata": "Isim",
+      "arti": "Allah (Nama Dzat Tuhan Yang Maha Esa)",
+      "sharaf": {
+        "akar_kata": "ا ل ه (Alif-Lām-Hā)",
+        "makna_dasar": "Dzat yang disembah, yang berhak diibadahi.",
+        "wazan_perubahan": "Isim Alam (nama diri) yang merupakan Isim Jalalah (nama keagungan Allah)."
+      },
+      "nahwu": {
+        "kedudukan": "Mudhaf Ilaih (مضاف إليه)",
+        "irab_dan_logika": "Majrur (berharakat kasrah) karena menjadi Mudhaf Ilaih dari kata يَدِ (yadi)."
+      },
+      "hikmah": "Nama 'Allah' adalah nama Dzat Tuhan Yang Maha Esa, yang mencakup seluruh sifat kesempurnaan dan keagungan. Dalam konteks ini, penyebutan 'Allah' setelah 'biyadi' (di tangan) menegaskan bahwa Dialah satu-satunya pemilik dan penguasa mutlak atas segala karunia. Ini memperkuat tauhid (keesaan Allah) dan menolak segala bentuk syirik atau ketergantungan kepada selain-Nya dalam hal pemberian karunia.",
+      "role": "none"
+    },
+    {
+      "index": 27,
+      "kata_arab": "يُؤْتِيهِ",
+      "transliterasi": "Yu'tīhi",
+      "jenis_kata": "Fi'il dan Dhamir",
+      "arti": "Dia memberikannya",
+      "sharaf": {
+        "akar_kata": "أ ت ي (Alif-Tā-Yā)",
+        "makna_dasar": "Datang, memberi, mendatangkan.",
+        "wazan_perubahan": "Fi'il Mudhari' (kata kerja sekarang/akan datang) dari bab إفعال (if'āl), yaitu آتَى (ātā) - يُؤْتِي (yu'tī). Huruf هِ (hi) adalah dhamir nashab muttashil (kata ganti objek) yang kembali kepada 'al-Faḍl' (karunia)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' (kata kerja) dan Maf'ul Bih (objek)",
+        "irab_dan_logika": "Fi'il يُؤْتِي (yu'tī) marfu' (berharakat dhammah muqaddarah/tersembunyi pada huruf ya) karena tidak didahului oleh huruf nashab atau jazm. Fa'il (subjek) dari fi'il ini adalah dhamir mustatir (tersembunyi) yang kembali kepada 'Allah'. Huruf هِ (hi) adalah dhamir nashab muttashil yang berada pada posisi nashab sebagai Maf'ul Bih."
+      },
+      "hikmah": "Kata 'yu'tīhi' (Dia memberikannya) menunjukkan tindakan aktif Allah dalam memberikan karunia. Penggunaan fi'il mudhari' menunjukkan keberlanjutan dan kemutlakan tindakan ini. Dhamir 'hi' yang kembali kepada 'al-Faḍl' menegaskan bahwa karunia itu adalah sesuatu yang diberikan secara langsung oleh Allah, bukan sesuatu yang bisa diusahakan atau dipaksakan dari-Nya. Ini menekankan sifat Allah sebagai Al-Wahhab (Maha Pemberi).",
+      "role": "none"
+    },
+    {
+      "index": 28,
+      "kata_arab": "مَن",
+      "transliterasi": "Man",
+      "jenis_kata": "Isim Maushul",
+      "arti": "Siapa, barang siapa",
+      "sharaf": {
+        "akar_kata": "Tidak memiliki akar kata dalam arti fi'il, karena ini adalah Isim Maushul.",
+        "makna_dasar": "Menunjukkan individu atau kelompok yang tidak spesifik.",
+        "wazan_perubahan": "Isim Maushul."
+      },
+      "nahwu": {
+        "kedudukan": "Isim Maushul yang berada pada posisi nashab sebagai Maf'ul Bih kedua (objek kedua) dari fi'il يُؤْتِيهِ (yu'tīhi).",
+        "irab_dan_logika": "Mabni (tetap) di atas sukun pada posisi nashab."
+      },
+      "hikmah": "Kata 'man' (siapa/barang siapa) di sini berfungsi sebagai objek kedua dari pemberian Allah, yaitu kepada siapa karunia itu diberikan. Ini menunjukkan bahwa pemberian karunia Allah tidak terbatas pada golongan tertentu, tetapi mencakup siapa saja yang dikehendaki-Nya. Ini adalah penegasan atas kebebasan mutlak kehendak Allah dalam memilih penerima karunia-Nya, tanpa paksaan atau batasan dari makhluk.",
+      "role": "none"
+    },
+    {
+      "index": 29,
+      "kata_arab": "يَشَآءُ",
+      "transliterasi": "Yashā'u",
+      "jenis_kata": "Fi'il",
+      "arti": "Dia menghendaki, Dia berkehendak",
+      "sharaf": {
+        "akar_kata": "ش ي أ (Shīn-Yā-Hamzah)",
+        "makna_dasar": "Menghendaki, menginginkan, berkehendak.",
+        "wazan_perubahan": "Fi'il Mudhari' (kata kerja sekarang/akan datang) dari bab فَعَلَ (fa'ala) - يَفْعَلُ (yaf'alu)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' yang berfungsi sebagai Silatul Maushul (rangkaian kata setelah Isim Maushul) bagi 'مَن' (man).",
+        "irab_dan_logika": "Marfu' (berharakat dhammah) karena tidak didahului oleh huruf nashab atau jazm. Fa'il (subjek) dari fi'il ini adalah dhamir mustatir (tersembunyi) yang kembali kepada 'Allah'."
+      },
+      "hikmah": "Kata 'yashā'u' (Dia menghendaki) adalah inti dari konsep kehendak mutlak Allah (Masyi'ah). Ini menegaskan bahwa pemberian karunia sepenuhnya bergantung pada kehendak Allah, bukan pada kelayakan, usaha, atau keinginan manusia semata. Ini adalah pelajaran tentang tawakal (berserah diri) dan pengakuan atas kekuasaan dan hikmah Allah yang tak terbatas dalam menentukan siapa yang menerima karunia-Nya. Ini juga menolak anggapan bahwa manusia bisa mendikte atau memaksa kehendak Allah.",
+      "role": "none"
+    },
+    {
+      "index": 30,
+      "kata_arab": "ۗ",
+      "transliterasi": "Tanda Waqaf Mutlaq",
+      "jenis_kata": "Tanda Baca Al-Qur'an",
+      "arti": "Tanda berhenti sempurna (wajib atau sangat dianjurkan)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Tidak berlaku",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Tidak memiliki kedudukan nahwu karena bukan kata.",
+        "irab_dan_logika": "Tidak berlaku."
+      },
+      "hikmah": "Tanda ini menunjukkan bahwa pembaca disunnahkan untuk berhenti sejenak di sini untuk mengambil nafas dan memahami makna kalimat sebelumnya secara utuh sebelum melanjutkan ke bagian berikutnya.",
+      "role": "none"
+    },
+    {
+      "index": 31,
+      "kata_arab": "وَٱللَّهُ",
+      "transliterasi": "Wa Allāhu",
+      "jenis_kata": "Huruf (Waw) dan Isim (Allah)",
+      "arti": "Dan Allah",
+      "sharaf": {
+        "akar_kata": "أ ل ه",
+        "makna_dasar": "Tuhan, yang disembah",
+        "wazan_perubahan": "Tidak berlaku (untuk Isim Jalalah, tidak di-tasrif)"
+      },
+      "nahwu": {
+        "kedudukan": "Waw adalah huruf athaf (penghubung). 'Allah' adalah mubtada' (subjek kalimat) dari kalimat baru.",
+        "irab_dan_logika": "Allah' (ٱللَّهُ) marfu' dengan dhammah karena sebagai mubtada' (subjek) yang memulai kalimat."
+      },
+      "hikmah": "Menegaskan bahwa segala karunia, kekuasaan, dan kehendak mutlak berada di tangan Allah, Tuhan Yang Maha Esa. Kalimat ini memulai penekanan baru tentang sifat-sifat Allah.",
+      "role": "none"
+    },
+    {
+      "index": 32,
+      "kata_arab": "وَٰسِعٌ",
+      "transliterasi": "Wāsi'un",
+      "jenis_kata": "Isim Sifat (Isim Fa'il)",
+      "arti": "Maha Luas (karunia-Nya)",
+      "sharaf": {
+        "akar_kata": "و س ع",
+        "makna_dasar": "Meluas, meliputi, menampung",
+        "wazan_perubahan": "فَاعِلٌ (Isim Fa'il dari fi'il tsulatsi mujarrad وَسِعَ - يَسَعُ)"
+      },
+      "nahwu": {
+        "kedudukan": "Khabar (predikat) dari mubtada' 'Allah' (ٱللَّهُ).",
+        "irab_dan_logika": "Marfu' dengan dhammah tanwin karena sebagai khabar dari mubtada' yang marfu'."
+      },
+      "hikmah": "Menunjukkan keluasan karunia, rahmat, dan ilmu Allah yang tidak terbatas, meliputi segala sesuatu. Ini memberikan pemahaman bahwa pemberian Allah tidak pernah habis dan mencakup semua makhluk.",
+      "role": "none"
+    },
+    {
+      "index": 33,
+      "kata_arab": "عَلِيمٌۭ",
+      "transliterasi": "Alīmun",
+      "jenis_kata": "Isim Sifat (Shighah Mubalaghah)",
+      "arti": "Maha Mengetahui",
+      "sharaf": {
+        "akar_kata": "ع ل م",
+        "makna_dasar": "Mengetahui, ilmu",
+        "wazan_perubahan": "فَعِيلٌ (Shighah Mubalaghah dari fi'il tsulatsi mujarrad عَلِمَ - يَعْلَمُ)"
+      },
+      "nahwu": {
+        "kedudukan": "Khabar kedua (atau sifat/na'at) dari mubtada' 'Allah' (ٱللَّهُ).",
+        "irab_dan_logika": "Marfu' dengan dhammah tanwin karena sebagai khabar kedua atau sifat dari mubtada' yang marfu'."
+      },
+      "hikmah": "Menegaskan bahwa Allah Maha Mengetahui segala sesuatu, termasuk siapa yang pantas menerima karunia-Nya, kapan waktu yang tepat, dan hikmah di balik setiap pemberian. Ini melengkapi sifat 'Maha Luas' dengan kebijaksanaan ilahi.",
+      "role": "none"
+    }
+  ]
+}

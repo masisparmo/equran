@@ -1,0 +1,510 @@
+{
+  "surah": 6,
+  "ayah": 164,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "قُلْ",
+      "transliterasi": "qul",
+      "jenis_kata": "Fi'il",
+      "arti": "katakan",
+      "sharaf": {
+        "akar_kata": "ق-و-ل",
+        "makna_dasar": "mengucapkan",
+        "wazan_perubahan": "فعل (form I)"
+      },
+      "nahwu": {
+        "kedudukan": "kata perintah di awal ayat, memerintahkan Nabi menyampaikan pesan",
+        "irab_dan_logika": "فعل أمر مبني على السكون، لا إعراب لأنه فعل أمر"
+      },
+      "hikmah": "mengajak menyampaikan kebenaran tentang keesaan Allah",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "أَغَيْرَ",
+      "transliterasi": "aghayra",
+      "jenis_kata": "Huruf",
+      "arti": "apakah selain",
+      "sharaf": {
+        "akar_kata": "غ-ي-ر",
+        "makna_dasar": "lain",
+        "wazan_perubahan": "اسم (غَيْر) مع أداة استفهام"
+      },
+      "nahwu": {
+        "kedudukan": "huruf istifham يسبق الفعل لتشكيل سؤال",
+        "irab_dan_logika": "حرف مبني على الفتح، لا إعراب"
+      },
+      "hikmah": "menegaskan penolakan menyekutukan Allah dengan apa pun yang lain",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "ٱللَّهِ",
+      "transliterasi": "Allahi",
+      "jenis_kata": "Isim",
+      "arti": "Tuhan",
+      "sharaf": {
+        "akar_kata": "أ-ل-ه",
+        "makna_dasar": "ilah (dewa)",
+        "wazan_perubahan": "اسم علم"
+      },
+      "nahwu": {
+        "kedudukan": "اسم مجرور بعد أَغَيْرَ في سؤال استفهام",
+        "irab_dan_logika": "مجرور بالكسرة لأنه مضاف إليه في سؤال"
+      },
+      "hikmah": "menegaskan keesaan Allah sebagai satu-satunya Tuhan",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "أَبْغِى",
+      "transliterasi": "abghi",
+      "jenis_kata": "Fi'il",
+      "arti": "aku mencari",
+      "sharaf": {
+        "akar_kata": "ب-غ-ي",
+        "makna_dasar": "ingin, mencari",
+        "wazan_perubahan": "فعل مضارع"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع، فاعل أولي للآية",
+        "irab_dan_logika": "مرفوع بالضمة الظاهرة لأنه فعل مضارع"
+      },
+      "hikmah": "menunjukkan niat mencari selain Allah",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "رَبًّۭا",
+      "transliterasi": "rabb-an",
+      "jenis_kata": "Isim",
+      "arti": "Tuhan",
+      "sharaf": {
+        "akar_kata": "ر-ب-ب",
+        "makna_dasar": "penguasa",
+        "wazan_perubahan": "اسم فاعل"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به للفعل أَبْغِى",
+        "irab_dan_logika": "منصوب بالفتحة لأنه مفعول به"
+      },
+      "hikmah": "menegaskan objek pencarian yang dipertanyakan",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "وَهُوَ",
+      "transliterasi": "wa huwa",
+      "jenis_kata": "Huruf",
+      "arti": "dan Dia",
+      "sharaf": {
+        "akar_kata": "ه-و-ا",
+        "makna_dasar": "dia (Allah)",
+        "wazan_perubahan": "ضمير منفصل"
+      },
+      "nahwu": {
+        "kedudukan": "حرف عطف يربط بين جملتين",
+        "irab_dan_logika": "حرف مبني على الفتح، لا إعراب"
+      },
+      "hikmah": "menegaskan bahwa Allah-lah Tuhan yang dimaksud",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "رَبُّ",
+      "transliterasi": "Rabb",
+      "jenis_kata": "Isim",
+      "arti": "Tuhan, Penguasa",
+      "sharaf": {
+        "akar_kata": "ر ب ب",
+        "makna_dasar": "menjadi pemilik, menguasai",
+        "wazan_perubahan": "فَعَّال"
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada' (subjek) dalam iḍāfah \"رَبُّ كُلِّ شَىْءٍ\"",
+        "irab_dan_logika": "Marfu' dengan dhammah karena berfungsi sebagai mubtada'"
+      },
+      "hikmah": "Menegaskan bahwa Allah adalah Tuhan yang menguasai segala sesuatu.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "كُلِّ",
+      "transliterasi": "kulli",
+      "jenis_kata": "Isim",
+      "arti": "segala, seluruh",
+      "sharaf": {
+        "akar_kata": "ك ل ل",
+        "makna_dasar": "seluruh, lengkap",
+        "wazan_perubahan": "فعَل"
+      },
+      "nahwu": {
+        "kedudukan": "Mudaf (bagian pertama) dalam iḍāfah \"كُلِّ شَىْءٍ\"",
+        "irab_dan_logika": "Majrur dengan kasrah karena menjadi mudaf"
+      },
+      "hikmah": "Menunjukkan bahwa tidak ada yang terlepas dari kepemilikan Allah.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "شَىْءٍۢ",
+      "transliterasi": "shai'in",
+      "jenis_kata": "Isim",
+      "arti": "sesuatu",
+      "sharaf": {
+        "akar_kata": "ش ي ء",
+        "makna_dasar": "apa-apa, sesuatu",
+        "wazan_perubahan": "فعْل"
+      },
+      "nahwu": {
+        "kedudukan": "Mudaf ilaih (bagian kedua) dalam iḍāfah \"كُلِّ شَىْءٍ\"",
+        "irab_dan_logika": "Majrur dengan kasrah karena menjadi mudaf ilaih"
+      },
+      "hikmah": "Menyiratkan bahwa segala sesuatu, sekecil apa pun, berada di bawah kepemilikan Allah.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "وَلَا",
+      "transliterasi": "wala",
+      "jenis_kata": "Huruf",
+      "arti": "dan tidak",
+      "sharaf": {
+        "akar_kata": "لا",
+        "makna_dasar": "penolakan",
+        "wazan_perubahan": "حرف نفي"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf nafi yang menghubungkan dua predikat",
+        "irab_dan_logika": "Tidak berharakat, menolak tindakan selanjutnya"
+      },
+      "hikmah": "Menegaskan larangan atau ketidakmungkinan melakukan apa yang disebutkan setelahnya.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "تَكْسِبُ",
+      "transliterasi": "taksibu",
+      "jenis_kata": "Fi'il",
+      "arti": "kamu memperoleh",
+      "sharaf": {
+        "akar_kata": "ك س ب",
+        "makna_dasar": "mengambil, memperoleh, menimbulkan",
+        "wazan_perubahan": "تَفْعِلُ (bentuk I)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il mudhari' (verb) 2nd person maskulin tunggal, berfungsi sebagai predikat setelah \"وَلَا\"",
+        "irab_dan_logika": "Marfu' dengan dhammah karena bentuk mudhari' dan subjek tersirat (kamu)"
+      },
+      "hikmah": "Menunjukkan bahwa manusia tidak dapat memperoleh dosa orang lain; dosa hanya kembali kepada diri sendiri.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "كُلُّ",
+      "transliterasi": "kullu",
+      "jenis_kata": "Isim",
+      "arti": "setiap, semua",
+      "sharaf": {
+        "akar_kata": "ك-ل-ل",
+        "makna_dasar": "menyiratkan kelengkapan atau keseluruhan",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada' (subjek) dalam kalimat \"ما كُلُّ نفسٍ\"",
+        "irab_dan_logika": "مرفوع بالضمة الظاهرة karena menjadi mubtada' dan tidak terikat pada huruf yang menurunkan i'rab"
+      },
+      "hikmah": "Menegaskan bahwa **setiap** jiwa memiliki tanggung jawabnya masing‑masing.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "نَفْسٍ",
+      "transliterasi": "nafsin",
+      "jenis_kata": "Isim",
+      "arti": "jiwa, diri",
+      "sharaf": {
+        "akar_kata": "ن-ف-س",
+        "makna_dasar": "menunjuk pada diri atau makhluk hidup",
+        "wazan_perubahan": "فَعْل"
+      },
+      "nahwu": {
+        "kedudukan": "Mutsarrif (kata yang dimodifikasi) dalam konstruksi \"كُلُّ نفسٍ\"",
+        "irab_dan_logika": "مجرور بالكسرة لأن كلمة \"كُلُّ\" mengharuskan genitif (مجرور)"
+      },
+      "hikmah": "Setiap **jiwa** tidak dapat mengalihkan dosa kepada yang lain; beban tetap pada dirinya.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "إِلَّا",
+      "transliterasi": "illa",
+      "jenis_kata": "Huruf",
+      "arti": "kecuali",
+      "sharaf": {
+        "akar_kata": "إ-ل-ا",
+        "makna_dasar": "menunjukkan pengecualian",
+        "wazan_perubahan": "ليس له وزن صرفي (huruf)"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf istithna' (pengecualian) yang menghubungkan \"نَفْسٍ\" dengan \"عَلَيْهَا\"",
+        "irab_dan_logika": "Tidak berharakat karena huruf, berfungsi menegaskan batasan"
+      },
+      "hikmah": "Menandakan bahwa **tidak ada** pengecualian; semua jiwa kecuali pada dirinya sendiri.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "عَلَيْهَا",
+      "transliterasi": "ʿalayhā",
+      "jenis_kata": "Huruf",
+      "arti": "atasnya, kepadanya",
+      "sharaf": {
+        "akar_kata": "ع-ل-و",
+        "makna_dasar": "menunjuk pada tempat atau keadaan",
+        "wazan_perubahan": "فَعْل"
+      },
+      "nahwu": {
+        "kedudukan": "Jar (keterangan) yang tergantung pada huruf \"إِلَّا\"",
+        "irab_dan_logika": "مجرور بالكسرة الظاهرة karena preposisi \"على\" menuntut genitif"
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "تَزِرُ",
+      "transliterasi": "taziru",
+      "jenis_kata": "Fi'il (verb)",
+      "arti": "menanggung, memikul",
+      "sharaf": {
+        "akar_kata": "ز-ر-ي",
+        "makna_dasar": "menanggung, membawa beban",
+        "wazan_perubahan": "أَفْعَل (form IV)"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja mudhari‘ (present) yang berada di bawah لا الناهية",
+        "irab_dan_logika": "مجزوم (sukun) karena لا الناهية, walaupun dalam teks terlihat damma karena bacaan tajwid"
+      },
+      "hikmah": "menunjukkan bahwa tidak ada yang dapat menanggung dosa orang lain",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "وَازِرَةٌۭ",
+      "transliterasi": "waziratun",
+      "jenis_kata": "Isim (noun)",
+      "arti": "beban, dosa",
+      "sharaf": {
+        "akar_kata": "و-ز-ر",
+        "makna_dasar": "beban, tanggung jawab",
+        "wazan_perubahan": "فَعِلة"
+      },
+      "nahwu": {
+        "kedudukan": "مبتدأ (subject) untuk فعل تَزِرُ",
+        "irab_dan_logika": "مرفوع بالضمة وتنوين (ـٌ) karena status مبتدأ"
+      },
+      "hikmah": "menegaskan bahwa tidak ada beban yang dapat dipikul selain diri sendiri",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "وِزْرَ",
+      "transliterasi": "wizra",
+      "jenis_kata": "Isim (noun)",
+      "arti": "beban, dosa",
+      "sharaf": {
+        "akar_kata": "و-ز-ر",
+        "makna_dasar": "beban, tanggung jawab",
+        "wazan_perubahan": "فِعْلَ"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به (objek) dari preposisi مِنْ",
+        "irab_dan_logika": "منصوب بالفتحة لأنّها مفعول به"
+      },
+      "hikmah": "menyiratkan bahwa dosa yang satu tidak dapat dialihkan ke dosa yang lain",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "أُخْرَىٰ",
+      "transliterasi": "ukhra",
+      "jenis_kata": "Isim (adjective)",
+      "arti": "lain, yang lain",
+      "sharaf": {
+        "akar_kata": "خ-ر-ى",
+        "makna_dasar": "lain, berbeda",
+        "wazan_perubahan": "أَفْعَل"
+      },
+      "nahwu": {
+        "kedudukan": "صفة (adjektiva) yang menyifatkan وَزْرَ",
+        "irab_dan_logika": "منصوب بالفتحة لتطابق المفعول به"
+      },
+      "hikmah": "menegaskan bahwa dosa tidak dapat dipindahkan ke dosa yang lain",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda baca)",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda berhenti (pause)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "simbol akhir ayat, tidak berirab",
+        "irab_dan_logika": "tidak berlaku"
+      },
+      "hikmah": "menunjukkan jeda bacaan sebelum lanjutan kalimat",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "ثُمَّ",
+      "transliterasi": "thumma",
+      "jenis_kata": "Huruf (particle)",
+      "arti": "kemudian, lalu",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "حرف عطف يربط بين dua bagian kalimat",
+        "irab_dan_logika": "ليس له إعراب، يظل على وضعه كحرف"
+      },
+      "hikmah": "menyiratkan urutan waktu atau urutan logis setelah pernyataan sebelumnya",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "إِلَىٰ",
+      "transliterasi": "ilā",
+      "jenis_kata": "Huruf",
+      "arti": "kepada",
+      "sharaf": {
+        "akar_kata": "إ ل ي",
+        "makna_dasar": "menuju, arah",
+        "wazan_perubahan": "حرف جر"
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر يربط بين الفعل والاسم",
+        "irab_dan_logika": "مجرور بالكسرة لأن حرف الجر إِلَىً يتطلب جرًّا"
+      },
+      "hikmah": "Menunjukkan arah kembali kepada Tuhan, menegaskan tujuan akhir manusia.",
+      "role": "none"
+    },
+    {
+      "index": 25,
+      "kata_arab": "رَبِّكُم",
+      "transliterasi": "rabbikum",
+      "jenis_kata": "Isim",
+      "arti": "Tuhanmu",
+      "sharaf": {
+        "akar_kata": "ر ب ب",
+        "makna_dasar": "pemilik, penguasa",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "اسم مجرور بحرف الجر إِلَىً",
+        "irab_dan_logika": "مجرور بالكسرة لأن إِلَىً حرف جر"
+      },
+      "hikmah": "Menegaskan bahwa hanya Allah-lah Tuhan yang berhak disembah dan menjadi tujuan kembali.",
+      "role": "none"
+    },
+    {
+      "index": 26,
+      "kata_arab": "مَّرْجِعُكُمْ",
+      "transliterasi": "marji‘ukum",
+      "jenis_kata": "Isim",
+      "arti": "tempat kembali kalian",
+      "sharaf": {
+        "akar_kata": "ر ج ع",
+        "makna_dasar": "kembali, kembali ke asal",
+        "wazan_perubahan": "مَفْعَل"
+      },
+      "nahwu": {
+        "kedudukan": "خبر مرفوع لِـ (محذوف) هو",
+        "irab_dan_logika": "مرفوع بالضمة لأنّ الخبر مرفوع"
+      },
+      "hikmah": "Menunjukkan kepastian bahwa semua makhluk akan kembali kepada Sang Pencipta pada hari kiamat.",
+      "role": "none"
+    },
+    {
+      "index": 27,
+      "kata_arab": "فَيُنَبِّئُكُم",
+      "transliterasi": "fa-yunabbi’ukum",
+      "jenis_kata": "Fi’il",
+      "arti": "maka Dia akan memberitahumu",
+      "sharaf": {
+        "akar_kata": "ن ب أ",
+        "makna_dasar": "memberi informasi, menuturkan",
+        "wazan_perubahan": "يُفَعِّل"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع بالضمة، الفاء عاطفة",
+        "irab_dan_logika": "مرفوع لأن الفعل مضارع غير منصوب ولا مجزوم"
+      },
+      "hikmah": "Allah akan mengungkapkan kebenaran kepada manusia pada hari pembalasan.",
+      "role": "none"
+    },
+    {
+      "index": 28,
+      "kata_arab": "بِمَا",
+      "transliterasi": "bima",
+      "jenis_kata": "Huruf",
+      "arti": "tentang apa",
+      "sharaf": {
+        "akar_kata": "م ا",
+        "makna_dasar": "yang, apa",
+        "wazan_perubahan": "حرف جر + اسم موصول"
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 30,
+      "kata_arab": "فِيهِ",
+      "transliterasi": "fīhi",
+      "jenis_kata": "Huruf",
+      "arti": "di dalamnya",
+      "sharaf": {
+        "akar_kata": "ف-ي",
+        "makna_dasar": "di, berada dalam",
+        "wazan_perubahan": "preposisi **في** + ضمير متصل **ه**"
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر مبني على السكون يجر الاسم المتصل به",
+        "irab_dan_logika": "مجرور بالكسرة لأن حرف الجر **في** يجر ما بعده، والضمير المتصل **ه** يضيف علامة الجر على آخره"
+      },
+      "hikmah": "menunjukkan bahwa sesuatu berada dalam konteks atau tempat yang dibicarakan, menegaskan kepemilikan atau keberadaan.",
+      "role": "none"
+    },
+    {
+      "index": 31,
+      "kata_arab": "تَخْتَلِفُونَ",
+      "transliterasi": "takhtalifūna",
+      "jenis_kata": "Fi'il",
+      "arti": "berbeda, berlawanan",
+      "sharaf": {
+        "akar_kata": "خ-ل-ف",
+        "makna_dasar": "berbeda, berlawanan",
+        "wazan_perubahan": "form X (istaf‘ala) — اختلف"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع للرفع، فاعل مستتر تقديره أنتم",
+        "irab_dan_logika": "مرفوع بالضمة الظاهرة على آخره، والواو للرفع لأن الفاعل جمع مذكر"
+      },
+      "hikmah": "menunjukkan sikap atau pendapat yang berbeda di antara para pendengar, mengingatkan bahwa perbedaan tidak menutup hakikat persatuan di hadapan Allah.",
+      "role": "none"
+    }
+  ]
+}

@@ -1,0 +1,474 @@
+{
+  "surah": 7,
+  "ayah": 86,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "وَلَا",
+      "transliterasi": "wa-lā",
+      "jenis_kata": "Huruf (حرف عطف + حرف نفي)",
+      "arti": "dan tidak",
+      "sharaf": {
+        "akar_kata": "ل-ا",
+        "makna_dasar": "negasi, larangan",
+        "wazan_perubahan": "tidak berlaku wazan (kata partikel)"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf sambung yang menghubungkan dengan ayat sebelumnya, diikuti oleh huruf نفي (lā)",
+        "irab_dan_logika": "Tidak berharakat karena huruf, berfungsi sebagai partikel negatif yang mengikat makna 'tidak' pada kata berikutnya"
+      },
+      "hikmah": "Menegaskan larangan, mengingatkan bahwa tindakan yang dilarang tidak boleh dilakukan.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "تَقْعُدُوا۟",
+      "transliterasi": "taq‘udū",
+      "jenis_kata": "Fi'il (verb)",
+      "arti": "duduk (secara kolektif)",
+      "sharaf": {
+        "akar_kata": "ق-ع-د",
+        "makna_dasar": "duduk, menetap",
+        "wazan_perubahan": "فَعَلَ (fa‘ala) – bentuk dasar"
+      },
+      "nahwu": {
+        "kedudukan": "Predikat (fi‘il) dalam kalimat perintah negatif, bentuk mudhari‘ (imperfek) dengan dhammah pada akhir karena marfu‘",
+        "irab_dan_logika": "Marfu‘ karena berfungsi sebagai fi‘il mudhari‘ yang diikuti huruf نفي 'lā'"
+      },
+      "hikmah": "Mengajak agar tidak duduk (menetap) di jalan yang menyesatkan.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "بِكُلِّ",
+      "transliterasi": "bi-kull",
+      "jenis_kata": "Huruf (preposisi) + Isim",
+      "arti": "dengan setiap",
+      "sharaf": {
+        "akar_kata": "ك-ل-ل",
+        "makna_dasar": "seluruh, semua",
+        "wazan_perubahan": "اسم غير مذكر سالم (kull)"
+      },
+      "nahwu": {
+        "kedudukan": "Bagian dari objek preposisional yang menjelaskan tempat/dasar tindakan",
+        "irab_dan_logika": "Majrur karena didahului huruf جرّ (bi), berharakat kasrah"
+      },
+      "hikmah": "Menunjukkan bahwa larangan mencakup semua jalan.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "صِرَٰطٍۢ",
+      "transliterasi": "ṣirāṭin",
+      "jenis_kata": "Isim",
+      "arti": "jalan",
+      "sharaf": {
+        "akar_kata": "ص-ر-ط",
+        "makna_dasar": "jalan, petunjuk",
+        "wazan_perubahan": "صِرَاط (siraṭ) – isim maṣdar"
+      },
+      "nahwu": {
+        "kedudukan": "Objek preposisi 'bi', berkasrah karena majrur",
+        "irab_dan_logika": "Tanwin kasrah menandakan indefinitif, menunjukkan 'setiap jalan'"
+      },
+      "hikmah": "Maksudnya semua jalan yang dapat menyesatkan.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "تُوعِدُونَ",
+      "transliterasi": "tu‘iddūna",
+      "jenis_kata": "Fi'il (verb)",
+      "arti": "menakut-nakuti, mengancam",
+      "sharaf": {
+        "akar_kata": "و-ع-د",
+        "makna_dasar": "menjanjikan, mengancam",
+        "wazan_perubahan": "تَفْعِل (taf‘il) – bentuk mudhari‘"
+      },
+      "nahwu": {
+        "kedudukan": "Kata kerja berhubungan dengan subjek (kamu sekalian) dalam bentuk mudhari‘, marfu‘ karena berakhir dengan dammah",
+        "irab_dan_logika": "Marfu‘ karena berfungsi sebagai fi‘il mudhari‘ yang terikat pada huruf نفي 'lā'"
+      },
+      "hikmah": "Mereka mengancam orang beriman untuk menjauh dari jalan Allah.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "وَتَصُدُّونَ",
+      "transliterasi": "wa-taṣuddūna",
+      "jenis_kata": "Huruf + Fi'il (verb)",
+      "arti": "dan menghalangi",
+      "sharaf": {
+        "akar_kata": "ص-د-د",
+        "makna_dasar": "menyumbat, menghalangi",
+        "wazan_perubahan": "تَصَدُّ (taṣaddū) – bentuk mudhari‘"
+      },
+      "nahwu": {
+        "kedudukan": "Kata kerja kedua yang berkoordinasi dengan 'tu‘iddūna' melalui huruf 'wa'",
+        "irab_dan_logika": "Marfu‘ karena mudhari‘, berakhiran dammah menandakan marfu‘"
+      },
+      "hikmah": "Mereka menutup jalan kebenaran dengan menghalangi orang beriman.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "عَن",
+      "transliterasi": "ʿan",
+      "jenis_kata": "Huruf (preposisi)",
+      "arti": "dari, tentang",
+      "sharaf": {
+        "akar_kata": "ع‑ن",
+        "makna_dasar": "menyatakan hubungan atau asal",
+        "wazan_perubahan": "tidak ada (huruf)"
+      },
+      "nahwu": {
+        "kedudukan": "Preposisi yang menghubungkan ke kata berikutnya (سَبِيلِ)",
+        "irab_dan_logika": "مجرور بالكسرة لأن حرف الجر يجر ما بعده"
+      },
+      "hikmah": "Menunjukkan bahwa yang dilarang adalah menghalangi **dari** jalan Allah",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "سَبِيلِ",
+      "transliterasi": "sabeeli",
+      "jenis_kata": "Isim (isim mafʿūl)",
+      "arti": "jalan, cara",
+      "sharaf": {
+        "akar_kata": "س‑ب‑ل",
+        "makna_dasar": "jalan, rute, cara",
+        "wazan_perubahan": "faʿil"
+      },
+      "nahwu": {
+        "kedudukan": "Nama yang dijadikan objek preposisi عَن",
+        "irab_dan_logika": "مجرور بالكسرة لأنه مضاف إلى حرف الجر عَن"
+      },
+      "hikmah": "Mengacu pada **jalan Allah**, yaitu petunjuk dan cara hidup yang diridhoi",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "ٱللَّهِ",
+      "transliterasi": "Allahi",
+      "jenis_kata": "Isim (isim al‑marfūʿ)",
+      "arti": "Tuhan",
+      "sharaf": {
+        "akar_kata": "ل‑ه",
+        "makna_dasar": "yang berkuasa, pemilik segala sesuatu",
+        "wazan_perubahan": "lafẓ al‑jamīl"
+      },
+      "nahwu": {
+        "kedudukan": "Bagian dari frasa «سَبِيلِ ٱللَّهِ» sebagai iḍāfah",
+        "irab_dan_logika": "مجرور بالكسرة لأنه مضاف إلى كلمة سَبِيلِ"
+      },
+      "hikmah": "Menegaskan bahwa yang dimaksud adalah **jalan milik Allah**, bukan jalan manusia",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "مَنْ",
+      "transliterasi": "man",
+      "jenis_kata": "Isim (isim mawsūl)",
+      "arti": "siapa",
+      "sharaf": {
+        "akar_kata": "م‑ن",
+        "makna_dasar": "siapa, orang yang",
+        "wazan_perubahan": "tidak ada (kata tanya)"
+      },
+      "nahwu": {
+        "kedudukan": "Subjek (مبتدأ) bagi fi'il «آمَنَ»",
+        "irab_dan_logika": "مرفوع بالضمة لأنه اسم موصول مبني على السكون"
+      },
+      "hikmah": "Menunjuk kepada orang yang beriman, tanpa menyebutkan identitas spesifik",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "آمَنَ",
+      "transliterasi": "āmana",
+      "jenis_kata": "Fi'il (verb past)",
+      "arti": "beriman, percaya",
+      "sharaf": {
+        "akar_kata": "أ‑م‑ن",
+        "makna_dasar": "amanah, percaya, yakin",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "Predikat (خبر) bagi subjek مَنْ",
+        "irab_dan_logika": "مبني على الفتح لأنه فعل ماضٍ"
+      },
+      "hikmah": "Menegaskan tindakan iman sebagai respons aktif terhadap jalan Allah",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "بِهِۦ",
+      "transliterasi": "bihi",
+      "jenis_kata": "Huruf (preposisi) + ضمير متصل",
+      "arti": "dengan-Nya",
+      "sharaf": {
+        "akar_kata": "ب‑ي",
+        "makna_dasar": "dengan, memakai",
+        "wazan_perubahan": "tidak ada (huruf)"
+      },
+      "nahwu": {
+        "kedudukan": "Objek preposisi yang melengkapi fi'il «آمَنَ»",
+        "irab_dan_logika": "مجرور بالكسرة لأن حرف الباء يجر ما بعده، والهاء ضمير متصل في محل جر"
+      },
+      "hikmah": "Menunjukkan bahwa iman diarahkan **kepada Allah**, bukan kepada sesuatu yang lain",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "وَتَبْغُونَهَا",
+      "transliterasi": "wa‑tabghūnahā",
+      "jenis_kata": "Fi'il",
+      "arti": "dan kamu menginginkannya",
+      "sharaf": {
+        "akar_kata": "ب غ ي",
+        "makna_dasar": "ingin, mengharapkan",
+        "wazan_perubahan": "تَفْعِل"
+      },
+      "nahwu": {
+        "kedudukan": "predikat (fiʿl muḍhariʿ) dalam kalimat",
+        "irab_dan_logika": "marfuʿ karena fiʿl muḍhariʿ, berakhiran ‑ون untuk jamak maskulin, diikuti huruf ضمّة متصلة (ها) sebagai objek"
+      },
+      "hikmah": "*Menggambarkan keinginan manusia untuk memutar‑balik jalan Allah, menandakan sifat menentang kebenaran.*",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "عِوَجًا",
+      "transliterasi": "ʿiwajan",
+      "jenis_kata": "Isim",
+      "arti": "bengkok",
+      "sharaf": {
+        "akar_kata": "ع و ج",
+        "makna_dasar": "kelengkungan, kemiringan",
+        "wazan_perubahan": "فِعْل"
+      },
+      "nahwu": {
+        "kedudukan": "mafʿul bihi (objek) dari fiʿl “tubghūna”",
+        "irab_dan_logika": "mansūb karena merupakan mafʿul muttasil, berakhiran ‑ًا (tanwīn nasb)"
+      },
+      "hikmah": "*Menunjukkan niat memutar‑balik jalan Allah menjadi tidak lurus, sehingga menyingkap bahaya kezaliman.*",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Simbol",
+      "arti": "tanda berhenti ayat",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "pemisah ayat",
+        "irab_dan_logika": "tidak berirab, berfungsi sebagai tanda jeda"
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "وَٱذْكُرُوٓا",
+      "transliterasi": "wa‑adhkurū",
+      "jenis_kata": "Fi'il",
+      "arti": "dan ingatlah",
+      "sharaf": {
+        "akar_kata": "ذ ك ر",
+        "makna_dasar": "mengingat, menyebut",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "fiʿl amr (perintah) maʿa huruf wa",
+        "irab_dan_logika": "tidak berharakat akhir karena fiʿl amr, diikuti huruf wa sebagai sambung"
+      },
+      "hikmah": "*Ajakan untuk mengingat masa lalu ketika umat berjumlah sedikit, menegaskan kebesaran Allah dalam menambah jumlah mereka.*",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "إِذْ",
+      "transliterasi": "idh",
+      "jenis_kata": "Huruf",
+      "arti": "ketika",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "huruf zaman (حرف زمان)",
+        "irab_dan_logika": "tidak berirab, memperkenalkan klausa waktu"
+      },
+      "hikmah": "*Menandakan peristiwa masa lampau yang menjadi pelajaran bagi pendengar.*",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "كُنتُمْ",
+      "transliterasi": "kuntum",
+      "jenis_kata": "Fi'il",
+      "arti": "kamu dahulu",
+      "sharaf": {
+        "akar_kata": "ك و ن",
+        "makna_dasar": "menjadi, berada",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "fiʿl māḍī (verb past) 2 ml plural",
+        "irab_dan_logika": "marfuʿ dengan dhammah karena fiʿl māḍī, diikuti dhammah pada al‑muʿarrab"
+      },
+      "hikmah": "*Menggambarkan keadaan umat pada masa awal, menekankan bahwa Allah menambah jumlah mereka dari yang sangat sedikit.*",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "قَلِيلًۭا",
+      "transliterasi": "qalīlan",
+      "jenis_kata": "Isim",
+      "arti": "sedikit (jumlah yang tidak banyak)",
+      "sharaf": {
+        "akar_kata": "قَلَلَ",
+        "makna_dasar": "kurang, berkurang",
+        "wazan_perubahan": "bentuk tanwīn (ًۭ) menandakan indefinitif dalam kasus nasb"
+      },
+      "nahwu": {
+        "kedudukan": "Objek (مفعول به) dari kata kerja «فَكَثَّرَكُمْ»",
+        "irab_dan_logika": "Berharakat **ًۭ** (tanwīn fathah) menandakan nasb karena berfungsi sebagai maf‘ūl bih (objek) dan tidak ber‑taʿrīf"
+      },
+      "hikmah": "Allah mengingatkan bahwa pada masa sebelumnya umat berjumlah **sedikit**, menegaskan kebesaran karunia-Nya ketika menambah jumlah mereka.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "فَكَثَّرَكُمْ",
+      "transliterasi": "fa-kaṯṯarakum",
+      "jenis_kata": "Fi'il",
+      "arti": "lalu Dia memperbanyak kalian",
+      "sharaf": {
+        "akar_kata": "ك ث ر",
+        "makna_dasar": "banyak, memperbanyak",
+        "wazan_perubahan": "faʿʿala (فَعَّلَ) dengan prefiks «fa-» (فَ) dan suffiks pronominal «-kum» (كم)"
+      },
+      "nahwu": {
+        "kedudukan": "Kata kerja (فعل ماضٍ) transitif, subjek tersirat «Allah», objek «kamu» (كم) dalam bentuk ضمير متصل",
+        "irab_dan_logika": "Berharakat **َ** (fatha) pada «فَ» menandakan waqf‑faʿl, sedangkan «كَثَّرَ» berharakat dhammah pada akhir karena bentuk mudhari‘ (مرفوع) bila berdiri sendiri, namun di sini menjadi فعل ماضٍ sehingga ber‑fatha"
+      },
+      "hikmah": "Allah menegaskan kuasa‑Nya yang dapat **menambah** jumlah umat yang semula sedikit, sebagai bukti rahmat dan pertolongan-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "ۖ",
+      "transliterasi": "waqf",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda jeda/berhenti",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Penanda jeda (waqf) yang memisahkan dua bagian kalimat",
+        "irab_dan_logika": "Tidak memiliki harakat karena bukan kata; fungsinya memberi napas pada pembaca untuk menekankan makna sebelumnya"
+      },
+      "hikmah": "Tanda ini mengingatkan pembaca untuk **menahan diri** sejenak, menelaah keajaiban peningkatan jumlah umat sebelum melanjutkan ke ayat berikutnya.",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "وَٱنظُرُوا۟",
+      "transliterasi": "wa-anẓurū",
+      "jenis_kata": "Fi'il",
+      "arti": "dan perhatikanlah",
+      "sharaf": {
+        "akar_kata": "ن ظ ر",
+        "makna_dasar": "melihat, memperhatikan",
+        "wazan_perubahan": "imperatif (أمر) bentuk «انظروا» dengan prefiks «wa-» (وَ) sebagai huruf sambung"
+      },
+      "nahwu": {
+        "kedudukan": "Kata kerja perintah (فعل أمر) yang mengajak jama‘ mukharram (kalian semua) untuk melihat",
+        "irab_dan_logika": "Berakhiran **وا** menandakan bentuk jamak maskulin (مفعول به) dalam perintah; huruf «wa» berharakat **َ** (fatha) sebagai huruf al‑waaw al‑ittisal"
+      },
+      "hikmah": "Allah memerintahkan umat untuk **meneliti** nasib orang‑orang yang menentang, sehingga mereka dapat mengambil pelajaran dari sejarah.",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "كَيْفَ",
+      "transliterasi": "kayfa",
+      "jenis_kata": "Huruf",
+      "arti": "bagaimana",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Kata tanya (أداة استفهام) yang memperkenalkan pertanyaan tentang keadaan",
+        "irab_dan_logika": "Tidak berharakat karena merupakan huruf pertanyaan; menghubungkan ke kata kerja «كان» yang mengindikasikan keadaan"
+      },
+      "hikmah": "Dengan menanyakan **bagaimana** keadaan orang‑orang yang berbuat kerusakan, ayat mengajak pembaca merenungkan konsekuensi tindakan mereka.",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "كَانَ",
+      "transliterasi": "kāna",
+      "jenis_kata": "Fi'il",
+      "arti": "adalah / menjadi",
+      "sharaf": {
+        "akar_kata": "ك و ن",
+        "makna_dasar": "menjadi, ada",
+        "wazan_perubahan": "bentuk dasar (مجرَّد) fi'il madhi"
+      },
+      "nahwu": {
+        "kedudukan": "Kata kerja kopula (فعل كان) yang menghubungkan «كَيْفَ» dengan predikat yang tidak terucapkan secara eksplisit (yaitu «كان» + ...)",
+        "irab_dan_logika": "Berharakat **َ** (fatha) menandakan رفع karena فعل كان selalu مرفوع"
+      },
+      "hikmah": "Allah menegaskan bahwa **keadaan** orang‑orang yang berbuat kerusakan itu jelas: mereka berakhir dengan kehancuran, sebagai peringatan bagi semua.",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "عَٰقِبَةُ",
+      "transliterasi": "ʿāqibah",
+      "jenis_kata": "Isim (noun)",
+      "arti": "akhir, konsekuensi, hasil",
+      "sharaf": {
+        "akar_kata": "ع‑ق‑ب",
+        "makna_dasar": "mengikuti, mengejar, mengakhiri",
+        "wazan_perubahan": "فَاعِلَة (faʿīlah)"
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada' (subjek) dalam kalimat \"وَانْظُرْ كَيْفَ عَاقِبَةُ الْمُفْسِدِينَ\"",
+        "irab_dan_logika": "Marfu' dengan dhammah karena berfungsi sebagai مبتدأ"
+      },
+      "hikmah": "Menunjukkan **konsekuensi** atau **akhir** yang menimpa orang-orang yang melakukan kerusakan; mengingatkan bahwa setiap perbuatan memiliki akibat.",
+      "role": "none"
+    },
+    {
+      "index": 25,
+      "kata_arab": "ٱلْمُفْسِدِينَ",
+      "transliterasi": "al‑mufsidiina",
+      "jenis_kata": "Isim (noun) – mudhaf ʿala (mazkur)",
+      "arti": "para pembuat kerusakan",
+      "sharaf": {
+        "akar_kata": "ف‑س‑د",
+        "makna_dasar": "merusak, berbuat kerusakan",
+        "wazan_perubahan": "مُفْعِل (mu‑faʿil) – bentuk aktif participle"
+      },
+      "nahwu": {
+        "kedudukan": "Mafʿul bih (objek) dari kata عَاقِبَةُ dalam frasa \"عَاقِبَةُ الْمُفْسِدِينَ\"",
+        "irab_dan_logika": "Munsoob dengan kasrah karena berfungsi sebagai مفعول به dan berakhiran tanwin kasrah"
+      },
+      "hikmah": "Menggambarkan **kelompok orang** yang menimbulkan kerusakan; ayat menekankan bahwa akhir bagi mereka adalah kehancuran, sehingga menjadi peringatan bagi yang beriman.",
+      "role": "none"
+    }
+  ]
+}

@@ -1,0 +1,384 @@
+{
+  "surah": 6,
+  "ayah": 34,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "وَلَقَدْ",
+      "transliterasi": "wa laqad",
+      "jenis_kata": "Huruf",
+      "arti": "dan sesungguhnya",
+      "sharaf": {
+        "akar_kata": "ق‑د",
+        "makna_dasar": "menunjukkan kepastian",
+        "wazan_perubahan": "لا + قد (partikel)"
+      },
+      "nahwu": {
+        "kedudukan": "partikel pembuka kalimat, menekankan kata kerja berikutnya",
+        "irab_dan_logika": "tidak berharakat (sukun) pada akhir, tidak berubah karena termasuk huruf yang tidak terinfleksi"
+      },
+      "hikmah": "**Penegasan** bahwa apa yang akan disebutkan selanjutnya adalah fakta yang pasti terjadi.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "كُذِّبَتْ",
+      "transliterasi": "kudh-dibat",
+      "jenis_kata": "Fi'il",
+      "arti": "telah didustakan",
+      "sharaf": {
+        "akar_kata": "ك‑ذ‑ب",
+        "makna_dasar": "menolak, menolak kebenaran",
+        "wazan_perubahan": "فُعِلَ (pasif)"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja pasif, predikat utama",
+        "irab_dan_logika": "verb past tense, tidak berkasrah; tanda damma pada huruf pertama menandakan bentuk pasif"
+      },
+      "hikmah": "Rasul‑rasul **telah mengalami penolakan** secara terbuka, menegaskan ujian yang mereka lalui.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "رُسُلٌۭ",
+      "transliterasi": "rusulun",
+      "jenis_kata": "Isim",
+      "arti": "rasul‑rasul",
+      "sharaf": {
+        "akar_kata": "ر‑س‑ل",
+        "makna_dasar": "orang yang diutus",
+        "wazan_perubahan": "فُعُلٌ (jamak tak berdefinisi)"
+      },
+      "nahwu": {
+        "kedudukan": "مبتدأ (subjek) kalimat",
+        "irab_dan_logika": "marfu' dengan tanwin dammah karena tidak terikat"
+      },
+      "hikmah": "Menunjukkan **kelompok para utusan** yang menjadi subjek utama dalam ayat ini.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "مِّن",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "menunjukkan asal atau sumber",
+        "wazan_perubahan": "preposisi"
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر (preposisi) yang menghubungkan dengan kata benda berikutnya",
+        "irab_dan_logika": "tidak berharakat, mengakibatkan kata berikutnya menjadi مجرور"
+      },
+      "hikmah": "Memberi **konteks temporal** bahwa penolakan itu terjadi **sebelum** masa kenabian kita.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "قَبْلِكَ",
+      "transliterasi": "qablika",
+      "jenis_kata": "Isim",
+      "arti": "sebelummu",
+      "sharaf": {
+        "akar_kata": "ق‑ب‑ل",
+        "makna_dasar": "sebelum, waktu yang lalu",
+        "wazan_perubahan": "فَعْل"
+      },
+      "nahwu": {
+        "kedudukan": "مجرور بحرف الجر (objek preposisi)",
+        "irab_dan_logika": "kasrah pada lam karena dipengaruhi preposisi \"min\", serta suffiks pronominal \"ka\" menandakan kepemilikan"
+      },
+      "hikmah": "Menegaskan **sejarah** bahwa penolakan telah terjadi **sebelum** kedatangan Nabi Muhammad SAW.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "فَصَبَرُوا۟",
+      "transliterasi": "fa‑sabaro",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka bersabar",
+      "sharaf": {
+        "akar_kata": "ص‑ب‑ر",
+        "makna_dasar": "menahan diri, tabah",
+        "wazan_perubahan": "فَعَلَ (past tense, jamak maskulin)"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja pasif (predikat) setelah huruf sambung \"fa\"",
+        "irab_dan_logika": "verb past tense, tidak berkasrah; tanda damma pada alif akhir menandakan jamak maskulin"
+      },
+      "hikmah": "Rasul‑rasul **menunjukkan kesabaran** yang luar biasa meski menghadapi fitnah dan penganiayaan.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "عَلَىٰ",
+      "transliterasi": "ʿalā",
+      "jenis_kata": "Huruf",
+      "arti": "di atas, mengenai",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar (preposisi) yang menghubungkan ke kata berikutnya",
+        "irab_dan_logika": "Membawa majrur; kata berikutnya (مَا) berkasrah"
+      },
+      "hikmah": "Menunjukkan hubungan sebab‑akibat atau penunjuk tempat dalam konteks 'atas apa yang telah didustakan'",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "مَا",
+      "transliterasi": "mā",
+      "jenis_kata": "Isim",
+      "arti": "apa, yang",
+      "sharaf": {
+        "akar_kata": "م-ا",
+        "makna_dasar": "menunjuk pada sesuatu yang tidak diketahui atau yang disebutkan",
+        "wazan_perubahan": "Isim mawsul"
+      },
+      "nahwu": {
+        "kedudukan": "Isim mawsul setelah huruf jar",
+        "irab_dan_logika": "Ber‑kasrah karena dipengaruhi huruf jar \"عَلَىٰ\""
+      },
+      "hikmah": "Berfungsi sebagai objek preposisi, menegaskan hal yang didustakan",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "كُذِّبُوا۟",
+      "transliterasi": "kudh‑dhibū",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka didustakan",
+      "sharaf": {
+        "akar_kata": "ك‑ذ‑ب",
+        "makna_dasar": "menolak kebenaran, berbohong",
+        "wazan_perubahan": "فُعِلَ (pasif)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il madhi majzum (pasif) 3rd jamak",
+        "irab_dan_logika": "Ber‑dammah pada akhir karena bentuk madhi pasif"
+      },
+      "hikmah": "Menunjukkan bahwa para rasul sebelumnya mengalami penolakan secara kolektif",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "وَأُوذُوا۟",
+      "transliterasi": "wa‑ʾūdhū",
+      "jenis_kata": "Fi'il",
+      "arti": "dan mereka dizalimi",
+      "sharaf": {
+        "akar_kata": "أ‑و‑ذ",
+        "makna_dasar": "menyebabkan rasa sakit, penderitaan",
+        "wazan_perubahan": "أُفْعِل (pasif)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il madhi majzum (pasif) 3rd jamak dengan huruf wa sebagai waṣl",
+        "irab_dan_logika": "Ber‑dammah pada akhir; wa menghubungkan dua predikat"
+      },
+      "hikmah": "Menambah deretan penderitaan yang dialami para rasul sebelummu",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "حَتَّىٰٓ",
+      "transliterasi": "ḥattā",
+      "jenis_kata": "Huruf",
+      "arti": "sampai",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf maṣdar (maqsura) yang menghubungkan ke fi'il selanjutnya",
+        "irab_dan_logika": "Tidak memberi i‘rāb pada dirinya; menandakan batas waktu"
+      },
+      "hikmah": "Menunjukkan rentang waktu menunggu pertolongan Allah",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "أَتَىٰهُمْ",
+      "transliterasi": "ʾatāhum",
+      "jenis_kata": "Fi'il",
+      "arti": "datang kepada mereka",
+      "sharaf": {
+        "akar_kata": "أ‑ت‑ى",
+        "makna_dasar": "menyampaikan, datang",
+        "wazan_perubahan": "أَفْعَل"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il madhi 3rd mufrad (laki‑laki) dengan dhamir muttasil \"هم\" sebagai objek",
+        "irab_dan_logika": "Ber‑dammah pada huruf alif karena bentuk madhi; dhamir \"هم\" ber‑kasrah sebagai mafʿūl bihi"
+      },
+      "hikmah": "Menegaskan bahwa pertolongan Allah akan tiba kepada mereka yang bersabar",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "نَصْرُنَا",
+      "transliterasi": "naṣrūna",
+      "jenis_kata": "Isim",
+      "arti": "*pertolongan* / *kemenangan* kami",
+      "sharaf": {
+        "akar_kata": "ن ص ر",
+        "makna_dasar": "menolong, memberi kemenangan",
+        "wazan_perubahan": "isim maf‘ūl (نَصْر) + ضمير متصل (نا)"
+      },
+      "nahwu": {
+        "kedudukan": "mudhaf muttasil (kata benda yang menunjukkan kepemilikan) dalam posisi **nominatif** atau **accusatif** tergantung pada fungsi kalimat",
+        "irab_dan_logika": "damma pada ر menandakan **i‘rāb nominatif** bila berfungsi sebagai subjek, atau **i‘rāb accusatif** bila menjadi objek; dalam ayat ini biasanya berfungsi sebagai objek (nasruna) sehingga ber‑i‘rāb **nasb** dengan fatha pada akhir kata"
+      },
+      "hikmah": "Allah menegaskan bahwa pertolongan‑Nya adalah milik hamba‑Nya; tidak ada yang dapat menolak atau mengubah janji‑Nya.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda baca)",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda berhenti ayat",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "bukan bagian sintaksis, melainkan **waqf** (tanda jeda) yang memisahkan dua bagian kalimat",
+        "irab_dan_logika": "tidak memiliki i‘rāb karena bukan kata"
+      },
+      "hikmah": "Menunjukkan akhir bagian kalimat, memberi ruang bagi pembaca menimbang makna sebelum melanjutkan.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "وَلَا",
+      "transliterasi": "walā",
+      "jenis_kata": "Huruf (harf ‘wa’ + harf ‘lā’)",
+      "arti": "*dan tidak*",
+      "sharaf": {
+        "akar_kata": "ل ا",
+        "makna_dasar": "negasi, menolak",
+        "wazan_perubahan": "hārif naṣb (حرف نفي) yang dipadukan dengan huruf ‘wa’ sebagai huruf alifba"
+      },
+      "nahwu": {
+        "kedudukan": "hārif ‘wa’ sebagai **harf ‘waqf’** (penghubung) dan ‘lā’ sebagai **harf nashid** (penafian) yang menghubungkan klausa selanjutnya",
+        "irab_dan_logika": "tidak ber‑i‘rāb; berfungsi menghubungkan dan menolak aksi atau pernyataan sebelumnya"
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "ۚ",
+      "transliterasi": "Waqf Lazim",
+      "jenis_kata": "Tanda Baca",
+      "arti": "Tanda berhenti sempurna (wajib berhenti)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "N/A",
+        "irab_dan_logika": "N/A"
+      },
+      "hikmah": "Menunjukkan akhir dari satu bagian makna dan permulaan bagian makna baru, membantu pembaca memahami struktur dan alur makna ayat dengan benar.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "وَلَقَدْ",
+      "transliterasi": "wa laqad",
+      "jenis_kata": "Huruf",
+      "arti": "Dan sungguh telah",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Terdiri dari tiga huruf: `و` (wawu 'athaf/penghubung), `لَ` (lam taukid/penegas), dan `قَدْ` (qad tahqiq/penegas kejadian).",
+        "irab_dan_logika": "Semua adalah huruf (`huruf mabni`), sehingga tidak mengalami perubahan harakat akhir (i'rab). `و` menghubungkan kalimat sebelumnya, `لَ` dan `قَدْ` berfungsi untuk menguatkan dan menegaskan bahwa peristiwa yang disebutkan benar-benar telah terjadi."
+      },
+      "hikmah": "Kombinasi huruf ini memberikan penekanan kuat pada kebenaran dan kepastian informasi yang akan disampaikan. Ini menunjukkan bahwa apa yang akan diceritakan bukanlah sekadar kemungkinan, melainkan fakta yang telah terjadi dan memiliki implikasi penting.",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "جَآءَكَ",
+      "transliterasi": "jā'aka",
+      "jenis_kata": "Fi'il (kata kerja) + Dhamir (kata ganti)",
+      "arti": "Telah datang kepadamu",
+      "sharaf": {
+        "akar_kata": "ج ي أ (J-Y-A)",
+        "makna_dasar": "Datang, tiba, muncul",
+        "wazan_perubahan": "`جَآءَ` adalah `Fi'il Madhi` (kata kerja lampau) dari wazan `فَعَلَ`. `كَ` adalah `Dhamir Muttashil` (kata ganti bersambung) untuk orang kedua tunggal maskulin."
+      },
+      "nahwu": {
+        "kedudukan": "`جَآءَ` adalah `Fi'il Madhi` yang berfungsi sebagai predikat. `كَ` adalah `Dhamir Muttashil` yang berkedudukan sebagai `Maf'ul Bih` (objek) dari `جَآءَ`.",
+        "irab_dan_logika": "`جَآءَ` adalah `mabni 'ala al-fath` (tetap dengan harakat fathah) karena merupakan `Fi'il Madhi` yang tidak bersambung dengan dhamir rafa' mutaharrik. `كَ` adalah `dhamir mabni 'ala al-fath` (tetap dengan harakat fathah) pada posisi `nashab` sebagai `maf'ul bih`."
+      },
+      "hikmah": "Menunjukkan bahwa berita atau informasi yang dimaksud telah sampai secara langsung dan pasti kepada Nabi Muhammad ﷺ. Ini menegaskan bahwa beliau telah menerima pelajaran dan penguatan dari kisah-kisah para rasul sebelumnya, yang penting untuk ketabahan beliau dalam berdakwah.",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "مِن",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf",
+      "arti": "Dari, sebagian dari",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Jar (preposisi).",
+        "irab_dan_logika": "Huruf Jar adalah `mabni 'ala as-sukun` (tetap dengan harakat sukun). Fungsinya adalah menjadikan isim setelahnya berharakat kasrah (`majrur`). Dalam konteks ini, `مِن` menunjukkan makna `tab'idh` (sebagian), artinya yang datang adalah sebagian dari berita para rasul."
+      },
+      "hikmah": "Menjelaskan bahwa yang telah sampai kepada Nabi Muhammad ﷺ adalah 'sebagian' dari berita para rasul. Ini menunjukkan bahwa meskipun bukan seluruh detail, informasi yang diberikan sudah cukup dan esensial untuk menjadi pelajaran dan penguat hati.",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "نَّبَإِى۟",
+      "transliterasi": "naba'i",
+      "jenis_kata": "Isim (kata benda)",
+      "arti": "Berita, kabar",
+      "sharaf": {
+        "akar_kata": "ن ب أ (N-B-A)",
+        "makna_dasar": "Berita penting, kabar besar",
+        "wazan_perubahan": "Isim, bentuk `masdar` atau `isim` yang menunjukkan makna berita. Bentuk aslinya adalah `نَبَأٌ`."
+      },
+      "nahwu": {
+        "kedudukan": "Isim Majrur, karena didahului oleh `Huruf Jar` `مِن`. Juga berkedudukan sebagai `Mudhaf` (kata yang disandarkan) kepada `ٱلْمُرْسَلِينَ`.",
+        "irab_dan_logika": "Berharakat `kasrah` (نَّبَإِ) karena merupakan `isim majrur` setelah `مِن`. Harakat kasrah ini juga sesuai karena ia adalah `mudhaf` yang diikuti oleh `mudhaf ilaih`."
+      },
+      "hikmah": "Merujuk pada kisah-kisah, pengalaman, dan pelajaran yang terkandung dalam sejarah para rasul terdahulu. Ini adalah sumber informasi yang kaya akan hikmah dan pengajaran bagi Nabi Muhammad ﷺ dan umatnya.",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "ٱلْمُرْسَلِينَ",
+      "transliterasi": "al-mursalīn",
+      "jenis_kata": "Isim (kata benda)",
+      "arti": "Para rasul, orang-orang yang diutus",
+      "sharaf": {
+        "akar_kata": "ر س ل (R-S-L)",
+        "makna_dasar": "Mengutus, mengirim",
+        "wazan_perubahan": "`ٱلْمُرْسَلِينَ` adalah `Isim Maf'ul` (yang diutus) dari `Fi'il Arsala` (أَرْسَلَ), dalam bentuk `Jamak Mudzakkar Salim` (plural maskulin teratur). Wazannya adalah `مُفْعَلِينَ`."
+      },
+      "nahwu": {
+        "kedudukan": "Mudhaf Ilaih (kata yang disandarkan), dari `نَّبَإِى۟`.",
+        "irab_dan_logika": "Berharakat `ya'` (ي) karena merupakan `Mudhaf Ilaih` dan berbentuk `Jamak Mudzakkar Salim`. Dalam keadaan `jar` (majrur), `Jamak Mudzakkar Salim` menggunakan `ya'` dan `nun` (ـِينَ) sebagai tanda i'rabnya."
+      },
+      "hikmah": "Menegaskan bahwa berita yang datang adalah tentang para utusan Allah yang mulia, yang telah diutus dengan misi ilahi. Kisah-kisah mereka adalah teladan kesabaran, ketabahan, dan keyakinan akan pertolongan Allah, yang berfungsi sebagai penguat bagi Nabi Muhammad ﷺ dalam menghadapi tantangan dakwah.",
+      "role": "none"
+    }
+  ]
+}

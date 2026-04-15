@@ -1,0 +1,240 @@
+{
+  "surah": 8,
+  "ayah": 73,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "وَٱلَّذِينَ",
+      "transliterasi": "wa al-ladhīna",
+      "jenis_kata": "Isim",
+      "arti": "dan orang‑orang yang",
+      "sharaf": {
+        "akar_kata": "ل‑ذ‑ر",
+        "makna_dasar": "yang",
+        "wazan_perubahan": "faʿala (jamak maskulin maḍi)"
+      },
+      "nahwu": {
+        "kedudukan": "Mubtadaʾ (subjek) yang didahului huruf waʿun (و)",
+        "irab_dan_logika": "مرفوع بالضمة لأنّه مبتدأ مرفوع بعد واو العطف"
+      },
+      "hikmah": "Menunjukkan kelompok orang yang menolak keimanan, sebagai subjek utama ayat.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "كَفَرُوا۟",
+      "transliterasi": "kafarū",
+      "jenis_kata": "Fiʿil",
+      "arti": "mereka kafir",
+      "sharaf": {
+        "akar_kata": "ك‑ف‑ر",
+        "makna_dasar": "menolak keimanan",
+        "wazan_perubahan": "faʿala (past tense, 3ʿ jamak)"
+      },
+      "nahwu": {
+        "kedudukan": "Khabar (predikat) dari mubtadaʾ sebelumnya",
+        "irab_dan_logika": "مبني على الفتح لأنّه فعل ماضٍ"
+      },
+      "hikmah": "Menyatakan tindakan menolak iman yang dilakukan oleh kelompok yang disebutkan.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "بَعْضُهُمْ",
+      "transliterasi": "baʿḍuhum",
+      "jenis_kata": "Isim",
+      "arti": "sebagian mereka",
+      "sharaf": {
+        "akar_kata": "ب‑ع‑ض",
+        "makna_dasar": "sebagian",
+        "wazan_perubahan": "faʿala"
+      },
+      "nahwu": {
+        "kedudukan": "Mubtadaʾ kedua dalam iḍāfah (baʿḍu + hum)",
+        "irab_dan_logika": "مرفوع بالضمة لأنّه مبتدأ مرفوع في جملة اسمية"
+      },
+      "hikmah": "Menunjukkan bahwa hanya sebagian dari mereka yang menjadi pelindung.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "أَوْلِيَآءُ",
+      "transliterasi": "awliyāʾu",
+      "jenis_kata": "Isim",
+      "arti": "pelindung, pemelihara",
+      "sharaf": {
+        "akar_kata": "و‑ل‑ى",
+        "makna_dasar": "menjadi dekat, melindungi",
+        "wazan_perubahan": "faʿīl"
+      },
+      "nahwu": {
+        "kedudukan": "Khabar (predikat) dalam iḍāfah (awliyāʾu baʿḍin)",
+        "irab_dan_logika": "مرفوع بالضمة لأنه خبر مرفوع"
+      },
+      "hikmah": "Menyiratkan peran mereka sebagai pelindung bagi sebagian lain.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "بَعْضٍ",
+      "transliterasi": "baʿḍin",
+      "jenis_kata": "Isim",
+      "arti": "sebagian",
+      "sharaf": {
+        "akar_kata": "ب‑ع‑ض",
+        "makna_dasar": "sebagian",
+        "wazan_perubahan": "faʿila"
+      },
+      "nahwu": {
+        "kedudukan": "Mudhāf ilayh (genitif) dalam iḍāfah awliyāʾu baʿḍin",
+        "irab_dan_logika": "مجرور بالكسرة لأنه مضاف إليه"
+      },
+      "hikmah": "Menunjukkan objek perlindungan, yaitu sebagian orang lain.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf",
+      "arti": "tanda ayat (stop)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Tidak termasuk dalam tata bahasa; merupakan tanda baca",
+        "irab_dan_logika": "Tidak berirab karena bukan kata"
+      },
+      "hikmah": "Menandai akhir ayat, memberi jeda bagi pembaca.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "إِلَّا",
+      "transliterasi": "illa",
+      "jenis_kata": "Huruf",
+      "arti": "kecuali, melainkan",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "حرف استثناء بعد نفي",
+        "irab_dan_logika": "حرف لا يُعرب، يَستثْنِي ما بعده من النفي"
+      },
+      "hikmah": "menunjukkan pengecualian, menegaskan bahwa apa yang disebutkan sebelumnya tidak termasuk",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "تَفْعَلُوهُ",
+      "transliterasi": "tafʿalūhu",
+      "jenis_kata": "Fi'il",
+      "arti": "kamu (semua) melakukannya",
+      "sharaf": {
+        "akar_kata": "ف ع ل",
+        "makna_dasar": "melakukan, mengerjakan",
+        "wazan_perubahan": "فَعَلَ – فعل مضارع مع تاء الفاعل والواو للغائب الجمع"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع بالضمة الظاهرة على آخره (تَفْعَلُ) مع واو الجماعة وضمير متصل هو",
+        "irab_dan_logika": "مرفوع لأنه فعل مضارع مبني على الفتح، والواو للغائب الجمع والضمير المتصل هو مفعول به"
+      },
+      "hikmah": "menekankan kewajiban melakukan perintah Allah secara kolektif",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "تَكُن",
+      "transliterasi": "takun",
+      "jenis_kata": "Fi'il",
+      "arti": "(ia) menjadi, (itu) mungkin ada",
+      "sharaf": {
+        "akar_kata": "ك و ن",
+        "makna_dasar": "menjadi, ada",
+        "wazan_perubahan": "كان – فعل مضارع منصوب بحرف النصب أن"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع منصوب بحرف النصب أن",
+        "irab_dan_logika": "منصوب لأنه وقع بعد حرف النصب أن"
+      },
+      "hikmah": "menyiratkan kemungkinan terjadinya fitnah",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "فِتْنَةٌۭ",
+      "transliterasi": "fitnah",
+      "jenis_kata": "Isim",
+      "arti": "cobaan, fitnah, kerusuhan",
+      "sharaf": {
+        "akar_kata": "ف ت ن",
+        "makna_dasar": "menimbulkan ujian atau kerusuhan",
+        "wazan_perubahan": "فَعْلَة"
+      },
+      "nahwu": {
+        "kedudukan": "اسم مرفوع بالضمة لأنه فاعل لفعل تكون",
+        "irab_dan_logika": "مرفوع بالضمة لأنّه فاعل الفعل"
+      },
+      "hikmah": "menunjukkan adanya ujian atau kerusuhan yang dapat melanda bumi",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "فِى",
+      "transliterasi": "fi",
+      "jenis_kata": "Huruf",
+      "arti": "di, dalam",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر",
+        "irab_dan_logika": "حرف لا يُعرب، يجر ما بعده إلى الجر"
+      },
+      "hikmah": "menunjukkan tempat terjadinya fitnah",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "وَفَسَادٌۭ",
+      "transliterasi": "wa‑fasādun",
+      "jenis_kata": "Isim",
+      "arti": "kerusakan, kebinasaan",
+      "sharaf": {
+        "akar_kata": "ف س د",
+        "makna_dasar": "rusak, hancur",
+        "wazan_perubahan": "fa‘ala → fasād"
+      },
+      "nahwu": {
+        "kedudukan": "**مبتدأ** (subjek) dalam جملة اسمية “وَفَسَادٌ كَبِيرٌ”",
+        "irab_dan_logika": "Marfu‘ dengan dhammah + tanwin dammah karena kata ini indefinitif dan berfungsi sebagai مبتدأ; harakat akhir menandakan status marfu‘ dalam i‘rāb"
+      },
+      "hikmah": "Kerusakan yang disebutkan bukan sekadar kerusakan kecil, melainkan **kerusakan besar** yang akan melanda bumi bila perintah Allah tidak ditaati.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "كَبِيرٌۭ",
+      "transliterasi": "kabīrun",
+      "jenis_kata": "Isim",
+      "arti": "besar, agung",
+      "sharaf": {
+        "akar_kata": "ك ب ر",
+        "makna_dasar": "besar, tinggi, agung",
+        "wazan_perubahan": "fa‘īl (kabiir)"
+      },
+      "nahwu": {
+        "kedudukan": "**خبر** (predikat) dari جملة اسمية “وَفَسَادٌ كَبِيرٌ”",
+        "irab_dan_logika": "Marfu‘ dengan dhammah + tanwin dammah karena berfungsi sebagai خبر yang indefinitif; harakat akhir menandakan i‘rāb marfu‘"
+      },
+      "hikmah": "Menegaskan bahwa kerusakan yang akan terjadi bersifat **sangat besar**, sehingga memperingatkan umat untuk menunaikan perintah Allah demi menghindari kehancuran luas.",
+      "role": "none"
+    }
+  ]
+}

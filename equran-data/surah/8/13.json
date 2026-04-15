@@ -1,0 +1,186 @@
+{
+  "surah": 8,
+  "ayah": 13,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "ذَٰلِكَ",
+      "transliterasi": "dhālika",
+      "jenis_kata": "Isim (isim dhomir)",
+      "arti": "itu",
+      "sharaf": {
+        "akar_kata": "ذ-ل-ك",
+        "makna_dasar": "menunjuk pada sesuatu yang telah disebut atau diketahui",
+        "wazan_perubahan": "tidak berubah (isim dhomir)"
+      },
+      "nahwu": {
+        "kedudukan": "isim ma'rifah (demonstratif) sebagai mubtada' dalam kalimat",
+        "irab_dan_logika": "marfu' karena mubtada', berharakat dhammah pada ذَ"
+      },
+      "hikmah": "Menegaskan bahwa apa yang disebut selanjutnya merupakan konsekuensi dari hal yang telah disebut sebelumnya.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "بِأَنَّهُمْ",
+      "transliterasi": "bi-anna-hum",
+      "jenis_kata": "Huruf (حرف جر + حرف توكيد + ضمير)",
+      "arti": "karena mereka",
+      "sharaf": {
+        "akar_kata": "أ-ن-ن (anna) / ه-م (hum)",
+        "makna_dasar": "menyatakan sebab‑akibat, menegaskan pihak yang melakukan tindakan",
+        "wazan_perubahan": "bi- (preposisi) + anna (huruf sebab) + hum (pronoun)"
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر + حرف توكيد + ضمير متصل, memperkenalkan anak kalimat sebab",
+        "irab_dan_logika": "bi‑ berharakat kasrah karena huruf jar, anna berharakat fatha sebagai huruf sebab, hum berharakat dammah sebagai objek jar"
+      },
+      "hikmah": "Menunjukkan alasan mengapa mereka mendapat azab, yaitu karena mereka menentang Allah dan Rasul‑Nya.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "شَآقُّوا۟",
+      "transliterasi": "shāqqū",
+      "jenis_kata": "Fi'il (verb)",
+      "arti": "menentang, melawan",
+      "sharaf": {
+        "akar_kata": "ش-ق-ق",
+        "makna_dasar": "menyakitkan, mengganggu, menentang",
+        "wazan_perubahan": "فَعَلَ (fa'ala) – bentuk past tense"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il madhi (verb past) sebagai predikat utama dalam klausa sebab",
+        "irab_dan_logika": "marfu' karena fi'il madhi, berharakat dammah pada آخر karena bentuk past"
+      },
+      "hikmah": "Menggambarkan tindakan keras mereka yang menolak perintah Allah dan Rasul‑Nya.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "ٱللَّهَ",
+      "transliterasi": "Allāha",
+      "jenis_kata": "Isim (nama Allah)",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "— (nama khusus)",
+        "makna_dasar": "Tuhan Yang Maha Esa",
+        "wazan_perubahan": "tidak berubah, اسم علم"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به (objek) dari fi'il شَاقُّوا",
+        "irab_dan_logika": "منصوب karena مفعول به, berharakat fathah pada akhir kata"
+      },
+      "hikmah": "Objek utama penentangan, menegaskan bahwa Allah adalah yang ditentang.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "وَرَسُولَهُۥ",
+      "transliterasi": "wa-rasūlihi",
+      "jenis_kata": "Isim (nama) dengan huruf عطف",
+      "arti": "dan Rasul‑Nya",
+      "sharaf": {
+        "akar_kata": "ر-س-ل",
+        "makna_dasar": "utusan, pembawa pesan",
+        "wazan_perubahan": "اسم مفعول به مع ضمير متصل"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به koordinatif bersama ٱللَّهَ",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "Menambah objek penentangan, menegaskan bahwa penentang menolak tidak hanya Allah tetapi juga Rasul‑Nya.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf (tanda waqf)",
+      "arti": "tanda berhenti",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda waqf, memisahkan ayat ini dari lanjutan",
+        "irab_dan_logika": "tidak berirab, berfungsi sebagai tanda baca"
+      },
+      "hikmah": "Memberi jeda bagi pembaca untuk merenungkan makna ayat.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "وَمَن",
+      "transliterasi": "wa‑man",
+      "jenis_kata": "Isim (اسم موصول)",
+      "arti": "dan siapa",
+      "sharaf": {
+        "akar_kata": "م‑ن",
+        "makna_dasar": "siapa",
+        "wazan_perubahan": "tidak berwazn (kata ganti)"
+      },
+      "nahwu": {
+        "kedudukan": "*اسم شرط جازم* setelah حرف العطف **wa**",
+        "irab_dan_logika": "مُنصوب بالفتحة لأنّها اسم شرط جازم يجرّ الفعل المضارع إلى الجزم"
+      },
+      "hikmah": "Menunjukkan orang yang berpotensi menentang Allah dan Rasul‑Nya, menekankan sifat universal peringatan.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "يُشَاقِقِ",
+      "transliterasi": "yušāqiqi",
+      "jenis_kata": "Fi'il (فعل مضارع)",
+      "arti": "menentang, melawan",
+      "sharaf": {
+        "akar_kata": "ش‑ق‑ق",
+        "makna_dasar": "menentang, berselisih",
+        "wazan_perubahan": "فَاعَلَ (form III)"
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "شَدِيدُ",
+      "transliterasi": "shadīdu",
+      "jenis_kata": "Isim (isim sifat)",
+      "arti": "keras, berat, sangat",
+      "sharaf": {
+        "akar_kata": "ش د د",
+        "makna_dasar": "keras, kuat, berat",
+        "wazan_perubahan": "**صيغة فعّال** (faʿʿāl) – pola intensif"
+      },
+      "nahwu": {
+        "kedudukan": "**Sifat** (صفة) yang menerangkan kata *العِقَابِ* dalam frasa *إِلَىٰ عِقَابٍ شَدِيدٍ*",
+        "irab_dan_logika": "مرفوع بالضمة الظاهرة لأن kata ini berfungsi sebagai **khabar** (predikat) dari kata *عِقَابٍ* yang berada dalam keadaan جرّ; sehingga sifatnya mengikuti i‘rāb kata yang dijelaskan"
+      },
+      "hikmah": "Menunjukkan betapa **keras** dan **parah**nya siksaan yang akan ditimpakan, memberi peringatan akan konsekuensi yang sangat berat bagi yang menentang Allah dan Rasul-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "ٱلْعِقَابِ",
+      "transliterasi": "al-ʿiqābi",
+      "jenis_kata": "Isim (isim mausuf)",
+      "arti": "hukuman, siksaan",
+      "sharaf": {
+        "akar_kata": "ع ق ب",
+        "makna_dasar": "hukuman, azab",
+        "wazan_perubahan": "**صيغة فَعَال** (faʿāl) – bentuk isim yang mengekspresikan tindakan atau keadaan"
+      },
+      "nahwu": {
+        "kedudukan": "**Isim** yang berada dalam **جرّ** karena didahului huruf jar *إِلَىٰ*",
+        "irab_dan_logika": "مجرور بالكسرة الظاهرة على آخره نتيجة pengaruh preposisi *إِلَىٰ*; sifat *شَدِيدُ* ikut berada dalam حالة الجرّ untuk menyesuaikan dengan kata yang dijelaskannya"
+      },
+      "hikmah": "Menggambarkan **azab** yang **sangat berat**; menegaskan bahwa siksaan Allah tidak main-main dan bersifat **menakutkan** bagi siapa saja yang menentang-Nya.",
+      "role": "none"
+    }
+  ]
+}

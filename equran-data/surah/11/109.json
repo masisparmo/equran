@@ -1,0 +1,348 @@
+{
+  "surah": 11,
+  "ayah": 109,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "فَلَا",
+      "transliterasi": "fa-lā",
+      "jenis_kata": "Huruf (حرف عطف + نهي)",
+      "arti": "maka jangan",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "حرف عطف يسبق الفعل ويقود جملة الأمر",
+        "irab_dan_logika": "حرف مبني على السكون لا إعراب له، يربط بين الجملة السابقة والآية الحالية"
+      },
+      "hikmah": "**نهي** dari keraguan, mengingatkan agar tidak ragu.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "تَكُ",
+      "transliterasi": "takū",
+      "jenis_kata": "Fi'il (فعل مضارع)",
+      "arti": "berada",
+      "sharaf": {
+        "akar_kata": "ك-و-ن",
+        "makna_dasar": "ada, eksistensi",
+        "wazan_perubahan": "فَعَلَ"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مجزوم بـ لا الناهية",
+        "irab_dan_logika": "علامة جزمه السكون لأن الفعل بعد لا الناهية"
+      },
+      "hikmah": "**Jangan berada** dalam keraguan; perintah negatif yang tegas.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "فِي",
+      "transliterasi": "fī",
+      "jenis_kata": "Huruf (حرف جر)",
+      "arti": "di, dalam",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر يسبق اسمًا مجرورًا",
+        "irab_dan_logika": "مبني على السكون، يرفع المجرور إلى حالة الجر"
+      },
+      "hikmah": "Menunjukkan **kondisi** berada dalam sesuatu, yaitu keraguan.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "هَٰٓؤُلَآءِ",
+      "transliterasi": "hā'ulā'i",
+      "jenis_kata": "Isim (isim išārah)",
+      "arti": "ini, mereka (yang dekat)",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "kata tunjuk yang menunjuk pada orang/hal yang dekat dengan pembicara",
+        "wazan_perubahan": "bentuk jamak demonstratif, tidak berakar pada pola fi‘il"
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada' (subjek) dalam kalimat, marfu'",
+        "irab_dan_logika": "Berakhiran dammah karena berfungsi sebagai مبتدأ مرفوع"
+      },
+      "hikmah": "Menegaskan bahwa yang disembah adalah **mereka** (orang‑orang) yang disebutkan, menekankan kepemilikan kelompok.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "ۚ",
+      "transliterasi": "—",
+      "jenis_kata": "Huruf (tanda waqf)",
+      "arti": "tanda jeda/berhenti",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca yang memisahkan bagian kalimat",
+        "irab_dan_logika": "Tidak berirab, berfungsi sebagai **waqf** untuk memberi jeda"
+      },
+      "hikmah": "Menandakan akhir bagian kalimat, memberi ruang bagi pembaca memahami makna sebelumnya.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "مَا",
+      "transliterasi": "mā",
+      "jenis_kata": "Isim (isim ma‘rifiyyah/isim moṣūl)",
+      "arti": "apa",
+      "sharaf": {
+        "akar_kata": "م-ا",
+        "makna_dasar": "kata tanya/penunjuk yang merujuk pada sesuatu yang tidak diketahui",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Maf‘ul bih (objek) dari fi‘il **يَعْبُدُونَ**",
+        "irab_dan_logika": "Berakhiran fathah karena berfungsi sebagai منصوب"
+      },
+      "hikmah": "Menunjukkan objek yang disembah, yaitu **apa** yang mereka sembah.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "يَعْبُدُونَ",
+      "transliterasi": "ya‘budūna",
+      "jenis_kata": "Fi‘il (madhi mudhari‘ marfu‘)",
+      "arti": "mereka menyembah",
+      "sharaf": {
+        "akar_kata": "ع‑ب‑د",
+        "makna_dasar": "menyembah, mengabdi kepada Allah",
+        "wazan_perubahan": "pola فعل"
+      },
+      "nahwu": {
+        "kedudukan": "Kata kerja berkesinambungan (madhi mudhari‘) sebagai predikat",
+        "irab_dan_logika": "Berakhiran dammah karena merupakan فعل مضارع مرفوع بالضمة"
+      },
+      "hikmah": "Menyatakan tindakan **menyembah** yang dilakukan oleh subjek sebelumnya.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "إِلَّا",
+      "transliterasi": "illā",
+      "jenis_kata": "Huruf (harf istithna’)",
+      "arti": "kecuali, melainkan",
+      "sharaf": {
+        "akar_kata": "ل‑و",
+        "makna_dasar": "mengecualikan sesuatu dari pernyataan sebelumnya",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Harf istithna’ yang menghubungkan **مَا** dengan **كَمَا**",
+        "irab_dan_logika": "Tidak berirab; berfungsi sebagai penanda pengecualian"
+      },
+      "hikmah": "Memberi batasan bahwa apa yang disembah **kecuali** sebagaimana yang disebutkan selanjutnya.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "كَمَا",
+      "transliterasi": "kamā",
+      "jenis_kata": "Huruf (harf tashbih)",
+      "arti": "seperti, sebagaimana",
+      "sharaf": {
+        "akar_kata": "ك‑م‑ا",
+        "makna_dasar": "menunjukkan persamaan atau perbandingan",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Harf tashbih yang memperkenalkan klausa perbandingan",
+        "irab_dan_logika": "Tidak berirab; menghubungkan dua unsur yang sepadan"
+      },
+      "hikmah": "Menyiratkan bahwa apa yang mereka sembah **sebagaimana** yang dilakukan nenek moyang mereka sebelumnya.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "يَعْبُدُ",
+      "transliterasi": "ya‘budu",
+      "jenis_kata": "Fi‘il",
+      "arti": "menyembah",
+      "sharaf": {
+        "akar_kata": "ع ب د",
+        "makna_dasar": "menyembah, memuja",
+        "wazan_perubahan": "فَعَلَ (fi‘il mudhari‘)"
+      },
+      "nahwu": {
+        "kedudukan": "predikat (fi‘il) dalam kalimat",
+        "irab_dan_logika": "marfu‘ بالضمة الظاهرة لأنّه فعل مضارع مرفوع بالضمة"
+      },
+      "hikmah": "menunjukkan tindakan penyembahan yang dilakukan oleh nenek‑moyang, menegaskan bahwa penyembahan itu bukan hal baru.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "أَبَاؤُهُمْ",
+      "transliterasi": "abaā’uhum",
+      "jenis_kata": "Isim",
+      "arti": "para ayah/nenek‑moyang",
+      "sharaf": {
+        "akar_kata": "أ ب",
+        "makna_dasar": "bapak, ayah",
+        "wazan_perubahan": "أَفْعَال (jamak maskulin سالم)"
+      },
+      "nahwu": {
+        "kedudukan": "muf‘al bihi (مفعول به) dari يَعْبُدُ",
+        "irab_dan_logika": "مَنْصُوب بالفتحة (الفتحة مخفية بسبب حركة الضمة على الضمير المتصل)"
+      },
+      "hikmah": "menunjuk kepada generasi terdahulu yang menjadi contoh dalam penyembahan, menegaskan kesinambungan kebiasaan.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "مِن",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar yang menghubungkan ما dengan أَبَاؤُهُمْ",
+        "irab_dan_logika": "jar لأنّها حرف جر لا يُعرب"
+      },
+      "hikmah": "menyiratkan asal‑usul penyembahan itu berasal dari nenek‑moyang.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "قَبْلُ",
+      "transliterasi": "qabl",
+      "jenis_kata": "Isim",
+      "arti": "sebelum",
+      "sharaf": {
+        "akar_kata": "ق ب ل",
+        "makna_dasar": "sebelum, masa lampau",
+        "wazan_perubahan": "فَعْل"
+      },
+      "nahwu": {
+        "kedudukan": "ظرف زمان يوضح متى كان يعبد أَبَاؤُهُمْ",
+        "irab_dan_logika": "مرفوع بالضمة لأنه اسم زمان مرفوع"
+      },
+      "hikmah": "menegaskan bahwa penyembahan itu terjadi pada masa yang telah berlalu, bukan masa kini.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Huruf",
+      "arti": "tanda jeda",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda waqf (وقف) yang memisahkan bagian ayat",
+        "irab_dan_logika": "tidak يُعرب karena هو علامة إعرابية"
+      },
+      "hikmah": "memberi jeda untuk menekankan makna sebelumnya sebelum melanjutkan ke ayat berikutnya.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "وَإِنَّا",
+      "transliterasi": "wa‑inna",
+      "jenis_kata": "Huruf",
+      "arti": "dan sesungguhnya Kami",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "حرف عطف + حرف توكيد يربط ما قبلها بما بعده",
+        "irab_dan_logika": "حرف عطف لا يُعرب، وحرف توكيد (إنَّ) يُعرب وهو مرفوع بالضمة"
+      },
+      "hikmah": "menegaskan kepastian Allah bahwa Dia akan menghidupkan kembali orang mati dan memberi ketenangan kepada orang beriman.",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "لَمُوَفُّوهُمْ",
+      "transliterasi": "lamūwaffūhum",
+      "jenis_kata": "Fi'il (verb)",
+      "arti": "menyempurnakan, memenuhi",
+      "sharaf": {
+        "akar_kata": "و ف ق",
+        "makna_dasar": "memenuhi, menepati janji",
+        "wazan_perubahan": "فَعَّ (fa‘‘a) dengan prefiks lam‑mu (penegasan)"
+      },
+      "nahwu": {
+        "kedudukan": "predikat (fi'il) utama dalam ayat",
+        "irab_dan_logika": "fi'il madhi (past) dengan harakat damma pada lam (lamu) sebagai penegasan; huruf alif‑lam tidak berfungsi sebagai huruf jar, sehingga harakat damma menandakan bentuk mudhari‘ majzum? dalam konteks ini menandakan kesinambungan tindakan Allah"
+      },
+      "hikmah": "**Allah menegaskan** bahwa balasan kepada mereka akan diberikan secara penuh tanpa penangguhan; penggunaan *lamu* menambah kepastian dan kekuatan makna.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "نَصِيبَهُمْ",
+      "transliterasi": "naṣībahum",
+      "jenis_kata": "Isim (noun)",
+      "arti": "bagian, bagian yang menjadi hak",
+      "sharaf": {
+        "akar_kata": "ن ص ب",
+        "makna_dasar": "porsi, bagian",
+        "wazan_perubahan": "فِعِل (fa‘il) dengan tambahan huruf alif‑lam pada akhir untuk menandakan kepemilikan"
+      },
+      "nahwu": {
+        "kedudukan": "objek (maf‘ul bih) dari fi'il *lamūwaffūhum*",
+        "irab_dan_logika": "dalam keadaan nasb (kasra pada ص) karena menjadi maf‘ul bih; huruf *‑hum* menandakan kepemilikan jamak maskulin"
+      },
+      "hikmah": "Allah akan **menyempurnakan hak** mereka, yaitu bagian balasan yang pantas bagi setiap orang sesuai perbuatannya.",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "غَيْرَ",
+      "transliterasi": "ghayra",
+      "jenis_kata": "Huruf (partikel)",
+      "arti": "bukan, tidak",
+      "sharaf": {
+        "akar_kata": "غ ي ر",
+        "makna_dasar": "tidak, selain",
+        "wazan_perubahan": "bentuk isim yang dipakai sebagai huruf nashb (penyangkalan)"
+      },
+      "nahwu": {
+        "kedudukan": "huruf nashb (penyangkalan) yang menghubungkan *naṣībahum* dengan *manqūṣin*",
+        "irab_dan_logika": "huruf ini tidak berharakat; ia menuntut kata berikutnya berada dalam keadaan nasb (kasra)"
+      },
+      "hikmah": "Menegaskan bahwa **tidak ada** pengurangan atau pemotongan dalam balasan yang akan diberikan.",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "مَنقُوصٍۢ",
+      "transliterasi": "manqūṣin",
+      "jenis_kata": "Isim (isim maf‘ul)",
+      "arti": "yang dikurangi",
+      "sharaf": {
+        "akar_kata": "ن ق ص",
+        "makna_dasar": "mengurangi, memotong",
+        "wazan_perubahan": "مَفْعُول (maf‘ūl) – bentuk pasif participle"
+      },
+      "nahwu": {
+        "kedudukan": "kata sifat (isim maf‘ul) yang menjadi pelengkap *ghayra*",
+        "irab_dan_logika": "berharakat kasra karena berada dalam keadaan nasb setelah huruf nashb *ghayra*"
+      },
+      "hikmah": "Allah menegaskan bahwa **balasan tidak akan berkurang** sedikitpun; janji-Nya penuh dan sempurna.",
+      "role": "none"
+    }
+  ]
+}

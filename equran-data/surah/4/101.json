@@ -1,0 +1,402 @@
+{
+  "surah": 4,
+  "ayah": 101,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "وَإِذَا",
+      "transliterasi": "wa-idhā",
+      "jenis_kata": "Huruf (حرف عطف + حرف شرط)",
+      "arti": "dan apabila",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "kata pembuka kalimat, menghubungkan dengan ayat sebelumnya dan menandakan syarat",
+        "irab_dan_logika": "مرفوع بالضمة لأنه حرف عطف وحرف شرط"
+      },
+      "hikmah": "Menunjukkan hubungan sebab‑akibat; bila terjadi perjalanan, maka ada ketentuan selanjutnya.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "ضَرَبْتُمْ",
+      "transliterasi": "ḍarabtum",
+      "jenis_kata": "Fi'il (verb)",
+      "arti": "kamu menempuh/menyusuri",
+      "sharaf": {
+        "akar_kata": "ض ر ب",
+        "makna_dasar": "menepuk, menumbuk, menempuh",
+        "wazan_perubahan": "فَعَلَ"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il madhi (verb past) berakhiran ‑تم untuk orang kedua jamak",
+        "irab_dan_logika": "مرفوع بالضمة لأن الفعل الماضي لا يُعرب"
+      },
+      "hikmah": "Menggambarkan aktivitas perjalanan atau pergerakan di muka bumi.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "فِى",
+      "transliterasi": "fī",
+      "jenis_kata": "Huruf (preposisi)",
+      "arti": "di, dalam",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar, menghubungkan kata benda berikutnya",
+        "irab_dan_logika": "حرف جر لا يُعرب"
+      },
+      "hikmah": "Menunjukkan tempat atau ruang yang dimaksud, yaitu bumi.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "ٱلْأَرْضِ",
+      "transliterasi": "al-arḍi",
+      "jenis_kata": "Isim (kata benda)",
+      "arti": "bumi",
+      "sharaf": {
+        "akar_kata": "ر ض",
+        "makna_dasar": "tanah, bumi",
+        "wazan_perubahan": "فَعْل"
+      },
+      "nahwu": {
+        "kedudukan": "اسم مجرور بحرف الجر \"في\" وعلامة جره الكسرة",
+        "irab_dan_logika": "مجرور بالكسرة لأن الفعل قبله جار"
+      },
+      "hikmah": "Objek tempat perjalanan, menegaskan bahwa perintah berlaku saat berada di bumi.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "فَلَيْسَ",
+      "transliterasi": "fa-laysa",
+      "jenis_kata": "Huruf (kata negasi)",
+      "arti": "maka tidak",
+      "sharaf": {
+        "akar_kata": "لا",
+        "makna_dasar": "negasi",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "حرف نفي (ليس) مبني على الفتح لا محل له من الإعراب",
+        "irab_dan_logika": "مبني على الفتح لأنه حرف نفي"
+      },
+      "hikmah": "Menyatakan bahwa tidak ada kewajiban tertentu dalam kondisi tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "عَلَيْكُمْ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf (حرف جر) + ضمير متصل",
+      "arti": "atas kamu",
+      "sharaf": {
+        "akar_kata": "ع ل ي",
+        "makna_dasar": "menunjuk pada beban atau kewajiban",
+        "wazan_perubahan": "فَعَلَ"
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر مع ضمير متصل في محل جر مضاف إليه",
+        "irab_dan_logika": "مجرور بالكسرة لأن حرف الجر \"على\" يجر ما بعده"
+      },
+      "hikmah": "Menegaskan bahwa tidak ada beban (menqashar shalat) atas kalian ketika dalam perjalanan.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "جُنَاحٌ",
+      "transliterasi": "junahun",
+      "jenis_kata": "Isim",
+      "arti": "dosa, kesalahan",
+      "sharaf": {
+        "akar_kata": "ج-ن-ح",
+        "makna_dasar": "kesalahan, pelanggaran",
+        "wazan_perubahan": "maf'ul (fu'lan)"
+      },
+      "nahwu": {
+        "kedudukan": "kata benda yang dapat berfungsi sebagai subjek atau objek tergantung konteks",
+        "irab_dan_logika": "dhammah karena tanwin dammah يدل على حالة الرفع للرفع غير المعرف"
+      },
+      "hikmah": "menunjukkan bahwa perbuatan yang mengurangi shalat dianggap sebagai dosa bila disengaja",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "أَن",
+      "transliterasi": "an",
+      "jenis_kata": "Huruf",
+      "arti": "bahwa, untuk",
+      "sharaf": {
+        "akar_kata": "أ-ن",
+        "makna_dasar": "menyatakan sebab atau tujuan",
+        "wazan_perubahan": "tidak berlaku (huruf)"
+      },
+      "nahwu": {
+        "kedudukan": "huruf nasb yang menghubungkan fi'il amr dengan kalimat sebelumnya",
+        "irab_dan_logika": "harf nasb لا يُعرب، يُنصب الفعل بعده"
+      },
+      "hikmah": "menyambungkan perintah 'takut' dengan larangan memendekkan shalat",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "تَقْصُرُوا۟",
+      "transliterasi": "taqsurū",
+      "jenis_kata": "Fi'il",
+      "arti": "kalian memperpendek",
+      "sharaf": {
+        "akar_kata": "ق-ص-ر",
+        "makna_dasar": "memendekkan, mengurangi",
+        "wazan_perubahan": "fi'il mudhari' amr dengan واو الجماعة"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il amr (perintah) yang menjadi objek huruf 'an'",
+        "irab_dan_logika": "مبني على السكون، والواو للرفع المتصل"
+      },
+      "hikmah": "menegaskan larangan mempersingkat ibadah shalat",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "مِنَ",
+      "transliterasi": "mina",
+      "jenis_kata": "Huruf",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "م-ن-",
+        "makna_dasar": "menunjukkan asal atau bagian",
+        "wazan_perubahan": "tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar yang menghubungkan fi'il dengan isim",
+        "irab_dan_logika": "حرف جر مبني على الكسر"
+      },
+      "hikmah": "menyatakan bahwa yang dilarang adalah memendekkan sebagian shalat",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "ٱلصَّلَوٰةِ",
+      "transliterasi": "al-ṣalāti",
+      "jenis_kata": "Isim",
+      "arti": "shalat",
+      "sharaf": {
+        "akar_kata": "ص-ل-و",
+        "makna_dasar": "ibadah dengan rukuk dan sujud",
+        "wazan_perubahan": "isim maf'ul (fa'ala)"
+      },
+      "nahwu": {
+        "kedudukan": "isim مجرور بحرف الجر 'mina'",
+        "irab_dan_logika": "مجرور بالكسرة وعلامة جره الكسرة الظاهرة"
+      },
+      "hikmah": "menunjukkan objek yang tidak boleh dipersingkat",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "إِنْ",
+      "transliterasi": "in",
+      "jenis_kata": "Huruf",
+      "arti": "jika",
+      "sharaf": {
+        "akar_kata": "إ-ن",
+        "makna_dasar": "menyatakan syarat",
+        "wazan_perubahan": "tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "huruf شرط جازم يسبق جملة شرطية",
+        "irab_dan_logika": "حرف شرط جازم لا محل له من الإعراب، يجر الفعل التالي إلى الجزم"
+      },
+      "hikmah": "menandakan bahwa ketakutan terhadap serangan orang kafir menjadi alasan mengizinkan memendekkan shalat",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "خِفْتُمْ",
+      "transliterasi": "khiftum",
+      "jenis_kata": "Fi'il (verb) madhi",
+      "arti": "kamu (jamak) merasa takut atau cemas",
+      "sharaf": {
+        "akar_kata": "خ ف ف",
+        "makna_dasar": "takut, cemas",
+        "wazan_perubahan": "فَعَلَ – bentuk madhi dengan sukun pada huruf pertama, fatha pada alif, sukun pada fa, damma pada lam, serta suffiks -tum"
+      },
+      "nahwu": {
+        "kedudukan": "Kata kerja dalam bentuk أمر (jussive) setelah لا, berfungsi sebagai predikat larangan",
+        "irab_dan_logika": "Berakhiran damma karena فعل أمر مبني على السكون مع الضمة للواو المتصلة"
+      },
+      "hikmah": "Menegaskan bahwa tidak perlu takut kepada orang kafir ketika bepergian",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "أَن",
+      "transliterasi": "an",
+      "jenis_kata": "Huruf (particle)",
+      "arti": "bahwa, supaya",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "penanda subordinasi",
+        "wazan_perubahan": "huruf نصب"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf ma'na (particle) yang menghubungkan larangan dengan verba berikutnya",
+        "irab_dan_logika": "Tidak berikharaj, berfungsi sebagai حرف نصب يربط بين الجمل"
+      },
+      "hikmah": "Menunjukkan hubungan sebab‑akibat, menghubungkan larangan dengan kemungkinan fitnah",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "يَفْتِنَكُمُ",
+      "transliterasi": "yaftinakumu",
+      "jenis_kata": "Fi'il (verb) mudhari' (imperfect)",
+      "arti": "dia (Allah) menguji/kotbah kalian",
+      "sharaf": {
+        "akar_kata": "ف ت ن",
+        "makna_dasar": "menguji, menimbulkan fitnah, menipu",
+        "wazan_perubahan": "فَعَلَ – pola يَفْتَعِلُ"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع منصوب بـ أن، والواو المتصلة في محل نصب مفعول به",
+        "irab_dan_logika": "حرف نصب أن يجر الفعل إلى نصب، فتفتح الفعل وتُضمّ الضمة على الواو المتصلة"
+      },
+      "hikmah": "Peringatan bahwa orang kafir dapat menimbulkan fitnah atau cobaan bagi orang beriman",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "ٱلَّذِينَ",
+      "transliterasi": "alladhina",
+      "jenis_kata": "Isim (kata benda) mawsul (relative pronoun)",
+      "arti": "orang‑orang yang",
+      "sharaf": {
+        "akar_kata": "ذ ي ن",
+        "makna_dasar": "yang, orang yang",
+        "wazan_perubahan": "اسم موصول من الفعل"
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "إِنَّ",
+      "transliterasi": "inna",
+      "jenis_kata": "Huruf",
+      "arti": "sesungguhnya",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "menegaskan atau menekankan",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "huruf penguat (ḥarf taʿrīb) yang mengawali jumla ismiyya",
+        "irab_dan_logika": "marfuʿ dengan dammah; mengharuskan isim setelahnya berriʿ (marfuʿ) sebagai subjek"
+      },
+      "hikmah": "Menegaskan bahwa orang‑orang kafir itu memang musuh yang nyata bagi kaum Muslimin.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "ٱلْكَٰفِرِينَ",
+      "transliterasi": "al‑kāfirīna",
+      "jenis_kata": "Isim",
+      "arti": "orang‑orang kafir",
+      "sharaf": {
+        "akar_kata": "ك‑ف‑ر",
+        "makna_dasar": "menolak iman",
+        "wazan_perubahan": "faʿīl (jamak) dengan tanwin"
+      },
+      "nahwu": {
+        "kedudukan": "isim setelah huruf إِنَّ, berriʿ sebagai subjek",
+        "irab_dan_logika": "marfuʿ dengan dammah karena إِنَّ menuntut isimnya berriʿ"
+      },
+      "hikmah": "Menyatakan secara tegas keberadaan kelompok yang menolak keimanan, yaitu kafir.",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "كَانُوا۟",
+      "transliterasi": "kānū",
+      "jenis_kata": "Fiʿil",
+      "arti": "mereka adalah",
+      "sharaf": {
+        "akar_kata": "ك‑ا‑ن",
+        "makna_dasar": "menyatakan keadaan atau eksistensi",
+        "wazan_perubahan": "madhi 3rd person plural"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja sebagai predikat (khabar) bagi subjek al‑kāfirīna",
+        "irab_dan_logika": "marfuʿ dengan dammah karena bentuk madhi"
+      },
+      "hikmah": "Menegaskan bahwa keadaan orang‑orang kafir adalah sebagai musuh.",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "لَكُمْ",
+      "transliterasi": "lakum",
+      "jenis_kata": "Huruf",
+      "arti": "bagi kamu",
+      "sharaf": {
+        "akar_kata": "ل‑ك",
+        "makna_dasar": "memberi, menunjukkan kepemilikan",
+        "wazan_perubahan": "huruf jar"
+      },
+      "nahwu": {
+        "kedudukan": "keterangan (jar) yang menjelaskan kepemilikan musuh",
+        "irab_dan_logika": "jar dengan kasrah karena huruf لَ"
+      },
+      "hikmah": "Menunjukkan bahwa musuh itu ditujukan khusus kepada kaum Muslimin.",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "عَدُوًّۭا",
+      "transliterasi": "ʿaduwwan",
+      "jenis_kata": "Isim",
+      "arti": "musuh",
+      "sharaf": {
+        "akar_kata": "ع‑د‑و",
+        "makna_dasar": "menentang, melawan",
+        "wazan_perubahan": "faʿūlun"
+      },
+      "nahwu": {
+        "kedudukan": "khabar (predikat) setelah kata kerja كَانُوا۟",
+        "irab_dan_logika": "mansub dengan tanwin karena menjadi khabar"
+      },
+      "hikmah": "Menyatakan bahwa orang‑orang kafir adalah musuh yang nyata.",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "مُّبِينًۭا",
+      "transliterasi": "mubīnan",
+      "jenis_kata": "Isim",
+      "arti": "yang jelas",
+      "sharaf": {
+        "akar_kata": "ب‑ي‑ن",
+        "makna_dasar": "menunjukkan, memperjelas",
+        "wazan_perubahan": "mufaʿʿal"
+      },
+      "nahwu": {
+        "kedudukan": "naʿat (sifat) yang menjelaskan kata عَدُوًّۭا",
+        "irab_dan_logika": "mansub karena sifat (naʿat) berhubungan dengan isim yang dimodifikasinya"
+      },
+      "hikmah": "Menegaskan bahwa sifat musuh itu sangat jelas dan tidak diragukan lagi.",
+      "role": "none"
+    }
+  ]
+}

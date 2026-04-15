@@ -1,0 +1,366 @@
+{
+  "surah": 14,
+  "ayah": 6,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "وَإِذْ",
+      "transliterasi": "wa-idh",
+      "jenis_kata": "Huruf",
+      "arti": "dan ketika",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Harf temporal yang menghubungkan ayat dengan ayat sebelumnya, menandakan waktu",
+        "irab_dan_logika": "Berharakat sukun pada ذْ karena huruf ini tidak berubah bentuk; berfungsi sebagai particle waktu"
+      },
+      "hikmah": "Menunjukkan permulaan peristiwa, mengajak pendengar mengingat masa lalu",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "قَالَ",
+      "transliterasi": "qāla",
+      "jenis_kata": "Fi'il",
+      "arti": "berkata",
+      "sharaf": {
+        "akar_kata": "ق-و-ل",
+        "makna_dasar": "kata",
+        "wazan_perubahan": "فَعَلَ (bentuk dasar)"
+      },
+      "nahwu": {
+        "kedudukan": "Predikat (fi'il madhi) dalam kalimat",
+        "irab_dan_logika": "Berharakat fatha pada akhir karena fi'il madhi tidak berkasrah atau dammah; menandakan aksi masa lampau"
+      },
+      "hikmah": "Menyatakan tindakan Musa berbicara kepada kaumnya",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "مُوسَىٰ",
+      "transliterasi": "Mūsā",
+      "jenis_kata": "Isim",
+      "arti": "Musa",
+      "sharaf": {
+        "akar_kata": "م-و-س",
+        "makna_dasar": "yang diselamatkan",
+        "wazan_perubahan": "اسم علم (nama pribadi)"
+      },
+      "nahwu": {
+        "kedudukan": "Fa'il (subjek) bagi fi'il qāla",
+        "irab_dan_logika": "Berharakat dhammah (ُ) karena berada di posisi marfu' sebagai fa'il"
+      },
+      "hikmah": "Menunjukkan siapa yang mengucapkan perintah",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "لِقَوْمِهِ",
+      "transliterasi": "li-qawmi-hi",
+      "jenis_kata": "Huruf",
+      "arti": "kepada kaumnya",
+      "sharaf": {
+        "akar_kata": "ق-و-م",
+        "makna_dasar": "kaum, bangsa",
+        "wazan_perubahan": "اسم مجرور بحرف الجر"
+      },
+      "nahwu": {
+        "kedudukan": "Mudaf ilaih (majrur) yang tergantung pada huruf جر li-",
+        "irab_dan_logika": "Berharakat kasrah pada قَوْمِ dan pada هِ karena berada dalam i'rab majrur setelah huruf جر"
+      },
+      "hikmah": "Menunjukkan objek yang diajak Musa untuk diingatkan",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "ٱذْكُرُوا۟",
+      "transliterasi": "udh'kuru",
+      "jenis_kata": "Fi'il",
+      "arti": "ingatlah",
+      "sharaf": {
+        "akar_kata": "ذ-ك-ر",
+        "makna_dasar": "ingat",
+        "wazan_perubahan": "فَعَلَ (imperatif)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il amar (perintah) untuk orang kedua jamak",
+        "irab_dan_logika": "Berharakat sukun pada akhir karena fi'il amar tidak berkasrah atau dammah; menandakan perintah"
+      },
+      "hikmah": "Perintah mengingat nikmat Allah yang telah diberikan",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "نِعْمَةَ",
+      "transliterasi": "ni‘mah",
+      "jenis_kata": "Isim",
+      "arti": "nikmat",
+      "sharaf": {
+        "akar_kata": "ن-ع-م",
+        "makna_dasar": "kebaikan, karunia",
+        "wazan_perubahan": "فِعْلَة (bentuk isim)"
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul (objek) bagi fi'il amar ٱذْكُرُوا۟",
+        "irab_dan_logika": "Berharakat fatha (َ) karena berfungsi sebagai maf'ul dalam i'rab mansub"
+      },
+      "hikmah": "Menunjukkan apa yang harus diingat, yaitu karunia Allah yang besar",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "اللَّهِ",
+      "transliterasi": "Allāhi",
+      "jenis_kata": "Isim",
+      "arti": "Allah (Tuhan)",
+      "sharaf": {
+        "akar_kata": "أ-ل-ه",
+        "makna_dasar": "ilah, dewa",
+        "wazan_perubahan": "Isim mufrad (bentuk khusus nama Allah)"
+      },
+      "nahwu": {
+        "kedudukan": "Mudhaf ilaih dalam frasa \"نِعْمَةَ اللَّهِ\"",
+        "irab_dan_logika": "Majrur (kasrah) karena berada di belakang i‘raab majrur \"نِعْمَةَ\""
+      },
+      "hikmah": "Menegaskan bahwa segala nikmat yang disebutkan adalah milik Allah, sumber segala kebaikan.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "عَلَيْكُمْ",
+      "transliterasi": "ʿalaykum",
+      "jenis_kata": "Huruf (preposisi) dengan suffiks pronominal",
+      "arti": "atas kamu",
+      "sharaf": {
+        "akar_kata": "ع-ل-و",
+        "makna_dasar": "tinggi, mengangkat",
+        "wazan_perubahan": "حرف جر"
+      },
+      "nahwu": {
+        "kedudukan": "Jar (preposisi) yang melengkapi \"نِعْمَةَ اللَّهِ\"",
+        "irab_dan_logika": "Majrur, huruf جر لا يتغير harakatnya; akhiran \"كم\" menandakan objek jamak maskulin"
+      },
+      "hikmah": "Menunjukkan bahwa nikmat Allah diberikan *kepada kalian*, menegaskan hubungan timbal balik antara pemberi dan penerima.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "إِذْ",
+      "transliterasi": "idh",
+      "jenis_kata": "Huruf (kata sambung temporal)",
+      "arti": "ketika",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "kata ma'na (particle) yang tidak memiliki akar triliteral",
+        "wazan_perubahan": "kata sambung"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf sambung yang memperkenalkan klausa waktu",
+        "irab_dan_logika": "Tidak berubah (sukun) karena merupakan huruf ma'na; menghubungkan ayat utama dengan peristiwa masa lalu"
+      },
+      "hikmah": "Memberi penanda kronologis, mengingatkan pendengar pada peristiwa penyelamatan yang telah terjadi.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "أَنجَىٰكُم",
+      "transliterasi": "anjākum",
+      "jenis_kata": "Fi'il (verb) madhi dengan suffiks pronominal",
+      "arti": "menyelamatkan kamu",
+      "sharaf": {
+        "akar_kata": "ن-ج-و",
+        "makna_dasar": "menyelamatkan, melindungi",
+        "wazan_perubahan": "فَعَلَ (bentuk I)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il madhi (past tense) 3rd maskulin tunggal, objeknya adalah \"كم\" (kamu)",
+        "irab_dan_logika": "Berharakat dhammah pada huruf alif (أَ) menandakan fi'il madhi; suffiks \"كم\" tidak diberi harakat karena terikat"
+      },
+      "hikmah": "Menegaskan tindakan Allah yang secara aktif melindungi umat‑Nya dari ancaman Fir'aun.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "مِّنْ",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf (preposisi)",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "م-ن",
+        "makna_dasar": "asal, sumber",
+        "wazan_perubahan": "حرف جر"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar yang menghubungkan kata sebelumnya dengan nama musuh (Fir'aun dan pengikutnya)",
+        "irab_dan_logika": "Mengharuskan kata yang mengikutinya berkasrah (majrur)"
+      },
+      "hikmah": "Menunjukkan titik asal penyelamatan, yaitu dari ancaman Fir'aun.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "فِرْعَوْنَ",
+      "transliterasi": "Firʿawna",
+      "jenis_kata": "Isim (nama diri)",
+      "arti": "Firaun, raja Mesir",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "وَيَسْتَحْيُونَ",
+      "transliterasi": "wa-yastahyūna",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka merasa malu",
+      "sharaf": {
+        "akar_kata": "ح-ي-ي",
+        "makna_dasar": "malu, rasa segan",
+        "wazan_perubahan": "استفعال"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja aktif, orang ketiga jamak, bentuk mudhari‘ (present)",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فعل مضارع مرفوع بالضمة"
+      },
+      "hikmah": "**Hikmah:** Allah mengingatkan bahwa orang‑orang yang menindas akan merasakan rasa malu atas perbuatannya.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "نِسَآءَكُمْ",
+      "transliterasi": "nisā'ukum",
+      "jenis_kata": "Isim",
+      "arti": "perempuan‑perempuanmu",
+      "sharaf": {
+        "akar_kata": "ن س أ",
+        "makna_dasar": "perempuan",
+        "wazan_perubahan": "جمع مؤنث سالم"
+      },
+      "nahwu": {
+        "kedudukan": "maf'ul bih (objek) dari kata kerja \"يَتْرُكُ\"",
+        "irab_dan_logika": "منصوب بالفتحة لأنّه مفعول به"
+      },
+      "hikmah": "**Hikmah:** Allah melindungi kaum perempuan dari kekejaman musuh, menegaskan nilai mereka dalam masyarakat.",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Huruf",
+      "arti": "tanda jeda ayat",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "simbol waqf, tidak berirab",
+        "irab_dan_logika": "tidak termasuk dalam tata bahasa, berfungsi sebagai pemisah"
+      },
+      "hikmah": "**Hikmah:** memberi jeda bagi pembaca untuk merenungkan makna sebelumnya.",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "وَفِي",
+      "transliterasi": "wa-fī",
+      "jenis_kata": "Huruf",
+      "arti": "dan dalam",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar (preposisi) yang menghubungkan ke kata berikutnya",
+        "irab_dan_logika": "لا إعراب له، يجر الاسم بعده"
+      },
+      "hikmah": "**Hikmah:** menegaskan bahwa cobaan itu berada dalam konteks tertentu.",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "ذَٰلِكُم",
+      "transliterasi": "dhālikum",
+      "jenis_kata": "Isim",
+      "arti": "itu (bagi kalian)",
+      "sharaf": {
+        "akar_kata": "ذ ل ك",
+        "makna_dasar": "sesuatu yang jauh, itu",
+        "wazan_perubahan": "اسم إشارة"
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "مِّن",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf (preposisi)",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "menunjukkan asal atau sebab",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar yang menghubungkan dengan isim *رَّبِّكُمْ*",
+        "irab_dan_logika": "berkasrah karena huruf jar, tidak berubah"
+      },
+      "hikmah": "*مِّن* menegaskan hubungan sebab‑akibat, yaitu “dari Tuhanmu yang Maha Besar”.",
+      "role": "none"
+    },
+    {
+      "index": 25,
+      "kata_arab": "رَّبِّكُمْ",
+      "transliterasi": "rabbikum",
+      "jenis_kata": "Isim (isim mauliyat)",
+      "arti": "Tuhanmu",
+      "sharaf": {
+        "akar_kata": "ر ب ب",
+        "makna_dasar": "pemilik, penguasa",
+        "wazan_perubahan": "bentuk mudhaf dengan dhamir *kum*"
+      },
+      "nahwu": {
+        "kedudukan": "Isim majrur setelah huruf jar *مِّن*",
+        "irab_dan_logika": "marfu' kasrah karena jar, akhir harakat kasrah"
+      },
+      "hikmah": "*رَّبِّكُمْ* menegaskan kepemilikan Allah atas segala sesuatu, menekankan keagungan‑Nya.",
+      "role": "none"
+    },
+    {
+      "index": 26,
+      "kata_arab": "عَظِيمٌۭ",
+      "transliterasi": "‘azīm",
+      "jenis_kata": "Isim (sifat)",
+      "arti": "besar, agung",
+      "sharaf": {
+        "akar_kata": "ع ظ م",
+        "makna_dasar": "kekuasaan, kebesaran",
+        "wazan_perubahan": "bentuk fa‘īl (isim sifat)"
+      },
+      "nahwu": {
+        "kedudukan": "Isim sifat yang menerangkan *رَّبِّكُمْ* dalam iḍāfah",
+        "irab_dan_logika": "marfu' dengan dhammah karena posisi sebagai istilah kedua dalam iḍāfah"
+      },
+      "hikmah": "*عَظِيمٌ* menekankan kebesaran dan keagungan Tuhan, menambah kedalaman makna ayat.",
+      "role": "none"
+    }
+  ]
+}

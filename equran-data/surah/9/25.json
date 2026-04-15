@@ -1,0 +1,384 @@
+{
+  "surah": 9,
+  "ayah": 25,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "لَقَدْ",
+      "transliterasi": "laqad",
+      "jenis_kata": "Huruf",
+      "arti": "sesungguhnya, memang",
+      "sharaf": {
+        "akar_kata": "قَد",
+        "makna_dasar": "sudah, telah",
+        "wazan_perubahan": "partikel emphatik"
+      },
+      "nahwu": {
+        "kedudukan": "partikel penegas di depan fi'il",
+        "irab_dan_logika": "berharakat sukun pada lam, fatḥa pada qaf, sukun pada d; tidak berikalan karena berfungsi menegaskan makna"
+      },
+      "hikmah": "menegaskan kepastian bahwa apa yang akan disebutkan memang terjadi",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "نَصَرَكُمُ",
+      "transliterasi": "naṣarakumu",
+      "jenis_kata": "Fi'il",
+      "arti": "menolong kamu",
+      "sharaf": {
+        "akar_kata": "ن ص ر",
+        "makna_dasar": "menolong, memberi pertolongan",
+        "wazan_perubahan": "فَعَلَ (bentuk tiga huruf)"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il madhi (kata kerja lampau) sebagai predikat utama",
+        "irab_dan_logika": "marfu' dhammah pada akhir karena fi'il madhi"
+      },
+      "hikmah": "menunjukkan tindakan Allah yang secara aktif menolong umat Islam",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "ٱللَّهُ",
+      "transliterasi": "Allāhu",
+      "jenis_kata": "Isim",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "الله",
+        "makna_dasar": "Tuhan Yang Maha Esa",
+        "wazan_perubahan": "nama khusus (ism al-mubtada')"
+      },
+      "nahwu": {
+        "kedudukan": "mubtada' (subjek) dalam kalimat",
+        "irab_dan_logika": "marfu' dhammah karena mubtada'"
+      },
+      "hikmah": "menegaskan bahwa yang menolong adalah Allah, Sang Pencipta",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "فِى",
+      "transliterasi": "fī",
+      "jenis_kata": "Huruf",
+      "arti": "di, dalam",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "menunjukkan tempat atau keadaan",
+        "wazan_perubahan": "huruf jar"
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar yang menghubungkan mubtada' dengan objeknya",
+        "irab_dan_logika": "tidak berikalan, mengikat isim setelahnya menjadi majrur"
+      },
+      "hikmah": "menunjukkan lokasi atau konteks tempat terjadinya pertolongan",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "مَوَاطِنَ",
+      "transliterasi": "mawāṭina",
+      "jenis_kata": "Isim",
+      "arti": "tempat-tempat",
+      "sharaf": {
+        "akar_kata": "و ط ن",
+        "makna_dasar": "tempat, wilayah",
+        "wazan_perubahan": "جمع تكسير (mawāṭin)"
+      },
+      "nahwu": {
+        "kedudukan": "majrur (objek) setelah huruf jar فِى",
+        "irab_dan_logika": "mansub dengan fatḥa karena berada dalam konstruksi جرّ ومجرور"
+      },
+      "hikmah": "menunjuk pada banyaknya lokasi atau medan yang menjadi tempat pertempuran",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "كَثِيرَةٍۢ",
+      "transliterasi": "kathīratin",
+      "jenis_kata": "Isim",
+      "arti": "banyak",
+      "sharaf": {
+        "akar_kata": "ك ث ر",
+        "makna_dasar": "banyak, melimpah",
+        "wazan_perubahan": "صيغة فعلة (fa‘īlah)"
+      },
+      "nahwu": {
+        "kedudukan": "sifat (kata sifat) yang menerangkan مَوَاطِنَ",
+        "irab_dan_logika": "mansub dengan kasrah dan tanwin karena sifat berakhiran ta marbuta dalam posisi mansub"
+      },
+      "hikmah": "menekankan bahwa jumlah tempat-tempat itu sangat banyak, namun tidak memberi manfaat",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "ۙ",
+      "transliterasi": "waqf",
+      "jenis_kata": "Huruf",
+      "arti": "tanda waqf (berhenti)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda waqf di antara kata-kata",
+        "irab_dan_logika": "menandakan jeda baca, tidak memiliki harakat"
+      },
+      "hikmah": "*Menunjukkan berhentinya bacaan, memberi kesempatan merenungkan ayat sebelumnya.*",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "وَيَوْمَ",
+      "transliterasi": "wa‑yawma",
+      "jenis_kata": "Huruf (wa) + Isim (yawma)",
+      "arti": "dan pada hari",
+      "sharaf": {
+        "akar_kata": "ي-و-م",
+        "makna_dasar": "hari",
+        "wazan_perubahan": "مُفْعَل"
+      },
+      "nahwu": {
+        "kedudukan": "huruf sambung yang menghubungkan frasa sebelumnya dengan frasa berikutnya",
+        "irab_dan_logika": "wa‑ berharakat fathah karena huruf, yawma berharakat fathah menandakan objek waktu"
+      },
+      "hikmah": "*Mengaitkan peristiwa Hunain dengan hari tertentu, menegaskan konteks waktu kejadian.*",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "حُنَيْنٍ",
+      "transliterasi": "Hunain",
+      "jenis_kata": "Isim",
+      "arti": "nama lembah Hunain",
+      "sharaf": {
+        "akar_kata": "ح‑ن‑ن",
+        "makna_dasar": "tempat (nama)",
+        "wazan_perubahan": "tidak berlaku (nama tempat)"
+      },
+      "nahwu": {
+        "kedudukan": "objek preposisi (bi‑) yang terelipsis, berfungsi sebagai keterangan tempat",
+        "irab_dan_logika": "berharakat kasrah karena berada dalam i‘rāb majrūr (bi‑ + isim)"
+      },
+      "hikmah": "*Menunjuk pada pertempuran penting yang menjadi pelajaran bagi kaum Muslimin.*",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "ۙ",
+      "transliterasi": "waqf",
+      "jenis_kata": "Huruf",
+      "arti": "tanda waqf (berhenti)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda waqf di antara kata-kata",
+        "irab_dan_logika": "menandakan jeda baca, tidak memiliki harakat"
+      },
+      "hikmah": "*Memberi ruang bagi pendengar untuk merenungkan makna peristiwa Hunain.*",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "إِذْ",
+      "transliterasi": "idh",
+      "jenis_kata": "Huruf",
+      "arti": "ketika",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "kata sambung yang menghubungkan klausa waktu",
+        "irab_dan_logika": "berharakat kasrah karena termasuk huruf ma'na yang mengawali klausa"
+      },
+      "hikmah": "*Menandai waktu terjadinya peristiwa yang akan dijelaskan selanjutnya.*",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "أَعْجَبَتْكُمْ",
+      "transliterasi": "aʿjabatkum",
+      "jenis_kata": "Fi'il",
+      "arti": "menjadi congkak (menakjubkan) kalian",
+      "sharaf": {
+        "akar_kata": "ع‑ج‑ب",
+        "makna_dasar": "menakjubkan, mengagumkan",
+        "wazan_perubahan": "فَعَلَ"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il madhi (3rd fem. singular) dengan dhamir muttasil 'kum' sebagai objek",
+        "irab_dan_logika": "berharakat dammah pada alif (madhi) dan sukun pada ta marbuta; 'kum' berkasrah karena objek yang terikat"
+      },
+      "hikmah": "*Menggambarkan keangkuhan kaum Muslimin yang merasa kuat karena jumlah mereka, padahal hal itu tidak memberi manfaat.*",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "كَثْرَتُكُمْ",
+      "transliterasi": "kathratukum",
+      "jenis_kata": "Isim",
+      "arti": "banyaknya (kamu)",
+      "sharaf": {
+        "akar_kata": "ك-ث-ر",
+        "makna_dasar": "banyak",
+        "wazan_perubahan": "فَعْلَة (fa‘la)"
+      },
+      "nahwu": {
+        "kedudukan": "Maf‘ul bih (objek) pada fi‘il ‘lam yughni",
+        "irab_dan_logika": "مُنصوب بالفتحة لأنّه مفعول به للفعل المنصوب «يُغْنِي»"
+      },
+      "hikmah": "Menunjukkan bahwa banyaknya orang tidak memberi manfaat apa‑apa bila tidak disertai keikhlasan.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "فَلَمْ",
+      "transliterasi": "fa lam",
+      "jenis_kata": "Huruf (faʾ = huruf ‘fa’, lam = huruf ‘lam’)",
+      "arti": "lalu tidak",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Harf ‘fa’ (ta‘liq) + huruf ‘lam’ (nafuṣ) yang meniadakan fi‘il",
+        "irab_dan_logika": "‘lam’ adalah harf nashid yang mengharuskan fi‘il setelahnya menjadi majzum"
+      },
+      "hikmah": "Menegaskan penolakan Allah terhadap harapan bahwa banyaknya orang dapat menolong.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "تُغْنِ",
+      "transliterasi": "tughni",
+      "jenis_kata": "Fi‘il mudhari‘ (present tense)",
+      "arti": "menolong, memberi kecukupan",
+      "sharaf": {
+        "akar_kata": "غ-ن-ى",
+        "makna_dasar": "memberi kecukupan, menolong",
+        "wazan_perubahan": "أَفْعَلَ (af‘ala) – bentuk IV"
+      },
+      "nahwu": {
+        "kedudukan": "Fi‘il majzum bi‑‘lam (karena ‘lam’ meniadakan)",
+        "irab_dan_logika": "مجزوم بالسكون لأنّ ‘lam’ نافية للفعل"
+      },
+      "hikmah": "Allah tidak memberi kecukupan kepada mereka meski mereka berlimpah.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "عَنكُمْ",
+      "transliterasi": "ʿankum",
+      "jenis_kata": "Harf jar + dhamir muttasil",
+      "arti": "darimu",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Jar (pembatas) yang melengkapi fi‘il «tughni»",
+        "irab_dan_logika": "مجرور وعلامة جره الكسرة لأنه من حرف الجر «عن»"
+      },
+      "hikmah": "Menegaskan bahwa bantuan Allah tidak bersifat milik mereka.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "شَيْـًۭٔا",
+      "transliterasi": "shay'an",
+      "jenis_kata": "Isim",
+      "arti": "sesuatu",
+      "sharaf": {
+        "akar_kata": "ش-ي-ء",
+        "makna_dasar": "benda, sesuatu",
+        "wazan_perubahan": "فَعْلًا (fa‘lan)"
+      },
+      "nahwu": {
+        "kedudukan": "Maf‘ul bih (objek) pada fi‘il «tughni»",
+        "irab_dan_logika": "مُنصوب بالفتحة لأنه مفعول به للفعل «يُغْنِي»"
+      },
+      "hikmah": "Tidak ada apa‑apa yang dapat menolong mereka selain pertolongan Allah.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "وَضَاقَتْ",
+      "transliterasi": "wa daaqat",
+      "jenis_kata": "Fi‘il madhi (past tense)",
+      "arti": "menjadi sempit",
+      "sharaf": {
+        "akar_kata": "ض-ق-ق",
+        "makna_dasar": "sempit, terasa sesak",
+        "wazan_perubahan": "فَعَلَ (fa‘ala) – bentuk III"
+      },
+      "nahwu": {
+        "kedudukan": "Fi‘il madhi, tiga‑rukun, subjek «al‑ardu» (الْأَرْضُ)",
+        "irab_dan_logika": "مرفوع بالضمة لأن الفعل ماضٍ وعلامة رفعه الضمة"
+      },
+      "hikmah": "Bumi yang luas terasa sempit bagi mereka karena kesombongan dan keangkuhan.",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "عَلَيْكُمُ",
+      "transliterasi": "‘alaykum",
+      "jenis_kata": "Huruf (preposisi) dengan ضمير متصل",
+      "arti": "atas kamu / kepada kamu",
+      "sharaf": {
+        "akar_kata": "ع ل ي",
+        "makna_dasar": "di atas, mengenai",
+        "wazan_perubahan": "tidak ada (kata tetap)"
+      },
+      "nahwu": {
+        "kedudukan": "خبر للمبتدأ «الْأَرْضُ» في جملة اسمية",
+        "irab_dan_logika": "مرفوع بالضمة لأنّه خبر مرفوع يكمّل معنى المبتدأ"
+      },
+      "hikmah": "menunjukkan bahwa bumi menjadi beban atas manusia, mengingatkan tanggung jawab atas ciptaan Allah",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "الْأَرْضُ",
+      "transliterasi": "al‑arḍu",
+      "jenis_kata": "Isim (isim mufrad)",
+      "arti": "bumi",
+      "sharaf": {
+        "akar_kata": "ر ض",
+        "makna_dasar": "tanah, permukaan bumi",
+        "wazan_perubahan": "فَعْل (faʿl)"
+      },
+      "nahwu": {
+        "kedudukan": "مبتدأ الجملة الاسمية",
+        "irab_dan_logika": "مرفوع بالضمة لأنه مبتدأ"
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "مُّدْبِرِينَ",
+      "transliterasi": "mudbirīna",
+      "jenis_kata": "Isim",
+      "arti": "orang yang berbalik, pelari",
+      "sharaf": {
+        "akar_kata": "د ب ر",
+        "makna_dasar": "berbalik, kembali",
+        "wazan_perubahan": "muf‘al (مُفْعِل) dengan nun tasydid"
+      },
+      "nahwu": {
+        "kedudukan": "keterangan (حالة) yang menjelaskan keadaan orang‑orang yang lari",
+        "irab_dan_logika": "مُّدْبِرِينَ: mansub karena berfungsi sebagai isim fa‘il majrur, berharakat kasrah sebagai mudhaf ilaih"
+      },
+      "hikmah": "Menggambarkan sifat manusia yang ketika dihadapkan pada ujian berat cenderung mundur dan melarikan diri; keangkuhan dan jumlah yang banyak tidak memberi perlindungan, melainkan menimbulkan kepengecutan.",
+      "role": "none"
+    }
+  ]
+}

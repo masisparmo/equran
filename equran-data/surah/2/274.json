@@ -1,0 +1,312 @@
+{
+  "surah": 2,
+  "ayah": 274,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "ٱلَّذِينَ",
+      "transliterasi": "al-ladhīna",
+      "jenis_kata": "Isim",
+      "arti": "yang (orang)",
+      "sharaf": {
+        "akar_kata": "ذ-ي",
+        "makna_dasar": "yang, yang berhubungan",
+        "wazan_perubahan": "اسم إشارة مبني على الفعل \"ذى\""
+      },
+      "nahwu": {
+        "kedudukan": "اسم موصول (subjek)",
+        "irab_dan_logika": "مرفوع بالضمة المقدرة على النون لأنه جمع مذكر سالم"
+      },
+      "hikmah": "Menunjukkan kelompok orang beriman yang menafkahkan harta secara tersembunyi maupun terang‑terangan.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "يُنفِقُونَ",
+      "transliterasi": "yunfiqūna",
+      "jenis_kata": "Fi'il",
+      "arti": "menafkahkan",
+      "sharaf": {
+        "akar_kata": "ن-ف-ق",
+        "makna_dasar": "mengeluarkan (harta)",
+        "wazan_perubahan": "فعل مضارع مرفوع بالضمة"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع (خبر)",
+        "irab_dan_logika": "مرفوع بالضمة، والواو للواو الجماعة، يربط بالفاعل \"الذين\""
+      },
+      "hikmah": "Menunjukkan tindakan memberi sedekah atau mengeluarkan harta dengan niat baik.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "أَمْوَالَهُم",
+      "transliterasi": "amwālahum",
+      "jenis_kata": "Isim",
+      "arti": "harta mereka",
+      "sharaf": {
+        "akar_kata": "م-و-ل",
+        "makna_dasar": "harta, kekayaan",
+        "wazan_perubahan": "جمع تكسير (أموال) مع ضمير متصل"
+      },
+      "nahwu": {
+        "kedudukan": "مفعول به منصوب",
+        "irab_dan_logika": "منصوب بالفتحة، والضمير المتصل في محل جر يبين الملكية"
+      },
+      "hikmah": "Objek yang dikeluarkan dalam perbuatan menafkahkan, yaitu harta milik mereka.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "بِٱلَّيْلِ",
+      "transliterasi": "bi al-layli",
+      "jenis_kata": "Huruf",
+      "arti": "di malam",
+      "sharaf": {
+        "akar_kata": "ل-ي-ل",
+        "makna_dasar": "malam",
+        "wazan_perubahan": "اسم مجرور بحرف الجر \"بـ\""
+      },
+      "nahwu": {
+        "kedudukan": "اسم مجرور بحرف الجر",
+        "irab_dan_logika": "مجرور بالكسرة لأنه تابع لحرف الجر \"بـ\""
+      },
+      "hikmah": "Menunjukkan waktu pelaksanaan menafkahkan, yaitu pada malam hari.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "وَٱلنَّهَارِ",
+      "transliterasi": "wa al-nahāri",
+      "jenis_kata": "Huruf",
+      "arti": "dan siang",
+      "sharaf": {
+        "akar_kata": "ن-ه-ر",
+        "makna_dasar": "siang, waktu siang",
+        "wazan_perubahan": "اسم مجرور بحرف العطف \"و\""
+      },
+      "nahwu": {
+        "kedudukan": "اسم مجرور معطوف على \"الليل\"",
+        "irab_dan_logika": "مجرور بالكسرة لأن حرف العطف \"و\" يربط بين المجرورين"
+      },
+      "hikmah": "Menambahkan waktu siang sebagai bagian yang sama pentingnya dengan malam dalam menafkahkan.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "سِرًّۭا",
+      "transliterasi": "sirran",
+      "jenis_kata": "Isim",
+      "arti": "secara rahasia",
+      "sharaf": {
+        "akar_kata": "س-ر-ر",
+        "makna_dasar": "rahasia",
+        "wazan_perubahan": "اسم ظرف منصوب"
+      },
+      "nahwu": {
+        "kedudukan": "ظرف manner منصوب",
+        "irab_dan_logika": "منصوب بالفتحة لأنه ظرف manner يوضح طريقة الفعل"
+      },
+      "hikmah": "Menunjukkan niat menafkahkan secara tersembunyi, tanpa mengharapkan pujian.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "وَعَلَانِيَةً",
+      "transliterasi": "waʿalānīyah",
+      "jenis_kata": "Isim (kata benda)",
+      "arti": "secara terbuka, dengan terang‑terangan",
+      "sharaf": {
+        "akar_kata": "ع‑ل‑ن",
+        "makna_dasar": "terbuka, jelas",
+        "wazan_perubahan": "فَعْلَانِيَة (maṣdar)"
+      },
+      "nahwu": {
+        "kedudukan": "keterangan cara (حالة) yang menjelaskan cara menafkahkan harta",
+        "irab_dan_logika": "مُنصوب بالفتحة الظاهرة على آخره (ـً) karena berfungsi sebagai **حالة** setelah فعل *يُنفِقُونَ*"
+      },
+      "hikmah": "Allah menekankan bahwa menafkahkan harta harus dilakukan dengan niat yang jelas dan terbuka, bukan disembunyikan.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "فَلَهُمْ",
+      "transliterasi": "fa‑lahum",
+      "jenis_kata": "Huruf (fa) + Isim (lahum, ضمير جر)",
+      "arti": "maka bagi mereka",
+      "sharaf": {
+        "akar_kata": "ل‑هُم",
+        "makna_dasar": "kepada mereka",
+        "wazan_perubahan": "حرف جر + ضمير متصل"
+      },
+      "nahwu": {
+        "kedudukan": "kata sambung (فـ) yang menghubungkan kalimat sebelumnya dengan kalimat berikutnya; *lahum* adalah اسم جرّ",
+        "irab_dan_logika": "مجرور بحرف الجر *ل* وعلامة جرّه الكسرة (لَهُمْ)؛ *fa* لا إعراب له"
+      },
+      "hikmah": "Setelah menyebutkan cara menafkahkan, ayat menegaskan bahwa balasan akan diberikan **kepada mereka** yang bersedekah.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "أَجْرُهُمْ",
+      "transliterasi": "ajruhum",
+      "jenis_kata": "Isim (kata benda) dengan ضمير متصل",
+      "arti": "pahala mereka",
+      "sharaf": {
+        "akar_kata": "أ‑ج‑ر",
+        "makna_dasar": "ganjaran, upah",
+        "wazan_perubahan": "فَعْل (bentuk isim)"
+      },
+      "nahwu": {
+        "kedudukan": "مبتدأ مرفوع في جملة اسمية",
+        "irab_dan_logika": "مرفوع بالضمة الظاهرة على آخره (أَجْرُهُمْ) لأنّها خبر لِـ *فَلَهُمْ*"
+      },
+      "hikmah": "Allah menjanjikan **ganjaran yang pasti** bagi setiap orang yang menafkahkan harta dengan ikhlas.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "عِندَ",
+      "transliterasi": "ʿinda",
+      "jenis_kata": "Huruf (preposisi)",
+      "arti": "di (tempat), pada",
+      "sharaf": {
+        "akar_kata": "ع‑ن‑د",
+        "makna_dasar": "kedudukan, tempat",
+        "wazan_perubahan": "لا يُصَرَّف"
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر يربط الجملة الاسمية بـ *رَبِّهِمْ*",
+        "irab_dan_logika": "حرف جر لا إعراب له؛ يجر ما بعده"
+      },
+      "hikmah": "Balasan berada **di sisi Allah**, menegaskan bahwa ganjaran itu tidak bergantung pada dunia.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "رَبِّهِمْ",
+      "transliterasi": "rabbihim",
+      "jenis_kata": "Isim (kata benda) dengan ضمير متصل",
+      "arti": "Tuhan mereka",
+      "sharaf": {
+        "akar_kata": "ر‑ب‑ب",
+        "makna_dasar": "penguasa, pemelihara",
+        "wazan_perubahan": "فَعِل (اسم فاعل/اسم مصدر)"
+      },
+      "nahwu": {
+        "kedudukan": "اسم مجرور بحرف الجر *عند*",
+        "irab_dan_logika": "مجرور بالكسرة الظاهرة على آخره (رَبِّهِمْ) لأنّها مضاف إليه لحرف الجر *عند*"
+      },
+      "hikmah": "Ganjaran itu berada **di tangan Sang Penguasa**, menegaskan keadilan Ilahi.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "وَلَا",
+      "transliterasi": "wa‑lā",
+      "jenis_kata": "Huruf (حرف عطف ونفي)",
+      "arti": "dan tidak",
+      "sharaf": {
+        "akar_kata": "ل‑ا",
+        "makna_dasar": "penolakan, tidak ada",
+        "wazan_perubahan": "حرف نفي"
+      },
+      "nahwu": {
+        "kedudukan": "حرف عطف يربط الجملة التالية *خوفٌ* dengan sebelumnya",
+        "irab_dan_logika": "لا إعراب له؛ يسبق نفيًا للجملة الاسمية *خوفٌ*"
+      },
+      "hikmah": "Tidak ada **ketakutan** bagi orang yang berinfak, menegaskan kepastian keselamatan spiritual.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "خَوْفٌ",
+      "transliterasi": "khawfun",
+      "jenis_kata": "Isim",
+      "arti": "takut, rasa takut",
+      "sharaf": {
+        "akar_kata": "خ-و-ف",
+        "makna_dasar": "takut",
+        "wazan_perubahan": "fa'ul (masdar)"
+      },
+      "nahwu": {
+        "kedudukan": "predikat negatif setelah *laa*",
+        "irab_dan_logika": "mansub karena setelah *laa* (negasi)"
+      },
+      "hikmah": "Tidak ada rasa takut bagi mereka, menegaskan keamanan di sisi Allah",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "عَلَيْهِمْ",
+      "transliterasi": "alayhim",
+      "jenis_kata": "Huruf",
+      "arti": "atas mereka",
+      "sharaf": {
+        "akar_kata": "ع-ل-ى",
+        "makna_dasar": "atas, di atas",
+        "wazan_perubahan": "tidak berubah (huruf)"
+      },
+      "nahwu": {
+        "kedudukan": "objek preposisi *'ala*",
+        "irab_dan_logika": "majrur karena preposisi *'ala* menuntut kasrah"
+      },
+      "hikmah": "Menunjukkan bahwa tidak ada rasa takut *atas* mereka",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "وَلَا",
+      "transliterasi": "wa laa",
+      "jenis_kata": "Huruf",
+      "arti": "dan tidak",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "kata sambung yang menghubungkan dua klausa",
+        "irab_dan_logika": "tidak berirab, berfungsi sebagai *harf ataf*"
+      },
+      "hikmah": "Menegaskan penolakan tambahan, yaitu mereka *tidak* bersedih",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "هُمْ",
+      "transliterasi": "hum",
+      "jenis_kata": "Isim",
+      "arti": "mereka",
+      "sharaf": {
+        "akar_kata": "ه-م",
+        "makna_dasar": "mereka",
+        "wazan_perubahan": "tidak berubah (isim dhat)"
+      },
+      "nahwu": {
+        "kedudukan": "subjek fi'il *yahzunoon*",
+        "irab_dan_logika": "marfu' dengan dammah karena sebagai mubtada'"
+      },
+      "hikmah": "Mereka adalah pelaku tindakan *bersedih* dalam ayat",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "يَحْزَنُونَ",
+      "transliterasi": "yaḥzanūna",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka bersedih",
+      "sharaf": {
+        "akar_kata": "ح-ز-ن",
+        "makna_dasar": "sedih",
+        "wazan_perubahan": "fi'il mudhari' bentuk *fa'luuna*"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja bentuk mudhari' tiga orang jamak",
+        "irab_dan_logika": "marfu' dengan dhammah karena subjek *hum*"
+      },
+      "hikmah": "Menegaskan bahwa tidak ada kesedihan bagi mereka, menambah jaminan kebahagiaan",
+      "role": "none"
+    }
+  ]
+}

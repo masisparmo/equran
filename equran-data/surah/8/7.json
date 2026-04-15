@@ -1,0 +1,420 @@
+{
+  "surah": 8,
+  "ayah": 7,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "وَإِذْ",
+      "transliterasi": "wa-idh",
+      "jenis_kata": "Huruf",
+      "arti": "dan ketika",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "حرف عطف/ظرف زمان في بداية الآية يربط ما قبلها بما يلي",
+        "irab_dan_logika": "مبني على السكون لا إعراب له، والواو حرف عطف"
+      },
+      "hikmah": "Menandakan permulaan peristiwa yang akan diceritakan, mengingatkan pendengar pada waktu tertentu",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "يَعِدُكُمُ",
+      "transliterasi": "ya‘idukum",
+      "jenis_kata": "Fi'il",
+      "arti": "menjanjikan kepadamu",
+      "sharaf": {
+        "akar_kata": "و ع د",
+        "makna_dasar": "menjanjikan",
+        "wazan_perubahan": "فعل مضارع مرفوع بالضمة"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع مع ضمير متصل كُمُ مفعول به",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فعل مضارع، والضمير المتصل في محل نصب مفعول به"
+      },
+      "hikmah": "Allah menegaskan janji-Nya kepada umat, menekankan kepastian bantuan",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "ٱللَّهُ",
+      "transliterasi": "Allah",
+      "jenis_kata": "Isim",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "nama Tuhan",
+        "wazan_perubahan": "اسم علم"
+      },
+      "nahwu": {
+        "kedudukan": "مبتدأ مرفوع",
+        "irab_dan_logika": "مرفوع بالضمة لأنه مبتدأ"
+      },
+      "hikmah": "Menunjukkan subjek utama ayat, yaitu Allah yang menjanjikan",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "إِحْدَى",
+      "transliterasi": "ihda",
+      "jenis_kata": "Isim",
+      "arti": "satu",
+      "sharaf": {
+        "akar_kata": "و ح د",
+        "makna_dasar": "satu",
+        "wazan_perubahan": "اسم عدد"
+      },
+      "nahwu": {
+        "kedudukan": "خبر أن منصوب",
+        "irab_dan_logika": "منصوب بالفتحة لأنه وقع بعد حرف نصب (أن)"
+      },
+      "hikmah": "Menunjukkan pilihan satu golongan di antara dua yang disebutkan",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "ٱلطَّآئِفَتَيْنِ",
+      "transliterasi": "al-ṭā'ifatayni",
+      "jenis_kata": "Isim",
+      "arti": "dua golongan",
+      "sharaf": {
+        "akar_kata": "ط و ف",
+        "makna_dasar": "golongan, kelompok",
+        "wazan_perubahan": "اسم جمع تكسير مضعف"
+      },
+      "nahwu": {
+        "kedudukan": "اسم إشارة مجرور بالكسرة تابع لإحدى",
+        "irab_dan_logika": "مجرور بالكسرة لأنه تابع لإحدى التي تجر الاسم بعدها"
+      },
+      "hikmah": "Menunjukkan dua kelompok yang dimaksud dalam janji Allah",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "أَنَّهَا",
+      "transliterasi": "annaha",
+      "jenis_kata": "Huruf",
+      "arti": "bahwa (itu)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "حرف نصب يربط الجملة الفرعية",
+        "irab_dan_logika": "حرف نصب لا محل له من الإعراب"
+      },
+      "hikmah": "Membuka klausa penjelas tentang janji yang akan dibuktikan",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "لَكُمْ",
+      "transliterasi": "lakum",
+      "jenis_kata": "Huruf (preposisi) + zamir (kata ganti)",
+      "arti": "bagi kamu",
+      "sharaf": {
+        "akar_kata": "ل ك م",
+        "makna_dasar": "milik, kepunyaan",
+        "wazan_perubahan": "preposisi *li-* + suffiks -kum"
+      },
+      "nahwu": {
+        "kedudukan": "Kata benda berjarak (jar) yang menjadi pelengkap preposisi «لَ»",
+        "irab_dan_logika": "Berharakat kasrah (لَكُمْ) karena preposisi «لَ» menuntut isim dalam keadaan jarr"
+      },
+      "hikmah": "Menegaskan bahwa segala yang dijanjikan Allah adalah **untuk umat Islam**, menegaskan kepemilikan dan hak Allah atas kemenangan tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "وَتَوَدُّونَ",
+      "transliterasi": "wa-tawaddūna",
+      "jenis_kata": "Fi'il (verb) mudhari‘ (present) 2‑mlk",
+      "arti": "dan kamu menginginkan",
+      "sharaf": {
+        "akar_kata": "و د د",
+        "makna_dasar": "mengharapkan, menginginkan",
+        "wazan_perubahan": "tafa‘ul (تَفَعَّل) → tawadda"
+      },
+      "nahwu": {
+        "kedudukan": "Predikat (fi‘l) dalam kalimat maqtū‘ah (terpotong) yang menghubungkan dengan «وَ»",
+        "irab_dan_logika": "Berharakat dhammah (تَوَدُّونَ) karena fi‘l mudhari‘ berakhiran ‑u pada bentuk 2‑mlk"
+      },
+      "hikmah": "Menggambarkan **keinginan hati** orang-orang Muslim yang lebih suka mengandalkan kekuatan manusiawi (senjata) daripada menaruh harap pada pertolongan Allah.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "أَنَّ",
+      "transliterasi": "anna",
+      "jenis_kata": "Huruf (harf tasrih/penegas)",
+      "arti": "bahwa",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "Tidak berakar; merupakan huruf penghubung",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Harf nasb yang memperkenalkan kalimat isimiyyah (sub‑jek) setelahnya",
+        "irab_dan_logika": "Tidak memiliki i‘rāb; mengikat kata setelahnya menjadi **mansūb** (nasb) dalam konstruksi «أَنَّ غَيْرَ…»"
+      },
+      "hikmah": "Menegaskan **kebenaran** pernyataan yang akan diikuti, yaitu keinginan manusia yang keliru.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "غَيْرَ",
+      "transliterasi": "ghayra",
+      "jenis_kata": "Isim (isim majrur)",
+      "arti": "selain, bukan",
+      "sharaf": {
+        "akar_kata": "غ ي ر",
+        "makna_dasar": "lain, tidak",
+        "wazan_perubahan": "isim majrur (غَيْر) dengan harakat fatḥa karena «أَنَّ» menuntut nasb"
+      },
+      "nahwu": {
+        "kedudukan": "Bagian pertama dari iḍāfah «غَيْرَ ذَاتِ الشَّوْكَةِ»",
+        "irab_dan_logika": "Berharakat fatḥa (غَيْرَ) karena setelah «أَنَّ» kata berikutnya berada dalam keadaan nasb"
+      },
+      "hikmah": "Menyiratkan **penolakan** terhadap apa yang bukan milik Allah; menegaskan bahwa yang diinginkan manusia bukanlah yang sejati.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "ذَاتِ",
+      "transliterasi": "dhāti",
+      "jenis_kata": "Isim (isim iḍāfah)",
+      "arti": "yang memiliki",
+      "sharaf": {
+        "akar_kata": "ذ ي ت",
+        "makna_dasar": "pemilik, memiliki",
+        "wazan_perubahan": "isim iḍāfah (ذَات) dalam pola fa‘il"
+      },
+      "nahwu": {
+        "kedudukan": "Kata pertama dalam iḍāfah «ذَاتِ الشَّوْكَةِ»",
+        "irab_dan_logika": "Berharakat kasrah (ذَاتِ) karena menjadi mudhaf (terkait) dengan kata berikutnya «الشَّوْكَةِ»"
+      },
+      "hikmah": "Menunjukkan **kepemilikan** atau sifat; di sini berarti “yang memiliki tombak”, yaitu orang yang bersenjata.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "ٱلشَّوْكَةِ",
+      "transliterasi": "ash‑shawkati",
+      "jenis_kata": "Isim (isim iḍāfah, mudhaf bih)",
+      "arti": "tombak, duri",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "تَكُونُ",
+      "transliterasi": "takūnu",
+      "jenis_kata": "Fi'il",
+      "arti": "menjadi, ada",
+      "sharaf": {
+        "akar_kata": "ك و ن",
+        "makna_dasar": "ada, eksis",
+        "wazan_perubahan": "bentuk mudhari' dengan huruf ta sebagai penanda mudhari'"
+      },
+      "nahwu": {
+        "kedudukan": "verb setelah *أن* (jussive)",
+        "irab_dan_logika": "مجزوم بالفتحة لأن الفعل بعد *أن* يُجرّ بنصب"
+      },
+      "hikmah": "*Allah* menjanjikan bahwa kebaikan akan **menjadi** milikmu",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "لَكُمْ",
+      "transliterasi": "lakum",
+      "jenis_kata": "Huruf (preposisi) + ضمير متصل",
+      "arti": "bagi kamu",
+      "sharaf": {
+        "akar_kata": "ل ك",
+        "makna_dasar": "preposisi menunjukkan tujuan",
+        "wazan_perubahan": "حرف جر *li-* + ضمير المتصل *-kum*"
+      },
+      "nahwu": {
+        "kedudukan": "حرف جر مبني على الفتح مع الضمير المتصل في محل جر",
+        "irab_dan_logika": "اللام مكسورة والضمير في محل جر"
+      },
+      "hikmah": "menunjukkan bahwa **kebaikan** itu ditujukan **untukmu**",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "وَيُرِيدُ",
+      "transliterasi": "wa-yurīdu",
+      "jenis_kata": "Fi'il (verb) dengan huruf عطف",
+      "arti": "dan Dia (Allah) menghendaki",
+      "sharaf": {
+        "akar_kata": "ر و د",
+        "makna_dasar": "ingin, menghendaki",
+        "wazan_perubahan": "فعل مضارع مرفوع بالضمة مع واو العطف"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مرفوع مع الواو العاطفة",
+        "irab_dan_logika": "الواو عاطفة، الفعل مرفوع بالضمة"
+      },
+      "hikmah": "*Allah* menginginkan **kebenaran** terwujud",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "ٱللَّهُ",
+      "transliterasi": "Allāhu",
+      "jenis_kata": "Isim (nama)",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "ل ه",
+        "makna_dasar": "nama Tuhan yang Maha Esa",
+        "wazan_perubahan": "اسم علم مرفوع بالضمة"
+      },
+      "nahwu": {
+        "kedudukan": "مبتدأ مرفوع",
+        "irab_dan_logika": "المبتدأ مرفوع وعلامة رفعه الضمة"
+      },
+      "hikmah": "menegaskan **subjek** kalimat: *Allah*",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "أَن",
+      "transliterasi": "an",
+      "jenis_kata": "Huruf (particle)",
+      "arti": "bahwa",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "penghubung antara kalimat utama dan anak kalimat",
+        "wazan_perubahan": "حرف نصب مبني على السكون"
+      },
+      "nahwu": {
+        "kedudukan": "حرف نصب مبني على السكون",
+        "irab_dan_logika": "ليس له إعراب"
+      },
+      "hikmah": "memperkenalkan **anak kalimat** yang menjelaskan maksud Allah",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "يُحِقَّ",
+      "transliterasi": "yuḥiqqa",
+      "jenis_kata": "Fi'il",
+      "arti": "menegakkan, menyatakan benar",
+      "sharaf": {
+        "akar_kata": "ح ق ق",
+        "makna_dasar": "menegakkan kebenaran",
+        "wazan_perubahan": "فعل مضارع مرفوع بالضمة مع تشديد القاف"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع منصوب بـ *أن* (مجزوم)",
+        "irab_dan_logika": "بعد *أن* يُجزم بالفتحة على آخره مع الشدة"
+      },
+      "hikmah": "*Allah* menghendaki **menegakkan kebenaran** melalui ayat-ayat-Nya",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "ٱلْحَقَّ",
+      "transliterasi": "al-ḥaqqa",
+      "jenis_kata": "Isim",
+      "arti": "kebenaran",
+      "sharaf": {
+        "akar_kata": "ح-ق-ق",
+        "makna_dasar": "benar, tepat",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "objek (مفعول به) dari فعل يُبَيِّنُ",
+        "irab_dan_logika": "مُنصوب بالفتحة لأنّه مفعول به"
+      },
+      "hikmah": "Allah menegaskan kebenaran dengan firman-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "بِكَلِمَاتِهِ",
+      "transliterasi": "bi kalimāti-hi",
+      "jenis_kata": "Isim maushul (kata benda berprefiks ب dan suffiks ه)",
+      "arti": "dengan perkataannya",
+      "sharaf": {
+        "akar_kata": "ك-ل-م",
+        "makna_dasar": "kata, ucapan",
+        "wazan_perubahan": "فَعْلَة"
+      },
+      "nahwu": {
+        "kedudukan": "keterangan (جار ومجرور) untuk فعل يُبَيِّنُ",
+        "irab_dan_logika": "مجرور بالكسرة لأنّ الباء حرف جر"
+      },
+      "hikmah": "Allah menjelaskan kebenaran melalui firman-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "وَيَقْطَعُ",
+      "transliterasi": "wa-yaqṭaʿu",
+      "jenis_kata": "Fi'il (مضارع مرفوع)",
+      "arti": "dan memotong / memusnahkan",
+      "sharaf": {
+        "akar_kata": "ق-ط-ع",
+        "makna_dasar": "memotong, memutuskan",
+        "wazan_perubahan": "فَعَل"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja koordinatif setelah يُبَيِّنُ",
+        "irab_dan_logika": "مرفوع بالضمة لأنّه فعل مضارع مرفوع"
+      },
+      "hikmah": "Allah memutuskan (memusnahkan) jalan orang kafir.",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "دَابِرَ",
+      "transliterasi": "dābira",
+      "jenis_kata": "Isim (مفعول به) jamak",
+      "arti": "jalur, tempat",
+      "sharaf": {
+        "akar_kata": "د-ب-ر",
+        "makna_dasar": "bagian belakang, jalur",
+        "wazan_perubahan": "فَعِل"
+      },
+      "nahwu": {
+        "kedudukan": "objek (مفعول به) dari فعل يَقْطَعُ",
+        "irab_dan_logika": "مُنصوب بالفتحة لأنّه مفعول به"
+      },
+      "hikmah": "Allah memutuskan jalur (rencana) orang kafir.",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "ٱلْكَٰفِرِينَ",
+      "transliterasi": "al-kāfirīna",
+      "jenis_kata": "Isim (مجرور) jamak",
+      "arti": "orang-orang kafir",
+      "sharaf": {
+        "akar_kata": "ك-ف-ر",
+        "makna_dasar": "menolak, kafir",
+        "wazan_perubahan": "فَاعِل"
+      },
+      "nahwu": {
+        "kedudukan": "keterangan tambahan (مضاف إليه) pada إِضافة دَابِرَ",
+        "irab_dan_logika": "مجرور بالكسرة لأنّه مضاف إليه"
+      },
+      "hikmah": "Menunjukkan kelompok orang yang menolak iman.",
+      "role": "none"
+    }
+  ]
+}

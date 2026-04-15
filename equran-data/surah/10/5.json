@@ -1,0 +1,456 @@
+{
+  "surah": 10,
+  "ayah": 5,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "هُوَ",
+      "transliterasi": "Huwa",
+      "jenis_kata": "Isim (Dhamir)",
+      "arti": "Dia (laki-laki tunggal)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk dhamir",
+        "makna_dasar": "Menunjuk kepada entitas tunggal maskulin yang tidak hadir",
+        "wazan_perubahan": "Tidak berlaku untuk dhamir"
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada' (Subjek)",
+        "irab_dan_logika": "Marfu' secara mahal (kedudukan rafa'), karena dhamir adalah kata yang mabni (tidak berubah harakat akhirnya). Berfungsi sebagai permulaan kalimat."
+      },
+      "hikmah": "Menekankan keesaan dan keagungan Allah sebagai pelaku utama dalam penciptaan, menunjukkan bahwa hanya Dia-lah yang memiliki kekuasaan tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "ٱلَّذِى",
+      "transliterasi": "Alladzī",
+      "jenis_kata": "Isim Maushul (Kata Sambung)",
+      "arti": "Yang, Dia yang",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk isim maushul",
+        "makna_dasar": "Menghubungkan kalimat sebelumnya dengan kalimat setelahnya, merujuk pada entitas yang disebutkan sebelumnya",
+        "wazan_perubahan": "Tidak berlaku untuk isim maushul"
+      },
+      "nahwu": {
+        "kedudukan": "Khabar (Predikat)",
+        "irab_dan_logika": "Marfu' secara mahal (kedudukan rafa'), karena isim maushul adalah kata yang mabni. Berfungsi sebagai khabar yang menjelaskan 'هُوَ'."
+      },
+      "hikmah": "Berfungsi sebagai penghubung yang mengaitkan identitas Allah dengan sifat-sifat-Nya sebagai Pencipta dan Pengatur alam semesta, menegaskan bahwa Dia-lah satu-satunya yang memiliki kemampuan tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "جَعَلَ",
+      "transliterasi": "Ja'ala",
+      "jenis_kata": "Fi'il Madhi (Kata Kerja Lampau)",
+      "arti": "Dia menjadikan, Dia membuat",
+      "sharaf": {
+        "akar_kata": "ج-ع-ل (J-'-L)",
+        "makna_dasar": "Menjadikan, membuat, menempatkan, mengubah",
+        "wazan_perubahan": "Fa'ala (فَعَلَ) - Wazan 1 (Tsulatsi Mujarrad)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il (Kata Kerja)",
+        "irab_dan_logika": "Mabni 'ala al-fath (tetap berharakat fathah) karena fi'il madhi yang tidak bersambung dengan dhamir rafa' mutaharrik atau wawu jama'ah. Fa'ilnya (subjek) adalah dhamir mustatir (tersembunyi) 'هُوَ' yang kembali kepada Allah."
+      },
+      "hikmah": "Menunjukkan kekuasaan mutlak Allah dalam menciptakan dan mengatur segala sesuatu sesuai kehendak-Nya, menegaskan bahwa penciptaan ini adalah tindakan langsung dari-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "ٱلشَّمْسَ",
+      "transliterasi": "Asy-Syamsa",
+      "jenis_kata": "Isim (Kata Benda)",
+      "arti": "Matahari",
+      "sharaf": {
+        "akar_kata": "ش-م-س (Sy-M-S)",
+        "makna_dasar": "Matahari, bersinar",
+        "wazan_perubahan": "Isim Jāmid (kata benda murni, tidak memiliki wazan sharaf yang aktif)"
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul Bih (Objek)",
+        "irab_dan_logika": "Manshub (berharakat fathah) karena menjadi objek dari fi'il 'جَعَلَ'."
+      },
+      "hikmah": "Menyoroti matahari sebagai salah satu tanda kebesaran Allah yang memiliki fungsi vital sebagai sumber energi dan cahaya bagi kehidupan di bumi, menunjukkan keagungan penciptaan-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "ضِيَآءًۭ",
+      "transliterasi": "Diyā'an",
+      "jenis_kata": "Isim (Kata Benda/Mashdar)",
+      "arti": "Cahaya, sinar terang",
+      "sharaf": {
+        "akar_kata": "ض-و-أ (Ḍ-W-')",
+        "makna_dasar": "Bersinar, bercahaya, terang",
+        "wazan_perubahan": "Fi'āl (فِعَال) - Mashdar dari fi'il 'ضَاءَ' (ḍā'a)"
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul Bih Tsani (Objek Kedua)",
+        "irab_dan_logika": "Manshub (berharakat fathah tanwin) karena menjadi objek kedua dari fi'il 'جَعَلَ', yang dalam konteks ini berarti 'menjadikan matahari sebagai cahaya'."
+      },
+      "hikmah": "Menjelaskan esensi matahari sebagai sumber cahaya utama yang terang benderang, yang merupakan karunia dan tanda kekuasaan Allah yang tak terbantahkan, serta menunjukkan fungsi spesifik matahari.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "وَٱلْقَمَرَ",
+      "transliterasi": "Wal-Qamara",
+      "jenis_kata": "Isim (Kata Benda)",
+      "arti": "Dan bulan",
+      "sharaf": {
+        "akar_kata": "ق-م-ر (Q-M-R)",
+        "makna_dasar": "Bulan",
+        "wazan_perubahan": "Isim Jāmid (kata benda murni)"
+      },
+      "nahwu": {
+        "kedudukan": "Ma'thuf (Diikuti) kepada 'ٱلشَّمْسَ'",
+        "irab_dan_logika": "Manshub (berharakat fathah) karena di-'athaf-kan (dihubungkan) kepada 'ٱلشَّمْسَ' yang juga manshub. Huruf wawu (و) berfungsi sebagai huruf 'athaf (penghubung)."
+      },
+      "hikmah": "Menunjukkan keseimbangan dan keselarasan penciptaan Allah, di mana bulan memiliki peran penting yang berbeda dari matahari (sebagai penerima cahaya), namun sama-sama menjadi tanda kebesaran-Nya dan berfungsi sebagai penunjuk waktu.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "نُورًۭا",
+      "transliterasi": "Nūrā(n)",
+      "jenis_kata": "Isim",
+      "arti": "Cahaya, sinar",
+      "sharaf": {
+        "akar_kata": "ن و ر (N-W-R)",
+        "makna_dasar": "Terang, bercahaya, menerangi.",
+        "wazan_perubahan": "Isim Masdar (kata benda dasar) atau Isim Sifat, berfungsi sebagai Maf'ul Bih kedua."
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul Bih kedua (objek kedua) dari fi'il 'جَعَلَ' (ja'ala).",
+        "irab_dan_logika": "Manshub (berharakat fathatain) karena merupakan Maf'ul Bih kedua. Fi'il 'جَعَلَ' di sini bermakna 'menjadikan' yang membutuhkan dua objek, yaitu 'الْقَمَرَ' (bulan) sebagai objek pertama dan 'نُورًا' (cahaya) sebagai objek kedua."
+      },
+      "hikmah": "Penggunaan `نُورًا` untuk bulan menunjukkan bahwa bulan tidak memancarkan cahayanya sendiri, melainkan memantulkan cahaya matahari. Ini adalah bukti kebesaran Allah dalam menciptakan perbedaan fungsi antara matahari dan bulan, yang keduanya penting bagi kehidupan di bumi dan sebagai penanda waktu.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "وَقَدَّرَهُۥ",
+      "transliterasi": "Wa qaddarahu",
+      "jenis_kata": "Fi'il (dan Huruf Athaf)",
+      "arti": "Dan Dia menetapkannya",
+      "sharaf": {
+        "akar_kata": "ق د ر (Q-D-R)",
+        "makna_dasar": "Mengukur, menentukan, menetapkan, menakar dengan presisi.",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau) dalam wazan فَعَّلَ (fa''ala) yang menunjukkan makna taksir (pengulangan atau penekanan) atau ta'diyah (menjadikan transitif). Dhomir هُۥ (hu) adalah dhomir muttashil (kata ganti sambung) sebagai Maf'ul Bih."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Madhi, Fa'ilnya adalah dhomir mustatir (tersembunyi) yang kembali kepada Allah (هُوَ), dan dhomir هُۥ (hu) adalah Maf'ul Bih. Huruf wawu (و) adalah huruf athaf (penghubung).",
+        "irab_dan_logika": "Fi'il Madhi mabni (tetap) di atas fathah. Dhomir هُۥ (hu) adalah dhomir muttashil mabni di atas dhammah, dalam posisi nashab sebagai Maf'ul Bih."
+      },
+      "hikmah": "Penggunaan `وَقَدَّرَهُۥ` (dan Dia menetapkannya) menunjukkan ketelitian dan kesempurnaan ciptaan Allah. Allah tidak hanya menciptakan bulan, tetapi juga dengan sangat presisi menetapkan orbit dan fase-fase perjalanannya. Ini adalah tanda kekuasaan dan kebijaksanaan-Nya yang luar biasa dalam mengatur alam semesta.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "مَنَازِلَ",
+      "transliterasi": "Manāzila",
+      "jenis_kata": "Isim",
+      "arti": "Tempat-tempat singgah, fase-fase, stasiun-stasiun",
+      "sharaf": {
+        "akar_kata": "ن ز ل (N-Z-L)",
+        "makna_dasar": "Turun, singgah, menempati.",
+        "wazan_perubahan": "Isim Makan (kata benda yang menunjukkan tempat) dalam bentuk jamak taksir (plural tidak beraturan) dari مَنْزِلٌ (manzilun) dengan wazan مَفَاعِلُ (mafā'ilu)."
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul Bih kedua dari fi'il 'قَدَّرَ' (qaddara), atau bisa juga sebagai Hal (keadaan) dari dhomir هُۥ (hu) yang kembali ke bulan.",
+        "irab_dan_logika": "Manshub (berharakat fathah) karena merupakan Maf'ul Bih kedua. Kata ini adalah `mamnu' minash-sharfi` (tidak menerima tanwin dan kasrah) karena berwazan `mafā'ilu` (sighah muntahal jumu'). Oleh karena itu, tanda nashabnya adalah fathah."
+      },
+      "hikmah": "`مَنَازِلَ` (fase-fase/tempat singgah) merujuk pada lintasan atau posisi bulan yang berbeda-beda di langit sepanjang perjalanannya. Ini adalah sistem yang sangat teratur dan presisi yang memungkinkan manusia menghitung waktu dan tahun, menunjukkan bahwa setiap ciptaan Allah memiliki fungsi dan tujuan yang jelas.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "لِتَعْلَمُوا۟",
+      "transliterasi": "Lita'lamū",
+      "jenis_kata": "Fi'il (dan Huruf Lam Ta'lil)",
+      "arti": "Agar kalian mengetahui",
+      "sharaf": {
+        "akar_kata": "ع ل م (Ain-Lam-Mim)",
+        "makna_dasar": "Mengetahui, memahami, menyadari.",
+        "wazan_perubahan": "Fi'il Mudhari' (kata kerja sekarang/akan datang) dalam wazan تَفْعَلُونَ (taf'alūna) untuk dhomir أَنْتُمْ (antum - kalian). Huruf Lam (لِ) adalah Lam Ta'lil (lam sebab/tujuan)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Manshub (berharakat nashab) oleh Lam Ta'lil. Wawu alif (و۟ا) adalah Fa'il (pelaku) yang kembali kepada manusia.",
+        "irab_dan_logika": "Manshub karena didahului oleh Lam Ta'lil (لِ) yang merupakan salah satu amil nashab. Tanda nashabnya adalah حذف النون (membuang nun) karena termasuk Af'alul Khamsah (lima bentuk fi'il mudhari' yang berakhiran nun)."
+      },
+      "hikmah": "`لِتَعْلَمُوا۟` (agar kalian mengetahui) menjelaskan tujuan di balik penciptaan dan pengaturan fase-fase bulan yang begitu teratur. Ini menunjukkan bahwa Allah menciptakan alam semesta bukan tanpa tujuan, melainkan untuk memberikan manfaat dan petunjuk bagi manusia, salah satunya adalah kemampuan untuk menghitung waktu.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "عَدَدَ",
+      "transliterasi": "Adada",
+      "jenis_kata": "Isim",
+      "arti": "Bilangan, jumlah",
+      "sharaf": {
+        "akar_kata": "ع د د (Ain-Dal-Dal)",
+        "makna_dasar": "Menghitung, membilang, jumlah.",
+        "wazan_perubahan": "Isim Masdar dari fi'il عَدَّ (adda) atau Isim (kata benda) yang menunjukkan jumlah."
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul Bih (objek) dari fi'il 'لِتَعْلَمُوا۟' (lita'lamū). Juga sebagai Mudhaf (kata yang disandarkan).",
+        "irab_dan_logika": "Manshub (berharakat fathah) karena merupakan Maf'ul Bih."
+      },
+      "hikmah": "`عَدَدَ` (bilangan) menekankan fungsi praktis dari sistem peredaran bulan. Dengan mengetahui fase-fase bulan, manusia dapat menghitung jumlah hari, bulan, dan tahun. Ini adalah karunia Allah yang memungkinkan manusia mengatur kehidupan, ibadah, dan urusan duniawi mereka dengan sistem penanggalan yang akurat.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "ٱلسِّنِينَ",
+      "transliterasi": "As-sinīna",
+      "jenis_kata": "Isim",
+      "arti": "Tahun-tahun",
+      "sharaf": {
+        "akar_kata": "س ن و (S-N-W) atau س ن ن (S-N-N)",
+        "makna_dasar": "Tahun, masa, periode.",
+        "wazan_perubahan": "Jamak Mudzakkar Salim (plural maskulin beraturan) dari سَنَةٌ (sanah - tahun), meskipun secara teknis disebut `mulhaq bil jam'i mudzakkar salim` (diikutkan pada jamak mudzakkar salim) karena asalnya muannats."
+      },
+      "nahwu": {
+        "kedudukan": "Mudhaf Ilaih (kata yang disandari) dari 'عَدَدَ' ('adada).",
+        "irab_dan_logika": "Majrur (berharakat kasrah) karena merupakan Mudhaf Ilaih. Tanda jarnya adalah ya' (ي) karena ia adalah jamak mudzakkar salim (atau mulhaq bihi)."
+      },
+      "hikmah": "`ٱلسِّنِينَ` (tahun-tahun) menegaskan bahwa seluruh sistem pergerakan benda langit ini dirancang untuk memungkinkan manusia memiliki sistem penanggalan yang akurat. Ini adalah bukti nyata bahwa Allah menciptakan alam semesta dengan tujuan yang jelas dan bermanfaat bagi makhluk-Nya, mendorong manusia untuk merenungkan dan memanfaatkan ciptaan-Nya dalam mengatur waktu dan kehidupan.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "وَٱلْحِسَابَ",
+      "transliterasi": "wa al-ḥisāb",
+      "jenis_kata": "Isim",
+      "arti": "dan perhitungan",
+      "sharaf": {
+        "akar_kata": "ح س ب (ḥ-s-b)",
+        "makna_dasar": "menghitung, mengira, mencukupi",
+        "wazan_perubahan": "Isim Masdar dari Fi'il Tsulatsi Mujarrad (حَسَبَ - يَحْسُبُ) atau Fi'il Rubā'ī (حَاسَبَ - يُحَاسِبُ)."
+      },
+      "nahwu": {
+        "kedudukan": "Ma'thuf (diikuti) kepada 'bilangan tahun' (عَدَدَ ٱلسِّنِينَ).",
+        "irab_dan_logika": "Manshub (berharakat fathah) karena mengikuti ma'thuf 'alaih (عَدَدَ) yang juga manshub sebagai maf'ul bih dari 'litaklamu' (لِتَعْلَمُوا)."
+      },
+      "hikmah": "Menunjukkan bahwa penetapan manzilah bulan bukan hanya untuk mengetahui jumlah tahun, tetapi juga untuk perhitungan waktu secara lebih detail, seperti hari, bulan, dan musim, yang esensial bagi kehidupan manusia dan ibadah.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "ۚ",
+      "transliterasi": "-",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "Tanda berhenti (waqaf lazim)",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "-",
+        "irab_dan_logika": "-"
+      },
+      "hikmah": "Menunjukkan tempat berhenti yang dianjurkan dalam pembacaan Al-Qur'an, menandakan selesainya satu bagian makna dan transisi ke bagian makna berikutnya.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "مَا",
+      "transliterasi": "mā",
+      "jenis_kata": "Huruf",
+      "arti": "tidak",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Nafiyah (peniadaan).",
+        "irab_dan_logika": "Huruf mabni, tidak memiliki i'rab. Berfungsi menafikan (meniadakan) fi'il setelahnya."
+      },
+      "hikmah": "Mengawali penegasan bahwa segala ciptaan Allah ini bukanlah tanpa tujuan atau sia-sia, melainkan dengan kebenaran dan hikmah yang agung.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "خَلَقَ",
+      "transliterasi": "khalaqa",
+      "jenis_kata": "Fi'il",
+      "arti": "Dia menciptakan",
+      "sharaf": {
+        "akar_kata": "خ ل ق (kh-l-q)",
+        "makna_dasar": "menciptakan, membentuk, menentukan",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau), Tsulatsi Mujarrad, Bab Nashara (فَعَلَ - يَفْعُلُ)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Madhi.",
+        "irab_dan_logika": "Mabni 'ala al-fath (tetap berharakat fathah) karena tidak bersambung dengan dhamir rafa' mutaharrik atau wawu jama'ah. Fa'ilnya (subjek) adalah dhamir mustatir (tersembunyi) yang kembali kepada 'Allah' (ٱللَّهُ) pada ayat sebelumnya atau yang akan disebutkan setelahnya."
+      },
+      "hikmah": "Menekankan kekuasaan mutlak Allah sebagai Sang Pencipta, yang mengadakan segala sesuatu dari ketiadaan dengan sempurna dan penuh hikmah.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "ٱللَّهُ",
+      "transliterasi": "Allāhu",
+      "jenis_kata": "Isim",
+      "arti": "Allah (Nama Dzat Tuhan)",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Fa'il (subjek) dari fi'il 'خَلَقَ' (khalaqa).",
+        "irab_dan_logika": "Marfu' (berharakat dhammah) karena sebagai fa'il."
+      },
+      "hikmah": "Menegaskan bahwa Dzat yang Maha Agung, Allah SWT, adalah satu-satunya Pencipta dan Pengatur alam semesta ini, dan segala ciptaan-Nya adalah bukti keesaan dan kekuasaan-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "ذَٰلِكَ",
+      "transliterasi": "dhālika",
+      "jenis_kata": "Isim Isyarah",
+      "arti": "itu",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul Bih (objek) dari fi'il 'خَلَقَ' (khalaqa).",
+        "irab_dan_logika": "Mabni 'ala al-fath (tetap berharakat fathah) pada huruf terakhirnya (kaf), berada pada posisi nashab (manshub) sebagai maf'ul bih. Merujuk kepada 'matahari bersinar, bulan bercahaya, dan manzilah-manzilah bulan' yang telah disebutkan sebelumnya."
+      },
+      "hikmah": "Menarik perhatian kembali kepada seluruh ciptaan dan pengaturan alam semesta yang telah dijelaskan sebelumnya (matahari, bulan, manzilahnya), menegaskan bahwa semua itu adalah objek penciptaan Allah yang penuh tujuan dan kebenaran.",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "إِلَّا",
+      "transliterasi": "Illā",
+      "jenis_kata": "Huruf",
+      "arti": "Kecuali, melainkan",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf istitsna' (pengecualian)",
+        "irab_dan_logika": "Huruf *mabniyyun 'ala as-sukūn*, tidak memiliki kedudukan i'rab. Fungsinya membatasi atau mengecualikan."
+      },
+      "hikmah": "Dalam konteks ayat ini, 'illā' berfungsi sebagai pembatas, menegaskan bahwa penciptaan alam semesta oleh Allah tidak lain adalah dengan kebenaran dan tujuan yang hakiki, bukan sia-sia.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "بِٱلْحَقِّ",
+      "transliterasi": "Bil-ḥaqqi",
+      "jenis_kata": "Isim (dengan huruf jar 'بِ')",
+      "arti": "Dengan kebenaran, dengan hak",
+      "sharaf": {
+        "akar_kata": "ح ق ق (Ḥ-Q-Q)",
+        "makna_dasar": "Kebenaran, hak, nyata, sesuai kenyataan.",
+        "wazan_perubahan": "Isim (bentuk dasar)"
+      },
+      "nahwu": {
+        "kedudukan": "Majrur (dijarkan) oleh huruf jar 'بِ'",
+        "irab_dan_logika": "Huruf 'بِ' (*bi*) adalah huruf jar, yang menyebabkan isim setelahnya menjadi majrur (berharakat kasrah). 'ٱلْحَقِّ' adalah isim majrur dengan tanda jar kasrah pada huruf akhirnya."
+      },
+      "hikmah": "Menunjukkan bahwa segala penciptaan Allah, termasuk matahari, bulan, dan penentuan manzilahnya, didasari oleh kebenaran, keadilan, dan tujuan yang mulia. Ini menolak anggapan bahwa penciptaan itu sia-sia atau tanpa makna.",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "ۚ",
+      "transliterasi": "N/A",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "Tanda berhenti (waqaf jaiz)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca Al-Qur'an",
+        "irab_dan_logika": "Bukan bagian dari kata dalam tata bahasa Arab, melainkan tanda untuk membantu pembacaan Al-Qur'an."
+      },
+      "hikmah": "Menunjukkan tempat yang dianjurkan untuk berhenti sejenak dalam pembacaan, yang membantu pemahaman makna ayat.",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "يُفَصِّلُ",
+      "transliterasi": "Yufaṣṣilu",
+      "jenis_kata": "Fi'il",
+      "arti": "Dia menjelaskan, Dia merinci",
+      "sharaf": {
+        "akar_kata": "ف ص ل (F-Ṣ-L)",
+        "makna_dasar": "Memisahkan, merinci, menjelaskan secara detail.",
+        "wazan_perubahan": "Fi'il Mudhari' (kata kerja sekarang/akan datang) dari Bab Taf'īl (فَعَّلَ - يُفَعِّلُ)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Marfu' (diangkat)",
+        "irab_dan_logika": "Fi'il Mudhari' yang tidak didahului oleh amil nashib (penashab) atau amil jazim (penjazam), sehingga marfu' dengan tanda rafa' dammah pada huruf akhirnya. Fa'il (subjek) dari fi'il ini adalah dhamir mustatir (tersembunyi) yang kembali kepada Allah (هُوَ)."
+      },
+      "hikmah": "Menegaskan bahwa Allah SWT secara terus-menerus dan dengan sangat jelas merinci serta menjelaskan tanda-tanda kebesaran-Nya di alam semesta, agar manusia dapat memahami hikmah di baliknya.",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "ٱلْءَايَٰتِ",
+      "transliterasi": "Al-āyāti",
+      "jenis_kata": "Isim",
+      "arti": "Tanda-tanda, ayat-ayat",
+      "sharaf": {
+        "akar_kata": "أ ي ي (A-Y-Y)",
+        "makna_dasar": "Tanda, bukti, mukjizat, pelajaran.",
+        "wazan_perubahan": "Jamak Mu'annats Salim (bentuk jamak perempuan yang beraturan) dari kata 'آيَةٌ' (āyah)."
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul Bih (objek) dari fi'il 'يُفَصِّلُ'",
+        "irab_dan_logika": "Sebagai Maf'ul Bih, seharusnya manshub (berharakat fathah). Namun, karena ia adalah Jamak Mu'annats Salim, tanda nashabnya adalah kasrah, bukan fathah."
+      },
+      "hikmah": "Merujuk pada segala bentuk tanda kebesaran Allah, baik yang termanifestasi di alam semesta (ayat-ayat kauniyah) maupun yang terkandung dalam wahyu-Nya (ayat-ayat Qur'aniyah), yang semuanya berfungsi sebagai bukti nyata akan eksistensi dan kekuasaan-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "لِقَوْمٍۢ",
+      "transliterasi": "Liqaumin",
+      "jenis_kata": "Isim (dengan huruf jar 'لِ')",
+      "arti": "Bagi kaum, untuk suatu kaum",
+      "sharaf": {
+        "akar_kata": "ق و م (Q-W-M)",
+        "makna_dasar": "Berdiri, bangkit, kaum, umat, sekelompok orang.",
+        "wazan_perubahan": "Isim (bentuk dasar)"
+      },
+      "nahwu": {
+        "kedudukan": "Majrur (dijarkan) oleh huruf jar 'لِ'",
+        "irab_dan_logika": "Huruf 'لِ' (*li*) adalah huruf jar, yang menyebabkan isim setelahnya menjadi majrur (berharakat kasrah). 'قَوْمٍۢ' adalah isim majrur dengan tanda jar kasrah tanwin pada huruf akhirnya."
+      },
+      "hikmah": "Menunjukkan bahwa penjelasan tanda-tanda kebesaran Allah itu ditujukan secara khusus kepada orang-orang yang memiliki akal dan kemauan untuk berpikir, merenung, dan mengambil pelajaran, bukan kepada sembarang orang. Ini menekankan pentingnya penggunaan akal dalam memahami agama.",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "يَعْلَمُونَ",
+      "transliterasi": "ya'lamūna",
+      "jenis_kata": "Fi'il (Kata Kerja)",
+      "arti": "mereka mengetahui",
+      "sharaf": {
+        "akar_kata": "ع-ل-م (ain-lam-mim)",
+        "makna_dasar": "Mengetahui, ilmu, pengetahuan",
+        "wazan_perubahan": "Ini adalah Fi'il Mudhari' (kata kerja masa kini/mendatang) dari wazan يَفْعَلُونَ (yaf'alūna). Bentuk ini menunjukkan jamak laki-laki orang ketiga (mereka)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' yang berfungsi sebagai predikat dalam *jumlah fi'liyyah* (kalimat verbal) yang menjadi *na'at* (sifat/penjelas) bagi kata sebelumnya 'قَوْمٍ' (kaum).",
+        "irab_dan_logika": "Kata ini berkedudukan *marfu'* (rafa') karena tidak didahului oleh *harf nashab* (huruf penashab) atau *harf jazm* (huruf penjazm). Tanda *rafa'*nya adalah tetapnya huruf *nun* (ثبوت النون - tsubūt an-nūn) di akhir kata, karena termasuk *Af'alul Khamsah* (lima kata kerja khusus). Huruf wawu (و) pada akhir kata berfungsi sebagai *fa'il* (subjek) yang kembali kepada 'kaum'."
+      },
+      "hikmah": "Kata 'يَعْلَمُونَ' dalam konteks ayat ini tidak hanya berarti mengetahui secara faktual, tetapi juga merujuk pada orang-orang yang menggunakan akal dan pengetahuannya untuk merenung, memahami, dan mengambil pelajaran dari tanda-tanda kebesaran Allah di alam semesta. Ini adalah dorongan bagi manusia untuk berpikir mendalam dan menghubungkan fenomena alam dengan kekuasaan dan kebijaksanaan Sang Pencipta, sehingga mencapai pemahaman yang lebih tinggi tentang kebenaran.",
+      "role": "none"
+    }
+  ]
+}

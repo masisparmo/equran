@@ -1,0 +1,276 @@
+{
+  "surah": 9,
+  "ayah": 51,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "قُل",
+      "transliterasi": "qul",
+      "jenis_kata": "Fi'il",
+      "arti": "katakan",
+      "sharaf": {
+        "akar_kata": "ق-و-ل",
+        "makna_dasar": "mengucapkan",
+        "wazan_perubahan": "فعل أمر"
+      },
+      "nahwu": {
+        "kedudukan": "فعل أمر مبني على السكون",
+        "irab_dan_logika": "لا إعراب له؛ الفاعل ضمير مستتر تقديره (أنت) لأن الأمر موجه إلى النبي"
+      },
+      "hikmah": "Perintah Allah kepada Nabi Muhammad agar menyampaikan pesan Allah kepada umat.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "لَّن",
+      "transliterasi": "lan",
+      "jenis_kata": "Huruf",
+      "arti": "tidak akan",
+      "sharaf": {
+        "akar_kata": "ل-ن",
+        "makna_dasar": "menafikan masa depan",
+        "wazan_perubahan": "حرف نفي"
+      },
+      "nahwu": {
+        "kedudukan": "حرف نفي يسبق الفعل المضارع",
+        "irab_dan_logika": "يجر الفعل المضارع إلى الجزم (سكون) لأن لَن تنفي الفعل المستقبلي"
+      },
+      "hikmah": "Menegaskan bahwa sesuatu tidak mungkin terjadi kecuali dengan izin Allah.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "يُصِيبَنَآ",
+      "transliterasi": "yusibana",
+      "jenis_kata": "Fi'il",
+      "arti": "menimpa kami",
+      "sharaf": {
+        "akar_kata": "ص-و-ب",
+        "makna_dasar": "menyentuh, menimpa",
+        "wazan_perubahan": "فعل مضارع مجزوم (بعد لَن) بسكون"
+      },
+      "nahwu": {
+        "kedudukan": "فعل مضارع مجزوم",
+        "irab_dan_logika": "بعد حرف النفي لَن يُجزم الفعل، لذا يُكتب يَصِبْ (سكون) لكن dalam mushaf muncul يَصِيبَنَا لتسهيل القراءة"
+      },
+      "hikmah": "Segala musibah yang menimpa hamba hanya yang telah ditetapkan Allah.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "إِلَّا",
+      "transliterasi": "illa",
+      "jenis_kata": "Huruf",
+      "arti": "kecuali",
+      "sharaf": {
+        "akar_kata": "إِلَّا",
+        "makna_dasar": "menunjuk pengecualian",
+        "wazan_perubahan": "حرف استثناء"
+      },
+      "nahwu": {
+        "kedudukan": "حرف استثناء مبني على السكون",
+        "irab_dan_logika": "ليس له محل إعرابي، يقتصر دوره على ربط ما بعده بما قبله"
+      },
+      "hikmah": "Menyatakan bahwa tidak ada yang menimpa kecuali yang telah ditetapkan Allah.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "مَا",
+      "transliterasi": "ma",
+      "jenis_kata": "Huruf",
+      "arti": "apa",
+      "sharaf": {
+        "akar_kata": "م-ا",
+        "makna_dasar": "menunjuk pada sesuatu yang tidak diketahui atau yang disebutkan",
+        "wazan_perubahan": "اسم موصول"
+      },
+      "nahwu": {
+        "kedudukan": "اسم موصول في محل مفعول به للفعل \"كَتَبَ\"",
+        "irab_dan_logika": "مبني على السكون لأنه اسم موصول، وعلامة رفعه أو نصبها تتحدد بحسب موقعه في الجملة"
+      },
+      "hikmah": "Merujuk pada segala yang telah ditetapkan Allah.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "كَتَبَ",
+      "transliterasi": "kataba",
+      "jenis_kata": "Fi'il",
+      "arti": "menulis / menetapkan",
+      "sharaf": {
+        "akar_kata": "ك-ت-ب",
+        "makna_dasar": "menulis, mencatat, menetapkan",
+        "wazan_perubahan": "فعل ماضٍ ثلاثي مجرد"
+      },
+      "nahwu": {
+        "kedudukan": "فعل ماضٍ مبني على الفتح",
+        "irab_dan_logika": "الفعل مرفوع بالفتحة لأنه فعل ماضٍ، والفاعل ضمير مستتر تقديره هو (الله)"
+      },
+      "hikmah": "Menegaskan bahwa segala takdir adalah hasil penetapan Allah yang tercatat.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "ٱللَّهُ",
+      "transliterasi": "Allāhu",
+      "jenis_kata": "Isim",
+      "arti": "Allah (Tuhan)",
+      "sharaf": {
+        "akar_kata": "ل-ه",
+        "makna_dasar": "menyebut nama Tuhan",
+        "wazan_perubahan": "tanwin dammah, marfu'"
+      },
+      "nahwu": {
+        "kedudukan": "subjek (marfu') dalam kalimat",
+        "irab_dan_logika": "dammah karena berfungsi sebagai mubtada'"
+      },
+      "hikmah": "*Allah adalah penentu segala takdir, menegaskan kepercayaan pada ketetapan-Nya.*",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "لَنَا",
+      "transliterasi": "lanā",
+      "jenis_kata": "Huruf jar + ضمير",
+      "arti": "bagi kami",
+      "sharaf": {
+        "akar_kata": "ل",
+        "makna_dasar": "menunjuk kepemilikan atau tujuan",
+        "wazan_perubahan": "preposisi لِ + ضمير متصل"
+      },
+      "nahwu": {
+        "kedudukan": "kata benda yang dijadikan mudhaf ilayh (jar)",
+        "irab_dan_logika": "kasrah karena preposisi لِ"
+      },
+      "hikmah": "*Menunjukkan bahwa segala yang terjadi adalah untuk kepentingan hamba‑hamba Allah.*",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "هُوَ",
+      "transliterasi": "huwa",
+      "jenis_kata": "Isim dhat",
+      "arti": "dia (Allah)",
+      "sharaf": {
+        "akar_kata": "ه-و-",
+        "makna_dasar": "menyatakan subjek",
+        "wazan_perubahan": "isim dhat"
+      },
+      "nahwu": {
+        "kedudukan": "kata ganti subjek (marfu') setelah اسم",
+        "irab_dan_logika": "dammah karena berfungsi sebagai mubtada'"
+      },
+      "hikmah": "*Menegaskan kehadiran Allah sebagai subjek utama dalam ayat.*",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "مَوْلَىٰنَا",
+      "transliterasi": "mawlānā",
+      "jenis_kata": "Isim",
+      "arti": "pelindung kami",
+      "sharaf": {
+        "akar_kata": "و-ل-ى",
+        "makna_dasar": "menjadi pelindung, memberi perlindungan",
+        "wazan_perubahan": "mafʿūl"
+      },
+      "nahwu": {
+        "kedudukan": "khabar (marfu') setelah هو",
+        "irab_dan_logika": "dammah karena menjadi predikat"
+      },
+      "hikmah": "*Allah adalah pelindung yang selalu menjaga hamba‑Nya.*",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Isyarat waqf (tanda baca)",
+      "arti": "tanda berhenti",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "menandai jeda akhir bagian kalimat",
+        "irab_dan_logika": "tidak berirab, hanya fungsi prosodik"
+      },
+      "hikmah": "*Memberi jeda untuk menekankan makna sebelumnya.*",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "وَعَلَى",
+      "transliterasi": "waʿalā",
+      "jenis_kata": "Huruf (wa + ʿalā)",
+      "arti": "dan atas",
+      "sharaf": {
+        "akar_kata": "ع-ل-ى",
+        "makna_dasar": "menunjuk arah atau tempat",
+        "wazan_perubahan": "huruf jar"
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "ٱللَّهِ",
+      "transliterasi": "Allāhi",
+      "jenis_kata": "Isim",
+      "arti": "Allah (Tuhan)",
+      "sharaf": {
+        "akar_kata": "ل-ه",
+        "makna_dasar": "menyebut nama Tuhan",
+        "wazan_perubahan": "mukarrar (tanwin)"
+      },
+      "nahwu": {
+        "kedudukan": "Keterangan (jar) yang mengikuti huruf **إِلَى** dalam ayat",
+        "irab_dan_logika": "Berharakat kasrah karena berfungsi sebagai **jar** (keterangan tempat)"
+      },
+      "hikmah": "Menegaskan bahwa segala sesuatu yang terjadi adalah atas kehendak Allah, menumbuhkan ketundukan total kepada-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "فَلْيَتَوَكَّلِ",
+      "transliterasi": "fa-li-yatawakkali",
+      "jenis_kata": "Fi'il",
+      "arti": "maka hendaklah (dia) bertawakal",
+      "sharaf": {
+        "akar_kata": "و-ك-ل",
+        "makna_dasar": "menaruh kepercayaan, bersandar",
+        "wazan_perubahan": "formulasi **imperatif** dengan alif alif (li‑y)"
+      },
+      "nahwu": {
+        "kedudukan": "Kata kerja perintah (imperatif) yang mengajak orang ketiga",
+        "irab_dan_logika": "Berakhiran kasrah karena fi'il amar dengan **li** (let) yang menandakan perintah"
+      },
+      "hikmah": "Mengajak umat beriman menaruh kepercayaan sepenuhnya kepada Allah, menyingkirkan rasa cemas dan bergantung pada diri sendiri.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "ٱلْمُؤْمِنُونَ",
+      "transliterasi": "al‑muʾminūna",
+      "jenis_kata": "Isim",
+      "arti": "orang‑orang beriman",
+      "sharaf": {
+        "akar_kata": "أ-م-ن",
+        "makna_dasar": "percaya, yakin",
+        "wazan_perubahan": "mufʿalun (jamak maskulin)"
+      },
+      "nahwu": {
+        "kedudukan": "Fa'il (subjek) jamak maskulin dalam kalimat",
+        "irab_dan_logika": "Berharakat dhammah karena berstatus **marfuʿ** sebagai subjek"
+      },
+      "hikmah": "Menegaskan bahwa hanya orang‑orang yang beriman yang wajib menaruh tawakal kepada Allah, menandakan kedudukan khusus mereka di hadapan-Nya.",
+      "role": "none"
+    }
+  ]
+}

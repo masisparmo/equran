@@ -1,0 +1,186 @@
+{
+  "surah": 8,
+  "ayah": 57,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "فَإِمَّا",
+      "transliterasi": "fa‑imma",
+      "jenis_kata": "Huruf (partikel pilihan)",
+      "arti": "*maka* atau *atau* (menunjukkan pilihan)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Huruf ma'na di awal ayat, menghubungkan dengan kalimat sebelumnya",
+        "irab_dan_logika": "Tidak ber‑i'rab karena huruf; berfungsi sebagai *fa* (konjungsi) + *imma* (partikel pilihan)"
+      },
+      "hikmah": "Menandakan adanya dua kemungkinan tindakan yang akan dijelaskan selanjutnya.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "تَثْقَفَنَّهُمْ",
+      "transliterasi": "tathqafannahum",
+      "jenis_kata": "Fi'il (mudhari')",
+      "arti": "*menjadikan mereka lemah/kalah*",
+      "sharaf": {
+        "akar_kata": "ق ف ف",
+        "makna_dasar": "lemah, kalah",
+        "wazan_perubahan": "tafaʿala (form X)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il mudhari' 3 rd person plural, berfungsi sebagai predikat utama",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فعل مضارع مرفوع، والضمير المتصل *هم* مفعول به منصوب"
+      },
+      "hikmah": "Mengisyaratkan perintah untuk menundukkan musuh sehingga mereka menjadi lemah dan menerima pelajaran.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "فِى",
+      "transliterasi": "fi",
+      "jenis_kata": "Huruf (preposisi)",
+      "arti": "*di, dalam*",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Preposisi yang menghubungkan kata berikutnya",
+        "irab_dan_logika": "مجرور بحرف الجر *fi*؛ الاسم التالي harus berkasrah"
+      },
+      "hikmah": "Menunjukkan tempat atau konteks terjadinya tindakan selanjutnya.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "ٱلْحَرْبِ",
+      "transliterasi": "al‑harbi",
+      "jenis_kata": "Isim (isim maǧrūr)",
+      "arti": "*perang*",
+      "sharaf": {
+        "akar_kata": "ح ر ب",
+        "makna_dasar": "bertarung, perang",
+        "wazan_perubahan": "masdar *ḥarb*"
+      },
+      "nahwu": {
+        "kedudukan": "Isim majrūr karena preposisi *fi*",
+        "irab_dan_logika": "مجرور بالكسرة لأنه مضاف إلى حرف الجر *fi*"
+      },
+      "hikmah": "Menunjuk pada medan atau situasi peperangan yang menjadi latar perintah.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "فَشَرِّدْ",
+      "transliterasi": "fa‑sharrid",
+      "jenis_kata": "Fi'il (imperatif)",
+      "arti": "*maka sebarlah*",
+      "sharaf": {
+        "akar_kata": "ش ر د",
+        "makna_dasar": "menyebar, memecah-pecah",
+        "wazan_perubahan": "form IV (sharrada)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il amar (perintah) yang diikuti oleh objek",
+        "irab_dan_logika": "ليس له إعراب لأنه فعل أمر؛ يرفع الفاعل المستتر (Anda)"
+      },
+      "hikmah": "Perintah untuk memecah barisan musuh agar mereka tidak dapat bersatu.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "بِهِم",
+      "transliterasi": "bihim",
+      "jenis_kata": "Huruf (preposisi) + dhamir muttasil",
+      "arti": "*dengan mereka*",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "مَّنْ",
+      "transliterasi": "man",
+      "jenis_kata": "Isim (isim tafsir)",
+      "arti": "siapa",
+      "sharaf": {
+        "akar_kata": "م-ن-",
+        "makna_dasar": "siapa (kata tanya)",
+        "wazan_perubahan": "tidak ada (kata tanya)"
+      },
+      "nahwu": {
+        "kedudukan": "Isim shart (kata syarat) dalam frasa \"مَن خَلْفَهُمْ\"",
+        "irab_dan_logika": "مَن منصوب بالفتحة لأنه اسم شرط، وعلامة النصب الفتحة"
+      },
+      "hikmah": "*Menunjukkan bahwa Allah bersumpah kepada siapa saja yang berada di belakang mereka, mengingatkan bahwa hukuman tidak terbatas pada yang terdepan.*",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "خَلْفَهُمْ",
+      "transliterasi": "khalfahum",
+      "jenis_kata": "Isim (isim mausuf)",
+      "arti": "di belakang mereka",
+      "sharaf": {
+        "akar_kata": "خ-ل-ف",
+        "makna_dasar": "belakang",
+        "wazan_perubahan": "isim مشتق من فعل ثلاثي مجرد"
+      },
+      "nahwu": {
+        "kedudukan": "Isim majrur (مضاف) dalam \"خَلْفَهُمْ\"",
+        "irab_dan_logika": "مجرور بالكسرة لأن حرف الجر هو \"من\" (dalam konteks \"من خلفهم\")، والضمير المتصل \"هُمْ\" في محل جر بالإضافة"
+      },
+      "hikmah": "*Menggambarkan kelompok yang berada di belakang pasukan musuh, menegaskan bahwa hukuman akan menjangkau seluruh barisan, bukan hanya yang terdepan.*",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "لَعَلَّهُمْ",
+      "transliterasi": "la‘allahum",
+      "jenis_kata": "Huruf (huruf nasb) + ضمير متصل",
+      "arti": "agar mereka",
+      "sharaf": {
+        "akar_kata": "ل-ع-ل",
+        "makna_dasar": "harapan, keinginan",
+        "wazan_perubahan": "حرف نصب وتوكيد"
+      },
+      "nahwu": {
+        "kedudukan": "حرف نصب مبني على السكون يسبق جملة فعلية",
+        "irab_dan_logika": "حرف لَعَلَّ منصوب ولا يُنصب، وهو حرف نصب وتوكيد، والضمير المتصل \"هُمْ\" في محل نصب مفعول به"
+      },
+      "hikmah": "*Menunjukkan tujuan Allah menurunkan hukuman: agar orang‑orang musuh mengambil pelajaran dan kembali beriman.*",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "يَذَّكَّرُونَ",
+      "transliterasi": "yadhakkaruna",
+      "jenis_kata": "Fi'il (verb)",
+      "arti": "mereka mengingat/menyesali",
+      "sharaf": {
+        "akar_kata": "ذ-ك-ر",
+        "makna_dasar": "ingat, menyesali",
+        "wazan_perubahan": "فعل مضارع مرفوع"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il mudhari‘ marfu‘ (verb) dengan فاعل ضمير متصل \"ون\"",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فعل مضارع، والواو للرفع وللجمع"
+      },
+      "hikmah": "*Ayat ini mengandung harapan bahwa setelah disaksikan hukuman, orang‑orang akan merenungkan peristiwa tersebut dan kembali kepada petunjuk Allah.*",
+      "role": "none"
+    }
+  ]
+}
