@@ -1724,19 +1724,15 @@ function saveToCommunityDatabase(surahNum, ayahNum, wordIndex, wordText, aiResul
 
     fetch(gasBackendUrl, {
         method: 'POST',
+        mode: 'no-cors',
         headers: {
             // Content-Type is text/plain to avoid CORS preflight issues with GAS
             'Content-Type': 'text/plain;charset=utf-8'
         },
         body: JSON.stringify(payload)
     })
-    .then(response => response.json())
-    .then(data => {
-        if (data.status === 'success') {
-            console.log("Successfully contributed analysis to the community database!");
-        } else {
-            console.log("Database response:", data);
-        }
+    .then(response => {
+        console.log("Successfully contributed analysis to the community database (no-cors)!");
     })
     .catch(error => console.error("Error saving to database:", error));
 }
