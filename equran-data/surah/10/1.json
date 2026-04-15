@@ -4,38 +4,92 @@
   "words": [
     {
       "index": 0,
-      "kata_arab": "ٱلْكِتَٰبِ",
-      "transliterasi": "al-Kitāb",
-      "jenis_kata": "Isim (Kata Benda)",
-      "arti": "Kitab, Buku, Tulisan",
+      "kata_arab": "الٓر",
+      "transliterasi": "Alif Lam Ra",
+      "jenis_kata": "Huruf Muqatta'ah",
+      "arti": "Alif Lam Ra (huruf-huruf terpisah)",
       "sharaf": {
-        "akar_kata": "ك ت ب (k-t-b)",
-        "makna_dasar": "Menulis, mengumpulkan, mencatat.",
-        "wazan_perubahan": "فِعَال (fi'āl) - bentuk Isim yang menunjukkan alat atau hasil dari suatu tindakan. Di sini, 'kitab' adalah sesuatu yang ditulis."
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Tidak berlaku",
+        "wazan_perubahan": "Tidak berlaku"
       },
       "nahwu": {
-        "kedudukan": "Mudhaf ilaih (objek kepemilikan) dari 'آيَاتُ' (ayat-ayat).",
-        "irab_dan_logika": "Majrur dengan kasrah (ِ) karena merupakan mudhaf ilaih dari 'آيَاتُ'. Mudhaf ilaih selalu dalam keadaan majrur."
+        "kedudukan": "Pembuka surah",
+        "irab_dan_logika": "Huruf-huruf ini tidak memiliki kedudukan i'rab dalam tata bahasa Arab, berfungsi sebagai isyarat atau rahasia Allah."
       },
-      "hikmah": "Merujuk pada Al-Qur'an itu sendiri, sebagai 'Kitab' yang tertulis dan terhimpun, yang berisi petunjuk dan hukum. Penekanannya pada sifatnya sebagai wahyu yang dicatat dan dipelihara oleh Allah SWT.",
+      "hikmah": "Merupakan mukjizat Al-Qur'an dan tantangan bagi orang Arab untuk membuat yang serupa, juga menunjukkan bahwa Al-Qur'an tersusun dari huruf-huruf yang mereka kenal.",
       "role": "none"
     },
     {
       "index": 1,
-      "kata_arab": "ٱلْحَكِيمِ",
-      "transliterasi": "al-Ḥakīm",
-      "jenis_kata": "Isim Sifat (Kata Sifat)",
-      "arti": "Yang Maha Bijaksana, Yang Penuh Hikmah",
+      "kata_arab": "تِلْكَ",
+      "transliterasi": "Tilka",
+      "jenis_kata": "Isim Isyarah",
+      "arti": "Itulah / Ini",
       "sharaf": {
-        "akar_kata": "ح ك م (ḥ-k-m)",
-        "makna_dasar": "Menghukumi, memutuskan, bijaksana, mencegah kebodohan.",
-        "wazan_perubahan": "فَعِيل (fa'īl) - bentuk Isim Sifat Musyabbahah atau Sighah Mubalaghah yang menunjukkan sifat yang melekat atau intensitas."
+        "akar_kata": "ذ ل ك",
+        "makna_dasar": "Menunjuk, menunjukkan",
+        "wazan_perubahan": "Isim Isyarah (bentuk muannats tunggal)"
       },
       "nahwu": {
-        "kedudukan": "Na'at (sifat) dari 'ٱلْكِتَٰبِ'.",
-        "irab_dan_logika": "Majrur dengan kasrah (ِ) karena mengikuti man'ut (kata yang disifati) yaitu 'ٱلْكِتَٰبِ' yang juga majrur. Sifat harus mengikuti man'ut dalam i'rab, jenis, jumlah, dan ta'rif/tankir (definit/indefinit)."
+        "kedudukan": "Mubtada' (subjek)",
+        "irab_dan_logika": "Marfu' secara mahal (kedudukan rafa'), karena isim isyarah adalah mabni (tetap). Berfungsi sebagai subjek kalimat."
       },
-      "hikmah": "Menyifati Al-Qur'an sebagai Kitab yang penuh hikmah, bijaksana dalam hukum-hukumnya, petunjuknya, dan penjelasannya. Ini menunjukkan bahwa setiap ayat dan ajarannya memiliki tujuan dan kebijaksanaan yang mendalam dari Allah SWT, serta tidak ada kebatilan di dalamnya.",
+      "hikmah": "Menunjuk pada ayat-ayat Al-Qur'an yang akan disebutkan, memberikan penekanan pada keagungan dan jarak (dalam hal waktu atau derajat) dari wahyu tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "ءَايَٰتُ",
+      "transliterasi": "Aayaatu",
+      "jenis_kata": "Isim",
+      "arti": "Ayat-ayat / Tanda-tanda",
+      "sharaf": {
+        "akar_kata": "أ ي ي",
+        "makna_dasar": "Tanda, bukti, mukjizat",
+        "wazan_perubahan": "Jamak muannats salim dari آية (aayah)"
+      },
+      "nahwu": {
+        "kedudukan": "Khabar (predikat) dari mubtada' تِلْكَ",
+        "irab_dan_logika": "Marfu' dengan dhammah, karena ia adalah jamak muannats salim dan berfungsi sebagai khabar."
+      },
+      "hikmah": "Menunjukkan bahwa Al-Qur'an terdiri dari tanda-tanda atau mukjizat yang jelas, yang membuktikan kebenaran risalah Nabi Muhammad SAW.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "ٱلْكِتَٰبِ",
+      "transliterasi": "Al-Kitaabi",
+      "jenis_kata": "Isim",
+      "arti": "Kitab / Buku",
+      "sharaf": {
+        "akar_kata": "ك ت ب",
+        "makna_dasar": "Menulis, mencatat",
+        "wazan_perubahan": "Isim (bentuk tunggal)"
+      },
+      "nahwu": {
+        "kedudukan": "Mudhaf ilaih (kata yang disandarkan kepadanya)",
+        "irab_dan_logika": "Majrur dengan kasrah, karena ia adalah mudhaf ilaih dari ءَايَٰتُ."
+      },
+      "hikmah": "Merujuk pada Al-Qur'an sebagai sebuah kitab yang tertulis dan terpelihara, sumber petunjuk dan hukum.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "ٱلْحَكِيمِ",
+      "transliterasi": "Al-Hakiimi",
+      "jenis_kata": "Isim Sifat",
+      "arti": "Yang Maha Bijaksana / Yang Penuh Hikmah",
+      "sharaf": {
+        "akar_kata": "ح ك م",
+        "makna_dasar": "Bijaksana, menghukumi, memutuskan",
+        "wazan_perubahan": "Isim Fa'il (bentuk sifat)"
+      },
+      "nahwu": {
+        "kedudukan": "Na'at (sifat) bagi ٱلْكِتَٰبِ",
+        "irab_dan_logika": "Majrur dengan kasrah, karena ia adalah na'at yang mengikuti man'utnya (ٱلْكِتَٰبِ) dalam i'rab (majrur)."
+      },
+      "hikmah": "Menegaskan bahwa Al-Qur'an adalah kitab yang penuh hikmah, mengandung kebijaksanaan ilahi dalam setiap ajarannya, hukumnya, dan kisahnya.",
       "role": "none"
     }
   ]

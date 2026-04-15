@@ -4,200 +4,254 @@
   "words": [
     {
       "index": 0,
-      "kata_arab": "ٱلسَّمَٰوَٰتِ",
-      "transliterasi": "as-samāwāti",
+      "kata_arab": "ٱلْحَمْدُ",
+      "transliterasi": "Al-Hamdu",
       "jenis_kata": "Isim",
-      "arti": "langit (jamak)",
+      "arti": "Segala puji",
       "sharaf": {
-        "akar_kata": "س م و",
-        "makna_dasar": "ketinggian, ruang di atas",
-        "wazan_perubahan": "fa‘ālāt (jamak)"
+        "akar_kata": "ح م د",
+        "makna_dasar": "Memuji, memuliakan, bersyukur",
+        "wazan_perubahan": "Isim Masdar"
       },
       "nahwu": {
-        "kedudukan": "maf‘ul (objek) dari fi‘il *khalaqa*",
-        "irab_dan_logika": "Berkasrah karena berfungsi sebagai maf‘ul bil‑‘un (objek) dalam kalimat"
+        "kedudukan": "Mubtada' (Subjek)",
+        "irab_dan_logika": "Marfu' dengan dhammah (ُ) karena merupakan mubtada' yang memulai kalimat dan menunjukkan keumuman pujian."
       },
-      "hikmah": "Menunjukkan kebesaran Allah dalam menciptakan alam yang luas dan tinggi, menegaskan bahwa segala yang ada di atas merupakan ciptaan-Nya.",
+      "hikmah": "Menunjukkan bahwa semua bentuk pujian, baik yang diucapkan maupun yang tersirat, adalah milik Allah semata. Ini adalah pengakuan akan keagungan dan kesempurnaan-Nya.",
       "role": "none"
     },
     {
       "index": 1,
-      "kata_arab": "وَٱلْأَرْضَ",
-      "transliterasi": "wal‑arḍa",
-      "jenis_kata": "Isim",
-      "arti": "bumi",
+      "kata_arab": "لِلَّهِ",
+      "transliterasi": "Lillāhi",
+      "jenis_kata": "Huruf + Isim",
+      "arti": "Bagi Allah / Milik Allah",
       "sharaf": {
-        "akar_kata": "ر ض",
-        "makna_dasar": "tanah, permukaan yang stabil",
-        "wazan_perubahan": "maf‘ul (singular)"
+        "akar_kata": "أ ل ه",
+        "makna_dasar": "Tuhan, yang disembah",
+        "wazan_perubahan": "Isim Alam (untuk Allah), Huruf Jar (لِ)"
       },
       "nahwu": {
-        "kedudukan": "maf‘ul (objek) kedua dari fi‘il *khalaqa*",
-        "irab_dan_logika": "Berfatḥah karena berfungsi sebagai maf‘ul bi‑‘un (objek) yang sejajar dengan *as‑samāwāti*"
+        "kedudukan": "Khabar (Predikat) dalam bentuk Jar Majrur",
+        "irab_dan_logika": "Huruf لِ (li) adalah huruf jar yang menyebabkan Isim setelahnya (Allah) menjadi Majrur. Nama Allah (الله) secara harfiah berakhiran kasrah (ِ) karena didahului oleh huruf jar."
       },
-      "hikmah": "Menyiratkan bahwa Allah tidak hanya menciptakan langit, tetapi juga bumi yang menjadi tempat makhluk hidup, menegaskan kesempurnaan ciptaan-Nya.",
+      "hikmah": "Menegaskan bahwa kepemilikan dan hak atas segala pujian adalah eksklusif hanya bagi Allah. Ini menunjukkan keesaan-Nya dalam menerima pujian.",
       "role": "none"
     },
     {
       "index": 2,
-      "kata_arab": "وَجَعَلَ",
-      "transliterasi": "wajaʿala",
-      "jenis_kata": "Fiʿil",
-      "arti": "menjadikan, membuat",
+      "kata_arab": "ٱلَّذِى",
+      "transliterasi": "Alladhī",
+      "jenis_kata": "Isim Maushul",
+      "arti": "Yang / Dia yang",
       "sharaf": {
-        "akar_kata": "ج ع ل",
-        "makna_dasar": "menetapkan, menjadikan",
-        "wazan_perubahan": "faʿala (madhi sederhana)"
+        "akar_kata": "Tidak memiliki akar kata dalam sharaf tradisional",
+        "makna_dasar": "Menghubungkan kalimat sebelumnya dengan kalimat atau frasa penjelas berikutnya",
+        "wazan_perubahan": "Isim Maushul Mufrad Mudzakkar"
       },
       "nahwu": {
-        "kedudukan": "fiʿil madhi (perfect) sebagai predikat utama ayat",
-        "irab_dan_logika": "Marfuʿ dengan dhammah karena merupakan fiʿil madhi yang berdiri sendiri"
+        "kedudukan": "Na'at (Sifat) atau Badal (Pengganti) bagi lafazh Allah",
+        "irab_dan_logika": "Mabni (tetap) di atas sukun pada ya (ي) terakhirnya, dalam posisi jar karena mengikuti lafazh Allah yang majrur."
       },
-      "hikmah": "Menegaskan tindakan aktif Allah dalam menata alam, menjadikan kegelapan dan cahaya sebagai bagian dari rencana-Nya.",
+      "hikmah": "Berfungsi sebagai penghubung dan penjelas, memperkenalkan sifat-sifat atau perbuatan Allah yang menjadi alasan Dia layak dipuji.",
       "role": "none"
     },
     {
       "index": 3,
-      "kata_arab": "ٱلظُّلُمَٰتِ",
-      "transliterasi": "aẓ‑ẓulumāti",
-      "jenis_kata": "Isim",
-      "arti": "kegelapan (jamak)",
+      "kata_arab": "خَلَقَ",
+      "transliterasi": "Khalaqa",
+      "jenis_kata": "Fi'il",
+      "arti": "Dia telah menciptakan",
       "sharaf": {
-        "akar_kata": "ظ ل م",
-        "makna_dasar": "gelap, kegelapan",
-        "wazan_perubahan": "faʿulāt (jamak)"
+        "akar_kata": "خ ل ق",
+        "makna_dasar": "Menciptakan, membentuk, mengadakan dari tiada",
+        "wazan_perubahan": "Fi'il Madhi, bentuk fa'ala (فَعَلَ), dhamir huwa (dia laki-laki)"
       },
       "nahwu": {
-        "kedudukan": "maf‘ul (objek) dari fiʿil *jaʿala*",
-        "irab_dan_logika": "Berkasrah karena berfungsi sebagai maf‘ul bil‑‘un (objek) yang diterangkan oleh *jaʿala*"
+        "kedudukan": "Fi'il (Kata Kerja) yang menjadi Silatul Maushul (kalimat penghubung) bagi Isim Maushul (ٱلَّذِى). Fa'il (Subjek) tersembunyi berupa dhamir huwa (هو) yang kembali kepada Allah.",
+        "irab_dan_logika": "Fi'il Madhi selalu mabni (tetap), di sini mabni di atas fathah (َ)."
       },
-      "hikmah": "Menggambarkan salah satu ciptaan Allah yang dipasangkan dengan cahaya, menegaskan adanya kontras yang mengajarkan manusia tentang perbedaan antara kebaikan dan keburukan.",
+      "hikmah": "Menekankan kekuasaan mutlak Allah sebagai Sang Pencipta tunggal. Ini adalah salah satu sifat utama yang menjadikan-Nya layak dipuji.",
       "role": "none"
     },
     {
       "index": 4,
-      "kata_arab": "وَٱلنُّورَ",
-      "transliterasi": "wan‑nūra",
+      "kata_arab": "ٱلسَّمَٰوَٰتِ",
+      "transliterasi": "As-Samāwāti",
       "jenis_kata": "Isim",
-      "arti": "cahaya (jamak/konsep)",
+      "arti": "Langit-langit",
       "sharaf": {
-        "akar_kata": "ن و ر",
-        "makna_dasar": "bersinar, terang",
-        "wazan_perubahan": "faʿūl (tunggal)"
+        "akar_kata": "س م و",
+        "makna_dasar": "Tinggi, mengangkat, ketinggian",
+        "wazan_perubahan": "Isim Jamak Muannats Salim"
       },
       "nahwu": {
-        "kedudukan": "maf‘ul (objek) kedua dari fiʿil *jaʿala* (sejajar dengan *aẓ‑ẓulumāti*)",
-        "irab_dan_logika": "Berfatḥah karena berfungsi sebagai maf‘ul bi‑‘un (objek) yang diterangkan oleh *jaʿala*"
+        "kedudukan": "Maf'ul Bih (Objek) dari fi'il خَلَقَ (khalaqa)",
+        "irab_dan_logika": "Manshub dengan kasrah (ِ) sebagai pengganti fathah, karena ia adalah jamak muannats salim."
       },
-      "hikmah": "Menyiratkan bahwa Allah menjadikan cahaya sebagai penyeimbang kegelapan, simbol petunjuk dan hidayah bagi manusia.",
+      "hikmah": "Merujuk pada ciptaan Allah yang maha luas dan kompleks di atas kita, menunjukkan kebesaran dan keagungan penciptaan-Nya.",
       "role": "none"
     },
     {
       "index": 5,
-      "kata_arab": "ۖ",
-      "transliterasi": "(tanda waqf kecil)",
-      "jenis_kata": "Simbol",
-      "arti": "tanda jeda (pause) dalam bacaan",
+      "kata_arab": "وَٱلْأَرْضَ",
+      "transliterasi": "Wal-Arḍa",
+      "jenis_kata": "Huruf + Isim",
+      "arti": "Dan bumi",
       "sharaf": {
-        "akar_kata": "-",
-        "makna_dasar": "-",
-        "wazan_perubahan": "-"
+        "akar_kata": "أ ر ض",
+        "makna_dasar": "Tanah, daratan, planet bumi",
+        "wazan_perubahan": "Isim Mufrad Muannats"
       },
       "nahwu": {
-        "kedudukan": "tanda baca akhir ayat, tidak termasuk dalam struktur gramatikal",
-        "irab_dan_logika": "Tidak memiliki i‘rab; berfungsi sebagai isyarat berhenti sejenak untuk merenung"
+        "kedudukan": "Ma'thuf (diikuti) kepada ٱلسَّمَٰوَٰتِ (as-Samāwāti), sehingga juga menjadi Maf'ul Bih dari fi'il خَلَقَ (khalaqa)",
+        "irab_dan_logika": "Manshub dengan fathah (َ) karena mengikuti ٱلسَّمَٰوَٰتِ yang manshub, dan ia adalah isim mufrad. Huruf وَ (wa) adalah huruf athaf (penghubung)."
       },
-      "hikmah": "Memberi kesempatan bagi pembaca untuk berhenti sejenak, menghayati makna ayat sebelum melanjutkan bacaan.",
+      "hikmah": "Melengkapi gambaran ciptaan Allah yang mencakup seluruh alam semesta, dari yang tertinggi hingga yang terendah, menegaskan kekuasaan-Nya atas segala sesuatu.",
       "role": "none"
     },
     {
       "index": 6,
+      "kata_arab": "وَجَعَلَ",
+      "transliterasi": "wa jaʿala",
+      "jenis_kata": "Fi'il",
+      "arti": "dan menjadikan",
+      "sharaf": {
+        "akar_kata": "ج-ع-ل",
+        "makna_dasar": "menyebabkan, membuat",
+        "wazan_perubahan": "فَعَلَ (fiʿl madhi)"
+      },
+      "nahwu": {
+        "kedudukan": "fiʿl madhi (kata kerja) yang berhubungan dengan subjek Allah",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فعل ماضٍ"
+      },
+      "hikmah": "Menegaskan bahwa Allah bukan hanya mencipta, tetapi juga menetapkan keadaan (gelap dan terang) sebagai bagian dari kebijaksanaan-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "ٱلظُّلُمَٰتِ",
+      "transliterasi": "aẓ-ẓulumāti",
+      "jenis_kata": "Isim",
+      "arti": "kegelapan (jamak)",
+      "sharaf": {
+        "akar_kata": "ظ-ل-م",
+        "makna_dasar": "kegelapan, menutupi",
+        "wazan_perubahan": "فَعَلَات (jamak)"
+      },
+      "nahwu": {
+        "kedudukan": "mansoob (مجرور) sebagai mafʿul bih (objek) dari fiʿl جَعَلَ",
+        "irab_dan_logika": "مجرور بالكسرة لأن حرف الجر هو وَ"
+      },
+      "hikmah": "Kegelapan merupakan ciptaan Allah yang memiliki tujuan, bukan sekadar keburukan, melainkan bagian dari keseimbangan alam.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "وَٱلنُّورَ",
+      "transliterasi": "wa an-nūra",
+      "jenis_kata": "Isim",
+      "arti": "dan cahaya",
+      "sharaf": {
+        "akar_kata": "ن-و-ر",
+        "makna_dasar": "cahaya, penerangan",
+        "wazan_perubahan": "فَعْل (tashkil mufrad)"
+      },
+      "nahwu": {
+        "kedudukan": "mansoob (مجرور) sebagai mafʿul bih (objek) dari fiʿl جَعَلَ",
+        "irab_dan_logika": "مجرور بالكسرة لأن حرف الجر هو وَ"
+      },
+      "hikmah": "Cahaya melengkapi kegelapan, menunjukkan dualitas ciptaan Allah yang saling melengkapi untuk memberi petunjuk kepada makhluk.",
+      "role": "none"
+    },
+    {
+      "index": 10,
       "kata_arab": "ثُمَّ",
       "transliterasi": "thumma",
       "jenis_kata": "Huruf",
       "arti": "kemudian",
       "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "lalu, kemudian",
-        "wazan_perubahan": ""
+        "akar_kata": "ث-م",
+        "makna_dasar": "setelah itu, selanjutnya",
+        "wazan_perubahan": "حرف عطف وتتابع"
       },
       "nahwu": {
-        "kedudukan": "kata sambung (harf) yang menghubungkan ayat sebelumnya dengan ayat selanjutnya",
-        "irab_dan_logika": "dhammah karena huruf, tidak berubah"
+        "kedudukan": "huruf عطف (kata sambung) yang menghubungkan dua bagian kalimat",
+        "irab_dan_logika": "حرف لا إعراب له"
       },
-      "hikmah": "Menegaskan urutan kejadian dalam penciptaan, menambah kesinambungan narasi",
+      "hikmah": "Menunjukkan urutan logis dalam penciptaan: setelah menciptakan dan menetapkan gelap serta terang, Allah menyoroti sikap orang-orang kafir.",
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 11,
       "kata_arab": "ٱلَّذِينَ",
       "transliterasi": "alladhīna",
       "jenis_kata": "Isim",
       "arti": "orang‑orang yang",
       "sharaf": {
-        "akar_kata": "ل‑ذ‑ن",
-        "makna_dasar": "menunjuk kepada orang yang melakukan sesuatu",
-        "wazan_perubahan": "isim maushul bi‑al‑"
+        "akar_kata": "ذ-ك-ر",
+        "makna_dasar": "yang mengingat, yang disebut",
+        "wazan_perubahan": "اسم موصول"
       },
       "nahwu": {
-        "kedudukan": "isim al‑muʿarrab (kata ganti relatif) sebagai objek fiʿl",
-        "irab_dan_logika": "mansub (kasrah) karena berada di posisi objek fiʿl «kafarū»"
+        "kedudukan": "isim mawsul (kata ganti relatif) yang menjadi subjek kalimat setelah ثُمَّ",
+        "irab_dan_logika": "مرفوع بالضمة لأنه مبتدأ"
       },
-      "hikmah": "Menandai kelompok orang kafir yang menjadi subjek penolakan",
+      "hikmah": "Menunjuk kepada kelompok manusia yang menolak kebenaran, menegaskan perbedaan antara penciptaan dan penolakan.",
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 12,
       "kata_arab": "كَفَرُوا۟",
       "transliterasi": "kafarū",
-      "jenis_kata": "Fiʿl",
+      "jenis_kata": "Fi'il",
       "arti": "mereka kafir",
       "sharaf": {
-        "akar_kata": "ك‑ف‑ر",
-        "makna_dasar": "menolak iman, mengingkari kebenaran",
-        "wazan_perubahan": "fiʿl madhi tiga‑riḍ masdar"
+        "akar_kata": "ك-ف-ر",
+        "makna_dasar": "menolak keimanan, mengingkari",
+        "wazan_perubahan": "فَعَلُوا (fiʿl madhi jamāʿ"
       },
       "nahwu": {
-        "kedudukan": "fiʿl madhi, 3rd person plural, marfuʿ",
-        "irab_dan_logika": "dammah karena fiʿl madhi yang berakhiran alif‑waw‑nun"
+        "kedudukan": "fiʿl madhi (kata kerja) sebagai predikat untuk isim mawsul ٱلَّذِينَ",
+        "irab_dan_logika": "مرفوع بالضمة لأنه فعل ماضٍ"
       },
-      "hikmah": "Menegaskan tindakan penolakan dan kekafiran terhadap Allah",
+      "hikmah": "Menegaskan konsekuensi spiritual: meski Allah menciptakan segala sesuatu, ada yang tetap menolak dan menyekutukan Tuhan.",
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 13,
       "kata_arab": "بِرَبِّهِمْ",
-      "transliterasi": "birabbihim",
-      "jenis_kata": "Huruf",
+      "transliterasi": "bi-rabbihim",
+      "jenis_kata": "Huruf dan Isim",
       "arti": "dengan Tuhan mereka",
       "sharaf": {
-        "akar_kata": "ر‑ب‑ب",
-        "makna_dasar": "Tuhan, pemilik segala sesuatu",
-        "wazan_perubahan": "isim mudhaf bi‑jar"
+        "akar_kata": "ر ب ب",
+        "makna_dasar": "Memiliki, menguasai, memelihara, mendidik, Tuhan.",
+        "wazan_perubahan": "Kata 'رب' (Rabb) adalah isim. Bentuk 'رَبِّهِمْ' adalah gabungan dari 'رب' (Rabb) yang berarti Tuhan, dan dhamir 'هم' (hum) yang berarti mereka. Huruf 'بِ' (bi) adalah huruf jar."
       },
       "nahwu": {
-        "kedudukan": "jar bi‑huruf «bi» yang menempel pada isim «rabbihim»",
-        "irab_dan_logika": "majrur (kasrah) karena huruf jar"
+        "kedudukan": "Majrur (dijarkan) oleh huruf jar 'بِ' (bi).",
+        "irab_dan_logika": "Huruf 'بِ' (bi) adalah huruf jar yang menyebabkan isim setelahnya menjadi majrur (berharakat kasrah). 'رَبِّ' (rabbi) adalah mudhaf, dan 'هِمْ' (him) adalah mudhaf ilaih (dhamir muttasil) yang berkedudukan jar. Tanda jar pada 'رَبِّ' adalah kasrah."
       },
-      "hikmah": "Menunjukkan objek penolakan, yaitu Tuhan yang mereka sekutukan",
+      "hikmah": "Kata ini menekankan hubungan kepemilikan dan pemeliharaan Allah terhadap hamba-Nya. Meskipun Allah adalah Tuhan dan Pemelihara mereka, orang-orang kafir justru menyekutukan-Nya, menunjukkan pengingkaran terhadap kebenaran yang jelas dan pengingkaran terhadap nikmat Allah.",
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 14,
       "kata_arab": "يَعْدِلُونَ",
-      "transliterasi": "yaʿdilūna",
-      "jenis_kata": "Fiʿl",
-      "arti": "menyamakkan",
+      "transliterasi": "ya'dilūna",
+      "jenis_kata": "Fi'il (kata kerja)",
+      "arti": "mereka menyamakan/menyekutukan",
       "sharaf": {
-        "akar_kata": "ع‑د‑ل",
-        "makna_dasar": "menyeimbangkan, menyamakan",
-        "wazan_perubahan": "fiʿl mudhariʿ tiga‑riḍ"
+        "akar_kata": "ع د ل",
+        "makna_dasar": "Adil, seimbang, menyamakan, membandingkan, menyekutukan.",
+        "wazan_perubahan": "Fi'il Mudhari' (kata kerja sekarang/akan datang) dari wazan فَعَلَ - يَفْعِلُ ('adala - ya'dilu). Bentuk ini adalah jamak mudzakkar ghaib (mereka laki-laki)."
       },
       "nahwu": {
-        "kedudukan": "fiʿl mudhariʿ, 3rd person plural, marfuʿ",
-        "irab_dan_logika": "dammah karena fiʿl mudhariʿ yang berakhiran alif‑waw‑nun"
+        "kedudukan": "Fi'il Mudhari' Marfu'.",
+        "irab_dan_logika": "Fi'il Mudhari' ini marfu' karena tidak didahului oleh amil nashib (penashab) atau amil jazim (penjazam). Tanda rafa'nya adalah tetapnya huruf nun (ن) di akhir, karena ia termasuk Af'alul Khamsah (lima fi'il). Wau jama'ah (و) adalah fa'il (subjek) yang kembali kepada 'orang-orang yang kafir'."
       },
-      "hikmah": "Menggambarkan tindakan orang kafir yang menyamakan Allah dengan sesuatu yang lain",
+      "hikmah": "Kata ini menggambarkan tindakan orang-orang kafir yang menyamakan atau menyekutukan selain Allah dengan-Nya, padahal Allah adalah Pencipta dan Pemelihara tunggal. Ini menunjukkan ketidakadilan dan kesesatan dalam pandangan mereka terhadap keesaan Tuhan, serta menempatkan sesuatu yang bukan pada tempatnya.",
       "role": "none"
     }
   ]

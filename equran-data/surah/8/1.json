@@ -4,261 +4,279 @@
   "words": [
     {
       "index": 0,
-      "kata_arab": "قُلِ",
-      "transliterasi": "qul",
+      "kata_arab": "يَسْـَٔلُونَكَ",
+      "transliterasi": "yasʾalūnaka",
       "jenis_kata": "Fi'il",
-      "arti": "**Katakan**",
+      "arti": "menanyakan (kepada) kamu",
       "sharaf": {
-        "akar_kata": "ق-و-ل",
-        "makna_dasar": "mengucapkan, menyatakan",
-        "wazan_perubahan": "fa‘ala (bentuk فعل أمر)"
+        "akar_kata": "س أ ل",
+        "makna_dasar": "menanya, meminta informasi",
+        "wazan_perubahan": "فَعَلَ → يَفْعَلُ (present) → يَسْأَلُونَ (plural, masculine) + كَ (kata ganti objek kedua) "
       },
       "nahwu": {
-        "kedudukan": "**Fi'il amar** (kata perintah) yang ditujukan kepada Nabi",
-        "irab_dan_logika": "dibangun pada السكون dengan kasrah pada اللام karena فعل أمر مبني على السكون"
+        "kedudukan": "kata kerja (fi'il) yang berfungsi sebagai predikat utama; subjeknya tersirat (mereka) dan ada objek berupa kata ganti 'كَ' (kamu)",
+        "irab_dan_logika": "Verb ini berada dalam bentuk مضارع مرفوع (present tense yang di‑rauf) sehingga berakhir dengan nun ber‑fatha (‑نَ). Akhiran وَنَ menandakan orang ketiga jamak maskulin. Huruf كَ yang melekat di akhir merupakan ضمير متصل في محل نصب (kata ganti terikat sebagai objek) dan ditandai dengan kasrah di bawah kaf."
       },
-      "hikmah": "Perintah Allah kepada Nabi untuk menyampaikan wahyu kepada umat.",
-      "role": "none"
+      "hikmah": "Dalam ayat ini, يَسْـَٔلُونَكَ berarti “mereka menanyakan kepadamu”. Kata kerja ini menegaskan bahwa pertanyaan datang dari orang‑orang (mereka) kepada Nabi Muhammad SAW tentang harta rampasan perang. Keunikan sastranya terletak pada penggunaan bentuk jamak (‑ونَ) yang menekankan banyaknya penanya, serta penambahan ضمير متصل كَ yang langsung mengarahkan pertanyaan kepada sang Nabi.",
+      "role": "predicate"
     },
     {
       "index": 1,
-      "kata_arab": "ٱلْأَنفَالُ",
-      "transliterasi": "al-anfālu",
-      "jenis_kata": "Isim",
-      "arti": "**harta rampasan perang**",
+      "kata_arab": "عَنِ",
+      "transliterasi": "ʿani",
+      "jenis_kata": "Harf",
+      "arti": "tentang, mengenai",
       "sharaf": {
-        "akar_kata": "ن-ف-ل",
-        "makna_dasar": "menyumbangkan, memberi",
-        "wazan_perubahan": "maf‘ūl (اسم مصدر)"
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
       },
       "nahwu": {
-        "kedudukan": "**Mubtada'** (subjek) dalam kalimat",
-        "irab_dan_logika": "مرفوع بالضمة لأنّه اسم مرفوع"
+        "kedudukan": "Harf jar (preposisi) yang memperkenalkan objek \"الْأَنْفَالِ\" pada kalimat \"يَسْأَلُونَكَ عَنِ الْأَنْفَالِ\"",
+        "irab_dan_logika": "Preposisi \"عن\" tidak berubah bentuk (tidak ber-iʿrāb). Huruf terakhirnya (ن) diberi tanda kasrah (ِ) karena setelah preposisi harus diikuti kata benda dalam keadaan جر (genitif). Jadi tanda kasrah di sini bukan iʿrāb untuk kata itu sendiri, melainkan menandakan vokal pendek \"i\" pada huruf ن agar bacaan menjadi \"ʿani\"."
       },
-      "hikmah": "Menegaskan bahwa harta rampasan adalah milik Allah.",
+      "hikmah": "Dalam ayat ini, \"عَنِ\" menandakan bahwa orang-orang menanyakan sesuatu yang berhubungan dengan \"الْأَنْفَالِ\" (harta rampasan perang). Penggunaan preposisi ini menegaskan hubungan pertanyaan (menanyakan tentang apa) dan menambah kejelasan makna secara gramatikal serta keindahan retoris Qur'an.",
       "role": "none"
     },
     {
       "index": 2,
-      "kata_arab": "لِلَّهِ",
-      "transliterasi": "lillāhi",
-      "jenis_kata": "Huruf",
-      "arti": "**untuk Allah**",
+      "kata_arab": "ٱلْأَنفَالِ",
+      "transliterasi": "al-anfaal",
+      "jenis_kata": "Isim (Kata Benda)",
+      "arti": "harta rampasan perang; spoils of war",
       "sharaf": {
-        "akar_kata": "ل-ه",
-        "makna_dasar": "milik, kepunyaan",
-        "wazan_perubahan": "tidak berlaku (huruf jar)"
+        "akar_kata": "ن ف ل",
+        "makna_dasar": "menyumbangkan, memberi, mengeluarkan (seperti nafla’ = pemberian sukarela)",
+        "wazan_perubahan": "أَفْعَال (af‘āl) – bentuk jamak tak teratur (broken plural) yang menandakan kumpulan atau intensitas"
       },
       "nahwu": {
-        "kedudukan": "**Jar** (kata depan) yang menghubungkan ke isim berikutnya",
-        "irab_dan_logika": "مجرور بالكسرة لأنّها حرف جر"
+        "kedudukan": "Mubtada' (subjek) dalam kalimat nominal “الأنفالُ لله والرسول”. Artinya, kata ini menjadi topik yang dibicarakan.",
+        "irab_dan_logika": "Dalam bacaan aslinya, kata ini berharakat dammah (الأنفالُ) karena berada dalam posisi marfu‘ (nominatif) sebagai mubtada'. Jika Anda menemukan kasrah (ٱلْأَنفَالِ), itu biasanya karena kesalahan penulisan atau pencetakan; secara tata bahasa, huruf terakhir harus ber‑damma untuk menandakan subjek."
       },
-      "hikmah": "Menunjukkan kepemilikan Allah atas harta rampasan.",
-      "role": "none"
-    },
-    {
-      "index": 3,
-      "kata_arab": "وَٱلرَّسُولِ",
-      "transliterasi": "wal-rasūli",
-      "jenis_kata": "Isim",
-      "arti": "**dan Rasul**",
-      "sharaf": {
-        "akar_kata": "ر-س-ل",
-        "makna_dasar": "mengirim, menyampaikan",
-        "wazan_perubahan": "fa‘ala (اسم مصدر)"
-      },
-      "nahwu": {
-        "kedudukan": "**Isim majrur** setelah حرف الجر (لِ)",
-        "irab_dan_logika": "مجرور بالكسرة لأنّها مضاف إليه"
-      },
-      "hikmah": "Rasul bersama Allah menjadi pemilik harta rampasan.",
-      "role": "none"
+      "hikmah": "‘Al‑anfaal’ di ayat ini menegaskan bahwa semua harta rampasan perang adalah milik Allah dan Rasul‑Nya. Penggunaan bentuk jamak ‘أَفْعَال’ memberi kesan kolektif, menekankan bahwa harta tersebut bukan milik individu melainkan kepemilikan bersama yang harus diperlakukan dengan keadilan dan ketakwaan.",
+      "role": "subject"
     },
     {
       "index": 4,
-      "kata_arab": "ۖ",
-      "transliterasi": "waqf",
-      "jenis_kata": "Huruf",
-      "arti": "**tanda berhenti**",
+      "kata_arab": "قُلِ",
+      "transliterasi": "qul",
+      "jenis_kata": "Fi'il",
+      "arti": "katakanlah",
       "sharaf": {
-        "akar_kata": "-",
-        "makna_dasar": "-",
-        "wazan_perubahan": "-"
+        "akar_kata": "ق و ل",
+        "makna_dasar": "berkata, mengucapkan",
+        "wazan_perubahan": "صيغة الأمر (imperatif) dari فعل ثلاثي مجرد قال"
       },
       "nahwu": {
-        "kedudukan": "**Tanda waqf** (simbol jeda)",
-        "irab_dan_logika": "tidak termasuk dalam i‘rab karena bukan kata"
+        "kedudukan": "kata perintah (imperatif) yang mengawali kalimat perintah kepada Nabi Muhammad SAW",
+        "irab_dan_logika": "قُلِ berakhiran kasrah karena merupakan فعل أمر yang diikuti oleh جملة اسمية (الْأَنْفَالُ لِلَّهِ وَالرَّسُولِ). Dalam tata bahasa Arab, فعل الأمر yang diikuti oleh جملة اسمية biasanya berkasrah untuk menandakan hubungannya dengan الجملة الاسمية tersebut."
       },
-      "hikmah": "Memberi jeda untuk menekankan makna sebelumnya.",
-      "role": "none"
+      "hikmah": "Dalam ayat ini, قُلِ menegaskan perintah Allah kepada Nabi untuk menyampaikan penjelasan tentang harta rampasan perang. Bentuk imperatifnya menambah kejelasan bahwa ini bukan sekadar saran, melainkan perintah langsung. Keunikan sastra terletak pada penggunaan kasrah pada فعل الأمر, yang secara halus menghubungkan perintah dengan kalimat nominal berikutnya, menekankan bahwa apa yang dikatakan (الْأَنْفَالُ لِلَّهِ وَالرَّسُولِ) adalah isi perintah itu sendiri.",
+      "role": "predicate"
     },
     {
       "index": 5,
-      "kata_arab": "فَٱتَّقُوا۟",
-      "transliterasi": "fa-ittaqu",
-      "jenis_kata": "Fi'il",
-      "arti": "**maka bertakwalah**",
+      "kata_arab": "ٱلْأَنفَالُ",
+      "transliterasi": "al-anfāl",
+      "jenis_kata": "Isim (Kata Benda)",
+      "arti": "harta rampasan perang; barang-barang yang diambil dari musuh setelah perang",
       "sharaf": {
-        "akar_kata": "و-ق-ى",
-        "makna_dasar": "menjaga diri dari dosa, takut kepada Allah",
-        "wazan_perubahan": "if‘āl (افتعل)"
+        "akar_kata": "ن ف ل",
+        "makna_dasar": "menambah, berlimpah, surplus; juga berarti menahan atau menutup",
+        "wazan_perubahan": "jam‘ taksir (broken plural) pola أَفْعَال dari kata tunggal نَفْل (nafl). Pola ini menandakan makna 'benda‑benda yang berlebih, surplus'."
       },
       "nahwu": {
-        "kedudukan": "**Fi'il amar** (perintah) yang diikuti oleh wa (فَ) sebagai huruf sambung",
-        "irab_dan_logika": "مبني على السكون، والواو عاطفة للجمع، وعلامة الرفع الضمة على الواو"
+        "kedudukan": "Objek preposisi (majlul) setelah huruf ‘عن’. Jadi kata ini berfungsi sebagai pelengkap huruf ‘عن’.",
+        "irab_dan_logika": "Karena berada di belakang huruf ‘عن’ (huruf jar), kata ini harus berkasrah. Oleh karena itu akhir katanya ditandai dengan kasrah (ٱلْأَنفَالِ). Kasrah menandakan bahwa kata berada dalam posisi majrur (objek preposisi)."
       },
-      "hikmah": "Ajakan kepada umat untuk bertakwa sebagai syarat kepemilikan harta rampasan.",
-      "role": "none"
+      "hikmah": "Dalam ayat ini, ‘الأنفال’ berarti harta rampasan perang yang menjadi milik Allah dan Rasul. Penggunaan bentuk jam‘ taksir menekankan bahwa yang dimaksud bukan satu barang, melainkan kumpulan barang‑barang yang berlebih setelah pertempuran. Keunikan sastranya terletak pada pemilihan kata jam‘ taksir untuk menegaskan sifat kolektif dan berlimpahnya harta tersebut.",
+      "role": "object"
     },
     {
       "index": 6,
-      "kata_arab": "اللَّهَ",
-      "transliterasi": "Allāha",
-      "jenis_kata": "Isim",
-      "arti": "Allah (Tuhan Yang Maha Esa)",
+      "kata_arab": "لِلَّهِ",
+      "transliterasi": "lillāhi",
+      "jenis_kata": "Harf",
+      "arti": "bagi Allah / milik Allah",
       "sharaf": {
-        "akar_kata": "اللّه",
-        "makna_dasar": "Nama Tuhan",
-        "wazan_perubahan": "Tidak berubah (isim mushabbah)"
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
       },
       "nahwu": {
-        "kedudukan": "Objek (mafʿul) dari perintah فَاتَّقُوا",
-        "irab_dan_logika": "Dharb marfuʿ dengan harakat dammah karena menjadi mafʿul mutlaq setelah perintah"
+        "kedudukan": "Harf jar (kata depan) yang menempel pada kata 'Allah' sehingga membentuk 'Allah' menjadi isim majrur (kata benda berkasrah).",
+        "irab_dan_logika": "Huruf terakhir pada 'اللّه' berkasrah (ـِ) karena setelah huruf jar 'li' (لِ) semua nama yang mengikutinya menjadi majrur. Jadi 'اللّهِ' dibaca dengan kasrah untuk menandakan bahwa ia berada dalam keadaan i‘rāb majrur, artinya maknanya 'milik Allah' atau 'untuk Allah'."
       },
-      "hikmah": "Menegaskan bahwa harta rampasan adalah milik Allah, mengajarkan ketakwaan",
+      "hikmah": "Dalam ayat ini, 'الْأَنْفَالُ لِلَّهِ وَالرَّسُولِ' berarti harta rampasan perang adalah hak milik Allah dan Rasul-Nya. Penggunaan 'li' menegaskan kepemilikan dan penyerahan total harta tersebut kepada Allah, menumbuhkan rasa takwa dan ketaatan pada umat.",
       "role": "none"
     },
     {
       "index": 7,
-      "kata_arab": "وَأَصْلِحُوا۟",
-      "transliterasi": "wa-aṣliḥū",
-      "jenis_kata": "Fi'il",
-      "arti": "dan perbaikilah",
+      "kata_arab": "وَٱلرَّسُولِ",
+      "transliterasi": "wa al-rasūli",
+      "jenis_kata": "Harf",
+      "arti": "dan (kepada) Rasul",
       "sharaf": {
-        "akar_kata": "ص ل ح",
-        "makna_dasar": "memperbaiki, memperbaiki hubungan",
-        "wazan_perubahan": "fiʿl amr majhul (imperatif) dengan alif al‑wasl"
+        "akar_kata": "ر س ل",
+        "makna_dasar": "mengirim, menyampaikan pesan; menjadi utusan",
+        "wazan_perubahan": "فَعُول: rasūl, bentuk isim fa‘ūl yang berarti “yang diutus” atau “utusan”"
       },
       "nahwu": {
-        "kedudukan": "Perintah (imperatif) yang berhubungan dengan فَاتَّقُوا",
-        "irab_dan_logika": "Marfuʿ dengan dhammah karena fiʿl amr"
+        "kedudukan": "Bagian dari frasa preposisional ‘li‑llāhi wa al‑rasūli’; berfungsi sebagai nama (isim) yang berada dalam posisi majrur (genitif) karena didahului preposisi li, dan dihubungkan dengan kata sebelumnya memakai huruf ‘wa’ (dan).",
+        "irab_dan_logika": "Preposisi li (لِ) menuntut kata berikutnya berkasrah. Karena itu ‘الرسولِ’ berkasrah (kasrah pada huruf terakhir). Huruf ‘wa’ (وَ) hanyalah huruf sambung, tidak mengubah i‘rab; ia hanya menghubungkan dua isim yang keduanya berada dalam keadaan majrur."
       },
-      "hikmah": "Mengajak umat untuk memperbaiki hubungan antar sesama",
-      "role": "none"
-    },
-    {
-      "index": 8,
-      "kata_arab": "ذَاتَ",
-      "transliterasi": "dhāta",
-      "jenis_kata": "Isim",
-      "arti": "yang memiliki, milik",
-      "sharaf": {
-        "akar_kata": "ذ و ت",
-        "makna_dasar": "kepemilikan",
-        "wazan_perubahan": "Isim mudhaf (milik) dalam bentuk mudhaf"
-      },
-      "nahwu": {
-        "kedudukan": "Kata sifat (nisbah) yang menjelaskan benda",
-        "irab_dan_logika": "Marfuʿ karena berfungsi sebagai mudhaf"
-      },
-      "hikmah": "Menunjukkan kepemilikan atau sifat",
-      "role": "none"
+      "hikmah": "‘وَٱلرَّسُولِ’ menegaskan bahwa harta rampasan perang adalah milik Allah dan milik Rasul-Nya secara bersamaan, menekankan kepemilikan bersama serta kewajiban umat untuk taat kepada keduanya. Secara sastera, penggunaan huruf ‘wa’ memberi kesan kesetaraan dan kebersamaan antara Allah dan Rasul dalam hak atas harta tersebut.",
+      "role": "object"
     },
     {
       "index": 9,
-      "kata_arab": "بَيْنِكُمْ",
-      "transliterasi": "baynikum",
-      "jenis_kata": "Isim",
-      "arti": "antara kamu",
+      "kata_arab": "فَٱتَّقُوا۟",
+      "transliterasi": "fa-ittaqu",
+      "jenis_kata": "Fi'il (Kata Kerja)",
+      "arti": "bertakwalah (perintah kepada kamu sekalian)",
       "sharaf": {
-        "akar_kata": "ب ي ن",
-        "makna_dasar": "antara",
-        "wazan_perubahan": "Isim majrur dengan harakat kasrah"
+        "akar_kata": "و ق ي",
+        "makna_dasar": "menjaga, melindungi, takut (kepada Allah)",
+        "wazan_perubahan": "bentuk imperatif jamak dari pola فعل (fa‘ala) → فَعِلُوا (fa‘ilū). Penambahan alif pada awal kata (ا) menandakan bentuk perintah (imperatif)."
       },
       "nahwu": {
-        "kedudukan": "Kata benda majrur sebagai objek preposisi وَأَصْلِحُوا",
-        "irab_dan_logika": "Majrur karena berhubungan dengan huruf جر \"bayna\""
+        "kedudukan": "Kata kerja perintah (imperatif) yang menjadi predikat dalam rangkaian perintah setelah huruf فَ (fa).",
+        "irab_dan_logika": "Kata ini berakhiran وَ (damma) + alif (وا). Pada kata kerja imperatif jamak maskulin, akhiran ‑وا diberi dammah untuk menandakan bentuk jamak. Karena ini verba imperatif, tidak ada harakat akhir berupa kasrah atau fathah; dammah pada waw sudah cukup menandakan i‘rābnya sebagai فعل أمر."
       },
-      "hikmah": "Menekankan pentingnya memperbaiki hubungan antar sesama",
-      "role": "none"
+      "hikmah": "‘فَٱتَّقُوا’ berarti ‘Maka bertakwalah (kamu sekalian)’. Dalam konteks ayat, perintah ini mengaitkan kepemilikan harta rampasan (الأنفال) dengan kewajiban spiritual: sebelum mengurus harta, pertama‑tama harus takut kepada Allah. Keunikan sastranya terletak pada penggunaan huruf فَ yang menghubungkan perintah ini dengan ayat sebelumnya, menegaskan urutan logis: harta untuk Allah dan Rasul, lalu takwa, kemudian perbaikan hubungan, dan akhirnya ketaatan.",
+      "role": "predicate"
     },
     {
       "index": 10,
-      "kata_arab": "ۖ",
-      "transliterasi": "waqf",
-      "jenis_kata": "Huruf",
-      "arti": "tanda jeda",
+      "kata_arab": "ٱللَّهَ",
+      "transliterasi": "Allāha",
+      "jenis_kata": "Isim (Kata Benda)",
+      "arti": "Allah, Tuhan Yang Maha Esa",
       "sharaf": {
-        "akar_kata": "-",
-        "makna_dasar": "-",
-        "wazan_perubahan": "-"
+        "akar_kata": "أ ل ه",
+        "makna_dasar": "ilah, dewa; dalam konteks Islam menjadi nama khusus Tuhan yang Maha Esa",
+        "wazan_perubahan": "Ism al‑Mufrad (nama tunggal) dengan al‑lam al‑jar (ال) sebagai artikel definit; tidak mengalami perubahan wazan lain"
       },
       "nahwu": {
-        "kedudukan": "Simbol waqf yang memisahkan bagian kalimat",
-        "irab_dan_logika": "Tidak memiliki iʿrāb, berfungsi sebagai tanda baca"
+        "kedudukan": "Objek (maf‘ūl bih) dari kata kerja «اتقوا» dan «أطيعوا»; artinya Allah adalah yang harus ditakuti dan ditaati",
+        "irab_dan_logika": "Berakhiran fathah (ـَ) menandakan nasb karena kata ini berfungsi sebagai objek langsung. Dalam bahasa Arab, kata benda yang menjadi objek langsung mendapat i‘rāb nasb (kasrah, fathah, atau dammah tergantung pada huruf terakhir). Karena huruf terakhirnya alif berharakat fathah, maka terbaca «Allāha»."
       },
-      "hikmah": "Memberi jeda untuk menekankan perintah selanjutnya",
-      "role": "none"
+      "hikmah": "Dalam ayat ini, «ٱللَّهَ» menunjukkan bahwa Allah adalah pemilik hak atas harta rampasan perang dan yang harus dijadikan tujuan takwa serta ketaatan. Penggunaan bentuk nasb menegaskan peran Allah sebagai objek tindakan manusia (takwa dan ketaatan), menekankan hubungan langsung antara perintah Allah dan perilaku mukmin.",
+      "role": "object"
     },
     {
       "index": 11,
-      "kata_arab": "وَأَطِيعُوا۟",
-      "transliterasi": "wa-aṭīʿū",
+      "kata_arab": "وَأَصْلِحُوا۟",
+      "transliterasi": "wa-aṣliḥū",
       "jenis_kata": "Fi'il",
-      "arti": "dan taatilah",
+      "arti": "perbaikilah (perbaiki) kalian",
       "sharaf": {
-        "akar_kata": "ط ع ي",
-        "makna_dasar": "taat, mengikuti",
-        "wazan_perubahan": "fiʿl amr majhul"
+        "akar_kata": "ص ل ح",
+        "makna_dasar": "baik, lurus, memperbaiki",
+        "wazan_perubahan": "bentuk فعل (fa‘ala) – bentuk I; bentuk perintah (أمر) dengan prefiks alif dan akhiran -وا untuk jamak maskulin"
       },
       "nahwu": {
-        "kedudukan": "Perintah (imperatif) yang berhubungan dengan ayat sebelumnya",
-        "irab_dan_logika": "Marfuʿ dengan dhammah karena fiʿl amr"
+        "kedudukan": "kata kerja perintah (fi'il amr) yang berkoordinasi dengan وَ setelah فَاتَّقُوا, jadi berfungsi sebagai predikat dalam rangkaian perintah",
+        "irab_dan_logika": "Kata ini مبني على الفتح karena merupakan fi'il amr; akhiran -وا menandakan jamak maskulin. Huruf terakhir waw berharakat dammah (وُ) karena menandakan akhir kata perintah jamak, bukan kasrah atau fathah."
       },
-      "hikmah": "Mengajak umat untuk taat kepada Allah dan Rasul",
-      "role": "none"
+      "hikmah": "Dalam ayat ini, وَأَصْلِحُوا berarti “dan perbaikilah (hubungan) di antara kalian”. Perintah ini menekankan pentingnya memperbaiki persaudaraan dan menghilangkan perselisihan setelah menegakkan takwa, sehingga umat Islam hidup rukun dan bersatu.",
+      "role": "predicate"
     },
     {
       "index": 12,
-      "kata_arab": "ٱللَّهَ",
-      "transliterasi": "Allāh",
-      "jenis_kata": "Isim",
-      "arti": "Allah",
+      "kata_arab": "ذَاتَ",
+      "transliterasi": "dhāt",
+      "jenis_kata": "Isim (Kata Benda)",
+      "arti": "yang memiliki, milik, yang berhubungan",
       "sharaf": {
-        "akar_kata": "ل-ه-ا",
-        "makna_dasar": "Tuhan, Sang Pencipta",
-        "wazan_perubahan": "Mujarrad"
+        "akar_kata": "ذ و ت",
+        "makna_dasar": "memiliki, mempunyai",
+        "wazan_perubahan": "فَاعِل (fa'il) – bentuk isim yang menandakan pemilik atau sesuatu yang memiliki"
       },
       "nahwu": {
-        "kedudukan": "Nama yang berjarak (مجرور) karena huruf **li** (اللام الجرّية) dalam frasa *lillahi wa‑rasūli*",
-        "irab_dan_logika": "Berakhiran **kasrah** (لِاللَّهِ) menandakan keterkaitan kepemilikan; meski tampak **فتحة** pada tulisan, fungsi gramatikalnya tetap **مجرور** karena terhubung dengan **li** sebelumnya"
+        "kedudukan": "objek (maf'ul bih) dari perintah 'أَصْلِحُوا'",
+        "irab_dan_logika": "Berakhiran fatḥah karena berada dalam posisi maf'ul bih (accusative). Sebagai isim yang menjadi objek langsung, ia di‑i'rab dengan harakat fatḥah."
       },
-      "hikmah": "Menegaskan bahwa harta rampasan perang adalah milik Allah semata.",
-      "role": "none"
+      "hikmah": "Dalam ayat ini, 'ذَاتَ بَيْنِكُمْ' berarti 'hal yang ada di antara kalian', yaitu hubungan atau perselisihan di antara sesama Muslim. Penggunaan kata 'ذَات' menekankan kepemilikan atau keberadaan sesuatu yang harus diperbaiki, menambah keindahan bahasa melalui iḍāfah singkat yang padat makna.",
+      "role": "object"
     },
     {
       "index": 13,
-      "kata_arab": "وَرَسُولَهُۥٓ",
-      "transliterasi": "wa‑rasūluhu",
-      "jenis_kata": "Isim (dengan huruf wa)",
-      "arti": "dan rasul-Nya",
+      "kata_arab": "بَيْنِكُمْ",
+      "transliterasi": "baynikum",
+      "jenis_kata": "Harf",
+      "arti": "antara (kamu), di antara kamu",
       "sharaf": {
-        "akar_kata": "ر-س-ل",
-        "makna_dasar": "mengirim, mengutus",
-        "wazan_perubahan": "fa‘ala"
+        "akar_kata": "ب ي ن",
+        "makna_dasar": "antara, di antara",
+        "wazan_perubahan": "فَعْل (bayna) – bentuk preposisi ‘antara’; ditambahkan suffiks pronoun ‑كم"
       },
       "nahwu": {
-        "kedudukan": "Isim mudaf (milik) yang berjarak (مجرور) karena huruf **li** pada *lillahi*",
-        "irab_dan_logika": "Berakhiran **kasrah** (لِالرَّسُولِ) menandakan i‘rāb jarr karena berhubungan dengan **li**; huruf **wa** di depan bersifat huruf عطف tidak memengaruhi i‘rāb"
+        "kedudukan": "Harf jar (preposisi) yang menghubungkan kata ‘ذات’ dengan kata ganti ‘كم’, membentuk frasa ‘ذات بينكم’ (hubungan di antara kalian).",
+        "irab_dan_logika": "Preposisi ‘bayna’ selalu diikuti oleh isim dalam keadaan i‘rāb kasrah. Karena itu huruf ya mendapat kasrah (بَيْنِ). Akhiran ‑كم adalah suffiks pronoun yang melekat pada isim, sehingga tidak menambah harakat tambahan. Jadi bentuk kasrah pada ‘bayni’ menandakan bahwa kata ini berfungsi sebagai objek preposisi."
       },
-      "hikmah": "Menunjukkan kepemilikan Allah atas harta rampasan, yaitu milik Allah dan rasul-Nya.",
+      "hikmah": "‘بَيْنِكُمْ’ menegaskan bahwa perintah ‘أَصْلِحُوا’ (perbaikilah) ditujukan kepada hubungan yang ada di antara sesama muslim. Penggunaan preposisi dengan suffiks pronoun menambah keintiman dan menegaskan bahwa perbaikan itu bersifat kolektif, bukan hanya antara dua pihak saja. Keunikan sastranya terletak pada kepadatan makna dalam satu kata: preposisi + kepemilikan, yang menekankan persaudaraan dan solidaritas umat.",
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
+      "kata_arab": "وَأَطِيعُوا۟",
+      "transliterasi": "wa-aṭīʿū",
+      "jenis_kata": "Fi'il",
+      "arti": "dan taatilah / dan patuhlah (kamu sekalian)",
+      "sharaf": {
+        "akar_kata": "ط ع ا",
+        "makna_dasar": "taat, patuh",
+        "wazan_perubahan": "bentuk فعل (fi‘l) sederhana; tambahan prefiks وَ (wa) sebagai huruf sambung, dan akhiran -وا untuk perintah jamak laki‑laki"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja perintah (imperatif) yang menjadi bagian dari predikat kalimat perintah bersama dengan وَاتَّقُوا وَأَصْلِحُوا",
+        "irab_dan_logika": "Sebagai fi‘l أمر (kata kerja perintah) tidak mendapat i‘rāb kasus. Huruf وَ di depan menandakan sambungan ‘dan’. Akhiran وَا (dengan dammah pada waw) menandakan bentuk jamak laki‑laki perintah, artinya perintah ditujukan kepada sekumpulan orang (kamu sekalian). Karena ini perintah, huruf terakhir tidak berkasrah atau fathah, melainkan dammah untuk menandakan suara panjang ū."
+      },
+      "hikmah": "Dalam ayat ini, وَأَطِيعُوا۟ berarti ‘dan patuhlah (kamu sekalian) kepada Allah dan Rasul‑Nya’. Kata ini menegaskan bahwa keimanan tidak hanya berakhir pada takwa, tetapi juga memerlukan kepatuhan aktif kepada perintah Allah dan sunnah Rasul. Keunikan sastranya terletak pada penggunaan bentuk jamak perintah yang menekankan kebersamaan umat Islam dalam melaksanakan ketaatan.",
+      "role": "predicate"
+    },
+    {
+      "index": 16,
+      "kata_arab": "ٱللَّهَ",
+      "transliterasi": "Allāha",
+      "jenis_kata": "Isim (Kata Benda)",
+      "arti": "Allah (Tuhan Yang Maha Esa)",
+      "sharaf": {
+        "akar_kata": "أ ل ه",
+        "makna_dasar": "dewa, ilah; berhubungan dengan penyembahan",
+        "wazan_perubahan": "Isim mufrad dengan alif lam (ال) sebagai al‑definite; bentuk ini menegaskan keesaan dan kekhususan nama Allah"
+      },
+      "nahwu": {
+        "kedudukan": "Objek (maf‘ūl bih) dari perintah ‘اتقوا’ (bertakwalah) dan ‘أطيعوا’ (taatilah)",
+        "irab_dan_logika": "Berakhiran fatḥah (َ) menandakan kasus nasb (accusative). Karena kata ini menjadi objek langsung dari fi‘il (perintah), ia harus berada dalam keadaan nasb, sehingga huruf terakhirnya diberi fatḥah."
+      },
+      "hikmah": "Dalam ayat ini, ‘ٱللَّهَ’ menunjukkan bahwa Allah adalah tujuan utama dari takwa dan ketaatan. Penggunaan bentuk nasb menegaskan bahwa Allah adalah objek yang harus dijaga ketakwaannya dan ditaati perintahnya, menambah kejelasan bahwa harta rampasan perang milik Allah dan Rasul, serta menekankan hubungan pribadi antara hamba dan Pencipta.",
+      "role": "object"
+    },
+    {
+      "index": 17,
+      "kata_arab": "وَرَسُولَهُۥٓ",
+      "transliterasi": "wa-rasūlihi",
+      "jenis_kata": "Harf",
+      "arti": "dan rasul-Nya",
+      "sharaf": {
+        "akar_kata": "ر س ل",
+        "makna_dasar": "mengirim, mengutus",
+        "wazan_perubahan": "فَعَلَ → فَاعِل (rasūl) = orang yang diutus"
+      },
+      "nahwu": {
+        "kedudukan": "objek (maf'ul bih) dari perintah 'أَطِيعُوا' (taatlah)",
+        "irab_dan_logika": "Kata ini berakhiran damma (هُ) karena berada dalam keadaan nasb (accusative) sebagai objek perintah. Huruf 'wa' di depan merupakan harf al‑waṣl (kata sambung) yang menghubungkan dua objek, sedangkan 'hu' menandakan kepemilikan (rasul‑nya)."
+      },
+      "hikmah": "Dalam ayat ini, 'وَرَسُولَهُ' menegaskan bahwa ketaatan harus diberikan tidak hanya kepada Allah tetapi juga kepada Rasul‑Nya, menunjukkan kesatuan perintah ilahi. Penggunaan wa‑ + damma pada rasūl menekankan hubungan erat antara Allah dan utusan‑Nya serta menambah keindahan ritmis dalam bacaan.",
+      "role": "object"
+    },
+    {
+      "index": 18,
       "kata_arab": "إِن",
       "transliterasi": "in",
-      "jenis_kata": "Huruf",
+      "jenis_kata": "Harf",
       "arti": "jika",
       "sharaf": {
         "akar_kata": "",
@@ -266,47 +284,47 @@
         "wazan_perubahan": ""
       },
       "nahwu": {
-        "kedudukan": "حرف مشبه بالفعل (kata sambung) yang memperkenalkan syarat",
-        "irab_dan_logika": "Tidak mempunyai i‘rāb karena merupakan حرف مشبه ولا محل له من الإعراب"
+        "kedudukan": "kata penghubung (harf syarat) yang memperkenalkan klausa syarat \"kuntum mu'minin\"",
+        "irab_dan_logika": "إِن termasuk dalam huruf مشروط (harf syarat). Karena merupakan huruf, ia tidak mendapat i'rab; bentuknya tetap dengan kasrah pada alif (إِن) tanpa perubahan akhir. Fungsinya hanya menandakan kondisi \"jika\" dan menghubungkan dua bagian kalimat."
       },
-      "hikmah": "Menandakan adanya kondisi yang harus dipenuhi sebelum perintah selanjutnya berlaku.",
+      "hikmah": "Dalam ayat ini إِن menegaskan bahwa perintah taat kepada Allah dan Rasul berlaku bila orang-orang itu benar‑benar beriman. Penggunaan إِن menambah nuansa logika syarat‑akibat, menekankan bahwa keimanan adalah prasyarat utama.",
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 19,
       "kata_arab": "كُنتُم",
-      "transliterasi": "kun tum",
+      "transliterasi": "kuntum",
       "jenis_kata": "Fi'il",
-      "arti": "kamu adalah",
+      "arti": "kamu (semua) adalah / jika kamu (adalah)",
       "sharaf": {
-        "akar_kata": "ك-و-ن",
-        "makna_dasar": "ada, menjadi",
-        "wazan_perubahan": "fa‘ala"
+        "akar_kata": "ك و ن",
+        "makna_dasar": "menjadi, ada, eksistensi",
+        "wazan_perubahan": "bentuk فعل (fa‘ala) – fi‘l madhi (past tense) dengan akhiran mudhaf ilaih (kamu) jamak maskulin"
       },
       "nahwu": {
-        "kedudukan": "فعل ماضٍ مبني على الفتح",
-        "irab_dan_logika": "الضمير المتصل **كم** في محل رفع فاعل، لذا يقرأ **كُنتُم** مرفوعًا بالضمة"
+        "kedudukan": "kata kerja dalam ayat bersyarat \"إن كنتم مؤمنين\"; berfungsi sebagai predikat (khabar) pada klausa syarat",
+        "irab_dan_logika": "Huruf pertama ك mendapat dammah (كُ) karena fi‘l madhi selalu berharakat dammah pada huruf pertama. Huruf ن ber-sukun karena merupakan bagian dari akar tanpa harakat. Huruf ت mendapat dammah (تُ) sebagai tanda akhiran mudhaf ilaih untuk orang kedua jamak maskulin, dan huruf م ber-sukun karena merupakan huruf akhir dari akhiran tersebut. Jadi bentuk \"كُنتُم\" menandakan \"kamu (semua) adalah/berada\" dalam konteks syarat."
       },
-      "hikmah": "Menyatakan keadaan keimanan pendengar sebagai syarat sahnya perintah selanjutnya.",
-      "role": "none"
+      "hikmah": "Dalam ayat ini, \"كُنتُم\" menegaskan syarat keimanan: \"jika kamu (semua) beriman\". Secara tata bahasa, kata ini adalah fi‘l madhi yang berfungsi sebagai predikat dalam klausa bersyarat, menambah kejelasan bahwa ketaatan dan perbaikan hubungan hanya diwajibkan bagi orang yang beriman. Keunikan sastranya terletak pada penggunaan kata kerja \"kuna\" (menjadi) dalam bentuk jamak, yang menekankan kebersamaan umat dalam status keimanan.",
+      "role": "predicate"
     },
     {
-      "index": 16,
+      "index": 20,
       "kata_arab": "مُّؤْمِنِينَ",
-      "transliterasi": "muʾminīna",
-      "jenis_kata": "Isim",
-      "arti": "orang‑orang beriman",
+      "transliterasi": "mu'minīna",
+      "jenis_kata": "Isim (Kata Benda)",
+      "arti": "orang-orang yang beriman",
       "sharaf": {
-        "akar_kata": "أ-م-ن",
-        "makna_dasar": "aman, percaya",
-        "wazan_perubahan": "muf‘al"
+        "akar_kata": "أ م ن",
+        "makna_dasar": "aman, percaya, yakin",
+        "wazan_perubahan": "فَعِيل (fa‘īl) – bentuk isim fa‘il (aktif) yang menandakan pelaku tindakan; di sini berarti “yang beriman”."
       },
       "nahwu": {
-        "kedudukan": "اسم جمع مذكر سالم منصوب (منصوب) بعد فعل **kun**",
-        "irab_dan_logika": "المنصوب بالفتحة لأنه تابع للفعل الماضي **كُنتُم**"
+        "kedudukan": "Khabar (predikat) dari kata kerja 'kuntum' (إن كنتُم ...).",
+        "irab_dan_logika": "Setelah فعل ناسخ (إن) dan فعل 'kuntum' (كان), khabar harus berada dalam keadaan mansub (kasrah). Karena itu akhir kata berkasrah (ـين) menandakan i‘rāb mansub jam‘ marfū‘ (jamak)."
       },
-      "hikmah": "Menegaskan bahwa syarat keimanan adalah menjadi orang‑orang yang beriman.",
-      "role": "none"
+      "hikmah": "Dalam ayat ini, مُّؤْمِنِينَ menegaskan syarat keimanan bagi orang yang akan menuruti perintah Allah dan Rasul. Penggunaan bentuk jamak mansub menekankan bahwa perintah itu berlaku bagi seluruh umat beriman, bukan hanya sebagian.",
+      "role": "predicate"
     }
   ]
 }
