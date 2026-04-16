@@ -1789,7 +1789,7 @@ async function callGroqAPI(apiKey, prompt) {
     const endpoint = `https://api.groq.com/openai/v1/chat/completions`;
 
     const requestBody = {
-        model: "openai/gpt-oss-120b",
+        model: "llama-3.3-70b-versatile",
         messages: [{
             role: "user",
             content: prompt
@@ -1850,7 +1850,7 @@ async function callGroqAPIText(apiKey, prompt) {
     const endpoint = `https://api.groq.com/openai/v1/chat/completions`;
 
     const requestBody = {
-        model: "openai/gpt-oss-120b",
+        model: "llama-3.3-70b-versatile",
         messages: [{
             role: "user",
             content: prompt
@@ -2335,7 +2335,7 @@ async function sendChatMessage() {
             const endpoint = `https://api.groq.com/openai/v1/chat/completions`;
 
             const requestBody = {
-                model: "openai/gpt-oss-120b",
+                model: "llama-3.3-70b-versatile",
                 messages: groqHistory,
                 temperature: 0.3
             };
@@ -3068,7 +3068,7 @@ async function sendGlobalChatMessage() {
 
         const endpoint = `https://api.groq.com/openai/v1/chat/completions`;
         const requestBody = {
-            model: "openai/gpt-oss-120b",
+            model: "llama-3.3-70b-versatile",
             messages: globalChatSessionHistory,
             temperature: 0.3
         };
@@ -3568,7 +3568,10 @@ async function startQuiz() {
         }
     }
 
-    if (!apiKeys || apiKeys.length === 0) {
+    const hasGeminiKey = apiKeys && apiKeys.length > 0;
+    const hasGroqKey = typeof groqApiKeys !== 'undefined' && groqApiKeys && groqApiKeys.length > 0;
+
+    if (!hasGeminiKey && !hasGroqKey) {
         alert("API Key belum disetting. Silakan setting API Key di menu Setting terlebih dahulu.");
         return;
     }
@@ -3661,27 +3664,36 @@ Instruksi Penting:
     let success = false;
 
     // Try Gemini API keys
-    for (let i = 0; i < apiKeys.length; i++) {
-        try {
-            const responseText = await callGeminiAPIText(apiKeys[i], prompt);
-            resultJson = extractJsonFromResponse(responseText);
-            if (resultJson) {
-                success = true;
-                break;
+    if (apiKeys && apiKeys.length > 0) {
+        for (let i = 0; i < apiKeys.length; i++) {
+            try {
+                const responseText = await callGeminiAPIText(apiKeys[i], prompt);
+                resultJson = extractJsonFromResponse(responseText);
+                if (resultJson) {
+                    success = true;
+                    break;
+                }
+            } catch (e) {
+                lastError = e;
             }
-        } catch (e) {
-            lastError = e;
         }
     }
 
     // Fallback to Groq API keys if Gemini fails
     if (!success && typeof groqApiKeys !== 'undefined' && groqApiKeys && groqApiKeys.length > 0) {
-        console.warn("Gemini failed for quiz question, trying Groq fallback", lastError);
-        try {
-            const responseText = await callGroqAPIText(groqApiKeys[0], prompt);
-            resultJson = extractJsonFromResponse(responseText);
-        } catch (e) {
-            console.error("Groq also failed:", e);
+        console.warn("Gemini failed for quiz question or keys absent, trying Groq fallback", lastError);
+        for (let i = 0; i < groqApiKeys.length; i++) {
+            try {
+                const responseText = await callGroqAPIText(groqApiKeys[i], prompt);
+                resultJson = extractJsonFromResponse(responseText);
+                if (resultJson) {
+                    success = true;
+                    break;
+                }
+            } catch (e) {
+                console.error("Groq attempt failed:", e);
+                lastError = e;
+            }
         }
     }
 
