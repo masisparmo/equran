@@ -1707,7 +1707,7 @@ select {
     transition: all 0.2s ease;
 }
 
-.quiz-option-btn:hover {
+.quiz-option-btn:hover:not(:disabled) {
     background: var(--bg-hover);
     border-color: var(--primary-color);
 }
@@ -1738,6 +1738,7 @@ select {
 
 .quiz-option-btn:disabled {
     cursor: not-allowed;
+    opacity: 1;
 }
 
 .quiz-explanation-box {
