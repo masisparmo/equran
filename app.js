@@ -3582,7 +3582,7 @@ async function startQuiz() {
         score: 0,
         totalQuestions: total,
         level: levelInput,
-        userName: nameInput || 'Hamba Allah',
+        userName: nameInput !== '' ? nameInput : 'Hamba Allah',
         startTime: Date.now()
     };
 
@@ -3640,9 +3640,9 @@ Tingkat Kesulitan: ${level}
 - Mahir: Fokus pada I'rab detail (alasan pemakaian harakat tertentu, kedudukan kalimat), Balaghah, atau analisis Sharaf mendalam (I'lal, dll).
 
 Instruksi Penting:
-1. Soal dan pilihan jawaban (A, B, C, D) harus dalam kombinasi Bahasa Indonesia dan istilah Bahasa Arab yang relevan.
+1. Soal dan pilihan jawaban (A, B, C, D) harus dalam kombinasi Bahasa Indonesia dan istilah Bahasa Arab yang relevan. DILARANG KERAS membuat soal atau pilihan jawaban yang hanya berisi bahasa Arab saja tanpa terjemahan/penjelasan Bahasa Indonesia.
 2. Jelaskan jawaban yang benar secara detail layaknya seorang ahli mengajari muridnya.
-3. KEMBALIKAN OUTPUT STRICTLY DALAM FORMAT JSON SEPERTI DI BAWAH INI TANPA MARKDOWN ATAU TEKS TAMBAHAN APAPUN:
+3. KEMBALIKAN OUTPUT STRICTLY DALAM FORMAT JSON SEPERTI DI BAWAH INI TANPA MARKDOWN (DILARANG KERAS menggunakan \`**\`, \`*\`, \`_\`, atau format markdown lainnya di dalam teks pertanyaan maupun pilihan jawaban) ATAU TEKS TAMBAHAN APAPUN:
 {
   "ayahContext": "${ayahData.text}",
   "ayahTranslation": "${ayahData.translation}",
@@ -3834,15 +3834,20 @@ async function finishQuiz() {
     document.getElementById('quiz-summary-view').style.display = 'block';
 
     document.getElementById('quiz-summary-level').textContent = quizCurrentState.level;
-    document.getElementById('quiz-final-score').textContent = quizCurrentState.score;
-    document.getElementById('quiz-final-total').textContent = quizCurrentState.totalQuestions;
 
-    const percentage = (quizCurrentState.score / quizCurrentState.totalQuestions) * 100;
+    // Calculate score 0-100
+    const finalScore = Math.round((quizCurrentState.score / quizCurrentState.totalQuestions) * 100);
+    document.getElementById('quiz-final-score').textContent = finalScore;
+    document.getElementById('quiz-final-total').textContent = "100";
+
     let msg = "";
-    if (percentage === 100) msg = "Sempurna! Anda adalah Ahli Nahwu Shorof sejati!";
-    else if (percentage >= 80) msg = "Luar Biasa! Pemahaman tata bahasa Anda sangat baik.";
-    else if (percentage >= 60) msg = "Bagus! Terus tingkatkan kemampuan bahasa Arab Anda.";
-    else msg = "Jangan menyerah! Mari belajar Nahwu & Shorof lebih giat lagi.";
+    if (finalScore >= 0 && finalScore <= 60) {
+        msg = "Belajar lebih banyak!";
+    } else if (finalScore >= 61 && finalScore <= 80) {
+        msg = "Alhamdulillah keren!";
+    } else if (finalScore >= 81 && finalScore <= 100) {
+        msg = "Masya Allah, mumtaz!!";
+    }
 
     document.getElementById('quiz-final-message').textContent = msg;
 
@@ -3851,8 +3856,8 @@ async function finishQuiz() {
         date: Date.now(),
         name: quizCurrentState.userName,
         level: quizCurrentState.level,
-        score: quizCurrentState.score,
-        totalQuestions: quizCurrentState.totalQuestions
+        score: finalScore,
+        totalQuestions: 100
     };
 
     let historyData = await localforage.getItem('quiz_history') || [];
