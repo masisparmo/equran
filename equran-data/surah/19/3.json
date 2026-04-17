@@ -1,0 +1,96 @@
+{
+  "surah": 19,
+  "ayah": 3,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "إِذْ",
+      "transliterasi": "idz",
+      "jenis_kata": "Huruf",
+      "arti": "kata bantu untuk menyatakan waktu",
+      "sharaf": {
+        "akar_kata": "tidak ada",
+        "makna_dasar": "tidak ada",
+        "wazan_perubahan": "tidak ada"
+      },
+      "nahwu": {
+        "kedudukan": "kata bantu",
+        "irab_dan_logika": "digunakan untuk memulai kalimat yang menyatakan waktu"
+      },
+      "hikmah": "menyatakan waktu terjadinya suatu peristiwa",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "نَادَىٰ",
+      "transliterasi": "naadaa",
+      "jenis_kata": "Fi'il",
+      "arti": "memanggil atau berdoa",
+      "sharaf": {
+        "akar_kata": "ن د ي",
+        "makna_dasar": "memanggil atau menyeru",
+        "wazan_perubahan": "fi'il madhi"
+      },
+      "nahwu": {
+        "kedudukan": "predikat",
+        "irab_dan_logika": "berfungsi sebagai predikat yang menyatakan tindakan"
+      },
+      "hikmah": "berdoa atau memanggil dengan suara yang lembut",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "رَبَّهُۥ",
+      "transliterasi": "rabba-hu",
+      "jenis_kata": "Isim",
+      "arti": "tuhannya",
+      "sharaf": {
+        "akar_kata": "ر ب ب",
+        "makna_dasar": "tuan atau pemilik",
+        "wazan_perubahan": "isim maf'ul"
+      },
+      "nahwu": {
+        "kedudukan": "objek",
+        "irab_dan_logika": "berfungsi sebagai objek dari predikat naadaa"
+      },
+      "hikmah": "tuhannya, yaitu Allah SWT",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "نِدَآءً",
+      "transliterasi": "nida'an",
+      "jenis_kata": "Isim",
+      "arti": "panggilan atau seruan",
+      "sharaf": {
+        "akar_kata": "ن د ي",
+        "makna_dasar": "memanggil atau menyeru",
+        "wazan_perubahan": "isim masdar"
+      },
+      "nahwu": {
+        "kedudukan": "objek",
+        "irab_dan_logika": "berfungsi sebagai objek dari predikat naadaa"
+      },
+      "hikmah": "panggilan atau seruan yang dilakukan dengan suara yang lembut",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "خَفِيًّۭا",
+      "transliterasi": "khafiyyan",
+      "jenis_kata": "Isim",
+      "arti": "yang tersembunyi atau lembut",
+      "sharaf": {
+        "akar_kata": "خ ف ي",
+        "makna_dasar": "tersembunyi atau lembut",
+        "wazan_perubahan": "isim sifat"
+      },
+      "nahwu": {
+        "kedudukan": "sifat",
+        "irab_dan_logika": "berfungsi sebagai sifat dari nida'an"
+      },
+      "hikmah": "menyatakan bahwa panggilan atau seruan itu dilakukan dengan suara yang lembut dan tersembunyi",
+      "role": "none"
+    }
+  ]
+}

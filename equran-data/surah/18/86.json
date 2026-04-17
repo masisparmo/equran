@@ -1,0 +1,438 @@
+{
+  "surah": 18,
+  "ayah": 86,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "حَتَّىٰٓ",
+      "transliterasi": "hatta",
+      "jenis_kata": "Huruf",
+      "arti": "hingga",
+      "sharaf": {
+        "akar_kata": "h-t-y",
+        "makna_dasar": "batas",
+        "wazan_perubahan": "tidak berubah"
+      },
+      "nahwu": {
+        "kedudukan": "awal kalimat",
+        "irab_dan_logika": "huruf yang menunjukkan batas"
+      },
+      "hikmah": "menunjukkan batas atau akhir dari suatu proses",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "إِذَا",
+      "transliterasi": "idza",
+      "jenis_kata": "Huruf",
+      "arti": "apabila",
+      "sharaf": {
+        "akar_kata": "idza",
+        "makna_dasar": "keadaan",
+        "wazan_perubahan": "tidak berubah"
+      },
+      "nahwu": {
+        "kedudukan": "setelah huruf hingga",
+        "irab_dan_logika": "menunjukkan keadaan atau waktu"
+      },
+      "hikmah": "menunjukkan keadaan atau waktu tertentu",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "بَلَغَ",
+      "transliterasi": "balagha",
+      "jenis_kata": "Fi'il",
+      "arti": "sampai",
+      "sharaf": {
+        "akar_kata": "b-l-gh",
+        "makna_dasar": "mencapai",
+        "wazan_perubahan": "fi'il madhi"
+      },
+      "nahwu": {
+        "kedudukan": "setelah idza",
+        "irab_dan_logika": "menunjukkan tindakan yang telah selesai"
+      },
+      "hikmah": "menunjukkan tindakan mencapai atau sampai",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "مَغْرِبَ",
+      "transliterasi": "maghrib",
+      "jenis_kata": "Isim",
+      "arti": "tempat terbenam",
+      "sharaf": {
+        "akar_kata": "gh-r-b",
+        "makna_dasar": "terbenam",
+        "wazan_perubahan": "masdar"
+      },
+      "nahwu": {
+        "kedudukan": "objek dari fi'il balagha",
+        "irab_dan_logika": "menggunakan harakat fathah karena majrur"
+      },
+      "hikmah": "menunjukkan tempat terbenam matahari",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "ٱلشَّمْسِ",
+      "transliterasi": "asy-syamsi",
+      "jenis_kata": "Isim",
+      "arti": "matahari",
+      "sharaf": {
+        "akar_kata": "sy-m-s",
+        "makna_dasar": "matahari",
+        "wazan_perubahan": "isim yang memiliki alif dan lam"
+      },
+      "nahwu": {
+        "kedudukan": "objek dari maghrib",
+        "irab_dan_logika": "menggunakan harakat kasrah karena majrur"
+      },
+      "hikmah": "menunjukkan matahari sebagai sumber cahaya",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "وَجَدَهَا",
+      "transliterasi": "wajadaha",
+      "jenis_kata": "Fi'il",
+      "arti": "dia mendapati",
+      "sharaf": {
+        "akar_kata": "w-j-d",
+        "makna_dasar": "mendapati",
+        "wazan_perubahan": "fi'il madhi"
+      },
+      "nahwu": {
+        "kedudukan": "setelah objek",
+        "irab_dan_logika": "menunjukkan tindakan yang telah selesai"
+      },
+      "hikmah": "menunjukkan tindakan mendapati atau menemukan",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "تَغْرُبُ",
+      "transliterasi": "taghrubu",
+      "jenis_kata": "Fi'il",
+      "arti": "matahari terbenam",
+      "sharaf": {
+        "akar_kata": "gh-r-b",
+        "makna_dasar": "terbenam",
+        "wazan_perubahan": "tafaal"
+      },
+      "nahwu": {
+        "kedudukan": "predikat",
+        "irab_dan_logika": "fi'il madhi karena menggambarkan kejadian yang telah terjadi"
+      },
+      "hikmah": "matahari terbenam di tempat yang tidak biasa",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "فِى",
+      "transliterasi": "fi",
+      "jenis_kata": "Huruf",
+      "arti": "di dalam",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "tempat",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "preposisi",
+        "irab_dan_logika": "mengindikasikan tempat kejadian"
+      },
+      "hikmah": "menunjukkan lokasi kejadian matahari terbenam",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "عَيْنٍ",
+      "transliterasi": "aynin",
+      "jenis_kata": "Isim",
+      "arti": "mata air",
+      "sharaf": {
+        "akar_kata": "ayn",
+        "makna_dasar": "sumber air",
+        "wazan_perubahan": "tanwin nasab"
+      },
+      "nahwu": {
+        "kedudukan": "objek preposisi",
+        "irab_dan_logika": "menggambarkan tempat matahari terbenam"
+      },
+      "hikmah": "mata air atau sumber air yang tidak biasa",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "حَمِئَةٍۢ",
+      "transliterasi": "hamiatin",
+      "jenis_kata": "Isim",
+      "arti": "lumpur hitam",
+      "sharaf": {
+        "akar_kata": "hami",
+        "makna_dasar": "lumpur",
+        "wazan_perubahan": "tanwin nasab"
+      },
+      "nahwu": {
+        "kedudukan": "sifat",
+        "irab_dan_logika": "menggambarkan sifat mata air"
+      },
+      "hikmah": "menunjukkan kondisi mata air yang tidak biasa",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "وَوَجَدَ",
+      "transliterasi": "wawajada",
+      "jenis_kata": "Fi'il",
+      "arti": "menemukan",
+      "sharaf": {
+        "akar_kata": "w-j-d",
+        "makna_dasar": "menemukan",
+        "wazan_perubahan": "faala"
+      },
+      "nahwu": {
+        "kedudukan": "predikat",
+        "irab_dan_logika": "menggambarkan tindakan Dzulkarnain"
+      },
+      "hikmah": "menemukan sesuatu yang tidak terduga",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "عِندَهَا",
+      "transliterasi": "indaha",
+      "jenis_kata": "Huruf",
+      "arti": "di dekatnya",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "tempat",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "preposisi",
+        "irab_dan_logika": "mengindikasikan tempat kejadian"
+      },
+      "hikmah": "menunjukkan lokasi kejadian menemukan",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "قَوْمًۭا",
+      "transliterasi": "qawman",
+      "jenis_kata": "Isim",
+      "arti": "sekelompok orang",
+      "sharaf": {
+        "akar_kata": "q-w-m",
+        "makna_dasar": "berdiri",
+        "wazan_perubahan": "qawman"
+      },
+      "nahwu": {
+        "kedudukan": "maf'ul bih",
+        "irab_dan_logika": "harakat fathah karena maf'ul bih"
+      },
+      "hikmah": "sekelompok orang yang ditemui oleh Dzulkarnain",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "قُلْنَا",
+      "transliterasi": "qulna",
+      "jenis_kata": "Fi'il",
+      "arti": "kami berkata",
+      "sharaf": {
+        "akar_kata": "q-w-l",
+        "makna_dasar": "mengatakan",
+        "wazan_perubahan": "qulna"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il mudhari",
+        "irab_dan_logika": "harakat sukun karena fi'il mudhari"
+      },
+      "hikmah": "perintah atau ucapan yang ditujukan kepada Dzulkarnain",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "يَٰذَا",
+      "transliterasi": "ya dza",
+      "jenis_kata": "Huruf",
+      "arti": "wahai",
+      "sharaf": {
+        "akar_kata": "dha",
+        "makna_dasar": "panggilan",
+        "wazan_perubahan": "ya dza"
+      },
+      "nahwu": {
+        "kedudukan": "huruf nida",
+        "irab_dan_logika": "harakat kasrah karena huruf nida"
+      },
+      "hikmah": "panggilan atau sapaan kepada Dzulkarnain",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "ٱلْقَرْنَيْنِ",
+      "transliterasi": "alqarnayni",
+      "jenis_kata": "Isim",
+      "arti": "yang memiliki dua tanduk",
+      "sharaf": {
+        "akar_kata": "q-r-n",
+        "makna_dasar": "tanduk",
+        "wazan_perubahan": "alqarnayni"
+      },
+      "nahwu": {
+        "kedudukan": "maf'ul bih",
+        "irab_dan_logika": "harakat kasrah karena maf'ul bih"
+      },
+      "hikmah": "nama atau julukan Dzulkarnain",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "إِمَّآ",
+      "transliterasi": "imma",
+      "jenis_kata": "Huruf",
+      "arti": "atau",
+      "sharaf": {
+        "akar_kata": "am",
+        "makna_dasar": "pilihan",
+        "wazan_perubahan": "imma"
+      },
+      "nahwu": {
+        "kedudukan": "huruf istifham",
+        "irab_dan_logika": "harakat fathah karena huruf istifham"
+      },
+      "hikmah": "pilihan atau alternatif yang diberikan kepada Dzulkarnain",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "أَن",
+      "transliterasi": "an",
+      "jenis_kata": "Huruf",
+      "arti": "bahwa",
+      "sharaf": {
+        "akar_kata": "an",
+        "makna_dasar": "penghubung",
+        "wazan_perubahan": "an"
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar",
+        "irab_dan_logika": "harakat fathah karena huruf jar"
+      },
+      "hikmah": "penghubung antara kalimat sebelumnya dan kalimat setelahnya",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "تُعَذِّبَ",
+      "transliterasi": "tuadzdzab",
+      "jenis_kata": "Fi'il",
+      "arti": "kamu menyiksa",
+      "sharaf": {
+        "akar_kata": "adzab",
+        "makna_dasar": "siksaan",
+        "wazan_perubahan": "tafaal"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il mudhari",
+        "irab_dan_logika": "mudhaf ilaih"
+      },
+      "hikmah": "kamu memiliki pilihan untuk menyiksa mereka",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "وَإِمَّآ",
+      "transliterasi": "wa imma",
+      "jenis_kata": "Huruf",
+      "arti": "dan atau",
+      "sharaf": {
+        "akar_kata": "imma",
+        "makna_dasar": "pilihan",
+        "wazan_perubahan": "huruf jawab"
+      },
+      "nahwu": {
+        "kedudukan": "huruf jawab",
+        "irab_dan_logika": "menghubungkan pilihan"
+      },
+      "hikmah": "atau pilihan lainnya",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "أَن",
+      "transliterasi": "an",
+      "jenis_kata": "Huruf",
+      "arti": "bahwa",
+      "sharaf": {
+        "akar_kata": "an",
+        "makna_dasar": "penghubung",
+        "wazan_perubahan": "huruf jawab"
+      },
+      "nahwu": {
+        "kedudukan": "huruf jawab",
+        "irab_dan_logika": "menghubungkan kalimat"
+      },
+      "hikmah": "bahwa kamu memiliki pilihan",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "تَتَّخِذَ",
+      "transliterasi": "tattakhidza",
+      "jenis_kata": "Fi'il",
+      "arti": "kamu mengambil",
+      "sharaf": {
+        "akar_kata": "akhadza",
+        "makna_dasar": "mengambil",
+        "wazan_perubahan": "tafaal"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il mudhari",
+        "irab_dan_logika": "mudhaf ilaih"
+      },
+      "hikmah": "kamu memiliki pilihan untuk berbuat baik",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "فِيهِمْ",
+      "transliterasi": "fihim",
+      "jenis_kata": "Isim",
+      "arti": "di antara mereka",
+      "sharaf": {
+        "akar_kata": "fi",
+        "makna_dasar": "di dalam",
+        "wazan_perubahan": "huruf jar"
+      },
+      "nahwu": {
+        "kedudukan": "maf-ul bih",
+        "irab_dan_logika": "objek dari fi'il"
+      },
+      "hikmah": "di antara mereka yang kamu hadapi",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "حُسْنًۭا",
+      "transliterasi": "husnan",
+      "jenis_kata": "Isim",
+      "arti": "kebaikan",
+      "sharaf": {
+        "akar_kata": "husna",
+        "makna_dasar": "kebaikan",
+        "wazan_perubahan": "masdar"
+      },
+      "nahwu": {
+        "kedudukan": "maf-ul bih",
+        "irab_dan_logika": "objek dari fi'il"
+      },
+      "hikmah": "kebaikan yang kamu berikan kepada mereka",
+      "role": "none"
+    }
+  ]
+}

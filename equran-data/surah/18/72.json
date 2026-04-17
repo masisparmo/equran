@@ -1,0 +1,150 @@
+{
+  "surah": 18,
+  "ayah": 72,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "قَالَ",
+      "transliterasi": "Qāla",
+      "jenis_kata": "Fi'il",
+      "arti": "Dia berkata",
+      "sharaf": {
+        "akar_kata": "ق و ل (Q-W-L)",
+        "makna_dasar": "Berbicara, mengatakan",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau), wazan فَعَلَ (fa'ala)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Madhi, fa'ilnya adalah dhamir mustatir (هو) yang kembali kepada Khidhr.",
+        "irab_dan_logika": "Mabni 'ala al-fath (tetap fathah) karena merupakan fi'il madhi yang tidak bersambung dengan dhamir rafa' mutaharrik atau wawu jama'ah."
+      },
+      "hikmah": "Kata ini menandai dimulainya respons atau pernyataan dari Nabi Khidhr, menegaskan kembali peringatan yang telah diberikannya kepada Nabi Musa.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "أَلَمْ",
+      "transliterasi": "Alam",
+      "jenis_kata": "Huruf",
+      "arti": "Bukankah tidak / Tidakkah",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "Pertanyaan negatif (istifham inkari) dan penafian masa lampau.",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Gabungan dari Hamzah (أ) sebagai huruf istifham (pertanyaan) dan Lam (لَمْ) sebagai huruf jazm (penjasm) dan nafi (penafian).",
+        "irab_dan_logika": "Hamzah mabni 'ala al-fath dan Lam mabni 'ala as-sukun. Keduanya tidak memiliki kedudukan i'rab."
+      },
+      "hikmah": "Menguatkan pertanyaan retoris yang mengandung penegasan, mengingatkan Musa akan perkataan Khidhr sebelumnya dan menekankan bahwa Musa telah diingatkan.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "أَقُلْ",
+      "transliterasi": "Aqul",
+      "jenis_kata": "Fi'il",
+      "arti": "Aku berkata",
+      "sharaf": {
+        "akar_kata": "ق و ل (Q-W-L)",
+        "makna_dasar": "Berbicara, mengatakan",
+        "wazan_perubahan": "Fi'il Mudhari' Majzum (kata kerja sekarang/akan datang yang dijazmkan), wazan أَفْعُلُ (af'ulu) asalnya, kemudian dijazmkan menjadi أَفْعُلْ (af'ul)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Majzum oleh 'Lam' (لَمْ). Fa'ilnya adalah dhamir mustatir (أنا) yang kembali kepada Khidhr.",
+        "irab_dan_logika": "Majzum bi as-sukun (dijazmkan dengan sukun) karena didahului oleh 'Lam' (لَمْ) yang merupakan huruf jazm. Huruf wawu (و) dihilangkan karena pertemuan dua sukun (wawu mad dan lam sukun)."
+      },
+      "hikmah": "Menegaskan kembali perkataan yang telah diucapkan oleh Khidhr sebelumnya, menunjukkan konsistensi dan peringatan yang berulang, serta memberikan penekanan pada subjek 'aku'.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "إِنَّكَ",
+      "transliterasi": "Innaka",
+      "jenis_kata": "Huruf dan Isim",
+      "arti": "Sesungguhnya kamu",
+      "sharaf": {
+        "akar_kata": "N/A (untuk إِنَّ), ك (untuk dhamir)",
+        "makna_dasar": "Penekanan (untuk إِنَّ), kamu (untuk ك)",
+        "wazan_perubahan": "إِنَّ adalah huruf taukid (penegas), كَ adalah dhamir muttasil (kata ganti sambung)."
+      },
+      "nahwu": {
+        "kedudukan": "إِنَّ adalah huruf taukid dan nasb. كَ adalah isim إِنَّ, manshub.",
+        "irab_dan_logika": "إِنَّ adalah huruf mabni 'ala al-fath, tidak memiliki kedudukan i'rab. كَ adalah dhamir muttasil mabni 'ala al-fath fi mahalli nasb (pada posisi nasb) sebagai isim إِنَّ."
+      },
+      "hikmah": "Memberikan penekanan kuat pada subjek (Nabi Musa) dan pernyataan yang akan datang, menunjukkan kepastian dari apa yang akan dikatakan oleh Khidhr.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "لَن",
+      "transliterasi": "Lan",
+      "jenis_kata": "Huruf",
+      "arti": "Sekali-kali tidak akan",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "Penafian masa depan yang tegas dan penguatan.",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf nasb (penashab) dan nafi (penafian) untuk fi'il mudhari'.",
+        "irab_dan_logika": "Mabni 'ala as-sukun (tetap sukun), tidak memiliki kedudukan i'rab."
+      },
+      "hikmah": "Menunjukkan penolakan atau penafian yang mutlak dan tegas terhadap kemungkinan Nabi Musa untuk bersabar di masa depan, menegaskan ketidakmampuan Musa.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "تَسْتَطِيعَ",
+      "transliterasi": "Tastatī'a",
+      "jenis_kata": "Fi'il",
+      "arti": "Kamu akan sanggup/mampu",
+      "sharaf": {
+        "akar_kata": "ط و ع (T-W-'A)",
+        "makna_dasar": "Mampu, sanggup, taat",
+        "wazan_perubahan": "Fi'il Mudhari' Manshub (kata kerja sekarang/akan datang yang dinashabkan), wazan تَسْتَفْعِلُ (tastaf'ilu) asalnya, kemudian dinashabkan menjadi تَسْتَفْعِلَ (tastaf'ila)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Manshub oleh 'Lan' (لَن). Fa'ilnya adalah dhamir mustatir (أنتَ) yang kembali kepada Nabi Musa.",
+        "irab_dan_logika": "Manshub bi al-fathah (dinashabkan dengan fathah) karena didahului oleh 'Lan' (لَن) yang merupakan huruf nasb."
+      },
+      "hikmah": "Menggambarkan ketidakmampuan Nabi Musa untuk memenuhi syarat kesabaran yang diminta oleh Khidhr, menekankan keterbatasan manusia dalam memahami hikmah ilahi tanpa pengetahuan yang lengkap.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "مَعِىَ",
+      "transliterasi": "ma'iya",
+      "jenis_kata": "Huruf",
+      "arti": "dengan aku",
+      "sharaf": {
+        "akar_kata": "ma'a",
+        "makna_dasar": "bersama",
+        "wazan_perubahan": "dengan tambahan iya untuk menunjukkan kepemilikan"
+      },
+      "nahwu": {
+        "kedudukan": "objek",
+        "irab_dan_logika": "berharakat kasrah karena berfungsi sebagai objek"
+      },
+      "hikmah": "menunjukkan bahwa Khidhr sedang berbicara tentang dirinya sendiri dan mengajak orang lain untuk bersamanya",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "صَبْرًۭا",
+      "transliterasi": "sabran",
+      "jenis_kata": "Isim",
+      "arti": "kesabaran",
+      "sharaf": {
+        "akar_kata": "sabara",
+        "makna_dasar": "menahan diri",
+        "wazan_perubahan": "dengan tambahan tanwin nasab untuk menunjukkan kesabaran sebagai objek"
+      },
+      "nahwu": {
+        "kedudukan": "objek",
+        "irab_dan_logika": "berharakat fatkhah karena berfungsi sebagai objek dan memiliki tanwin nasab"
+      },
+      "hikmah": "menunjukkan bahwa Khidhr sedang membicarakan tentang kesabaran sebagai sifat yang dibutuhkan untuk bersamanya",
+      "role": "none"
+    }
+  ]
+}

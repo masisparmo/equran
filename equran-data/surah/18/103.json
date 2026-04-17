@@ -1,0 +1,96 @@
+{
+  "surah": 18,
+  "ayah": 103,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "قُلْ",
+      "transliterasi": "qul",
+      "jenis_kata": "Huruf",
+      "arti": "katakanlah",
+      "sharaf": {
+        "akar_kata": "q-w-l",
+        "makna_dasar": "mengatakan",
+        "wazan_perubahan": "perintah"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il amr",
+        "irab_dan_logika": "berupa perintah kepada orang kedua tunggal"
+      },
+      "hikmah": "perintah untuk mengucapkan atau menyampaikan sesuatu",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "هَلْ",
+      "transliterasi": "hal",
+      "jenis_kata": "Huruf",
+      "arti": "apakah",
+      "sharaf": {
+        "akar_kata": "h-l",
+        "makna_dasar": "pertanyaan",
+        "wazan_perubahan": "tidak ada"
+      },
+      "nahwu": {
+        "kedudukan": "huruf istifham",
+        "irab_dan_logika": "menunjukkan pertanyaan"
+      },
+      "hikmah": "menunjukkan adanya pertanyaan atau keraguan",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "نُنَبِّئُكُم",
+      "transliterasi": "nunnabbiukum",
+      "jenis_kata": "Fi'il",
+      "arti": "kami beritahukan kepadamu",
+      "sharaf": {
+        "akar_kata": "b-b-'",
+        "makna_dasar": "mengabarkan",
+        "wazan_perubahan": "fi'il madhi majhul"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il madhi",
+        "irab_dan_logika": "berupa kalimat berita dengan subjek kami"
+      },
+      "hikmah": "mengabarkan atau memberitahukan sesuatu kepada seseorang",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "بِٱلْأَخْسَرِينَ",
+      "transliterasi": "bil akhsarina",
+      "jenis_kata": "Isim",
+      "arti": "orang-orang yang paling merugi",
+      "sharaf": {
+        "akar_kata": "kh-s-r",
+        "makna_dasar": "merugi",
+        "wazan_perubahan": "mashdar"
+      },
+      "nahwu": {
+        "kedudukan": "maf'ul bih",
+        "irab_dan_logika": "berupa objek dari fi'il nunnabbiukum"
+      },
+      "hikmah": "orang-orang yang mengalami kerugian atau kehilangan",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "أَعْمَٰلًا",
+      "transliterasi": "a'malan",
+      "jenis_kata": "Isim",
+      "arti": "perbuatan",
+      "sharaf": {
+        "akar_kata": "-m-l",
+        "makna_dasar": "perbuatan",
+        "wazan_perubahan": "jamak"
+      },
+      "nahwu": {
+        "kedudukan": "maf'ul bih",
+        "irab_dan_logika": "berupa objek dari fi'il nunnabbiukum"
+      },
+      "hikmah": "perbuatan atau tindakan yang dilakukan oleh seseorang",
+      "role": "none"
+    }
+  ]
+}
