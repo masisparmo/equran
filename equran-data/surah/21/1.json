@@ -7,18 +7,126 @@
       "kata_arab": "ٱقْتَرَبَ",
       "transliterasi": "iqtaraba",
       "jenis_kata": "Fi'il",
-      "arti": "mendekat, menjadi dekat",
+      "arti": "Telah dekat",
       "sharaf": {
         "akar_kata": "ق ر ب",
-        "makna_dasar": "dekat, dekatnya",
-        "wazan_perubahan": "اِفْتَعَلَ (bentuk VIII) – menandakan terjadinya keadaan atau proses menjadi dekat"
+        "makna_dasar": "Dekat, mendekat",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau), Bab VIII (افتعل - ifta'ala) yang menunjukkan makna 'saling' atau 'meminta'."
       },
       "nahwu": {
-        "kedudukan": "Predikat (fi'il madhi) dalam kalimat, menegaskan aksi ‘mendekat’ yang terjadi pada hari penghitungan",
-        "irab_dan_logika": "Sebagai fi'il madhi, kata ini berakhiran dhammah (بَ) karena bersifat مرفوع. Pada fi'il madhi tidak ada huruf alif alif (ا) yang memengaruhi i'rab; tanda dhammah menunjukkan bahwa kata ini berfungsi sebagai predikat yang berdiri sendiri."
+        "kedudukan": "Fi'il (kata kerja) yang memulai kalimat",
+        "irab_dan_logika": "Mabniyyun 'ala al-fath (tetap dengan fathah) karena fi'il madhi yang tidak bersambung dengan dhamir rafa' mutaharrik atau wawu al-jama'ah."
       },
-      "hikmah": "Kata اِقْتَرَبَ menegaskan bahwa hari penghitungan (hīsāb) sudah sangat dekat dengan manusia. Penggunaan bentuk VIII menambah nuansa bahwa kedekatan itu bukan sekadar jarak fisik, melainkan proses mendekatnya waktu penghakiman yang tak terelakkan, menimbulkan peringatan bagi yang masih lalai.",
-      "role": "predicate"
+      "hikmah": "Menunjukkan bahwa waktu perhitungan amal sudah sangat dekat dan merupakan suatu kepastian, menekankan urgensi bagi manusia untuk mempersiapkan diri.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "لِلنَّاسِ",
+      "transliterasi": "lin-nāsi",
+      "jenis_kata": "Huruf dan Isim",
+      "arti": "Bagi manusia / kepada manusia",
+      "sharaf": {
+        "akar_kata": "أ ن س",
+        "makna_dasar": "Manusia, masyarakat",
+        "wazan_perubahan": "Isim jamak, ma'rifah (dengan alif lam), didahului huruf jar لِ (li)."
+      },
+      "nahwu": {
+        "kedudukan": "Jar Majrur (huruf jar + isim majrur), berfungsi sebagai keterangan tujuan atau objek yang kepadanya sesuatu itu mendekat.",
+        "irab_dan_logika": "اللام (li) adalah huruf jar, sehingga النَّاسِ (an-nāsi) menjadi isim majrur dengan kasrah."
+      },
+      "hikmah": "Menjelaskan bahwa kedekatan hari perhitungan ini berlaku untuk seluruh umat manusia, tanpa terkecuali, menegaskan universalitas hisab dan tanggung jawab individu.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "حِسَابُهُمْ",
+      "transliterasi": "ḥisābuhum",
+      "jenis_kata": "Isim dan Dhamir",
+      "arti": "Perhitungan mereka",
+      "sharaf": {
+        "akar_kata": "ح س ب",
+        "makna_dasar": "Menghitung, memperhitungkan",
+        "wazan_perubahan": "Isim mashdar (kata benda dari kata kerja), mudhaf (bersandar) kepada dhamir هُمْ (hum)."
+      },
+      "nahwu": {
+        "kedudukan": "Fa'il (subjek) dari fi'il ٱقْتَرَبَ.",
+        "irab_dan_logika": "Marfu' (rafa') dengan dhammah karena menjadi fa'il. Dhamir هُمْ (hum) adalah mudhaf ilaih, mabniyyun 'ala as-sukūn fi mahalli jarr."
+      },
+      "hikmah": "Menegaskan bahwa yang mendekat adalah 'perhitungan amal mereka', bukan hanya hari itu sendiri, menyoroti fokus pada akuntabilitas individu atas setiap perbuatan yang telah dilakukan.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "وَهُمْ",
+      "transliterasi": "wa hum",
+      "jenis_kata": "Huruf dan Dhamir",
+      "arti": "Dan mereka",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk dhamir",
+        "makna_dasar": "Mereka (kata ganti orang ketiga jamak)",
+        "wazan_perubahan": "Dhamir munfasil (kata ganti terpisah)"
+      },
+      "nahwu": {
+        "kedudukan": "Wawu (وَ) adalah wawu haliyah (menunjukkan keadaan), هُمْ (hum) adalah mubtada' (subjek) dari jumlah ismiyah yang menjadi hal (keadaan).",
+        "irab_dan_logika": "الواو (wa) adalah wawu al-haliyah. هُمْ (hum) adalah dhamir rafa' munfasil, mabniyyun 'ala as-sukūn fi mahalli rafa' sebagai mubtada'."
+      },
+      "hikmah": "Memperkenalkan kondisi atau keadaan manusia saat hari perhitungan itu mendekat, yaitu dalam kelalaian, menunjukkan kontras antara kedekatan hisab dan ketidaksiapan manusia.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "فِى",
+      "transliterasi": "fī",
+      "jenis_kata": "Huruf",
+      "arti": "Di dalam / dalam",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk huruf",
+        "makna_dasar": "Menunjukkan tempat, waktu, atau keadaan.",
+        "wazan_perubahan": "Huruf jar"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar",
+        "irab_dan_logika": "Huruf jar, mabniyyun 'ala as-sukūn. Berfungsi untuk menjadikan isim setelahnya majrur."
+      },
+      "hikmah": "Menjelaskan bahwa manusia 'berada di dalam' atau 'tenggelam dalam' kondisi kelalaian, bukan hanya sekadar lalai sesaat, melainkan suatu keadaan yang meliputi mereka.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "غَفْلَةٍۢ",
+      "transliterasi": "ghaflatin",
+      "jenis_kata": "Isim",
+      "arti": "Kelalaian",
+      "sharaf": {
+        "akar_kata": "غ ف ل",
+        "makna_dasar": "Lalai, lupa, tidak peduli",
+        "wazan_perubahan": "Isim mashdar (kata benda dari kata kerja), nakirah (tidak ada alif lam), tanwin kasrah."
+      },
+      "nahwu": {
+        "kedudukan": "Isim majrur oleh huruf jar فِى.",
+        "irab_dan_logika": "Majrur (jarr) dengan kasrah karena didahului oleh huruf jar فِى. Tanwin menunjukkan kenakiran (indefinite) dan keumuman kelalaian tersebut."
+      },
+      "hikmah": "Menggambarkan kondisi spiritual manusia yang tidak sadar akan kedekatan hari perhitungan, menunjukkan ketidakpedulian, kelupaan, atau pengabaian terhadap tujuan akhir kehidupan dan persiapan untuknya.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "مُّعْرِضُونَ",
+      "transliterasi": "mu'ridhūn",
+      "jenis_kata": "Isim",
+      "arti": "orang-orang yang berpaling/menjauh/enggan",
+      "sharaf": {
+        "akar_kata": "ع ر ض (ain-ra-dhad)",
+        "makna_dasar": "menampakkan, menghadapkan, melintang, berpaling",
+        "wazan_perubahan": "مُفْعِلُونَ (muf'ilūna), merupakan Isim Fa'il (pelaku) dari Fi'il Tsulatsi Mazid wazan أَفْعَلَ (a'radha - berpaling), dalam bentuk jamak mudzakkar salim."
+      },
+      "nahwu": {
+        "kedudukan": "Khabar kedua",
+        "irab_dan_logika": "Marfu' (rafa') dengan tanda waw (و) karena ia adalah jamak mudzakkar salim. Dalam kalimat 'وَهُمْ فِي غَفْلَةٍ مُّعْرِضُونَ', 'هُمْ' adalah mubtada', 'فِي غَفْلَةٍ' adalah khabar pertama, dan 'مُّعْرِضُونَ' adalah khabar kedua."
+      },
+      "hikmah": "Kata ini menggambarkan kondisi manusia yang tidak hanya lalai ('في غفلة') tetapi juga secara aktif berpaling atau menolak untuk memperhatikan peringatan tentang hari perhitungan. Ini menunjukkan sikap acuh tak acuh dan penolakan terhadap kebenaran, meskipun tanda-tanda dan peringatan telah jelas.",
+      "role": "none"
     }
   ]
 }

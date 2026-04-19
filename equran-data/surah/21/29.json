@@ -1,0 +1,240 @@
+{
+  "surah": 21,
+  "ayah": 29,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "وَمَن",
+      "transliterasi": "wa man",
+      "jenis_kata": "Huruf + Isim",
+      "arti": "Dan barangsiapa",
+      "sharaf": {
+        "akar_kata": "N/A (untuk و), N/A (untuk مَن sebagai isim syarat)",
+        "makna_dasar": "Menghubungkan (و), siapa/barangsiapa (مَن)",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "و (wawu 'athaf/istinaf), مَن (isim syarat, mubtada')",
+        "irab_dan_logika": "و adalah huruf mabni 'ala al-fath, tidak memiliki kedudukan i'rab. مَن adalah isim syarat mabni 'ala as-sukun, berada pada posisi rafa' sebagai mubtada'."
+      },
+      "hikmah": "Kata ini berfungsi sebagai penghubung dan pembuka kalimat syarat, menunjukkan cakupan umum bagi siapa saja yang melakukan perbuatan yang akan disebutkan, menekankan bahwa konsekuensi berlaku untuk setiap individu yang melanggar.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "يَقُلْ",
+      "transliterasi": "yaqul",
+      "jenis_kata": "Fi'il",
+      "arti": "dia berkata/mengatakan",
+      "sharaf": {
+        "akar_kata": "ق و ل (Qaf-Waw-Lam)",
+        "makna_dasar": "Berbicara, mengucapkan, mengatakan",
+        "wazan_perubahan": "Fi'il Mudhari' dari bab نَصَرَ يَنْصُرُ (nashara yansuru), asalnya يَقُولُ (yaqūlu), kemudian di-jazm menjadi يَقُلْ."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Majzum",
+        "irab_dan_logika": "Fi'il Mudhari' ini majzum karena menjadi fi'il syarat bagi isim syarat مَن. Tanda jazm-nya adalah sukun pada huruf lam, dan huruf wawu dihilangkan karena pertemuan dua sukun (wawu mad dan lam yang disukunkan)."
+      },
+      "hikmah": "Menunjukkan tindakan verbal yang spesifik, yaitu mengucapkan klaim. Bentuk jazm-nya mengindikasikan bahwa ini adalah bagian dari kondisi yang akan memicu balasan yang keras.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "مِنْهُمْ",
+      "transliterasi": "minhum",
+      "jenis_kata": "Huruf + Isim Dhomir",
+      "arti": "di antara mereka",
+      "sharaf": {
+        "akar_kata": "N/A (untuk مِن), N/A (untuk هُمْ sebagai dhomir)",
+        "makna_dasar": "Dari/di antara (مِن), mereka (هُمْ)",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Jar Majrur",
+        "irab_dan_logika": "مِن adalah huruf jar mabni 'ala as-sukun. هُمْ adalah dhomir muttashil mabni 'ala as-sukun, berada pada posisi jarr karena didahului oleh huruf jar. Jar majrur ini muta'alliq (berkaitan) dengan fi'il يَقُلْ."
+      },
+      "hikmah": "Frasa ini membatasi cakupan 'barangsiapa' hanya pada sebagian dari kelompok yang telah disebutkan sebelumnya (yaitu para malaikat yang tidak pernah mengklaim ketuhanan), menegaskan bahwa klaim ini adalah penyimpangan dari mereka.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "إِنِّىٓ",
+      "transliterasi": "innī",
+      "jenis_kata": "Huruf + Isim Dhomir",
+      "arti": "Sesungguhnya aku",
+      "sharaf": {
+        "akar_kata": "N/A (untuk إِنَّ), N/A (untuk ي sebagai dhomir)",
+        "makna_dasar": "Penekanan/penguatan (إِنَّ), aku (ي)",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Taukid wa Nashb (إِنَّ) + Isim إِنَّ",
+        "irab_dan_logika": "إِنَّ adalah huruf taukid wa nashb mabni 'ala al-fath. ي adalah dhomir mutakallim (kata ganti orang pertama tunggal) mabni 'ala as-sukun, berada pada posisi nashab sebagai isim إِنَّ."
+      },
+      "hikmah": "Menunjukkan penekanan kuat pada klaim personal ('Aku') dan penguatan pernyataan yang akan datang, menekankan keseriusan dan kepastian dari klaim palsu tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "إِلَٰهٌۭ",
+      "transliterasi": "ilāhun",
+      "jenis_kata": "Isim",
+      "arti": "tuhan/sesembahan",
+      "sharaf": {
+        "akar_kata": "أ ل ه (Alif-Lam-Ha)",
+        "makna_dasar": "Menyembah, mengabdi, ketuhanan",
+        "wazan_perubahan": "Isim dari akar kata tersebut, menunjukkan entitas yang disembah atau memiliki sifat ketuhanan."
+      },
+      "nahwu": {
+        "kedudukan": "Khabar إِنَّ",
+        "irab_dan_logika": "Marfu' dengan dhommah tanwin karena menjadi khabar إِنَّ. Khabar إِنَّ selalu marfu'."
+      },
+      "hikmah": "Kata kunci yang menyatakan klaim ketuhanan, inti dari kesesatan dan syirik yang dibicarakan dalam ayat ini. Ini adalah pernyataan yang sangat serius dan merupakan pelanggaran terbesar terhadap tauhid.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "مِّن",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf",
+      "arti": "dari/selain",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "Dari, sebagian, selain, lebih dari",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Harf Jar",
+        "irab_dan_logika": "Harf jar mabni 'ala as-sukun. Dalam konteks ayat ini, مِن bermakna 'selain' atau 'di samping', menunjukkan pengecualian dari Allah Yang Maha Esa."
+      },
+      "hikmah": "Menunjukkan pemisahan atau pengecualian, menegaskan bahwa klaim ketuhanan ini adalah 'selain' atau 'di samping' Allah, yang merupakan inti dari syirik dan penentangan terhadap keesaan-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "دُونِهِۦ",
+      "transliterasi": "dūnihi",
+      "jenis_kata": "Isim",
+      "arti": "selain Dia, di bawah-Nya",
+      "sharaf": {
+        "akar_kata": "د و ن",
+        "makna_dasar": "rendah, di bawah, selain",
+        "wazan_perubahan": "Isim (berfungsi sebagai ظرف مكان atau شبه حرف جر)"
+      },
+      "nahwu": {
+        "kedudukan": "Majrur (karena didahului huruf jar 'min') dan mudhaf. Huruf 'ه' adalah mudhaf ilaih.",
+        "irab_dan_logika": "دُونِ (dūni) adalah isim majrur dengan kasrah karena didahului oleh huruf jar 'مِنْ'. Huruf 'ه' (hi) adalah dhamir muttasil (kata ganti terhubung) yang berkedudukan sebagai mudhaf ilaih, mabni (tetap) di atas kasrah."
+      },
+      "hikmah": "Menekankan bahwa tidak ada tuhan lain selain Allah, dan klaim ketuhanan selain-Nya adalah kesesatan yang akan dibalas.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "فَذَٰلِكَ",
+      "transliterasi": "fa-dhālika",
+      "jenis_kata": "Huruf + Isim Isyarah",
+      "arti": "maka itu, maka demikianlah",
+      "sharaf": {
+        "akar_kata": "ذ ل ك",
+        "makna_dasar": "menunjuk sesuatu yang jauh",
+        "wazan_perubahan": "Isim isyarah (kata tunjuk)"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf 'فَ' adalah huruf 'athaf atau isti'naf. ذَٰلِكَ adalah mubtada' (subjek) dari kalimat baru.",
+        "irab_dan_logika": "فَ (fa) adalah huruf 'athaf/isti'naf, mabni (tetap) di atas fathah, tidak memiliki kedudukan i'rab. ذَٰلِكَ (dhālika) adalah isim isyarah, mabni di atas fathah, berkedudukan sebagai mubtada' (subjek) dalam محل رفع (posisi rafa')."
+      },
+      "hikmah": "Menunjukkan konsekuensi langsung dan pasti dari klaim ketuhanan selain Allah, yaitu balasan yang akan diterima.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "نَجْزِيهِ",
+      "transliterasi": "najzīhi",
+      "jenis_kata": "Fi'il + Dhamir",
+      "arti": "Kami akan membalasnya",
+      "sharaf": {
+        "akar_kata": "ج ز ي",
+        "makna_dasar": "membalas, memberi ganjaran",
+        "wazan_perubahan": "Fi'il Mudhari' (kata kerja sekarang/akan datang) dari wazan فَعَلَ - يَفْعِلُ"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il mudhari' dan fa'il (subjek) mustatir (tersembunyi) berupa نحن (kami). Huruf 'ه' adalah maf'ul bih (objek).",
+        "irab_dan_logika": "نَجْزِي (najzī) adalah fi'il mudhari' marfu' (di-rafa'kan) dengan dhammah muqaddarah (tersembunyi) di atas ya' karena berat. Fa'ilnya adalah dhamir mustatir تقديره نحن (kami). Huruf 'ه' (hi) adalah dhamir muttasil, mabni di atas kasrah, berkedudukan sebagai maf'ul bih (objek) dalam محل نصب (posisi nashab)."
+      },
+      "hikmah": "Menegaskan bahwa Allah SWT sendiri yang akan memberikan balasan atas perbuatan tersebut, menunjukkan kekuasaan dan keadilan-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "جَهَنَّمَ",
+      "transliterasi": "jahannama",
+      "jenis_kata": "Isim",
+      "arti": "Neraka Jahannam",
+      "sharaf": {
+        "akar_kata": "Tidak ada akar kata triliteral yang umum",
+        "makna_dasar": "Nama khusus untuk neraka",
+        "wazan_perubahan": "Isim 'alam (nama diri), ghairu munsharif (tidak menerima tanwin)"
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul bih kedua (objek kedua) dari fi'il نَجْزِيهِ (najzīhi).",
+        "irab_dan_logika": "جَهَنَّمَ (jahannama) adalah maf'ul bih kedua, manshub (di-nashab-kan) dengan fathah. Ini adalah isim ghairu munsharif (tidak menerima tanwin), sehingga nashabnya dengan fathah tanpa tanwin."
+      },
+      "hikmah": "Menjelaskan secara spesifik balasan yang akan diterima oleh orang yang mengklaim ketuhanan selain Allah, yaitu siksa neraka Jahannam yang pedih.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "كَذَٰلِكَ",
+      "transliterasi": "ka-dhālika",
+      "jenis_kata": "Huruf + Isim Isyarah",
+      "arti": "demikianlah, seperti itu",
+      "sharaf": {
+        "akar_kata": "ذ ل ك",
+        "makna_dasar": "menunjuk sesuatu yang jauh, perumpamaan",
+        "wazan_perubahan": "Huruf jar (ka) + Isim isyarah (kata tunjuk)"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf 'كَ' adalah huruf jar. ذَٰلِكَ adalah isim majrur. Frasa ini berfungsi sebagai na'ib maf'ul mutlaq (pengganti maf'ul mutlaq) yang menunjukkan cara.",
+        "irab_dan_logika": "كَ (ka) adalah huruf jar, mabni di atas fathah, tidak memiliki kedudukan i'rab. ذَٰلِكَ (dhālika) adalah isim isyarah, mabni di atas fathah, berkedudukan sebagai isim majrur oleh huruf jar 'كَ' dalam محل جر (posisi jar). Majrur ini berkaitan dengan fi'il نَجْزِي (najzī) yang akan datang, berfungsi sebagai na'ib maf'ul mutlaq yang menunjukkan cara."
+      },
+      "hikmah": "Menggarisbawahi bahwa balasan yang sama, yaitu neraka Jahannam, akan diberikan kepada semua orang yang berbuat zalim, tidak hanya kepada mereka yang mengklaim ketuhanan. Ini menunjukkan prinsip keadilan Allah yang universal.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "نَجْزِى",
+      "transliterasi": "najzī",
+      "jenis_kata": "Fi'il",
+      "arti": "Kami membalas",
+      "sharaf": {
+        "akar_kata": "ج ز ي",
+        "makna_dasar": "membalas, memberi ganjaran",
+        "wazan_perubahan": "Fi'il Mudhari' (kata kerja sekarang/akan datang) dari wazan فَعَلَ - يَفْعِلُ"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il mudhari' dan fa'il (subjek) mustatir (tersembunyi) berupa نحن (kami).",
+        "irab_dan_logika": "نَجْزِي (najzī) adalah fi'il mudhari' marfu' (di-rafa'kan) dengan dhammah muqaddarah (tersembunyi) di atas ya' karena berat. Fa'ilnya adalah dhamir mustatir تقديره نحن (kami)."
+      },
+      "hikmah": "Mengulangi penegasan bahwa Allah-lah yang membalas, dan ini adalah hukum-Nya bagi semua orang zalim, memperkuat keadilan dan kekuasaan-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "ٱلظَّٰلِمِينَ",
+      "transliterasi": "al-ẓālimīn",
+      "jenis_kata": "Isim",
+      "arti": "orang-orang yang zalim/aniaya",
+      "sharaf": {
+        "akar_kata": "ظ ل م (ẓ-l-m)",
+        "makna_dasar": "Kezaliman, aniaya, menempatkan sesuatu bukan pada tempatnya, kegelapan.",
+        "wazan_perubahan": "فاعل (fā'il) - bentuk Isim Fa'il (pelaku) jamak mudzakkar salim (maskulin plural sehat). Bentuk tunggalnya adalah ظَالِم (ẓālim)."
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul Bih (objek) dari fi'il 'نَجْزِي' (najzī - Kami membalas) yang tersirat dari konteks 'demikian Kami memberikan pembalasan' atau lebih tepatnya, dari fi'il 'نَجْزِي' yang disebutkan secara eksplisit dalam kalimat 'كَذَٰلِكَ نَجْزِي الظَّالِمِينَ' (demikianlah Kami membalas orang-orang zalim).",
+        "irab_dan_logika": "Mansub (berharakat fathah/ya' pada jamak mudzakkar salim). Tanda nashabnya adalah huruf ya' (ي) karena ia adalah jamak mudzakkar salim."
+      },
+      "hikmah": "Kata ini menegaskan bahwa kezaliman adalah sifat yang sangat dibenci Allah dan pelakunya akan mendapatkan balasan yang setimpal. Ini adalah peringatan keras bagi siapa pun yang berani melampaui batas, terutama dalam hal ketuhanan, dan menempatkan sesuatu tidak pada tempatnya, yang merupakan esensi kezaliman. Dalam konteks ayat ini, kezaliman terbesar adalah mengklaim ketuhanan selain Allah, yang akan berujung pada balasan Jahannam.",
+      "role": "none"
+    }
+  ]
+}

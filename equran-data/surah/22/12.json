@@ -1,0 +1,222 @@
+{
+  "surah": 22,
+  "ayah": 12,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "يَدْعُوا۟",
+      "transliterasi": "yad'ū",
+      "jenis_kata": "Fi'il",
+      "arti": "Dia menyeru/memanggil",
+      "sharaf": {
+        "akar_kata": "د ع و",
+        "makna_dasar": "Memanggil, menyeru, berdoa",
+        "wazan_perubahan": "Fi'il Mudhari' dari wazan فَعَلَ - يَفْعُلُ (fa'ala - yaf'ulu), yang asalnya يَفْعُو (yaf'ū)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Syarat",
+        "irab_dan_logika": "Dalam konteks ayat ini, kata ini adalah Fi'il Mudhari' yang majzum (dijazmkan) karena didahului oleh Isim Syarat 'مَن'. Tanda jazm-nya adalah حذف حرف العلة (membuang huruf illat waw). Penulisan 'و۟' dalam mushaf mungkin merupakan indikasi huruf illat asli yang dibuang secara gramatikal."
+      },
+      "hikmah": "Menyeru selain Allah adalah tindakan yang sia-sia dan menyesatkan, karena hanya Allah yang berhak diseru.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "مِن",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf",
+      "arti": "Dari, sebagian dari, selain",
+      "sharaf": {
+        "akar_kata": "Tidak ada akar kata untuk huruf.",
+        "makna_dasar": "Menunjukkan permulaan, sebagian, penjelasan, atau pengecualian.",
+        "wazan_perubahan": "Tidak ada wazan untuk huruf."
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Jar",
+        "irab_dan_logika": "Huruf mabni (tidak berubah harakatnya), berfungsi men-jar-kan isim setelahnya."
+      },
+      "hikmah": "Menunjukkan pemisahan atau pengecualian, dalam konteks ini 'selain' Allah, menegaskan bahwa objek yang diseru bukan Allah.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "دُونِ",
+      "transliterasi": "dūni",
+      "jenis_kata": "Isim",
+      "arti": "Selain, bawah, selain dari",
+      "sharaf": {
+        "akar_kata": "د و ن",
+        "makna_dasar": "Bawah, selain, tanpa.",
+        "wazan_perubahan": "Isim."
+      },
+      "nahwu": {
+        "kedudukan": "Isim Majrur",
+        "irab_dan_logika": "Majrur karena didahului oleh Huruf Jar 'مِن'. Tanda jarnya adalah kasrah."
+      },
+      "hikmah": "Menekankan bahwa objek yang diseru adalah entitas 'selain' Allah, yang berarti entitas yang lebih rendah atau tidak memiliki kekuasaan ilahi.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "ٱللَّهِ",
+      "transliterasi": "Allāhi",
+      "jenis_kata": "Isim",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "أ ل ه",
+        "makna_dasar": "Tuhan, yang disembah.",
+        "wazan_perubahan": "Isim."
+      },
+      "nahwu": {
+        "kedudukan": "Mudhaf Ilaih",
+        "irab_dan_logika": "Majrur karena menjadi Mudhaf Ilaih dari 'دُونِ'. Tanda jarnya adalah kasrah."
+      },
+      "hikmah": "Nama Dzat Yang Maha Esa, menunjukkan bahwa penyeruan selain-Nya adalah penyimpangan dari tauhid dan merupakan kesyirikan.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "مَا",
+      "transliterasi": "mā",
+      "jenis_kata": "Isim",
+      "arti": "Apa yang, sesuatu yang",
+      "sharaf": {
+        "akar_kata": "Tidak ada akar kata untuk isim maushul.",
+        "makna_dasar": "Menunjukkan sesuatu yang tidak berakal atau umum.",
+        "wazan_perubahan": "Isim Maushul."
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul Bih (objek)",
+        "irab_dan_logika": "Isim Maushul mabni sukun, dalam posisi nashab sebagai maf'ul bih dari fi'il 'يَدْعُ'."
+      },
+      "hikmah": "Merujuk pada segala sesuatu selain Allah yang diseru, baik itu berhala, makhluk, atau kekuatan lain, yang pada hakikatnya tidak memiliki daya dan kekuasaan.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "لَا",
+      "transliterasi": "lā",
+      "jenis_kata": "Huruf",
+      "arti": "Tidak",
+      "sharaf": {
+        "akar_kata": "Tidak ada akar kata untuk huruf.",
+        "makna_dasar": "Penafian, negasi.",
+        "wazan_perubahan": "Tidak ada wazan untuk huruf."
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Nafi (penafian)",
+        "irab_dan_logika": "Huruf mabni sukun, berfungsi menafikan fi'il setelahnya tanpa mengubah i'rabnya (jika masuk pada fi'il mudhari')."
+      },
+      "hikmah": "Menegaskan ketiadaan kemampuan atau manfaat dari apa yang diseru selain Allah, menunjukkan kesia-siaan dan kebatilan perbuatan tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "يَضُرُّهُۥ",
+      "transliterasi": "yaḍurruhu",
+      "jenis_kata": "Fi'il",
+      "arti": "merugikannya, membahayakannya",
+      "sharaf": {
+        "akar_kata": "ض ر ر (ḍ-r-r)",
+        "makna_dasar": "bahaya, rugi",
+        "wazan_perubahan": "Fi'il Mudhari' (kata kerja sekarang/akan datang) dari wazan فَعَلَ (fa'ala) menjadi يَفْعُلُ (yaf'ulu), yaitu ضَرَّ يَضُرُّ. Huruf هُۥ adalah dhamir muttasil (kata ganti sambung) yang berarti 'dia' (maskulin tunggal)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' marfu' (diangkat). Dhamir هُۥ adalah maf'ul bih (objek).",
+        "irab_dan_logika": "Fi'il Mudhari' يَضُرُّ marfu' dengan dhammah yang tersembunyi karena idgham (penggabungan) dua huruf ra'. Dhamir هُۥ adalah dhamir muttasil mabniyyun 'ala ad-dhamm fi mahalli nashbin maf'ul bih."
+      },
+      "hikmah": "Kata ini menyoroti ketidakmampuan sesembahan selain Allah untuk mendatangkan kerugian atau bahaya kepada penyembahnya, menunjukkan kelemahan dan ketiadaan kekuasaan mereka sama sekali.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "وَمَا",
+      "transliterasi": "wamā",
+      "jenis_kata": "Huruf dan Isim",
+      "arti": "dan tidak",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk huruf. Wawu adalah huruf 'athaf, dan Ma adalah huruf nafi.",
+        "makna_dasar": "penghubung (wawu), peniadaan (ma)",
+        "wazan_perubahan": "Tidak berlaku."
+      },
+      "nahwu": {
+        "kedudukan": "Wawu adalah huruf 'athaf (penghubung). Ma adalah huruf nafi (peniadaan) yang tidak beramal (ghayr 'amilah).",
+        "irab_dan_logika": "Wawu adalah huruf 'athaf mabniyyun 'ala al-fath la mahalla lahu min al-i'rab. Ma adalah huruf nafi mabniyyun 'ala as-sukun la mahalla lahu min al-i'rab."
+      },
+      "hikmah": "Menghubungkan peniadaan manfaat dengan peniadaan mudharat, menegaskan bahwa sesembahan selain Allah sama sekali tidak memiliki kemampuan, baik untuk merugikan maupun memberi manfaat.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "لَا",
+      "transliterasi": "lā",
+      "jenis_kata": "Huruf",
+      "arti": "tidak",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku.",
+        "makna_dasar": "peniadaan",
+        "wazan_perubahan": "Tidak berlaku."
+      },
+      "nahwu": {
+        "kedudukan": "Huruf nafi (peniadaan).",
+        "irab_dan_logika": "Huruf nafi mabniyyun 'ala as-sukun la mahalla lahu min al-i'rab. Fungsinya adalah untuk menafikan (meniadakan) fi'il yang mengikutinya."
+      },
+      "hikmah": "Pengulangan penegasan peniadaan, memperkuat makna bahwa tidak ada sedikit pun manfaat yang bisa diberikan oleh sesembahan tersebut. Ini adalah pengulangan untuk penekanan.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "يَنفَعُهُۥ",
+      "transliterasi": "yanfa'uhu",
+      "jenis_kata": "Fi'il",
+      "arti": "memberinya manfaat",
+      "sharaf": {
+        "akar_kata": "ن ف ع (n-f-'a)",
+        "makna_dasar": "manfaat, berguna",
+        "wazan_perubahan": "Fi'il Mudhari' (kata kerja sekarang/akan datang) dari wazan فَعَلَ (fa'ala) menjadi يَفْعَلُ (yaf'alu), yaitu نَفَعَ يَنفَعُ. Huruf هُۥ adalah dhamir muttasil (kata ganti sambung) yang berarti 'dia' (maskulin tunggal)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' marfu' (diangkat). Dhamir هُۥ adalah maf'ul bih (objek).",
+        "irab_dan_logika": "Fi'il Mudhari' يَنفَعُ marfu' dengan dhammah zhahirah. Dhamir هُۥ adalah dhamir muttasil mabniyyun 'ala ad-dhamm fi mahalli nashbin maf'ul bih."
+      },
+      "hikmah": "Melengkapi gambaran ketidakberdayaan sesembahan selain Allah, bahwa mereka tidak hanya tidak bisa merugikan, tetapi juga tidak bisa memberikan manfaat sekecil apapun, menegaskan kesia-siaan penyembahan mereka.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "ذَٰلِكَ",
+      "transliterasi": "dhālika",
+      "jenis_kata": "Isim",
+      "arti": "yang demikian itu, itu",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk isim isyarah. Terdiri dari ذَا (dza) sebagai isim isyarah, ل (lam) untuk menunjukkan jauh, dan ك (kaf) untuk khitab (orang kedua).",
+        "makna_dasar": "penunjuk jauh",
+        "wazan_perubahan": "Isim Isyarah (kata tunjuk)."
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada' (subjek).",
+        "irab_dan_logika": "Isim isyarah mabniyyun 'ala al-fath fi mahalli raf'in mubtada'. Menunjuk pada perbuatan menyeru selain Allah yang tidak memberi mudharat dan manfaat."
+      },
+      "hikmah": "Merangkum dan menunjuk pada seluruh perbuatan dan keyakinan yang telah dijelaskan sebelumnya (menyeru selain Allah yang tidak berdaya), sebagai dasar untuk pernyataan berikutnya.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "هُوَ",
+      "transliterasi": "huwa",
+      "jenis_kata": "Isim",
+      "arti": "dia (maskulin tunggal)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk dhamir.",
+        "makna_dasar": "kata ganti orang ketiga tunggal maskulin",
+        "wazan_perubahan": "Dhamir Munfasil (kata ganti terpisah)."
+      },
+      "nahwu": {
+        "kedudukan": "Dhamir fasl (pemisah) atau dhamir rafa' munfasil yang berfungsi sebagai khabar kedua atau penguat.",
+        "irab_dan_logika": "Dhamir munfasil mabniyyun 'ala al-fath la mahalla lahu min al-i'rab (sebagai dhamir fasl). Sebagai dhamir fasl, ia tidak memiliki kedudukan i'rab, tetapi berfungsi untuk memisahkan mubtada' dari khabar yang berupa ma'rifah dan menguatkan makna."
+      },
+      "hikmah": "Menguatkan dan menegaskan identitas dari 'yang demikian itu' (perbuatan menyekutukan Allah) sebagai 'kesesatan yang jauh', memberikan penekanan pada sifat kesesatan tersebut.",
+      "role": "none"
+    }
+  ]
+}
