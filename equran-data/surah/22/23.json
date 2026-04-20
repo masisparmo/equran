@@ -1,0 +1,402 @@
+{
+  "surah": 22,
+  "ayah": 23,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "إِنَّ",
+      "transliterasi": "Inna",
+      "jenis_kata": "Huruf",
+      "arti": "Sesungguhnya, sungguh",
+      "sharaf": {
+        "akar_kata": "Tidak memiliki akar kata (huruf)",
+        "makna_dasar": "Penekanan, penguat",
+        "wazan_perubahan": "Tidak berlaku (huruf)"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf taukid (penegas) dan nasab (yang menashabkan isim dan merafa'kan khabar)",
+        "irab_dan_logika": "Huruf mabni (tetap) di atas fathah, tidak memiliki kedudukan i'rab. Berfungsi menashabkan mubtada' dan merafa'kan khabar."
+      },
+      "hikmah": "Menegaskan kebenaran pernyataan yang mengikutinya, memberikan kekuatan pada informasi yang disampaikan.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "ٱللَّهَ",
+      "transliterasi": "Allāha",
+      "jenis_kata": "Isim",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "ا ل ه (ilah)",
+        "makna_dasar": "Tuhan, yang disembah",
+        "wazan_perubahan": "Isim alam (nama diri), tidak memiliki wazan sharaf dalam arti perubahan bentuk."
+      },
+      "nahwu": {
+        "kedudukan": "Isim Inna (subjek dari Inna)",
+        "irab_dan_logika": "Manshub (dinashabkan) dengan fathah karena menjadi isim Inna. Isim Inna selalu manshub."
+      },
+      "hikmah": "Merujuk kepada Dzat Tuhan Yang Maha Esa, menegaskan bahwa tindakan yang disebutkan selanjutnya adalah dari Allah SWT.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "يُدْخِلُ",
+      "transliterasi": "Yudkhilu",
+      "jenis_kata": "Fi'il",
+      "arti": "Dia memasukkan",
+      "sharaf": {
+        "akar_kata": "د خ ل (da-kha-la)",
+        "makna_dasar": "Masuk, memasukkan",
+        "wazan_perubahan": "Fi'il Mudhari' (kata kerja sekarang/akan datang) dari wazan أَفْعَلَ (af'ala) - يُفْعِلُ (yuf'ilu) (bab If'al)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' (kata kerja sekarang/akan datang), khabar Inna (predikat dari Inna)",
+        "irab_dan_logika": "Marfu' (dirafa'kan) dengan dhammah karena tidak didahului oleh amil nashab atau jazm. Merupakan khabar Inna yang dalam bentuk jumlah fi'liyah (kalimat verbal), dan khabar Inna selalu marfu'. Fa'il (subjek)nya adalah dhamir mustatir (tersembunyi) \"هو\" (huwa) yang kembali kepada \"Allah\"."
+      },
+      "hikmah": "Menunjukkan tindakan aktif dan berkelanjutan dari Allah SWT dalam memasukkan orang-orang beriman ke surga, menekankan kekuasaan dan janji-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "ٱلَّذِينَ",
+      "transliterasi": "Alladhīna",
+      "jenis_kata": "Isim",
+      "arti": "Orang-orang yang",
+      "sharaf": {
+        "akar_kata": "Tidak memiliki akar kata dalam arti sharaf (isim maushul)",
+        "makna_dasar": "Kata sambung untuk menunjukkan kelompok orang",
+        "wazan_perubahan": "Isim maushul (kata sambung), mabni (tetap)"
+      },
+      "nahwu": {
+        "kedudukan": "Isim Maushul, sebagai Maf'ul Bih (objek) dari fi'il \"يُدْخِلُ\" (yudkhilu)",
+        "irab_dan_logika": "Mabni (tetap) di atas fathah, dalam posisi nashab sebagai maf'ul bih."
+      },
+      "hikmah": "Menghubungkan tindakan \"memasukkan\" dengan kelompok orang tertentu yang akan dijelaskan sifat-sifatnya setelahnya, yaitu mereka yang beriman dan beramal saleh.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "ءَامَنُوا۟",
+      "transliterasi": "Āmanū",
+      "jenis_kata": "Fi'il",
+      "arti": "Mereka beriman",
+      "sharaf": {
+        "akar_kata": "أ م ن (a-ma-na)",
+        "makna_dasar": "Aman, percaya, beriman",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau) dari wazan أَفْعَلَ (af'ala) - يُفْعِلُ (yuf'ilu) (bab If'al). Bentuk jamak mudzakkar ghaib."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Madhi, sebagai shilah maushul (kalimat penghubung) bagi \"ٱلَّذِينَ\" (alladhīna)",
+        "irab_dan_logika": "Mabni (tetap) di atas dhammah karena bersambung dengan wawu jama'ah (و). Wawu jama'ah adalah fa'il (subjek) yang mabni di atas sukun, dalam posisi rafa'. Jumlah fi'liyah ini (fi'il dan fa'ilnya) tidak memiliki kedudukan i'rab karena merupakan shilah maushul."
+      },
+      "hikmah": "Menjelaskan sifat pertama dari orang-orang yang akan dimasukkan surga, yaitu mereka yang memiliki keyakinan dan kepercayaan yang kokoh kepada Allah.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "وَعَمِلُوا۟",
+      "transliterasi": "Wa 'amilū",
+      "jenis_kata": "Huruf dan Fi'il",
+      "arti": "Dan mereka mengerjakan",
+      "sharaf": {
+        "akar_kata": "ع م ل (a-ma-la)",
+        "makna_dasar": "Bekerja, berbuat, mengerjakan",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau) dari wazan فَعَلَ (fa'ala) - يَفْعَلُ (yaf'alu). Bentuk jamak mudzakkar ghaib."
+      },
+      "nahwu": {
+        "kedudukan": "Huruf 'athaf (penghubung) dan Fi'il Madhi, di'athafkan (dihubungkan) kepada \"ءَامَنُوا۟\" (āmanū)",
+        "irab_dan_logika": "Huruf wawu (و) adalah huruf 'athaf, mabni di atas fathah, tidak memiliki kedudukan i'rab. Fi'il \"عَمِلُوا۟\" (amilū) mabni (tetap) di atas dhammah karena bersambung dengan wawu jama'ah (و). Wawu jama'ah adalah fa'il (subjek) yang mabni di atas sukun, dalam posisi rafa'. Jumlah fi'liyah ini di'athafkan pada shilah maushul sebelumnya, sehingga tidak memiliki kedudukan i'rab secara mandiri."
+      },
+      "hikmah": "Menekankan bahwa iman harus diikuti dengan tindakan nyata (amal saleh), menunjukkan pentingnya keseimbangan antara keyakinan hati dan perbuatan anggota badan sebagai syarat masuk surga.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "ٱلصَّٰلِحَٰتِ",
+      "transliterasi": "al-ṣṣāliḥāti",
+      "jenis_kata": "Isim",
+      "arti": "yang saleh/baik (bentuk jamak muannats)",
+      "sharaf": {
+        "akar_kata": "ص ل ح",
+        "makna_dasar": "Kebaikan, kesalehan, perbaikan",
+        "wazan_perubahan": "Isim Fa'il (pelaku) bentuk jamak muannats salim dari wazan فاعل (fā'il)"
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul bih (objek) dari fi'il 'amila (mengerjakan) yang tersirat",
+        "irab_dan_logika": "Mansub (berharakat fathah), namun karena ia adalah jamak muannats salim, tanda nashabnya adalah kasrah"
+      },
+      "hikmah": "Menekankan pentingnya amal perbuatan yang baik dan benar sebagai syarat masuk surga, bukan hanya sekadar iman. Amal saleh adalah manifestasi dari keimanan yang sejati.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "جَنَّٰتٍۢ",
+      "transliterasi": "jannātin",
+      "jenis_kata": "Isim",
+      "arti": "surga-surga (bentuk jamak)",
+      "sharaf": {
+        "akar_kata": "ج ن ن",
+        "makna_dasar": "Menutupi, menyembunyikan; dari sini muncul makna taman/kebun yang rimbun dan tertutup",
+        "wazan_perubahan": "Jamak muannats salim dari 'جَنَّة' (jannah)"
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul bih kedua dari fi'il 'yudkhilu' (memasukkan)",
+        "irab_dan_logika": "Mansub (berharakat fathah), namun karena ia adalah jamak muannats salim, tanda nashabnya adalah kasrah"
+      },
+      "hikmah": "Menggambarkan balasan yang agung dan berlimpah bagi orang-orang beriman dan beramal saleh, yaitu surga-surga yang indah dan luas, bukan hanya satu surga.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "تَجْرِى",
+      "transliterasi": "tajrī",
+      "jenis_kata": "Fi'il",
+      "arti": "mengalir",
+      "sharaf": {
+        "akar_kata": "ج ر ى",
+        "makna_dasar": "Mengalir, berjalan, berlari",
+        "wazan_perubahan": "Fi'il Mudhari' (kata kerja sekarang/akan datang) dari wazan تَفْعِلُ (taf'ilu) untuk fi'il naqis (berakhiran huruf illat)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' marfu' (diangkat) sebagai bagian dari jumlah fi'liyah yang menjadi sifat (na'at) bagi 'جَنَّاتٍ' (surga-surga)",
+        "irab_dan_logika": "Marfu' (berharakat dhammah) karena tidak didahului oleh nashib (penashab) atau jazim (penjazam). Tanda rafa'nya adalah dhammah muqaddarah (tersembunyi) di atas ya' karena beratnya pengucapan"
+      },
+      "hikmah": "Menjelaskan salah satu ciri utama surga, yaitu adanya sungai-sungai yang mengalir di bawahnya, melambangkan kesegaran, keindahan, dan keberlimpahan yang tak terputus.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "مِن",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf",
+      "arti": "dari, di antara",
+      "sharaf": {
+        "akar_kata": "Tidak memiliki akar kata karena huruf",
+        "makna_dasar": "Menunjukkan permulaan, sebagian, jenis, atau sebab",
+        "wazan_perubahan": "Tidak berlaku untuk huruf"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Jar (preposisi)",
+        "irab_dan_logika": "Mabni (tetap) di atas sukun. Berfungsi menjarkan isim setelahnya"
+      },
+      "hikmah": "Menunjukkan arah atau lokasi 'mengalir'nya sungai-sungai, yaitu 'dari' atau 'di bawah' (dalam konteks ini, 'dari bawah'), memberikan detail spasial tentang surga.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "تَحْتِهَا",
+      "transliterasi": "taḥtihā",
+      "jenis_kata": "Isim / Zarf Makan",
+      "arti": "di bawahnya",
+      "sharaf": {
+        "akar_kata": "ت ح ت",
+        "makna_dasar": "Bawah, di bawah",
+        "wazan_perubahan": "Isim makan (kata benda tempat)"
+      },
+      "nahwu": {
+        "kedudukan": "Majrur (berharakat kasrah) karena didahului oleh huruf jar 'مِنْ'. Kata 'هَا' (hā) adalah dhamir muttasil (kata ganti sambung) yang kembali kepada 'جَنَّاتٍ' (surga-surga), dalam posisi majrur sebagai mudhaf ilaih",
+        "irab_dan_logika": "Majrur dengan kasrah karena didahului oleh 'مِنْ'"
+      },
+      "hikmah": "Memperjelas lokasi sungai-sungai di surga, yaitu mengalir 'di bawah' pepohonan dan istana-istananya, menambah kesan keindahan, ketenangan, dan kemegahan surga.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "ٱلْأَنْهَٰرُ",
+      "transliterasi": "al-anhāru",
+      "jenis_kata": "Isim",
+      "arti": "sungai-sungai (bentuk jamak)",
+      "sharaf": {
+        "akar_kata": "ن ه ر",
+        "makna_dasar": "Mengalir, sungai",
+        "wazan_perubahan": "Jamak taksir dari 'نَهْر' (nahr) dengan wazan أَفْعَال (af'āl)"
+      },
+      "nahwu": {
+        "kedudukan": "Fa'il (subjek) dari fi'il 'تَجْرِي' (mengalir)",
+        "irab_dan_logika": "Marfu' (berharakat dhammah) karena sebagai fa'il"
+      },
+      "hikmah": "Mengidentifikasi apa yang mengalir di bawah surga, yaitu sungai-sungai, yang merupakan simbol kemakmuran, kehidupan, kesegaran, dan kenikmatan abadi di surga yang dijanjikan Allah.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "يُحَلَّوْنَ",
+      "transliterasi": "yuḥallawna",
+      "jenis_kata": "Fi'il",
+      "arti": "mereka diberi perhiasan / mereka dihiasi",
+      "sharaf": {
+        "akar_kata": "ح ل ي (ḥ-l-y)",
+        "makna_dasar": "perhiasan, menghiasi",
+        "wazan_perubahan": "Fi'il Mudhari' Majhul (pasif), Bab II (فَعَّلَ - يُفَعِّلُ), dari حَلَّى - يُحَلِّي (menghiasi). Bentuk majhulnya يُحَلَّى. Dengan dhamir hum (mereka laki-laki), menjadi يُحَلَّوْنَ."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Majhul, marfu'",
+        "irab_dan_logika": "Marfu' dengan tetapnya nun (ثبوت النون) karena termasuk Af'alul Khamsah (kata kerja lima). Wau jama'ah (و) adalah Na'ibul Fa'il (pengganti subjek) dalam posisi rafa'."
+      },
+      "hikmah": "Menunjukkan kemuliaan dan keindahan yang akan diterima oleh penghuni surga, di mana mereka tidak perlu berusaha untuk menghias diri, melainkan Allah yang menghiasi mereka sebagai bentuk karunia.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "فِيهَا",
+      "transliterasi": "fīhā",
+      "jenis_kata": "Huruf + Isim",
+      "arti": "di dalamnya / di sana",
+      "sharaf": {
+        "akar_kata": "هـ (h) untuk pronomina",
+        "makna_dasar": "Menunjukkan tempat atau keberadaan",
+        "wazan_perubahan": "Gabungan dari huruf jar (فِي) dan dhamir muttasil (هَا) untuk muannats tunggal."
+      },
+      "nahwu": {
+        "kedudukan": "Jar Majrur",
+        "irab_dan_logika": "فِي adalah huruf jar, هَا adalah dhamir muttasil mabniyyun 'ala as-sukun fi mahalli jarr (dalam posisi jarr) sebagai majrur. Jar Majrur ini berkaitan dengan fi'il sebelumnya (يُحَلَّوْنَ), menunjukkan lokasi di mana perhiasan itu diberikan, yaitu di surga."
+      },
+      "hikmah": "Menegaskan bahwa perhiasan dan kemuliaan itu khusus diberikan di dalam surga, bukan di tempat lain, menekankan keistimewaan tempat tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "مِنْ",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf",
+      "arti": "dari / sebagian dari",
+      "sharaf": {
+        "akar_kata": "Tidak ada akar kata untuk huruf.",
+        "makna_dasar": "Menunjukkan asal, jenis, atau sebagian.",
+        "wazan_perubahan": "Huruf jar."
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Jar",
+        "irab_dan_logika": "Huruf jar yang menyebabkan isim setelahnya menjadi majrur. Dalam konteks ini, مِنْ berfungsi sebagai 'min al-bayan' (menjelaskan jenis) atau 'min at-tab'idh' (sebagian dari), menjelaskan jenis perhiasan."
+      },
+      "hikmah": "Menjelaskan bahan atau jenis perhiasan yang akan diterima, yaitu dari emas dan mutiara, menunjukkan kemewahan dan nilai tinggi dari perhiasan tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "أَسَاوِرَ",
+      "transliterasi": "asāwira",
+      "jenis_kata": "Isim",
+      "arti": "gelang-gelang",
+      "sharaf": {
+        "akar_kata": "س و ر (s-w-r)",
+        "makna_dasar": "gelang, pergelangan tangan",
+        "wazan_perubahan": "Jamak taksir (plural pecah) dari سِوَار (siwār) atau سِوَارَة (siwārah), dengan wazan أَفَاعِلُ (afā'ilu), yang merupakan salah satu bentuk jamak muntahal jumu' (bentuk jamak yang tidak bisa dijamakkan lagi)."
+      },
+      "nahwu": {
+        "kedudukan": "Isim Majrur",
+        "irab_dan_logika": "Majrur dengan fathah (bukan kasrah) karena ia adalah isim ghairu munsharif (tidak menerima tanwin dan kasrah) dengan illat sighah muntahal jumu' (bentuk jamak akhir)."
+      },
+      "hikmah": "Menjelaskan bentuk perhiasan yang spesifik, yaitu gelang, yang secara budaya sering melambangkan kemewahan, status, dan keindahan, menunjukkan kemuliaan yang diberikan kepada penghuni surga.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "مِن",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf",
+      "arti": "dari / sebagian dari",
+      "sharaf": {
+        "akar_kata": "Tidak ada akar kata untuk huruf.",
+        "makna_dasar": "Menunjukkan asal, jenis, atau sebagian.",
+        "wazan_perubahan": "Huruf jar."
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Jar",
+        "irab_dan_logika": "Huruf jar yang menyebabkan isim setelahnya menjadi majrur. Di sini, مِنْ berfungsi sebagai 'min al-bayan' (menjelaskan jenis) dari gelang-gelang tersebut."
+      },
+      "hikmah": "Mengulang penegasan tentang bahan atau jenis perhiasan, kali ini untuk menjelaskan bahan dari gelang-gelang tersebut, yaitu emas, yang merupakan simbol kemewahan dan kekayaan.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "ذَهَبٍۢ",
+      "transliterasi": "dhahabin",
+      "jenis_kata": "Isim",
+      "arti": "emas",
+      "sharaf": {
+        "akar_kata": "ذ ه ب (dh-h-b)",
+        "makna_dasar": "pergi, emas (sebagai kata benda)",
+        "wazan_perubahan": "Isim mufrad (tunggal)."
+      },
+      "nahwu": {
+        "kedudukan": "Isim Majrur",
+        "irab_dan_logika": "Majrur dengan kasrah tanwin (كسرة وتنوين) karena ia adalah isim munsharif (menerima tanwin dan kasrah), dan didahului oleh huruf jar مِنْ."
+      },
+      "hikmah": "Menjelaskan bahan utama dari gelang-gelang tersebut, yaitu emas, yang merupakan simbol kemewahan dan kekayaan tertinggi di dunia, menunjukkan betapa agungnya karunia Allah di surga dan nilai abadi dari perhiasan tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "وَلُؤْلُؤًۭا",
+      "transliterasi": "wa lu'lu'an",
+      "jenis_kata": "Isim",
+      "arti": "dan mutiara",
+      "sharaf": {
+        "akar_kata": "ل أ ل أ",
+        "makna_dasar": "Mutiara, sesuatu yang berkilau",
+        "wazan_perubahan": "Isim jamid (kata benda mati/tidak beraturan)"
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul bih (objek) untuk kata kerja yang tersirat, atau ma'tuf kepada objek perhiasan sebelumnya",
+        "irab_dan_logika": "Mansub (berharakat fathah tanwin) karena ia adalah objek yang diberi perhiasan, atau diathafkan kepada objek yang tersirat yang juga mansub."
+      },
+      "hikmah": "Mutiara melambangkan keindahan, kemurnian, dan kemewahan, menunjukkan keistimewaan perhiasan yang dianugerahkan Allah di surga.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "وَلِبَاسُهُمْ",
+      "transliterasi": "wa libasuhum",
+      "jenis_kata": "Isim",
+      "arti": "dan pakaian mereka",
+      "sharaf": {
+        "akar_kata": "ل ب س",
+        "makna_dasar": "Memakai, menutupi, pakaian",
+        "wazan_perubahan": "Isim (kata benda) dari akar kata. 'لباس' adalah isim, dan 'هم' adalah dhamir muttasil (kata ganti sambung) untuk jamak muzakkar ghaib (mereka laki-laki)."
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada' (subjek kalimat)",
+        "irab_dan_logika": "Marfu' (berharakat dhammah) karena ia adalah mubtada' yang memulai kalimat baru. 'هم' adalah mudhaf ilaih (kata ganti kepemilikan) yang mabni."
+      },
+      "hikmah": "Menegaskan bahwa pakaian di surga adalah sutera, menunjukkan kenyamanan, kelembutan, dan kemuliaan yang abadi bagi penghuninya.",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "فِيهَا",
+      "transliterasi": "fiha",
+      "jenis_kata": "Huruf + Isim",
+      "arti": "di dalamnya (di surga itu)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk huruf. 'ها' adalah dhamir muttasil (kata ganti sambung) untuk muannats ghaib (dia perempuan), merujuk kepada 'surga' (جنات).",
+        "makna_dasar": "في' menunjukkan tempat atau keberadaan di dalam. 'ها' merujuk pada 'surga'.",
+        "wazan_perubahan": "في' adalah huruf jar. 'ها' adalah dhamir."
+      },
+      "nahwu": {
+        "kedudukan": "Jar Majrur (frasa preposisional) yang berkaitan dengan khabar (predikat) atau keseluruhan kalimat",
+        "irab_dan_logika": "في' adalah huruf jar (kata depan) yang menyebabkan kata setelahnya menjadi majrur. 'ها' adalah dhamir muttasil yang mabni (tetap) dalam posisi jar. Frasa ini berfungsi sebagai keterangan tempat (zharf makan) yang menjelaskan di mana pakaian sutera itu berada."
+      },
+      "hikmah": "Menekankan bahwa semua kenikmatan, termasuk pakaian sutera, adalah bagian dari anugerah yang spesifik di dalam surga, bukan di tempat lain.",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "حَرِيرٌۭ",
+      "transliterasi": "harirun",
+      "jenis_kata": "Isim",
+      "arti": "sutera",
+      "sharaf": {
+        "akar_kata": "ح ر ر",
+        "makna_dasar": "Bebas, panas, halus (dalam konteks sutera)",
+        "wazan_perubahan": "Isim jamid (kata benda mati/tidak beraturan) atau isim yang menunjukkan jenis bahan."
+      },
+      "nahwu": {
+        "kedudukan": "Khabar (predikat)",
+        "irab_dan_logika": "Marfu' (berharakat dhammah tanwin) karena ia adalah khabar dari mubtada' 'وَلِبَاسُهُمْ' (dan pakaian mereka). Khabar selalu marfu'."
+      },
+      "hikmah": "Sutera melambangkan kelembutan, kemewahan, dan kenyamanan tertinggi, yang merupakan salah satu kenikmatan istimewa bagi penghuni surga.",
+      "role": "none"
+    }
+  ]
+}

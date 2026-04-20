@@ -1,0 +1,402 @@
+{
+  "surah": 22,
+  "ayah": 15,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "مَن",
+      "transliterasi": "Man",
+      "jenis_kata": "Isim",
+      "arti": "Barangsiapa, siapa saja",
+      "sharaf": {
+        "akar_kata": "Tidak memiliki akar kata (partikel/isim)",
+        "makna_dasar": "Menunjukkan umum atau syarat",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Isim Syarat, mubtada'",
+        "irab_dan_logika": "Marfu' secara mahal (kedudukannya rafa'), karena berfungsi sebagai mubtada' yang memulai kalimat syarat. Ia membutuhkan jawab syarat."
+      },
+      "hikmah": "Membuka kalimat dengan makna umum, merujuk kepada siapa pun yang memiliki sifat atau melakukan tindakan yang disebutkan selanjutnya, mengindikasikan kondisi atau prasangka yang akan dijelaskan.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "كَانَ",
+      "transliterasi": "Kāna",
+      "jenis_kata": "Fi'il",
+      "arti": "Adalah, dulu, telah",
+      "sharaf": {
+        "akar_kata": "ك و ن (K-W-N)",
+        "makna_dasar": "Keberadaan, terjadi",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau) dari wazan فَعَلَ"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Nāqis (kata kerja bantu), khabar dari Isim Syarat 'man' (secara makna)",
+        "irab_dan_logika": "Mabni 'ala al-fath (berharakat fathah di akhir) karena fi'il madhi. Ia mengangkat isimnya (dhamir mustatir 'هو' yang kembali ke 'man') dan menashabkan khabarnya (yazhunnu)."
+      },
+      "hikmah": "Menunjukkan keberadaan atau keadaan di masa lalu, atau keberadaan yang terus-menerus (dalam konteks ini, siapa pun yang *adalah* atau *telah* berprasangka), berfungsi sebagai penghubung antara subjek dan predikat.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "يَظُنُّ",
+      "transliterasi": "Yaẓunnu",
+      "jenis_kata": "Fi'il",
+      "arti": "Ia menyangka, ia berprasangka",
+      "sharaf": {
+        "akar_kata": "ظ ن ن (Ẓ-N-N)",
+        "makna_dasar": "Sangkaan, prasangka, dugaan",
+        "wazan_perubahan": "Fi'il Mudhari' dari wazan فَعَلَ - يَفْعُلُ (dari ظَنَّ - يَظُنُّ)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari', khabar dari 'kāna'",
+        "irab_dan_logika": "Marfu' (berharakat dhammah di akhir) karena tidak didahului oleh amil nashab atau jazm. Fa'ilnya adalah dhamir mustatir (هو) yang kembali ke 'man'."
+      },
+      "hikmah": "Menggambarkan tindakan menyangka atau berprasangka, menunjukkan kondisi mental atau keyakinan seseorang yang keliru terhadap pertolongan Allah.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "أَن",
+      "transliterasi": "An",
+      "jenis_kata": "Huruf",
+      "arti": "Bahwa, bahwa sesungguhnya",
+      "sharaf": {
+        "akar_kata": "Tidak memiliki akar kata",
+        "makna_dasar": "Mengikat, menjelaskan, mengubah fi'il mudhari' menjadi mashdar mu'awwal",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Nashab dan Mashdariyah",
+        "irab_dan_logika": "Mabni 'ala as-sukun (berharakat sukun di akhir). Berfungsi menashabkan fi'il mudhari' setelahnya dan membentuk mashdar mu'awwal yang menjadi maf'ul bih dari 'yazhunnu'."
+      },
+      "hikmah": "Memperkenalkan klausa yang menjelaskan isi dari prasangka atau dugaan, mengubah kalimat fi'il setelahnya menjadi bentuk kata benda (mashdar) yang menjadi objek dari kata 'yazhunnu'.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "لَّن",
+      "transliterasi": "Lan",
+      "jenis_kata": "Huruf",
+      "arti": "Sekali-kali tidak akan, tidak akan pernah",
+      "sharaf": {
+        "akar_kata": "Tidak memiliki akar kata",
+        "makna_dasar": "Penafian yang kuat dan pasti di masa depan",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Nashab dan Nafyi (peniadaan)",
+        "irab_dan_logika": "Mabni 'ala as-sukun (berharakat sukun di akhir). Berfungsi menashabkan fi'il mudhari' setelahnya dan memberikan makna penafian yang kuat untuk masa depan."
+      },
+      "hikmah": "Menegaskan penolakan atau ketidakmungkinan yang mutlak di masa depan, dalam konteks ini, penolakan terhadap pertolongan Allah, menunjukkan keyakinan yang salah dan putus asa.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "يَنصُرَهُ",
+      "transliterasi": "Yanṣurahū",
+      "jenis_kata": "Fi'il",
+      "arti": "Ia (Allah) menolongnya (Muhammad)",
+      "sharaf": {
+        "akar_kata": "ن ص ر (N-Ṣ-R)",
+        "makna_dasar": "Menolong, membantu, memberi kemenangan",
+        "wazan_perubahan": "Fi'il Mudhari' dari wazan فَعَلَ - يَفْعُلُ (dari نَصَرَ - يَنصُرُ). Dhamir هُ (hū) adalah dhamir nashab muttasil."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' manshub oleh 'lan'. Dhamir هُ sebagai maf'ul bih (objek)",
+        "irab_dan_logika": "Manshub (berharakat fathah di akhir) karena didahului oleh 'lan'. Fa'ilnya adalah dhamir mustatir (هو) yang kembali kepada Allah (sesuai konteks ayat). Dhamir هُ (hū) adalah dhamir nashab mabni 'ala ad-dhamm fi mahalli nashb."
+      },
+      "hikmah": "Menggambarkan tindakan pertolongan, dan dengan adanya 'lan', menegaskan keyakinan yang salah bahwa pertolongan itu tidak akan pernah datang dari Allah kepada Nabi Muhammad, baik di dunia maupun di akhirat.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "ٱللَّهُ",
+      "transliterasi": "Allāhu",
+      "jenis_kata": "Isim",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "أ ل ه (A-L-H)",
+        "makna_dasar": "Sesuatu yang disembah, yang patut diibadahi.",
+        "wazan_perubahan": "Ini adalah Isim Dzat (nama diri), tidak mengikuti wazan fi'il atau isim musytaq biasa."
+      },
+      "nahwu": {
+        "kedudukan": "Fa'il (subjek)",
+        "irab_dan_logika": "Marfu' (rafa') dengan dhammah, karena ia adalah Isim Jalalah yang berfungsi sebagai fa'il (subjek) dari perbuatan 'tidak menolong'."
+      },
+      "hikmah": "Menegaskan Dzat Yang Maha Kuasa, yang menjadi fokus keyakinan atau keraguan manusia. Dalam konteks ayat ini, merujuk pada Dzat yang pertolongan-Nya diragukan.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "فِى",
+      "transliterasi": "fī",
+      "jenis_kata": "Huruf",
+      "arti": "di, dalam",
+      "sharaf": {
+        "akar_kata": "Tidak memiliki akar kata karena ini adalah huruf.",
+        "makna_dasar": "Menunjukkan tempat, waktu, atau sebab.",
+        "wazan_perubahan": "Tidak berlaku untuk huruf."
+      },
+      "nahwu": {
+        "kedudukan": "Harf Jar (preposisi)",
+        "irab_dan_logika": "Huruf mabni (tetap) di atas sukun. Berfungsi menjarrkan isim setelahnya."
+      },
+      "hikmah": "Menunjukkan konteks atau lingkup pertolongan Allah, yaitu 'di dunia'.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "ٱلدُّنْيَا",
+      "transliterasi": "ad-dunyā",
+      "jenis_kata": "Isim",
+      "arti": "dunia, yang terdekat",
+      "sharaf": {
+        "akar_kata": "د ن و (D-N-W)",
+        "makna_dasar": "Dekat, rendah.",
+        "wazan_perubahan": "Isim Tafdhil muannats (bentuk superlatif feminin) dari akar kata د ن و."
+      },
+      "nahwu": {
+        "kedudukan": "Isim Majrur oleh Harf Jar 'fī'",
+        "irab_dan_logika": "Majrur (jar) dengan kasrah muqaddarah (tersembunyi) di atas alif maqsurah (ى) karena merupakan isim maqsur. Harakat tidak tampak karena sulit diucapkan."
+      },
+      "hikmah": "Merujuk pada kehidupan fana di bumi ini, sebagai lawan dari akhirat, menekankan bahwa pertolongan Allah mencakup dimensi kehidupan ini.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "وَٱلْءَاخِرَةِ",
+      "transliterasi": "wal-ākhirati",
+      "jenis_kata": "Huruf dan Isim",
+      "arti": "dan akhirat",
+      "sharaf": {
+        "akar_kata": "أ خ ر (A-KH-R) untuk الْآخِرَةِ. Wawu (و) adalah huruf.",
+        "makna_dasar": "Yang terakhir, yang kemudian.",
+        "wazan_perubahan": "Isim Fa'il muannats (bentuk partisip aktif feminin) dari akar kata أ خ ر."
+      },
+      "nahwu": {
+        "kedudukan": "Huruf 'athaf (penghubung) dan Isim Ma'thuf (kata yang dihubungkan)",
+        "irab_dan_logika": "Wawu (و) adalah huruf 'athaf mabni di atas fathah. الْآخِرَةِ adalah isim ma'thuf kepada ٱلدُّنْيَا, sehingga hukum i'rabnya sama, yaitu majrur dengan kasrah zhahirah (terlihat)."
+      },
+      "hikmah": "Menunjukkan dimensi kehidupan setelah dunia, menekankan bahwa pertolongan Allah mencakup kedua alam, dunia dan akhirat.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "فَلْيَمْدُدْ",
+      "transliterasi": "fal-yamdud",
+      "jenis_kata": "Huruf dan Fi'il",
+      "arti": "maka hendaklah ia merentangkan",
+      "sharaf": {
+        "akar_kata": "م د د (M-D-D)",
+        "makna_dasar": "Membentangkan, memanjangkan, membantu.",
+        "wazan_perubahan": "Fi'il Mudhari' Majzum (bentuk present/future yang disukunkan) dari Bab I (فَعَلَ - يَفْعُلُ)."
+      },
+      "nahwu": {
+        "kedudukan": "Fa'ul Jawab (fa' penanda jawaban/konsekuensi) dan Fi'il Mudhari' Majzum",
+        "irab_dan_logika": "Fa (ف) adalah huruf mabni di atas fathah. Lam (ل) adalah Lamul Amr (lam perintah) mabni di atas sukun. Yamdud (يَمْدُدْ) adalah Fi'il Mudhari' Majzum dengan sukun karena didahului oleh Lamul Amr."
+      },
+      "hikmah": "Merupakan perintah atau tantangan ironis bagi orang yang meragukan pertolongan Allah, menunjukkan upaya sia-sia untuk mengubah takdir Allah.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "بِسَبَبٍ",
+      "transliterasi": "bisababin",
+      "jenis_kata": "Huruf dan Isim",
+      "arti": "dengan tali, dengan sebab",
+      "sharaf": {
+        "akar_kata": "س ب ب (S-B-B)",
+        "makna_dasar": "Tali, sebab, jalan.",
+        "wazan_perubahan": "Isim (kata benda) dari akar kata tersebut."
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Jar (ba) dan Isim Majrur (sabab)",
+        "irab_dan_logika": "Ba (ب) adalah Harf Jar mabni di atas kasrah. Sababin (سَبَبٍ) adalah Isim Majrur dengan kasrah zhahirah dan tanwin karena nakirah (indefinit)."
+      },
+      "hikmah": "Dalam konteks ayat ini, 'tali' adalah makna harfiah yang paling relevan, merujuk pada alat untuk mencapai sesuatu (dalam hal ini, langit), namun secara metaforis juga bisa berarti 'sebab' atau 'cara'.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "إِلَى",
+      "transliterasi": "ilā",
+      "jenis_kata": "Huruf",
+      "arti": "ke, kepada, menuju",
+      "sharaf": {
+        "akar_kata": "Tidak ada",
+        "makna_dasar": "Menunjukkan arah, tujuan, atau batas akhir.",
+        "wazan_perubahan": "Tidak ada"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Jar",
+        "irab_dan_logika": "Huruf Jar yang menyebabkan isim setelahnya menjadi Majrur (berharakat kasrah atau yang setara)."
+      },
+      "hikmah": "Dalam konteks ayat ini, 'إِلَى' menunjukkan arah atau tujuan dari tindakan 'merentangkan tali' (حَبْلًا), yaitu menuju ke langit, yang secara metaforis menggambarkan usaha yang mustahil atau sia-sia.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "ٱلسَّمَآءِ",
+      "transliterasi": "as-samā'i",
+      "jenis_kata": "Isim",
+      "arti": "langit",
+      "sharaf": {
+        "akar_kata": "س م و (s-m-w)",
+        "makna_dasar": "Ketinggian, sesuatu yang berada di atas.",
+        "wazan_perubahan": "Isim (bentuk jamak: سَمَاوَاتٌ)"
+      },
+      "nahwu": {
+        "kedudukan": "Isim Majrur",
+        "irab_dan_logika": "Majrur karena didahului oleh Huruf Jar 'إِلَى'. Tanda jarnya adalah kasrah (ِ) di akhir. Alif Lam (ال) menunjukkan isim ma'rifah (spesifik)."
+      },
+      "hikmah": "Merujuk pada langit, yang merupakan simbol ketinggian dan sesuatu yang tidak terjangkau oleh manusia dengan usaha biasa. Ini menekankan kemustahilan dan kesia-siaan dari tindakan yang diusulkan dalam ayat tersebut untuk mengubah takdir Allah.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "ثُمَّ",
+      "transliterasi": "thumma",
+      "jenis_kata": "Huruf",
+      "arti": "kemudian, lalu",
+      "sharaf": {
+        "akar_kata": "Tidak ada",
+        "makna_dasar": "Menunjukkan urutan waktu dengan jeda.",
+        "wazan_perubahan": "Tidak ada"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Athaf (penghubung)",
+        "irab_dan_logika": "Huruf Athaf yang menghubungkan dua fi'il atau kalimat, menunjukkan urutan kejadian dengan jeda waktu. Tidak memiliki i'rab."
+      },
+      "hikmah": "Menghubungkan tindakan 'merentangkan tali' dengan tindakan selanjutnya 'memotongnya', menekankan urutan logis dari serangkaian tindakan yang sia-sia dan tidak akan menghasilkan apa-apa.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "لْيَقْطَعْ",
+      "transliterasi": "l-yaqṭaʿ",
+      "jenis_kata": "Fi'il",
+      "arti": "hendaklah ia memotong",
+      "sharaf": {
+        "akar_kata": "ق ط ع (q-ṭ-ʿ)",
+        "makna_dasar": "Memotong, memutuskan, mengakhiri.",
+        "wazan_perubahan": "Fi'il Mudhari' Majzum (dari قَطَعَ - yaqṭaʿu)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Majzum",
+        "irab_dan_logika": "Fi'il Mudhari' yang diawali oleh Lam Amr (لْ) yang berfungsi sebagai huruf Jazm, sehingga fi'ilnya menjadi Majzum. Tanda jazmnya adalah sukun (ْ) di akhir. Fa'il (pelaku) adalah dhamir mustatir (tersembunyi) تقديره هو (dia laki-laki)."
+      },
+      "hikmah": "Perintah ironis untuk 'memotong' tali setelah merentangkannya ke langit. Ini menyiratkan bahwa usaha tersebut akan berakhir dengan kegagalan dan keputusasaan, tidak akan mengubah takdir Allah atau menolong orang yang menentang-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "فَلْيَنظُرْ",
+      "transliterasi": "fal-yanẓur",
+      "jenis_kata": "Fi'il",
+      "arti": "maka hendaklah ia melihat/memikirkan",
+      "sharaf": {
+        "akar_kata": "ن ظ ر (n-ẓ-r)",
+        "makna_dasar": "Melihat, memperhatikan, merenungkan, memikirkan.",
+        "wazan_perubahan": "Fi'il Mudhari' Majzum (dari نَظَرَ - yanẓuru)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Majzum",
+        "irab_dan_logika": "Fi'il Mudhari' yang diawali oleh Fa' Athaf (فَ) dan Lam Amr (لْ) yang berfungsi sebagai huruf Jazm, sehingga fi'ilnya menjadi Majzum. Tanda jazmnya adalah sukun (ْ) di akhir. Fa'il (pelaku) adalah dhamir mustatir (tersembunyi) تقديره هو (dia laki-laki)."
+      },
+      "hikmah": "Perintah untuk 'memikirkan' atau 'melihat' hasil dari tindakan sia-sia tersebut. Ini adalah puncak dari ironi, menantang orang tersebut untuk mengakui bahwa usahanya tidak akan mengubah keputusan Allah atau menghilangkan penderitaan hatinya.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "هَلْ",
+      "transliterasi": "hal",
+      "jenis_kata": "Huruf",
+      "arti": "apakah",
+      "sharaf": {
+        "akar_kata": "Tidak ada",
+        "makna_dasar": "Menanyakan, menginterogasi.",
+        "wazan_perubahan": "Tidak ada"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Istifham (kata tanya)",
+        "irab_dan_logika": "Huruf Istifham yang tidak memiliki i'rab dan tidak mempengaruhi i'rab kata setelahnya. Digunakan untuk mengajukan pertanyaan yang jawabannya bisa 'ya' atau 'tidak', seringkali dalam konteks retoris."
+      },
+      "hikmah": "Memulai pertanyaan retoris yang menekankan kesia-siaan dan ketidakmampuan manusia untuk mengubah takdir Allah dengan usahanya sendiri, terutama jika ia menentang kehendak-Nya. Pertanyaan ini menyiratkan jawaban 'tidak', yaitu tipu dayanya tidak akan melenyapkan apa yang menyakitkan hatinya.",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "يُذْهِبَنَّ",
+      "transliterasi": "yudh-hi-ban-na",
+      "jenis_kata": "Fi'il",
+      "arti": "niscaya akan menghilangkan/melenyapkan",
+      "sharaf": {
+        "akar_kata": "ذ ه ب",
+        "makna_dasar": "pergi, berlalu, menghilangkan",
+        "wazan_perubahan": "Fi'il Mudhari' (kata kerja sekarang/akan datang) dari Bab IV (أَفْعَلَ - يُفْعِلُ), dengan nun taukid tsaqilah (نَّ) yang menunjukkan penekanan dan kepastian. Bentuk asalnya adalah يُذْهِبُ."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Mabni",
+        "irab_dan_logika": "Mabni 'ala al-fath (mabni atas fathah) karena bersambung langsung dengan nun taukid tsaqilah. Nun taukid tsaqilah memberikan makna penekanan yang kuat, menunjukkan kepastian tindakan."
+      },
+      "hikmah": "Menekankan kepastian bahwa tipu daya tersebut pasti akan menghilangkan atau melenyapkan apa yang menyakitkan hati, menunjukkan hasil akhir yang diharapkan dari tindakan yang sia-sia tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "كَيْدُهُۥ",
+      "transliterasi": "kai-du-hu",
+      "jenis_kata": "Isim",
+      "arti": "tipu dayanya",
+      "sharaf": {
+        "akar_kata": "ك ي د",
+        "makna_dasar": "tipu daya, rencana jahat, muslihat",
+        "wazan_perubahan": "Isim Masdar (kata benda verbal) dari Fi'il Tsulatsi Mujarrad (كاد - يكيد). Ditambah dengan dhamir muttashil هُۥ (hu) yang berarti 'nya'."
+      },
+      "nahwu": {
+        "kedudukan": "Fa'il (subjek)",
+        "irab_dan_logika": "Marfu' (rafa') dengan dhammah (ضمة) yang tampak pada huruf dal (د), karena ia adalah fa'il dari fi'il يُذْهِبَنَّ. Dhamir هُۥ (hu) adalah mudhaf ilaih (kepemilikan) dan mabni 'ala ad-dhamm (mabni atas dhammah) pada posisi jar."
+      },
+      "hikmah": "Merujuk pada rencana atau muslihat yang dilakukan oleh orang yang tidak percaya bahwa Allah akan menolong Nabi Muhammad. Ini adalah inti dari tindakan sia-sia yang dipertanyakan efektivitasnya.",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "مَا",
+      "transliterasi": "maa",
+      "jenis_kata": "Isim Maushul",
+      "arti": "apa yang, sesuatu yang",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Menunjukkan sesuatu yang tidak spesifik atau umum, berfungsi sebagai penghubung.",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul Bih (objek)",
+        "irab_dan_logika": "Mabni 'ala as-sukun (mabni atas sukun) pada posisi nashab (manshub) sebagai maf'ul bih dari fi'il يُذْهِبَنَّ. Kalimat setelahnya (يَغِيظُ) adalah shilah al-maushul (kalimat penghubung) yang menjelaskan 'apa yang'."
+      },
+      "hikmah": "Berfungsi sebagai penunjuk objek yang akan dihilangkan oleh tipu daya tersebut, yaitu 'apa pun' atau 'segala sesuatu' yang menyakitkan hati orang yang melakukan tipu daya tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "يَغِيظُ",
+      "transliterasi": "ya-ghii-zhu",
+      "jenis_kata": "Fi'il",
+      "arti": "menyakitkan hati, membuat marah, menjengkelkan",
+      "sharaf": {
+        "akar_kata": "غ ي ظ",
+        "makna_dasar": "marah, jengkel, sakit hati",
+        "wazan_perubahan": "Fi'il Mudhari' (kata kerja sekarang/akan datang) dari Bab I (فَعَلَ - يَفْعِلُ atau يَفْعُلُ). Bentuk asalnya غَاظَ - يَغِيظُ."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Marfu'",
+        "irab_dan_logika": "Marfu' (rafa') dengan dhammah (ضمة) yang tampak pada huruf zha (ظ), karena tidak didahului oleh amil nashab (penashab) atau amil jazm (penjazm). Ia merupakan shilah al-maushul (kalimat penghubung) bagi isim maushul 'مَا'. Fa'ilnya adalah dhamir mustatir (tersembunyi) takdiruhu هو (huwa) yang kembali kepada 'مَا'."
+      },
+      "hikmah": "Menggambarkan perasaan sakit hati, kemarahan, atau kejengkelan yang dirasakan oleh orang yang tidak percaya tersebut, yang menjadi target dari upaya tipu dayanya untuk dihilangkan. Ini adalah emosi negatif yang ingin ia lenyapkan.",
+      "role": "none"
+    }
+  ]
+}
