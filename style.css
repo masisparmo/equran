@@ -1692,6 +1692,39 @@ select {
 }
 
 /* Quiz CSS */
+#quiz-setup-view {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#quiz-setup-view > p,
+#quiz-setup-view > h2 {
+    align-self: flex-start;
+    width: 100%;
+}
+
+.quiz-setup-form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    width: 100%;
+    max-width: 500px;
+    margin: 0 auto 30px auto;
+    text-align: left;
+}
+
+.quiz-input {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 12px;
+    border-radius: 6px;
+    border: 1px solid var(--border-color);
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    font-size: 1rem;
+}
+
 .quiz-option-btn {
     display: block;
     width: 100%;
