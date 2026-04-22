@@ -740,8 +740,8 @@ async function fetchMushafPage(pageNumber) {
         let surahExistsOnPage = false;
 
         if (currentSelectedSurah && !isNaN(currentSelectedSurah)) {
-            for (let i = 0; i < tajweedData.data.ayahs.length; i++) {
-                if (tajweedData.data.ayahs[i].surah.number === currentSelectedSurah) {
+            for (let i = 0; i < ayahs.length; i++) {
+                if (ayahs[i].surah.number === currentSelectedSurah) {
                     surahExistsOnPage = true;
                     break;
                 }
