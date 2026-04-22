@@ -98,7 +98,26 @@ let currentTafsirSurahData = null; // Cache for current surah tafsir
 let currentTafsirSurahSource = null; // Cache source tracking
 
 // --- API Variables ---
-const quranApiBaseUrl = 'https://api.alquran.cloud/v1';
+
+
+let offlineQuranData = null;
+
+async function getOfflineQuranData() {
+    if (offlineQuranData) return offlineQuranData;
+    const res = await fetch('equran-data/quran_offline.json');
+    offlineQuranData = await res.json();
+    return offlineQuranData;
+}
+
+function padNumber(num) {
+    return num.toString().padStart(3, '0');
+}
+
+function getAudioUrl(surahNumber, ayahNumber) {
+    // EveryAyah uses 3 digits for surah and 3 digits for ayah
+    return `https://everyayah.com/data/Alafasy_128kbps/${padNumber(surahNumber)}${padNumber(ayahNumber)}.mp3`;
+}
+
 const gasBackendUrl = 'https://script.google.com/macros/s/AKfycbz6LH6bOoAYpzqtS91sn-g_ZHH-WJZvg_1eK4lBg4Vqvly9iTe8SPIxMSRQ-5Ox4vt6SA/exec';
 const githubDataUrl = './equran-data';
 let surahsData = [];
@@ -616,15 +635,23 @@ function populateMushafAyahSelect(surahNumber) {
 }
 
 async function loadMushafByJuz(juz) {
-    // We need to know which page a Juz starts on.
-    // The easiest way is to hit the Juz API and get the first ayah's page.
     showLoading();
     try {
-        const response = await fetch(`${quranApiBaseUrl}/juz/${juz}/en.asad`);
-        const data = await response.json();
-        const page = data.data.ayahs[0].page;
-        mushafPageInput.value = page;
-        fetchMushafPage(page);
+        const data = await getOfflineQuranData();
+        let page = null;
+        for (let s of data.surahs) {
+            for (let a of s.ayahs) {
+                if (a.juz == juz) {
+                    page = a.page;
+                    break;
+                }
+            }
+            if (page) break;
+        }
+        if (page) {
+            mushafPageInput.value = page;
+            fetchMushafPage(page);
+        }
     } catch(e) {
         console.error(e);
     } finally {
@@ -638,12 +665,12 @@ async function loadMushafBySurah(surah) {
 }
 
 async function loadMushafByAyah(surah, ayah) {
-    // Get the page of this specific ayah
     showLoading();
     try {
-        const response = await fetch(`${quranApiBaseUrl}/ayah/${surah}:${ayah}`);
-        const data = await response.json();
-        const page = data.data.page;
+        const data = await getOfflineQuranData();
+        const sData = data.surahs.find(s => s.number == surah);
+        const aData = sData.ayahs.find(a => a.numberInSurah == ayah);
+        const page = aData.page;
         mushafPageInput.value = page;
 
         mushafSurahSelect.value = surah;
@@ -671,24 +698,38 @@ function changeMushafPage(direction) {
 async function fetchMushafPage(pageNumber) {
     showLoading();
     try {
-        const [tajweedRes, translationRes] = await Promise.all([
-            fetch(`${quranApiBaseUrl}/page/${pageNumber}/quran-uthmani`),
-            fetch(`${quranApiBaseUrl}/page/${pageNumber}/id.indonesian`)
-        ]);
+        const data = await getOfflineQuranData();
+        const ayahs = [];
+        const translations = [];
 
-        const tajweedData = await tajweedRes.json();
-        const translationData = await translationRes.json();
+        for (let s of data.surahs) {
+            for (let a of s.ayahs) {
+                if (a.page == pageNumber) {
+                    ayahs.push({
+                        surah: s,
+                        numberInSurah: a.numberInSurah,
+                        text: a.text,
+                        sajda: a.sajda,
+                        number: a.number,
+                        juz: a.juz
+                    });
+                    translations.push({
+                        text: a.translation
+                    });
+                }
+            }
+        }
 
         // Update info text
         mushafPageInfo.textContent = `Halaman ${pageNumber}`;
 
         // Save current page data for toggle re-rendering
-        currentMushafData.ayahs = tajweedData.data.ayahs;
-        currentMushafData.translations = translationData.data.ayahs;
+        currentMushafData.ayahs = ayahs;
+        currentMushafData.translations = translations;
         currentMushafData.page = pageNumber;
 
         // Update input values to match current page's first ayah
-        const firstAyah = tajweedData.data.ayahs[0];
+        const firstAyah = ayahs[0];
         mushafJuzInput.value = firstAyah.juz;
         mushafPageInput.value = pageNumber;
 
@@ -850,20 +891,28 @@ async function initQuranSearchData() {
             return;
         }
 
-        // Fetch Arabic text
-        const arResponse = await fetch(`${quranApiBaseUrl}/quran/quran-uthmani`);
-        if (!arResponse.ok) return;
-        const arData = await arResponse.json();
+        const data = await getOfflineQuranData();
 
-        // Fetch Indonesian translation
-        const idResponse = await fetch(`${quranApiBaseUrl}/quran/id.indonesian`);
-        if (!idResponse.ok) return;
-        const idData = await idResponse.json();
+        const arSurahs = [];
+        const idSurahs = [];
 
-        if (arData.data && idData.data) {
+        for (let s of data.surahs) {
+            arSurahs.push({
+                number: s.number,
+                name: s.name,
+                englishName: s.englishName,
+                ayahs: s.ayahs.map(a => ({ numberInSurah: a.numberInSurah, text: a.text, number: a.number }))
+            });
+            idSurahs.push({
+                number: s.number,
+                ayahs: s.ayahs.map(a => ({ numberInSurah: a.numberInSurah, text: a.translation, number: a.number }))
+            });
+        }
+
+        if (arSurahs.length > 0) {
             fullQuranDataCache = {
-                arabic: arData.data.surahs,
-                translation: idData.data.surahs
+                arabic: arSurahs,
+                translation: idSurahs
             };
             await localforage.setItem('quran_search_data_v3', fullQuranDataCache);
         }
@@ -1174,14 +1223,19 @@ async function loadAsbabunNuzulIndex() {
 }
 
 async function fetchSurahs() {
-
     const surahSelect = document.getElementById('surah-select');
     showLoading();
     try {
-        const response = await fetch(`${quranApiBaseUrl}/surah`);
-        const data = await response.json();
-        if (data.code === 200) {
-            surahsData = data.data;
+        const data = await getOfflineQuranData();
+        if (data && data.surahs) {
+            surahsData = data.surahs.map(s => ({
+                number: s.number,
+                name: s.name,
+                englishName: s.englishName,
+                englishNameTranslation: s.englishNameTranslation,
+                numberOfAyahs: s.numberOfAyahs,
+                revelationType: s.revelationType
+            }));
             populateSurahSelect();
         } else {
             throw new Error("Failed to load surahs");
@@ -1218,20 +1272,29 @@ async function handleSurahChange(e) {
 
     showLoading();
     try {
-        // Fetch Arabic text (Using quran-uthmani to ensure consistent grammatical word spacing like Mushaf mode)
-        const arResponse = await fetch(`${quranApiBaseUrl}/surah/${surahNumber}/quran-uthmani`);
-        const arData = await arResponse.json();
-        currentSurahData = arData.data;
+        const data = await getOfflineQuranData();
+        const sData = data.surahs.find(s => s.number == surahNumber);
 
-        // Fetch Indonesian Translation
-        const idResponse = await fetch(`${quranApiBaseUrl}/surah/${surahNumber}/id.indonesian`);
-        const idData = await idResponse.json();
-        currentAyahsIndo = idData.data.ayahs;
+        currentSurahData = {
+            number: sData.number,
+            name: sData.name,
+            englishName: sData.englishName,
+            ayahs: sData.ayahs.map(a => ({
+                numberInSurah: a.numberInSurah,
+                text: a.text,
+                sajda: a.sajda,
+                number: a.number
+            }))
+        };
 
-        // Fetch Audio (Alafasy)
-        const audioResponse = await fetch(`${quranApiBaseUrl}/surah/${surahNumber}/ar.alafasy`);
-        const audioData = await audioResponse.json();
-        currentAudioUrls = audioData.data.ayahs;
+        currentAyahsIndo = sData.ayahs.map(a => ({
+            numberInSurah: a.numberInSurah,
+            text: a.translation
+        }));
+
+        currentAudioUrls = sData.ayahs.map(a => ({
+            audio: getAudioUrl(surahNumber, a.numberInSurah)
+        }));
 
         populateAyahSelect(currentSurahData.ayahs.length);
 
@@ -3596,31 +3659,23 @@ async function startQuiz() {
 }
 
 async function fetchRandomAyahData() {
-    // 1. Get random surah (1-114)
+    const data = await getOfflineQuranData();
     const surahNum = Math.floor(Math.random() * 114) + 1;
 
-    // 2. Fetch surah details to get number of ayahs
-    const surahMetaRes = await fetch(`https://api.alquran.cloud/v1/surah/${surahNum}`);
-    const surahMetaData = await surahMetaRes.json();
-    const totalAyahs = surahMetaData.data.numberOfAyahs;
-    const surahName = surahMetaData.data.englishName;
+    const sData = data.surahs.find(s => s.number == surahNum);
+    const totalAyahs = sData.numberOfAyahs;
+    const surahName = sData.englishName;
 
-    // 3. Get random ayah
     const ayahNum = Math.floor(Math.random() * totalAyahs) + 1;
 
-    // 4. Fetch ayah text and translation
-    const textRes = await fetch(`https://api.alquran.cloud/v1/ayah/${surahNum}:${ayahNum}/quran-uthmani`);
-    const textData = await textRes.json();
-
-    const transRes = await fetch(`https://api.alquran.cloud/v1/ayah/${surahNum}:${ayahNum}/id.indonesian`);
-    const transData = await transRes.json();
+    const aData = sData.ayahs.find(a => a.numberInSurah == ayahNum);
 
     return {
         surahNum,
         surahName,
         ayahNum,
-        text: textData.data.text,
-        translation: transData.data.text
+        text: aData.text,
+        translation: aData.translation
     };
 }
 
