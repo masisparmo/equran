@@ -4,20 +4,20 @@
   "words": [
     {
       "index": 0,
-      "kata_arab": "ٱقْرَأْ",
+      "kata_arab": "ٱقۡرَأۡ",
       "transliterasi": "Iqra'",
       "jenis_kata": "Fi'il",
       "arti": "Bacalah!",
       "sharaf": {
         "akar_kata": "ق ر أ",
-        "makna_dasar": "Membaca, mengumpulkan, mengkaji.",
-        "wazan_perubahan": "Fi'il Amr (perintah) dari Fi'il Madhi قَرَأَ (qara'a) - Wazan فَعَلَ (fa'ala)"
+        "makna_dasar": "Membaca, mengumpulkan, menghimpun.",
+        "wazan_perubahan": "Fi'il Amr dari Fi'il Madhi قَرَأَ (qara'a) - Fi'il Mudhari' يَقْرَأُ (yaqra'u). Berwazan Fa'ala-Yaf'alu."
       },
       "nahwu": {
-        "kedudukan": "Fi'il Amr",
-        "irab_dan_logika": "Mabni sukun karena fi'il amr shahih akhir. Fa'ilnya mustatir (tersembunyi) تقديره أنت (anta - kamu)."
+        "kedudukan": "Fi'il Amr, fa'ilnya (pelaku) adalah dhamir mustatir (tersembunyi) تقديره أنت (anta - kamu), yang kembali kepada setiap individu.",
+        "irab_dan_logika": "Mabni 'ala sukun (dibangun di atas sukun) karena merupakan Fi'il Amr shahih akhir yang tidak bersambung dengan sesuatu. Hamzah washal di awal untuk memudahkan pengucapan."
       },
-      "hikmah": "Perintah untuk membaca dan merenungkan catatan amal, menunjukkan pentingnya kesadaran diri dan pertanggungjawaban atas apa yang telah dilakukan.",
+      "hikmah": "Perintah untuk membaca dan menelaah catatan amal perbuatan diri sendiri, menunjukkan bahwa setiap individu akan bertanggung jawab penuh atas tindakannya. Ini adalah momen introspeksi dan pertanggungjawaban di Hari Kiamat.",
       "role": "none"
     },
     {
@@ -29,13 +29,13 @@
       "sharaf": {
         "akar_kata": "ك ت ب",
         "makna_dasar": "Menulis, mencatat, mewajibkan.",
-        "wazan_perubahan": "Isim dari akar kata, ditambah dhomir كَ (ka) sebagai mudhaf ilaih."
+        "wazan_perubahan": "Isim dari akar kata. Kitāb (كتاب) adalah isim mashdar yang bermakna catatan. Ditambah dhamir muttashil كَ (ka) yang berarti 'mu' (milikmu)."
       },
       "nahwu": {
-        "kedudukan": "Maf'ul Bih (objek)",
-        "irab_dan_logika": "Manshub (berharakat fathah) karena maf'ul bih dari fi'il 'iqra'. Tanda nashabnya fathah. كَ (ka) adalah dhomir muttashil mabni fathah, dalam kedudukan jar sebagai mudhaf ilaih."
+        "kedudukan": "Maf'ul bih (objek) dari fi'il 'ٱقۡرَأۡ'.",
+        "irab_dan_logika": "Manshub (dinashabkan) dengan fathah karena merupakan maf'ul bih. Huruf كَ (ka) adalah dhamir muttashil majrur bil idhafah (dhamir yang bersambung dan berkedudukan sebagai mudhaf ilaih) yang menunjukkan kepemilikan."
       },
-      "hikmah": "Merujuk pada catatan amal setiap individu yang akan dihadapkan kepadanya pada hari perhitungan, menekankan keadilan ilahi dan pencatatan yang sempurna atas segala perbuatan.",
+      "hikmah": "Merujuk pada catatan amal perbuatan setiap individu yang telah dicatat oleh malaikat Raqib dan Atid. Ini menegaskan keadilan Allah, di mana setiap perbuatan, baik atau buruk, tidak akan luput dari pencatatan.",
       "role": "none"
     },
     {
@@ -46,86 +46,86 @@
       "arti": "Cukuplah",
       "sharaf": {
         "akar_kata": "ك ف ي",
-        "makna_dasar": "Mencukupi, memadai.",
-        "wazan_perubahan": "Fi'il Madhi (lampau) dari Wazan فَعَلَ (fa'ala) dengan huruf illat di akhir."
+        "makna_dasar": "Mencukupi, memadai, memenuhi.",
+        "wazan_perubahan": "Fi'il Madhi dari wazan Fa'ala (فَعَلَ), termasuk fi'il naqis (huruf illat di akhir)."
       },
       "nahwu": {
-        "kedudukan": "Fi'il Madhi",
-        "irab_dan_logika": "Mabni fathah muqaddarah (tersembunyi) di atas alif karena huruf illat."
+        "kedudukan": "Fi'il Madhi.",
+        "irab_dan_logika": "Mabni 'ala fathah muqaddarah 'ala alif (dibangun di atas fathah yang diperkirakan pada alif) karena merupakan fi'il madhi mu'tal akhir (berakhir dengan huruf illat alif)."
       },
-      "hikmah": "Menunjukkan bahwa pada hari perhitungan, tidak ada lagi kebutuhan akan saksi eksternal karena bukti dari diri sendiri sudah cukup dan tidak dapat dibantah.",
+      "hikmah": "Menunjukkan bahwa tidak ada lagi kebutuhan akan saksi lain atau bukti tambahan. Catatan amal dan kesaksian diri sendiri sudah lebih dari cukup untuk menentukan nasib seseorang. Ini menekankan kesempurnaan keadilan ilahi.",
       "role": "none"
     },
     {
       "index": 3,
-      "kata_arab": "بِنَفْسِكَ",
+      "kata_arab": "بِنَفۡسِكَ",
       "transliterasi": "Binafsika",
-      "jenis_kata": "Isim + Huruf Jar",
+      "jenis_kata": "Isim",
       "arti": "Dengan dirimu sendiri",
       "sharaf": {
         "akar_kata": "ن ف س",
-        "makna_dasar": "Diri, jiwa, nafas.",
-        "wazan_perubahan": "Isim, ditambah dhomir كَ (ka) sebagai mudhaf ilaih. Huruf ب (bi) adalah huruf jar."
+        "makna_dasar": "Jiwa, diri, nafas.",
+        "wazan_perubahan": "Isim (nafsun - نفس). Ditambah dhamir muttashil كَ (ka) yang berarti 'mu' (milikmu). Huruf ب (bi) adalah huruf jar."
       },
       "nahwu": {
-        "kedudukan": "Majrur oleh huruf jar ب (bi), secara makna sebagai Fa'il",
-        "irab_dan_logika": "نَفْسِ (nafsi) adalah isim majrur dengan huruf jar ب (bi), tanda jarnya kasrah. Secara makna, ia adalah fa'il dari كَفَىٰ, sehingga dikatakan fa'il majrur lafdzan marfu' mahalan. Huruf ب (bi) di sini adalah zaidah (tambahan) untuk penekanan. كَ (ka) adalah dhomir muttashil mabni fathah, dalam kedudukan jar sebagai mudhaf ilaih."
+        "kedudukan": "Jar Majrur (huruf jar dan isim yang di-jar-kan). Dalam konteks ini, berfungsi sebagai fa'il (pelaku) dari fi'il 'كَفَىٰ' secara maknawi, atau lebih tepatnya, sebagai fa'il lafzhiy (fa'il secara lafazh) yang di-jar-kan secara tambahan (zaidah) untuk penekanan.",
+        "irab_dan_logika": "Huruf ب (bi) adalah huruf jar zaidah (tambahan untuk penekanan). نَفْسِ (nafsi) adalah isim majrur secara lafazh dengan kasrah karena didahului huruf jar, namun marfu' secara mahal (kedudukan) sebagai fa'il. كَ (ka) adalah dhamir muttashil majrur bil idhafah."
       },
-      "hikmah": "Menekankan bahwa diri sendiri adalah saksi dan penghisab yang paling jujur dan tidak bisa dibantah, menunjukkan pertanggungjawaban pribadi yang mutlak dan tidak dapat diwakilkan.",
+      "hikmah": "Menegaskan bahwa diri sendiri adalah saksi dan penghitung yang paling akurat dan tidak bisa dibantah. Ini menyoroti akuntabilitas pribadi yang mutlak di hadapan Allah.",
       "role": "none"
     },
     {
       "index": 4,
-      "kata_arab": "ٱلْيَوْمَ",
+      "kata_arab": "ٱلۡيَوۡمَ",
       "transliterasi": "Al-Yawma",
       "jenis_kata": "Isim",
       "arti": "Hari ini",
       "sharaf": {
         "akar_kata": "ي و م",
         "makna_dasar": "Hari, waktu.",
-        "wazan_perubahan": "Isim zaman (kata benda penunjuk waktu)."
+        "wazan_perubahan": "Isim zaman (kata benda yang menunjukkan waktu)."
       },
       "nahwu": {
-        "kedudukan": "Zharf Zaman (keterangan waktu)",
-        "irab_dan_logika": "Manshub (berharakat fathah) karena zharf zaman."
+        "kedudukan": "Zharf zaman (keterangan waktu), manshub.",
+        "irab_dan_logika": "Manshub (dinashabkan) dengan fathah karena merupakan zharf zaman. Alif lam (ال) adalah alif lam ta'rif (untuk mendefinisikan)."
       },
-      "hikmah": "Menunjukkan kekhususan waktu perhitungan amal, yaitu pada hari kiamat, di mana kebenaran akan terungkap tanpa keraguan dan setiap jiwa akan menerima balasan atas perbuatannya.",
+      "hikmah": "Merujuk secara spesifik pada Hari Kiamat, hari perhitungan amal. Ini menekankan urgensi dan kepastian hari tersebut, di mana setiap orang akan menghadapi konsekuensi perbuatannya.",
       "role": "none"
     },
     {
       "index": 5,
-      "kata_arab": "عَلَيْكَ",
-      "transliterasi": "ʿAlayka",
-      "jenis_kata": "Huruf Jar + Dhomir",
+      "kata_arab": "عَلَيۡكَ",
+      "transliterasi": "Alayka",
+      "jenis_kata": "Huruf",
       "arti": "Atasmu / Terhadapmu",
       "sharaf": {
         "akar_kata": "ع ل و",
-        "makna_dasar": "Di atas, terhadap, wajib.",
-        "wazan_perubahan": "Huruf jar عَلَىٰ (ala) bergabung dengan dhomir كَ (ka)."
+        "makna_dasar": "Tinggi, di atas (untuk 'ala).",
+        "wazan_perubahan": "Huruf jar 'ala (على) + dhamir muttashil كَ (ka)."
       },
       "nahwu": {
-        "kedudukan": "Jar Majrur",
-        "irab_dan_logika": "عَلَىٰ (ala) adalah huruf jar mabni sukun. كَ (ka) adalah dhomir muttashil mabni fathah, dalam kedudukan jar sebagai isim majrur. Jar majrur ini muta'alliq (terkait) dengan makna 'penghisab' yang tersirat dalam ayat."
+        "kedudukan": "Jar Majrur (huruf jar dan isim yang di-jar-kan). Berfungsi sebagai muta'alliq (terkait) dengan makna 'penghitung' atau 'saksi'.",
+        "irab_dan_logika": "عَلَىٰ (ala) adalah huruf jar, mabni 'ala sukun. كَ (ka) adalah dhamir muttashil, mabni 'ala fathah, fi mahalli jarr (dalam kedudukan jar) karena didahului huruf jar."
       },
-      "hikmah": "Menegaskan bahwa perhitungan dan pertanggungjawaban itu secara langsung dan pribadi ditujukan kepada individu tersebut, tidak ada yang dapat menghindar dari konsekuensi amal perbuatannya.",
+      "hikmah": "Menekankan bahwa kesaksian atau perhitungan itu adalah 'atas' atau 'terhadap' diri sendiri, menunjukkan bahwa hasil perhitungan itu akan berlaku langsung pada individu tersebut, tanpa perantara atau pengalihan tanggung jawab.",
       "role": "none"
     },
     {
       "index": 6,
-      "kata_arab": "حَسِيبًۭا",
+      "kata_arab": "حَسِيبࣰ",
       "transliterasi": "ḥasīban",
       "jenis_kata": "Isim",
-      "arti": "penghisab, yang menghitung, yang mencukupi",
+      "arti": "penghitung, penilai, yang mencukupi",
       "sharaf": {
-        "akar_kata": "ح س ب (ḥ-s-b)",
-        "makna_dasar": "menghitung, mencukupi, mengira, mempertimbangkan",
-        "wazan_perubahan": "فَعِيل (fa'īl), menunjukkan sifat yang melekat (ṣifat mushabbahah) atau intensitas (mubalaghah)"
+        "akar_kata": "ح س ب (H-S-B)",
+        "makna_dasar": "menghitung, mencukupi, mengira",
+        "wazan_perubahan": "فَعِيل (fa'īl)"
       },
       "nahwu": {
         "kedudukan": "Tamyiz (penjelas)",
-        "irab_dan_logika": "Mansub (berharakat fathah tanwin) karena kedudukannya sebagai tamyiz yang menjelaskan aspek kecukupan atau fungsi dari 'dirimu sendiri' (nafsika)."
+        "irab_dan_logika": "Mansub (berharakat fathah tanwin) karena berfungsi sebagai tamyiz (penjelas) bagi fa'il 'نفسك' (dirimu sendiri) dalam kalimat 'كفى بنفسك اليوم عليك حسيبا' (cukuplah dirimu sendiri pada hari ini sebagai penghitung atas amalmu)."
       },
-      "hikmah": "Kata 'ḥasīban' dalam ayat ini menegaskan bahwa pada hari perhitungan, setiap individu akan menjadi saksi dan penghisab bagi dirinya sendiri. Ini menunjukkan keadilan mutlak Allah dan tanggung jawab penuh setiap jiwa atas perbuatannya. Tidak ada yang bisa mengelak atau menyalahkan orang lain, karena catatan amal perbuatan sudah lengkap dan diri sendiri adalah bukti yang paling akurat dan cukup.",
+      "hikmah": "Kata ini menekankan bahwa setiap individu akan menjadi saksi dan penilai atas perbuatannya sendiri di hari perhitungan, menunjukkan keadilan mutlak dan tanggung jawab pribadi yang tidak dapat diwakilkan.",
       "role": "none"
     }
   ]
