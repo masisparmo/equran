@@ -130,24 +130,6 @@
     },
     {
       "index": 7,
-      "kata_arab": "ۚ",
-      "transliterasi": "-",
-      "jenis_kata": "Tanda baca",
-      "arti": "Tanda waqaf lazim (harus berhenti)",
-      "sharaf": {
-        "akar_kata": "-",
-        "makna_dasar": "-",
-        "wazan_perubahan": "-"
-      },
-      "nahwu": {
-        "kedudukan": "Tanda waqaf.",
-        "irab_dan_logika": "Tidak memiliki i'rab karena bukan bagian dari struktur gramatikal kalimat."
-      },
-      "hikmah": "Tanda ini menunjukkan akhir dari satu bagian makna dan awal bagian makna baru, memisahkan perintah memberi tangguh dengan anjuran bersedekah.",
-      "role": "none"
-    },
-    {
-      "index": 8,
       "kata_arab": "وَأَن",
       "transliterasi": "Wa an",
       "jenis_kata": "Huruf",
@@ -165,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 8,
       "kata_arab": "تَصَدَّقُوا۟",
       "transliterasi": "Tasaddaqu",
       "jenis_kata": "Fi'il",
@@ -183,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 9,
       "kata_arab": "خَيْرٌۭ",
       "transliterasi": "Khayrun",
       "jenis_kata": "Isim",
@@ -201,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 10,
       "kata_arab": "لَّكُمْ",
       "transliterasi": "Lakum",
       "jenis_kata": "Huruf + Dhamir",
@@ -219,25 +201,7 @@
       "role": "none"
     },
     {
-      "index": 12,
-      "kata_arab": "ۖ",
-      "transliterasi": "Waqf Laazim",
-      "jenis_kata": "Tanda Waqf (Pemberhentian)",
-      "arti": "Tanda berhenti wajib",
-      "sharaf": {
-        "akar_kata": "Tidak berlaku",
-        "makna_dasar": "Tidak berlaku",
-        "wazan_perubahan": "Tidak berlaku"
-      },
-      "nahwu": {
-        "kedudukan": "Tanda baca Al-Qur'an",
-        "irab_dan_logika": "Tidak memiliki kedudukan i'rab karena bukan bagian dari struktur gramatikal kalimat."
-      },
-      "hikmah": "Tanda waqf laazim (ۖ) menunjukkan bahwa berhenti pada titik ini adalah wajib atau sangat dianjurkan. Melanjutkan bacaan tanpa berhenti dapat mengubah makna atau menyebabkan kesalahpahaman. Dalam konteks ayat ini, ia menandai akhir dari satu bagian makna yang penting sebelum melanjutkan ke bagian berikutnya yang memberikan anjuran kebaikan.",
-      "role": "none"
-    },
-    {
-      "index": 13,
+      "index": 11,
       "kata_arab": "إِن",
       "transliterasi": "in",
       "jenis_kata": "Huruf",
@@ -255,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 12,
       "kata_arab": "كُنتُمْ",
       "transliterasi": "kuntum",
       "jenis_kata": "Fi'il",
@@ -273,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 13,
       "kata_arab": "تَعْلَمُونَ",
       "transliterasi": "ta'lamūna",
       "jenis_kata": "Fi'il",

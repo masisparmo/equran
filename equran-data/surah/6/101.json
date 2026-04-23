@@ -58,24 +58,6 @@
     },
     {
       "index": 3,
-      "kata_arab": "ۖ",
-      "transliterasi": "(tanda koma)",
-      "jenis_kata": "Huruf (tanda waqf)",
-      "arti": "tanda jeda/komma",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "pemisah antar frasa",
-        "irab_dan_logika": "tidak memiliki i‘rāb, berfungsi memberi jeda untuk memperjelas makna"
-      },
-      "hikmah": "",
-      "role": "none"
-    },
-    {
-      "index": 6,
       "kata_arab": "لَهُۥ",
       "transliterasi": "lahu",
       "jenis_kata": "Huruf",
@@ -93,7 +75,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 4,
       "kata_arab": "وَلَدٌۭ",
       "transliterasi": "waladun",
       "jenis_kata": "Isim",
@@ -111,7 +93,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 5,
       "kata_arab": "وَلَمْ",
       "transliterasi": "wa lam",
       "jenis_kata": "Huruf",
@@ -129,7 +111,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 6,
       "kata_arab": "تَكُن",
       "transliterasi": "takun",
       "jenis_kata": "Fi'il",
@@ -147,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 7,
       "kata_arab": "لَّهُۥ",
       "transliterasi": "lahu",
       "jenis_kata": "Huruf",
@@ -165,25 +147,7 @@
       "role": "none"
     },
     {
-      "index": 12,
-      "kata_arab": "ۖ",
-      "transliterasi": "",
-      "jenis_kata": "Huruf (tanda baca)",
-      "arti": "tanda waqaf (pause)",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "tanda baca, memisahkan bagian ayat",
-        "irab_dan_logika": "menandakan jeda, tidak memiliki i'rab"
-      },
-      "hikmah": "menunjukkan jeda untuk memperjelas pemahaman",
-      "role": "none"
-    },
-    {
-      "index": 13,
+      "index": 8,
       "kata_arab": "وَخَلَقَ",
       "transliterasi": "wa-khalaqa",
       "jenis_kata": "Fi'il",
@@ -201,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 9,
       "kata_arab": "كُلَّ",
       "transliterasi": "kulla",
       "jenis_kata": "Isim",
@@ -219,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 10,
       "kata_arab": "شَىْءٍۢ",
       "transliterasi": "shai'in",
       "jenis_kata": "Isim",
@@ -237,25 +201,7 @@
       "role": "none"
     },
     {
-      "index": 16,
-      "kata_arab": "ۖ",
-      "transliterasi": "",
-      "jenis_kata": "Huruf (tanda baca)",
-      "arti": "tanda waqaf (pause)",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "tanda baca, memisahkan bagian selanjutnya",
-        "irab_dan_logika": "menandakan jeda, tidak memiliki i'rab"
-      },
-      "hikmah": "mempermudah pemahaman dengan memberi jeda",
-      "role": "none"
-    },
-    {
-      "index": 17,
+      "index": 11,
       "kata_arab": "وَهُوَ",
       "transliterasi": "wa huwa",
       "jenis_kata": "Huruf (wa) + Isim dhati",
@@ -273,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 12,
       "kata_arab": "بِكُلِّ",
       "transliterasi": "bi-kulli",
       "jenis_kata": "Huruf jar (preposisi) + Isim",
@@ -291,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 13,
       "kata_arab": "شَىْءٍ",
       "transliterasi": "shay'in",
       "jenis_kata": "Isim",
@@ -309,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 14,
       "kata_arab": "عَلِيمٌ",
       "transliterasi": "Alimun",
       "jenis_kata": "Isim sifat",

@@ -202,24 +202,6 @@
     },
     {
       "index": 11,
-      "kata_arab": "ۚ",
-      "transliterasi": "",
-      "jenis_kata": "Huruf",
-      "arti": "tanda waqf (akhir ayat)",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "علامة وقف تُختتم بها الآية",
-        "irab_dan_logika": "لا إعراب له، تُظهر انتهاء الجملة"
-      },
-      "hikmah": "Tanda **ۚ** menandai selesainya permohonan Musa sebelum Allah menjawab.",
-      "role": "none"
-    },
-    {
-      "index": 12,
       "kata_arab": "قَالَ",
       "transliterasi": "qāla",
       "jenis_kata": "Fi'il",
@@ -237,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 12,
       "kata_arab": "لَن",
       "transliterasi": "lan",
       "jenis_kata": "Huruf",
@@ -255,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 13,
       "kata_arab": "تَرَىٰنِى",
       "transliterasi": "tarāni",
       "jenis_kata": "Fi'il",
@@ -273,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 14,
       "kata_arab": "وَلَٰكِنِ",
       "transliterasi": "walākin",
       "jenis_kata": "Huruf",
@@ -291,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 15,
       "kata_arab": "ٱنظُرْ",
       "transliterasi": "unẓur",
       "jenis_kata": "Fi'il",
@@ -309,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 16,
       "kata_arab": "إِلَى",
       "transliterasi": "ilā",
       "jenis_kata": "Huruf",
@@ -327,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 17,
       "kata_arab": "ٱلْجَبَلِ",
       "transliterasi": "al‑jabali",
       "jenis_kata": "Isim (isim majrur)",
@@ -345,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 18,
       "kata_arab": "فَإِنِ",
       "transliterasi": "fa‑in",
       "jenis_kata": "Huruf (fa‘il + in)",
@@ -363,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 19,
       "kata_arab": "ٱسْتَقَرَّ",
       "transliterasi": "istaqarra",
       "jenis_kata": "Fi‘il madhi (3rd ms)",
@@ -381,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 20,
       "kata_arab": "مَكَانَهُۥ",
       "transliterasi": "makānahu",
       "jenis_kata": "Isim (maf‘al + dhamir)",
@@ -399,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 21,
       "kata_arab": "فَسَوْفَ",
       "transliterasi": "fa‑sawfa",
       "jenis_kata": "Huruf (kata keterangan masa depan)",
@@ -417,25 +399,7 @@
       "role": "none"
     },
     {
-      "index": 24,
-      "kata_arab": "ۚ",
-      "transliterasi": "",
-      "jenis_kata": "Huruf",
-      "arti": "tanda waqf (istirahat)",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "Tanda baca pada akhir frasa, memisahkan bagian kalimat",
-        "irab_dan_logika": "Tidak memiliki i‘rāb karena merupakan isyarat waqf"
-      },
-      "hikmah": "Memberi jeda bagi pembaca untuk merenungkan makna sebelumnya sebelum melanjutkan.",
-      "role": "none"
-    },
-    {
-      "index": 25,
+      "index": 22,
       "kata_arab": "فَلَمَّا",
       "transliterasi": "fa‑lammā",
       "jenis_kata": "Huruf",
@@ -453,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 26,
+      "index": 23,
       "kata_arab": "تَجَلَّىٰ",
       "transliterasi": "tajallā",
       "jenis_kata": "Fi'il",
@@ -471,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 27,
+      "index": 24,
       "kata_arab": "رَبُّهُۥ",
       "transliterasi": "rabbuhu",
       "jenis_kata": "Isim",
@@ -489,7 +453,7 @@
       "role": "none"
     },
     {
-      "index": 30,
+      "index": 25,
       "kata_arab": "دَكًّۭا",
       "transliterasi": "dakkan",
       "jenis_kata": "Isim",
@@ -507,7 +471,7 @@
       "role": "none"
     },
     {
-      "index": 31,
+      "index": 26,
       "kata_arab": "وَخَرَّ",
       "transliterasi": "wa kharra",
       "jenis_kata": "Fi‘il",
@@ -525,7 +489,7 @@
       "role": "none"
     },
     {
-      "index": 32,
+      "index": 27,
       "kata_arab": "مُوسَىٰ",
       "transliterasi": "Mūsā",
       "jenis_kata": "Isim",
@@ -543,7 +507,7 @@
       "role": "none"
     },
     {
-      "index": 33,
+      "index": 28,
       "kata_arab": "صَعِقًۭا",
       "transliterasi": "sa‘iqan",
       "jenis_kata": "Isim",
@@ -561,7 +525,7 @@
       "role": "none"
     },
     {
-      "index": 36,
+      "index": 29,
       "kata_arab": "أَفَاقَ",
       "transliterasi": "afāqa",
       "jenis_kata": "Fiʿil (kata kerja) – bentuk lampau, 3rd maskulin tunggal",
@@ -579,7 +543,7 @@
       "role": "none"
     },
     {
-      "index": 42,
+      "index": 30,
       "kata_arab": "أَوَّلُ",
       "transliterasi": "awwal",
       "jenis_kata": "Isim",
@@ -597,7 +561,7 @@
       "role": "none"
     },
     {
-      "index": 43,
+      "index": 31,
       "kata_arab": "ٱلْمُؤْمِنِينَ",
       "transliterasi": "al-mu'minīn",
       "jenis_kata": "Isim",

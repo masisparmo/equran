@@ -148,24 +148,6 @@
     },
     {
       "index": 8,
-      "kata_arab": "ۘ",
-      "transliterasi": "(tanda waqf)",
-      "jenis_kata": "Huruf (tanda baca)",
-      "arti": "tanda jeda",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "tanda baca yang memisahkan dua bagian kalimat",
-        "irab_dan_logika": "tidak memiliki i'rab karena bukan kata"
-      },
-      "hikmah": "Memberi jeda untuk menekankan perbedaan antara klausa pertama dan kedua, sehingga makna \"sebagian mereka adalah pemimpin bagi sebagian yang lain\" lebih jelas.",
-      "role": "none"
-    },
-    {
-      "index": 9,
       "kata_arab": "بَعْضُهُمْ",
       "transliterasi": "ba'dhuhum",
       "jenis_kata": "Isim",
@@ -183,25 +165,7 @@
       "role": "none"
     },
     {
-      "index": 12,
-      "kata_arab": "ۚ",
-      "transliterasi": "saktah",
-      "jenis_kata": "Huruf (tanda baca)",
-      "arti": "tanda jeda/berhenti",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "Pemutus ayat, memisahkan dua bagian kalimat",
-        "irab_dan_logika": "Tidak memiliki harakat karena merupakan tanda baca, berfungsi memberi jeda untuk menekankan makna sebelumnya"
-      },
-      "hikmah": "Menandakan akhir dari pernyataan tentang hubungan sesama, memberi ruang bagi penegasan selanjutnya",
-      "role": "none"
-    },
-    {
-      "index": 13,
+      "index": 9,
       "kata_arab": "وَمَن",
       "transliterasi": "wa‑man",
       "jenis_kata": "Huruf (wa) + Isim (man)",
@@ -219,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 10,
       "kata_arab": "يَتَوَلَّهُم",
       "transliterasi": "yatawallahum",
       "jenis_kata": "Fi'il (verb) mudhari‘",
@@ -237,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 11,
       "kata_arab": "مِّنكُمْ",
       "transliterasi": "minkum",
       "jenis_kata": "Huruf (preposisi) + Isim (kata ganti)",
@@ -255,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 12,
       "kata_arab": "فَإِنَّهُۥ",
       "transliterasi": "fa‑innahu",
       "jenis_kata": "Huruf (fa, inna) + Isim (hu)",
@@ -273,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 13,
       "kata_arab": "مِنْهُمْ",
       "transliterasi": "minhum",
       "jenis_kata": "Huruf (preposisi) + Isim (kata ganti)",
@@ -291,25 +255,7 @@
       "role": "none"
     },
     {
-      "index": 18,
-      "kata_arab": "ۗ",
-      "transliterasi": "‌",
-      "jenis_kata": "Huruf",
-      "arti": "tanda waqf (istirahat)",
-      "sharaf": {
-        "akar_kata": "-",
-        "makna_dasar": "-",
-        "wazan_perubahan": "-"
-      },
-      "nahwu": {
-        "kedudukan": "tanda baca, memisahkan bagian ayat",
-        "irab_dan_logika": "menandakan jeda waqf, tidak berharakat"
-      },
-      "hikmah": "Menunjukkan batas bacaan, memberi kesempatan bagi pendengar merenungkan makna sebelumnya",
-      "role": "none"
-    },
-    {
-      "index": 19,
+      "index": 14,
       "kata_arab": "إِنَّ",
       "transliterasi": "inna",
       "jenis_kata": "Huruf",
@@ -327,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 15,
       "kata_arab": "لَا",
       "transliterasi": "lā",
       "jenis_kata": "Huruf",
@@ -345,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 16,
       "kata_arab": "يَهْدِى",
       "transliterasi": "yahdī",
       "jenis_kata": "Fi'il",
@@ -363,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 17,
       "kata_arab": "ٱلْقَوْمَ",
       "transliterasi": "al‑qawma",
       "jenis_kata": "Isim",
@@ -381,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 18,
       "kata_arab": "ٱلظَّٰلِمِينَ",
       "transliterasi": "aẓ-ẓālimīn",
       "jenis_kata": "Isim (isim fa‘il)",

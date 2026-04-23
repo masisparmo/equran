@@ -58,24 +58,6 @@
     },
     {
       "index": 3,
-      "kata_arab": "ۖ",
-      "transliterasi": "(tanda baca)",
-      "jenis_kata": "Huruf (tanda baca)",
-      "arti": "tanda jeda (pause)",
-      "sharaf": {
-        "akar_kata": "-",
-        "makna_dasar": "-",
-        "wazan_perubahan": "-"
-      },
-      "nahwu": {
-        "kedudukan": "penanda akhir ayat, memisahkan bagian kalimat",
-        "irab_dan_logika": "bukan bagian sintaksis; berfungsi sebagai **waqf** (henti pendek)"
-      },
-      "hikmah": "Memberi jeda untuk menekankan makna sebelum melanjutkan perintah selanjutnya.",
-      "role": "none"
-    },
-    {
-      "index": 4,
       "kata_arab": "قُلْ",
       "transliterasi": "qul",
       "jenis_kata": "Fi'il (imperative)",
@@ -93,7 +75,7 @@
       "role": "none"
     },
     {
-      "index": 5,
+      "index": 4,
       "kata_arab": "إِى",
       "transliterasi": "ilā",
       "jenis_kata": "Huruf (preposisi)",
@@ -111,7 +93,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 5,
       "kata_arab": "وَرَبِّىٓ",
       "transliterasi": "wa-Rabbī",
       "jenis_kata": "Huruf (و) + Isim (رب)",
@@ -129,7 +111,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 6,
       "kata_arab": "إِنَّهُۥ",
       "transliterasi": "innahu",
       "jenis_kata": "Huruf (إنّ) + Isim (ه)",
@@ -147,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 7,
       "kata_arab": "لَحَقٌّۭ",
       "transliterasi": "la-ḥaqqun",
       "jenis_kata": "Huruf (ل) + Isim (حق)",
@@ -165,25 +147,7 @@
       "role": "none"
     },
     {
-      "index": 9,
-      "kata_arab": "ۖ",
-      "transliterasi": "(tanda waqaf)",
-      "jenis_kata": "Tanda baca",
-      "arti": "Tanda berhenti (waqaf jaiz)",
-      "sharaf": {
-        "akar_kata": "Tidak berlaku",
-        "makna_dasar": "Tidak berlaku",
-        "wazan_perubahan": "Tidak berlaku"
-      },
-      "nahwu": {
-        "kedudukan": "Tidak berlaku",
-        "irab_dan_logika": "Tidak berlaku"
-      },
-      "hikmah": "Tanda waqaf ini menunjukkan bahwa pembaca boleh berhenti atau melanjutkan bacaan. Dalam konteks makna, ia menandai selesainya satu bagian penegasan yang kuat tentang kebenaran azab, sebelum beralih ke penegasan berikutnya tentang ketidakmampuan manusia untuk menghindarinya.",
-      "role": "none"
-    },
-    {
-      "index": 10,
+      "index": 8,
       "kata_arab": "وَمَآ",
       "transliterasi": "wa-mā",
       "jenis_kata": "Huruf (و) + Huruf (ما)",
@@ -201,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 9,
       "kata_arab": "أَنتُم",
       "transliterasi": "antum",
       "jenis_kata": "Isim (Dhamir)",
@@ -219,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 10,
       "kata_arab": "بِمُعْجِزِينَ",
       "transliterasi": "bi-muʿjizīna",
       "jenis_kata": "Isim (isim majrur)",

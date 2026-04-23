@@ -166,24 +166,6 @@
     },
     {
       "index": 9,
-      "kata_arab": "ۗ",
-      "transliterasi": "(tanda ayat)",
-      "jenis_kata": "Huruf",
-      "arti": "tanda berhenti ayat",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "simbol pemisah ayat, tidak berirab",
-        "irab_dan_logika": "bukan bagian dari sintaks, berfungsi sebagai tanda baca"
-      },
-      "hikmah": "Menandakan akhir segmen ayat, memberi jeda bagi pembaca untuk merenungkan makna sebelumnya.",
-      "role": "none"
-    },
-    {
-      "index": 10,
       "kata_arab": "إِنَّ",
       "transliterasi": "inna",
       "jenis_kata": "Huruf",
@@ -201,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 10,
       "kata_arab": "ٱللَّهَ",
       "transliterasi": "Allāha",
       "jenis_kata": "Isim",
@@ -219,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 11,
       "kata_arab": "لَذُو",
       "transliterasi": "ladhū",
       "jenis_kata": "Huruf (particle)",
@@ -237,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 12,
       "kata_arab": "لَا",
       "transliterasi": "lā",
       "jenis_kata": "Huruf",
@@ -255,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 13,
       "kata_arab": "يَشْكُرُونَ",
       "transliterasi": "yashkuroona",
       "jenis_kata": "Fi'il",

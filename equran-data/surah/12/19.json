@@ -112,24 +112,6 @@
     },
     {
       "index": 6,
-      "kata_arab": "ۖ",
-      "transliterasi": "(tidak ada)",
-      "jenis_kata": "Harakat/Isyarat",
-      "arti": "Tanda jeda (waqf) kecil",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "Tanda baca, tidak termasuk dalam struktur nahwu",
-        "irab_dan_logika": "Tidak memiliki i‘rāb karena bukan kata; berfungsi sebagai pemisah makna"
-      },
-      "hikmah": "*Menandakan jeda ringan sebelum perkataan Nabi Yusuf, memberi ruang bagi pendengar memahami konteks.*",
-      "role": "none"
-    },
-    {
-      "index": 7,
       "kata_arab": "قَالَ",
       "transliterasi": "qāla",
       "jenis_kata": "Fi‘il (verb)",
@@ -147,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 7,
       "kata_arab": "يَٰبُشْرَىٰ",
       "transliterasi": "yā bushrā",
       "jenis_kata": "Huruf (يا) + Isim (بُشْرَى)",
@@ -165,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 8,
       "kata_arab": "هَٰذَا",
       "transliterasi": "hādhā",
       "jenis_kata": "Isim (demonstratif)",
@@ -183,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 9,
       "kata_arab": "غُلَٰمٌۭ",
       "transliterasi": "ghulāmun",
       "jenis_kata": "Isim (isim mufrad)",
@@ -201,25 +183,7 @@
       "role": "none"
     },
     {
-      "index": 11,
-      "kata_arab": "ۚ",
-      "transliterasi": "(tidak ada)",
-      "jenis_kata": "Harakat/Isyarat",
-      "arti": "Tanda jeda (waqf) kuat",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "Tanda baca, menutup ayat",
-        "irab_dan_logika": "Tidak memiliki i‘rāb; berfungsi mengakhiri kalimat"
-      },
-      "hikmah": "*Memberi penekanan pada akhir pernyataan, menandai selesainya penyampaian berita penting.*",
-      "role": "none"
-    },
-    {
-      "index": 12,
+      "index": 10,
       "kata_arab": "وَأَسَرُّوهُ",
       "transliterasi": "wa-asarrūhu",
       "jenis_kata": "Fi'il",
@@ -237,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 11,
       "kata_arab": "يَعْمَلُونَ",
       "transliterasi": "ya‘malūna",
       "jenis_kata": "Fi'il",

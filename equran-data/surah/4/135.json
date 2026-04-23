@@ -256,24 +256,6 @@
     },
     {
       "index": 14,
-      "kata_arab": "ۚ",
-      "transliterasi": "(tanda waqf)",
-      "jenis_kata": "Huruf",
-      "arti": "tanda jeda (pause)",
-      "sharaf": {
-        "akar_kata": "-",
-        "makna_dasar": "-",
-        "wazan_perubahan": "-"
-      },
-      "nahwu": {
-        "kedudukan": "simbol waqf yang memisahkan dua bagian kalimat",
-        "irab_dan_logika": "tidak berirab, berfungsi sebagai tanda baca"
-      },
-      "hikmah": "Memberi jeda untuk menekankan pentingnya perintah sebelumnya sebelum masuk pada syarat selanjutnya.",
-      "role": "none"
-    },
-    {
-      "index": 15,
       "kata_arab": "إِن",
       "transliterasi": "in",
       "jenis_kata": "Huruf",
@@ -291,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 15,
       "kata_arab": "يَكُنْ",
       "transliterasi": "yakun",
       "jenis_kata": "Fi'il",
@@ -309,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 16,
       "kata_arab": "غَنِيًّا",
       "transliterasi": "ghaniyyan",
       "jenis_kata": "Isim",
@@ -327,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 17,
       "kata_arab": "أَوْ",
       "transliterasi": "aw",
       "jenis_kata": "Huruf (conjunction)",
@@ -345,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 18,
       "kata_arab": "فَقِيرًۭا",
       "transliterasi": "faqīran",
       "jenis_kata": "Isim (isim maf'ul)",
@@ -363,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 19,
       "kata_arab": "فَٱللَّهُ",
       "transliterasi": "fa‑Allāh",
       "jenis_kata": "Huruf (fa) + Isim (Allāh)",
@@ -381,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 20,
       "kata_arab": "أَوْلَىٰ",
       "transliterasi": "awlá",
       "jenis_kata": "Fi'il (madhi)",
@@ -399,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 21,
       "kata_arab": "بِهِمَا",
       "transliterasi": "bihimā",
       "jenis_kata": "Huruf (bi) + Isim (himā)",
@@ -417,25 +399,7 @@
       "role": "none"
     },
     {
-      "index": 23,
-      "kata_arab": "ۖ",
-      "transliterasi": "(tanda koma)",
-      "jenis_kata": "Isyarat (tanda baca)",
-      "arti": "tanda koma",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "علامة وقف تفصل بين الجملتين",
-        "irab_dan_logika": "ليس له إعراب"
-      },
-      "hikmah": "memungkinkan jeda membaca untuk menekankan makna sebelumnya",
-      "role": "none"
-    },
-    {
-      "index": 24,
+      "index": 22,
       "kata_arab": "فَلَا",
       "transliterasi": "fa-lā",
       "jenis_kata": "Huruf",
@@ -453,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 23,
       "kata_arab": "تَتَّبِعُوا۟",
       "transliterasi": "tattabi‘ū",
       "jenis_kata": "Fiʿil",
@@ -471,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 26,
+      "index": 24,
       "kata_arab": "ٱلْهَوَىٰٓ",
       "transliterasi": "al‑hawā",
       "jenis_kata": "Isim",
@@ -489,7 +453,7 @@
       "role": "none"
     },
     {
-      "index": 27,
+      "index": 25,
       "kata_arab": "أَن",
       "transliterasi": "an",
       "jenis_kata": "Huruf",
@@ -507,7 +471,7 @@
       "role": "none"
     },
     {
-      "index": 28,
+      "index": 26,
       "kata_arab": "تَعْدِلُوا۟",
       "transliterasi": "taʿdilū",
       "jenis_kata": "Fiʿil",
@@ -525,25 +489,7 @@
       "role": "none"
     },
     {
-      "index": 29,
-      "kata_arab": "ۚ",
-      "transliterasi": "–",
-      "jenis_kata": "Tanda baca",
-      "arti": "tanda berhenti (pause akhir ayat)",
-      "sharaf": {
-        "akar_kata": "-",
-        "makna_dasar": "-",
-        "wazan_perubahan": "-"
-      },
-      "nahwu": {
-        "kedudukan": "Simbol waqf (tanda berhenti) yang menandai akhir kalimat",
-        "irab_dan_logika": "Tidak ber‑iʿrāb; berfungsi sebagai penanda jeda bacaan."
-      },
-      "hikmah": "Menegaskan bahwa perintah tersebut selesai dan harus dipahami secara utuh.",
-      "role": "none"
-    },
-    {
-      "index": 30,
+      "index": 27,
       "kata_arab": "وَإِن",
       "transliterasi": "wa‑in",
       "jenis_kata": "Huruf",
@@ -561,7 +507,7 @@
       "role": "none"
     },
     {
-      "index": 31,
+      "index": 28,
       "kata_arab": "تَلْوُۥٓا۟",
       "transliterasi": "talawū",
       "jenis_kata": "Fi'il",
@@ -579,7 +525,7 @@
       "role": "none"
     },
     {
-      "index": 32,
+      "index": 29,
       "kata_arab": "أَوْ",
       "transliterasi": "aw",
       "jenis_kata": "Huruf",
@@ -597,7 +543,7 @@
       "role": "none"
     },
     {
-      "index": 33,
+      "index": 30,
       "kata_arab": "تُعْرِضُوا۟",
       "transliterasi": "tu‘riḍū",
       "jenis_kata": "Fi'il",
@@ -615,7 +561,7 @@
       "role": "none"
     },
     {
-      "index": 35,
+      "index": 31,
       "kata_arab": "ٱللَّهَ",
       "transliterasi": "Allāh",
       "jenis_kata": "Isim",
@@ -633,7 +579,7 @@
       "role": "none"
     },
     {
-      "index": 36,
+      "index": 32,
       "kata_arab": "كَانَ",
       "transliterasi": "kaana",
       "jenis_kata": "Fi'il",
@@ -651,7 +597,7 @@
       "role": "none"
     },
     {
-      "index": 37,
+      "index": 33,
       "kata_arab": "بِمَا",
       "transliterasi": "bima",
       "jenis_kata": "Huruf",
@@ -669,7 +615,7 @@
       "role": "none"
     },
     {
-      "index": 38,
+      "index": 34,
       "kata_arab": "تَعْمَلُونَ",
       "transliterasi": "ta‘malūna",
       "jenis_kata": "Fi'il",
@@ -687,7 +633,7 @@
       "role": "none"
     },
     {
-      "index": 39,
+      "index": 35,
       "kata_arab": "خَبِيرًۭا",
       "transliterasi": "khabīran",
       "jenis_kata": "Isim",

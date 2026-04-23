@@ -58,24 +58,6 @@
     },
     {
       "index": 3,
-      "kata_arab": "ۖ",
-      "transliterasi": "(Tanda Waqaf Lazim)",
-      "jenis_kata": "Tanda baca Al-Qur'an",
-      "arti": "Tanda berhenti wajib",
-      "sharaf": {
-        "akar_kata": "Tidak berlaku",
-        "makna_dasar": "Tidak berlaku",
-        "wazan_perubahan": "Tidak berlaku"
-      },
-      "nahwu": {
-        "kedudukan": "Tanda waqaf lazim",
-        "irab_dan_logika": "Bukan bagian dari struktur gramatikal bahasa Arab, melainkan konvensi penulisan mushaf untuk menunjukkan tempat berhenti yang dianjurkan atau wajib."
-      },
-      "hikmah": "Menunjukkan bahwa pembaca harus berhenti di sini. Dalam konteks makna, ini menandai akhir dari tuduhan dan persiapan untuk jawaban atau tantangan berikutnya.",
-      "role": "none"
-    },
-    {
-      "index": 4,
       "kata_arab": "قُلْ",
       "transliterasi": "Qul",
       "jenis_kata": "Fi'il",
@@ -93,7 +75,7 @@
       "role": "none"
     },
     {
-      "index": 5,
+      "index": 4,
       "kata_arab": "فَأْتُوا۟",
       "transliterasi": "Fa'tū",
       "jenis_kata": "Fi'il",
@@ -111,7 +93,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 5,
       "kata_arab": "بِسُورَةٍۢ",
       "transliterasi": "bi-sūratin",
       "jenis_kata": "Isim (سورة) + Huruf Jar (بِ)",
@@ -129,7 +111,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 6,
       "kata_arab": "مِّثْلِهِۦ",
       "transliterasi": "mitslihi",
       "jenis_kata": "Isim (مثل) + Dhomir (ـه)",
@@ -147,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 7,
       "kata_arab": "وَٱدْعُوا۟",
       "transliterasi": "wad'ū",
       "jenis_kata": "Fi'il Amar (kata kerja perintah) + Huruf Athaf (و)",
@@ -165,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 8,
       "kata_arab": "مَنِ",
       "transliterasi": "mani",
       "jenis_kata": "Isim Maushul (kata sambung) atau Isim Syarat",
@@ -183,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 9,
       "kata_arab": "ٱسْتَطَعْتُم",
       "transliterasi": "istaṭa'tum",
       "jenis_kata": "Fi'il Madhi (kata kerja lampau)",
@@ -201,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 10,
       "kata_arab": "مِّن",
       "transliterasi": "min",
       "jenis_kata": "Huruf Jar",
@@ -219,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 11,
       "kata_arab": "دُونِ",
       "transliterasi": "dūni",
       "jenis_kata": "Huruf/Isim (Zharaf)",
@@ -237,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 12,
       "kata_arab": "ٱللَّهِ",
       "transliterasi": "Allāhi",
       "jenis_kata": "Isim (Isim Jalalah)",
@@ -255,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 13,
       "kata_arab": "إِن",
       "transliterasi": "in",
       "jenis_kata": "Huruf",
@@ -273,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 14,
       "kata_arab": "كُنتُمْ",
       "transliterasi": "kuntum",
       "jenis_kata": "Fi'il (Fi'il Madhi Naqish)",
@@ -291,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 15,
       "kata_arab": "صَٰدِقِينَ",
       "transliterasi": "ṣādiqīna",
       "jenis_kata": "Isim (Isim Fa'il)",

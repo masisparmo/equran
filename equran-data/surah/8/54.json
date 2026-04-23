@@ -58,42 +58,6 @@
     },
     {
       "index": 3,
-      "kata_arab": "ۙ",
-      "transliterasi": "-",
-      "jenis_kata": "Huruf (tanda waqf)",
-      "arti": "tanda jeda/waqf",
-      "sharaf": {
-        "akar_kata": "-",
-        "makna_dasar": "-",
-        "wazan_perubahan": "-"
-      },
-      "nahwu": {
-        "kedudukan": "tanda baca yang memisahkan bagian kalimat",
-        "irab_dan_logika": "tidak memiliki iʿrāb karena bukan kata"
-      },
-      "hikmah": "Memberi jeda bagi pembaca untuk merenungkan perbandingan yang baru saja disebutkan.",
-      "role": "none"
-    },
-    {
-      "index": 4,
-      "kata_arab": "وَالَّذِينَ",
-      "transliterasi": "wa‑alladhīna",
-      "jenis_kata": "Isim (ism al‑ʿiddah) dengan huruf waqf \"و\"",
-      "arti": "dan orang‑orang yang",
-      "sharaf": {
-        "akar_kata": "ل‑ذ‑ي",
-        "makna_dasar": "yang, orang yang",
-        "wazan_perubahan": "فَعِل"
-      },
-      "nahwu": {
-        "kedudukan": "مبتدأ (subjek) bagi kata kerja \"كُفِرُوا\" selanjutnya",
-        "irab_dan_logika": "marfuʿ (diberi ḍamma) karena berfungsi sebagai مبتدأ"
-      },
-      "hikmah": "Menunjukkan kelompok orang lain (selain Fir'aun) yang juga menolak ayat‑ayat Allah, memperluas cakupan peringatan.",
-      "role": "none"
-    },
-    {
-      "index": 5,
       "kata_arab": "مِن",
       "transliterasi": "min",
       "jenis_kata": "Huruf (preposisi)",
@@ -111,7 +75,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 4,
       "kata_arab": "قَبْلِهِمْ",
       "transliterasi": "qablihim",
       "jenis_kata": "Isim (kata benda) dengan huruf jar + zamir",
@@ -129,25 +93,7 @@
       "role": "none"
     },
     {
-      "index": 7,
-      "kata_arab": "ۚ",
-      "transliterasi": "ۚ",
-      "jenis_kata": "Huruf (tanda baca – waqf al‑qasr)",
-      "arti": "tanda jeda pendek (koma/waqf)",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "Tanda baca yang memisahkan antara **قَبْلِهِمْ** dan **كَذَّبُوا۟**, memberi jeda ritmis dalam bacaan.",
-        "irab_dan_logika": "Tidak memiliki i‘rāb karena bukan kata; fungsinya hanya sebagai **waqf** untuk memperjelas pemahaman."
-      },
-      "hikmah": "Memberi jeda agar pembaca dapat menekankan perbedaan antara sebab (sebelum mereka) dan konsekuensi (mereka mendustakan).",
-      "role": "none"
-    },
-    {
-      "index": 8,
+      "index": 5,
       "kata_arab": "كَذَّبُوا۟",
       "transliterasi": "kadhabū",
       "jenis_kata": "Fi'il (verb) madhi, 3rd person masculine plural",
@@ -165,7 +111,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 6,
       "kata_arab": "بِـَٔايَٰتِ",
       "transliterasi": "bi-āyāti",
       "jenis_kata": "Huruf jar + Isim (jamak) ",
@@ -183,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 7,
       "kata_arab": "بِذُنُوبِهِمْ",
       "transliterasi": "bi-dhunūbihim",
       "jenis_kata": "Gabungan Huruf Jar dan Isim",
@@ -201,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 8,
       "kata_arab": "وَأَغْرَقْنَآ",
       "transliterasi": "wa-aghraqnā",
       "jenis_kata": "Huruf 'Athaf dan Fi'il Madhi",
@@ -219,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 9,
       "kata_arab": "ءَالَ",
       "transliterasi": "āla",
       "jenis_kata": "Isim",
@@ -237,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 10,
       "kata_arab": "فِرْعَوْنَ",
       "transliterasi": "fir'awna",
       "jenis_kata": "Isim 'Alam (Nama Diri)",
@@ -255,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 11,
       "kata_arab": "وَكُلٌّۭ",
       "transliterasi": "wa-kullun",
       "jenis_kata": "Huruf 'Athaf dan Isim",
@@ -273,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 12,
       "kata_arab": "كَانُوا۟",
       "transliterasi": "kānū",
       "jenis_kata": "Fi'il (verb)",
@@ -291,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 13,
       "kata_arab": "ظَٰلِمِينَ",
       "transliterasi": "ẓālimīna",
       "jenis_kata": "Isim fa'il (noun)",

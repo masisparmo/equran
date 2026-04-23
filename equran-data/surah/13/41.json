@@ -148,42 +148,6 @@
     },
     {
       "index": 8,
-      "kata_arab": "۔",
-      "transliterasi": "۔",
-      "jenis_kata": "Huruf (tanda ayat)",
-      "arti": "*tanda berhenti ayat*",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "pemisah antar ayat/kalimat",
-        "irab_dan_logika": "tidak memiliki i‘rab karena bukan kata"
-      },
-      "hikmah": "Menandai akhir bagian kalimat, memberi jeda untuk merenungkan makna sebelumnya.",
-      "role": "none"
-    },
-    {
-      "index": 9,
-      "kata_arab": "وَٱللَّهُ",
-      "transliterasi": "wa‑Allāhu",
-      "jenis_kata": "Isim (nama Allah) dengan huruf waqf \"و\"",
-      "arti": "*dan Allah*",
-      "sharaf": {
-        "akar_kata": "ل-ه",
-        "makna_dasar": "nama Tuhan yang Maha Esa",
-        "wazan_perubahan": "nama khusus, tidak berwazan"
-      },
-      "nahwu": {
-        "kedudukan": "mubtada' (subjek) pada kalimat baru setelah waqf \"و\"",
-        "irab_dan_logika": "dammah pada akhir kata menandakan nominatif"
-      },
-      "hikmah": "Allah menjadi subjek yang menegaskan keputusan-Nya, menambah bobot keagungan pada pernyataan.",
-      "role": "none"
-    },
-    {
-      "index": 10,
       "kata_arab": "يَحْكُمُ",
       "transliterasi": "yaḥkumu",
       "jenis_kata": "Fi‘il (verb)",
@@ -201,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 9,
       "kata_arab": "لَا",
       "transliterasi": "lā",
       "jenis_kata": "Huruf (partikel negasi)",
@@ -219,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 10,
       "kata_arab": "مُعَقِّبَ",
       "transliterasi": "mu‘aqiba",
       "jenis_kata": "Isim (Ism Fa‘il)",
@@ -237,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 11,
       "kata_arab": "لِحُكْمِهِۦ",
       "transliterasi": "liḥukmihi",
       "jenis_kata": "Huruf jar + Isim",

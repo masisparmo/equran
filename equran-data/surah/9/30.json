@@ -184,24 +184,6 @@
     },
     {
       "index": 10,
-      "kata_arab": "ۖ",
-      "transliterasi": "waqf",
-      "jenis_kata": "Huruf",
-      "arti": "tanda koma (waqf)",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "علامة وقف لا تُعرب",
-        "irab_dan_logika": "Tidak memiliki i‘rāb karena berfungsi sebagai tanda baca"
-      },
-      "hikmah": "Memisahkan bagian kalimat untuk memperjelas makna keseluruhan ayat.",
-      "role": "none"
-    },
-    {
-      "index": 11,
       "kata_arab": "ذَٰلِكَ",
       "transliterasi": "dhālika",
       "jenis_kata": "Isim",
@@ -219,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 11,
       "kata_arab": "قَوْلُهُم",
       "transliterasi": "qawlu-hum",
       "jenis_kata": "Isim",
@@ -237,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 12,
       "kata_arab": "بِأَفْوَاهِهِمْ",
       "transliterasi": "bi-afwāhihim",
       "jenis_kata": "Huruf (preposisi) + Isim",
@@ -255,25 +237,7 @@
       "role": "none"
     },
     {
-      "index": 14,
-      "kata_arab": "ۖ",
-      "transliterasi": "",
-      "jenis_kata": "Simbol waqf",
-      "arti": "tanda jeda",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "pemisah antar frasa",
-        "irab_dan_logika": "menandakan henti sejenak, tidak memengaruhi i'rab"
-      },
-      "hikmah": "Memberi ruang bagi pembaca memahami perbedaan antara keterangan dan predikat",
-      "role": "none"
-    },
-    {
-      "index": 15,
+      "index": 13,
       "kata_arab": "يُضَٰهِـُٔونَ",
       "transliterasi": "yuḍāhi'ūna",
       "jenis_kata": "Fi'il",
@@ -291,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 14,
       "kata_arab": "قَوْلَ",
       "transliterasi": "qawla",
       "jenis_kata": "Isim",
@@ -309,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 15,
       "kata_arab": "ٱلَّذِينَ",
       "transliterasi": "alladhīna",
       "jenis_kata": "Isim (isim al‑muʿrab)",
@@ -327,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 16,
       "kata_arab": "كَفَرُوا۟",
       "transliterasi": "kafarū",
       "jenis_kata": "Fi'il",
@@ -345,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 17,
       "kata_arab": "مِن",
       "transliterasi": "min",
       "jenis_kata": "Huruf",
@@ -363,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 18,
       "kata_arab": "قَبْلُ",
       "transliterasi": "qabl",
       "jenis_kata": "Isim",
@@ -381,25 +345,7 @@
       "role": "none"
     },
     {
-      "index": 24,
-      "kata_arab": "ۚ",
-      "transliterasi": "`waqf`",
-      "jenis_kata": "**Huruf**",
-      "arti": "tanda waqf (tanda berhenti)",
-      "sharaf": {
-        "akar_kata": "Tidak ada",
-        "makna_dasar": "tanda jeda dalam bacaan",
-        "wazan_perubahan": "Tidak berlaku"
-      },
-      "nahwu": {
-        "kedudukan": "tanda waqf, memisahkan bagian ayat",
-        "irab_dan_logika": "Tidak berharakat, berfungsi sebagai tanda baca untuk memberi jeda"
-      },
-      "hikmah": "Menandakan akhir bagian kalimat, memberi kesempatan bagi pembaca untuk berhenti sejenak dan merenungkan makna ayat.",
-      "role": "none"
-    },
-    {
-      "index": 25,
+      "index": 19,
       "kata_arab": "أَنَّىٰ",
       "transliterasi": "`anna`",
       "jenis_kata": "**Huruf**",
@@ -417,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 26,
+      "index": 20,
       "kata_arab": "يُؤْفَكُونَ",
       "transliterasi": "`yuʾfaʾkūna`",
       "jenis_kata": "**Fiʿil** (verb)",

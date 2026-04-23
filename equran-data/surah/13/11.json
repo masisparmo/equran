@@ -202,24 +202,6 @@
     },
     {
       "index": 11,
-      "kata_arab": "ۗ",
-      "transliterasi": "(Tanda waqaf)",
-      "jenis_kata": "Tanda Baca",
-      "arti": "Tanda waqaf mujawwaz (boleh berhenti, boleh lanjut)",
-      "sharaf": {
-        "akar_kata": "Tidak berlaku.",
-        "makna_dasar": "Menunjukkan tempat berhenti yang dianjurkan namun tidak wajib, memberikan jeda untuk pemahaman.",
-        "wazan_perubahan": "Tidak berlaku."
-      },
-      "nahwu": {
-        "kedudukan": "Tanda waqaf.",
-        "irab_dan_logika": "Tidak memiliki i'rab karena bukan merupakan bagian dari struktur gramatikal kalimat."
-      },
-      "hikmah": "Tanda ini menandakan akhir dari satu bagian makna dalam ayat, memberikan kesempatan bagi pembaca untuk merenungkan bagian pertama tentang penjagaan malaikat sebelum melanjutkan ke bagian berikutnya tentang perubahan keadaan suatu kaum.",
-      "role": "none"
-    },
-    {
-      "index": 12,
       "kata_arab": "إِنَّ",
       "transliterasi": "Inna",
       "jenis_kata": "Huruf",
@@ -237,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 12,
       "kata_arab": "ٱللَّهَ",
       "transliterasi": "Allāha",
       "jenis_kata": "Isim",
@@ -255,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 13,
       "kata_arab": "لَا",
       "transliterasi": "Lā",
       "jenis_kata": "Huruf",
@@ -273,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 14,
       "kata_arab": "يُغَيِّرُ",
       "transliterasi": "Yughayyiru",
       "jenis_kata": "Fi'il",
@@ -291,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 15,
       "kata_arab": "مَا",
       "transliterasi": "Mā",
       "jenis_kata": "Isim Maushul",
@@ -309,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 16,
       "kata_arab": "بِقَوْمٍ",
       "transliterasi": "Biqawmin",
       "jenis_kata": "Huruf Jar + Isim",
@@ -327,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 17,
       "kata_arab": "حَتَّىٰ",
       "transliterasi": "ḥattā",
       "jenis_kata": "Huruf",
@@ -345,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 18,
       "kata_arab": "يُغَيِّرُوا۟",
       "transliterasi": "yughayyirū",
       "jenis_kata": "Fi'il",
@@ -363,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 19,
       "kata_arab": "مَا",
       "transliterasi": "mā",
       "jenis_kata": "Isim Maushul",
@@ -381,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 20,
       "kata_arab": "بِأَنفُسِهِمْ",
       "transliterasi": "bi-anfusihim",
       "jenis_kata": "Isim (dengan huruf jar)",
@@ -399,25 +381,7 @@
       "role": "none"
     },
     {
-      "index": 22,
-      "kata_arab": "ۗ",
-      "transliterasi": "Tanda waqaf",
-      "jenis_kata": "Tanda Baca",
-      "arti": "Tidak ada arti harfiah sebagai kata",
-      "sharaf": {
-        "akar_kata": "Tidak berlaku untuk tanda baca",
-        "makna_dasar": "Menunjukkan tempat berhenti membaca",
-        "wazan_perubahan": "Tidak berlaku untuk tanda baca"
-      },
-      "nahwu": {
-        "kedudukan": "Tidak berlaku untuk tanda baca",
-        "irab_dan_logika": "Tidak berlaku untuk tanda baca"
-      },
-      "hikmah": "Tanda waqaf lazim (harus berhenti) ini menandakan akhir dari satu bagian makna yang penting dan awal dari bagian makna yang baru. Ini memisahkan dua gagasan utama dalam ayat: prinsip perubahan kondisi kaum berdasarkan inisiatif mereka, dan prinsip kehendak Allah terkait keburukan yang tidak dapat ditolak. Pemisahan ini membantu pembaca memahami dua hukum Ilahi yang berbeda namun saling melengkapi.",
-      "role": "none"
-    },
-    {
-      "index": 23,
+      "index": 21,
       "kata_arab": "وَإِذَآ",
       "transliterasi": "wa-idhā",
       "jenis_kata": "Huruf (Waw) dan Isim Syarat (Idha)",
@@ -435,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 22,
       "kata_arab": "أَرَادَ",
       "transliterasi": "Arāda",
       "jenis_kata": "Fi'il",
@@ -453,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 23,
       "kata_arab": "ٱللَّهُ",
       "transliterasi": "Allāhu",
       "jenis_kata": "Isim",
@@ -471,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 26,
+      "index": 24,
       "kata_arab": "بِقَوْمٍۢ",
       "transliterasi": "Biqawmin",
       "jenis_kata": "Huruf dan Isim",
@@ -489,7 +453,7 @@
       "role": "none"
     },
     {
-      "index": 27,
+      "index": 25,
       "kata_arab": "سُوٓءًۭا",
       "transliterasi": "Sū'an",
       "jenis_kata": "Isim",
@@ -507,7 +471,7 @@
       "role": "none"
     },
     {
-      "index": 28,
+      "index": 26,
       "kata_arab": "فَلَا",
       "transliterasi": "Falā",
       "jenis_kata": "Huruf",
@@ -525,7 +489,7 @@
       "role": "none"
     },
     {
-      "index": 29,
+      "index": 27,
       "kata_arab": "مَرَدَّ",
       "transliterasi": "Maradda",
       "jenis_kata": "Isim",
@@ -543,7 +507,7 @@
       "role": "none"
     },
     {
-      "index": 30,
+      "index": 28,
       "kata_arab": "لَهُۥ",
       "transliterasi": "lahu",
       "jenis_kata": "Huruf (jar) + Isim (dhomir)",
@@ -561,25 +525,7 @@
       "role": "none"
     },
     {
-      "index": 31,
-      "kata_arab": "ۚ",
-      "transliterasi": "(tanda waqaf)",
-      "jenis_kata": "Tanda baca",
-      "arti": "Tanda waqaf lazim (harus berhenti)",
-      "sharaf": {
-        "akar_kata": "Tidak berlaku",
-        "makna_dasar": "Tidak berlaku",
-        "wazan_perubahan": "Tidak berlaku"
-      },
-      "nahwu": {
-        "kedudukan": "Tidak berlaku",
-        "irab_dan_logika": "Tidak berlaku"
-      },
-      "hikmah": "Tanda waqaf lazim ini mengindikasikan pentingnya berhenti membaca untuk memahami makna yang telah disampaikan secara utuh. Dalam ayat ini, ia menandai selesainya penjelasan tentang peran malaikat penjaga sebelum beralih ke bagian tentang kehendak Allah dan perubahan nasib suatu kaum.",
-      "role": "none"
-    },
-    {
-      "index": 32,
+      "index": 29,
       "kata_arab": "وَمَا",
       "transliterasi": "wa mā",
       "jenis_kata": "Huruf (athaf) + Huruf (nafiyah)",
@@ -597,7 +543,7 @@
       "role": "none"
     },
     {
-      "index": 33,
+      "index": 30,
       "kata_arab": "لَهُم",
       "transliterasi": "lahum",
       "jenis_kata": "Huruf (jar) + Isim (dhomir)",
@@ -615,7 +561,7 @@
       "role": "none"
     },
     {
-      "index": 34,
+      "index": 31,
       "kata_arab": "مِّن",
       "transliterasi": "min",
       "jenis_kata": "Huruf (jar)",
@@ -633,7 +579,7 @@
       "role": "none"
     },
     {
-      "index": 35,
+      "index": 32,
       "kata_arab": "دُونِهِۦ",
       "transliterasi": "dūnihī",
       "jenis_kata": "Isim (kata benda) + Isim (dhomir)",
@@ -651,7 +597,7 @@
       "role": "none"
     },
     {
-      "index": 36,
+      "index": 33,
       "kata_arab": "مِن",
       "transliterasi": "min",
       "jenis_kata": "Huruf",
@@ -669,7 +615,7 @@
       "role": "none"
     },
     {
-      "index": 37,
+      "index": 34,
       "kata_arab": "وَالٍ",
       "transliterasi": "walin",
       "jenis_kata": "Isim",

@@ -148,24 +148,6 @@
     },
     {
       "index": 8,
-      "kata_arab": "ۖ",
-      "transliterasi": "taʿlīq",
-      "jenis_kata": "Huruf (tanda baca)",
-      "arti": "tanda jeda/berhenti",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "Simbol pemisah antara dua bagian kalimat",
-        "irab_dan_logika": "Tidak berirab; berfungsi memperjelas jeda bacaan"
-      },
-      "hikmah": "Memisahkan pernyataan qisas dengan penjelasan selanjutnya tentang kategori orang.",
-      "role": "none"
-    },
-    {
-      "index": 9,
       "kata_arab": "ٱلْحُرُّ",
       "transliterasi": "al‑hurr",
       "jenis_kata": "Isim",
@@ -183,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 9,
       "kata_arab": "بِٱلْحُرِّ",
       "transliterasi": "bi al‑hurr",
       "jenis_kata": "Huruf + Isim",
@@ -201,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 10,
       "kata_arab": "وَٱلْعَبْدُ",
       "transliterasi": "wa al‑‘abd",
       "jenis_kata": "Huruf + Isim",
@@ -219,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 11,
       "kata_arab": "بِٱلْعَبْدِ",
       "transliterasi": "bi al-‘abdi",
       "jenis_kata": "Isim",
@@ -237,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 12,
       "kata_arab": "وَٱلْأُنثَىٰ",
       "transliterasi": "wa al-untha",
       "jenis_kata": "Isim",
@@ -255,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 13,
       "kata_arab": "بِٱلْأُنثَىٰ",
       "transliterasi": "bi al-untha",
       "jenis_kata": "Isim",
@@ -273,25 +255,7 @@
       "role": "none"
     },
     {
-      "index": 15,
-      "kata_arab": "ۚ",
-      "transliterasi": "(tanda waqf)",
-      "jenis_kata": "Huruf",
-      "arti": "tanda berhenti ayat",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "tanda baca yang menandai akhir bagian kalimat",
-        "irab_dan_logika": "tidak berirab, berfungsi sebagai pemisah"
-      },
-      "hikmah": "memberi jeda untuk menekankan makna sebelumnya",
-      "role": "none"
-    },
-    {
-      "index": 16,
+      "index": 14,
       "kata_arab": "فَمَنْ",
       "transliterasi": "fa-man",
       "jenis_kata": "Isim",
@@ -309,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 15,
       "kata_arab": "عُفِىَ",
       "transliterasi": "‘ufi",
       "jenis_kata": "Fi'il",
@@ -327,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 16,
       "kata_arab": "لَهُۥ",
       "transliterasi": "lahu",
       "jenis_kata": "Huruf",
@@ -345,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 17,
       "kata_arab": "مِن",
       "transliterasi": "min",
       "jenis_kata": "Huruf",
@@ -363,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 18,
       "kata_arab": "أَخِيهِ",
       "transliterasi": "akhīhi",
       "jenis_kata": "Isim",
@@ -381,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 19,
       "kata_arab": "شَىْءٌ",
       "transliterasi": "shāʾun",
       "jenis_kata": "Isim",
@@ -399,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 20,
       "kata_arab": "فَٱتِّبَاعٌ",
       "transliterasi": "fa-ittibāʿun",
       "jenis_kata": "Isim",
@@ -417,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 21,
       "kata_arab": "بِٱلْمَعْرُوفِ",
       "transliterasi": "bil‑maʿrūfi",
       "jenis_kata": "Huruf + Isim",
@@ -435,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 22,
       "kata_arab": "وَأَدَآءٌ",
       "transliterasi": "wa adaa'un",
       "jenis_kata": "Isim",
@@ -453,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 23,
       "kata_arab": "إِلَيْهِ",
       "transliterasi": "ilaihi",
       "jenis_kata": "Huruf + Isim (dhamir)",
@@ -471,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 26,
+      "index": 24,
       "kata_arab": "بِإِحْسَٰنٍۢ",
       "transliterasi": "bi ihsaan(in)",
       "jenis_kata": "Huruf + Isim",
@@ -489,25 +453,7 @@
       "role": "none"
     },
     {
-      "index": 27,
-      "kata_arab": "ۗ",
-      "transliterasi": "(tanda waqaf)",
-      "jenis_kata": "Tanda baca Al-Qur'an",
-      "arti": "Tanda waqaf jaiz (boleh berhenti atau melanjutkan)",
-      "sharaf": {
-        "akar_kata": "Tidak berlaku.",
-        "makna_dasar": "Menunjukkan tempat yang dianjurkan untuk berhenti, namun boleh juga melanjutkan bacaan.",
-        "wazan_perubahan": "Tidak berlaku."
-      },
-      "nahwu": {
-        "kedudukan": "Bukan bagian dari struktur kalimat gramatikal.",
-        "irab_dan_logika": "Tidak memiliki irab."
-      },
-      "hikmah": "Tanda waqaf ini memberikan panduan bagi pembaca Al-Qur'an untuk mengatur nafas dan memahami makna ayat dengan lebih baik. Ini menunjukkan jeda yang tepat setelah menjelaskan dua kewajiban utama dalam penyelesaian qisas: mengikuti dengan baik dan membayar diyat dengan baik.",
-      "role": "none"
-    },
-    {
-      "index": 28,
+      "index": 25,
       "kata_arab": "ذَٰلِكَ",
       "transliterasi": "dzaalika",
       "jenis_kata": "Isim Isyarah",
@@ -525,7 +471,7 @@
       "role": "none"
     },
     {
-      "index": 29,
+      "index": 26,
       "kata_arab": "تَخْفِيفٌۭ",
       "transliterasi": "takhfiifun",
       "jenis_kata": "Isim",
@@ -543,7 +489,7 @@
       "role": "none"
     },
     {
-      "index": 30,
+      "index": 27,
       "kata_arab": "مِّن",
       "transliterasi": "min",
       "jenis_kata": "Huruf (harf jar)",
@@ -561,7 +507,7 @@
       "role": "none"
     },
     {
-      "index": 31,
+      "index": 28,
       "kata_arab": "رَّبِّكُمْ",
       "transliterasi": "rabbikum",
       "jenis_kata": "Isim (isim mudhakkar)",
@@ -579,43 +525,7 @@
       "role": "none"
     },
     {
-      "index": 32,
-      "kata_arab": "وَرَحْمَةٌۭ",
-      "transliterasi": "warahmatun",
-      "jenis_kata": "Isim (isim mudhakkar) dengan huruf waqf \"وَ\"",
-      "arti": "dan rahmat",
-      "sharaf": {
-        "akar_kata": "ر ح م",
-        "makna_dasar": "kasih sayang, rahmat",
-        "wazan_perubahan": "maf‘ala → رَحْمَة"
-      },
-      "nahwu": {
-        "kedudukan": "isim marfu' sebagai predikat dalam frasa \"وَرَحْمَةٌ مِّن رَبِّكُمْ\"",
-        "irab_dan_logika": "tanwin dammah (ـٌ) menandakan i'rab marfu'"
-      },
-      "hikmah": "",
-      "role": "none"
-    },
-    {
-      "index": 33,
-      "kata_arab": "ۗ",
-      "transliterasi": "",
-      "jenis_kata": "Huruf (tanda ayah)",
-      "arti": "tanda berhenti ayat",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "menunjukkan akhir kalimat",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "simbol baca, tidak beri'rab",
-        "irab_dan_logika": "tidak berlaku"
-      },
-      "hikmah": "Memberi jeda bagi pembaca untuk merenungkan makna sebelumnya.",
-      "role": "none"
-    },
-    {
-      "index": 34,
+      "index": 29,
       "kata_arab": "فَمَنِ",
       "transliterasi": "famani",
       "jenis_kata": "Kombinasi Huruf (fa) + Isim (man)",
@@ -633,7 +543,7 @@
       "role": "none"
     },
     {
-      "index": 35,
+      "index": 30,
       "kata_arab": "ٰعتدىَا",
       "transliterasi": "i‘tada",
       "jenis_kata": "Fi'il (madhi)",
@@ -651,7 +561,7 @@
       "role": "none"
     },
     {
-      "index": 36,
+      "index": 31,
       "kata_arab": "بَعْدَ",
       "transliterasi": "ba‘da",
       "jenis_kata": "Huruf (preposisi)",
@@ -669,7 +579,7 @@
       "role": "none"
     },
     {
-      "index": 37,
+      "index": 32,
       "kata_arab": "ذَٰلِكَ",
       "transliterasi": "dhālika",
       "jenis_kata": "Isim (demonstratif)",
@@ -687,7 +597,7 @@
       "role": "none"
     },
     {
-      "index": 38,
+      "index": 33,
       "kata_arab": "فَلَهُۥ",
       "transliterasi": "fa‑lahu",
       "jenis_kata": "Huruf (fa) + Isim (pronoun) gabungan",
@@ -705,7 +615,7 @@
       "role": "none"
     },
     {
-      "index": 39,
+      "index": 34,
       "kata_arab": "عَذَابٌ",
       "transliterasi": "‘adhābun",
       "jenis_kata": "Isim (noun)",

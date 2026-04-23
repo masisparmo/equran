@@ -58,24 +58,6 @@
     },
     {
       "index": 3,
-      "kata_arab": "ۘ",
-      "transliterasi": "waqf",
-      "jenis_kata": "Huruf",
-      "arti": "tanda berhenti",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "tanda jeda",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "علامة وقف (waqf) بين الجمل",
-        "irab_dan_logika": "ليس له إعراب، يوقف القراءة"
-      },
-      "hikmah": "memberi jeda untuk merenungkan makna sebelumnya",
-      "role": "none"
-    },
-    {
-      "index": 4,
       "kata_arab": "إِنَّ",
       "transliterasi": "inna",
       "jenis_kata": "Huruf",
@@ -93,7 +75,7 @@
       "role": "none"
     },
     {
-      "index": 5,
+      "index": 4,
       "kata_arab": "ٱلْعِزَّةَ",
       "transliterasi": "al-‘izzata",
       "jenis_kata": "Isim",
@@ -111,7 +93,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 5,
       "kata_arab": "لِلَّهِ",
       "transliterasi": "li‑llāhi",
       "jenis_kata": "Huruf (preposisi)",
@@ -129,7 +111,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 6,
       "kata_arab": "جَمِيعًا",
       "transliterasi": "jamīʿan",
       "jenis_kata": "Isim (isim mafʿūl)",
@@ -147,25 +129,7 @@
       "role": "none"
     },
     {
-      "index": 8,
-      "kata_arab": "ۙ",
-      "transliterasi": "(tanda waqf)",
-      "jenis_kata": "Huruf (tanda baca)",
-      "arti": "tanda berhenti",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "Penanda akhir ayat, tidak berirab",
-        "irab_dan_logika": "Tidak memiliki iʿrāb karena merupakan simbol baca"
-      },
-      "hikmah": "**Makna mendalam:** Memberi jeda bagi pembaca untuk merenungkan makna ayat sebelum melanjutkan.",
-      "role": "none"
-    },
-    {
-      "index": 9,
+      "index": 7,
       "kata_arab": "هُوَ",
       "transliterasi": "huwa",
       "jenis_kata": "Isim dhāt (kata ganti)",
@@ -183,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 8,
       "kata_arab": "ٱلسَّمِيعُ",
       "transliterasi": "as‑samīʿu",
       "jenis_kata": "Isim (sifat)",
@@ -201,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 9,
       "kata_arab": "ٱلْعَلِيمُ",
       "transliterasi": "al‑ʿalīmu",
       "jenis_kata": "Isim (sifat)",

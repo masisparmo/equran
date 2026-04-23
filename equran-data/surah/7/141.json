@@ -148,24 +148,6 @@
     },
     {
       "index": 8,
-      "kata_arab": "ۖ",
-      "transliterasi": "waqf (علامة وقف)",
-      "jenis_kata": "Huruf",
-      "arti": "tanda koma/istirahat",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "menunjukkan jeda dalam bacaan",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "علامة ترقيم تفصل بين جزأين من الجملة",
-        "irab_dan_logika": "ليس له إعراب لأنه ليس كلمة"
-      },
-      "hikmah": "memberi **istirahat** bagi pembaca sebelum melanjutkan ayat",
-      "role": "none"
-    },
-    {
-      "index": 9,
       "kata_arab": "يُقَتِّلُونَ",
       "transliterasi": "yuqattilūna",
       "jenis_kata": "Fiʻil",
@@ -183,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 9,
       "kata_arab": "أَبْنَآءَكُمْ",
       "transliterasi": "abnāʼakum",
       "jenis_kata": "Isim",
@@ -201,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 10,
       "kata_arab": "وَيَسْتَحْيُونَ",
       "transliterasi": "wa‑yastahyūna",
       "jenis_kata": "Fiʻil",
@@ -219,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 11,
       "kata_arab": "نِسَآءَكُمْ",
       "transliterasi": "nisāʾakum",
       "jenis_kata": "Isim (isim mufʿala bi‑ḍammir)",
@@ -237,25 +219,7 @@
       "role": "none"
     },
     {
-      "index": 13,
-      "kata_arab": "ۚ",
-      "transliterasi": "(waqf)",
-      "jenis_kata": "Huruf (tanda waqf)",
-      "arti": "tanda jeda",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "simbol waqf, memisahkan bagian kalimat",
-        "irab_dan_logika": "tidak berirab, berfungsi sebagai henti"
-      },
-      "hikmah": "Menandai jeda untuk memberi ruang renungan pada pembaca.",
-      "role": "none"
-    },
-    {
-      "index": 14,
+      "index": 12,
       "kata_arab": "وَفِى",
       "transliterasi": "wa‑fī",
       "jenis_kata": "Huruf (harf jar)",
@@ -273,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 13,
       "kata_arab": "رَّبِّكُمْ",
       "transliterasi": "rabbikum",
       "jenis_kata": "Isim (isim mudhaf)",
@@ -291,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 14,
       "kata_arab": "عَظِيمٌۭ",
       "transliterasi": "‘azīm",
       "jenis_kata": "Isim (sifat)",

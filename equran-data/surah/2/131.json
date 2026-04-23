@@ -94,24 +94,6 @@
     },
     {
       "index": 5,
-      "kata_arab": "ۖ",
-      "transliterasi": "(tanda waqaf)",
-      "jenis_kata": "Tanda Baca",
-      "arti": "tanda berhenti (wajib)",
-      "sharaf": {
-        "akar_kata": "Tidak berlaku",
-        "makna_dasar": "Menunjukkan tempat berhenti yang dianjurkan atau wajib dalam bacaan Al-Qur'an.",
-        "wazan_perubahan": "Tidak berlaku"
-      },
-      "nahwu": {
-        "kedudukan": "Tanda waqaf",
-        "irab_dan_logika": "Bukan bagian dari struktur gramatikal kalimat, melainkan tanda bantu bacaan untuk menunjukkan tempat berhenti yang tepat agar makna tidak berubah atau rancu. Tanda ini disebut *waqaf lazim*, yang berarti wajib berhenti."
-      },
-      "hikmah": "Membantu pembaca Al-Qur'an untuk memahami struktur kalimat dan makna ayat dengan benar, memastikan jeda yang tepat setelah perintah 'Aslim' sebelum jawaban Nabi Ibrahim, sehingga pesan perintah Allah tersampaikan dengan jelas dan terpisah dari respons Nabi Ibrahim.",
-      "role": "none"
-    },
-    {
-      "index": 6,
       "kata_arab": "قَالَ",
       "transliterasi": "Qāla",
       "jenis_kata": "Fi'il",
@@ -129,7 +111,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 6,
       "kata_arab": "أَسْلَمْتُ",
       "transliterasi": "Aslamtu",
       "jenis_kata": "Fi'il",
@@ -147,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 7,
       "kata_arab": "لِرَبِّ",
       "transliterasi": "Lirabbi",
       "jenis_kata": "Huruf + Isim",
@@ -165,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 8,
       "kata_arab": "ٱلْعَٰلَمِينَ",
       "transliterasi": "Al-'Ālamīn",
       "jenis_kata": "Isim",

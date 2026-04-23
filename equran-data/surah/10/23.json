@@ -166,24 +166,6 @@
     },
     {
       "index": 9,
-      "kata_arab": "ۗ",
-      "transliterasi": "(tanda waqaf)",
-      "jenis_kata": "Tanda Baca",
-      "arti": "Tanda berhenti (waqaf lazim)",
-      "sharaf": {
-        "akar_kata": "N/A",
-        "makna_dasar": "N/A",
-        "wazan_perubahan": "N/A"
-      },
-      "nahwu": {
-        "kedudukan": "N/A",
-        "irab_dan_logika": "N/A"
-      },
-      "hikmah": "Tanda waqaf lazim (berhenti lebih utama) ini menunjukkan akhir dari satu klausa atau ide penting. Memberikan jeda bagi pembaca untuk merenungkan makna sebelumnya sebelum melanjutkan ke bagian berikutnya dari ayat, yang merupakan seruan baru.",
-      "role": "none"
-    },
-    {
-      "index": 10,
       "kata_arab": "يَٰٓأَيُّهَا",
       "transliterasi": "Yā Ayyuhā",
       "jenis_kata": "Huruf Nida' + Isim + Huruf Tanbih",
@@ -201,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 10,
       "kata_arab": "ٱلنَّاسُ",
       "transliterasi": "an-Nāsu",
       "jenis_kata": "Isim",
@@ -219,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 11,
       "kata_arab": "إِنَّمَا",
       "transliterasi": "Innamā",
       "jenis_kata": "Huruf",
@@ -237,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 12,
       "kata_arab": "بَغْيُكُمْ",
       "transliterasi": "Baghyukum",
       "jenis_kata": "Isim",
@@ -255,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 13,
       "kata_arab": "عَلَىٰٓ",
       "transliterasi": "Alā",
       "jenis_kata": "Huruf",
@@ -273,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 14,
       "kata_arab": "أَنفُسِكُم",
       "transliterasi": "Anfusikum",
       "jenis_kata": "Isim",
@@ -291,25 +273,7 @@
       "role": "none"
     },
     {
-      "index": 16,
-      "kata_arab": "ۖ",
-      "transliterasi": "(Tanda Waqaf)",
-      "jenis_kata": "Tanda baca Al-Qur'an",
-      "arti": "(Tidak ada arti harfiah)",
-      "sharaf": {
-        "akar_kata": "(Tidak berlaku)",
-        "makna_dasar": "(Tidak berlaku)",
-        "wazan_perubahan": "(Tidak berlaku)"
-      },
-      "nahwu": {
-        "kedudukan": "Tanda waqaf jaiz (boleh berhenti, boleh melanjutkan)",
-        "irab_dan_logika": "Ini adalah tanda waqaf dalam mushaf Al-Qur'an yang menunjukkan bahwa berhenti pada titik ini adalah *jaiz* (boleh), artinya pembaca memiliki pilihan untuk berhenti atau melanjutkan bacaan. Tidak ada implikasi i'rab karena ini adalah tanda baca, bukan bagian dari struktur gramatikal kalimat."
-      },
-      "hikmah": "Tanda ini berfungsi sebagai panduan bagi pembaca Al-Qur'an untuk mengatur nafas dan memahami makna. Meskipun boleh berhenti, konteks ayat seringkali menyarankan untuk melanjutkan agar makna kalimat berikutnya (yang menjelaskan sifat kezaliman) tidak terputus terlalu jauh dari subjeknya.",
-      "role": "none"
-    },
-    {
-      "index": 17,
+      "index": 15,
       "kata_arab": "مَّتَٰعَ",
       "transliterasi": "Matā'a",
       "jenis_kata": "Isim",
@@ -327,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 16,
       "kata_arab": "ٱلْحَيَوٰةِ",
       "transliterasi": "al-ḥayāh",
       "jenis_kata": "Isim",
@@ -345,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 17,
       "kata_arab": "ٱلدُّنْيَا",
       "transliterasi": "ad-dunyā",
       "jenis_kata": "Isim",
@@ -363,25 +327,7 @@
       "role": "none"
     },
     {
-      "index": 20,
-      "kata_arab": "ۖ",
-      "transliterasi": "(tanda waqaf)",
-      "jenis_kata": "Huruf",
-      "arti": "Tanda waqaf lazim (berhenti lebih utama)",
-      "sharaf": {
-        "akar_kata": "N/A",
-        "makna_dasar": "N/A",
-        "wazan_perubahan": "N/A"
-      },
-      "nahwu": {
-        "kedudukan": "Bukan bagian dari struktur kalimat gramatikal",
-        "irab_dan_logika": "N/A"
-      },
-      "hikmah": "Tanda ini menunjukkan tempat yang dianjurkan untuk berhenti saat membaca Al-Qur'an, untuk menjaga makna ayat agar tidak terjadi kesalahpahaman. Dalam konteks ini, ia menandai akhir dari frasa tentang kenikmatan duniawi sebelum beralih ke konsekuensi akhirat.",
-      "role": "none"
-    },
-    {
-      "index": 21,
+      "index": 18,
       "kata_arab": "ثُمَّ",
       "transliterasi": "tsumma",
       "jenis_kata": "Huruf",
@@ -399,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 19,
       "kata_arab": "إِلَيْنَا",
       "transliterasi": "ilainā",
       "jenis_kata": "Huruf + Isim Dhomir",
@@ -417,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 20,
       "kata_arab": "مَرْجِعُكُمْ",
       "transliterasi": "marji'ukum",
       "jenis_kata": "Isim",
@@ -435,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 21,
       "kata_arab": "فَنُنَبِّئُكُم",
       "transliterasi": "fanunabbi'ukum",
       "jenis_kata": "Fi'il dan Dhomir",
@@ -453,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 22,
       "kata_arab": "بِمَا",
       "transliterasi": "bimā",
       "jenis_kata": "Huruf Jar dan Isim Maushul",
@@ -471,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 26,
+      "index": 23,
       "kata_arab": "كُنتُمْ",
       "transliterasi": "kuntum",
       "jenis_kata": "Fi'il Madhi Naqish dan Dhomir",
@@ -489,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 27,
+      "index": 24,
       "kata_arab": "تَعْمَلُونَ",
       "transliterasi": "ta'malūna",
       "jenis_kata": "Fi'il Mudhari'",

@@ -112,24 +112,6 @@
     },
     {
       "index": 6,
-      "kata_arab": "ۖ",
-      "transliterasi": "Waqf Laazim",
-      "jenis_kata": "Tanda Baca",
-      "arti": "Tanda berhenti sempurna (wajib berhenti)",
-      "sharaf": {
-        "akar_kata": "N/A",
-        "makna_dasar": "N/A",
-        "wazan_perubahan": "N/A"
-      },
-      "nahwu": {
-        "kedudukan": "Tanda waqaf",
-        "irab_dan_logika": "Menunjukkan akhir dari satu bagian makna atau kalimat, di mana berhenti adalah lebih utama atau wajib untuk menjaga makna yang telah disampaikan."
-      },
-      "hikmah": "Tanda ini berfungsi sebagai penanda jeda yang penting dalam bacaan Al-Qur'an, memastikan pembaca berhenti sejenak untuk merenungkan dan memahami makna yang telah disampaikan sebelum melanjutkan, sehingga menjaga keutuhan dan kejelasan pesan ilahi.",
-      "role": "none"
-    },
-    {
-      "index": 7,
       "kata_arab": "أُجِيبُ",
       "transliterasi": "Ujību",
       "jenis_kata": "Fi'il (Kata Kerja)",
@@ -147,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 7,
       "kata_arab": "دَعْوَةَ",
       "transliterasi": "Da'wata",
       "jenis_kata": "Isim (Kata Benda)",
@@ -165,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 8,
       "kata_arab": "ٱلدَّاعِ",
       "transliterasi": "Ad-Dā'i",
       "jenis_kata": "Isim (Kata Benda)",
@@ -183,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 9,
       "kata_arab": "إِذَا",
       "transliterasi": "Idhā",
       "jenis_kata": "Huruf/Zarf (Kata Keterangan Waktu)",
@@ -201,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 10,
       "kata_arab": "دَعَانِ",
       "transliterasi": "Da'āni",
       "jenis_kata": "Fi'il (Kata Kerja)",
@@ -219,25 +201,7 @@
       "role": "none"
     },
     {
-      "index": 12,
-      "kata_arab": "ۖ",
-      "transliterasi": "waqf lazim",
-      "jenis_kata": "Tanda Waqf",
-      "arti": "Berhenti wajib",
-      "sharaf": {
-        "akar_kata": "Tidak berlaku",
-        "makna_dasar": "Tidak berlaku",
-        "wazan_perubahan": "Tidak berlaku"
-      },
-      "nahwu": {
-        "kedudukan": "Tanda baca",
-        "irab_dan_logika": "Tidak memiliki i'rab"
-      },
-      "hikmah": "Tanda ini menunjukkan pentingnya berhenti pada titik ini untuk memahami makna yang benar dan menghindari kesalahpahaman. Dalam konteks ayat ini, ia memisahkan janji Allah untuk mengabulkan doa dari perintah-Nya kepada hamba-Nya.",
-      "role": "none"
-    },
-    {
-      "index": 13,
+      "index": 11,
       "kata_arab": "فَلْيَسْتَجِيبُوا۟",
       "transliterasi": "falyastajībū",
       "jenis_kata": "Fi'il",
@@ -255,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 12,
       "kata_arab": "لِى",
       "transliterasi": "lī",
       "jenis_kata": "Huruf",
@@ -273,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 13,
       "kata_arab": "وَلْيُؤْمِنُوا۟",
       "transliterasi": "walyu'minū",
       "jenis_kata": "Fi'il",
@@ -291,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 14,
       "kata_arab": "بِى",
       "transliterasi": "bī",
       "jenis_kata": "Huruf",
@@ -309,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 15,
       "kata_arab": "لَعَلَّهُمْ",
       "transliterasi": "la'allahum",
       "jenis_kata": "Huruf",
@@ -327,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 16,
       "kata_arab": "يَرْشُدُونَ",
       "transliterasi": "yarshudūn",
       "jenis_kata": "Fi'il",

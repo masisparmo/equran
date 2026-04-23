@@ -112,24 +112,6 @@
     },
     {
       "index": 6,
-      "kata_arab": "ۖ",
-      "transliterasi": "(tanda baca)",
-      "jenis_kata": "Huruf (tanda baca)",
-      "arti": "tanda waqf (istirahat)",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "tanda waqf di akhir ayat, memisahkan dua bagian kalimat",
-        "irab_dan_logika": "menunjukkan jeda bacaan, tidak memiliki i'rab"
-      },
-      "hikmah": "Menandakan berhenti sejenak untuk merenungkan ayat sebelumnya sebelum melanjutkan ke bagian berikutnya.",
-      "role": "none"
-    },
-    {
-      "index": 7,
       "kata_arab": "وَٱلنُّجُومُ",
       "transliterasi": "wal‑nujuumu",
       "jenis_kata": "Isim (isim jamak)",
@@ -147,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 7,
       "kata_arab": "مُسَخَّرَٰتٌۢ",
       "transliterasi": "musakharatun",
       "jenis_kata": "Isim (isim maf‘ul)",
@@ -165,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 8,
       "kata_arab": "بِأَمْرِهِۦٓ",
       "transliterasi": "bi‑amrihi",
       "jenis_kata": "Huruf (preposisi) + Isim + ضمير متصل",
@@ -183,25 +165,7 @@
       "role": "none"
     },
     {
-      "index": 10,
-      "kata_arab": "ۗ",
-      "transliterasi": "(tanda baca)",
-      "jenis_kata": "Huruf (tanda baca)",
-      "arti": "tanda waqf (istirahat)",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "tanda waqf di akhir frasa, memisahkan dari kalimat berikutnya",
-        "irab_dan_logika": "tidak memiliki i'rab, berfungsi sebagai jeda bacaan"
-      },
-      "hikmah": "Memberi kesempatan bagi pendengar untuk merenungkan makna ayat sebelum melanjutkan ke pernyataan selanjutnya.",
-      "role": "none"
-    },
-    {
-      "index": 11,
+      "index": 9,
       "kata_arab": "إِنَّ",
       "transliterasi": "inna",
       "jenis_kata": "Huruf (harf takid)",
@@ -219,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 10,
       "kata_arab": "فِى",
       "transliterasi": "fi",
       "jenis_kata": "Huruf",
@@ -237,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 11,
       "kata_arab": "ذَٰلِكَ",
       "transliterasi": "dhalika",
       "jenis_kata": "Isim",
@@ -255,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 12,
       "kata_arab": "لَءَايَٰتٍۢ",
       "transliterasi": "la'āyātin",
       "jenis_kata": "Isim",
@@ -273,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 13,
       "kata_arab": "لِّقَوْمٍۢ",
       "transliterasi": "liqawmin",
       "jenis_kata": "Isim",
@@ -291,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 14,
       "kata_arab": "يَعْقِلُونَ",
       "transliterasi": "ya‘qilūna",
       "jenis_kata": "Fi'il",

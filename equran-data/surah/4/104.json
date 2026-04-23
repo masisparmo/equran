@@ -94,24 +94,6 @@
     },
     {
       "index": 5,
-      "kata_arab": "ۖ",
-      "transliterasi": "",
-      "jenis_kata": "Tanda baca (waqf)",
-      "arti": "tanda jeda",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "Tidak termasuk dalam sintaks, berfungsi sebagai waqf kecil (pause)",
-        "irab_dan_logika": "Tidak berirab, menandakan jeda ringan sebelum melanjutkan ayat"
-      },
-      "hikmah": "*Memberi* ruang napas bagi pembaca untuk merenungkan perintah sebelumnya",
-      "role": "none"
-    },
-    {
-      "index": 6,
       "kata_arab": "إِن",
       "transliterasi": "in",
       "jenis_kata": "Huruf",
@@ -129,7 +111,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 6,
       "kata_arab": "تَكُونُوا۟",
       "transliterasi": "takūnū",
       "jenis_kata": "Fi'il",
@@ -147,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 7,
       "kata_arab": "تَأْلَمُونَ",
       "transliterasi": "ta'lamūna",
       "jenis_kata": "Fi'il",
@@ -165,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 8,
       "kata_arab": "فَإِنَّهُمْ",
       "transliterasi": "fa-innahum",
       "jenis_kata": "Huruf",
@@ -183,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 9,
       "kata_arab": "يَأْلَمُونَ",
       "transliterasi": "ya'lamūna",
       "jenis_kata": "Fi'il",
@@ -201,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 10,
       "kata_arab": "كَمَا",
       "transliterasi": "kama",
       "jenis_kata": "Huruf",
@@ -219,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 11,
       "kata_arab": "تَأْلَمُونَ",
       "transliterasi": "taʾlamūna",
       "jenis_kata": "Fi'il",
@@ -237,25 +219,7 @@
       "role": "none"
     },
     {
-      "index": 13,
-      "kata_arab": "ۖ",
-      "transliterasi": "waqf",
-      "jenis_kata": "Huruf",
-      "arti": "tanda jeda",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "tanda waqf (tanda baca)",
-        "irab_dan_logika": "tidak berirab, menandakan jeda"
-      },
-      "hikmah": "*Memberi* jeda untuk menekankan makna sebelumnya.",
-      "role": "none"
-    },
-    {
-      "index": 14,
+      "index": 12,
       "kata_arab": "وَتَرْجُونَ",
       "transliterasi": "wa tarjūna",
       "jenis_kata": "Fi'il",
@@ -273,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 13,
       "kata_arab": "مِنَ",
       "transliterasi": "mina",
       "jenis_kata": "Huruf",
@@ -291,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 14,
       "kata_arab": "ٱللَّهِ",
       "transliterasi": "Allāhi",
       "jenis_kata": "Isim",
@@ -309,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 15,
       "kata_arab": "مَا",
       "transliterasi": "mā",
       "jenis_kata": "Huruf",
@@ -327,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 16,
       "kata_arab": "لَا",
       "transliterasi": "lā",
       "jenis_kata": "Huruf (partikel negasi)",
@@ -345,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 17,
       "kata_arab": "يَرْجُونَ",
       "transliterasi": "yarjūna",
       "jenis_kata": "Fi'il (verb)",
@@ -363,43 +327,7 @@
       "role": "none"
     },
     {
-      "index": 20,
-      "kata_arab": "ۗ",
-      "transliterasi": "(tanda ayat)",
-      "jenis_kata": "Simbol (tanda akhir ayat)",
-      "arti": "menandakan selesai",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "Berada di akhir ayat, tidak berfungsi dalam tata bahasa",
-        "irab_dan_logika": "Tidak memiliki i'rab karena bukan kata"
-      },
-      "hikmah": "Menandai berakhirnya kalimat sehingga pembaca dapat memisahkan makna antar ayat",
-      "role": "none"
-    },
-    {
-      "index": 21,
-      "kata_arab": "وَكَانَ",
-      "transliterasi": "wa-kāna",
-      "jenis_kata": "Fi'il (verb) dengan huruf waqf",
-      "arti": "dan adalah",
-      "sharaf": {
-        "akar_kata": "ك-و-ن",
-        "makna_dasar": "menjadi, ada",
-        "wazan_perubahan": "كان"
-      },
-      "nahwu": {
-        "kedudukan": "Kata sambung (wa) + fi'il madhi yang berfungsi sebagai predikat (khabar) bagi اسم كان (Allāh)",
-        "irab_dan_logika": "Marfu' (berharakat dhammah) karena fi'il madhi tidak berkasrah atau fathah"
-      },
-      "hikmah": "Menyatakan keberadaan atau sifat Allah yang akan dijelaskan pada bagian selanjutnya",
-      "role": "none"
-    },
-    {
-      "index": 22,
+      "index": 18,
       "kata_arab": "ٱللَّهُ",
       "transliterasi": "Allāhu",
       "jenis_kata": "Isim (nama)",
@@ -417,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 19,
       "kata_arab": "عَلِيمًا",
       "transliterasi": "ʿalīman",
       "jenis_kata": "Isim (sifat)",
@@ -435,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 20,
       "kata_arab": "حَكِيمًا",
       "transliterasi": "ḥakīman",
       "jenis_kata": "Isim",

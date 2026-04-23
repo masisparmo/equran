@@ -292,24 +292,6 @@
     },
     {
       "index": 16,
-      "kata_arab": "ۚ",
-      "transliterasi": "",
-      "jenis_kata": "Isyarat waqf (tanda baca)",
-      "arti": "tanda berhenti",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "pemisah ayat, menandai jeda setelah frasa sebelumnya",
-        "irab_dan_logika": "bukan bagian tata bahasa, tidak berirab"
-      },
-      "hikmah": "memberi jeda untuk merenungkan makna ayat sebelum beralih ke bagian selanjutnya",
-      "role": "none"
-    },
-    {
-      "index": 17,
       "kata_arab": "مِّنْهُمْ",
       "transliterasi": "minhum",
       "jenis_kata": "Huruf (preposisi)",
@@ -327,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 17,
       "kata_arab": "أُمَّةٌۭ",
       "transliterasi": "ummatun",
       "jenis_kata": "Isim (isim mufradah, marfu‘ bi‑tanwin)",
@@ -345,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 18,
       "kata_arab": "مُّقْتَصِدَةٌۭ",
       "transliterasi": "muqtasidatun",
       "jenis_kata": "Isim (sifat mufradah, marfu‘ bi‑tanwin)",
@@ -363,25 +345,7 @@
       "role": "none"
     },
     {
-      "index": 20,
-      "kata_arab": "ۖ",
-      "transliterasi": "",
-      "jenis_kata": "Huruf (tanda waqf — *pause* / *stop*)",
-      "arti": "tanda jeda",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "Memisahkan dua klausa: *«أُمَّةٌ مُّقْتَصِدَةٌ»* dan *«وَكَثِيرٌ مِّنْهُمْ سَاء»*",
-        "irab_dan_logika": "Tidak ber‑irab; berfungsi sebagai **waqf** untuk memberi jeda makna."
-      },
-      "hikmah": "Menandakan peralihan topik; setelah menyebut **umat yang murut**, ayat beralih ke **banyak yang berbuat buruk**.",
-      "role": "none"
-    },
-    {
-      "index": 21,
+      "index": 19,
       "kata_arab": "وَكَثِيرٌۭ",
       "transliterasi": "wa‑kathirun",
       "jenis_kata": "Isim (isim mufradah, marfu‘ bi‑tanwin) dengan huruf *wa* (conjunction)",
@@ -399,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 20,
       "kata_arab": "مِّنْهُمْ",
       "transliterasi": "minhum",
       "jenis_kata": "Huruf jar (preposisi) + dhamir muttasil (pronoun) ",
@@ -417,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 21,
       "kata_arab": "مَا",
       "transliterasi": "mā",
       "jenis_kata": "Isim",
@@ -435,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 22,
       "kata_arab": "يَعْمَلُونَ",
       "transliterasi": "ya‘malūna",
       "jenis_kata": "Fi‘il",

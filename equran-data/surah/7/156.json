@@ -202,24 +202,6 @@
     },
     {
       "index": 11,
-      "kata_arab": "ۚ",
-      "transliterasi": "(tanda baca)",
-      "jenis_kata": "Huruf",
-      "arti": "tanda berhenti",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "Tanda baca (waqf) yang menandai akhir ayat",
-        "irab_dan_logika": "Tidak berirab, berfungsi sebagai pemisah"
-      },
-      "hikmah": "Menandakan selesai pembacaan ayat, memberi jeda bagi pendengar untuk merenungkan makna.",
-      "role": "none"
-    },
-    {
-      "index": 12,
       "kata_arab": "قَالَ",
       "transliterasi": "qāla",
       "jenis_kata": "Fi'il",
@@ -237,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 12,
       "kata_arab": "عَذَابِى",
       "transliterasi": "ʿadhābī",
       "jenis_kata": "Isim",
@@ -255,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 13,
       "kata_arab": "أُصِيبُ",
       "transliterasi": "uṣību",
       "jenis_kata": "Fi'il",
@@ -273,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 14,
       "kata_arab": "بِهِ",
       "transliterasi": "bihi",
       "jenis_kata": "Huruf",
@@ -291,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 15,
       "kata_arab": "مَنْ",
       "transliterasi": "man",
       "jenis_kata": "Isim",
@@ -309,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 16,
       "kata_arab": "أَشَاءُ",
       "transliterasi": "ashā'u",
       "jenis_kata": "Fi'il",
@@ -327,25 +309,7 @@
       "role": "none"
     },
     {
-      "index": 18,
-      "kata_arab": "ۖ",
-      "transliterasi": "(waqf)",
-      "jenis_kata": "Huruf",
-      "arti": "tanda berhenti/istirahat dalam bacaan",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "tanda waqf di akhir ayat",
-        "irab_dan_logika": "menandakan jeda panjang (waqf al‑qira'ah) untuk memberi ruang tafsir"
-      },
-      "hikmah": "Menunjukkan pentingnya berhenti sejenak, mengingatkan pembaca agar merenungkan makna ayat sebelum melanjutkan.",
-      "role": "none"
-    },
-    {
-      "index": 19,
+      "index": 17,
       "kata_arab": "وَرَحْمَتِى",
       "transliterasi": "wa‑raḥmati",
       "jenis_kata": "Isim",
@@ -363,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 18,
       "kata_arab": "وَسِعَتْ",
       "transliterasi": "wa‑si‘at",
       "jenis_kata": "Fi‘il",
@@ -381,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 19,
       "kata_arab": "كُلَّ",
       "transliterasi": "kulla",
       "jenis_kata": "Isim",
@@ -399,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 20,
       "kata_arab": "شَىْءٍۢ",
       "transliterasi": "shai’in",
       "jenis_kata": "Isim",
@@ -417,25 +381,7 @@
       "role": "none"
     },
     {
-      "index": 23,
-      "kata_arab": "ۚ",
-      "transliterasi": "(waqf akhir)",
-      "jenis_kata": "Huruf",
-      "arti": "tanda berhenti akhir ayat",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "tanda waqf di akhir ayat",
-        "irab_dan_logika": "menandakan selesainya kalimat, memberi ruang untuk tafsir dan doa"
-      },
-      "hikmah": "Mengakhiri ayat dengan penekanan pada pentingnya merenungkan seluruh makna yang telah disampaikan.",
-      "role": "none"
-    },
-    {
-      "index": 24,
+      "index": 21,
       "kata_arab": "فَسَأَكْتُبُهَا",
       "transliterasi": "fa‑saʾaktubu‑ha",
       "jenis_kata": "Fiʿil (kata kerja) dengan prefiks *fa* dan *sa*",
@@ -453,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 22,
       "kata_arab": "لِلَّذِينَ",
       "transliterasi": "lil‑ladhīna",
       "jenis_kata": "Huruf *li* (preposisi) + Isim *alladhīna* (kata ganti relatif)",
@@ -471,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 26,
+      "index": 23,
       "kata_arab": "يَتَّقُونَ",
       "transliterasi": "yattaquna",
       "jenis_kata": "Fiʿil (kata kerja) bentuk mudhariʿ jamak",
@@ -489,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 27,
+      "index": 24,
       "kata_arab": "وَيُؤْتُونَ",
       "transliterasi": "wa‑yuʾtuna",
       "jenis_kata": "Fiʿil (kata kerja) dengan huruf *wa* penghubung",
@@ -507,7 +453,7 @@
       "role": "none"
     },
     {
-      "index": 28,
+      "index": 25,
       "kata_arab": "ٱلزَّكَوٰةَ",
       "transliterasi": "az‑zakāhata",
       "jenis_kata": "Isim (kata benda)",
@@ -525,7 +471,7 @@
       "role": "none"
     },
     {
-      "index": 29,
+      "index": 26,
       "kata_arab": "وَٱلَّذِينَ",
       "transliterasi": "wa‑alladhīna",
       "jenis_kata": "Huruf *wa* (konjungsi) + Isim *alladhīna*",
@@ -543,7 +489,7 @@
       "role": "none"
     },
     {
-      "index": 30,
+      "index": 27,
       "kata_arab": "هُم",
       "transliterasi": "hum",
       "jenis_kata": "Isim",
@@ -561,7 +507,7 @@
       "role": "none"
     },
     {
-      "index": 31,
+      "index": 28,
       "kata_arab": "بِآيَاتِنَا",
       "transliterasi": "bi-āyātinā",
       "jenis_kata": "Isim",
@@ -579,7 +525,7 @@
       "role": "none"
     },
     {
-      "index": 32,
+      "index": 29,
       "kata_arab": "يُؤْمِنُونَ",
       "transliterasi": "yuʾminūna",
       "jenis_kata": "Fi'il",

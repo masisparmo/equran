@@ -112,24 +112,6 @@
     },
     {
       "index": 6,
-      "kata_arab": "ۖ",
-      "transliterasi": "Waqaf Lazim",
-      "jenis_kata": "Tanda Baca",
-      "arti": "Berhenti sempurna (wajib berhenti)",
-      "sharaf": {
-        "akar_kata": "N/A",
-        "makna_dasar": "N/A",
-        "wazan_perubahan": "N/A"
-      },
-      "nahwu": {
-        "kedudukan": "Tanda waqaf lazim",
-        "irab_dan_logika": "Menunjukkan tempat berhenti yang wajib untuk menjaga makna ayat agar tidak rancu."
-      },
-      "hikmah": "Tanda waqaf lazim ini berfungsi sebagai pemisah yang penting antara dua bagian ayat. Bagian pertama menyatakan bahwa nikmat berasal dari Allah, dan bagian kedua menyatakan bahwa bencana berasal dari diri sendiri. Berhenti di sini mencegah kesalahpahaman bahwa Allah adalah sumber keburukan, dan menegaskan tanggung jawab manusia atas musibah yang menimpanya.",
-      "role": "none"
-    },
-    {
-      "index": 7,
       "kata_arab": "وَمَآ",
       "transliterasi": "wa mā",
       "jenis_kata": "Huruf (Waw) dan Isim (Ma)",
@@ -147,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 7,
       "kata_arab": "أَصَابَكَ",
       "transliterasi": "aṣābaka",
       "jenis_kata": "Fi'il (kata kerja) dan Dhomir (kata ganti)",
@@ -165,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 8,
       "kata_arab": "مِن",
       "transliterasi": "min",
       "jenis_kata": "Huruf",
@@ -183,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 9,
       "kata_arab": "سَيِّئَةٍۢ",
       "transliterasi": "sayyi'ah",
       "jenis_kata": "Isim (kata benda)",
@@ -201,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 10,
       "kata_arab": "فَمِن",
       "transliterasi": "fa min",
       "jenis_kata": "Huruf (Fa) dan Huruf (Min)",
@@ -219,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 11,
       "kata_arab": "نَّفْسِكَ",
       "transliterasi": "nafsika",
       "jenis_kata": "Isim",
@@ -237,25 +219,7 @@
       "role": "none"
     },
     {
-      "index": 13,
-      "kata_arab": "ۚ",
-      "transliterasi": "",
-      "jenis_kata": "Huruf",
-      "arti": "Tanda waqf lazim (harus berhenti)",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "Tanda waqf.",
-        "irab_dan_logika": "Tidak memiliki i'rab karena bukan bagian dari struktur kalimat."
-      },
-      "hikmah": "Menunjukkan **pemisahan makna** yang jelas antara dua klausa utama dalam ayat: sumber nikmat (dari Allah) dan sumber musibah (dari diri sendiri). Berhenti di sini membantu memahami dua konsep ini secara terpisah sebelum melanjutkan ke bagian berikutnya.",
-      "role": "none"
-    },
-    {
-      "index": 14,
+      "index": 12,
       "kata_arab": "وَأَرْسَلْنَٰكَ",
       "transliterasi": "wa arsalnāka",
       "jenis_kata": "Fi'il + Huruf + Dhamir",
@@ -273,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 13,
       "kata_arab": "لِلنَّاسِ",
       "transliterasi": "linnāsi",
       "jenis_kata": "Huruf + Isim",
@@ -291,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 14,
       "kata_arab": "رَسُولًۭا",
       "transliterasi": "rasūlan",
       "jenis_kata": "Isim",
@@ -309,25 +273,7 @@
       "role": "none"
     },
     {
-      "index": 17,
-      "kata_arab": "ۚ",
-      "transliterasi": "",
-      "jenis_kata": "Huruf",
-      "arti": "Tanda waqf lazim (harus berhenti)",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "Tanda waqf.",
-        "irab_dan_logika": "Tidak memiliki i'rab karena bukan bagian dari struktur kalimat."
-      },
-      "hikmah": "Menunjukkan **pemisahan makna** yang jelas antara pernyataan tentang pengutusan Nabi Muhammad ﷺ dan bagian terakhir ayat yang menegaskan Allah sebagai saksi. Berhenti di sini membantu mencerna peran kenabian sebelum beralih ke penutup ayat.",
-      "role": "none"
-    },
-    {
-      "index": 18,
+      "index": 15,
       "kata_arab": "وَكَفَىٰ",
       "transliterasi": "wa kafa",
       "jenis_kata": "Huruf dan Fi'il",
@@ -345,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 16,
       "kata_arab": "بِٱللَّهِ",
       "transliterasi": "billahi",
       "jenis_kata": "Huruf dan Isim",
@@ -363,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 17,
       "kata_arab": "شَهِيدًۭا",
       "transliterasi": "syahidan",
       "jenis_kata": "Isim",

@@ -166,24 +166,6 @@
     },
     {
       "index": 9,
-      "kata_arab": "ۖ",
-      "transliterasi": "—",
-      "jenis_kata": "Simbol waqf (tanda jeda)",
-      "arti": "tanda berhenti/istirahat",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "menandai akhir bagian kalimat sebelum frase penegasan *mā ʿalayka*",
-        "irab_dan_logika": "tidak berirab, berfungsi sebagai waqf untuk memberi jeda makna"
-      },
-      "hikmah": "*Jeda ini memberi ruang bagi pendengar merenungkan pentingnya niat yang bersih sebelum melanjutkan penegasan bahwa tidak ada beban pada diri mereka.*",
-      "role": "none"
-    },
-    {
-      "index": 10,
       "kata_arab": "مَا",
       "transliterasi": "mā",
       "jenis_kata": "Huruf (partikel penafian)",
@@ -201,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 10,
       "kata_arab": "عَلَيْكَ",
       "transliterasi": "ʿalayka",
       "jenis_kata": "Huruf (preposisi) + ضمير متصل",
@@ -219,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 11,
       "kata_arab": "مِنْ",
       "transliterasi": "min",
       "jenis_kata": "Huruf",
@@ -237,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 12,
       "kata_arab": "حِسَابِهِم",
       "transliterasi": "ḥisābihim",
       "jenis_kata": "Isim",
@@ -255,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 13,
       "kata_arab": "مِّن",
       "transliterasi": "min",
       "jenis_kata": "Huruf",
@@ -273,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 14,
       "kata_arab": "شَىْءٍۢ",
       "transliterasi": "shay'in",
       "jenis_kata": "Isim",
@@ -291,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 15,
       "kata_arab": "وَمَا",
       "transliterasi": "wa-mā",
       "jenis_kata": "Huruf",
@@ -309,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 16,
       "kata_arab": "مِنْ",
       "transliterasi": "min",
       "jenis_kata": "Huruf",
@@ -327,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 17,
       "kata_arab": "حِسَابِكَ",
       "transliterasi": "ḥisābika",
       "jenis_kata": "Isim",
@@ -345,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 18,
       "kata_arab": "عَلَيْهِم",
       "transliterasi": "ʿalayhim",
       "jenis_kata": "Huruf",
@@ -363,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 19,
       "kata_arab": "مِّن",
       "transliterasi": "min",
       "jenis_kata": "Huruf",
@@ -381,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 20,
       "kata_arab": "شَىْءٍۢ",
       "transliterasi": "shay'in",
       "jenis_kata": "Isim",
@@ -399,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 21,
       "kata_arab": "مِنَ",
       "transliterasi": "mina",
       "jenis_kata": "Huruf (jar)",
@@ -417,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 22,
       "kata_arab": "الظَّالِمِينَ",
       "transliterasi": "aẓ-ẓālimīna",
       "jenis_kata": "Isim (kata benda)",

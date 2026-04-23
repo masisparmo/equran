@@ -76,24 +76,6 @@
     },
     {
       "index": 4,
-      "kata_arab": "ۖ",
-      "transliterasi": "(tanda waqf)",
-      "jenis_kata": "Tanda baca",
-      "arti": "(tidak ada)",
-      "sharaf": {
-        "akar_kata": "-",
-        "makna_dasar": "-",
-        "wazan_perubahan": "-"
-      },
-      "nahwu": {
-        "kedudukan": "علامة وقف تفصل بين الجمل",
-        "irab_dan_logika": "Tidak berirab karena bukan kata"
-      },
-      "hikmah": "Memberi jeda baca, menandakan akhir bagian sebelum perkataan salah satu pemuda.",
-      "role": "none"
-    },
-    {
-      "index": 6,
       "kata_arab": "أَحَدُهُمَآ",
       "transliterasi": "aḥaduhumā",
       "jenis_kata": "Isim",
@@ -111,7 +93,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 5,
       "kata_arab": "إِنِّىٓ",
       "transliterasi": "innī",
       "jenis_kata": "Huruf",
@@ -129,7 +111,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 6,
       "kata_arab": "وَقَالَ",
       "transliterasi": "wa-qāla",
       "jenis_kata": "Fi'il (kata kerja)",
@@ -147,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 7,
       "kata_arab": "رَأْسِي",
       "transliterasi": "ra'si",
       "jenis_kata": "Isim",
@@ -165,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 8,
       "kata_arab": "خُبْزًا",
       "transliterasi": "khubzan",
       "jenis_kata": "Isim",
@@ -183,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 9,
       "kata_arab": "تَأْكُلُ",
       "transliterasi": "ta'kulu",
       "jenis_kata": "Fi'il",
@@ -201,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 10,
       "kata_arab": "ٱلطَّيْرُ",
       "transliterasi": "al-tayru",
       "jenis_kata": "Isim",
@@ -219,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 11,
       "kata_arab": "نَبِّئْنَا",
       "transliterasi": "nabbiʾnā",
       "jenis_kata": "Fi'il",
@@ -237,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 12,
       "kata_arab": "بِتَأْوِيلِهِۦٓ",
       "transliterasi": "bi-taʾwīlihi",
       "jenis_kata": "Isim maushul (isim + huruf جر)",
@@ -255,25 +237,7 @@
       "role": "none"
     },
     {
-      "index": 26,
-      "kata_arab": "ۖ",
-      "transliterasi": "(tanda koma)",
-      "jenis_kata": "Huruf (tanda baca)",
-      "arti": "(tanda koma)",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "علامة وقف بين جملتين",
-        "irab_dan_logika": "tidak berirab, berfungsi memisahkan"
-      },
-      "hikmah": "menandakan jeda dalam bacaan",
-      "role": "none"
-    },
-    {
-      "index": 27,
+      "index": 13,
       "kata_arab": "إِنَّا",
       "transliterasi": "innā",
       "jenis_kata": "Huruf (harf nashb)",
@@ -291,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 28,
+      "index": 14,
       "kata_arab": "نَرَىٰكَ",
       "transliterasi": "narāk",
       "jenis_kata": "Fi'il",
@@ -309,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 29,
+      "index": 15,
       "kata_arab": "مِنَ",
       "transliterasi": "mina",
       "jenis_kata": "Huruf",
@@ -327,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 30,
+      "index": 16,
       "kata_arab": "ٱلْمُحْسِنِينَ",
       "transliterasi": "al-muhsinīn",
       "jenis_kata": "Isim",

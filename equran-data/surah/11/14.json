@@ -238,24 +238,6 @@
     },
     {
       "index": 13,
-      "kata_arab": "ۖ",
-      "transliterasi": "(tanda waqf)",
-      "jenis_kata": "Huruf (tanda baca)",
-      "arti": "tanda jeda/waqf",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "tanda waqf di akhir frasa",
-        "irab_dan_logika": "tidak berirab, berfungsi memberi jeda untuk menekankan makna"
-      },
-      "hikmah": "**ۖ** memberi jeda sejenak, menekankan pentingnya pernyataan sebelumnya sebelum melanjutkan pertanyaan.",
-      "role": "none"
-    },
-    {
-      "index": 14,
       "kata_arab": "فَهَلْ",
       "transliterasi": "fa-hal",
       "jenis_kata": "Huruf",
@@ -273,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 14,
       "kata_arab": "أَنتُم",
       "transliterasi": "antum",
       "jenis_kata": "Isim",
@@ -291,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 15,
       "kata_arab": "مُّسْلِمُونَ",
       "transliterasi": "muslimūna",
       "jenis_kata": "Isim (isim fa‘il)",

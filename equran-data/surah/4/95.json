@@ -256,24 +256,6 @@
     },
     {
       "index": 14,
-      "kata_arab": "ۚ",
-      "transliterasi": "",
-      "jenis_kata": "Tanda waqf (simbol berhenti)",
-      "arti": "tanda jeda/berhenti",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "Penanda akhir bagian kalimat (waqf al‑qasr)",
-        "irab_dan_logika": "Tidak memiliki i‘rāb karena bukan kata; berfungsi memisahkan antara majrur (bi‑amwālihim wa‑anfusihim) dan predikat berikutnya (faḍalla)."
-      },
-      "hikmah": "Memberi jeda bagi pembaca untuk merenungkan makna pengorbanan harta dan jiwa sebelum melanjutkan ke pernyataan keutamaan.",
-      "role": "none"
-    },
-    {
-      "index": 15,
       "kata_arab": "فَضَّلَ",
       "transliterasi": "faḍalla",
       "jenis_kata": "Fi'il (verb madhi, 3rd maskulin tunggal)",
@@ -291,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 15,
       "kata_arab": "ٱللَّهُ",
       "transliterasi": "Allāhu",
       "jenis_kata": "Isim (nama Allah, mudhaf bila‑irab)",
@@ -309,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 16,
       "kata_arab": "ٱلْمُجَٰهِدِينَ",
       "transliterasi": "al‑mujāhidīna",
       "jenis_kata": "Isim (isim fa‘il, jamak, mansub)",
@@ -327,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 17,
       "kata_arab": "بِأَمْوَالِهِمْ",
       "transliterasi": "bi-amwālihim",
       "jenis_kata": "Huruf (jar) + Isim",
@@ -345,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 18,
       "kata_arab": "وَأَنفُسِهِمْ",
       "transliterasi": "wa-anfusihim",
       "jenis_kata": "Huruf (wa) + Isim",
@@ -363,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 19,
       "kata_arab": "عَلَى",
       "transliterasi": "‘ala",
       "jenis_kata": "Huruf (jar)",
@@ -381,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 20,
       "kata_arab": "ٱلْقَٰعِدِينَ",
       "transliterasi": "al-qā‘idīn",
       "jenis_kata": "Isim (isim fa‘il)",
@@ -399,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 21,
       "kata_arab": "دَرَجَةًۭ",
       "transliterasi": "darajatan",
       "jenis_kata": "Isim (isim)",
@@ -417,25 +399,7 @@
       "role": "none"
     },
     {
-      "index": 23,
-      "kata_arab": "ۚ",
-      "transliterasi": "(tanda waqaf)",
-      "jenis_kata": "Tanda baca",
-      "arti": "(tanda jeda)",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "mengakhiri ayat, menandakan berhenti bacaan",
-        "irab_dan_logika": "bukan bagian gramatikal, berfungsi sebagai tanda waqaf"
-      },
-      "hikmah": "Memberi jeda untuk merenungkan makna ayat, menekankan pentingnya perbedaan status antara mukmin yang berjuang dan yang tidak.",
-      "role": "none"
-    },
-    {
-      "index": 24,
+      "index": 22,
       "kata_arab": "وَكُلًّۭا",
       "transliterasi": "wa‑kullā",
       "jenis_kata": "Isim",
@@ -453,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 23,
       "kata_arab": "وَعَدَ",
       "transliterasi": "waʿada",
       "jenis_kata": "Fiʿil",
@@ -471,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 26,
+      "index": 24,
       "kata_arab": "ٱللَّهُ",
       "transliterasi": "Allāhu",
       "jenis_kata": "Isim",
@@ -489,7 +453,7 @@
       "role": "none"
     },
     {
-      "index": 27,
+      "index": 25,
       "kata_arab": "ٱلْحُسْنَىٰ",
       "transliterasi": "al‑ḥusnā",
       "jenis_kata": "Isim",
@@ -507,25 +471,7 @@
       "role": "none"
     },
     {
-      "index": 28,
-      "kata_arab": "ۚ",
-      "transliterasi": "",
-      "jenis_kata": "Huruf (tanda baca)",
-      "arti": "tanda berhenti ayat",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "penanda akhir segmen kalimat",
-        "irab_dan_logika": "tidak berirab, berfungsi sebagai pemisah"
-      },
-      "hikmah": "**ۚ** menandai berakhirnya bagian janji Allah sebelum melanjutkan ayat selanjutnya.",
-      "role": "none"
-    },
-    {
-      "index": 29,
+      "index": 26,
       "kata_arab": "وَفَضَّلَ",
       "transliterasi": "wa‑faḍḍala",
       "jenis_kata": "Fiʿil",
@@ -543,7 +489,7 @@
       "role": "none"
     },
     {
-      "index": 30,
+      "index": 27,
       "kata_arab": "ٱللَّهُ",
       "transliterasi": "Allāhu",
       "jenis_kata": "Isim (nama khusus)",
@@ -561,7 +507,7 @@
       "role": "none"
     },
     {
-      "index": 31,
+      "index": 28,
       "kata_arab": "ٱلْمُجَٰهِدِينَ",
       "transliterasi": "al‑mujāhidīna",
       "jenis_kata": "Isim (faʿʿāl)",
@@ -579,7 +525,7 @@
       "role": "none"
     },
     {
-      "index": 32,
+      "index": 29,
       "kata_arab": "عَلَى",
       "transliterasi": "ʿalā",
       "jenis_kata": "Huruf (jar)",
@@ -597,7 +543,7 @@
       "role": "none"
     },
     {
-      "index": 33,
+      "index": 30,
       "kata_arab": "ٱلْقَٰعِدِينَ",
       "transliterasi": "al‑qāʿidīna",
       "jenis_kata": "Isim (faʿīl)",
@@ -615,7 +561,7 @@
       "role": "none"
     },
     {
-      "index": 34,
+      "index": 31,
       "kata_arab": "أَجْرًا",
       "transliterasi": "ajran",
       "jenis_kata": "Isim (masdar)",

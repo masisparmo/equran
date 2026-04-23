@@ -130,24 +130,6 @@
     },
     {
       "index": 7,
-      "kata_arab": "ۖ",
-      "transliterasi": "(tanda koma)",
-      "jenis_kata": "Huruf",
-      "arti": "tanda koma, jeda",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "pemisah antar kalimat/ayat",
-        "irab_dan_logika": "tidak berirab, berfungsi sebagai tanda baca"
-      },
-      "hikmah": "Memberi jeda untuk menekankan makna sebelum melanjutkan ayat",
-      "role": "none"
-    },
-    {
-      "index": 8,
       "kata_arab": "قَالُوا۟",
       "transliterasi": "qālū",
       "jenis_kata": "Fi'il",
@@ -165,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 8,
       "kata_arab": "لَا",
       "transliterasi": "lā",
       "jenis_kata": "Huruf",
@@ -183,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 9,
       "kata_arab": "عِلْمَ",
       "transliterasi": "ʿilma",
       "jenis_kata": "Isim",
@@ -201,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 10,
       "kata_arab": "لَنَآ",
       "transliterasi": "lanā",
       "jenis_kata": "Huruf",
@@ -219,25 +201,7 @@
       "role": "none"
     },
     {
-      "index": 12,
-      "kata_arab": "ۖ",
-      "transliterasi": " ",
-      "jenis_kata": "Huruf (tanda baca)",
-      "arti": "tanda waqf kecil (pause) dalam mushaf",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "tanda baca, memisahkan bagian ayat",
-        "irab_dan_logika": "Tidak memiliki i‘rāb; berfungsi sebagai isyarat berhenti sejenak dalam bacaan"
-      },
-      "hikmah": "Menunjukkan jeda singkat, memberi kesempatan bagi pendengar merenungkan makna sebelumnya sebelum melanjutkan bacaan.",
-      "role": "none"
-    },
-    {
-      "index": 13,
+      "index": 11,
       "kata_arab": "إِنَّكَ",
       "transliterasi": "inna-ka",
       "jenis_kata": "Huruf (harf ta‘kid + dhamir muttasir)",
@@ -255,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 12,
       "kata_arab": "أَنتَ",
       "transliterasi": "anta",
       "jenis_kata": "Isim (isim dhomir)",
@@ -273,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 13,
       "kata_arab": "عَلَّامُ",
       "transliterasi": "‘allāmu",
       "jenis_kata": "Isim (isim fa‘il)",
@@ -291,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 14,
       "kata_arab": "ٱلْغُيُوبِ",
       "transliterasi": "al‑ghuyūbi",
       "jenis_kata": "Isim (isim mudhaf ilaih)",

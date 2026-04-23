@@ -94,24 +94,6 @@
     },
     {
       "index": 5,
-      "kata_arab": "ۚ",
-      "transliterasi": "*waqf*",
-      "jenis_kata": "*Huruf (tanda baca)*",
-      "arti": "*tanda berhenti*",
-      "sharaf": {
-        "akar_kata": "-",
-        "makna_dasar": "-",
-        "wazan_perubahan": "-"
-      },
-      "nahwu": {
-        "kedudukan": "*penanda akhir ayat*",
-        "irab_dan_logika": "*tidak berirab, berfungsi sebagai tanda waqf*"
-      },
-      "hikmah": "*Menandai selesai pembacaan ayat.*",
-      "role": "none"
-    },
-    {
-      "index": 6,
       "kata_arab": "قُلْ",
       "transliterasi": "qul",
       "jenis_kata": "Fi'il (imperatif)",
@@ -129,7 +111,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 6,
       "kata_arab": "كَفَىٰ",
       "transliterasi": "kafā",
       "jenis_kata": "Fi'il (madhi)",
@@ -147,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 7,
       "kata_arab": "بِٱللَّهِ",
       "transliterasi": "bi-llāhi",
       "jenis_kata": "Huruf (preposisi)",
@@ -165,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 8,
       "kata_arab": "شَهِيدًۢا",
       "transliterasi": "shahīdan",
       "jenis_kata": "Isim (isim mansub)",
@@ -183,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 9,
       "kata_arab": "بَيْنِى",
       "transliterasi": "bayni",
       "jenis_kata": "Isim (isim majrur)",
@@ -201,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 10,
       "kata_arab": "وَبَيْنَكُمْ",
       "transliterasi": "wa baynakum",
       "jenis_kata": "Frasa (huruf + isim majrur)",
@@ -219,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 11,
       "kata_arab": "وَمَنْ",
       "transliterasi": "wa-man",
       "jenis_kata": "Isim",
@@ -237,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 12,
       "kata_arab": "عِندَهُ",
       "transliterasi": "ʿinda‑hu",
       "jenis_kata": "Huruf (preposisi) + ضمير متصل",
@@ -255,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 13,
       "kata_arab": "عِلْمُ",
       "transliterasi": "ʿilmu",
       "jenis_kata": "Isim",
@@ -273,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 14,
       "kata_arab": "ٱلْكِتَٰبِ",
       "transliterasi": "al‑kitabi",
       "jenis_kata": "Isim",

@@ -40,24 +40,6 @@
     },
     {
       "index": 2,
-      "kata_arab": "ۚ",
-      "transliterasi": "Waqf Lazim (Jīm kecil di atas mim)",
-      "jenis_kata": "Tanda baca (Waqf)",
-      "arti": "Tanda berhenti sempurna (wajib berhenti)",
-      "sharaf": {
-        "akar_kata": "Tidak berlaku",
-        "makna_dasar": "Tidak berlaku",
-        "wazan_perubahan": "Tidak berlaku"
-      },
-      "nahwu": {
-        "kedudukan": "Tidak berlaku",
-        "irab_dan_logika": "Tidak berlaku"
-      },
-      "hikmah": "Tanda waqf ini (Jīm kecil di atas mim) dikenal sebagai *Waqf Lazim* atau *Waqf Mu'anaqah* (terkadang juga disebut *Waqf Mīm*). Ia menunjukkan bahwa pembaca *wajib* berhenti pada tanda ini untuk menjaga kesempurnaan makna ayat. Jika tidak berhenti, makna ayat bisa berubah atau menjadi rancu. Dalam konteks ayat ini, berhenti di sini menegaskan bahwa 'di antara keduanya ada batas' adalah satu kesatuan makna yang lengkap sebelum melanjutkan ke informasi berikutnya tentang A'raf.",
-      "role": "none"
-    },
-    {
-      "index": 3,
       "kata_arab": "وَعَلَى",
       "transliterasi": "wa-'alā",
       "jenis_kata": "Huruf (waw) + Huruf Jar ('alā)",
@@ -75,7 +57,7 @@
       "role": "none"
     },
     {
-      "index": 4,
+      "index": 3,
       "kata_arab": "ٱلْأَعْرَافِ",
       "transliterasi": "al-a'rāfi",
       "jenis_kata": "Isim",
@@ -93,7 +75,7 @@
       "role": "none"
     },
     {
-      "index": 5,
+      "index": 4,
       "kata_arab": "رِجَالٌۭ",
       "transliterasi": "rijālun",
       "jenis_kata": "Isim",
@@ -111,7 +93,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 5,
       "kata_arab": "يَعْرِفُونَ",
       "transliterasi": "yaʿrifūna",
       "jenis_kata": "Fi'il",
@@ -129,7 +111,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 6,
       "kata_arab": "كُلًّا",
       "transliterasi": "kullan",
       "jenis_kata": "Isim",
@@ -147,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 7,
       "kata_arab": "بِسِيمَىٰهُمْ",
       "transliterasi": "bisīmāhum",
       "jenis_kata": "Huruf (bi) + Isim",
@@ -165,25 +147,7 @@
       "role": "none"
     },
     {
-      "index": 9,
-      "kata_arab": "ۚ",
-      "transliterasi": "(tanda waqf)",
-      "jenis_kata": "Huruf (tanda baca)",
-      "arti": "tanda berhenti",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "menandai jeda dalam bacaan",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "simbol waqf, bukan bagian sintaksis",
-        "irab_dan_logika": "tidak memiliki iʿrāb"
-      },
-      "hikmah": "memberi jeda untuk menekankan makna sebelumnya sebelum melanjutkan",
-      "role": "none"
-    },
-    {
-      "index": 10,
+      "index": 8,
       "kata_arab": "وَنَادَوْا۟",
       "transliterasi": "wanādaw",
       "jenis_kata": "Fi'il (dengan huruf wa)",
@@ -201,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 9,
       "kata_arab": "أَصْحَابَ",
       "transliterasi": "aṣḥāba",
       "jenis_kata": "Isim",
@@ -219,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 10,
       "kata_arab": "ٱلْجَنَّةِ",
       "transliterasi": "al‑jannati",
       "jenis_kata": "Isim",
@@ -237,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 11,
       "kata_arab": "أَن",
       "transliterasi": "an",
       "jenis_kata": "Huruf",
@@ -255,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 12,
       "kata_arab": "سَلَٰمٌ",
       "transliterasi": "salaamun",
       "jenis_kata": "Isim",
@@ -273,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 13,
       "kata_arab": "عَلَيْكُمْ",
       "transliterasi": "ʿalaykum",
       "jenis_kata": "Huruf",
@@ -291,25 +255,7 @@
       "role": "none"
     },
     {
-      "index": 16,
-      "kata_arab": "ۚ",
-      "transliterasi": "",
-      "jenis_kata": "Tanda waqf",
-      "arti": "tanda jeda",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "tanda waqf (istirahat)",
-        "irab_dan_logika": "menandai berhentinya bacaan sejenak, tidak memengaruhi i‘rab"
-      },
-      "hikmah": "**ۚ** memberi kesempatan bagi pendengar untuk merenungkan makna salam sebelum melanjutkan ayat.",
-      "role": "none"
-    },
-    {
-      "index": 17,
+      "index": 14,
       "kata_arab": "لَمْ",
       "transliterasi": "lam",
       "jenis_kata": "Huruf",
@@ -327,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 15,
       "kata_arab": "يَدْخُلُوهَا",
       "transliterasi": "yadkhulūhā",
       "jenis_kata": "Fi'il",
@@ -345,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 16,
       "kata_arab": "وَهُمْ",
       "transliterasi": "wa hum",
       "jenis_kata": "Huruf dan Isim",
@@ -363,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 17,
       "kata_arab": "يَطْمَعُونَ",
       "transliterasi": "yaṭma'ūna",
       "jenis_kata": "Fi'il",

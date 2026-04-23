@@ -130,24 +130,6 @@
     },
     {
       "index": 7,
-      "kata_arab": "ۚ",
-      "transliterasi": "(tanda koma)",
-      "jenis_kata": "Huruf",
-      "arti": "tanda baca koma",
-      "sharaf": {
-        "akar_kata": "-",
-        "makna_dasar": "-",
-        "wazan_perubahan": "-"
-      },
-      "nahwu": {
-        "kedudukan": "pemisah antar frasa",
-        "irab_dan_logika": "menunjukkan jeda, tidak mempengaruhi i‘rab"
-      },
-      "hikmah": "menandai jeda dalam ucapan, memberi ruang antara permohonan dan penegasan",
-      "role": "none"
-    },
-    {
-      "index": 8,
       "kata_arab": "أَلَا",
       "transliterasi": "alā",
       "jenis_kata": "Huruf",
@@ -165,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 8,
       "kata_arab": "فِى",
       "transliterasi": "fi",
       "jenis_kata": "Huruf",
@@ -183,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 9,
       "kata_arab": "ٱلْفِتْنَةِ",
       "transliterasi": "al-fitnah",
       "jenis_kata": "Isim",
@@ -201,25 +183,7 @@
       "role": "none"
     },
     {
-      "index": 12,
-      "kata_arab": "ۗ",
-      "transliterasi": "(tanda ayat)",
-      "jenis_kata": "Harakat/Isyarat",
-      "arti": "tanda akhir ayat (waqf)",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "Penanda akhir ayat, tidak termasuk dalam sintaks",
-        "irab_dan_logika": "Tidak memiliki i‘rāb karena merupakan tanda baca"
-      },
-      "hikmah": "*Menandakan selesai baca ayat, memberi jeda bagi pembaca untuk merenungkan makna.*",
-      "role": "none"
-    },
-    {
-      "index": 13,
+      "index": 10,
       "kata_arab": "وَإِنَّ",
       "transliterasi": "wa‑inna",
       "jenis_kata": "Huruf (harf muqaddam)",
@@ -237,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 11,
       "kata_arab": "جَهَنَّمَ",
       "transliterasi": "jahannama",
       "jenis_kata": "Isim (isim mufrad)",
@@ -255,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 12,
       "kata_arab": "لَمُحِيطَةٌۢ",
       "transliterasi": "lamuhitatun",
       "jenis_kata": "Isim fi‘l (isim maf‘ūl)",
@@ -273,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 13,
       "kata_arab": "بِٱلْكَٰفِرِينَ",
       "transliterasi": "bil‑kaafiriin",
       "jenis_kata": "Isim (isim majrur) dengan huruf jar",

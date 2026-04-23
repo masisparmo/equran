@@ -184,24 +184,6 @@
     },
     {
       "index": 10,
-      "kata_arab": "ۚ",
-      "transliterasi": "(tanda waqaf)",
-      "jenis_kata": "Tanda Baca",
-      "arti": "N/A (tanda waqaf jaiz mutlaq)",
-      "sharaf": {
-        "akar_kata": "N/A",
-        "makna_dasar": "N/A",
-        "wazan_perubahan": "N/A"
-      },
-      "nahwu": {
-        "kedudukan": "Tanda waqaf (berhenti)",
-        "irab_dan_logika": "Tidak memiliki *i'rab*. Menunjukkan tempat yang dianjurkan untuk berhenti membaca, namun boleh juga melanjutkan. Dalam konteks ini, menandai akhir dari daftar rencana jahat kaum kafir sebelum beralih ke respons Allah."
-      },
-      "hikmah": "Secara linguistik, tanda ini menandai *jeda dalam narasi*, memisahkan deskripsi rencana kaum kafir dari respons ilahi yang akan datang. Ini memberikan penekanan pada kontras antara tipu daya manusia dan kekuasaan Allah.",
-      "role": "none"
-    },
-    {
-      "index": 11,
       "kata_arab": "وَيَمْكُرُونَ",
       "transliterasi": "wa yamkurūna",
       "jenis_kata": "Fi'il",
@@ -219,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 11,
       "kata_arab": "وَيَمْكُرُ",
       "transliterasi": "wa yamkuru",
       "jenis_kata": "Fi'il",
@@ -237,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 12,
       "kata_arab": "ٱللَّهُ",
       "transliterasi": "Allāhu",
       "jenis_kata": "Isim",
@@ -255,25 +237,7 @@
       "role": "none"
     },
     {
-      "index": 14,
-      "kata_arab": "ۖ",
-      "transliterasi": "(tanda waqaf)",
-      "jenis_kata": "Huruf",
-      "arti": "tanda waqaf *jaiz* (boleh berhenti, boleh lanjut)",
-      "sharaf": {
-        "akar_kata": "N/A",
-        "makna_dasar": "N/A",
-        "wazan_perubahan": "N/A"
-      },
-      "nahwu": {
-        "kedudukan": "Tanda waqaf (berhenti)",
-        "irab_dan_logika": "N/A (bukan bagian dari struktur gramatikal kalimat)"
-      },
-      "hikmah": "Tanda ini menunjukkan tempat yang dianjurkan untuk berhenti sejenak saat membaca Al-Qur'an, memberikan kesempatan untuk memahami makna kalimat sebelumnya sebelum melanjutkan ke kalimat berikutnya. Dalam konteks ini, ia memisahkan dua pernyataan tentang tipu daya Allah.",
-      "role": "none"
-    },
-    {
-      "index": 15,
+      "index": 13,
       "kata_arab": "وَٱللَّهُ",
       "transliterasi": "wa Allāhu",
       "jenis_kata": "Isim",
@@ -291,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 14,
       "kata_arab": "خَيْرُ",
       "transliterasi": "khayru",
       "jenis_kata": "Isim",
@@ -309,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 15,
       "kata_arab": "ٱلْمَٰكِرِينَ",
       "transliterasi": "al-mākirīna",
       "jenis_kata": "Isim",

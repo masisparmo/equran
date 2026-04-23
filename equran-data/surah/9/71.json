@@ -94,24 +94,6 @@
     },
     {
       "index": 5,
-      "kata_arab": "ۚ",
-      "transliterasi": "—",
-      "jenis_kata": "Huruf",
-      "arti": "tanda berhenti (waqf)",
-      "sharaf": {
-        "akar_kata": "-",
-        "makna_dasar": "-",
-        "wazan_perubahan": "-"
-      },
-      "nahwu": {
-        "kedudukan": "penanda akhir ayat",
-        "irab_dan_logika": "tidak memiliki إعراب karena bukan kata"
-      },
-      "hikmah": "Menandakan jeda untuk merenungkan makna ayat.",
-      "role": "none"
-    },
-    {
-      "index": 6,
       "kata_arab": "يَأْمُرُونَ",
       "transliterasi": "yaʾmurūna",
       "jenis_kata": "Fiʿil",
@@ -129,7 +111,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 6,
       "kata_arab": "بِٱلْمَعْرُوفِ",
       "transliterasi": "bil-maʿrūfi",
       "jenis_kata": "Huruf",
@@ -147,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 7,
       "kata_arab": "وَيَنْهَوْنَ",
       "transliterasi": "wa yanahawna",
       "jenis_kata": "Fiʿil",
@@ -165,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 8,
       "kata_arab": "عَنِ",
       "transliterasi": "ʿani",
       "jenis_kata": "Huruf",
@@ -183,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 9,
       "kata_arab": "ٱلْمُنكَرِ",
       "transliterasi": "al-munkari",
       "jenis_kata": "Isim",
@@ -201,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 10,
       "kata_arab": "وَيُقِيمُونَ",
       "transliterasi": "wa yuqīmūna",
       "jenis_kata": "Fiʿil",
@@ -219,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 11,
       "kata_arab": "ٱلصَّلَوٰةَ",
       "transliterasi": "al-ṣalāhata",
       "jenis_kata": "Isim",
@@ -237,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 12,
       "kata_arab": "وَيُؤْتُونَ",
       "transliterasi": "wa-yuʾtūna",
       "jenis_kata": "Fiʿil",
@@ -255,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 13,
       "kata_arab": "ٱلزَّكَوٰةَ",
       "transliterasi": "az-zakāhata",
       "jenis_kata": "Isim",
@@ -273,25 +255,7 @@
       "role": "none"
     },
     {
-      "index": 18,
-      "kata_arab": "ۚ",
-      "transliterasi": "",
-      "jenis_kata": "Huruf (tanda baca)",
-      "arti": "tanda koma/istirahat dalam bacaan Al‑Qur'an",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "Berada di akhir frasa “سَيَرْحَمُهُمُ ٱللَّهُ” sebagai tanda jeda (waqf)",
-        "irab_dan_logika": "Tidak memiliki i‘rāb karena merupakan tanda baca, fungsinya memberi jeda sebelum ayat berikutnya"
-      },
-      "hikmah": "Menandakan berhenti sejenak, memberi kesempatan bagi pendengar untuk merenungkan rahmat Allah yang akan disebutkan",
-      "role": "none"
-    },
-    {
-      "index": 19,
+      "index": 14,
       "kata_arab": "أُو۟لَٰٓئِكَ",
       "transliterasi": "ʾūlāʾika",
       "jenis_kata": "Isim (isim dhâkir mudhari‘)",
@@ -309,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 15,
       "kata_arab": "ٱللَّهَ",
       "transliterasi": "Allāha",
       "jenis_kata": "Isim (nama)",
@@ -327,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 16,
       "kata_arab": "عَزِيزٌ",
       "transliterasi": "ʿAzīzun",
       "jenis_kata": "Isim (sifat)",
@@ -345,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 26,
+      "index": 17,
       "kata_arab": "حَكِيمٌۭ",
       "transliterasi": "Ḥakīmun",
       "jenis_kata": "Isim (sifat)",

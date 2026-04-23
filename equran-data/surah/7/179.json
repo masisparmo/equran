@@ -130,24 +130,6 @@
     },
     {
       "index": 7,
-      "kata_arab": "ۖ",
-      "transliterasi": "—",
-      "jenis_kata": "Huruf (tanda baca)",
-      "arti": "tanda jeda ayat",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "Tidak termasuk dalam sintaks, berfungsi sebagai pemisah ayat",
-        "irab_dan_logika": "Tidak memiliki i‘rāb"
-      },
-      "hikmah": "Menandai jeda untuk memberi ruang memikirkan makna sebelumnya.",
-      "role": "none"
-    },
-    {
-      "index": 8,
       "kata_arab": "لَهُمْ",
       "transliterasi": "lahum",
       "jenis_kata": "Huruf jar (li) + ضمير متصل",
@@ -165,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 8,
       "kata_arab": "قُلُوبٌۭ",
       "transliterasi": "qulubun",
       "jenis_kata": "Isim jamak (mudhaf)",
@@ -183,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 9,
       "kata_arab": "بِهَا",
       "transliterasi": "bi‑hā",
       "jenis_kata": "Huruf",
@@ -201,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 10,
       "kata_arab": "وَلَهُمْ",
       "transliterasi": "wa‑lahum",
       "jenis_kata": "Huruf + Isim",
@@ -219,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 11,
       "kata_arab": "أَعْيُنٌۭ",
       "transliterasi": "aʿyunun",
       "jenis_kata": "Isim",
@@ -237,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 12,
       "kata_arab": "لَّا",
       "transliterasi": "lā",
       "jenis_kata": "Huruf",
@@ -255,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 13,
       "kata_arab": "يُبْصِرُونَ",
       "transliterasi": "yubsirūna",
       "jenis_kata": "Fi’il",
@@ -273,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 14,
       "kata_arab": "بِهَا",
       "transliterasi": "bi‑hā",
       "jenis_kata": "Huruf",
@@ -291,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 15,
       "kata_arab": "وَلَهُمْ",
       "transliterasi": "wa lahum",
       "jenis_kata": "Huruf",
@@ -309,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 16,
       "kata_arab": "أَذَانٌ",
       "transliterasi": "adhānun",
       "jenis_kata": "Isim",
@@ -327,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 17,
       "kata_arab": "لَا",
       "transliterasi": "lā",
       "jenis_kata": "Huruf",
@@ -345,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 18,
       "kata_arab": "يَسْمَعُونَ",
       "transliterasi": "yasmaʿūna",
       "jenis_kata": "Fi‘il",
@@ -363,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 19,
       "kata_arab": "بِهَا",
       "transliterasi": "bi‑hā",
       "jenis_kata": "Huruf",
@@ -381,25 +363,7 @@
       "role": "none"
     },
     {
-      "index": 23,
-      "kata_arab": "ۚ",
-      "transliterasi": "",
-      "jenis_kata": "Huruf",
-      "arti": "tanda berhenti ayat (waqf)",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "Simbol waqf yang menandai akhir ayat.",
-        "irab_dan_logika": "Tidak ber‑i‘rāb; berfungsi sebagai tanda baca dalam teks Qur’an."
-      },
-      "hikmah": "Menandai selesai pembacaan ayat, memberi jeda bagi pembaca untuk merenungkan makna.",
-      "role": "none"
-    },
-    {
-      "index": 24,
+      "index": 20,
       "kata_arab": "أُو۟لَٰٓئِكَ",
       "transliterasi": "Ulaika",
       "jenis_kata": "Isim (isim dhomir demonstratif)",
@@ -417,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 21,
       "kata_arab": "كَٱلْأَنْعَٰمِ",
       "transliterasi": "ka al-ʿan‘ām",
       "jenis_kata": "Huruf جر + Isim (isim jamak)",
@@ -435,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 30,
+      "index": 22,
       "kata_arab": "أُو۟لَٰٓئِكَ",
       "transliterasi": "Ulaika",
       "jenis_kata": "Isim (isim i'ara)",
@@ -453,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 31,
+      "index": 23,
       "kata_arab": "هُمُ",
       "transliterasi": "hum",
       "jenis_kata": "Isim (dhamir mufrad)",
@@ -471,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 32,
+      "index": 24,
       "kata_arab": "ٱلْغَٰفِلُونَ",
       "transliterasi": "al‑ghāfilūna",
       "jenis_kata": "Isim (اسم فاعل)",

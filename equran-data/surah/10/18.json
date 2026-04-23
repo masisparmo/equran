@@ -256,24 +256,6 @@
     },
     {
       "index": 14,
-      "kata_arab": "ۚ",
-      "transliterasi": "(tanda waqaf ja'iz)",
-      "jenis_kata": "Tanda Baca",
-      "arti": "Tanda waqaf ja'iz (boleh berhenti, boleh lanjut)",
-      "sharaf": {
-        "akar_kata": "Tidak ada",
-        "makna_dasar": "Tidak ada",
-        "wazan_perubahan": "Tidak ada"
-      },
-      "nahwu": {
-        "kedudukan": "Bukan bagian dari struktur nahwu kalimat",
-        "irab_dan_logika": "Tidak ada"
-      },
-      "hikmah": "Menunjukkan jeda yang diperbolehkan dalam bacaan Al-Qur'an, memberikan kesempatan untuk mengambil napas atau merenungkan makna sebelum melanjutkan ayat.",
-      "role": "none"
-    },
-    {
-      "index": 15,
       "kata_arab": "قُلْ",
       "transliterasi": "qul",
       "jenis_kata": "Fi'il",
@@ -291,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 15,
       "kata_arab": "أَتُنَبِّـُٔونَ",
       "transliterasi": "atunabbi'ūna",
       "jenis_kata": "Fi'il",
@@ -309,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 16,
       "kata_arab": "ٱللَّهَ",
       "transliterasi": "Allāha",
       "jenis_kata": "Isim",
@@ -327,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 17,
       "kata_arab": "بِمَا",
       "transliterasi": "bimā",
       "jenis_kata": "Huruf + Isim Maushul",
@@ -345,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 18,
       "kata_arab": "لَا",
       "transliterasi": "lā",
       "jenis_kata": "Huruf",
@@ -363,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 19,
       "kata_arab": "يَعْلَمُ",
       "transliterasi": "ya'lamu",
       "jenis_kata": "Fi'il (Kata Kerja)",
@@ -381,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 20,
       "kata_arab": "فِى",
       "transliterasi": "fī",
       "jenis_kata": "Huruf",
@@ -399,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 21,
       "kata_arab": "ٱلسَّمَٰوَٰتِ",
       "transliterasi": "as-samāwāt",
       "jenis_kata": "Isim (Kata Benda)",
@@ -417,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 22,
       "kata_arab": "وَلَا",
       "transliterasi": "wa-lā",
       "jenis_kata": "Huruf (Waw) + Huruf (La)",
@@ -435,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 23,
       "kata_arab": "فِى",
       "transliterasi": "fī",
       "jenis_kata": "Huruf",
@@ -453,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 24,
       "kata_arab": "ٱلْأَرْضِ",
       "transliterasi": "al-arḍi",
       "jenis_kata": "Isim",
@@ -471,25 +453,7 @@
       "role": "none"
     },
     {
-      "index": 26,
-      "kata_arab": "ۚ",
-      "transliterasi": "(tanda waqaf)",
-      "jenis_kata": "Tanda Baca",
-      "arti": "Tidak ada arti harfiah sebagai kata",
-      "sharaf": {
-        "akar_kata": "Tidak berlaku",
-        "makna_dasar": "Tidak berlaku",
-        "wazan_perubahan": "Tidak berlaku"
-      },
-      "nahwu": {
-        "kedudukan": "Tanda Waqaf Jaiz",
-        "irab_dan_logika": "Tidak berlaku untuk irab. Ini adalah tanda baca dalam mushaf Al-Qur'an."
-      },
-      "hikmah": "Menunjukkan tempat yang dianjurkan untuk berhenti sejenak saat membaca Al-Qur'an, memberikan jeda untuk memahami makna ayat sebelum melanjutkan.",
-      "role": "none"
-    },
-    {
-      "index": 27,
+      "index": 25,
       "kata_arab": "سُبْحَٰنَهُۥ",
       "transliterasi": "subḥānahū",
       "jenis_kata": "Isim (Mashdar)",
@@ -507,7 +471,7 @@
       "role": "none"
     },
     {
-      "index": 28,
+      "index": 26,
       "kata_arab": "وَتَعَٰلَىٰ",
       "transliterasi": "wa ta'ālā",
       "jenis_kata": "Fi'il",
@@ -525,7 +489,7 @@
       "role": "none"
     },
     {
-      "index": 29,
+      "index": 27,
       "kata_arab": "عَمَّا",
       "transliterasi": "ammā",
       "jenis_kata": "Huruf + Isim Maushul",
@@ -543,7 +507,7 @@
       "role": "none"
     },
     {
-      "index": 30,
+      "index": 28,
       "kata_arab": "يُشْرِكُونَ",
       "transliterasi": "yushrikūna",
       "jenis_kata": "Fi'il (Kata Kerja)",

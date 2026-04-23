@@ -148,24 +148,6 @@
     },
     {
       "index": 8,
-      "kata_arab": "ۚ",
-      "transliterasi": "(waqf)",
-      "jenis_kata": "Simbol waqf (علامة توقف)",
-      "arti": "tanda berhenti",
-      "sharaf": {
-        "akar_kata": "-",
-        "makna_dasar": "-",
-        "wazan_perubahan": "-"
-      },
-      "nahwu": {
-        "kedudukan": "علامة وقف تُفصلُ بين جملتين أو عبارات",
-        "irab_dan_logika": "ليس له إعراب؛ يحدد حدًّا للمعنى"
-      },
-      "hikmah": "**ۚ** memberi jeda sehingga pembaca menafsirkan bagian sebelumnya sebagai satu unit makna",
-      "role": "none"
-    },
-    {
-      "index": 9,
       "kata_arab": "وَيَسْتَخْلِفُ",
       "transliterasi": "wa yastakhlifu",
       "jenis_kata": "Fi'il (verb)",
@@ -183,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 9,
       "kata_arab": "رَبِّى",
       "transliterasi": "rabbi",
       "jenis_kata": "Isim (isim iḍāfa)",
@@ -201,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 10,
       "kata_arab": "قَوْمًا",
       "transliterasi": "qawman",
       "jenis_kata": "Isim (isim mafʿūl)",
@@ -219,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 11,
       "kata_arab": "غَيْرَكُمْ",
       "transliterasi": "ghayrukum",
       "jenis_kata": "Isim",
@@ -237,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 12,
       "kata_arab": "وَلَا",
       "transliterasi": "",
       "jenis_kata": "Huruf",
@@ -255,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 13,
       "kata_arab": "تَضُرُّونَهُۥ",
       "transliterasi": "taḍurrūna‑hu",
       "jenis_kata": "Fi'il",
@@ -273,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 14,
       "kata_arab": "شَيْـًٔا",
       "transliterasi": "shay'an",
       "jenis_kata": "Isim",
@@ -291,25 +273,7 @@
       "role": "none"
     },
     {
-      "index": 16,
-      "kata_arab": "ۚ",
-      "transliterasi": "(tanda ayat)",
-      "jenis_kata": "Simbol",
-      "arti": "(tanda berhenti ayat)",
-      "sharaf": {
-        "akar_kata": "-",
-        "makna_dasar": "-",
-        "wazan_perubahan": "-"
-      },
-      "nahwu": {
-        "kedudukan": "simbol akhir ayat, tidak berirab",
-        "irab_dan_logika": "-"
-      },
-      "hikmah": "menandakan jeda untuk merenungkan makna sebelumnya sebelum lanjutan ayat.",
-      "role": "none"
-    },
-    {
-      "index": 17,
+      "index": 15,
       "kata_arab": "إِنَّ",
       "transliterasi": "inna",
       "jenis_kata": "Huruf",
@@ -327,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 16,
       "kata_arab": "رَبِّى",
       "transliterasi": "rabbī",
       "jenis_kata": "Isim (isim dhomir)",
@@ -345,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 17,
       "kata_arab": "عَلَىٰ",
       "transliterasi": "ʿalā",
       "jenis_kata": "Huruf (preposisi)",

@@ -742,24 +742,6 @@
     },
     {
       "index": 41,
-      "kata_arab": "ۚ",
-      "transliterasi": "(tanda waqaf lazim)",
-      "jenis_kata": "Huruf (tanda baca)",
-      "arti": "tanda berhenti sempurna",
-      "sharaf": {
-        "akar_kata": "N/A",
-        "makna_dasar": "N/A",
-        "wazan_perubahan": "N/A"
-      },
-      "nahwu": {
-        "kedudukan": "Tanda waqaf lazim (berhenti sempurna)",
-        "irab_dan_logika": "Tidak memiliki kedudukan i'rab karena bukan bagian dari struktur kalimat, melainkan tanda baca untuk memudahkan pembacaan dan pemahaman makna."
-      },
-      "hikmah": "Tanda ini mengindikasikan bahwa pembaca harus berhenti di sini karena makna kalimat sebelumnya telah sempurna dan kalimat berikutnya akan memulai ide atau hukum baru. Ini penting untuk memahami transisi dari pengampunan masa lalu ke peringatan bagi yang mengulangi perbuatan.",
-      "role": "none"
-    },
-    {
-      "index": 42,
       "kata_arab": "وَمَنْ",
       "transliterasi": "wa man",
       "jenis_kata": "Huruf (وَ) dan Isim (مَنْ)",
@@ -777,7 +759,7 @@
       "role": "none"
     },
     {
-      "index": 43,
+      "index": 42,
       "kata_arab": "عَادَ",
       "transliterasi": "aada",
       "jenis_kata": "Fi'il",
@@ -795,7 +777,7 @@
       "role": "none"
     },
     {
-      "index": 44,
+      "index": 43,
       "kata_arab": "فَيَنتَقِمُ",
       "transliterasi": "fa yantaqimu",
       "jenis_kata": "Huruf (فَ) dan Fi'il (يَنتَقِمُ)",
@@ -813,7 +795,7 @@
       "role": "none"
     },
     {
-      "index": 45,
+      "index": 44,
       "kata_arab": "ٱللَّهُ",
       "transliterasi": "Allāhu",
       "jenis_kata": "Isim",
@@ -831,7 +813,7 @@
       "role": "none"
     },
     {
-      "index": 46,
+      "index": 45,
       "kata_arab": "مِنْهُ",
       "transliterasi": "minhu",
       "jenis_kata": "Huruf (preposisi) + Isim (kata ganti)",
@@ -849,25 +831,7 @@
       "role": "none"
     },
     {
-      "index": 47,
-      "kata_arab": "ۗ",
-      "transliterasi": "",
-      "jenis_kata": "Tanda baca (waqf)",
-      "arti": "-",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "simbol waqf yang menandai jeda pendek dalam bacaan",
-        "irab_dan_logika": "tidak memiliki i‘rāb karena bukan kata"
-      },
-      "hikmah": "memberi jeda untuk memperjelas makna ayat, menekankan pentingnya berhenti sejenak",
-      "role": "none"
-    },
-    {
-      "index": 48,
+      "index": 46,
       "kata_arab": "وَٱللَّهُ",
       "transliterasi": "wa-llāhu",
       "jenis_kata": "Isim (nama Allah) dengan huruf sambung",
@@ -885,7 +849,7 @@
       "role": "none"
     },
     {
-      "index": 49,
+      "index": 47,
       "kata_arab": "عَزِيزٌۭ",
       "transliterasi": "ʿazīzun",
       "jenis_kata": "Isim (isim sifat)",
@@ -903,7 +867,7 @@
       "role": "none"
     },
     {
-      "index": 50,
+      "index": 48,
       "kata_arab": "ذُو",
       "transliterasi": "dhū",
       "jenis_kata": "Isim (isim maushul)",
@@ -921,7 +885,7 @@
       "role": "none"
     },
     {
-      "index": 51,
+      "index": 49,
       "kata_arab": "ٱنتِقَامٍ",
       "transliterasi": "intiqāmin",
       "jenis_kata": "Isim (isim maushul)",

@@ -94,24 +94,6 @@
     },
     {
       "index": 5,
-      "kata_arab": "ۚ",
-      "transliterasi": "",
-      "jenis_kata": "Huruf",
-      "arti": "tanda berhenti ayat",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "tanda baca, tidak termasuk dalam i‘rāb",
-        "irab_dan_logika": "tidak berirab, berfungsi sebagai pemisah"
-      },
-      "hikmah": "Menandai akhir segmen kalimat, memberi jeda untuk merenungkan makna",
-      "role": "none"
-    },
-    {
-      "index": 6,
       "kata_arab": "وَإِن",
       "transliterasi": "wa‑in",
       "jenis_kata": "Huruf",
@@ -129,7 +111,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 6,
       "kata_arab": "تَعُدُّوا",
       "transliterasi": "ta‘uddu",
       "jenis_kata": "Fiʿil (imperatif)",
@@ -147,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 7,
       "kata_arab": "نِعْمَتَ",
       "transliterasi": "ni‘mata",
       "jenis_kata": "Isim (muthallath)",
@@ -165,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 8,
       "kata_arab": "ٱللَّهِ",
       "transliterasi": "Allahi",
       "jenis_kata": "Isim (nama Allah)",
@@ -183,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 9,
       "kata_arab": "لَا",
       "transliterasi": "lā",
       "jenis_kata": "Huruf",
@@ -201,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 10,
       "kata_arab": "تُحْصُوهَا",
       "transliterasi": "tuh'sūhā",
       "jenis_kata": "Fiʿil (mudhariʿ)",
@@ -219,25 +201,7 @@
       "role": "none"
     },
     {
-      "index": 12,
-      "kata_arab": "ۗ",
-      "transliterasi": "ۗ",
-      "jenis_kata": "Huruf (tanda ayat)",
-      "arti": "tanda ayat (separator)",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "Tidak termasuk dalam sintaks kalimat",
-        "irab_dan_logika": "Tidak memiliki i‘rāb karena merupakan tanda baca"
-      },
-      "hikmah": "Menandai akhir bagian ayat, memberi jeda bagi pembaca.",
-      "role": "none"
-    },
-    {
-      "index": 13,
+      "index": 11,
       "kata_arab": "إِنَّ",
       "transliterasi": "inna",
       "jenis_kata": "Huruf (particle)",
@@ -255,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 12,
       "kata_arab": "ٱلْإِنسَٰنَ",
       "transliterasi": "al‑insāna",
       "jenis_kata": "Isim",
@@ -273,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 13,
       "kata_arab": "لَظَلُومٌۭ",
       "transliterasi": "laẓalūmun",
       "jenis_kata": "Isim",
@@ -291,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 14,
       "kata_arab": "كَفَّارٌۭ",
       "transliterasi": "kaffārun",
       "jenis_kata": "Isim",
