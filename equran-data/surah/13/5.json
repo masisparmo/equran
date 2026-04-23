@@ -292,24 +292,6 @@
     },
     {
       "index": 16,
-      "kata_arab": "ۖ",
-      "transliterasi": "-",
-      "jenis_kata": "Tanda Waqaf",
-      "arti": "Tanda berhenti (waqaf lazim)",
-      "sharaf": {
-        "akar_kata": "Tidak ada",
-        "makna_dasar": "Tidak ada",
-        "wazan_perubahan": "Tidak ada"
-      },
-      "nahwu": {
-        "kedudukan": "Tidak ada",
-        "irab_dan_logika": "Tidak ada"
-      },
-      "hikmah": "Tanda waqaf ini menunjukkan tempat yang dianjurkan untuk berhenti saat membaca Al-Qur'an. Berhenti di sini membantu pembaca memahami makna ayat dengan memisahkan satu gagasan dari gagasan berikutnya, meskipun masih dalam satu konteks.",
-      "role": "none"
-    },
-    {
-      "index": 17,
       "kata_arab": "وَأُو۟لَٰٓئِكَ",
       "transliterasi": "wa ʾūlāʾika",
       "jenis_kata": "Huruf + Isim",
@@ -327,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 17,
       "kata_arab": "ٱلْأَغْلَٰلُ",
       "transliterasi": "al-aghlaal",
       "jenis_kata": "Isim",
@@ -345,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 18,
       "kata_arab": "فِىٓ",
       "transliterasi": "fii",
       "jenis_kata": "Huruf",
@@ -363,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 19,
       "kata_arab": "أَعْنَاقِهِمْ",
       "transliterasi": "a'naaqihim",
       "jenis_kata": "Isim",
@@ -381,25 +363,7 @@
       "role": "none"
     },
     {
-      "index": 21,
-      "kata_arab": "ۖ",
-      "transliterasi": "(Tidak ada transliterasi)",
-      "jenis_kata": "Tanda Waqaf",
-      "arti": "Tanda berhenti (waqaf jaiz)",
-      "sharaf": {
-        "akar_kata": "Tidak berlaku untuk tanda baca.",
-        "makna_dasar": "Tanda waqaf ini (disebut juga 'waqaf jaiz' atau 'waqaf mu'anaqah' jika ada dua tanda serupa) menunjukkan bahwa pembaca boleh berhenti atau melanjutkan bacaan. Jika ada dua tanda 'ۖ' berdekatan, pembaca harus berhenti di salah satunya dan tidak di keduanya.",
-        "wazan_perubahan": "Tidak berlaku untuk tanda baca."
-      },
-      "nahwu": {
-        "kedudukan": "Ini adalah tanda baca dalam Al-Qur'an, bukan bagian dari struktur gramatikal kalimat.",
-        "irab_dan_logika": "Tidak memiliki *irab*. Fungsinya adalah untuk membantu pembaca dalam memahami makna dan menjaga nafas saat membaca Al-Qur'an."
-      },
-      "hikmah": "Tanda waqaf ini memberikan jeda yang memungkinkan pembaca untuk merenungkan makna bagian sebelumnya, yaitu tentang belenggu di leher orang-orang kafir, sebelum melanjutkan ke konsekuensi berikutnya yang akan dijelaskan.",
-      "role": "none"
-    },
-    {
-      "index": 22,
+      "index": 20,
       "kata_arab": "وَأُو۟لَٰٓئِكَ",
       "transliterasi": "wa-ulaa'ika",
       "jenis_kata": "Huruf + Isim Isyarah",
@@ -417,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 21,
       "kata_arab": "أَصْحَٰبُ",
       "transliterasi": "ash-haabu",
       "jenis_kata": "Isim",
@@ -435,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 22,
       "kata_arab": "ٱلنَّارِ",
       "transliterasi": "an-Nār",
       "jenis_kata": "Isim",
@@ -453,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 23,
       "kata_arab": "ۖ",
       "transliterasi": "Tanda Waqaf Lāzim",
       "jenis_kata": "Tanda Baca",
@@ -471,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 26,
+      "index": 24,
       "kata_arab": "هُمْ",
       "transliterasi": "Hum",
       "jenis_kata": "Dhamir",
@@ -489,7 +453,7 @@
       "role": "none"
     },
     {
-      "index": 27,
+      "index": 25,
       "kata_arab": "فِيهَا",
       "transliterasi": "Fīhā",
       "jenis_kata": "Huruf Jar + Dhamir",
@@ -507,7 +471,7 @@
       "role": "none"
     },
     {
-      "index": 28,
+      "index": 26,
       "kata_arab": "خَٰلِدُونَ",
       "transliterasi": "Khālidūn",
       "jenis_kata": "Isim Fā'il",

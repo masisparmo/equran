@@ -382,24 +382,6 @@
     },
     {
       "index": 21,
-      "kata_arab": "ۚ",
-      "transliterasi": "Tidak ada transliterasi",
-      "jenis_kata": "Tanda Waqaf",
-      "arti": "Tidak ada arti harfiah",
-      "sharaf": {
-        "akar_kata": "Tidak berlaku",
-        "makna_dasar": "Tidak berlaku",
-        "wazan_perubahan": "Tidak berlaku"
-      },
-      "nahwu": {
-        "kedudukan": "Tanda baca Al-Qur'an",
-        "irab_dan_logika": "Menunjukkan tempat berhenti yang dianjurkan (waqaf lazim), yang berarti tidak boleh disambung dengan kalimat berikutnya karena dapat mengubah makna."
-      },
-      "hikmah": "Tanda ini menandakan akhir dari satu klausa makna yang penting ('Kami tidak membeda-bedakan antara seseorangpun dari rasul-rasul-Nya') sebelum melanjutkan ke pernyataan berikutnya ('Kami dengar dan kami taat').",
-      "role": "none"
-    },
-    {
-      "index": 22,
       "kata_arab": "وَقَالُوا۟",
       "transliterasi": "Wa Qalu",
       "jenis_kata": "Fi'il",
@@ -417,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 22,
       "kata_arab": "سَمِعْنَا",
       "transliterasi": "Sami'na",
       "jenis_kata": "Fi'il",
@@ -435,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 23,
       "kata_arab": "وَأَطَعْنَا",
       "transliterasi": "wa-aṭaʿnā",
       "jenis_kata": "Fi'il",
@@ -453,25 +435,7 @@
       "role": "none"
     },
     {
-      "index": 25,
-      "kata_arab": "ۖ",
-      "transliterasi": "-",
-      "jenis_kata": "Tanda Waqaf",
-      "arti": "Tanda waqaf jaiz (boleh berhenti, boleh lanjut)",
-      "sharaf": {
-        "akar_kata": "-",
-        "makna_dasar": "-",
-        "wazan_perubahan": "-"
-      },
-      "nahwu": {
-        "kedudukan": "-",
-        "irab_dan_logika": "-"
-      },
-      "hikmah": "Tanda waqaf ini menunjukkan bahwa pembaca boleh berhenti di sini untuk mengambil napas, tetapi juga boleh melanjutkan bacaan. Secara makna, ia menandai akhir dari satu pernyataan penting ('Kami dengar dan kami taat') sebelum beralih ke doa ('Ampunilah kami...').",
-      "role": "none"
-    },
-    {
-      "index": 26,
+      "index": 24,
       "kata_arab": "غُفْرَانَكَ",
       "transliterasi": "ghufrānaka",
       "jenis_kata": "Isim",
@@ -489,7 +453,7 @@
       "role": "none"
     },
     {
-      "index": 27,
+      "index": 25,
       "kata_arab": "رَبَّنَا",
       "transliterasi": "rabbanā",
       "jenis_kata": "Isim",
@@ -507,7 +471,7 @@
       "role": "none"
     },
     {
-      "index": 28,
+      "index": 26,
       "kata_arab": "وَإِلَيْكَ",
       "transliterasi": "wa-ilaika",
       "jenis_kata": "Huruf dan Dhamir",
@@ -525,7 +489,7 @@
       "role": "none"
     },
     {
-      "index": 29,
+      "index": 27,
       "kata_arab": "ٱلْمَصِيرُ",
       "transliterasi": "al-maṣīr",
       "jenis_kata": "Isim",

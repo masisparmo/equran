@@ -58,24 +58,6 @@
     },
     {
       "index": 3,
-      "kata_arab": "ۖ",
-      "transliterasi": "-",
-      "jenis_kata": "Huruf (Tanda Waqaf)",
-      "arti": "Tanda waqaf (berhenti)",
-      "sharaf": {
-        "akar_kata": "-",
-        "makna_dasar": "-",
-        "wazan_perubahan": "-"
-      },
-      "nahwu": {
-        "kedudukan": "Tanda waqaf lazim (harus berhenti).",
-        "irab_dan_logika": "Tidak memiliki kedudukan i'rab karena bukan bagian dari struktur kalimat."
-      },
-      "hikmah": "Menunjukkan jeda penting dalam bacaan untuk memahami makna kalimat sebelumnya sebelum melanjutkan ke larangan berikutnya.",
-      "role": "none"
-    },
-    {
-      "index": 4,
       "kata_arab": "وَلَا",
       "transliterasi": "Wa lā",
       "jenis_kata": "Huruf",
@@ -93,7 +75,7 @@
       "role": "none"
     },
     {
-      "index": 5,
+      "index": 4,
       "kata_arab": "تَتَبَدَّلُوا۟",
       "transliterasi": "Tatabaddalū",
       "jenis_kata": "Fi'il",
@@ -111,7 +93,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 5,
       "kata_arab": "ٱلْخَبِيثَ",
       "transliterasi": "al-khabīth",
       "jenis_kata": "Isim",
@@ -129,7 +111,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 6,
       "kata_arab": "بِٱلطَّيِّبِ",
       "transliterasi": "biṭ-ṭayyib",
       "jenis_kata": "Huruf + Isim",
@@ -147,25 +129,7 @@
       "role": "none"
     },
     {
-      "index": 8,
-      "kata_arab": "ۖ",
-      "transliterasi": "N/A",
-      "jenis_kata": "Huruf (tanda waqaf)",
-      "arti": "(Tanda waqaf lazim/mutlaq)",
-      "sharaf": {
-        "akar_kata": "N/A",
-        "makna_dasar": "N/A",
-        "wazan_perubahan": "N/A"
-      },
-      "nahwu": {
-        "kedudukan": "Tanda baca dalam Al-Qur'an",
-        "irab_dan_logika": "Bukan bagian dari struktur gramatikal kalimat. Ini adalah tanda waqaf (berhenti) yang menunjukkan bahwa berhenti di sini lebih utama, meskipun boleh juga melanjutkan."
-      },
-      "hikmah": "Secara gramatikal tidak memiliki makna, tetapi secara konteks tilawah, ia menandakan tempat berhenti yang dianjurkan untuk memahami makna ayat dengan lebih baik, memisahkan satu larangan dengan larangan berikutnya.",
-      "role": "none"
-    },
-    {
-      "index": 9,
+      "index": 7,
       "kata_arab": "وَلَا",
       "transliterasi": "wa-lā",
       "jenis_kata": "Huruf",
@@ -183,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 8,
       "kata_arab": "تَأْكُلُوٓا۟",
       "transliterasi": "ta'kulū",
       "jenis_kata": "Fi'il",
@@ -201,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 9,
       "kata_arab": "إِلَىٰٓ",
       "transliterasi": "ilā",
       "jenis_kata": "**Huruf**",
@@ -219,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 10,
       "kata_arab": "أَمْوَٰلِكُمْ",
       "transliterasi": "amwālikum",
       "jenis_kata": "**Isim**",
@@ -237,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 11,
       "kata_arab": "ۚ",
       "transliterasi": "(tanda waqaf lazim)",
       "jenis_kata": "**Tanda baca** (bukan kata)",
@@ -255,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 12,
       "kata_arab": "إِنَّهُۥ",
       "transliterasi": "innahu",
       "jenis_kata": "**Huruf** (partikel penegas) + **Isim** (dhomir)",
@@ -273,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 13,
       "kata_arab": "كَانَ",
       "transliterasi": "kāna",
       "jenis_kata": "**Fi'il** (kata kerja)",
@@ -291,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 14,
       "kata_arab": "حُوبًۭا",
       "transliterasi": "ḥūban",
       "jenis_kata": "**Isim**",
@@ -309,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 15,
       "kata_arab": "كَبِيرًۭا",
       "transliterasi": "kabīran",
       "jenis_kata": "Isim",

@@ -166,24 +166,6 @@
     },
     {
       "index": 9,
-      "kata_arab": "ۚ",
-      "transliterasi": "(tanda waqaf)",
-      "jenis_kata": "Tanda Waqaf (bukan kata)",
-      "arti": "Tanda berhenti (waqaf jaiz)",
-      "sharaf": {
-        "akar_kata": "Tidak ada",
-        "makna_dasar": "Menunjukkan tempat yang dianjurkan untuk berhenti membaca, namun boleh juga melanjutkan.",
-        "wazan_perubahan": "Tidak berlaku."
-      },
-      "nahwu": {
-        "kedudukan": "Tanda baca dalam Al-Qur'an.",
-        "irab_dan_logika": "Bukan bagian dari struktur gramatikal."
-      },
-      "hikmah": "Memisahkan dua klausa utama dalam ayat ini, yaitu tentang kekuasaan Yusuf di Mesir dan tentang rahmat Allah yang dilimpahkan kepada siapa yang dikehendaki-Nya.",
-      "role": "none"
-    },
-    {
-      "index": 10,
       "kata_arab": "نُصِيبُ",
       "transliterasi": "nuṣību",
       "jenis_kata": "Fi'il (Kata Kerja)",
@@ -201,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 10,
       "kata_arab": "بِرَحْمَتِنَا",
       "transliterasi": "bi-raḥmatinā",
       "jenis_kata": "Huruf (بِ) + Isim (رَحْمَة) + Isim Dhomir (نَا)",
@@ -219,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 11,
       "kata_arab": "مَن",
       "transliterasi": "man",
       "jenis_kata": "Isim Maushul",
@@ -237,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 12,
       "kata_arab": "نَّشَآءُ",
       "transliterasi": "nashā'u",
       "jenis_kata": "Fi'il (kata kerja)",
@@ -255,25 +237,7 @@
       "role": "none"
     },
     {
-      "index": 14,
-      "kata_arab": "ۖ",
-      "transliterasi": "N/A",
-      "jenis_kata": "Tanda Waqaf",
-      "arti": "Tanda berhenti (waqaf jaiz)",
-      "sharaf": {
-        "akar_kata": "N/A",
-        "makna_dasar": "N/A",
-        "wazan_perubahan": "N/A"
-      },
-      "nahwu": {
-        "kedudukan": "Tanda baca dalam mushaf Al-Qur'an.",
-        "irab_dan_logika": "Ini bukan bagian dari tata bahasa Arab (nahwu atau sharaf), melainkan konvensi penulisan mushaf untuk menunjukkan tempat yang dianjurkan untuk berhenti atau boleh melanjutkan bacaan. Tanda ini disebut *waqaf jaiz*."
-      },
-      "hikmah": "Tanda waqaf ini berfungsi untuk membantu pembaca dalam memahami makna ayat dengan memberikan jeda yang tepat, sehingga pesan yang disampaikan dapat dicerna dengan baik dan tidak terjadi kesalahan pemahaman.",
-      "role": "none"
-    },
-    {
-      "index": 15,
+      "index": 13,
       "kata_arab": "وَلَا",
       "transliterasi": "wa lā",
       "jenis_kata": "Huruf",
@@ -291,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 14,
       "kata_arab": "نُضِيعُ",
       "transliterasi": "nuḍī'u",
       "jenis_kata": "Fi'il (kata kerja)",
@@ -309,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 15,
       "kata_arab": "أَجْرَ",
       "transliterasi": "ajra",
       "jenis_kata": "Isim (kata benda)",
@@ -327,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 16,
       "kata_arab": "ٱلْمُحْسِنِينَ",
       "transliterasi": "al-muḥsinīn",
       "jenis_kata": "Isim (Kata Benda)",

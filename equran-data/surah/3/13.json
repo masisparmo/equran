@@ -346,24 +346,6 @@
     },
     {
       "index": 19,
-      "kata_arab": "ۚ",
-      "transliterasi": "-",
-      "jenis_kata": "Tanda Waqaf (tanda berhenti)",
-      "arti": "Tanda waqaf lazim (harus berhenti)",
-      "sharaf": {
-        "akar_kata": "N/A (bukan kata)",
-        "makna_dasar": "N/A",
-        "wazan_perubahan": "N/A"
-      },
-      "nahwu": {
-        "kedudukan": "N/A (bukan bagian dari struktur kalimat)",
-        "irab_dan_logika": "N/A"
-      },
-      "hikmah": "Tanda waqaf ini menunjukkan bahwa pembaca sebaiknya berhenti di sini untuk memahami makna kalimat sebelumnya secara utuh sebelum melanjutkan ke kalimat berikutnya. Ini membantu dalam pemahaman struktur dan makna ayat.",
-      "role": "none"
-    },
-    {
-      "index": 20,
       "kata_arab": "وَٱللَّهُ",
       "transliterasi": "wa-Allahu",
       "jenis_kata": "**Huruf** (waw) + **Isim** (Allah)",
@@ -381,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 20,
       "kata_arab": "يُؤَيِّدُ",
       "transliterasi": "yu'ayyidu",
       "jenis_kata": "**Fi'il** (kata kerja)",
@@ -399,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 21,
       "kata_arab": "بِنَصْرِهِۦ",
       "transliterasi": "binasrihi",
       "jenis_kata": "**Huruf** (ba) + **Isim** (nasr) + **Dhamir** (hi)",
@@ -417,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 22,
       "kata_arab": "مَن",
       "transliterasi": "man",
       "jenis_kata": "**Isim Maushul** (kata sambung) atau **Isim Syarat** (kata syarat)",
@@ -435,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 23,
       "kata_arab": "يَشَآءُ",
       "transliterasi": "yashā'u",
       "jenis_kata": "Fi'il",
@@ -453,25 +435,7 @@
       "role": "none"
     },
     {
-      "index": 25,
-      "kata_arab": "ۗ",
-      "transliterasi": "-",
-      "jenis_kata": "Tanda Waqaf",
-      "arti": "Tanda berhenti (waqaf mujawwaz)",
-      "sharaf": {
-        "akar_kata": "-",
-        "makna_dasar": "-",
-        "wazan_perubahan": "-"
-      },
-      "nahwu": {
-        "kedudukan": "Tanda baca dalam mushaf",
-        "irab_dan_logika": "Bukan bagian dari struktur gramatikal kalimat. Ini adalah tanda waqaf mujawwaz, yang berarti berhenti di sini diperbolehkan, tetapi melanjutkan lebih utama."
-      },
-      "hikmah": "Tanda ini membantu pembaca untuk memahami jeda makna dalam ayat, memisahkan satu gagasan dari gagasan berikutnya, meskipun melanjutkan bacaan lebih dianjurkan untuk kelancaran makna.",
-      "role": "none"
-    },
-    {
-      "index": 26,
+      "index": 24,
       "kata_arab": "إِنَّ",
       "transliterasi": "inna",
       "jenis_kata": "Huruf",
@@ -489,7 +453,7 @@
       "role": "none"
     },
     {
-      "index": 27,
+      "index": 25,
       "kata_arab": "فِى",
       "transliterasi": "fī",
       "jenis_kata": "Huruf",
@@ -507,7 +471,7 @@
       "role": "none"
     },
     {
-      "index": 28,
+      "index": 26,
       "kata_arab": "ذَٰلِكَ",
       "transliterasi": "dzālika",
       "jenis_kata": "Isim Isyarah",
@@ -525,7 +489,7 @@
       "role": "none"
     },
     {
-      "index": 29,
+      "index": 27,
       "kata_arab": "لَعِبْرَةًۭ",
       "transliterasi": "la'ibratan",
       "jenis_kata": "Isim",
@@ -543,7 +507,7 @@
       "role": "none"
     },
     {
-      "index": 30,
+      "index": 28,
       "kata_arab": "لِّأُو۟لِى",
       "transliterasi": "li-ulī",
       "jenis_kata": "Isim (kata benda)",
@@ -561,7 +525,7 @@
       "role": "none"
     },
     {
-      "index": 31,
+      "index": 29,
       "kata_arab": "ٱلْأَبْصَٰرِ",
       "transliterasi": "al-abṣār",
       "jenis_kata": "Isim (kata benda)",

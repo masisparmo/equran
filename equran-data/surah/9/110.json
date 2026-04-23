@@ -220,24 +220,6 @@
     },
     {
       "index": 12,
-      "kata_arab": "ۗ",
-      "transliterasi": "Waqf Laazim",
-      "jenis_kata": "Tanda Waqaf",
-      "arti": "Tanda berhenti sempurna (wajib)",
-      "sharaf": {
-        "akar_kata": "Tidak berlaku untuk tanda waqaf",
-        "makna_dasar": "Tidak berlaku untuk tanda waqaf",
-        "wazan_perubahan": "Tidak berlaku untuk tanda waqaf"
-      },
-      "nahwu": {
-        "kedudukan": "Tanda waqaf, bukan bagian dari struktur nahwu kalimat",
-        "irab_dan_logika": "Tidak memiliki i'rab karena bukan kata"
-      },
-      "hikmah": "Tanda ini mengindikasikan bahwa pembaca *wajib* berhenti di sini untuk menjaga kesempurnaan makna ayat. Melanjutkan bacaan tanpa berhenti dapat mengubah atau mengaburkan makna yang dimaksud.",
-      "role": "none"
-    },
-    {
-      "index": 13,
       "kata_arab": "وَٱللَّهُ",
       "transliterasi": "Wa-Allahu",
       "jenis_kata": "Huruf (Waw) + Isim (Allah)",
@@ -255,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 13,
       "kata_arab": "عَلِيمٌ",
       "transliterasi": "Alimun",
       "jenis_kata": "Isim (Sifat Musyabbahah / Shighah Mubalaghah)",
@@ -273,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 14,
       "kata_arab": "حَكِيمٌ",
       "transliterasi": "Hakimun",
       "jenis_kata": "Isim (Sifat Musyabbahah / Shighah Mubalaghah)",

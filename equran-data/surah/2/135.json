@@ -112,24 +112,6 @@
     },
     {
       "index": 6,
-      "kata_arab": "ۗ",
-      "transliterasi": "waqf laazim",
-      "jenis_kata": "Tanda Waqaf",
-      "arti": "Tanda berhenti wajib",
-      "sharaf": {
-        "akar_kata": "Tidak berlaku untuk tanda waqaf.",
-        "makna_dasar": "Tidak berlaku untuk tanda waqaf.",
-        "wazan_perubahan": "Tidak berlaku untuk tanda waqaf."
-      },
-      "nahwu": {
-        "kedudukan": "Tanda baca dalam Al-Qur'an.",
-        "irab_dan_logika": "Tidak memiliki i'rab karena bukan kata."
-      },
-      "hikmah": "Tanda waqaf laazim (م) menunjukkan bahwa pembaca wajib berhenti pada tanda ini. Melanjutkan bacaan tanpa berhenti dapat mengubah makna ayat. Ini memastikan pemahaman yang benar terhadap kalimat sebelumnya sebelum melanjutkan ke perintah 'Qul' (Katakanlah).",
-      "role": "none"
-    },
-    {
-      "index": 7,
       "kata_arab": "قُلْ",
       "transliterasi": "Qul",
       "jenis_kata": "Fi'il (Kata Kerja Perintah)",
@@ -147,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 7,
       "kata_arab": "بَلْ",
       "transliterasi": "Bal",
       "jenis_kata": "Huruf (Partikel)",
@@ -165,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 8,
       "kata_arab": "مِلَّةَ",
       "transliterasi": "Millata",
       "jenis_kata": "Isim (Kata Benda)",
@@ -183,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 9,
       "kata_arab": "إِبْرَٰهِۦمَ",
       "transliterasi": "Ibrahima",
       "jenis_kata": "Isim (Kata Benda, Nama Diri)",
@@ -201,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 10,
       "kata_arab": "حَنِيفًۭا",
       "transliterasi": "Hanifan",
       "jenis_kata": "Isim (Kata Sifat/Keterangan)",
@@ -219,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 11,
       "kata_arab": "ۖ",
       "transliterasi": "waqf laazim",
       "jenis_kata": "Tanda Baca",
@@ -237,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 12,
       "kata_arab": "وَمَا",
       "transliterasi": "wa mā",
       "jenis_kata": "Huruf (Wawu 'Athaf/Isti'naf dan Ma Nafiyah)",
@@ -255,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 13,
       "kata_arab": "كَانَ",
       "transliterasi": "kāna",
       "jenis_kata": "Fi'il (Kata Kerja)",
@@ -273,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 14,
       "kata_arab": "مِنَ",
       "transliterasi": "mina",
       "jenis_kata": "Huruf (Harf Jar)",
@@ -291,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 15,
       "kata_arab": "ٱلْمُشْرِكِينَ",
       "transliterasi": "al-musyrikīn",
       "jenis_kata": "Isim (Kata Benda)",

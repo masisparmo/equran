@@ -472,24 +472,6 @@
     },
     {
       "index": 26,
-      "kata_arab": "ۚ",
-      "transliterasi": "(tanda waqaf lazim)",
-      "jenis_kata": "Tanda Waqaf",
-      "arti": "(tanda berhenti wajib)",
-      "sharaf": {
-        "akar_kata": "Tidak berlaku",
-        "makna_dasar": "Menunjukkan tempat berhenti yang dianjurkan atau wajib untuk memahami makna.",
-        "wazan_perubahan": "Tidak berlaku"
-      },
-      "nahwu": {
-        "kedudukan": "Tanda baca dalam Al-Qur'an",
-        "irab_dan_logika": "Tidak memiliki i'rab karena bukan kata. Fungsinya adalah membantu pembacaan dan pemahaman makna ayat."
-      },
-      "hikmah": "Tanda waqaf `ۚ` (waqaf lazim) menunjukkan bahwa pembaca *harus* berhenti di sini. Ini memisahkan dua gagasan utama dalam ayat: pertama, tentang cara masuk rumah yang benar (metafora untuk cara beragama yang benar), dan kedua, perintah untuk bertakwa kepada Allah. Berhenti di sini membantu menegaskan transisi makna dan pentingnya setiap bagian ayat.",
-      "role": "none"
-    },
-    {
-      "index": 27,
       "kata_arab": "وَٱتَّقُوا۟",
       "transliterasi": "wa-ttaqu",
       "jenis_kata": "Fi'il Amar",
@@ -507,7 +489,7 @@
       "role": "none"
     },
     {
-      "index": 28,
+      "index": 27,
       "kata_arab": "ٱللَّهَ",
       "transliterasi": "Allāha",
       "jenis_kata": "Isim",
@@ -525,7 +507,7 @@
       "role": "none"
     },
     {
-      "index": 29,
+      "index": 28,
       "kata_arab": "لَعَلَّكُمْ",
       "transliterasi": "la'allakum",
       "jenis_kata": "Huruf + Dhomir Muttasil",
@@ -543,7 +525,7 @@
       "role": "none"
     },
     {
-      "index": 30,
+      "index": 29,
       "kata_arab": "تُفْلِحُونَ",
       "transliterasi": "tuflikhūn",
       "jenis_kata": "Fi'il",

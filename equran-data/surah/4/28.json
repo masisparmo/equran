@@ -94,24 +94,6 @@
     },
     {
       "index": 5,
-      "kata_arab": "ۚ",
-      "transliterasi": "Waqf Jīm",
-      "jenis_kata": "Tanda Waqaf",
-      "arti": "Tanda berhenti (boleh berhenti, boleh lanjut)",
-      "sharaf": {
-        "akar_kata": "Tidak berlaku.",
-        "makna_dasar": "Menunjukkan tempat yang dianjurkan untuk berhenti, namun tidak wajib.",
-        "wazan_perubahan": "Tidak berlaku."
-      },
-      "nahwu": {
-        "kedudukan": "Tanda baca Al-Qur'an.",
-        "irab_dan_logika": "Tidak memiliki i'rab. Fungsinya adalah untuk membantu pembaca dalam memahami makna ayat dan mengatur nafas."
-      },
-      "hikmah": "Secara makna, tanda ini menunjukkan bahwa kalimat sebelumnya sudah cukup jelas dan dapat dipahami, namun ada **keterkaitan makna yang kuat dengan kalimat berikutnya** (\"وَخُلِقَ الْإِنْسَانُ ضَعِيفًا\"), yang menjelaskan alasan di balik keringanan tersebut.",
-      "role": "none"
-    },
-    {
-      "index": 6,
       "kata_arab": "وَخُلِقَ",
       "transliterasi": "wa khuliqa",
       "jenis_kata": "Huruf (و) + Fi'il (خُلِقَ)",
@@ -129,7 +111,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 6,
       "kata_arab": "ٱلْإِنسَٰنُ",
       "transliterasi": "al-insānu",
       "jenis_kata": "Isim (kata benda)",
@@ -147,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 7,
       "kata_arab": "ضَعِيفًۭا",
       "transliterasi": "ḍa'īfan",
       "jenis_kata": "Isim (kata sifat/keadaan)",

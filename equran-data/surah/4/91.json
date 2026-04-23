@@ -256,24 +256,6 @@
     },
     {
       "index": 14,
-      "kata_arab": "ۚ",
-      "transliterasi": "Tanda Waqaf",
-      "jenis_kata": "Tanda Waqaf",
-      "arti": "Tanda berhenti",
-      "sharaf": {
-        "akar_kata": "Tidak ada",
-        "makna_dasar": "Menunjukkan tempat berhenti dalam bacaan.",
-        "wazan_perubahan": "Tidak ada"
-      },
-      "nahwu": {
-        "kedudukan": "Tanda waqaf lazim (harus berhenti)",
-        "irab_dan_logika": "Bukan bagian dari struktur gramatikal. Ini adalah tanda baca dalam mushaf Al-Qur'an untuk membantu pembaca memahami makna dengan benar."
-      },
-      "hikmah": "Tanda waqaf ini menandai akhir dari satu gagasan dan awal gagasan baru. Ini menekankan bahwa pernyataan sebelumnya tentang kecenderungan mereka terhadap fitnah adalah fakta yang telah ditetapkan, dan sekarang akan dilanjutkan dengan konsekuensi atau tindakan yang harus diambil.",
-      "role": "none"
-    },
-    {
-      "index": 15,
       "kata_arab": "فَإِن",
       "transliterasi": "Fa-in",
       "jenis_kata": "Huruf",
@@ -291,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 15,
       "kata_arab": "لَّمْ",
       "transliterasi": "Lam",
       "jenis_kata": "Huruf",
@@ -309,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 16,
       "kata_arab": "يَعْتَزِلُوكُمْ",
       "transliterasi": "Ya'tazilūkum",
       "jenis_kata": "Fi'il + Isim",
@@ -327,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 17,
       "kata_arab": "وَيُلْقُوٓا۟",
       "transliterasi": "wa yulqū",
       "jenis_kata": "Fi'il",
@@ -345,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 18,
       "kata_arab": "إِلَيْكُمُ",
       "transliterasi": "ilaikum",
       "jenis_kata": "Huruf + Isim Dhomir",
@@ -363,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 19,
       "kata_arab": "ٱلسَّلَمَ",
       "transliterasi": "as-salama",
       "jenis_kata": "Isim",
@@ -381,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 20,
       "kata_arab": "وَيَكُفُّوٓا۟",
       "transliterasi": "wa yakuffū",
       "jenis_kata": "Fi'il",
@@ -399,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 21,
       "kata_arab": "أَيْدِيَهُمْ",
       "transliterasi": "aidiyahum",
       "jenis_kata": "Isim + Isim Dhomir",
@@ -417,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 22,
       "kata_arab": "فَخُذُوهُمْ",
       "transliterasi": "fa khudhūhum",
       "jenis_kata": "Fi'il Amar + Isim Dhomir",
@@ -435,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 23,
       "kata_arab": "وَٱقْتُلُوهُمْ",
       "transliterasi": "Waqtulūhum",
       "jenis_kata": "Fi'il",
@@ -453,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 24,
       "kata_arab": "حَيْثُ",
       "transliterasi": "Ḥaythu",
       "jenis_kata": "Isim / Zharaf Makan",
@@ -471,7 +453,7 @@
       "role": "none"
     },
     {
-      "index": 26,
+      "index": 25,
       "kata_arab": "ثَقِفْتُمُوهُمْ",
       "transliterasi": "Thaqiftumūhum",
       "jenis_kata": "Fi'il",
@@ -489,25 +471,7 @@
       "role": "none"
     },
     {
-      "index": 27,
-      "kata_arab": "ۚ",
-      "transliterasi": "",
-      "jenis_kata": "Tanda Waqaf",
-      "arti": "Tanda berhenti (waqaf jaiz, lebih baik berhenti)",
-      "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
-      },
-      "nahwu": {
-        "kedudukan": "Tanda waqaf.",
-        "irab_dan_logika": ""
-      },
-      "hikmah": "Tanda waqaf ini menunjukkan bahwa pembaca dianjurkan untuk berhenti sejenak di sini. Ini menandai akhir dari satu klausa atau ide, memberikan jeda sebelum melanjutkan ke bagian berikutnya yang mungkin memiliki penekanan atau subjek yang sedikit berbeda. Dalam konteks ayat, ini memisahkan perintah untuk memerangi dari penjelasan tentang pembenaran tindakan tersebut.",
-      "role": "none"
-    },
-    {
-      "index": 28,
+      "index": 26,
       "kata_arab": "وَأُو۟لَٰٓئِكُمْ",
       "transliterasi": "Wa ulā'ikum",
       "jenis_kata": "Isim / Isim Isyarah",
@@ -525,7 +489,7 @@
       "role": "none"
     },
     {
-      "index": 29,
+      "index": 27,
       "kata_arab": "جَعَلْنَا",
       "transliterasi": "Ja'alnā",
       "jenis_kata": "Fi'il",
@@ -543,7 +507,7 @@
       "role": "none"
     },
     {
-      "index": 30,
+      "index": 28,
       "kata_arab": "لَكُمْ",
       "transliterasi": "lakum",
       "jenis_kata": "Huruf (preposisi) + Isim (pronomina)",
@@ -561,7 +525,7 @@
       "role": "none"
     },
     {
-      "index": 31,
+      "index": 29,
       "kata_arab": "عَلَيْهِمْ",
       "transliterasi": "alaihim",
       "jenis_kata": "Huruf (preposisi) + Isim (pronomina)",
@@ -579,7 +543,7 @@
       "role": "none"
     },
     {
-      "index": 32,
+      "index": 30,
       "kata_arab": "سُلْطَٰنًۭا",
       "transliterasi": "sulṭānan",
       "jenis_kata": "Isim (kata benda)",
@@ -597,7 +561,7 @@
       "role": "none"
     },
     {
-      "index": 33,
+      "index": 31,
       "kata_arab": "مُّبِينًۭا",
       "transliterasi": "mubīnan",
       "jenis_kata": "Isim (kata sifat / partisip aktif)",

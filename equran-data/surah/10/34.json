@@ -166,24 +166,6 @@
     },
     {
       "index": 9,
-      "kata_arab": "ۚ",
-      "transliterasi": "Tidak ada transliterasi untuk tanda waqaf.",
-      "jenis_kata": "Tanda Waqaf",
-      "arti": "Tidak ada arti harfiah, ini adalah tanda baca.",
-      "sharaf": {
-        "akar_kata": "Tidak ada.",
-        "makna_dasar": "Tidak ada.",
-        "wazan_perubahan": "Tidak berlaku."
-      },
-      "nahwu": {
-        "kedudukan": "Tanda Waqaf Lazim (harus berhenti)",
-        "irab_dan_logika": "Tidak berlaku."
-      },
-      "hikmah": "Tanda ini menunjukkan tempat yang *dianjurkan untuk berhenti membaca*. Dalam konteks ayat, ia menandai akhir dari pertanyaan retoris pertama, memberikan jeda sebelum pernyataan atau jawaban yang akan disampaikan.",
-      "role": "none"
-    },
-    {
-      "index": 10,
       "kata_arab": "قُلِ",
       "transliterasi": "quli",
       "jenis_kata": "Fi'il",
@@ -201,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 10,
       "kata_arab": "ٱللَّهُ",
       "transliterasi": "Allāhu",
       "jenis_kata": "Isim",
@@ -219,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 11,
       "kata_arab": "يَبْدَؤُا۟",
       "transliterasi": "Yabda'u",
       "jenis_kata": "Fi'il",
@@ -237,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 12,
       "kata_arab": "ٱلْخَلْقَ",
       "transliterasi": "Al-Khalqa",
       "jenis_kata": "Isim",
@@ -255,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 13,
       "kata_arab": "ثُمَّ",
       "transliterasi": "Thumma",
       "jenis_kata": "Huruf",
@@ -273,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 14,
       "kata_arab": "يُعِيدُهُۥ",
       "transliterasi": "Yu'īduhu",
       "jenis_kata": "Fi'il",
@@ -291,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 15,
       "kata_arab": "ۖ",
       "transliterasi": "(Tanda Waqaf Lazim)",
       "jenis_kata": "Huruf/Tanda Baca",
@@ -309,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 16,
       "kata_arab": "فَأَنَّىٰ",
       "transliterasi": "Fa'annā",
       "jenis_kata": "Huruf (Gabungan huruf dan isim istifham)",
@@ -327,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 17,
       "kata_arab": "تُؤْفَكُونَ",
       "transliterasi": "tu'fakūna",
       "jenis_kata": "Fi'il (Kata Kerja)",

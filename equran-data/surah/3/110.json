@@ -220,24 +220,6 @@
     },
     {
       "index": 12,
-      "kata_arab": "ۗ",
-      "transliterasi": "Waqf Mutlaq",
-      "jenis_kata": "Tanda Waqaf",
-      "arti": "Tanda berhenti sempurna",
-      "sharaf": {
-        "akar_kata": "Tidak berlaku",
-        "makna_dasar": "Tidak berlaku",
-        "wazan_perubahan": "Tidak berlaku"
-      },
-      "nahwu": {
-        "kedudukan": "Tanda baca dalam mushaf Al-Qur'an",
-        "irab_dan_logika": "Tidak memiliki kedudukan i'rab karena bukan bagian dari struktur kalimat."
-      },
-      "hikmah": "Tanda ini menunjukkan tempat yang dianjurkan untuk berhenti secara sempurna dalam membaca Al-Qur'an, menandakan akhir dari sebuah gagasan atau bagian kalimat, dan pembaca dapat memulai kembali dari kata berikutnya.",
-      "role": "none"
-    },
-    {
-      "index": 13,
       "kata_arab": "وَلَوْ",
       "transliterasi": "wa law",
       "jenis_kata": "Huruf",
@@ -255,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 13,
       "kata_arab": "ءَامَنَ",
       "transliterasi": "aamana",
       "jenis_kata": "Fi'il",
@@ -273,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 14,
       "kata_arab": "أَهْلُ",
       "transliterasi": "ahlu",
       "jenis_kata": "Isim",
@@ -291,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 15,
       "kata_arab": "ٱلْكِتَٰبِ",
       "transliterasi": "al-kitaabi",
       "jenis_kata": "Isim",
@@ -309,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 16,
       "kata_arab": "لَكَانَ",
       "transliterasi": "lakaana",
       "jenis_kata": "Huruf (Lam) dan Fi'il Naqis (Kaana)",
@@ -327,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 17,
       "kata_arab": "خَيْرًۭا",
       "transliterasi": "khairan",
       "jenis_kata": "Isim",
@@ -345,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 18,
       "kata_arab": "لَّهُم",
       "transliterasi": "lahum",
       "jenis_kata": "Huruf + Isim",
@@ -363,25 +345,7 @@
       "role": "none"
     },
     {
-      "index": 20,
-      "kata_arab": "ۚ",
-      "transliterasi": "-",
-      "jenis_kata": "Tanda Waqaf",
-      "arti": "Tanda berhenti (waqaf jaiz)",
-      "sharaf": {
-        "akar_kata": "-",
-        "makna_dasar": "-",
-        "wazan_perubahan": "-"
-      },
-      "nahwu": {
-        "kedudukan": "Bukan bagian dari struktur gramatikal kalimat.",
-        "irab_dan_logika": "Tidak memiliki irab. Ini adalah tanda baca dalam mushaf Al-Qur'an."
-      },
-      "hikmah": "Menunjukkan tempat yang dianjurkan untuk berhenti sejenak dalam membaca Al-Qur'an, memberikan jeda makna antara dua bagian ayat.",
-      "role": "none"
-    },
-    {
-      "index": 21,
+      "index": 19,
       "kata_arab": "مِّنْهُمُ",
       "transliterasi": "minhumu",
       "jenis_kata": "Huruf + Isim",
@@ -399,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 20,
       "kata_arab": "ٱلْمُؤْمِنُونَ",
       "transliterasi": "al-mu'minuun",
       "jenis_kata": "Isim",
@@ -417,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 21,
       "kata_arab": "وَأَكْثَرُهُمُ",
       "transliterasi": "wa-aktsaruhumu",
       "jenis_kata": "Huruf + Isim + Isim",
@@ -435,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 22,
       "kata_arab": "ٱلْفَٰسِقُونَ",
       "transliterasi": "al-fāsiqūn",
       "jenis_kata": "Isim",

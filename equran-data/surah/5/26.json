@@ -76,24 +76,6 @@
     },
     {
       "index": 4,
-      "kata_arab": "ۛ",
-      "transliterasi": "Tidak ada transliterasi khusus",
-      "jenis_kata": "Tanda Waqaf",
-      "arti": "Tanda berhenti yang menunjukkan salah satu dari dua tempat berhenti lebih baik.",
-      "sharaf": {
-        "akar_kata": "Tidak berlaku.",
-        "makna_dasar": "Tanda waqaf mu'anaqah (berhenti di salah satu dari dua titik).",
-        "wazan_perubahan": "Tidak berlaku."
-      },
-      "nahwu": {
-        "kedudukan": "Tanda baca Al-Qur'an.",
-        "irab_dan_logika": "Tidak memiliki kedudukan i'rab. Ini adalah tanda untuk pembacaan Al-Qur'an."
-      },
-      "hikmah": "Tanda ini memberikan fleksibilitas dalam pembacaan. Pembaca bisa berhenti di sini atau melanjutkan ke tanda waqaf serupa yang akan datang (yang biasanya ada dua tanda ini dalam satu frasa). Ini membantu dalam memahami makna ayat dengan memberikan pilihan jeda yang tepat.",
-      "role": "none"
-    },
-    {
-      "index": 5,
       "kata_arab": "أَرْبَعِينَ",
       "transliterasi": "Arba'īna",
       "jenis_kata": "Isim",
@@ -111,7 +93,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 5,
       "kata_arab": "سَنَةًۭ",
       "transliterasi": "sanah",
       "jenis_kata": "Isim",
@@ -129,25 +111,7 @@
       "role": "none"
     },
     {
-      "index": 7,
-      "kata_arab": "ۛ",
-      "transliterasi": "",
-      "jenis_kata": "Tanda Waqaf",
-      "arti": "Tanda waqaf mu'anaqah (waqaf bersambung)",
-      "sharaf": {
-        "akar_kata": "(Tidak berlaku)",
-        "makna_dasar": "(Tidak berlaku)",
-        "wazan_perubahan": "(Tidak berlaku)"
-      },
-      "nahwu": {
-        "kedudukan": "Tanda baca dalam mushaf Al-Qur'an.",
-        "irab_dan_logika": "Tanda ini menunjukkan bahwa pembaca boleh berhenti di salah satu dari dua tempat yang memiliki tanda ini, tetapi tidak boleh berhenti di keduanya. Dalam kasus ini, ada tanda ۛ sebelum يَتِيهُونَ dan setelah سَنَةًۭ. Ini berarti boleh berhenti di سَنَةًۭ atau melanjutkan ke يَتِيهُونَ."
-      },
-      "hikmah": "Tanda ini berfungsi sebagai panduan bagi pembaca Al-Qur'an untuk menjaga makna ayat agar tidak terputus atau salah dipahami. Ini menunjukkan fleksibilitas dalam membaca namun dengan tetap menjaga kesatuan makna.",
-      "role": "none"
-    },
-    {
-      "index": 8,
+      "index": 6,
       "kata_arab": "يَتِيهُونَ",
       "transliterasi": "yatīhūna",
       "jenis_kata": "Fi'il",
@@ -165,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 7,
       "kata_arab": "فِى",
       "transliterasi": "fī",
       "jenis_kata": "Huruf",
@@ -183,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 8,
       "kata_arab": "ٱلْأَرْضِ",
       "transliterasi": "al-ardhi",
       "jenis_kata": "Isim",
@@ -201,25 +165,7 @@
       "role": "none"
     },
     {
-      "index": 11,
-      "kata_arab": "ۚ",
-      "transliterasi": "",
-      "jenis_kata": "Tanda Waqaf",
-      "arti": "Tanda waqaf jaiz (boleh berhenti atau melanjutkan)",
-      "sharaf": {
-        "akar_kata": "(Tidak berlaku)",
-        "makna_dasar": "(Tidak berlaku)",
-        "wazan_perubahan": "(Tidak berlaku)"
-      },
-      "nahwu": {
-        "kedudukan": "Tanda baca dalam mushaf Al-Qur'an.",
-        "irab_dan_logika": "Tanda ini menunjukkan bahwa pembaca boleh berhenti atau melanjutkan bacaan. Berhenti di sini tidak akan mengubah makna secara signifikan, dan melanjutkan juga tidak masalah."
-      },
-      "hikmah": "Tanda ini berfungsi sebagai panduan bagi pembaca Al-Qur'an untuk mengatur nafas dan menjaga kelancaran bacaan, sekaligus memberikan fleksibilitas dalam memahami struktur kalimat tanpa merusak makna.",
-      "role": "none"
-    },
-    {
-      "index": 12,
+      "index": 9,
       "kata_arab": "فَلَا",
       "transliterasi": "fa-lā",
       "jenis_kata": "Huruf",
@@ -237,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 10,
       "kata_arab": "تَأْسَ",
       "transliterasi": "ta'sa",
       "jenis_kata": "Fi'il",
@@ -255,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 11,
       "kata_arab": "عَلَى",
       "transliterasi": "ʿalā",
       "jenis_kata": "Huruf",
@@ -273,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 12,
       "kata_arab": "ٱلْقَوْمِ",
       "transliterasi": "al-qawmi",
       "jenis_kata": "Isim",
@@ -291,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 13,
       "kata_arab": "ٱلْفَٰسِقِينَ",
       "transliterasi": "al-fāsiqīna",
       "jenis_kata": "Isim",

@@ -508,24 +508,6 @@
     },
     {
       "index": 28,
-      "kata_arab": "ۖ",
-      "transliterasi": "(tanda waqaf)",
-      "jenis_kata": "Tanda Waqaf",
-      "arti": "Tanda berhenti (waqaf mutlaq)",
-      "sharaf": {
-        "akar_kata": "N/A",
-        "makna_dasar": "Menunjukkan tempat yang baik untuk berhenti membaca.",
-        "wazan_perubahan": "N/A"
-      },
-      "nahwu": {
-        "kedudukan": "Bukan bagian dari struktur nahwu kalimat",
-        "irab_dan_logika": "Tanda waqaf tidak memiliki i'rab karena bukan merupakan bagian dari tata bahasa Arab, melainkan tanda baca dalam mushaf Al-Qur'an."
-      },
-      "hikmah": "Secara harfiah bukan kata, tetapi tanda baca dalam Al-Qur'an yang menunjukkan tempat berhenti yang dianjurkan untuk memahami makna ayat dengan lebih baik. Dalam konteks ini, menandai akhir dari satu bagian makna (tentang kekejian dan pengecualian) sebelum perintah selanjutnya kepada Nabi Muhammad SAW.",
-      "role": "none"
-    },
-    {
-      "index": 29,
       "kata_arab": "فَٱعْفُ",
       "transliterasi": "fa'fu",
       "jenis_kata": "Huruf + Fi'il Amar",
@@ -543,7 +525,7 @@
       "role": "none"
     },
     {
-      "index": 30,
+      "index": 29,
       "kata_arab": "عَنْهُمْ",
       "transliterasi": "anhum",
       "jenis_kata": "Huruf + Dhamir",
@@ -561,7 +543,7 @@
       "role": "none"
     },
     {
-      "index": 31,
+      "index": 30,
       "kata_arab": "وَٱصْفَحْ",
       "transliterasi": "waṣfaḥ",
       "jenis_kata": "Fi'il Amr",
@@ -579,25 +561,7 @@
       "role": "none"
     },
     {
-      "index": 32,
-      "kata_arab": "ۚ",
-      "transliterasi": "N/A",
-      "jenis_kata": "Tanda Waqaf",
-      "arti": "N/A",
-      "sharaf": {
-        "akar_kata": "N/A",
-        "makna_dasar": "N/A",
-        "wazan_perubahan": "N/A"
-      },
-      "nahwu": {
-        "kedudukan": "N/A",
-        "irab_dan_logika": "N/A"
-      },
-      "hikmah": "Ini adalah **tanda waqaf lazim** (harus berhenti), menunjukkan **akhir dari satu bagian makna** dan **awal bagian makna baru** dalam ayat tersebut, memberikan jeda untuk memahami pesan sebelumnya.",
-      "role": "none"
-    },
-    {
-      "index": 33,
+      "index": 31,
       "kata_arab": "إِنَّ",
       "transliterasi": "inna",
       "jenis_kata": "Huruf",
@@ -615,7 +579,7 @@
       "role": "none"
     },
     {
-      "index": 34,
+      "index": 32,
       "kata_arab": "ٱللَّهَ",
       "transliterasi": "allāha",
       "jenis_kata": "Isim",
@@ -633,7 +597,7 @@
       "role": "none"
     },
     {
-      "index": 35,
+      "index": 33,
       "kata_arab": "يُحِبُّ",
       "transliterasi": "yuḥibbu",
       "jenis_kata": "Fi'il Mudhari'",
@@ -651,7 +615,7 @@
       "role": "none"
     },
     {
-      "index": 36,
+      "index": 34,
       "kata_arab": "ٱلْمُحْسِنِينَ",
       "transliterasi": "al-muḥsinīn",
       "jenis_kata": "Isim (Kata Benda), lebih spesifik Isim Fa'il (pelaku)",

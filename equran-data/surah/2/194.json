@@ -112,24 +112,6 @@
     },
     {
       "index": 6,
-      "kata_arab": "ۚ",
-      "transliterasi": "Juz' sign / Waqf sign",
-      "jenis_kata": "Tanda Waqaf",
-      "arti": "Tanda berhenti sempurna",
-      "sharaf": {
-        "akar_kata": "Tidak berlaku",
-        "makna_dasar": "Tidak berlaku",
-        "wazan_perubahan": "Tidak berlaku"
-      },
-      "nahwu": {
-        "kedudukan": "Tanda baca",
-        "irab_dan_logika": "Sebagai tanda waqaf (berhenti) yang menunjukkan akhir dari suatu bagian kalimat atau makna, tidak memiliki kedudukan i'rab."
-      },
-      "hikmah": "Menunjukkan tempat berhenti yang dianjurkan untuk memahami makna kalimat sebelumnya secara utuh, sebelum melanjutkan ke bagian berikutnya.",
-      "role": "none"
-    },
-    {
-      "index": 7,
       "kata_arab": "فَمَنِ",
       "transliterasi": "Fa-mani",
       "jenis_kata": "Huruf (fa) dan Isim Syarat (man)",
@@ -147,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 7,
       "kata_arab": "ٱعْتَدَىٰ",
       "transliterasi": "I'tadaa",
       "jenis_kata": "Fi'il Madhi",
@@ -165,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 8,
       "kata_arab": "عَلَيْكُمْ",
       "transliterasi": "Alaikum",
       "jenis_kata": "Huruf Jar (ala) dan Dhamir Muttashil (kum)",
@@ -183,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 9,
       "kata_arab": "فَٱعْتَدُوا۟",
       "transliterasi": "Fa'taduu",
       "jenis_kata": "Huruf (fa) dan Fi'il Amar",
@@ -201,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 10,
       "kata_arab": "عَلَيْهِ",
       "transliterasi": "Alaihi",
       "jenis_kata": "Huruf Jar (ala) dan Dhamir Muttashil (hi)",
@@ -219,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 11,
       "kata_arab": "بِمِثْلِ",
       "transliterasi": "bi-mithli",
       "jenis_kata": "Huruf Jar + Isim",
@@ -237,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 12,
       "kata_arab": "مَا",
       "transliterasi": "mā",
       "jenis_kata": "Isim Maushul",
@@ -255,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 13,
       "kata_arab": "ٱعْتَدَىٰ",
       "transliterasi": "i'tadā",
       "jenis_kata": "Fi'il Madhi",
@@ -273,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 14,
       "kata_arab": "عَلَيْكُمْ",
       "transliterasi": "alaykum",
       "jenis_kata": "Huruf Jar + Dhamir",
@@ -291,25 +273,7 @@
       "role": "none"
     },
     {
-      "index": 16,
-      "kata_arab": "ۚ",
-      "transliterasi": "(tanda waqaf)",
-      "jenis_kata": "Tanda Waqaf",
-      "arti": "(berhenti sejenak)",
-      "sharaf": {
-        "akar_kata": "N/A",
-        "makna_dasar": "Menunjukkan tempat berhenti yang dianjurkan dalam bacaan Al-Qur'an.",
-        "wazan_perubahan": "N/A."
-      },
-      "nahwu": {
-        "kedudukan": "Tanda baca, bukan bagian dari struktur gramatikal kalimat.",
-        "irab_dan_logika": "N/A (tidak memiliki i'rab)."
-      },
-      "hikmah": "Mengindikasikan jeda dalam bacaan untuk membantu pemahaman makna. Dalam konteks ini, memisahkan pernyataan tentang balasan setimpal dari perintah untuk bertakwa, menandai transisi ide.",
-      "role": "none"
-    },
-    {
-      "index": 17,
+      "index": 15,
       "kata_arab": "وَٱتَّقُوا۟",
       "transliterasi": "wa-ittaqū",
       "jenis_kata": "Huruf 'Athaf + Fi'il Amr",
@@ -327,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 16,
       "kata_arab": "ٱللَّهَ",
       "transliterasi": "Allāha",
       "jenis_kata": "Isim",
@@ -345,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 17,
       "kata_arab": "وَٱعْلَمُوٓا۟",
       "transliterasi": "Wa'lamū",
       "jenis_kata": "Fi'il",
@@ -363,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 18,
       "kata_arab": "أَنَّ",
       "transliterasi": "Anna",
       "jenis_kata": "Huruf",
@@ -381,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 19,
       "kata_arab": "ٱللَّهَ",
       "transliterasi": "Allāha",
       "jenis_kata": "Isim",
@@ -399,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 20,
       "kata_arab": "مَعَ",
       "transliterasi": "Ma'a",
       "jenis_kata": "Huruf",
@@ -417,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 21,
       "kata_arab": "ٱلْمُتَّقِينَ",
       "transliterasi": "Al-Muttaqīn",
       "jenis_kata": "Isim",

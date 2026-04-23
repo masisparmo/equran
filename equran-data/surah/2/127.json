@@ -184,24 +184,6 @@
     },
     {
       "index": 10,
-      "kata_arab": "ۖ",
-      "transliterasi": "Tanda Waqaf Jaiz",
-      "jenis_kata": "Tanda Baca (Waqaf)",
-      "arti": "Tanda waqaf jaiz (boleh berhenti, boleh lanjut)",
-      "sharaf": {
-        "akar_kata": "Tidak berlaku untuk tanda baca.",
-        "makna_dasar": "Tanda waqaf dalam mushaf Al-Qur'an.",
-        "wazan_perubahan": "Tidak berlaku untuk tanda baca."
-      },
-      "nahwu": {
-        "kedudukan": "Tanda waqaf.",
-        "irab_dan_logika": "Tanda ini bukan bagian dari struktur gramatikal kalimat Arab, melainkan sebuah konvensi penulisan mushaf Al-Qur'an untuk membantu pembaca. Ia tidak memiliki *i'rab*."
-      },
-      "hikmah": "Tanda `ۖ` adalah *waqaf jaiz* (boleh berhenti, boleh lanjut). Ini berarti pembaca Al-Qur'an memiliki pilihan untuk berhenti sejenak di sini untuk mengambil napas atau memahami makna, atau melanjutkan bacaan tanpa berhenti. Dalam konteks ayat ini, berhenti di sini memisahkan permohonan doa dari alasan atau penegasan doa tersebut.",
-      "role": "none"
-    },
-    {
-      "index": 11,
       "kata_arab": "إِنَّكَ",
       "transliterasi": "Innaka",
       "jenis_kata": "Huruf Taukid + Dhomir (Kata Ganti)",
@@ -219,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 11,
       "kata_arab": "أَنتَ",
       "transliterasi": "Anta",
       "jenis_kata": "Isim (Dhamir/Kata Ganti)",
@@ -237,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 12,
       "kata_arab": "ٱلسَّمِيعُ",
       "transliterasi": "As-Samī'u",
       "jenis_kata": "Isim (Isim Fa'il/Sifat Musyabbahah, Asmaul Husna)",
@@ -255,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 13,
       "kata_arab": "ٱلْعَلِيمُ",
       "transliterasi": "Al-'Alīmu",
       "jenis_kata": "Isim (Isim Fa'il/Sifat Musyabbahah, Asmaul Husna)",
