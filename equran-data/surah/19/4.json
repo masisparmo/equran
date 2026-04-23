@@ -3,40 +3,256 @@
   "ayah": 4,
   "words": [
     {
+      "index": 0,
+      "kata_arab": "قَالَ",
+      "transliterasi": "qaala",
+      "jenis_kata": "Fi'il",
+      "arti": "ia berkata",
+      "sharaf": {
+        "akar_kata": "q-w-l",
+        "makna_dasar": "mengatakan",
+        "wazan_perubahan": "fi'il madhi"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il mutsanna",
+        "irab_dan_logika": "mengawali kalimat sebagai predikat"
+      },
+      "hikmah": "mengungkapkan permulaan ucapan Nabi Zakariya",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "رَبِّ",
+      "transliterasi": "rabbi",
+      "jenis_kata": "Isim",
+      "arti": "tuhanku",
+      "sharaf": {
+        "akar_kata": "r-b-b",
+        "makna_dasar": "tuhanku",
+        "wazan_perubahan": "isim maf'ul"
+      },
+      "nahwu": {
+        "kedudukan": "maf'ul bih",
+        "irab_dan_logika": "mengikuti fi'il qaala"
+      },
+      "hikmah": "menunjukkan hubungan dekat antara Nabi Zakariya dan Allah",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "إِنِّى",
+      "transliterasi": "innee",
+      "jenis_kata": "Huruf",
+      "arti": "sesungguhnya aku",
+      "sharaf": {
+        "akar_kata": "i-n-n",
+        "makna_dasar": "penekanan",
+        "wazan_perubahan": "huruf istithna"
+      },
+      "nahwu": {
+        "kedudukan": "huruf istithna",
+        "irab_dan_logika": "mengawali kalimat untuk menekankan"
+      },
+      "hikmah": "menekankan keadaan Nabi Zakariya yang lemah",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "وَهَنَ",
+      "transliterasi": "wahana",
+      "jenis_kata": "Fi'il",
+      "arti": "telah lemah",
+      "sharaf": {
+        "akar_kata": "w-h-n",
+        "makna_dasar": "lemah",
+        "wazan_perubahan": "fi'il madhi"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il madhi",
+        "irab_dan_logika": "menggambarkan keadaan Nabi Zakariya"
+      },
+      "hikmah": "menggambarkan kelemahan fisik Nabi Zakariya",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "ٱلْعَظْمُ",
+      "transliterasi": "al'adhm",
+      "jenis_kata": "Isim",
+      "arti": "tulang",
+      "sharaf": {
+        "akar_kata": "-d-m",
+        "makna_dasar": "tulang",
+        "wazan_perubahan": "isim mufrad"
+      },
+      "nahwu": {
+        "kedudukan": "maf'ul bih",
+        "irab_dan_logika": "objek dari fi'il wahana"
+      },
+      "hikmah": "menggambarkan kelemahan fisik Nabi Zakariya yang mencapai tulangnya",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "مِنِّى",
+      "transliterasi": "minni",
+      "jenis_kata": "Huruf",
+      "arti": "dariku",
+      "sharaf": {
+        "akar_kata": "m-n",
+        "makna_dasar": "dari",
+        "wazan_perubahan": "huruf jar"
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar",
+        "irab_dan_logika": "menggambarkan asal kelemahan"
+      },
+      "hikmah": "menunjukkan bahwa kelemahan itu berasal dari diri Nabi Zakariya sendiri",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "وَٱشْتَعَلَ",
+      "transliterasi": "wa ashta'ala",
+      "jenis_kata": "Fi'il",
+      "arti": "telah beruban",
+      "sharaf": {
+        "akar_kata": "ش ع ل",
+        "makna_dasar": "beruban",
+        "wazan_perubahan": "ta'ala"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il mudhari",
+        "irab_dan_logika": "menggunakan harakat fathah karena berupa fi'il mudhari yang mendahului fa"
+      },
+      "hikmah": "menunjukkan bahwa Nabi Zakariya telah berusia lanjut dan kepalanya telah ditumbuhi uban",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "ٱلرَّأْسُ",
+      "transliterasi": "ar-ra'su",
+      "jenis_kata": "Isim",
+      "arti": "kepala",
+      "sharaf": {
+        "akar_kata": "ر أ س",
+        "makna_dasar": "kepala",
+        "wazan_perubahan": "tarif"
+      },
+      "nahwu": {
+        "kedudukan": "maf'ul bih",
+        "irab_dan_logika": "menggunakan harakat dammah karena berupa maf'ul bih"
+      },
+      "hikmah": "merujuk pada kepala Nabi Zakariya yang telah beruban",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "شَيْبًۭا",
+      "transliterasi": "syayban",
+      "jenis_kata": "Isim",
+      "arti": "uban",
+      "sharaf": {
+        "akar_kata": "ش ي ب",
+        "makna_dasar": "uban",
+        "wazan_perubahan": "maf'ul"
+      },
+      "nahwu": {
+        "kedudukan": "hal",
+        "irab_dan_logika": "menggunakan harakat fathah karena berupa hal"
+      },
+      "hikmah": "menunjukkan bahwa kepala Nabi Zakariya telah ditumbuhi uban",
+      "role": "none"
+    },
+    {
       "index": 9,
       "kata_arab": "وَلَمْ",
       "transliterasi": "wa lam",
-      "jenis_kata": "Harf (Huruf)",
-      "arti": "dan belum pernah / dan tidak pernah",
+      "jenis_kata": "Huruf",
+      "arti": "dan tidak",
       "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
+        "akar_kata": "ل م",
+        "makna_dasar": "tidak",
+        "wazan_perubahan": "jazm"
       },
       "nahwu": {
-        "kedudukan": "Kata ini adalah gabungan dari dua huruf:\n1.  'وَ' (wa): Huruf penghubung (harf 'athaf) yang berarti 'dan'. Fungsinya adalah menyambungkan kalimat sebelumnya ('tulangku telah lemah dan kepalaku telah ditumbuhi uban') dengan kalimat setelahnya ('aku belum pernah kecewa dalam berdoa kepada Engkau').\n2.  'لَمْ' (lam): Huruf penegas/peniadaan (harf jazm wa nafy wa qalb). Fungsinya adalah menafikan (meniadakan) kejadian di masa lalu dan mengubah makna kata kerja setelahnya (fi'il mudhari') menjadi bermakna masa lalu yang belum terjadi atau tidak pernah terjadi. Huruf ini juga membuat kata kerja setelahnya menjadi 'jazm' (berharakat sukun atau menghilangkan huruf nun/illat).",
-        "irab_dan_logika": "1.  'وَ' (wa): Ini adalah huruf 'athaf (penghubung) yang bersifat 'mabniyyun 'ala al-fath' (tetap pada harakat fathah) dan 'la mahalla lahu min al-i'rab' (tidak memiliki kedudukan i'rab). Logikanya, huruf penghubung seperti 'wa' ini tidak berubah harakatnya karena ia bukan bagian dari struktur kalimat yang bisa berubah kedudukan (seperti subjek atau objek).\n2.  'لَمْ' (lam): Ini adalah huruf jazm (penegas/peniadaan) yang bersifat 'mabniyyun 'ala as-sukun' (tetap pada harakat sukun) dan 'la mahalla lahu min al-i'rab' (tidak memiliki kedudukan i'rab). Logikanya, huruf 'lam' ini berfungsi untuk 'menjazmkan' (mensukunkan) fi'il mudhari' (kata kerja sekarang/akan datang) yang datang setelahnya. Dalam ayat ini, fi'il setelahnya adalah 'أَكُنْ' (akun), yang asalnya adalah 'أَكُونُ' (akunu). Karena ada 'لَمْ', maka 'أَكُونُ' menjadi 'لَمْ أَكُنْ' (huruf wawu dihilangkan karena bertemu sukun dan nun di akhir disukunkan). Ini menunjukkan bahwa kejadian tersebut belum pernah terjadi di masa lalu."
+        "kedudukan": "huruf jazm",
+        "irab_dan_logika": "menggunakan harakat sukun karena berupa huruf jazm"
       },
-      "hikmah": "Pada ayat ini, 'وَلَمْ' berarti 'dan belum pernah'. Penggunaan kata ini oleh Nabi Zakariya menunjukkan penegasan yang sangat kuat bahwa meskipun ia sudah sangat tua dan lemah, ia belum pernah sekalipun mengalami kekecewaan atau tidak dikabulkan doanya oleh Allah. Ini bukan sekadar 'aku tidak kecewa', tetapi 'aku belum pernah kecewa *sama sekali sepanjang hidupku*'.\n\nHikmah luar biasa atau keunikan sastranya terletak pada bagaimana 'لَمْ' mengubah makna fi'il mudhari' menjadi masa lalu yang belum terjadi atau tidak pernah terjadi, memberikan penekanan pada konsistensi pengalaman Nabi Zakariya dengan doa-doanya. Ini menunjukkan keyakinan, harapan, dan hubungan yang sangat kuat serta panjang antara Nabi Zakariya dengan Allah dalam hal doa. Beliau yakin bahwa Allah selalu mendengar dan mengabulkan doanya, sehingga ia tidak pernah merasa kecewa, bahkan di usia senja yang penuh keterbatasan.",
+      "hikmah": "menunjukkan bahwa Nabi Zakariya belum pernah kecewa dalam berdoa kepada Allah",
       "role": "none"
     },
     {
       "index": 10,
       "kata_arab": "أَكُنۢ",
       "transliterasi": "akun",
-      "jenis_kata": "Fi'il (Kata Kerja)",
-      "arti": "aku belum pernah menjadi / aku belum pernah",
+      "jenis_kata": "Fi'il",
+      "arti": "aku menjadi",
       "sharaf": {
         "akar_kata": "ك و ن",
-        "makna_dasar": "Ada, menjadi, eksis",
-        "wazan_perubahan": "Kata ini asalnya adalah 'أكونُ' (akūnu), yang berarti 'saya menjadi' atau 'saya akan menjadi' (bentuk kata kerja sekarang/akan datang). Ketika didahului oleh huruf 'لَمْ' (lam) yang berarti 'belum' atau 'tidak pernah', maka bentuk kata kerja ini berubah menjadi 'majzum' (dijazmkan). Tanda jazm untuk kata kerja yang huruf akhirnya bukan huruf 'illat' (huruf vokal) adalah sukun. Jadi, 'أكونُ' menjadi 'أكونْ' (akūn). Dalam kaidah bahasa Arab, jika ada dua huruf bersukun bertemu dan huruf pertama adalah huruf 'illat' (seperti waw di sini), maka huruf 'illat' tersebut dihilangkan untuk memudahkan pengucapan. Oleh karena itu, 'أكونْ' menjadi 'أكُنْ' (akun). Perubahan ini memberikan makna penafian yang kuat di masa lalu hingga saat ini, yaitu 'aku belum pernah menjadi' atau 'aku belum pernah'."
+        "makna_dasar": "menjadi",
+        "wazan_perubahan": "raf' al-ma'lum"
       },
       "nahwu": {
-        "kedudukan": "Kata 'أَكُنۢ' adalah kata kerja (fi'il) yang berfungsi sebagai bagian dari predikat kalimat. Lebih tepatnya, ini adalah 'fi'il nāqis' (kata kerja bantu) yang membutuhkan 'isim' (subjek) dan 'khabar' (predikat pelengkap). 'Isim' dari 'أَكُنۢ' di sini adalah dhamir (kata ganti) 'أنا' (saya) yang tersembunyi, dan 'khabar'-nya adalah kata 'شَقِيًّۭا' (syaqiyyan - kecewa) yang didahului oleh huruf 'بِ' (bi). Jadi, maknanya adalah 'aku belum pernah menjadi kecewa'.",
-        "irab_dan_logika": "Harakat huruf terakhir pada 'أَكُنۢ' adalah sukun (tanda mati) pada huruf nun. Ini karena kata kerja ini didahului oleh huruf 'لَمْ' (lam), yang merupakan salah satu 'huruf jazm'. Huruf jazm ini memiliki fungsi untuk membuat kata kerja 'mudhari'' (present/future tense) menjadi 'majzum' (dijazmkan). Tanda jazm untuk kata kerja yang huruf akhirnya bukan huruf 'illat' (vokal) adalah sukun. Logikanya, 'لَمْ' ini seperti 'belum' atau 'tidak pernah' dalam bahasa Indonesia. Ketika kita ingin menyatakan sesuatu yang 'belum pernah' terjadi di masa lalu, dalam bahasa Arab kita menggunakan 'لَمْ' yang kemudian mengubah bentuk kata kerja setelahnya menjadi 'majzum' dengan tanda sukun. Huruf waw di tengah kata asalnya dihilangkan karena bertemu dua sukun (waw dan nun) untuk memudahkan pengucapan, ini adalah kaidah umum dalam bahasa Arab."
+        "kedudukan": "fi'il mudhari",
+        "irab_dan_logika": "menggunakan harakat fathah karena berupa fi'il mudhari yang mendahului fa"
       },
-      "hikmah": "Dalam ayat ini, 'أَكُنۢ' berarti 'aku belum pernah menjadi' atau 'aku belum pernah'. Penggunaannya bersama 'لَمْ' (lam) menunjukkan penafian yang sangat kuat dan tegas tentang sesuatu yang belum pernah terjadi di masa lalu hingga saat Nabi Zakariya عليه السلام mengucapkan doa ini. Hikmah luar biasa atau keunikan sastranya terletak pada ekspresi keyakinan dan harapan yang mendalam dari Nabi Zakariya kepada Allah. Meskipun ia sudah sangat tua dan lemah, ia belum pernah merasa kecewa atau putus asa dalam doanya kepada Allah. Ini adalah gambaran tawakkal (berserah diri) dan husnuzhan (berprasangka baik) yang luar biasa kepada Sang Pencipta, yang mengisyaratkan bahwa Allah selalu mengabulkan doanya, atau setidaknya tidak pernah membuatnya kecewa. Ini juga menjadi pelajaran bagi kita bahwa Allah tidak akan pernah mengecewakan hamba-Nya yang berdoa dengan tulus dan penuh harap.",
-      "role": "predicate"
+      "hikmah": "menunjukkan bahwa Nabi Zakariya belum pernah kecewa dalam berdoa kepada Allah",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "بِدُعَآئِكَ",
+      "transliterasi": "bi du'a'ika",
+      "jenis_kata": "Isim",
+      "arti": "dengan doamu",
+      "sharaf": {
+        "akar_kata": "د ع ى",
+        "makna_dasar": "doa",
+        "wazan_perubahan": "maf'ul bih"
+      },
+      "nahwu": {
+        "kedudukan": "jar dan majrur",
+        "irab_dan_logika": "menggunakan harakat kasrah karena berupa jar dan majrur"
+      },
+      "hikmah": "menunjukkan bahwa Nabi Zakariya selalu berdoa kepada Allah dan belum pernah kecewa",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "رَبِّ",
+      "transliterasi": "rabb",
+      "jenis_kata": "Isim",
+      "arti": "tuan atau pemilik",
+      "sharaf": {
+        "akar_kata": "r-b-b",
+        "makna_dasar": "mengurus atau memelihara",
+        "wazan_perubahan": "dengan tambahan huruf yaa untuk menunjukkan panggilan"
+      },
+      "nahwu": {
+        "kedudukan": "maf'ul bih sebagai objek penerima perbuatan",
+        "irab_dan_logika": "dengan harakat kasrah karena diawali dengan kata ganti yang menunjukkan pemilik"
+      },
+      "hikmah": "merujuk pada Allah sebagai pemilik atau tuan yang memiliki dan mengurus segala sesuatu",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "شَقِيًّۭا",
+      "transliterasi": "syaqiyyan",
+      "jenis_kata": "Isim",
+      "arti": "celaka atau sengsara",
+      "sharaf": {
+        "akar_kata": "sy-q-y",
+        "makna_dasar": "merasa sedih atau celaka",
+        "wazan_perubahan": "dengan tambahan nun untuk menunjukkan keadaan"
+      },
+      "nahwu": {
+        "kedudukan": "khabar atau predikat yang menjelaskan keadaan",
+        "irab_dan_logika": "dengan harakat fatkhah karena berupa khabar mufrod"
+      },
+      "hikmah": "merujuk pada keadaan seseorang yang merasa sedih atau celaka karena tidak mendapatkan apa yang diharapkan",
+      "role": "none"
     }
   ]
 }

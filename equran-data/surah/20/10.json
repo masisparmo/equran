@@ -1,0 +1,330 @@
+{
+  "surah": 20,
+  "ayah": 10,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "إِذْ",
+      "transliterasi": "idz",
+      "jenis_kata": "Huruf",
+      "arti": "ketika",
+      "sharaf": {
+        "akar_kata": "dzal",
+        "makna_dasar": "keberadaan",
+        "wazan_perubahan": "tidak ada"
+      },
+      "nahwu": {
+        "kedudukan": "awal kalimat",
+        "irab_dan_logika": "huruf yang menunjukkan waktu"
+      },
+      "hikmah": "menunjukkan waktu terjadinya suatu peristiwa",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "رَءَا",
+      "transliterasi": "raa",
+      "jenis_kata": "Fi'il",
+      "arti": "melihat",
+      "sharaf": {
+        "akar_kata": "ra hamzah alif",
+        "makna_dasar": "melihat",
+        "wazan_perubahan": "raa ya"
+      },
+      "nahwu": {
+        "kedudukan": "predikat",
+        "irab_dan_logika": "fi'il madhi yang menunjukkan perbuatan melihat"
+      },
+      "hikmah": "perbuatan melihat yang dilakukan oleh subjek",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "نَارًۭا",
+      "transliterasi": "naaran",
+      "jenis_kata": "Isim",
+      "arti": "api",
+      "sharaf": {
+        "akar_kata": "naun ra",
+        "makna_dasar": "api",
+        "wazan_perubahan": "naarun"
+      },
+      "nahwu": {
+        "kedudukan": "objek",
+        "irab_dan_logika": "maful bih yang menunjukkan objek dari fi'il raa"
+      },
+      "hikmah": "objek yang dilihat oleh subjek",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "فَقَالَ",
+      "transliterasi": "faqaala",
+      "jenis_kata": "Fi'il",
+      "arti": "berkata",
+      "sharaf": {
+        "akar_kata": "qal waw lam",
+        "makna_dasar": "mengatakan",
+        "wazan_perubahan": "faqaala"
+      },
+      "nahwu": {
+        "kedudukan": "awal kalimat",
+        "irab_dan_logika": "fi'il madhi yang menunjukkan perbuatan berbicara"
+      },
+      "hikmah": "perbuatan berbicara yang dilakukan oleh subjek",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "لِأَهْلِهِ",
+      "transliterasi": "li ahlihi",
+      "jenis_kata": "Isim",
+      "arti": "kepada keluarganya",
+      "sharaf": {
+        "akar_kata": "ahil",
+        "makna_dasar": "keluarga",
+        "wazan_perubahan": "ahlihi"
+      },
+      "nahwu": {
+        "kedudukan": "objek",
+        "irab_dan_logika": "maful li ajh yang menunjukkan objek dari fi'il qaala"
+      },
+      "hikmah": "objek yang diajak berbicara oleh subjek",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "ٱمْكُثُوٓا۟",
+      "transliterasi": "imkutsuu",
+      "jenis_kata": "Fi'il",
+      "arti": "tinggallah",
+      "sharaf": {
+        "akar_kata": "katsa",
+        "makna_dasar": "diam",
+        "wazan_perubahan": "imkutsuu"
+      },
+      "nahwu": {
+        "kedudukan": "kalimat perintah",
+        "irab_dan_logika": "fi'il amr yang menunjukkan perintah untuk diam"
+      },
+      "hikmah": "perintah untuk diam atau menetap di suatu tempat",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "إِنِّىٓ",
+      "transliterasi": "innee",
+      "jenis_kata": "Huruf",
+      "arti": "sesungguhnya aku",
+      "sharaf": {
+        "akar_kata": "n-y",
+        "makna_dasar": "penekanan",
+        "wazan_perubahan": "tidak ada"
+      },
+      "nahwu": {
+        "kedudukan": "keterangan",
+        "irab_dan_logika": "menguatkan kalimat"
+      },
+      "hikmah": "penekanan pada subjek yang berbicara",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "ءَانَسْتُ",
+      "transliterasi": "aanastu",
+      "jenis_kata": "Fi'il",
+      "arti": "aku melihat",
+      "sharaf": {
+        "akar_kata": "n-s-t",
+        "makna_dasar": "melihat",
+        "wazan_perubahan": "aanasta"
+      },
+      "nahwu": {
+        "kedudukan": "predikat",
+        "irab_dan_logika": "kalimat fi'il madhi"
+      },
+      "hikmah": "tindakan melihat yang dilakukan oleh subjek",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "نَارًۭا",
+      "transliterasi": "naaran",
+      "jenis_kata": "Isim",
+      "arti": "api",
+      "sharaf": {
+        "akar_kata": "n-w-r",
+        "makna_dasar": "cahaya",
+        "wazan_perubahan": "naar"
+      },
+      "nahwu": {
+        "kedudukan": "objek",
+        "irab_dan_logika": "menerima tanwin karena fungsi objek"
+      },
+      "hikmah": "benda yang dilihat oleh subjek",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "لَّعَلِّىٓ",
+      "transliterasi": "la'alli",
+      "jenis_kata": "Huruf",
+      "arti": "mudah-mudahan",
+      "sharaf": {
+        "akar_kata": "l-a-l",
+        "makna_dasar": "mungkin",
+        "wazan_perubahan": "tidak ada"
+      },
+      "nahwu": {
+        "kedudukan": "keterangan",
+        "irab_dan_logika": "mengungkapkan harapan"
+      },
+      "hikmah": "ungkapan harapan untuk mendapatkan sesuatu",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "ءَاتِيكُم",
+      "transliterasi": "aateekum",
+      "jenis_kata": "Fi'il",
+      "arti": "aku membawa kepada kalian",
+      "sharaf": {
+        "akar_kata": "a-t-y",
+        "makna_dasar": "membawa",
+        "wazan_perubahan": "aata"
+      },
+      "nahwu": {
+        "kedudukan": "kalimat utama",
+        "irab_dan_logika": "kalimat fi'il mudhari"
+      },
+      "hikmah": "tindakan membawa sesuatu kepada orang lain",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "مِّنْهَا",
+      "transliterasi": "minhaa",
+      "jenis_kata": "Huruf",
+      "arti": "darinya",
+      "sharaf": {
+        "akar_kata": "m-n",
+        "makna_dasar": "dari",
+        "wazan_perubahan": "tidak ada"
+      },
+      "nahwu": {
+        "kedudukan": "keterangan",
+        "irab_dan_logika": "mengungkapkan asal sesuatu"
+      },
+      "hikmah": "ungkapan asal sesuatu yang dibawa",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "بِقَبَسٍ",
+      "transliterasi": "biqabsin",
+      "jenis_kata": "Isim",
+      "arti": "dengan sedikit api",
+      "sharaf": {
+        "akar_kata": "q-b-s",
+        "makna_dasar": "mengambil sedikit",
+        "wazan_perubahan": "biqabsin"
+      },
+      "nahwu": {
+        "kedudukan": "maf'ul bih",
+        "irab_dan_logika": "harakat dhammah karena maf'ul bih"
+      },
+      "hikmah": "Musa ingin membawa sedikit api untuk keperluan keluarganya",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "أَوْ",
+      "transliterasi": "aw",
+      "jenis_kata": "Huruf",
+      "arti": "atau",
+      "sharaf": {
+        "akar_kata": "aw",
+        "makna_dasar": "pilihan",
+        "wazan_perubahan": "aw"
+      },
+      "nahwu": {
+        "kedudukan": "huruf pilihan",
+        "irab_dan_logika": "menghubungkan dua pilihan"
+      },
+      "hikmah": "Musa memberikan pilihan antara membawa api atau mendapatkan petunjuk",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "أَجِدُ",
+      "transliterasi": "ajidu",
+      "jenis_kata": "Fi'il",
+      "arti": "aku mendapatkan",
+      "sharaf": {
+        "akar_kata": "j-d",
+        "makna_dasar": "mendapatkan",
+        "wazan_perubahan": "ajidu"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il mudhari",
+        "irab_dan_logika": "subyeknya adalah Musa"
+      },
+      "hikmah": "Musa berharap mendapatkan petunjuk di tempat api",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "عَلَى",
+      "transliterasi": "alaa",
+      "jenis_kata": "Huruf",
+      "arti": "di atas",
+      "sharaf": {
+        "akar_kata": "alaa",
+        "makna_dasar": "di atas",
+        "wazan_perubahan": "alaa"
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar",
+        "irab_dan_logika": "menghubungkan dengan majrur"
+      },
+      "hikmah": "Musa berharap mendapatkan petunjuk di tempat api",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "ٱلنَّارِ",
+      "transliterasi": "annari",
+      "jenis_kata": "Isim",
+      "arti": "api",
+      "sharaf": {
+        "akar_kata": "n-w-r",
+        "makna_dasar": "cahaya",
+        "wazan_perubahan": "annari"
+      },
+      "nahwu": {
+        "kedudukan": "maf'ul bih",
+        "irab_dan_logika": "harakat kasrah karena maf'ul bih"
+      },
+      "hikmah": "Api yang dilihat Mosa",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "هُدًۭى",
+      "transliterasi": "huda",
+      "jenis_kata": "Isim",
+      "arti": "petunjuk",
+      "sharaf": {
+        "akar_kata": "h-d-y",
+        "makna_dasar": "petunjuk",
+        "wazan_perubahan": "huda"
+      },
+      "nahwu": {
+        "kedudukan": "maf'ul bih",
+        "irab_dan_logika": "harakat dhammah karena maf'ul bih"
+      },
+      "hikmah": "Petunjuk yang diharapkan Mosa",
+      "role": "none"
+    }
+  ]
+}

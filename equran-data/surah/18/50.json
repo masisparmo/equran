@@ -1,0 +1,474 @@
+{
+  "surah": 18,
+  "ayah": 50,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "وَإِذْ",
+      "transliterasi": "wa-idh",
+      "jenis_kata": "Huruf",
+      "arti": "dan ketika",
+      "sharaf": {
+        "akar_kata": "idh",
+        "makna_dasar": "waktu atau kejadian",
+        "wazan_perubahan": "tidak ada perubahan"
+      },
+      "nahwu": {
+        "kedudukan": "awal kalimat",
+        "irab_dan_logika": "huruf penghubung untuk memulai kalimat"
+      },
+      "hikmah": "menunjukkan awal dari suatu kejadian atau peristiwa",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "قُلْنَا",
+      "transliterasi": "qulna",
+      "jenis_kata": "Fi'il",
+      "arti": "kami berkata",
+      "sharaf": {
+        "akar_kata": "qaw-l",
+        "makna_dasar": "berkata atau mengatakan",
+        "wazan_perubahan": "qulna adalah fi'il madhi jamak untuk kata qala"
+      },
+      "nahwu": {
+        "kedudukan": "predikat",
+        "irab_dan_logika": "subyeknya adalah Allah yang tidak disebutkan secara eksplisit"
+      },
+      "hikmah": "menunjukkan perintah atau firman Allah",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "لِلْمَلَٰٓئِكَةِ",
+      "transliterasi": "lil-malaikati",
+      "jenis_kata": "Isim",
+      "arti": "kepada malaikat",
+      "sharaf": {
+        "akar_kata": "m-l-k",
+        "makna_dasar": "malaikat atau utusan",
+        "wazan_perubahan": "bentuk jamak dari kata malak"
+      },
+      "nahwu": {
+        "kedudukan": "objek",
+        "irab_dan_logika": "menerima perintah dari Allah"
+      },
+      "hikmah": "menunjukkan bahwa perintah tersebut ditujukan kepada malaikat",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "ٱسْجُدُوا۟",
+      "transliterasi": "usjudu",
+      "jenis_kata": "Fi'il",
+      "arti": "sujudlah",
+      "sharaf": {
+        "akar_kata": "s-j-d",
+        "makna_dasar": "sujud atau tunduk",
+        "wazan_perubahan": "bentuk perintah jamak dari kata sajada"
+      },
+      "nahwu": {
+        "kedudukan": "objek perintah",
+        "irab_dan_logika": "perintah untuk sujud kepada Adam"
+      },
+      "hikmah": "menunjukkan perintah untuk melakukan sujud sebagai bentuk penghormatan",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "لِءَادَمَ",
+      "transliterasi": "li-adama",
+      "jenis_kata": "Isim",
+      "arti": "kepada Adam",
+      "sharaf": {
+        "akar_kata": "a-d-m",
+        "makna_dasar": "manusia atau Adam",
+        "wazan_perubahan": "bentuk nama diri"
+      },
+      "nahwu": {
+        "kedudukan": "objek dari perintah sujud",
+        "irab_dan_logika": "Adam sebagai objek yang harus dihormati dengan sujud"
+      },
+      "hikmah": "menunjukkan bahwa sujud tersebut ditujukan kepada Adam sebagai bentuk penghormatan",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "فَسَجَدُوٓا۟",
+      "transliterasi": "fasajadu",
+      "jenis_kata": "Fi'il",
+      "arti": "maka mereka sujud",
+      "sharaf": {
+        "akar_kata": "s-j-d",
+        "makna_dasar": "sujud atau tunduk",
+        "wazan_perubahan": "bentuk fi'il madhi jamak dari kata sajada"
+      },
+      "nahwu": {
+        "kedudukan": "kalimat jawab",
+        "irab_dan_logika": "menyatakan bahwa malaikat telah melakukan perintah sujud"
+      },
+      "hikmah": "menunjukkan bahwa malaikat telah mematuhi perintah Allah untuk sujud kepada Adam",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "إِلَّآ",
+      "transliterasi": "illaa",
+      "jenis_kata": "Huruf",
+      "arti": "kecuali",
+      "sharaf": {
+        "akar_kata": "l-a",
+        "makna_dasar": "pengecualian",
+        "wazan_perubahan": "tidak ada"
+      },
+      "nahwu": {
+        "kedudukan": "penghubung pengecualian",
+        "irab_dan_logika": "menghubungkan antara kalimat sebelum dan sesudahnya"
+      },
+      "hikmah": "menunjukkan pengecualian terhadap sesuatu",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "إِبْلِيسَ",
+      "transliterasi": "iblis",
+      "jenis_kata": "Isim",
+      "arti": "iblis",
+      "sharaf": {
+        "akar_kata": "b-l-s",
+        "makna_dasar": "kegagalan atau kesalahan",
+        "wazan_perubahan": "dari kata bilsa yang berarti gagal"
+      },
+      "nahwu": {
+        "kedudukan": "objek pengecualian",
+        "irab_dan_logika": "menerima harakat kasrah karena diawali dengan huruf illaa"
+      },
+      "hikmah": "merujuk pada makhluk yang durhaka dan gagal dalam mengikuti perintah Allah",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "كَانَ",
+      "transliterasi": "kaana",
+      "jenis_kata": "Fi'il",
+      "arti": "adalah atau menjadi",
+      "sharaf": {
+        "akar_kata": "k-w-n",
+        "makna_dasar": "keberadaan atau kesamaan",
+        "wazan_perubahan": "fi'il madhi"
+      },
+      "nahwu": {
+        "kedudukan": "predikat kalimat",
+        "irab_dan_logika": "menghubungkan antara subjek dan objek kalimat"
+      },
+      "hikmah": "menunjukkan keberadaan atau sifat sesuatu",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "مِنَ",
+      "transliterasi": "mina",
+      "jenis_kata": "Huruf",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "m-n",
+        "makna_dasar": "asal atau sumber",
+        "wazan_perubahan": "tidak ada"
+      },
+      "nahwu": {
+        "kedudukan": "penghubung keanggotaan",
+        "irab_dan_logika": "menghubungkan antara kata yang mendahuluinya dengan kata yang mengikutinya"
+      },
+      "hikmah": "menunjukkan asal atau sumber sesuatu",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "ٱلْجِنِّ",
+      "transliterasi": "al-jin",
+      "jenis_kata": "Isim",
+      "arti": "jin",
+      "sharaf": {
+        "akar_kata": "j-n-n",
+        "makna_dasar": "tersembunyi atau tidak tampak",
+        "wazan_perubahan": "dari kata janna yang berarti menutupi"
+      },
+      "nahwu": {
+        "kedudukan": "objek keanggotaan",
+        "irab_dan_logika": "menerima harakat kasrah karena diawali dengan huruf min"
+      },
+      "hikmah": "merujuk pada makhluk gaib yang tercipta dari api",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "فَفَسَقَ",
+      "transliterasi": "fafasaqa",
+      "jenis_kata": "Fi'il",
+      "arti": "maka ia mendurhakai",
+      "sharaf": {
+        "akar_kata": "f-s-q",
+        "makna_dasar": "mendurhakai atau menyimpang",
+        "wazan_perubahan": "fi'il madi yang diawali dengan fa"
+      },
+      "nahwu": {
+        "kedudukan": "kalimat yang menyatakan sebab",
+        "irab_dan_logika": "menghubungkan antara kalimat sebelum dan sesudahnya"
+      },
+      "hikmah": "menunjukkan perbuatan mendurhakai atau menyimpang dari perintah Allah",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "عَنْ",
+      "transliterasi": "an",
+      "jenis_kata": "Huruf",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "ع ن",
+        "makna_dasar": "tempat asal",
+        "wazan_perubahan": "tanpa perubahan"
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar",
+        "irab_dan_logika": "mengindikasikan asal atau sumber"
+      },
+      "hikmah": "menunjukkan asal atau sumber sesuatu",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "أَمْرِ",
+      "transliterasi": "amri",
+      "jenis_kata": "Isim",
+      "arti": "perintah",
+      "sharaf": {
+        "akar_kata": "أ م ر",
+        "makna_dasar": "perintah atau keputusan",
+        "wazan_perubahan": "dengan harakat kasrah"
+      },
+      "nahwu": {
+        "kedudukan": "maf-ul bih",
+        "irab_dan_logika": "objek dari huruf jar"
+      },
+      "hikmah": "perintah atau keputusan yang diberikan",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "رَبِّهِۦٓ",
+      "transliterasi": "rabbih",
+      "jenis_kata": "Isim",
+      "arti": "tuhannya",
+      "sharaf": {
+        "akar_kata": "ر ب ب",
+        "makna_dasar": "tuan atau pemilik",
+        "wazan_perubahan": "dengan harakat kasrah dan tambahan huruf"
+      },
+      "nahwu": {
+        "kedudukan": "maf-ul bih",
+        "irab_dan_logika": "objek dari huruf jar"
+      },
+      "hikmah": "tuan atau pemilik yang memiliki otoritas",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "أَفَتَتَّخِذُونَهُۥ",
+      "transliterasi": "afatattakhidhunahu",
+      "jenis_kata": "Fi'il",
+      "arti": "apakah kamu mengambilnya",
+      "sharaf": {
+        "akar_kata": "خ ذ",
+        "makna_dasar": "mengambil atau memilih",
+        "wazan_perubahan": "dengan tambahan huruf dan harakat"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il mudhari",
+        "irab_dan_logika": "bertanya tentang tindakan atau keputusan"
+      },
+      "hikmah": "pertanyaan tentang mengambil atau memilih sesuatu",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "وَذُرِّيَّتَهُۥٓ",
+      "transliterasi": "wadhurriyyatahu",
+      "jenis_kata": "Isim",
+      "arti": "dan keturunannya",
+      "sharaf": {
+        "akar_kata": "ذ ر ي",
+        "makna_dasar": "keturunan atau anak cucu",
+        "wazan_perubahan": "dengan tambahan huruf dan harakat"
+      },
+      "nahwu": {
+        "kedudukan": "maf-ul bih",
+        "irab_dan_logika": "objek dari fi'il mudhari"
+      },
+      "hikmah": "keturunan atau anak cucu yang diwariskan",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "أَوْلِيَآءَ",
+      "transliterasi": "auliya",
+      "jenis_kata": "Isim",
+      "arti": "sebagai pemimpin",
+      "sharaf": {
+        "akar_kata": "و ل ي",
+        "makna_dasar": "pemimpin atau pelindung",
+        "wazan_perubahan": "dengan harakat fathah"
+      },
+      "nahwu": {
+        "kedudukan": "maf-ul bih",
+        "irab_dan_logika": "objek dari fi'il mudhari"
+      },
+      "hikmah": "pemimpin atau pelindung yang dipilih",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "مِن",
+      "transliterasi": "min",
+      "jenis_kata": "Huruf",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "m-n",
+        "makna_dasar": "keluar",
+        "wazan_perubahan": "tidak ada"
+      },
+      "nahwu": {
+        "kedudukan": "preposisi",
+        "irab_dan_logika": "menghubungkan dua kata benda"
+      },
+      "hikmah": "menunjukkan asal atau sumber sesuatu",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "دُونِى",
+      "transliterasi": "duuni",
+      "jenis_kata": "Isim",
+      "arti": "selain aku",
+      "sharaf": {
+        "akar_kata": "d-w-n",
+        "makna_dasar": "di bawah",
+        "wazan_perubahan": "dengan prefiks dan sufiks"
+      },
+      "nahwu": {
+        "kedudukan": "objek",
+        "irab_dan_logika": "mengikuti preposisi"
+      },
+      "hikmah": "menunjukkan sesuatu yang lebih rendah atau tidak setara",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "وَهُم",
+      "transliterasi": "wahum",
+      "jenis_kata": "Isim",
+      "arti": "dan mereka",
+      "sharaf": {
+        "akar_kata": "h-m-w",
+        "makna_dasar": "mereka",
+        "wazan_perubahan": "dengan prefiks wa-"
+      },
+      "nahwu": {
+        "kedudukan": "subyek",
+        "irab_dan_logika": "menghubungkan dua kalimat"
+      },
+      "hikmah": "menunjukkan kelompok orang atau sesuatu yang telah disebutkan sebelumnya",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "لَكُم",
+      "transliterasi": "lakum",
+      "jenis_kata": "Isim",
+      "arti": "bagi kamu",
+      "sharaf": {
+        "akar_kata": "l-k-m",
+        "makna_dasar": "bagi",
+        "wazan_perubahan": "dengan sufiks -kum"
+      },
+      "nahwu": {
+        "kedudukan": "objek",
+        "irab_dan_logika": "mengikuti kata kerja atau preposisi"
+      },
+      "hikmah": "menunjukkan sesuatu yang dimiliki atau diberikan kepada seseorang",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "عَدُوٌّۢ",
+      "transliterasi": "aduwun",
+      "jenis_kata": "Isim",
+      "arti": "musuh",
+      "sharaf": {
+        "akar_kata": "a-d-w",
+        "makna_dasar": "musuh",
+        "wazan_perubahan": "dengan sufiks -un"
+      },
+      "nahwu": {
+        "kedudukan": "predikat",
+        "irab_dan_logika": "menggambarkan sifat atau keadaan"
+      },
+      "hikmah": "menunjukkan sesuatu yang berlawanan atau bermusuhan",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "بِئْسَ",
+      "transliterasi": "bi'sa",
+      "jenis_kata": "Isim",
+      "arti": "buruk",
+      "sharaf": {
+        "akar_kata": "b-a-s",
+        "makna_dasar": "buruk",
+        "wazan_perubahan": "dengan prefiks bi-"
+      },
+      "nahwu": {
+        "kedudukan": "predikat",
+        "irab_dan_logika": "menggambarkan sifat atau keadaan"
+      },
+      "hikmah": "menunjukkan sesuatu yang tidak baik atau tidak pantas",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "لِلظَّٰلِمِينَ",
+      "transliterasi": "lilzhalimeena",
+      "jenis_kata": "Isim",
+      "arti": "orang-orang yang zalim",
+      "sharaf": {
+        "akar_kata": "zhalama",
+        "makna_dasar": "menzalimi atau berlaku tidak adil",
+        "wazan_perubahan": "zhalimeena dengan tambahan im yang menunjukkan jamak"
+      },
+      "nahwu": {
+        "kedudukan": "maf-ul bih yang mengikuti kata badiil",
+        "irab_dan_logika": "kata lilzhalimeena memiliki harakat nasab karena diikuti oleh kata badiil yang menunjukkan penggantian"
+      },
+      "hikmah": "orang-orang yang zalim adalah mereka yang melakukan tindakan tidak adil dan tidak sesuai dengan kebenaran",
+      "role": "none"
+    },
+    {
+      "index": 25,
+      "kata_arab": "بَدَلًۭا",
+      "transliterasi": "badiilan",
+      "jenis_kata": "Isim",
+      "arti": "pengganti",
+      "sharaf": {
+        "akar_kata": "baddala",
+        "makna_dasar": "menggantikan atau menukar",
+        "wazan_perubahan": "badiil dengan tambahan an yang menunjukkan bentuk nakirah"
+      },
+      "nahwu": {
+        "kedudukan": "maf-ul bih yang menjadi objek dari kata mengambil",
+        "irab_dan_logika": "kata badiilan memiliki harakat nasab karena diikuti oleh kata lilzhalimeena yang menunjukkan objek penggantian"
+      },
+      "hikmah": "pengganti dalam konteks ini merujuk pada pilihan yang salah untuk diikuti sebagai pemimpin, yaitu iblis dan turunannya",
+      "role": "none"
+    }
+  ]
+}

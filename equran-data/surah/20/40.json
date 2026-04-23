@@ -1,0 +1,618 @@
+{
+  "surah": 20,
+  "ayah": 40,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "إِذْ",
+      "transliterasi": "idz",
+      "jenis_kata": "Huruf",
+      "arti": "ketika",
+      "sharaf": {
+        "akar_kata": "idz",
+        "makna_dasar": "waktu atau keadaan",
+        "wazan_perubahan": "tidak berubah"
+      },
+      "nahwu": {
+        "kedudukan": "awal kalimat",
+        "irab_dan_logika": "huruf yang menunjukkan waktu"
+      },
+      "hikmah": "menunjukkan waktu atau keadaan tertentu",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "تَمْشِىٓ",
+      "transliterasi": "tamshee",
+      "jenis_kata": "Fi'il",
+      "arti": "berjalan",
+      "sharaf": {
+        "akar_kata": "masya",
+        "makna_dasar": "berjalan atau bergerak",
+        "wazan_perubahan": "tamashee"
+      },
+      "nahwu": {
+        "kedudukan": "predikat",
+        "irab_dan_logika": "fi'il madhi yang menunjukkan tindakan"
+      },
+      "hikmah": "tindakan berjalan yang dilakukan oleh seseorang",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "أُخْتُكَ",
+      "transliterasi": "ukhtuka",
+      "jenis_kata": "Isim",
+      "arti": "saudari mu",
+      "sharaf": {
+        "akar_kata": "akh",
+        "makna_dasar": "saudara",
+        "wazan_perubahan": "ukht"
+      },
+      "nahwu": {
+        "kedudukan": "subyek",
+        "irab_dan_logika": "isim yang menunjukkan hubungan kekerabatan"
+      },
+      "hikmah": "saudari yang dimiliki oleh seseorang",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "فَتَقُولُ",
+      "transliterasi": "fataqoolu",
+      "jenis_kata": "Fi'il",
+      "arti": "lalu dia berkata",
+      "sharaf": {
+        "akar_kata": "qawl",
+        "makna_dasar": "berkata atau berbicara",
+        "wazan_perubahan": "fataqoolu"
+      },
+      "nahwu": {
+        "kedudukan": "predikat",
+        "irab_dan_logika": "fi'il mudhari yang menunjukkan tindakan"
+      },
+      "hikmah": "tindakan berbicara yang dilakukan oleh seseorang",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "هَلْ",
+      "transliterasi": "hal",
+      "jenis_kata": "Huruf",
+      "arti": "apakah",
+      "sharaf": {
+        "akar_kata": "hal",
+        "makna_dasar": "pertanyaan atau keraguan",
+        "wazan_perubahan": "tidak berubah"
+      },
+      "nahwu": {
+        "kedudukan": "awal kalimat",
+        "irab_dan_logika": "huruf yang menunjukkan pertanyaan"
+      },
+      "hikmah": "menunjukkan pertanyaan atau keraguan",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "أَدُلُّكُمْ",
+      "transliterasi": "adullukum",
+      "jenis_kata": "Fi'il",
+      "arti": "aku menunjukkan kepada kalian",
+      "sharaf": {
+        "akar_kata": "dal",
+        "makna_dasar": "menunjukkan atau memandu",
+        "wazan_perubahan": "adullu"
+      },
+      "nahwu": {
+        "kedudukan": "predikat",
+        "irab_dan_logika": "fi'il mudhari yang menunjukkan tindakan"
+      },
+      "hikmah": "tindakan menunjukkan atau memandu yang dilakukan oleh seseorang",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "عَلَىٰ",
+      "transliterasi": "alaa",
+      "jenis_kata": "Huruf",
+      "arti": "di atas atau atas",
+      "sharaf": {
+        "akar_kata": "aly",
+        "makna_dasar": "ketinggian",
+        "wazan_perubahan": "tidak ada perubahan"
+      },
+      "nahwu": {
+        "kedudukan": "preposisi",
+        "irab_dan_logika": "huruf jar yang menunjukkan tempat atau arah"
+      },
+      "hikmah": "menunjukkan tempat atau arah",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "مَن",
+      "transliterasi": "man",
+      "jenis_kata": "Isim",
+      "arti": "siapa",
+      "sharaf": {
+        "akar_kata": "mny",
+        "makna_dasar": "penanyaan",
+        "wazan_perubahan": "tidak ada perubahan"
+      },
+      "nahwu": {
+        "kedudukan": "kata tanya",
+        "irab_dan_logika": "kata tanya yang digunakan untuk menanyakan identitas seseorang"
+      },
+      "hikmah": "kata tanya yang digunakan untuk menanyakan identitas seseorang",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "يَكْفُلُهُۥ",
+      "transliterasi": "yakfuluhu",
+      "jenis_kata": "Fi'il",
+      "arti": "memelihara atau menjaga",
+      "sharaf": {
+        "akar_kata": "kfl",
+        "makna_dasar": "pemeliharaan",
+        "wazan_perubahan": "yakfulu"
+      },
+      "nahwu": {
+        "kedudukan": "predikat",
+        "irab_dan_logika": "kalimat fi'il yang menunjukkan tindakan memelihara"
+      },
+      "hikmah": "tindakan memelihara atau menjaga seseorang",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "فَرَجَعْنَٰكَ",
+      "transliterasi": "faraja'naka",
+      "jenis_kata": "Fi'il",
+      "arti": "kami mengembalikan kamu",
+      "sharaf": {
+        "akar_kata": "rj'",
+        "makna_dasar": "pengembalian",
+        "wazan_perubahan": "faraja'a"
+      },
+      "nahwu": {
+        "kedudukan": "predikat",
+        "irab_dan_logika": "kalimat fi'il yang menunjukkan tindakan mengembalikan"
+      },
+      "hikmah": "tindakan mengembalikan seseorang ke tempat asal",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "إِلَىٰٓ",
+      "transliterasi": "ila",
+      "jenis_kata": "Huruf",
+      "arti": "ke atau kepada",
+      "sharaf": {
+        "akar_kata": "aly",
+        "makna_dasar": "arah atau tujuan",
+        "wazan_perubahan": "tidak ada perubahan"
+      },
+      "nahwu": {
+        "kedudukan": "preposisi",
+        "irab_dan_logika": "huruf jar yang menunjukkan arah atau tujuan"
+      },
+      "hikmah": "menunjukkan arah atau tujuan",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "أُمِّكَ",
+      "transliterasi": "ummika",
+      "jenis_kata": "Isim",
+      "arti": "ibumu",
+      "sharaf": {
+        "akar_kata": "umm",
+        "makna_dasar": "keibuan",
+        "wazan_perubahan": "tidak ada perubahan"
+      },
+      "nahwu": {
+        "kedudukan": "objek",
+        "irab_dan_logika": "kata benda yang menunjukkan hubungan kekerabatan"
+      },
+      "hikmah": "menunjukkan hubungan kekerabatan sebagai ibu",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "كَىْ",
+      "transliterasi": "kay",
+      "jenis_kata": "Huruf",
+      "arti": "agar, supaya",
+      "sharaf": {
+        "akar_kata": "(Tidak berlaku untuk huruf)",
+        "makna_dasar": "(Tidak berlaku untuk huruf)",
+        "wazan_perubahan": "(Tidak berlaku untuk huruf)"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Nashab (penghubung)",
+        "irab_dan_logika": "Huruf yang berfungsi menashabkan (membuat mansub) fi'il mudhari' setelahnya, menunjukkan tujuan atau sebab dari suatu tindakan."
+      },
+      "hikmah": "Menunjukkan tujuan ilahi di balik pengembalian Musa kepada ibunya, yaitu agar ibunya bahagia dan tidak bersedih. Ini adalah bagian dari rencana Allah untuk menenangkan hati ibu Musa.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "تَقَرَّ",
+      "transliterasi": "taqarra",
+      "jenis_kata": "Fi'il",
+      "arti": "menjadi senang, menenangkan (hati/mata)",
+      "sharaf": {
+        "akar_kata": "ق ر ر (Qaf-Ra-Ra)",
+        "makna_dasar": "menetap, tenang, dingin (mata)",
+        "wazan_perubahan": "Fi'il Mudhari' (bentuk I - فَعَلَ - يَقَرُّ)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Mansub",
+        "irab_dan_logika": "Mansub (dinashabkan) oleh huruf 'كَىْ' (kay) yang mendahuluinya, dengan tanda nashab berupa fathah di akhir. Fi'il ini adalah bagian dari frasa idiomatis 'تَقَرَّ عَيْنُهَا'."
+      },
+      "hikmah": "Menunjukkan hasil atau tujuan dari tindakan sebelumnya, yaitu agar hati ibu Musa menjadi tenang dan bahagia setelah Musa kembali kepadanya. Ini adalah bentuk rahmat dan kasih sayang Allah.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "عَيْنُهَا",
+      "transliterasi": "aynuhā",
+      "jenis_kata": "Isim",
+      "arti": "matanya (mata dia perempuan)",
+      "sharaf": {
+        "akar_kata": "ع ي ن ('Ain-Ya-Nun)",
+        "makna_dasar": "mata, sumber air, intip",
+        "wazan_perubahan": "Isim Mufrad (kata benda tunggal) + Dhamir Muttasil (kata ganti sambung)"
+      },
+      "nahwu": {
+        "kedudukan": "Fa'il (subjek) dari fi'il 'تَقَرَّ'",
+        "irab_dan_logika": "Marfu' (dirafa'kan) karena menjadi fa'il (subjek) dari fi'il 'تَقَرَّ', dengan tanda rafa' berupa dhammah pada huruf nun. 'هَا' (ha) adalah dhamir muttasil (kata ganti sambung) yang berfungsi sebagai Mudhaf Ilaih (kepemilikan), merujuk kepada ibu Musa."
+      },
+      "hikmah": "Secara harfiah berarti 'matanya', namun dalam konteks ini, frasa 'تَقَرَّ عَيْنُهَا' adalah idiom yang berarti 'hatinya menjadi tenang/bahagia' atau 'ia merasa senang'. Ini menekankan kebahagiaan dan ketenangan yang dirasakan ibu Musa setelah anaknya kembali.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "وَلَا",
+      "transliterasi": "wa lā",
+      "jenis_kata": "Huruf",
+      "arti": "dan tidak",
+      "sharaf": {
+        "akar_kata": "(Tidak berlaku untuk huruf)",
+        "makna_dasar": "(Tidak berlaku untuk huruf)",
+        "wazan_perubahan": "(Tidak berlaku untuk huruf)"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf 'Athaf (penghubung) dan Huruf Nafyi (peniadaan)",
+        "irab_dan_logika": "وَ' (waw) adalah huruf 'athaf yang menghubungkan dengan tujuan sebelumnya. 'لَا' (la) di sini adalah 'لَا النَّافِيَة' (la peniadaan) yang menashabkan fi'il mudhari' setelahnya karena di'athafkan kepada fi'il yang mansub sebelumnya ('تَقَرَّ')."
+      },
+      "hikmah": "Menegaskan tujuan kedua setelah kebahagiaan, yaitu peniadaan kesedihan. Ini menunjukkan kesempurnaan anugerah Allah kepada ibu Musa, tidak hanya memberinya kebahagiaan tetapi juga menghilangkan segala duka cita.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "تَحْزَنَ",
+      "transliterasi": "taḥzana",
+      "jenis_kata": "Fi'il",
+      "arti": "ia bersedih",
+      "sharaf": {
+        "akar_kata": "ح ز ن (Ha-Za-Nun)",
+        "makna_dasar": "sedih, duka cita",
+        "wazan_perubahan": "Fi'il Mudhari' (bentuk I - فَعَلَ - يَفْعَلُ)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Mansub",
+        "irab_dan_logika": "Mansub (dinashabkan) karena di'athafkan (dihubungkan) kepada fi'il mudhari' 'تَقَرَّ' yang juga mansub oleh 'كَىْ'. Tanda nashabnya adalah fathah di akhir. Fa'ilnya adalah dhamir mustatir (tersembunyi) yang kembali kepada ibu Musa."
+      },
+      "hikmah": "Melengkapi tujuan ilahi, yaitu agar ibu Musa tidak hanya merasa senang, tetapi juga terhindar dari segala bentuk kesedihan dan duka cita. Ini menunjukkan rahmat dan kasih sayang Allah yang sempurna dalam menjaga perasaan hamba-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "وَقَتَلْتَ",
+      "transliterasi": "wa qatalta",
+      "jenis_kata": "Fi'il",
+      "arti": "dan kamu telah membunuh",
+      "sharaf": {
+        "akar_kata": "ق ت ل (Qaf-Ta-Lam)",
+        "makna_dasar": "membunuh, memerangi",
+        "wazan_perubahan": "Fi'il Madhi (bentuk I - فَعَلَ)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Madhi",
+        "irab_dan_logika": "Fi'il Madhi mabni (tetap) di atas sukun karena bersambung dengan ta' fa'il (kata ganti subjek) 'تَ' (ta). 'تَ' adalah dhamir muttasil (kata ganti sambung) yang berfungsi sebagai fa'il (subjek) dan mabni di atas fathah, merujuk kepada Nabi Musa. 'وَ' (waw) adalah huruf 'athaf yang memulai kalimat baru atau menghubungkan dengan peristiwa sebelumnya."
+      },
+      "hikmah": "Mengawali narasi tentang peristiwa penting lain dalam kehidupan Musa, yaitu pembunuhan seorang Mesir secara tidak sengaja. Ini adalah bagian dari ujian dan takdir Allah bagi Musa sebelum kenabiannya, menunjukkan bahwa Allah selalu membimbing dan menyelamatkan hamba-Nya dari kesulitan.",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "نَفْسًۭا",
+      "transliterasi": "nafsan",
+      "jenis_kata": "Isim",
+      "arti": "seorang manusia",
+      "sharaf": {
+        "akar_kata": "n-f-s",
+        "makna_dasar": "jiwa, diri",
+        "wazan_perubahan": "nafsan, bentuk mufrod dengan tanwin nasab"
+      },
+      "nahwu": {
+        "kedudukan": "mafud bih, objek langsung",
+        "irab_dan_logika": "mengikuti fiil qad qatal, karena objek langsung fiil qad qatal harus dalam bentuk mansub"
+      },
+      "hikmah": "menunjukkan bahwa Musa pernah membunuh seorang manusia, yang kemudian menjadi bagian dari cobaan yang dihadapinya",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "فَنَجَّيْنَٰكَ",
+      "transliterasi": "fanajjaynaka",
+      "jenis_kata": "Fi'il",
+      "arti": "lalu Kami selamatkan kamu",
+      "sharaf": {
+        "akar_kata": "n-j-w",
+        "makna_dasar": "menyelamatkan, membebaskan",
+        "wazan_perubahan": "fanjaya, bentuk fiil madhi dengan prefiks fa dan sufiks na"
+      },
+      "nahwu": {
+        "kedudukan": "fiil madhi, predikat",
+        "irab_dan_logika": "mengikuti kata ganti pronoun, karena fiil madhi harus memiliki subjek yang jelas"
+      },
+      "hikmah": "menunjukkan bahwa Allah SWT telah menyelamatkan Musa dari kesusahan dan cobaan yang dihadapinya",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "مِنَ",
+      "transliterasi": "mina",
+      "jenis_kata": "Huruf",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "m-n",
+        "makna_dasar": "keluar, terpisah",
+        "wazan_perubahan": "mina, bentuk huruf jar dengan tanwin"
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar, prefiks",
+        "irab_dan_logika": "mengikuti kata benda, karena huruf jar harus memiliki objek yang jelas"
+      },
+      "hikmah": "menunjukkan bahwa Musa diselamatkan dari kesusahan dan cobaan yang dihadapinya",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "ٱلْغَمِّ",
+      "transliterasi": "alghammi",
+      "jenis_kata": "Isim",
+      "arti": "kesusahan",
+      "sharaf": {
+        "akar_kata": "gh-m-m",
+        "makna_dasar": "kesusahan, kesusahan hati",
+        "wazan_perubahan": "alghammi, bentuk isim dengan prefiks al dan harakat kasrah"
+      },
+      "nahwu": {
+        "kedudukan": "mafud ilaih, objek huruf jar",
+        "irab_dan_logika": "mengikuti huruf jar, karena objek huruf jar harus dalam bentuk mansub"
+      },
+      "hikmah": "menunjukkan bahwa Musa diselamatkan dari kesusahan dan cobaan yang dihadapinya",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "وَفَتَنَّٰكَ",
+      "transliterasi": "waftannaka",
+      "jenis_kata": "Fi'il",
+      "arti": "dan Kami telah mencobamu",
+      "sharaf": {
+        "akar_kata": "f-t-n",
+        "makna_dasar": "mencoba, menguji",
+        "wazan_perubahan": "waftana, bentuk fiil madhi dengan prefiks wa dan sufiks na"
+      },
+      "nahwu": {
+        "kedudukan": "fiil madhi, predikat",
+        "irab_dan_logika": "mengikuti kata ganti pronoun, karena fiil madhi harus memiliki subjek yang jelas"
+      },
+      "hikmah": "menunjukkan bahwa Allah SWT telah mencoba Musa dengan beberapa cobaan untuk menguji iman dan kesabaran Musa",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "فُتُونًۭا",
+      "transliterasi": "futunan",
+      "jenis_kata": "Isim",
+      "arti": "beberapa cobaan",
+      "sharaf": {
+        "akar_kata": "f-t-n",
+        "makna_dasar": "cobaan, ujian",
+        "wazan_perubahan": "futunan, bentuk isim jamak dengan tanwin"
+      },
+      "nahwu": {
+        "kedudukan": "mafud bih, objek langsung",
+        "irab_dan_logika": "mengikuti fiil qad qatal, karena objek langsung fiil qad qatal harus dalam bentuk mansub"
+      },
+      "hikmah": "menunjukkan bahwa Musa telah diuji dengan beberapa cobaan untuk menguji iman dan kesabaran Musa",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "فَلَبِثْتَ",
+      "transliterasi": "falabiththa",
+      "jenis_kata": "Fi'il",
+      "arti": "kamu tinggal",
+      "sharaf": {
+        "akar_kata": "l-b-th",
+        "makna_dasar": "tinggal atau menetap",
+        "wazan_perubahan": "fa'ala"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il mudhari",
+        "irab_dan_logika": "karena fi'il mudhari yang memiliki subjek mufrad yang menunjuk pada orang kedua"
+      },
+      "hikmah": "kamu Musa tinggal di suatu tempat",
+      "role": "none"
+    },
+    {
+      "index": 25,
+      "kata_arab": "سِنِينَ",
+      "transliterasi": "siniina",
+      "jenis_kata": "Isim",
+      "arti": "tahun-tahun",
+      "sharaf": {
+        "akar_kata": "s-n-w",
+        "makna_dasar": "tahun",
+        "wazan_perubahan": "jama' muannats"
+      },
+      "nahwu": {
+        "kedudukan": "maf'ul bih",
+        "irab_dan_logika": "karena maf'ul bih yang memiliki harakat nasab"
+      },
+      "hikmah": "waktu yang lama",
+      "role": "none"
+    },
+    {
+      "index": 26,
+      "kata_arab": "فِىٓ",
+      "transliterasi": "fi",
+      "jenis_kata": "Huruf",
+      "arti": "di",
+      "sharaf": {
+        "akar_kata": "fi",
+        "makna_dasar": "di atau di dalam",
+        "wazan_perubahan": "huruf jar"
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar",
+        "irab_dan_logika": "karena huruf jar yang menunjuk pada tempat"
+      },
+      "hikmah": "di dalam atau di",
+      "role": "none"
+    },
+    {
+      "index": 27,
+      "kata_arab": "أَهْلِ",
+      "transliterasi": "ahli",
+      "jenis_kata": "Isim",
+      "arti": "keluarga atau penduduk",
+      "sharaf": {
+        "akar_kata": "a-h-l",
+        "makna_dasar": "keluarga atau penduduk",
+        "wazan_perubahan": "maf'ul bih"
+      },
+      "nahwu": {
+        "kedudukan": "maf'ul bih",
+        "irab_dan_logika": "karena maf'ul bih yang memiliki harakat jar"
+      },
+      "hikmah": "orang-orang atau penduduk",
+      "role": "none"
+    },
+    {
+      "index": 28,
+      "kata_arab": "مَدْيَنَ",
+      "transliterasi": "madyana",
+      "jenis_kata": "Isim",
+      "arti": "Madyan",
+      "sharaf": {
+        "akar_kata": "m-d-y-n",
+        "makna_dasar": "nama tempat",
+        "wazan_perubahan": "isim maqsur"
+      },
+      "nahwu": {
+        "kedudukan": "maf'ul bih",
+        "irab_dan_logika": "karena maf'ul bih yang memiliki harakat jar"
+      },
+      "hikmah": "nama tempat yang disebut Madyan",
+      "role": "none"
+    },
+    {
+      "index": 29,
+      "kata_arab": "ثُمَّ",
+      "transliterasi": "thumma",
+      "jenis_kata": "Huruf",
+      "arti": "kemudian",
+      "sharaf": {
+        "akar_kata": "th-m-m",
+        "makna_dasar": "kemudian atau setelah itu",
+        "wazan_perubahan": "huruf atf"
+      },
+      "nahwu": {
+        "kedudukan": "huruf atf",
+        "irab_dan_logika": "karena huruf atf yang menunjuk pada urutan waktu"
+      },
+      "hikmah": "kemudian atau setelah itu",
+      "role": "none"
+    },
+    {
+      "index": 30,
+      "kata_arab": "جِئْتَ",
+      "transliterasi": "ji'ta",
+      "jenis_kata": "Fi'il",
+      "arti": "kamu datang",
+      "sharaf": {
+        "akar_kata": "jaa a",
+        "makna_dasar": "datang",
+        "wazan_perubahan": "fi'il madhi"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il madi",
+        "irab_dan_logika": "karena berupa fi'il madhi yang menunjukkan tindakan yang telah selesai"
+      },
+      "hikmah": "kamu datang menurut waktu yang ditetapkan",
+      "role": "none"
+    },
+    {
+      "index": 31,
+      "kata_arab": "عَلَىٰ",
+      "transliterasi": "alaa",
+      "jenis_kata": "Huruf",
+      "arti": "atas atau menurut",
+      "sharaf": {
+        "akar_kata": "alif lam ya",
+        "makna_dasar": "atas atau menurut",
+        "wazan_perubahan": "huruf jar"
+      },
+      "nahwu": {
+        "kedudukan": "huruf jar",
+        "irab_dan_logika": "karena berfungsi sebagai kata penghubung yang menunjukkan hubungan antara dua kata"
+      },
+      "hikmah": "menurut atau sesuai dengan",
+      "role": "none"
+    },
+    {
+      "index": 32,
+      "kata_arab": "قَدَرٍۢ",
+      "transliterasi": "qadarin",
+      "jenis_kata": "Isim",
+      "arti": "ukuran atau waktu yang ditentukan",
+      "sharaf": {
+        "akar_kata": "qadara",
+        "makna_dasar": "menentukan atau menetapkan",
+        "wazan_perubahan": "isim ma'rifa"
+      },
+      "nahwu": {
+        "kedudukan": "maf'ul bih",
+        "irab_dan_logika": "karena berfungsi sebagai objek yang dikenai oleh fi'il"
+      },
+      "hikmah": "waktu yang ditetapkan atau ukuran yang telah ditentukan",
+      "role": "none"
+    },
+    {
+      "index": 33,
+      "kata_arab": "يَٰمُوسَىٰ",
+      "transliterasi": "yaa muusaa",
+      "jenis_kata": "Isim",
+      "arti": "wahai Musa",
+      "sharaf": {
+        "akar_kata": "muusaa",
+        "makna_dasar": "nama seorang nabi",
+        "wazan_perubahan": "isim nakira"
+      },
+      "nahwu": {
+        "kedudukan": "munada",
+        "irab_dan_logika": "karena berfungsi sebagai kata seruan yang digunakan untuk memanggil seseorang"
+      },
+      "hikmah": "seruan untuk memanggil atau menunjuk seseorang yang bernama Musa",
+      "role": "none"
+    }
+  ]
+}

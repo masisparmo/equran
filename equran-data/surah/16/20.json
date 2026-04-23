@@ -4,182 +4,200 @@
   "words": [
     {
       "index": 0,
-      "kata_arab": "وَالَّذِينَ",
-      "transliterasi": "wa‑alladhīna",
-      "jenis_kata": "Isim",
-      "arti": "dan orang‑orang yang",
+      "kata_arab": "وَٱلَّذِينَ",
+      "transliterasi": "wa-alladhīna",
+      "jenis_kata": "Harf 'Athaf & Isim Mawshul",
+      "arti": "Dan orang-orang/hal-hal yang",
       "sharaf": {
-        "akar_kata": "ل‑ذ‑ن",
-        "makna_dasar": "yang (kata ganti relatif)",
-        "wazan_perubahan": "isim mawṣūl (kata ganti relatif) dengan awalan wa"
+        "akar_kata": "N/A",
+        "makna_dasar": "Kata ganti penghubung untuk jamak (banyak)",
+        "wazan_perubahan": "Isim Mabni"
       },
       "nahwu": {
-        "kedudukan": "Mubtada’ (subjek) bagi fi‘il “يَدْعُونَ”",
-        "irab_dan_logika": "مرفوع بالضمة لأنه مبتدأ مرفوع في جملة صلة"
+        "kedudukan": "Mubtada' (Subjek)",
+        "irab_dan_logika": "Wawu adalah kata hubung. Alladhina adalah isim mawshul yang menempati posisi rafa' sebagai permulaan kalimat yang membicarakan berhala-berhala."
       },
-      "hikmah": "Menunjukkan kelompok orang yang menyembah selain Allah, menegaskan bahwa mereka adalah subjek tindakan memanggil.",
+      "hikmah": "Merujuk kepada entitas atau berhala-berhala yang disembah oleh kaum musyrik.",
       "role": "none"
     },
     {
       "index": 1,
-      "kata_arab": "يَدْعُونَ",
-      "transliterasi": "yad‘ūna",
-      "jenis_kata": "Fi‘il",
-      "arti": "mereka memanggil / menyembah",
+      "kata_arab": "يَدۡعُونَ",
+      "transliterasi": "yad'ūna",
+      "jenis_kata": "Fi'il Mudhari'",
+      "arti": "Mereka menyeru/menyembah",
       "sharaf": {
-        "akar_kata": "د‑ع‑و",
-        "makna_dasar": "memanggil, menyembah",
-        "wazan_perubahan": "فعل مضارع مرفوع بالضمة"
+        "akar_kata": "da-’a-wa (د ع و)",
+        "makna_dasar": "Memanggil, menyeru, atau memohon",
+        "wazan_perubahan": "Yaf'ulūna (يَفْعُلُوْنَ)"
       },
       "nahwu": {
-        "kedudukan": "Fi‘il mudhari‘ (kata kerja) yang berhubungan dengan “الَّذِينَ”",
-        "irab_dan_logika": "مرفوع بالضمة لأنه فعل مضارع مرفوع بالضمة"
+        "kedudukan": "Shilah al-Mawshul",
+        "irab_dan_logika": "Fi'il mudhari' marfu' dengan tanda tetapnya nun (thubutun nun) karena termasuk af'alul khamsah. Pelakunya (fa'il) adalah Wawu Jama'ah."
       },
-      "hikmah": "Menggambarkan tindakan menyembah atau memanggil berhala secara aktif oleh orang‑orang tersebut.",
+      "hikmah": "Menjelaskan aktivitas penyembahan atau doa yang dilakukan orang-orang musyrik kepada selain Allah.",
       "role": "none"
     },
     {
       "index": 2,
       "kata_arab": "مِن",
       "transliterasi": "min",
-      "jenis_kata": "Huruf",
-      "arti": "dari",
+      "jenis_kata": "Harf Jar",
+      "arti": "Dari",
       "sharaf": {
-        "akar_kata": "-",
-        "makna_dasar": "-",
-        "wazan_perubahan": "-"
+        "akar_kata": "N/A",
+        "makna_dasar": "Menunjukkan asal atau batasan",
+        "wazan_perubahan": "Harf Mabni"
       },
       "nahwu": {
-        "kedudukan": "Huruf jar",
-        "irab_dan_logika": "مجرور، والاسم المتبوع به (دُونِ) مجرور"
+        "kedudukan": "Harf Jar",
+        "irab_dan_logika": "Berfungsi menjerkan (memberi harakat kasrah) pada kata setelahnya."
       },
-      "hikmah": "Menunjukkan asal atau sumber, di sini berfungsi sebagai penghubung “dari” dalam frasa “dari selain Allah”.",
+      "hikmah": "Dalam konteks ini, digunakan bersama 'duni' untuk menunjukkan pengecualian atau pemisahan.",
       "role": "none"
     },
     {
       "index": 3,
       "kata_arab": "دُونِ",
       "transliterasi": "dūni",
-      "jenis_kata": "Huruf",
-      "arti": "selain",
+      "jenis_kata": "Isim (Zharf)",
+      "arti": "Selain / Di bawah",
       "sharaf": {
-        "akar_kata": "-",
-        "makna_dasar": "-",
-        "wazan_perubahan": "-"
+        "akar_kata": "da-wa-na (د و ن)",
+        "makna_dasar": "Sesuatu yang lebih rendah atau selain",
+        "wazan_perubahan": "Isim"
       },
       "nahwu": {
-        "kedudukan": "Huruf jar",
-        "irab_dan_logika": "مجرور، والاسم المتبوع به (ٱللَّهِ) مجرور بالكسرة"
+        "kedudukan": "Majrur & Mudhaf",
+        "irab_dan_logika": "Majrur karena didahului 'min'. Ia juga menjadi mudhaf bagi kata setelahnya (Allah)."
       },
-      "hikmah": "Menegaskan bahwa yang dipanggil itu bukan Allah, melainkan sesuatu yang berada di luar (selain) Allah.",
+      "hikmah": "Menegaskan bahwa yang disembah itu adalah entitas lain yang derajatnya jauh di bawah Allah.",
       "role": "none"
     },
     {
       "index": 4,
-      "kata_arab": "ٱللَّهِ",
-      "transliterasi": "Allāh",
-      "jenis_kata": "Isim",
+      "kata_arab": "ٱللَّهِ",
+      "transliterasi": "Allāhi",
+      "jenis_kata": "Isim 'Alam (Lafdzul Jalalah)",
       "arti": "Allah",
       "sharaf": {
-        "akar_kata": "ل‑ه",
-        "makna_dasar": "Tuhan, Sang Pencipta",
-        "wazan_perubahan": "اسم علم"
+        "akar_kata": "a-la-ha (أ ل ه)",
+        "makna_dasar": "Tuhan yang disembah dengan benar",
+        "wazan_perubahan": "Isim Jamid"
       },
       "nahwu": {
-        "kedudukan": "Nama terjunjung (مجرور) setelah huruf jar “دُونِ”",
-        "irab_dan_logika": "مجرور بالكسرة لأنه مجرور بحرف الجر"
+        "kedudukan": "Mudhaf Ilayh",
+        "irab_dan_logika": "Majrur dengan tanda kasrah karena kedudukannya sebagai penyandar kata 'duni'."
       },
-      "hikmah": "Objek yang tidak dapat disembah selain‑nya; menegaskan keesaan Allah.",
+      "hikmah": "Merujuk kepada Allah SWT sebagai satu-satunya Tuhan yang berhak disembah.",
       "role": "none"
     },
     {
       "index": 5,
       "kata_arab": "لَا",
       "transliterasi": "lā",
-      "jenis_kata": "Huruf",
-      "arti": "tidak",
+      "jenis_kata": "Harf Nafyi",
+      "arti": "Tidak",
       "sharaf": {
-        "akar_kata": "-",
-        "makna_dasar": "-",
-        "wazan_perubahan": "-"
+        "akar_kata": "N/A",
+        "makna_dasar": "Peniadaan (negasi)",
+        "wazan_perubahan": "Harf Mabni"
       },
       "nahwu": {
-        "kedudukan": "Huruf nakirah (penafian)",
-        "irab_dan_logika": "لا محل له من الإعراب، يسبق فعل أو جملة نفي"
+        "kedudukan": "Harf Nafyi",
+        "irab_dan_logika": "Berfungsi meniadakan perbuatan yang disebutkan setelahnya (yakhlūquna/menciptakan)."
       },
-      "hikmah": "Menyatakan bahwa berhala‑berhala itu tidak dapat membuat apapun; menegaskan ketidakberdayaan mereka.",
+      "hikmah": "Menegaskan ketidakmampuan total dari berhala-berhala tersebut dalam hal penciptaan.",
       "role": "none"
     },
     {
       "index": 6,
-      "kata_arab": "يَخْلُقُونَ",
-      "transliterasi": "yakhluqūna",
-      "jenis_kata": "Fi'il (verb aktif)",
-      "arti": "mencipta, membuat",
+      "kata_arab": "يَخۡلُقُونَ",
+      "transliterasi": "yakhlūqūna",
+      "jenis_kata": "Fi'il Mudhari' (Kata Kerja Sedang/Akan Datang)",
+      "arti": "mereka menciptakan",
       "sharaf": {
-        "akar_kata": "خ ل ق",
-        "makna_dasar": "mencipta, membentuk",
-        "wazan_perubahan": "فَعَلَ (aktif)"
+        "akar_kata": "kh-l-q (خ ل ق)",
+        "makna_dasar": "menciptakan, mengadakan dari ketiadaan",
+        "wazan_perubahan": "yaf'ulūna (يَفْعُلُونَ) - Tsulatsi Mujarrad"
       },
       "nahwu": {
-        "kedudukan": "kata kerja (fi'il) dalam kalimat",
-        "irab_dan_logika": "مرفوع بالضمة لأنه فعل مضارع مرفوع بالضمة الظاهرة على آخره"
+        "kedudukan": "Fi'il Mudhari' sebagai predikat (Khabar)",
+        "irab_dan_logika": "Marfu' dengan tanda thubutun nun (tetapnya huruf nun) karena termasuk Af'alul Khamsah. Wawu jama'ah di dalamnya berfungsi sebagai Fa'il (subjek)."
       },
-      "hikmah": "Menegaskan bahwa manusia (atau makhluk) dapat mencipta sesuatu, menolak kekuasaan berhala.",
+      "hikmah": "Kata ini menegaskan ketidakmampuan berhala-berhala tersebut untuk menciptakan apa pun, bahkan sekecil apa pun.",
       "role": "none"
     },
     {
       "index": 7,
-      "kata_arab": "شَيْـًۭٔا",
+      "kata_arab": "شَيۡـࣰٔ",
       "transliterasi": "shay'an",
-      "jenis_kata": "Isim (nama)",
-      "arti": "sesuatu, barang",
+      "jenis_kata": "Isim (Kata Benda)",
+      "arti": "sesuatu",
       "sharaf": {
-        "akar_kata": "ش ي ء",
-        "makna_dasar": "benda, sesuatu",
-        "wazan_perubahan": "فَعْلًا"
+        "akar_kata": "sh-y-a (ش ي أ)",
+        "makna_dasar": "sesuatu, perkara, entitas",
+        "wazan_perubahan": "fa'lan (فَعْلًا)"
       },
       "nahwu": {
-        "kedudukan": "objek (mansoob) dari fi'il يَخْلُقُونَ",
-        "irab_dan_logika": "منصوب بالفتحة وعلامة تنوين الفتح لأنه مفعول به"
+        "kedudukan": "Maf'ul Bih (Objek)",
+        "irab_dan_logika": "Mansub dengan tanda fathah. Bentuk nakirah (umum) di sini memberikan makna 'umum/mutlak', artinya tidak bisa menciptakan apa pun sama sekali."
       },
-      "hikmah": "Menunjukkan bahwa berhala tidak dapat menciptakan apa pun, hanya benda mati.",
+      "hikmah": "Penggunaan kata 'sesuatu' dalam bentuk umum menekankan bahwa berhala tersebut benar-benar nihil kemampuan dalam hal penciptaan.",
       "role": "none"
     },
     {
       "index": 8,
-      "kata_arab": "وَهُمْ",
-      "transliterasi": "wa hum",
-      "jenis_kata": "Huruf (wa) + ضمير منفصل",
-      "arti": "dan mereka",
+      "kata_arab": "ا",
+      "transliterasi": "a",
+      "jenis_kata": "Alif Tanwin / Pelengkap I'rab",
+      "arti": "(penanda nashab)",
       "sharaf": {
-        "akar_kata": "ه م",
-        "makna_dasar": "pronomina orang ketiga jamak",
-        "wazan_perubahan": "-"
+        "akar_kata": "n/a",
+        "makna_dasar": "n/a",
+        "wazan_perubahan": "n/a"
       },
       "nahwu": {
-        "kedudukan": "kata ganti subjek (marfu') setelah wa",
-        "irab_dan_logika": "مرفوع بالضمة لأنه ضمير منفصل في محل رفع"
+        "kedudukan": "Alif pelengkap untuk tanwin fathah",
+        "irab_dan_logika": "Secara ortografi bahasa Arab, alif ini ditambahkan pada isim yang berakhiran fathatain (tanwin fathah) kecuali pada ta marbuthah atau hamzah tertentu."
       },
-      "hikmah": "Menegaskan subjek yang sama dengan yang disebutkan sebelumnya, yaitu berhala-berhala.",
+      "hikmah": "Merupakan bagian dari penulisan kata 'shay'an' yang menunjukkan status mansub sebagai objek.",
       "role": "none"
     },
     {
       "index": 9,
-      "kata_arab": "يُخْلَقُونَ",
-      "transliterasi": "yukhlaquna",
-      "jenis_kata": "Fi'il (verb pasif)",
-      "arti": "diciptakan",
+      "kata_arab": "وَهُمۡ",
+      "transliterasi": "wa hum",
+      "jenis_kata": "Harf 'Atf/Hal + Isim Dhamir",
+      "arti": "sedangkan mereka",
       "sharaf": {
-        "akar_kata": "خ ل ق",
-        "makna_dasar": "diciptakan, dibuat",
-        "wazan_perubahan": "فُعِلَ (pasif)"
+        "akar_kata": "n/a",
+        "makna_dasar": "kata ganti orang ketiga jamak (mereka)",
+        "wazan_perubahan": "n/a"
       },
       "nahwu": {
-        "kedudukan": "kata kerja (fi'il) dalam bentuk mudhari' majzum",
-        "irab_dan_logika": "مرفوع بالضمة لأنه فعل مضارع مبني للمجهول مرفوع بالضمة"
+        "kedudukan": "Wawu Hal + Mubtada' (Subjek)",
+        "irab_dan_logika": "Wawu di sini adalah Wawu al-Hal yang menunjukkan keadaan. 'Hum' adalah dhamir munfasil yang menempati posisi marfu' sebagai Mubtada'."
       },
-      "hikmah": "Menguatkan bahwa berhala itu sendiri diciptakan oleh Allah, bukan pencipta.",
+      "hikmah": "Kata ini mengalihkan fokus dari ketidakmampuan berhala menciptakan, menuju fakta bahwa berhala itu sendiri adalah objek yang diciptakan.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "يُخۡلَقُونَ",
+      "transliterasi": "yukhlāqūna",
+      "jenis_kata": "Fi'il Mudhari' Mabni lil Majhul (Pasif)",
+      "arti": "mereka diciptakan",
+      "sharaf": {
+        "akar_kata": "kh-l-q (خ ل ق)",
+        "makna_dasar": "menciptakan",
+        "wazan_perubahan": "yuf'alūna (يُفْعَلُونَ) - Bentuk Pasif"
+      },
+      "nahwu": {
+        "kedudukan": "Khabar (Predikat) dari Mubtada' 'hum'",
+        "irab_dan_logika": "Marfu' dengan thubutun nun. Wawu jama'ah di sini berfungsi sebagai Na'ibul Fa'il (pengganti subjek/subjek pasif)."
+      },
+      "hikmah": "Ini adalah puncak argumentasi logika Al-Qur'an: Bagaimana mungkin sesuatu yang diciptakan (makhluk) disembah sebagai pencipta (Khaliq)?",
       "role": "none"
     }
   ]

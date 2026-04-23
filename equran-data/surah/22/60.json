@@ -1,0 +1,294 @@
+{
+  "surah": 22,
+  "ayah": 60,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "ذَٰلِكَ",
+      "transliterasi": "Dhalika",
+      "jenis_kata": "Isim",
+      "arti": "Demikianlah itu, itu",
+      "sharaf": {
+        "akar_kata": "ذ ل ك",
+        "makna_dasar": "Menunjuk sesuatu yang jauh",
+        "wazan_perubahan": "Tidak berlaku untuk isim isyarah"
+      },
+      "nahwu": {
+        "kedudukan": "Isim isyarah, berfungsi sebagai mubtada' atau penekanan/kesimpulan dari kalimat sebelumnya",
+        "irab_dan_logika": "Mabni (tetap) di atas fathah, tidak berubah harakatnya"
+      },
+      "hikmah": "Kata ini berfungsi sebagai penegasan atau kesimpulan dari pembahasan sebelumnya, sekaligus mengawali pernyataan baru yang penting.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "وَمَنْ",
+      "transliterasi": "Wa Man",
+      "jenis_kata": "Huruf dan Isim",
+      "arti": "Dan barangsiapa",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk huruf. Untuk 'man', ini adalah isim syarth.",
+        "makna_dasar": "Waw' untuk penghubung/athaf, 'Man' untuk syarat (siapa saja)",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Waw' sebagai huruf athaf (penghubung). 'Man' sebagai isim syarth (kata syarat) yang berkedudukan sebagai mubtada'",
+        "irab_dan_logika": "Waw' adalah huruf mabni. 'Man' adalah isim mabni (tetap) di atas sukun, berkedudukan rafa' sebagai mubtada'"
+      },
+      "hikmah": "Memulai kalimat syarat, menunjukkan bahwa hukum yang akan disebutkan berlaku bagi siapa saja yang memenuhi kondisi tersebut, mengindikasikan universalitas hukum.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "عَاقَبَ",
+      "transliterasi": "Aqaba",
+      "jenis_kata": "Fi'il",
+      "arti": "Membalas, menghukum",
+      "sharaf": {
+        "akar_kata": "ع ق ب",
+        "makna_dasar": "Mengikuti, membalas, akibat",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau) dari wazan فاعَلَ (fa'ala), menunjukkan makna saling atau melakukan sesuatu kepada orang lain"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Syarat (kata kerja syarat) untuk 'man'. Fa'il (pelaku) adalah dhamir mustatir (tersembunyi) 'huwa' yang kembali kepada 'man'",
+        "irab_dan_logika": "Fi'il madhi mabni di atas fathah. Dalam konteks fi'il syarat, ia tetap mabni"
+      },
+      "hikmah": "Menunjukkan tindakan membalas atau menghukum sebagai respons terhadap sesuatu yang telah terjadi. Wazan 'fa'ala' seringkali menyiratkan interaksi atau tindakan timbal balik, dalam hal ini pembalasan.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "بِمِثْلِ",
+      "transliterasi": "Bi Mithli",
+      "jenis_kata": "Huruf dan Isim",
+      "arti": "Dengan seimbang, dengan serupa, seperti",
+      "sharaf": {
+        "akar_kata": "م ث ل (untuk 'mithl')",
+        "makna_dasar": "Ba' untuk makna 'dengan' atau 'sebab'. 'Mithl' berarti serupa, seimbang, setara",
+        "wazan_perubahan": "Mithl' adalah isim"
+      },
+      "nahwu": {
+        "kedudukan": "Ba' adalah huruf jar. 'Mithli' adalah isim majrur (kata benda yang di-jar-kan) oleh 'Ba'. Jar majrur ini berfungsi sebagai muta'alliq (terkait) dengan fi'il sebelumnya, عَاقَبَ ('aqaba)",
+        "irab_dan_logika": "Ba' adalah huruf mabni. 'Mithli' majrur dengan kasrah karena didahului oleh huruf jar 'Ba'"
+      },
+      "hikmah": "Menekankan bahwa pembalasan yang dilakukan harus setara atau seimbang dengan kezaliman yang diterima, tidak berlebihan, menunjukkan prinsip keadilan dalam pembalasan.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "مَا",
+      "transliterasi": "Ma",
+      "jenis_kata": "Isim",
+      "arti": "Apa yang, sesuatu yang",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk isim maushul",
+        "makna_dasar": "Menghubungkan kalimat atau frasa, merujuk pada sesuatu yang tidak spesifik",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Isim maushul, berkedudukan majrur sebagai mudhaf ilaih dari 'mithli'",
+        "irab_dan_logika": "Isim mabni (tetap) di atas sukun, berkedudukan majrur"
+      },
+      "hikmah": "Menjelaskan bahwa pembalasan itu seimbang dengan 'apa yang' telah diderita, merujuk pada bentuk penganiayaan yang diterima, memberikan konteks bagi pembalasan yang adil.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "عُوقِبَ",
+      "transliterasi": "Uqiba",
+      "jenis_kata": "Fi'il",
+      "arti": "Ia dianiaya, ia dihukum",
+      "sharaf": {
+        "akar_kata": "ع ق ب",
+        "makna_dasar": "Mengikuti, membalas, akibat",
+        "wazan_perubahan": "Fi'il Madhi Majhul (kata kerja lampau pasif) dari wazan فاعَلَ (fa'ala), diubah menjadi فُوعِلَ (fu'ila). Menunjukkan bahwa subjek adalah penerima tindakan"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il madhi majhul, berfungsi sebagai shilah maushul (kalimat penghubung) bagi isim maushul 'ma'. Na'ibul fa'il (pengganti subjek) adalah dhamir mustatir 'huwa' yang kembali kepada 'man' (secara makna, merujuk pada orang yang dianiaya)",
+        "irab_dan_logika": "Fi'il madhi mabni di atas fathah"
+      },
+      "hikmah": "Menggambarkan kondisi di mana seseorang telah menjadi korban penganiayaan atau hukuman, menekankan aspek pasif dari tindakan tersebut, yaitu 'dianiaya' atau 'dihukum' oleh pihak lain.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "بِهِۦ",
+      "transliterasi": "bihi",
+      "jenis_kata": "Huruf dan Isim",
+      "arti": "dengan dia/nya",
+      "sharaf": {
+        "akar_kata": "ب (huruf jar) + ه (dhamir)",
+        "makna_dasar": "Huruf 'ب' (bi) menunjukkan makna 'dengan' atau 'karena'. Dhamir 'ه' (hu/hi) merujuk pada 'penganiayaan' (الاعتداء) yang telah disebutkan sebelumnya dalam konteks ayat.",
+        "wazan_perubahan": "N/A (untuk huruf dan dhamir)"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar dan Isim Majrur",
+        "irab_dan_logika": "ب' adalah huruf jar yang menjadikan kata setelahnya majrur. 'ه' adalah dhamir muttasil mabni (kata ganti yang bersambung dan tetap) dalam posisi jar karena didahului oleh huruf jar 'ب'. Harakat kasrah pada 'ه' (hi) adalah untuk keselarasan bacaan atau karena didahului oleh kasrah/ya' sukun."
+      },
+      "hikmah": "Menekankan bahwa pembalasan dilakukan 'dengan' atau 'karena' penganiayaan yang telah terjadi, menunjukkan hubungan sebab-akibat yang adil dan proporsional.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "ثُمَّ",
+      "transliterasi": "thumma",
+      "jenis_kata": "Huruf",
+      "arti": "kemudian",
+      "sharaf": {
+        "akar_kata": "N/A (huruf)",
+        "makna_dasar": "Menunjukkan urutan waktu dengan jeda, atau urutan logis.",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf 'athf (penghubung)",
+        "irab_dan_logika": "Huruf 'athf mabni 'ala al-fath (tetap dengan harakat fathah) yang berfungsi menghubungkan dua kalimat atau frasa, menunjukkan urutan waktu dengan jeda atau tahapan."
+      },
+      "hikmah": "Menunjukkan bahwa ada jeda waktu atau tahapan setelah pembalasan pertama, yaitu terjadinya penganiayaan kedua. Ini penting untuk memahami kronologi dan keadilan dalam ayat.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "بُغِىَ",
+      "transliterasi": "bughiya",
+      "jenis_kata": "Fi'il",
+      "arti": "ia dianiaya/dizalimi",
+      "sharaf": {
+        "akar_kata": "ب-غ-ي (B-Gh-Y)",
+        "makna_dasar": "Melampaui batas, mencari, menginginkan, berbuat zalim, memberontak. Dalam bentuk pasif, berarti 'dianiaya' atau 'dizalimi'.",
+        "wazan_perubahan": "Fi'il Madhi Majhul (kata kerja lampau pasif) dari wazan فَعَلَ (fa'ala) menjadi فُعِلَ (fu'ila)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Madhi Majhul",
+        "irab_dan_logika": "Fi'il Madhi Mabni 'ala al-fath (kata kerja lampau yang tetap dengan fathah). Bentuk majhul (pasif) menunjukkan bahwa subjek yang melakukan penganiayaan tidak disebutkan secara eksplisit, fokusnya pada korban yang dianiaya."
+      },
+      "hikmah": "Menekankan bahwa setelah seseorang membalas secara adil, ia justru kembali menjadi korban penganiayaan. Ini adalah titik balik yang memicu janji pertolongan Allah.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "عَلَيْهِ",
+      "transliterasi": "alaihi",
+      "jenis_kata": "Huruf dan Isim",
+      "arti": "atasnya/terhadapnya",
+      "sharaf": {
+        "akar_kata": "على (huruf jar) + ه (dhamir)",
+        "makna_dasar": "Huruf jar 'على' (ala) menunjukkan makna 'atas', 'terhadap', 'melawan'. Dhamir 'ه' (hu/hi) merujuk pada orang yang dianiaya.",
+        "wazan_perubahan": "N/A (untuk huruf dan dhamir)"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf jar dan Isim Majrur",
+        "irab_dan_logika": "على' adalah huruf jar yang menjadikan kata setelahnya majrur. 'ه' adalah dhamir muttasil mabni (kata ganti yang bersambung dan tetap) dalam posisi jar karena didahului oleh huruf jar 'على'. Harakat kasrah pada 'ه' (hi) adalah karena didahului oleh ya' sukun (pada 'alay')."
+      },
+      "hikmah": "Menjelaskan arah penganiayaan, yaitu 'terhadap' atau 'atas' orang yang sebelumnya telah membalas dan kini kembali menjadi korban, memperjelas konteks kezaliman yang berulang.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "لَيَنصُرَنَّهُ",
+      "transliterasi": "layansurannahu",
+      "jenis_kata": "Fi'il dan Isim",
+      "arti": "sungguh Dia (Allah) pasti akan menolongnya",
+      "sharaf": {
+        "akar_kata": "ن-ص-ر (N-Ṣ-R)",
+        "makna_dasar": "Menolong, membantu, mendukung, memberi kemenangan.",
+        "wazan_perubahan": "Fi'il Mudhari' (kata kerja sekarang/akan datang) yang diperkuat dengan Nun Taukid Tsaqilah (نّ) dan didahului oleh Lam Taukid (لَ). Bentuk aktif (ma'lum)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Marfu' (secara makna) yang mabni 'ala al-fath, dan Isim Dhamir sebagai Maf'ul Bih",
+        "irab_dan_logika": "لَ' adalah Lam Taukid (huruf penegas). 'يَنصُرَنَّ' adalah Fi'il Mudhari' yang mabni 'ala al-fath karena bersambung langsung dengan Nun Taukid Tsaqilah. Nun Taukid Tsaqilah (نَّ) berfungsi untuk memberikan penekanan yang sangat kuat pada janji pertolongan. 'هُ' adalah dhamir muttasil mabni 'ala ad-dhamm (tetap dengan dammah) dalam posisi nashab sebagai maf'ul bih (objek) dari fi'il 'yansura'. Fa'il (subjek) dari fi'il ini adalah 'Allah' yang disebutkan setelahnya."
+      },
+      "hikmah": "Ini adalah janji yang sangat kuat dan pasti dari Allah untuk menolong orang yang dizalimi kembali setelah ia membalas secara adil. Penekanan ganda (Lam Taukid dan Nun Taukid) menunjukkan kepastian mutlak dari pertolongan ilahi.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "ٱللَّهُ",
+      "transliterasi": "Allahu",
+      "jenis_kata": "Isim",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "ا-ل-ه (A-L-H)",
+        "makna_dasar": "Tuhan, Yang Disembah. Nama Dzat Yang Maha Esa.",
+        "wazan_perubahan": "Isim Dzat (Nama Diri), tidak memiliki wazan sharaf dalam arti konvensional."
+      },
+      "nahwu": {
+        "kedudukan": "Fa'il (subjek)",
+        "irab_dan_logika": "Isim Dzat yang marfu' dengan dammah (ٱللَّهُ) karena menjadi fa'il (subjek) dari fi'il 'layansurannahu'. Dialah yang akan melakukan pertolongan."
+      },
+      "hikmah": "Menegaskan bahwa sumber pertolongan yang pasti dan mutlak itu adalah Allah SWT sendiri, Dzat Yang Maha Kuasa dan Maha Adil. Ini memberikan jaminan dan kekuatan spiritual bagi korban kezaliman.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "إِنَّ",
+      "transliterasi": "inna",
+      "jenis_kata": "Huruf",
+      "arti": "sesungguhnya",
+      "sharaf": {
+        "akar_kata": "a-n-n",
+        "makna_dasar": "penekanan",
+        "wazan_perubahan": "tidak berubah"
+      },
+      "nahwu": {
+        "kedudukan": "kata bantu penekanan",
+        "irab_dan_logika": "menguatkan kalimat yang mengikutinya"
+      },
+      "hikmah": "menekankan kebenaran kalimat yang mengikutinya",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "ٱللَّهَ",
+      "transliterasi": "allaha",
+      "jenis_kata": "Isim",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "a-l-l-h",
+        "makna_dasar": "ketakwaan",
+        "wazan_perubahan": "tidak berubah"
+      },
+      "nahwu": {
+        "kedudukan": "objek",
+        "irab_dan_logika": "mengikuti kata bantu penekanan"
+      },
+      "hikmah": "menunjuk kepada Allah sebagai sumber kekuatan dan perlindungan",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "لَعَفُوٌّ",
+      "transliterasi": "la'fuwwun",
+      "jenis_kata": "Isim",
+      "arti": "Maha Pemaaf",
+      "sharaf": {
+        "akar_kata": "l-'-f-w",
+        "makna_dasar": "pemaafan",
+        "wazan_perubahan": "dengan tambahan alif dan wawu"
+      },
+      "nahwu": {
+        "kedudukan": "sifat",
+        "irab_dan_logika": "menerangkan sifat Allah"
+      },
+      "hikmah": "menunjuk kepada sifat Allah yang maha pemaaf dan mengampuni kesalahan",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "غَفُورٌۭ",
+      "transliterasi": "ghafurun",
+      "jenis_kata": "Isim",
+      "arti": "Maha Pengampun",
+      "sharaf": {
+        "akar_kata": "gh-f-r",
+        "makna_dasar": "pengampunan",
+        "wazan_perubahan": "dengan tambahan wawu dan nun"
+      },
+      "nahwu": {
+        "kedudukan": "sifat",
+        "irab_dan_logika": "menerangkan sifat Allah"
+      },
+      "hikmah": "menunjuk kepada sifat Allah yang maha pengampun dan mengampuni kesalahan",
+      "role": "none"
+    }
+  ]
+}

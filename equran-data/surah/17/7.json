@@ -4,7 +4,7 @@
   "words": [
     {
       "index": 0,
-      "kata_arab": "إِنْ",
+      "kata_arab": "إِنۡ",
       "transliterasi": "in",
       "jenis_kata": "Huruf",
       "arti": "Jika, Apabila",
@@ -14,69 +14,69 @@
         "wazan_perubahan": "N/A"
       },
       "nahwu": {
-        "kedudukan": "Huruf syarat (partikel pengandaian)",
-        "irab_dan_logika": "Huruf mabni (tetap) sukun, tidak memiliki kedudukan i'rab. Berfungsi sebagai partikel syarat yang menjazamkan dua fi'il (fi'il syarat dan jawab syarat)."
+        "kedudukan": "Huruf syarat (harf syart)",
+        "irab_dan_logika": "Huruf mabni (tetap) tidak memiliki kedudukan i'rab. Berfungsi sebagai penghubung dua kalimat (syarat dan jawab syarat)."
       },
-      "hikmah": "Menunjukkan kondisi atau pengandaian, menekankan bahwa apa yang mengikuti adalah konsekuensi dari tindakan sebelumnya.",
+      "hikmah": "Menunjukkan kondisi atau prasyarat, mengindikasikan bahwa apa yang akan terjadi selanjutnya bergantung pada tindakan sebelumnya.",
       "role": "none"
     },
     {
       "index": 1,
-      "kata_arab": "أَحْسَنتُمْ",
-      "transliterasi": "ahsantum",
+      "kata_arab": "أَحۡسَنتُمۡ",
+      "transliterasi": "aḥsantum",
       "jenis_kata": "Fi'il",
       "arti": "Kalian berbuat baik",
       "sharaf": {
         "akar_kata": "ح س ن",
-        "makna_dasar": "Kebaikan, keindahan, melakukan sesuatu dengan baik.",
-        "wazan_perubahan": "أَفْعَلَ (Af'ala) - Fi'il Madhi (kata kerja lampau), jamak mudzakkar mukhatab (kalian laki-laki)."
+        "makna_dasar": "Baik, indah, berbuat kebaikan",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau) dari Bab IV (أفعل - أفعلت), dengan dhomir 'antum' (kalian laki-laki jamak)."
       },
       "nahwu": {
-        "kedudukan": "Fi'il syarat (kata kerja pengandaian)",
-        "irab_dan_logika": "Fi'il madhi mabni 'ala as-sukun (tetap sukun) karena bersambung dengan ta' fa'il (تُمْ). Ta' (تُمْ) adalah dhamir muttasil mabni 'ala as-sukun fi mahalli raf'in fa'il (dhamir bersambung yang tetap sukun pada posisi rafa' sebagai fa'il)."
+        "kedudukan": "Fi'il Syarat (kata kerja syarat)",
+        "irab_dan_logika": "Fi'il Madhi mabni 'ala as-sukun (tetap dengan sukun) karena bersambung dengan ta' fa'il (تُم). Fa'ilnya (pelaku) adalah 'tum' (kalian)."
       },
-      "hikmah": "Menekankan tindakan kebaikan yang dilakukan oleh subjek, dan sebagai fi'il syarat, ia mengindikasikan bahwa tindakan ini akan memiliki konsekuensi.",
+      "hikmah": "Menekankan tindakan kebaikan yang dilakukan oleh subjek, dan dalam konteks ayat ini, menjadi syarat untuk hasil yang akan diterima.",
       "role": "none"
     },
     {
       "index": 2,
-      "kata_arab": "أَحْسَنتُمْ",
-      "transliterasi": "ahsantum",
+      "kata_arab": "أَحۡسَنتُمۡ",
+      "transliterasi": "aḥsantum",
       "jenis_kata": "Fi'il",
       "arti": "Kalian berbuat baik",
       "sharaf": {
         "akar_kata": "ح س ن",
-        "makna_dasar": "Kebaikan, keindahan, melakukan sesuatu dengan baik.",
-        "wazan_perubahan": "أَفْعَلَ (Af'ala) - Fi'il Madhi (kata kerja lampau), jamak mudzakkar mukhatab (kalian laki-laki)."
+        "makna_dasar": "Baik, indah, berbuat kebaikan",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau) dari Bab IV (أفعل - أفعلت), dengan dhomir 'antum' (kalian laki-laki jamak)."
       },
       "nahwu": {
-        "kedudukan": "Jawab syarat (jawaban dari pengandaian)",
-        "irab_dan_logika": "Fi'il madhi mabni 'ala as-sukun (tetap sukun) karena bersambung dengan ta' fa'il (تُمْ). Ta' (تُمْ) adalah dhamir muttasil mabni 'ala as-sukun fi mahalli raf'in fa'il (dhamir bersambung yang tetap sukun pada posisi rafa' sebagai fa'il). Kalimat fi'liyah ini (أَحْسَنتُمْ) berada pada posisi jazm sebagai jawab syarat."
+        "kedudukan": "Fi'il Jawab Syarat (kata kerja jawaban syarat)",
+        "irab_dan_logika": "Fi'il Madhi mabni 'ala as-sukun (tetap dengan sukun) karena bersambung dengan ta' fa'il (تُم). Fa'ilnya (pelaku) adalah 'tum' (kalian). Dalam konteks ini, ia berfungsi sebagai jawab syarat, meskipun secara harfiah diulang, maknanya adalah 'maka kalian berbuat baik (untuk diri kalian)'."
       },
-      "hikmah": "Mengulangi tindakan kebaikan sebagai konsekuensi langsung dari tindakan kebaikan sebelumnya, menegaskan prinsip balasan yang setimpal.",
+      "hikmah": "Mengulangi penekanan bahwa hasil dari perbuatan baik adalah kebaikan itu sendiri, menegaskan prinsip balasan langsung dari Allah.",
       "role": "none"
     },
     {
       "index": 3,
-      "kata_arab": "لِأَنفُسِكُمْ",
+      "kata_arab": "لِأَنفُسِكُمۡۖ",
       "transliterasi": "li-anfusikum",
-      "jenis_kata": "Isim",
-      "arti": "Bagi diri kalian sendiri",
+      "jenis_kata": "Huruf + Isim",
+      "arti": "Untuk diri kalian sendiri",
       "sharaf": {
         "akar_kata": "ن ف س",
-        "makna_dasar": "Jiwa, diri, nafas.",
-        "wazan_perubahan": "N/A (Isim jamak dari نَفْسٌ)"
+        "makna_dasar": "Diri, jiwa, nafas",
+        "wazan_perubahan": "Isim jamak dari نَفْس (nafs), yaitu أَنْفُس (anfus), disambung dengan huruf jar لِ (li) dan dhomir كُمۡ (kum - kalian)."
       },
       "nahwu": {
-        "kedudukan": "Majrur oleh huruf jar لام (lam), berfungsi sebagai keterangan tujuan/manfaat.",
-        "irab_dan_logika": "لِ (li): Huruf jar mabni 'ala al-kasr (tetap kasrah), tidak memiliki kedudukan i'rab. أَنفُسِ (anfusi): Isim majrur dengan huruf jar لِ, tanda jarnya adalah kasrah yang nampak pada akhirnya. Ia juga mudhaf. كُمْ (kum): Dhamir muttasil mabni 'ala as-sukun fi mahalli jarrin mudhaf ilaih (dhamir bersambung yang tetap sukun pada posisi jar sebagai mudhaf ilaih)."
+        "kedudukan": "Jar Majrur (huruf jar dan isim yang di-jar-kan)",
+        "irab_dan_logika": "Huruf لِ (li) adalah huruf jar, menyebabkan isim setelahnya (أَنْفُسِ) menjadi majrur (berharakat kasrah). Dhomir كُمۡ (kum) adalah mudhaf ilaih, mabni 'ala as-sukun fi mahalli jarr."
       },
-      "hikmah": "Menekankan bahwa manfaat atau dampak dari perbuatan baik itu kembali kepada pelakunya sendiri, bukan kepada pihak lain.",
+      "hikmah": "Menjelaskan bahwa manfaat atau kerugian dari perbuatan seseorang akan kembali kepada dirinya sendiri, menekankan tanggung jawab individu.",
       "role": "none"
     },
     {
       "index": 4,
-      "kata_arab": "وَإِنْ",
+      "kata_arab": "وَإِنۡ",
       "transliterasi": "wa-in",
       "jenis_kata": "Huruf",
       "arti": "Dan jika, Dan apabila",
@@ -86,64 +86,64 @@
         "wazan_perubahan": "N/A"
       },
       "nahwu": {
-        "kedudukan": "Huruf 'athaf (penghubung) dan huruf syarat (partikel pengandaian)",
-        "irab_dan_logika": "وَ (wa): Huruf 'athaf mabni 'ala al-fath (tetap fathah), tidak memiliki kedudukan i'rab. Menghubungkan kalimat ini dengan kalimat sebelumnya. إِنْ (in): Huruf syarat mabni 'ala as-sukun (tetap sukun), tidak memiliki kedudukan i'rab. Berfungsi sebagai partikel syarat yang menjazamkan dua fi'il."
+        "kedudukan": "Huruf 'athaf (penghubung) + Huruf syarat (harf syart)",
+        "irab_dan_logika": "Huruf waw (و) adalah 'athaf (penghubung) yang mengaitkan kalimat ini dengan kalimat sebelumnya. Huruf إِنۡ (in) adalah huruf syarat, mabni (tetap) tidak memiliki kedudukan i'rab."
       },
-      "hikmah": "Menghubungkan kondisi kedua (berbuat jahat) dengan kondisi pertama (berbuat baik), menunjukkan adanya dua kemungkinan tindakan dengan konsekuensi yang berbeda.",
+      "hikmah": "Menghubungkan kondisi sebelumnya dengan kondisi yang berlawanan, yaitu perbuatan buruk, dan memperkenalkan konsekuensi dari tindakan tersebut.",
       "role": "none"
     },
     {
       "index": 5,
-      "kata_arab": "أَسَأْتُمْ",
-      "transliterasi": "asatum",
+      "kata_arab": "أَسَأۡتُمۡ",
+      "transliterasi": "asa'tum",
       "jenis_kata": "Fi'il",
       "arti": "Kalian berbuat jahat/buruk",
       "sharaf": {
         "akar_kata": "س و ء",
-        "makna_dasar": "Kejahatan, keburukan, melakukan sesuatu dengan buruk.",
-        "wazan_perubahan": "أَفْعَلَ (Af'ala) - Fi'il Madhi (kata kerja lampau), jamak mudzakkar mukhatab (kalian laki-laki)."
+        "makna_dasar": "Buruk, jahat, celaka",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau) dari Bab IV (أفعل - أفعلت), dengan dhomir 'antum' (kalian laki-laki jamak)."
       },
       "nahwu": {
-        "kedudukan": "Fi'il syarat (kata kerja pengandaian)",
-        "irab_dan_logika": "Fi'il madhi mabni 'ala as-sukun (tetap sukun) karena bersambung dengan ta' fa'il (تُمْ). Ta' (تُمْ) adalah dhamir muttasil mabni 'ala as-sukun fi mahalli raf'in fa'il (dhamir bersambung yang tetap sukun pada posisi rafa' sebagai fa'il)."
+        "kedudukan": "Fi'il Syarat (kata kerja syarat)",
+        "irab_dan_logika": "Fi'il Madhi mabni 'ala as-sukun (tetap dengan sukun) karena bersambung dengan ta' fa'il (تُم). Fa'ilnya (pelaku) adalah 'tum' (kalian)."
       },
-      "hikmah": "Menekankan tindakan kejahatan yang dilakukan oleh subjek, dan sebagai fi'il syarat, ia mengindikasikan bahwa tindakan ini juga akan memiliki konsekuensi.",
+      "hikmah": "Menunjukkan tindakan keburukan yang dilakukan oleh subjek, dan dalam konteks ayat ini, menjadi syarat untuk hasil negatif yang akan diterima.",
       "role": "none"
     },
     {
       "index": 6,
-      "kata_arab": "فَلَهَا",
+      "kata_arab": "فَلَهَاۚ",
       "transliterasi": "fa-lahā",
-      "jenis_kata": "Huruf + Huruf + Isim Dhomir",
-      "arti": "maka baginya / maka untuknya",
+      "jenis_kata": "Huruf + Isim Dhomir",
+      "arti": "maka baginya / untuknya",
       "sharaf": {
-        "akar_kata": "ل (Lām) + ه (Hā)",
-        "makna_dasar": "Kepemilikan, kepunyaan, tujuan",
-        "wazan_perubahan": "Tidak berlaku untuk huruf dan dhomir"
+        "akar_kata": "ل (Lām), ه (Hā)",
+        "makna_dasar": "fa' (maka, lalu), 'li' (untuk, bagi), 'hā' (dia perempuan)",
+        "wazan_perubahan": "N/A (terdiri dari huruf dan dhomir)"
       },
       "nahwu": {
-        "kedudukan": "فَ (fa) adalah huruf 'athaf/isti'naf. لِ (li) adalah huruf jar. هَا (hā) adalah dhomir muttasil, majrur karena didahului huruf jar.",
-        "irab_dan_logika": "فَ dan لِ adalah mabni (tetap) dengan harakat masing-masing. هَا adalah dhomir mabni 'ala as-sukun, berkedudukan majrur."
+        "kedudukan": "fa' adalah huruf 'athaf/isti'naf. 'li' adalah huruf jar. 'hā' adalah dhomir muttasil majrur bi harfil jar.",
+        "irab_dan_logika": "fa' mabniyyun 'ala al-fath. 'li' mabniyyun 'ala al-kasr. 'hā' dhomir mabniyyun 'ala as-sukūn fi mahalli jarr. Merujuk pada kebaikan (hasanah) yang secara gramatikal dianggap muannats."
       },
-      "hikmah": "Menekankan bahwa konsekuensi dari perbuatan (baik atau buruk) akan kembali kepada pelakunya sendiri. 'Maka baginya' merujuk pada akibat yang akan diterima oleh diri sendiri.",
+      "hikmah": "Menekankan bahwa konsekuensi atau manfaat dari perbuatan baik akan kembali kepada pelakunya sendiri, sebagai pahala atau kebaikan yang akan dinikmati.",
       "role": "none"
     },
     {
       "index": 7,
-      "kata_arab": "فَإِذَا",
+      "kata_arab": "فَإِذَا",
       "transliterasi": "fa-idhā",
       "jenis_kata": "Huruf + Isim Syarat",
-      "arti": "maka apabila / maka ketika",
+      "arti": "maka apabila / lalu ketika",
       "sharaf": {
-        "akar_kata": "Tidak berlaku",
-        "makna_dasar": "Menunjukkan waktu atau syarat",
-        "wazan_perubahan": "Tidak berlaku"
+        "akar_kata": "N/A",
+        "makna_dasar": "fa' (maka, lalu), 'idhā' (apabila, ketika, jika)",
+        "wazan_perubahan": "N/A"
       },
       "nahwu": {
-        "kedudukan": "فَ (fa) adalah huruf 'athaf/isti'naf. إِذَا (idhā) adalah isim syarat ghairu jazim, berfungsi sebagai zharaf zaman (keterangan waktu).",
-        "irab_dan_logika": "فَ adalah mabni dengan fathah. إِذَا adalah mabni 'ala as-sukun, berkedudukan nashab sebagai zharaf zaman."
+        "kedudukan": "fa' adalah huruf 'athaf/isti'naf. 'idhā' adalah isim syarat ghairu jazim, berfungsi sebagai zharaf zaman.",
+        "irab_dan_logika": "fa' mabniyyun 'ala al-fath. 'idhā' zharaf zaman mabniyyun 'ala as-sukūn fi mahalli nasb. Mengintroduksi kondisi atau waktu tertentu."
       },
-      "hikmah": "Mengawali sebuah klausa yang menunjukkan waktu atau kondisi tertentu, yaitu 'apabila datang saat hukuman'. Ini menandai transisi ke bagian kedua dari ayat yang menjelaskan konsekuensi dari kejahatan.",
+      "hikmah": "Mengawali suatu kondisi atau peristiwa yang akan datang, menandakan transisi ke fase atau kejadian berikutnya dalam narasi ayat, yaitu datangnya waktu hukuman.",
       "role": "none"
     },
     {
@@ -154,32 +154,32 @@
       "arti": "datang",
       "sharaf": {
         "akar_kata": "ج ي أ (Jīm, Yā', Hamzah)",
-        "makna_dasar": "Kedatangan, tiba",
-        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau), wazan فَعَلَ (fa'ala)"
+        "makna_dasar": "Kedatangan, tiba.",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau) dari wazan فَعَلَ (fa'ala)."
       },
       "nahwu": {
-        "kedudukan": "Fi'il Madhi, berfungsi sebagai fi'il syarat (kata kerja syarat) untuk إِذَا.",
-        "irab_dan_logika": "Fi'il Madhi, mabni 'ala al-fath (tetap dengan harakat fathah)."
+        "kedudukan": "Fi'il Madhi (kata kerja lampau).",
+        "irab_dan_logika": "Fi'il Madhi mabniyyun 'ala al-fath. Fa'il (subjek) dari fi'il ini adalah 'wa'du' (janji/hukuman) yang akan datang setelahnya."
       },
-      "hikmah": "Menunjukkan permulaan atau terjadinya suatu peristiwa, yaitu datangnya 'janji' atau 'saat hukuman' yang kedua.",
+      "hikmah": "Menunjukkan permulaan suatu peristiwa atau realisasi dari suatu janji atau ancaman yang pasti akan terjadi, dalam konteks ini adalah datangnya waktu hukuman.",
       "role": "none"
     },
     {
       "index": 9,
-      "kata_arab": "وَعْدُ",
+      "kata_arab": "وَعۡدُ",
       "transliterasi": "wa'du",
       "jenis_kata": "Isim",
-      "arti": "janji / saat hukuman",
+      "arti": "janji / ancaman / waktu hukuman",
       "sharaf": {
         "akar_kata": "و ع د (Wāw, 'Ain, Dāl)",
-        "makna_dasar": "Janji, perjanjian, ancaman, waktu yang dijanjikan",
-        "wazan_perubahan": "Isim Mashdar (kata benda dari kata kerja), wazan فَعْلٌ (fa'lun)"
+        "makna_dasar": "Janji, perjanjian, ancaman, waktu yang dijanjikan.",
+        "wazan_perubahan": "Isim Masdar (kata benda verbal) dari fi'il وَعَدَ (wa'ada - berjanji)."
       },
       "nahwu": {
-        "kedudukan": "Fa'il (subjek) dari fi'il جَآءَ.",
-        "irab_dan_logika": "Marfu' (rafa') dengan dhammah, karena ia adalah fa'il (subjek) dari fi'il جَآءَ."
+        "kedudukan": "Fa'il (subjek) dari fi'il 'jā'a'. Juga Mudhaf (kata yang disandarkan).",
+        "irab_dan_logika": "Marfu' bi ad-dammah (rafa' dengan dammah) karena sebagai fa'il. Dammah juga karena dia adalah mudhaf."
       },
-      "hikmah": "Merujuk pada 'janji' atau 'ancaman' Allah yang akan terjadi, dalam konteks ini adalah hukuman atau pembalasan atas kejahatan yang kedua kalinya.",
+      "hikmah": "Merujuk pada ketetapan atau janji Allah yang pasti akan terwujud, dalam konteks ini secara spesifik adalah hukuman atau pembalasan atas kejahatan yang telah dilakukan.",
       "role": "none"
     },
     {
@@ -202,236 +202,236 @@
     },
     {
       "index": 10,
-      "kata_arab": "ٱلْءَاخِرَةِ",
+      "kata_arab": "ٱلۡأٓخِرَةِ",
       "transliterasi": "al-ākhirati",
       "jenis_kata": "Isim",
-      "arti": "yang lain / yang kedua / akhir",
+      "arti": "yang kedua / akhir",
       "sharaf": {
         "akar_kata": "أ خ ر (Alif, Khā', Rā')",
-        "makna_dasar": "Belakang, sesudah, yang terakhir, yang lain",
-        "wazan_perubahan": "Isim Fa'il (kata benda pelaku) atau Isim Sifat, wazan فَاعِلَةٌ (fā'ilah) dengan ta' marbutah."
+        "makna_dasar": "Belakang, terakhir, kemudian.",
+        "wazan_perubahan": "Isim Fa'il atau Isim Sifat dari akar kata. Berfungsi sebagai sifat atau mudhaf ilaih."
       },
       "nahwu": {
-        "kedudukan": "Mudhaf ilaih (kata yang disandarkan kepadanya) dari وَعْدُ.",
-        "irab_dan_logika": "Majrur (jar) dengan kasrah, karena ia adalah mudhaf ilaih dari وَعْدُ. Terdapat alif lam (ال) menunjukkan ma'rifah (spesifik)."
+        "kedudukan": "Mudhaf Ilaih (kata yang disandari) dari 'wa'du'.",
+        "irab_dan_logika": "Majrur bi al-kasrah (jar dengan kasrah) karena sebagai mudhaf ilaih. 'Al' (alif lam) menunjukkan definitif."
       },
-      "hikmah": "Menjelaskan bahwa 'janji' atau 'hukuman' yang dimaksud adalah yang 'kedua' atau 'terakhir' dalam konteks sejarah Bani Israil, setelah hukuman pertama.",
+      "hikmah": "Menentukan bahwa janji atau hukuman yang dimaksud adalah yang 'kedua' atau 'terakhir' dalam serangkaian peristiwa yang telah ditetapkan, mengacu pada peristiwa kehancuran kedua bagi Bani Israil.",
       "role": "none"
     },
     {
       "index": 11,
-      "kata_arab": "لِيَسُۥٓـُٔوا۟",
+      "kata_arab": "لِيَسُـُٔواْ",
       "transliterasi": "liyasū'ū",
-      "jenis_kata": "Huruf + Fi'il",
-      "arti": "agar mereka menyuramkan / untuk mereka berbuat buruk",
+      "jenis_kata": "Fi'il",
+      "arti": "agar mereka menyuramkan / agar mereka berbuat buruk",
       "sharaf": {
-        "akar_kata": "س و ء (Sīn, Wāw, Hamzah)",
-        "makna_dasar": "Buruk, jahat, menyakiti, menyuramkan",
-        "wazan_perubahan": "Fi'il Mudhari' (kata kerja sekarang/akan datang), wazan يَفْعُلُونَ (yaf'ulūna) yang di-nashab-kan oleh lam ta'lil (لِ)."
+        "akar_kata": "س و أ (Sīn, Wāw, Hamzah)",
+        "makna_dasar": "Buruk, jahat, menyuramkan, merusak.",
+        "wazan_perubahan": "Fi'il Mudhari' Mansub (kata kerja sekarang/akan datang yang mansub) dengan 'lām al-ta'līl'. Asalnya يَسُوءُونَ (yasū'ūna), nun dibuang karena mansub."
       },
       "nahwu": {
-        "kedudukan": "Fi'il Mudhari' manshub (nashab) oleh lam ta'lil (لِ), menunjukkan tujuan atau akibat. Wawu al-jama'ah (و) adalah fa'ilnya.",
-        "irab_dan_logika": "لِ adalah huruf jar yang berfungsi sebagai lam ta'lil, mabni 'ala al-kasr. يَسُۥٓـُٔوا۟ adalah Fi'il Mudhari' manshub dengan membuang nun (حذف النون) karena termasuk af'alul khamsah (lima fi'il). Asalnya يَسُوءُونَ (yasū'ūna)."
+        "kedudukan": "Fi'il Mudhari' Mansub. 'Lām' adalah lām al-ta'līl (lam sebab/tujuan). 'Wāw al-jamā'ah' adalah fa'il.",
+        "irab_dan_logika": "Mansub bi hadzfi an-nūn (mansub dengan membuang nun) karena didahului oleh 'lām al-ta'līl' yang menasabkan fi'il mudhari'. 'Wāw al-jamā'ah' adalah dhomir mabniyyun 'ala as-sukūn fi mahalli raf'in fa'il."
       },
-      "hikmah": "Menjelaskan tujuan dari kedatangan musuh-musuh tersebut, yaitu untuk 'menyuramkan muka' atau 'membuat celaka' Bani Israil sebagai bagian dari hukuman yang dijanjikan.",
+      "hikmah": "Menjelaskan tujuan atau akibat dari datangnya hukuman kedua, yaitu untuk mempermalukan dan merendahkan musuh-musuh tersebut, serta menunjukkan kehancuran dan kerusakan yang akan mereka timbulkan.",
       "role": "none"
     },
     {
       "index": 12,
-      "kata_arab": "وُجُوهَكُمْ",
-      "transliterasi": "wujūhakum",
+      "kata_arab": "وُجُوهَكُمۡ",
+      "transliterasi": "wujuhakum",
       "jenis_kata": "Isim",
-      "arti": "wajah-wajah kalian",
+      "arti": "wajah kalian",
       "sharaf": {
-        "akar_kata": "و ج ه",
-        "makna_dasar": "wajah, menghadap",
-        "wazan_perubahan": "Bentuk jamak dari وَجْهٌ (wajah), ditambah dhomir كُمْ (kalian) sebagai mudhaf ilaih."
+        "akar_kata": "wajh",
+        "makna_dasar": "muka, wajah",
+        "wazan_perubahan": "wujuh, jamak"
       },
       "nahwu": {
-        "kedudukan": "Maf'ul bih (objek)",
-        "irab_dan_logika": "Manshub (berharakat fathah) karena berfungsi sebagai maf'ul bih dari fi'il yang tersirat (misalnya, 'Kami suramkan'). Tanda nashabnya adalah fathah pada huruf 'هَ'. Dhomir 'كُمْ' adalah mudhaf ilaih."
+        "kedudukan": "maf'ul bih, objek yang dikenai pekerjaan",
+        "irab_dan_logika": "diberi harakat dammah karena menerima pekerjaan dari kata kerja yang ada sebelumnya"
       },
-      "hikmah": "Kata ini menggambarkan kehinaan dan kekalahan yang akan menimpa mereka, di mana wajah mereka akan disuramkan sebagai tanda aib dan kekalahan yang nyata di hadapan umum.",
+      "hikmah": "wajah kalian akan disuramkan",
       "role": "none"
     },
     {
       "index": 13,
-      "kata_arab": "وَلِيَدْخُلُوا۟",
-      "transliterasi": "waliyadkhulū",
+      "kata_arab": "وَلِيَدۡخُلُواْ",
+      "transliterasi": "walidkhulu",
       "jenis_kata": "Fi'il",
-      "arti": "dan agar mereka masuk",
+      "arti": "dan mereka memasuki",
       "sharaf": {
-        "akar_kata": "د خ ل",
-        "makna_dasar": "masuk",
-        "wazan_perubahan": "Fi'il Mudhari' (kata kerja sekarang/akan datang) dalam bentuk jamak, didahului oleh Lam al-Ta'lil (Lam penyebab/tujuan). Asalnya يَدْخُلُونَ."
+        "akar_kata": "dakhala",
+        "makna_dasar": "memasuki",
+        "wazan_perubahan": "dakhala, fi'il madhi jamak"
       },
       "nahwu": {
-        "kedudukan": "Fi'il Mudhari' manshub",
-        "irab_dan_logika": "Manshub karena didahului oleh Lam al-Ta'lil (Lam yang menunjukkan tujuan), yang menashabkan fi'il mudhari'. Tanda nashabnya adalah حذف النون (membuang huruf nun) karena termasuk Af'alul Khamsah. Huruf wawu (و) adalah fa'il (subjek) yang menunjukkan 'mereka'."
+        "kedudukan": "fi'il, kata kerja",
+        "irab_dan_logika": "diberi harakat sukun karena berupa fi'il madhi jamak"
       },
-      "hikmah": "Menjelaskan tujuan atau akibat dari kedatangan musuh, yaitu untuk memasuki dan menguasai tempat suci, menunjukkan penaklukan total dan dominasi atas wilayah tersebut.",
+      "hikmah": "dan mereka akan memasuki",
       "role": "none"
     },
     {
       "index": 14,
-      "kata_arab": "ٱلْمَسْجِدَ",
-      "transliterasi": "al-masjida",
+      "kata_arab": "ٱلۡمَسۡجِدَ",
+      "transliterasi": "almasjida",
       "jenis_kata": "Isim",
-      "arti": "masjid, tempat sujud",
+      "arti": "masjid",
       "sharaf": {
-        "akar_kata": "س ج د",
-        "makna_dasar": "sujud, tunduk",
-        "wazan_perubahan": "Isim Makan (kata benda tempat) dari fi'il سَجَدَ (sujud). Ditambah alif lam ta'rif (kata sandang tentu)."
+        "akar_kata": "sjad",
+        "makna_dasar": "sujud, tempat sujud",
+        "wazan_perubahan": "masjid, tempat sujud"
       },
       "nahwu": {
-        "kedudukan": "Maf'ul bih (objek)",
-        "irab_dan_logika": "Manshub (berharakat fathah) karena berfungsi sebagai maf'ul bih dari fi'il 'يَدْخُلُوا۟' (mereka masuk). Tanda nashabnya adalah fathah pada huruf 'دَ'."
+        "kedudukan": "maf'ul bih, objek yang dikenai pekerjaan",
+        "irab_dan_logika": "diberi harakat kasrah karena menerima pekerjaan dari kata kerja yang ada sebelumnya"
       },
-      "hikmah": "Merujuk pada Baitul Maqdis (Masjid Al-Aqsa), menunjukkan bahwa penaklukan musuh akan mencapai tempat yang paling suci dan penting bagi umat Islam, sebagai puncak dari kehancuran dan kekalahan.",
+      "hikmah": "masjid",
       "role": "none"
     },
     {
       "index": 15,
       "kata_arab": "كَمَا",
-      "transliterasi": "kamā",
+      "transliterasi": "kama",
       "jenis_kata": "Huruf",
-      "arti": "sebagaimana, seperti",
+      "arti": "sebagaimana",
       "sharaf": {
-        "akar_kata": "Tidak ada akar kata untuk huruf.",
-        "makna_dasar": "Perbandingan, penyerupaan.",
-        "wazan_perubahan": "Gabungan huruf Kaf (huruf tasybih/perumpamaan) dan Ma (mashdariyah/penghubung)."
+        "akar_kata": "kaf, mim, alif",
+        "makna_dasar": "perbandingan",
+        "wazan_perubahan": "kama, huruf perbandingan"
       },
       "nahwu": {
-        "kedudukan": "Huruf tasybih dan Ma mashdariyah",
-        "irab_dan_logika": "Huruf mabni (tidak berubah harakatnya). Kaf adalah huruf jar yang berfungsi sebagai tasybih (perumpamaan), dan Ma adalah Ma mashdariyah yang mengubah fi'il setelahnya menjadi makna mashdar (kata benda verbal)."
+        "kedudukan": "huruf, kata sambung",
+        "irab_dan_logika": "digunakan untuk membandingkan dua kejadian"
       },
-      "hikmah": "Menegaskan bahwa penaklukan kedua ini akan serupa dengan penaklukan pertama, mengindikasikan pola sejarah yang berulang akibat perbuatan mereka dan konsistensi hukuman ilahi.",
+      "hikmah": "sebagaimana",
       "role": "none"
     },
     {
       "index": 16,
       "kata_arab": "دَخَلُوهُ",
-      "transliterasi": "dakhalūhu",
+      "transliterasi": "dakhaluhu",
       "jenis_kata": "Fi'il",
       "arti": "mereka memasukinya",
       "sharaf": {
-        "akar_kata": "د خ ل",
-        "makna_dasar": "masuk",
-        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau) dalam bentuk jamak, ditambah dhomir هُ (nya) sebagai maf'ul bih."
+        "akar_kata": "dakhala",
+        "makna_dasar": "memasuki",
+        "wazan_perubahan": "dakhala, fi'il madhi jamak"
       },
       "nahwu": {
-        "kedudukan": "Fi'il Madhi, fa'il, dan maf'ul bih",
-        "irab_dan_logika": "Fi'il Madhi mabni 'ala ad-dhamm (mabni di atas dhommah) karena bersambung dengan wawu jamak. Wawu (و) adalah fa'il (subjek) yang menunjukkan 'mereka'. Dhomir هُ adalah dhomir muttashil mabni 'ala ad-dhamm fi mahall nashb (dalam posisi nashab) sebagai maf'ul bih, merujuk pada 'masjid'."
+        "kedudukan": "fi'il, kata kerja",
+        "irab_dan_logika": "diberi harakat dammah karena berupa fi'il madhi jamak"
       },
-      "hikmah": "Merujuk pada peristiwa penaklukan pertama Baitul Maqdis, menggarisbawahi bahwa sejarah akan terulang dengan cara yang sama, menekankan konsistensi hukuman ilahi dan kesamaan nasib yang menimpa mereka.",
+      "hikmah": "mereka memasukinya",
       "role": "none"
     },
     {
       "index": 17,
-      "kata_arab": "أَوَّلَ",
+      "kata_arab": "أَوَّلَ",
       "transliterasi": "awwala",
       "jenis_kata": "Isim",
-      "arti": "pertama, yang pertama",
+      "arti": "pertama kali",
       "sharaf": {
-        "akar_kata": "أ و ل",
-        "makna_dasar": "awal, mula",
-        "wazan_perubahan": "Isim Tafdhil (bentuk superlatif) atau Isim Zaman (kata benda waktu) yang menunjukkan 'kali pertama'."
+        "akar_kata": "awwal",
+        "makna_dasar": "pertama",
+        "wazan_perubahan": "awwal, bentuk ism"
       },
       "nahwu": {
-        "kedudukan": "Zharaf Zaman (keterangan waktu)",
-        "irab_dan_logika": "Manshub (berharakat fathah) karena berfungsi sebagai zharaf zaman, menjelaskan waktu terjadinya fi'il 'دَخَلُوهُ' (mereka memasukinya). Tanda nashabnya adalah fathah pada huruf 'لَ'."
+        "kedudukan": "na'at, sifat",
+        "irab_dan_logika": "diberi harakat fatkhah karena berupa na'at"
       },
-      "hikmah": "Mengacu pada kali pertama Baitul Maqdis ditaklukkan, menegaskan bahwa peristiwa yang akan datang adalah pengulangan dari hukuman historis yang telah terjadi sebelumnya, sebagai peringatan akan konsekuensi dari perbuatan mereka.",
+      "hikmah": "pertama kali",
       "role": "none"
     },
     {
       "index": 18,
-      "kata_arab": "مَرَّةٍۢ",
+      "kata_arab": "مَرَّةࣲ",
       "transliterasi": "marratin",
       "jenis_kata": "Isim",
-      "arti": "kali, waktu, giliran",
+      "arti": "kali, waktu",
       "sharaf": {
         "akar_kata": "م ر ر",
-        "makna_dasar": "melewati, berlalu, berulang",
-        "wazan_perubahan": "Isim Marrah (kata benda yang menunjukkan satu kali kejadian), dari fi'il مَرَّ"
+        "makna_dasar": "melewati, berlalu, satu kali",
+        "wazan_perubahan": "Isim Marrah (kata benda yang menunjukkan satu kali kejadian), wazan فَعْلَةٌ (fa'lah)"
       },
       "nahwu": {
         "kedudukan": "Mudhaf Ilaih",
-        "irab_dan_logika": "Majrur (kasrah tanwin) karena menjadi mudhaf ilaih dari kata 'أَوَّلَ' (pertama) dalam frasa 'أَوَّلَ مَرَّةٍ' (kali pertama)."
+        "irab_dan_logika": "Majrur dengan kasrah tanwin (مَرَّةٍ) karena menjadi mudhaf ilaih dari 'أَوَّلَ' (pertama) dalam frasa 'أَوَّلَ مَرَّةٍ' (pertama kali)."
       },
-      "hikmah": "Kata ini menekankan aspek pengulangan atau kejadian tunggal dari suatu peristiwa, khususnya dalam konteks masuknya musuh ke dalam masjid pada 'kali pertama' sebagai perbandingan dengan kejadian yang akan datang.",
+      "hikmah": "Menekankan kejadian yang telah berlalu, yaitu invasi pertama ke Masjidil Aqsa, sebagai perbandingan dengan invasi kedua yang akan datang. Menggambarkan pengulangan sejarah.",
       "role": "none"
     },
     {
       "index": 19,
-      "kata_arab": "وَلِيُتَبِّرُوا۟",
+      "kata_arab": "وَلِيُتَبِّرُواْ",
       "transliterasi": "wa liyutabbirū",
       "jenis_kata": "Fi'il",
-      "arti": "dan agar mereka menghancurkan/membinasakan",
+      "arti": "dan untuk mereka menghancurkan/membinasakan",
       "sharaf": {
         "akar_kata": "ت ب ر",
         "makna_dasar": "menghancurkan, membinasakan, merusak",
-        "wazan_perubahan": "Fi'il Mudhari' Ma'lum (aktif), jamak mudzakkar ghaib, dari Bab II (فَعَّلَ - يُفَعِّلُ). Bentuk aslinya يُتَبِّرُونَ, namun nun dihilangkan karena mansub."
+        "wazan_perubahan": "Fi'il Mudhari' Ma'lum (aktif), dari wazan فَعَّلَ (fa''ala) yaitu تَبَّرَ - يُتَبِّرُ. Lam di depannya adalah Lam Ta'lil (lam sebab/tujuan)."
       },
       "nahwu": {
-        "kedudukan": "Fi'il Mudhari' Mansub",
-        "irab_dan_logika": "Mansub dengan حذف النون (penghapusan nun) karena didahului oleh Lam Ta'lil (لِـ) yang berfungsi sebagai alat penashab (menjadikan mansub). Wawu al-jama'ah (و) adalah fa'il (subjek) yang kembali kepada musuh."
+        "kedudukan": "Fi'il Mudhari' Manshub",
+        "irab_dan_logika": "Manshub (dinashabkan) oleh Lam Ta'lil (لِـ) yang mendahuluinya. Tanda nashabnya adalah dengan membuang huruf Nun (حذف النون) karena termasuk Af'alul Khamsah. Wau jama'ah (و) adalah fa'il (subjek)."
       },
-      "hikmah": "Menegaskan tujuan utama dari kedatangan musuh, yaitu untuk melakukan penghancuran dan pembinasaan secara aktif, sebagai bagian dari hukuman ilahi yang dijatuhkan.",
+      "hikmah": "Menjelaskan tujuan atau akibat dari invasi kedua, yaitu penghancuran total dan pembinasaan segala sesuatu yang mereka kuasai. Menunjukkan tingkat kekejaman dan kehancuran yang akan terjadi.",
       "role": "none"
     },
     {
       "index": 20,
       "kata_arab": "مَا",
       "transliterasi": "mā",
-      "jenis_kata": "Isim Maushul",
-      "arti": "apa yang, apa saja",
+      "jenis_kata": "Isim",
+      "arti": "apa yang, sesuatu yang",
       "sharaf": {
-        "akar_kata": "Tidak ada akar kata (Isim Maushul)",
-        "makna_dasar": "Menghubungkan dua kalimat, menunjukkan sesuatu yang tidak spesifik atau umum",
-        "wazan_perubahan": "Isim Maushul (tidak memiliki wazan sharaf seperti fi'il atau isim musytaq)"
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Menunjukkan sesuatu yang tidak spesifik atau umum",
+        "wazan_perubahan": "Isim Maushul (kata sambung)"
       },
       "nahwu": {
-        "kedudukan": "Maf'ul Bih",
-        "irab_dan_logika": "Mansub secara mahal (kedudukannya mansub) karena menjadi maf'ul bih (objek) dari fi'il 'يُتَبِّرُوا۟'. Isim maushul adalah mabni (tidak berubah harakat akhirnya)."
+        "kedudukan": "Maf'ul Bihi",
+        "irab_dan_logika": "Isim Maushul Mabni (tetap) di atas sukun, dalam posisi Nashab sebagai Maf'ul Bihi (objek) dari fi'il 'يُتَبِّرُواْ'."
       },
-      "hikmah": "Menunjukkan cakupan yang luas dan umum dari objek penghancuran, yaitu segala sesuatu tanpa terkecuali yang berada di bawah kekuasaan atau kendali mereka.",
+      "hikmah": "Menunjukkan cakupan penghancuran yang luas, meliputi 'apa saja' atau 'segala sesuatu' yang mereka kuasai. Menekankan universalitas kehancuran.",
       "role": "none"
     },
     {
       "index": 21,
-      "kata_arab": "عَلَوْا۟",
+      "kata_arab": "عَلَوۡاْ",
       "transliterasi": "alaw",
       "jenis_kata": "Fi'il",
-      "arti": "mereka menguasai, mereka menaklukkan, mereka meninggikan",
+      "arti": "mereka menguasai, mereka menaklukkan, mereka meninggi",
       "sharaf": {
         "akar_kata": "ع ل و",
-        "makna_dasar": "tinggi, naik, menguasai, menaklukkan",
-        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau), jamak mudzakkar ghaib."
+        "makna_dasar": "tinggi, naik, menguasai, mengatasi",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau), jama' mudzakkar gha'ib (mereka laki-laki). Dari wazan فَعَلَ (fa'ala), fi'il ajwaf wawi."
       },
       "nahwu": {
-        "kedudukan": "Fi'il Madhi",
-        "irab_dan_logika": "Mabni 'ala ad-dhamm al-muqaddar 'ala al-alif al-mahdzūfah (mabni di atas dammah yang diperkirakan pada alif yang dibuang) karena bersambung dengan wawu al-jama'ah. Wawu al-jama'ah (و) adalah fa'il (subjek). Kalimat ini menjadi silatul maushul (kalimat penghubung) bagi 'مَا'."
+        "kedudukan": "Shilah Maushul",
+        "irab_dan_logika": "Fi'il Madhi Mabni di atas dhammah muqaddarah (tersembunyi) pada alif yang dibuang karena bertemu wawu jama'ah. Wau jama'ah (و) adalah fa'il (subjek). Kalimat ini berfungsi sebagai Shilah Maushul (kalimat penghubung) untuk Isim Maushul 'مَا'."
       },
-      "hikmah": "Menggambarkan tindakan penguasaan atau penaklukkan yang telah dilakukan oleh musuh, menunjukkan dominasi mereka atas wilayah atau objek tertentu yang kemudian akan menjadi sasaran penghancuran.",
+      "hikmah": "Menjelaskan bahwa penghancuran akan menimpa segala sesuatu yang berada di bawah kekuasaan atau dominasi mereka. Menggambarkan kekuatan dan jangkauan para penyerbu.",
       "role": "none"
     },
     {
       "index": 22,
-      "kata_arab": "تَتْبِيرًا",
+      "kata_arab": "تَتۡبِيرًا",
       "transliterasi": "tatbīran",
       "jenis_kata": "Isim",
-      "arti": "penghancuran, pembinasaan (secara total)",
+      "arti": "penghancuran total, pembinasaan sempurna",
       "sharaf": {
         "akar_kata": "ت ب ر",
-        "makna_dasar": "menghancurkan, membinasakan, merusak",
-        "wazan_perubahan": "Mashdar (kata benda verbal) dari Bab II (فَعَّلَ - تَفْعِيلٌ). Mashdar dari fi'il يُتَبِّرُوا adalah تَتْبِيرٌ."
+        "makna_dasar": "menghancurkan, membinasakan",
+        "wazan_perubahan": "Mashdar (kata benda verbal) dari fi'il wazan فَعَّلَ (fa''ala), yaitu تَبَّرَ - يُتَبِّرُ - تَتْبِيرًا. Wazan mashdarnya adalah تَفْعِيلٌ (taf'īlun)."
       },
       "nahwu": {
         "kedudukan": "Maf'ul Muthlaq",
-        "irab_dan_logika": "Mansub (fathah tanwin) karena menjadi maf'ul muthlaq yang berfungsi untuk menguatkan makna fi'il 'يُتَبِّرُوا۟' (mereka menghancurkan), menunjukkan bahwa penghancuran itu dilakukan secara total dan sempurna."
+        "irab_dan_logika": "Manshub dengan fathah tanwin. Berfungsi sebagai Maf'ul Muthlaq (objek absolut) untuk fi'il 'يُتَبِّرُواْ', yang berfungsi sebagai penegas makna fi'il (li tawkid)."
       },
-      "hikmah": "Menekankan intensitas dan kesempurnaan dari tindakan penghancuran, bahwa pembinasaan yang akan dilakukan adalah secara total, menyeluruh, dan tanpa sisa, sebagai penekanan terhadap hukuman yang dijatuhkan.",
+      "hikmah": "Menekankan intensitas dan kesempurnaan penghancuran. Bukan hanya sekadar merusak, tetapi membinasakan secara total dan menyeluruh, tidak menyisakan apa pun.",
       "role": "none"
     }
   ]

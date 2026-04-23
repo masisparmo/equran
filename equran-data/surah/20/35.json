@@ -1,0 +1,78 @@
+{
+  "surah": 20,
+  "ayah": 35,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "إِنَّكَ",
+      "transliterasi": "innaka",
+      "jenis_kata": "Huruf",
+      "arti": "sesungguhnya kamu",
+      "sharaf": {
+        "akar_kata": "n-k",
+        "makna_dasar": "penekanan",
+        "wazan_perubahan": "tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "kata bantu",
+        "irab_dan_logika": "menguatkan kalimat"
+      },
+      "hikmah": "penekanan untuk memperkuat kalimat",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "كُنتَ",
+      "transliterasi": "kunta",
+      "jenis_kata": "Fi'il",
+      "arti": "kamu adalah",
+      "sharaf": {
+        "akar_kata": "k-w-n",
+        "makna_dasar": "ada atau menjadi",
+        "wazan_perubahan": "kunta"
+      },
+      "nahwu": {
+        "kedudukan": "predikat",
+        "irab_dan_logika": "menghubungkan subjek dan objek"
+      },
+      "hikmah": "menyatakan keadaan atau sifat",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "بِنَا",
+      "transliterasi": "bina",
+      "jenis_kata": "Isim",
+      "arti": "dengan kami",
+      "sharaf": {
+        "akar_kata": "b-w-n",
+        "makna_dasar": "bersama atau menyertai",
+        "wazan_perubahan": "bina"
+      },
+      "nahwu": {
+        "kedudukan": "objek",
+        "irab_dan_logika": "menyatakan hubungan dengan subjek"
+      },
+      "hikmah": "menyatakan kebersamaan atau keterlibatan",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "بَصِيرًۭا",
+      "transliterasi": "basiran",
+      "jenis_kata": "Isim",
+      "arti": "Maha Melihat",
+      "sharaf": {
+        "akar_kata": "b-sh-r",
+        "makna_dasar": "melihat atau memahami",
+        "wazan_perubahan": "basiran"
+      },
+      "nahwu": {
+        "kedudukan": "objek",
+        "irab_dan_logika": "menyatakan sifat atau keadaan"
+      },
+      "hikmah": "menyatakan kemampuan melihat atau memahami",
+      "role": "none"
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "surah": 18,
+  "ayah": 15,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "هَٰٓؤُلَآءِ",
+      "transliterasi": "Hā'ulā'i",
+      "jenis_kata": "Isim",
+      "arti": "Ini (mereka ini)",
+      "sharaf": {
+        "akar_kata": "لا",
+        "makna_dasar": "Menunjuk",
+        "wazan_perubahan": "Isim Isyarah (kata tunjuk), mabni"
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada' (subjek)",
+        "irab_dan_logika": "Mabni 'ala al-kasr (tetap kasrah) pada posisi rafa' (subjek), karena isim isyarah adalah isim mabni."
+      },
+      "hikmah": "Kata ini berfungsi untuk menunjuk secara spesifik kepada 'kaum kami' yang akan dijelaskan selanjutnya, memberikan penekanan pada identitas kelompok yang melakukan tindakan tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "قَوْمُنَا",
+      "transliterasi": "Qawmunā",
+      "jenis_kata": "Isim",
+      "arti": "Kaum kami",
+      "sharaf": {
+        "akar_kata": "ق و م",
+        "makna_dasar": "Berdiri, kaum, kelompok",
+        "wazan_perubahan": "Isim mufrad (qawm) yang di-idhafahkan (disambungkan) dengan dhamir muttasil (nā - kami)."
+      },
+      "nahwu": {
+        "kedudukan": "Khabar (predikat) dari mubtada' هَٰٓؤُلَآءِ",
+        "irab_dan_logika": "Marfu' (rafa') dengan dhammah karena berfungsi sebagai khabar. Dhamir 'nā' (kami) adalah mudhaf ilaih, sehingga kata 'qawmu' berharakat dhammah."
+      },
+      "hikmah": "Menjelaskan identitas dari 'mereka ini' sebagai 'kaum kami', menunjukkan hubungan kekerabatan atau komunitas, sekaligus menegaskan bahwa tindakan yang akan disebutkan berasal dari kelompok internal mereka sendiri.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "ٱتَّخَذُوا۟",
+      "transliterasi": "Ittakhadhū",
+      "jenis_kata": "Fi'il",
+      "arti": "Mereka telah menjadikan/mengambil",
+      "sharaf": {
+        "akar_kata": "أ خ ذ",
+        "makna_dasar": "Mengambil, menjadikan",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau) dari Bab VIII (افتعل - ifta'ala), menunjukkan tindakan yang telah terjadi di masa lalu oleh sekelompok orang."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il (kata kerja)",
+        "irab_dan_logika": "Mabni 'ala ad-dhamm (tetap dhammah) karena bersambung dengan wawu al-jama'ah (mereka). Wawu al-jama'ah adalah fa'il (subjek) dari fi'il ini."
+      },
+      "hikmah": "Kata kerja ini menunjukkan tindakan aktif dan disengaja oleh kaum tersebut, yaitu 'menjadikan' atau 'mengambil' sesuatu sebagai sesembahan, yang merupakan inti dari penyimpangan mereka.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "مِن",
+      "transliterasi": "Min",
+      "jenis_kata": "Huruf",
+      "arti": "Dari, selain",
+      "sharaf": {
+        "akar_kata": "Tidak ada",
+        "makna_dasar": "Menunjukkan permulaan, sebagian, atau pengecualian",
+        "wazan_perubahan": "Huruf jar (preposisi), tidak memiliki wazan sharaf."
+      },
+      "nahwu": {
+        "kedudukan": "Harf Jar (huruf preposisi)",
+        "irab_dan_logika": "Mabni 'ala as-sukūn (tetap sukun), berfungsi sebagai huruf jar yang menjadikan isim setelahnya majrur (berharakat kasrah)."
+      },
+      "hikmah": "Dalam konteks ini, 'min' berfungsi untuk menunjukkan pengecualian atau pemisahan, yaitu 'selain' Allah, menegaskan bahwa sesembahan mereka bukan Allah Yang Maha Esa.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "دُونِهِۦٓ",
+      "transliterasi": "Dūnihī",
+      "jenis_kata": "Isim",
+      "arti": "Selain-Nya, di bawah-Nya",
+      "sharaf": {
+        "akar_kata": "د و ن",
+        "makna_dasar": "Bawah, selain, tanpa",
+        "wazan_perubahan": "Isim jamid (kata benda mati) yang di-idhafahkan (disambungkan) dengan dhamir muttasil (hī - Nya)."
+      },
+      "nahwu": {
+        "kedudukan": "Majrur (setelah huruf jar 'min'), dan mudhaf",
+        "irab_dan_logika": "Majrur dengan kasrah karena didahului oleh huruf jar 'min'. Dhamir 'hī' (Nya) adalah mudhaf ilaih, merujuk kepada Allah."
+      },
+      "hikmah": "Kata ini memperkuat makna 'selain Allah', secara eksplisit menunjukkan bahwa sesembahan mereka berada di luar atau 'di bawah' otoritas dan keesaan Allah, menekankan kesesatan mereka dalam memilih tuhan.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "ءَالِهَةًۭ",
+      "transliterasi": "Ālihatan",
+      "jenis_kata": "Isim",
+      "arti": "Tuhan-tuhan",
+      "sharaf": {
+        "akar_kata": "أ ل ه",
+        "makna_dasar": "Menyembah, Tuhan",
+        "wazan_perubahan": "Isim jamak (plural) dari إله (ilāh - tuhan), menunjukkan banyak sesembahan."
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul Bih (objek) dari fi'il ٱتَّخَذُوا۟",
+        "irab_dan_logika": "Mansub (nashab) dengan fathatain (tanwin fathah) karena berfungsi sebagai objek langsung dari kata kerja 'mereka telah menjadikan'."
+      },
+      "hikmah": "Kata ini secara langsung menyebutkan apa yang mereka jadikan sebagai sesembahan, yaitu 'tuhan-tuhan' dalam bentuk jamak, menggarisbawahi praktik syirik (menyekutukan Allah) yang mereka lakukan.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "لَّوْلَا",
+      "transliterasi": "Lawlā",
+      "jenis_kata": "Huruf",
+      "arti": "Mengapa tidak? / Bukankah seharusnya?",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf tahdid (dorongan/cela) atau istifham (pertanyaan) yang mengandung makna celaan.",
+        "irab_dan_logika": "Huruf mabni (tetap) tidak memiliki kedudukan i'rab."
+      },
+      "hikmah": "Menunjukkan pertanyaan retoris yang mengandung celaan atau dorongan kuat, 'Mengapa mereka tidak melakukan ini?'",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "يَأْتُونَ",
+      "transliterasi": "Ya'tūna",
+      "jenis_kata": "Fi'il",
+      "arti": "Mereka datang / Mereka mendatangkan / Mereka mengemukakan",
+      "sharaf": {
+        "akar_kata": "أ ت ي (A-T-Y)",
+        "makna_dasar": "Datang, tiba, membawa, mendatangkan.",
+        "wazan_perubahan": "Fi'il Mudhari' (kata kerja sekarang/akan datang), wazan فَعَلَ - يَفْعُلُ atau فَعَلَ - يَفْعِلُ (untuk fi'il naqis). Bentuk jamak mudzakkar ghaib."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' marfu' (rafa').",
+        "irab_dan_logika": "Marfu' karena tidak didahului oleh amil nashib (penashab) atau amil jazim (penjazam). Tanda rafa'nya adalah tetapnya huruf nun (ن) karena termasuk Af'alul Khamsah (lima kata kerja). Wawu jama'ah (و) adalah fa'il (subjek) yang kembali kepada 'mereka' (kaum)."
+      },
+      "hikmah": "Menggambarkan tindakan aktif 'mendatangkan' atau 'mengemukakan' sesuatu, dalam konteks ini adalah alasan atau bukti.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "عَلَيْهِم",
+      "transliterasi": "ʿAlayhim",
+      "jenis_kata": "Huruf + Dhamir",
+      "arti": "Atas mereka / Terhadap mereka",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Jar Majrur (preposisi dan objeknya).",
+        "irab_dan_logika": "ʿAlā (على) adalah huruf jar, sehingga dhamir hum (هم) yang bersambung dengannya berada dalam posisi jar (majrur). Dhamir hum (هم) adalah dhamir muttasil mabni fi mahalli jarr."
+      },
+      "hikmah": "Menunjukkan arah atau hubungan 'atas' atau 'terhadap' suatu kelompok (mereka), dalam konteks ini, bukti yang harus dikemukakan 'atas' atau 'untuk' kepercayaan mereka.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "بِسُلْطَٰنٍۭ",
+      "transliterasi": "Bisulṭānin",
+      "jenis_kata": "Huruf + Isim",
+      "arti": "Dengan bukti / Dengan alasan / Dengan kekuasaan",
+      "sharaf": {
+        "akar_kata": "س ل ط (S-L-Ṭ)",
+        "makna_dasar": "Kekuasaan, otoritas, bukti, argumen.",
+        "wazan_perubahan": "Isim (kata benda), wazan فُعْلَان (fu'lān)."
+      },
+      "nahwu": {
+        "kedudukan": "Jar Majrur (preposisi dan objeknya).",
+        "irab_dan_logika": "Huruf ba' (بِ) adalah huruf jar, sehingga Sulṭānin (سُلْطَانٍ) adalah isim majrur (dijarkan). Tanda jarnya adalah kasrah tanwin (ٍ)."
+      },
+      "hikmah": "Menekankan pentingnya 'bukti' atau 'alasan yang kuat' sebagai dasar suatu klaim atau kepercayaan.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "بَيِّنٍۢ",
+      "transliterasi": "Bayyinin",
+      "jenis_kata": "Isim",
+      "arti": "Jelas / Terang / Nyata",
+      "sharaf": {
+        "akar_kata": "ب ي ن (B-Y-N)",
+        "makna_dasar": "Jelas, terang, memisahkan, menjelaskan.",
+        "wazan_perubahan": "Isim Fa'il atau Sifat Musyabbahah dari wazan فَعَّلَ menjadi فَعِيل atau فَعِّل."
+      },
+      "nahwu": {
+        "kedudukan": "Na'at (kata sifat) dari Sulṭānin.",
+        "irab_dan_logika": "Mengikuti ma'nutnya (Sulṭānin) dalam i'rab, yaitu majrur. Tanda jarnya adalah kasrah tanwin (ٍ)."
+      },
+      "hikmah": "Menguatkan makna 'bukti' atau 'alasan' dengan menambahkan sifat 'jelas' atau 'terang', menunjukkan bahwa bukti tersebut haruslah tidak meragukan dan mudah dipahami.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "فَمَنْ",
+      "transliterasi": "Faman",
+      "jenis_kata": "Huruf + Isim Istifham",
+      "arti": "Maka siapa? / Siapakah yang?",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf fa' (فَ) adalah huruf 'athaf (penghubung) atau isti'naf (permulaan kalimat baru). Man (مَنْ) adalah isim istifham (kata tanya) yang berfungsi sebagai mubtada' (subjek) dalam kalimat tanya retoris.",
+        "irab_dan_logika": "Huruf fa' (فَ) adalah mabni. Man (مَنْ) adalah isim istifham mabni 'ala sukun fi mahalli rafa' sebagai mubtada'."
+      },
+      "hikmah": "Memulai pertanyaan retoris yang kuat, 'Maka siapakah yang...', untuk menarik perhatian pada perbandingan atau penegasan yang akan datang.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "أَظْلَمُ",
+      "transliterasi": "aẓlamu",
+      "jenis_kata": "Isim",
+      "arti": "paling zalim / lebih zalim",
+      "sharaf": {
+        "akar_kata": "ظ ل م",
+        "makna_dasar": "kezaliman, kegelapan, menempatkan sesuatu bukan pada tempatnya",
+        "wazan_perubahan": "أَفْعَلُ (Isim Tafdhil)"
+      },
+      "nahwu": {
+        "kedudukan": "Khabar dari Isim Istifham (مَنْ) yang berfungsi sebagai mubtada'",
+        "irab_dan_logika": "Marfu' (rafa') dengan dhammah karena sebagai khabar"
+      },
+      "hikmah": "Menekankan tingkat kezaliman yang paling tinggi, yaitu mengada-adakan kebohongan terhadap Allah.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "مِمَّنِ",
+      "transliterasi": "mimmanī",
+      "jenis_kata": "Huruf",
+      "arti": "daripada orang yang / dari siapa",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Jar wa Majrur (gabungan dari مِنْ + مَنْ)",
+        "irab_dan_logika": "مَنْ adalah isim maushul mabniy (tetap) dalam posisi jar karena didahului huruf jar مِنْ. Nun pada مِنْ diidghamkan ke mim pada مَنْ, dan kasrah pada nun (مِمَّنِ) adalah untuk menyambung ke kata berikutnya yang diawali hamzah washal."
+      },
+      "hikmah": "Menunjukkan perbandingan atau permulaan dari suatu kelompok, dalam konteks ini, kelompok orang-orang yang paling zalim.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "ٱفْتَرَىٰ",
+      "transliterasi": "iftarā",
+      "jenis_kata": "Fi'il",
+      "arti": "mengada-adakan kebohongan / membuat-buat dusta",
+      "sharaf": {
+        "akar_kata": "ف ر ي",
+        "makna_dasar": "membelah, membuat-buat, mengarang, berdusta",
+        "wazan_perubahan": "اِفْتَعَلَ"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Madhi, fa'ilnya adalah dhamir mustatir (tersembunyi) yang kembali kepada مَنْ pada مِمَّنِ",
+        "irab_dan_logika": "Fi'il Madhi mabniy (tetap) di atas fathah muqaddarah (tersembunyi) pada alif layyinah"
+      },
+      "hikmah": "Menggambarkan tindakan aktif dan sengaja dalam menciptakan kebohongan atau dusta, khususnya terhadap Allah.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "عَلَى",
+      "transliterasi": "ʿalā",
+      "jenis_kata": "Huruf",
+      "arti": "atas / terhadap",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Jar",
+        "irab_dan_logika": "Huruf mabniy (tetap) di atas sukun muqaddarah (tersembunyi) pada alif layyinah. Berfungsi menjarkan isim setelahnya."
+      },
+      "hikmah": "Menunjukkan arah atau objek dari tindakan 'mengada-adakan kebohongan', yaitu 'terhadap' atau 'atas' Allah.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "ٱللَّهِ",
+      "transliterasi": "Allāhi",
+      "jenis_kata": "Isim",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "أ ل ه",
+        "makna_dasar": "Tuhan, yang disembah",
+        "wazan_perubahan": "N/A (Isim alam)"
+      },
+      "nahwu": {
+        "kedudukan": "Isim Majrur",
+        "irab_dan_logika": "Majrur (jar) dengan kasrah karena didahului oleh huruf jar عَلَى (ʿalā)"
+      },
+      "hikmah": "Menegaskan bahwa kebohongan tersebut diarahkan kepada Dzat Yang Maha Agung, Allah SWT, yang menjadikan kezaliman ini sangat besar.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "كَذِبًۭا",
+      "transliterasi": "każiban",
+      "jenis_kata": "Isim",
+      "arti": "kebohongan / dusta",
+      "sharaf": {
+        "akar_kata": "ك ذ ب",
+        "makna_dasar": "dusta, bohong",
+        "wazan_perubahan": "فَعَلٌ (mashdar)"
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul Mutlaq atau Maf'ul Bih",
+        "irab_dan_logika": "Manshub (nashab) dengan fathatain karena sebagai Maf'ul Mutlaq yang menjelaskan jenis perbuatan atau Maf'ul Bih yang menjelaskan apa yang diada-adakan."
+      },
+      "hikmah": "Mengkonfirmasi dan memperjelas sifat dari apa yang diada-adakan, yaitu 'kebohongan' atau 'dusta', menekankan keseriusan dan sifat tercela dari tindakan tersebut.",
+      "role": "none"
+    }
+  ]
+}

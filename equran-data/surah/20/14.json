@@ -1,0 +1,204 @@
+{
+  "surah": 20,
+  "ayah": 14,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "إِنَّنِىٓ",
+      "transliterasi": "innanii",
+      "jenis_kata": "Huruf",
+      "arti": "sesungguhnya aku",
+      "sharaf": {
+        "akar_kata": "n-y",
+        "makna_dasar": "penegasan",
+        "wazan_perubahan": "innani"
+      },
+      "nahwu": {
+        "kedudukan": "mubtada",
+        "irab_dan_logika": "berfungsi sebagai penghubung untuk menegaskan predikat"
+      },
+      "hikmah": "menegaskan kebenaran pernyataan yang akan disampaikan",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "أَنَا",
+      "transliterasi": "ana",
+      "jenis_kata": "Isim",
+      "arti": "aku",
+      "sharaf": {
+        "akar_kata": "a-n",
+        "makna_dasar": "keakuan",
+        "wazan_perubahan": "ana"
+      },
+      "nahwu": {
+        "kedudukan": "predikat",
+        "irab_dan_logika": "menjelaskan identitas subyek"
+      },
+      "hikmah": "menyatakan keberadaan diri sebagai subyek",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "ٱللَّهُ",
+      "transliterasi": "allahu",
+      "jenis_kata": "Isim",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "l-h",
+        "makna_dasar": "kesucian",
+        "wazan_perubahan": "allah"
+      },
+      "nahwu": {
+        "kedudukan": "khabar",
+        "irab_dan_logika": "menjelaskan sifat subyek"
+      },
+      "hikmah": "menyatakan keberadaan Allah sebagai satu-satunya Tuhan",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "لَآ",
+      "transliterasi": "la",
+      "jenis_kata": "Huruf",
+      "arti": "tidak",
+      "sharaf": {
+        "akar_kata": "l-a",
+        "makna_dasar": "peniadaan",
+        "wazan_perubahan": "la"
+      },
+      "nahwu": {
+        "kedudukan": "penghubung",
+        "irab_dan_logika": "menyangkal keberadaan sesuatu"
+      },
+      "hikmah": "menyangkal keberadaan tuhan lain selain Allah",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "إِلَٰهَ",
+      "transliterasi": "ilaha",
+      "jenis_kata": "Isim",
+      "arti": "tuhan",
+      "sharaf": {
+        "akar_kata": "l-h",
+        "makna_dasar": "kesucian",
+        "wazan_perubahan": "ilah"
+      },
+      "nahwu": {
+        "kedudukan": "objek",
+        "irab_dan_logika": "menjelaskan sesuatu yang disangkal"
+      },
+      "hikmah": "menyatakan bahwa tidak ada tuhan lain selain Allah",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "إِلَّآ",
+      "transliterasi": "illa",
+      "jenis_kata": "Huruf",
+      "arti": "kecuali",
+      "sharaf": {
+        "akar_kata": "l-a",
+        "makna_dasar": "pengecualian",
+        "wazan_perubahan": "illa"
+      },
+      "nahwu": {
+        "kedudukan": "penghubung",
+        "irab_dan_logika": "mengecualikan sesuatu dari peniadaan"
+      },
+      "hikmah": "mengecualikan Allah dari peniadaan tuhan lain",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "أَنَا۠",
+      "transliterasi": "ana",
+      "jenis_kata": "Huruf",
+      "arti": "saya, aku",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "subyek kalimat",
+        "irab_dan_logika": "berupa dhomir muttashil yang menunjukkan subyek kalimat"
+      },
+      "hikmah": "Menunjukkan bahwa yang berbicara adalah Allah sendiri, yang menegaskan ke-Esaan-Nya",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "فَٱعْبُدْنِى",
+      "transliterasi": "fa'budni",
+      "jenis_kata": "Fi'il",
+      "arti": "sembahlah aku",
+      "sharaf": {
+        "akar_kata": "abada",
+        "makna_dasar": "menyembah, mengabdi",
+        "wazan_perubahan": "fa'ala"
+      },
+      "nahwu": {
+        "kedudukan": "predikat kalimat",
+        "irab_dan_logika": "berupa fi'il perintah yang mengharuskan objeknya untuk menyembah"
+      },
+      "hikmah": "Menunjukkan perintah untuk menyembah dan mengabdi hanya kepada Allah",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "وَأَقِمِ",
+      "transliterasi": "wa aqimi",
+      "jenis_kata": "Fi'il",
+      "arti": "dan dirikanlah",
+      "sharaf": {
+        "akar_kata": "qama",
+        "makna_dasar": "berdiri, mendirikan",
+        "wazan_perubahan": "fa'ala"
+      },
+      "nahwu": {
+        "kedudukan": "predikat kalimat",
+        "irab_dan_logika": "berupa fi'il perintah yang mengharuskan objeknya untuk mendirikan"
+      },
+      "hikmah": "Menunjukkan perintah untuk mendirikan shalat sebagai sarana untuk mengingat Allah",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "ٱلصَّلَوٰةَ",
+      "transliterasi": "ash-shalata",
+      "jenis_kata": "Isim",
+      "arti": "shalat",
+      "sharaf": {
+        "akar_kata": "shala",
+        "makna_dasar": "doa, shalat",
+        "wazan_perubahan": "alif-lam"
+      },
+      "nahwu": {
+        "kedudukan": "objek kalimat",
+        "irab_dan_logika": "berupa maf'ul bih yang menunjukkan objek dari perintah mendirikan"
+      },
+      "hikmah": "Menunjukkan bahwa shalat adalah sarana untuk mengingat dan mendekatkan diri kepada Allah",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "لِذِكْرِىٓ",
+      "transliterasi": "lidhikri",
+      "jenis_kata": "Isim",
+      "arti": "untuk mengingatku",
+      "sharaf": {
+        "akar_kata": "dhikra",
+        "makna_dasar": "mengingat, kenangan",
+        "wazan_perubahan": "li-"
+      },
+      "nahwu": {
+        "kedudukan": "maf'ul fih",
+        "irab_dan_logika": "berupa maf'ul fih yang menunjukkan tujuan dari perintah mendirikan shalat"
+      },
+      "hikmah": "Menunjukkan bahwa tujuan dari mendirikan shalat adalah untuk mengingat dan mendekatkan diri kepada Allah",
+      "role": "none"
+    }
+  ]
+}

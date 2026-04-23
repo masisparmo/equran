@@ -1,0 +1,330 @@
+{
+  "surah": 17,
+  "ayah": 67,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "وَإِذَا",
+      "transliterasi": "wa-idhā",
+      "jenis_kata": "Huruf dan Isim",
+      "arti": "Dan apabila",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk huruf dan zharaf mabni",
+        "makna_dasar": "Wawu: penghubung; Idhā: kondisi waktu",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Wawu adalah huruf 'athaf (penghubung), Idhā adalah zharaf zaman (keterangan waktu) yang mengandung makna syarat.",
+        "irab_dan_logika": "Wawu mabniyyun 'ala al-fath (tetap fathah), Idhā mabniyyun 'ala as-sukūn (tetap sukun) pada posisi nashab sebagai zharaf."
+      },
+      "hikmah": "Mengawali kalimat dengan menunjukkan hubungan sebab-akibat atau kondisi waktu, 'Dan apabila' menandakan permulaan suatu peristiwa atau kondisi yang akan dijelaskan selanjutnya.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "مَسَّكُمُ",
+      "transliterasi": "massakumū",
+      "jenis_kata": "Fi'il dan Dhamir",
+      "arti": "menimpa kalian",
+      "sharaf": {
+        "akar_kata": "م س س (M-S-S)",
+        "makna_dasar": "menyentuh, menimpa, mengenai",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau) dari wazan فَعَلَ (fa'ala). Bentuk aslinya مَسَّ (massa). Penambahan 'kum' adalah dhamir muttashil (kata ganti bersambung)."
+      },
+      "nahwu": {
+        "kedudukan": "مَسَّ adalah Fi'il Madhi. كُمُ adalah dhamir muttashil, maf'ul bih (objek) yang dinashabkan.",
+        "irab_dan_logika": "مَسَّ mabniyyun 'ala al-fath (tetap fathah). كُمُ adalah dhamir mabniyyun 'ala as-sukūn (tetap sukun) pada posisi nashab. Huruf mim pada كُمُ didhammah karena bertemu dengan alif lam qamariyah pada kata berikutnya (ٱلضُّرُّ) untuk menghindari dua sukun (kaidah iltiqa' as-sakinain)."
+      },
+      "hikmah": "Menunjukkan tindakan atau kejadian yang menimpa secara langsung, dalam konteks ini adalah bahaya yang menimpa manusia.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "ٱلضُّرُّ",
+      "transliterasi": "adh-dhurru",
+      "jenis_kata": "Isim",
+      "arti": "bahaya, kemudaratan",
+      "sharaf": {
+        "akar_kata": "ض ر ر (Dh-R-R)",
+        "makna_dasar": "bahaya, kerugian, kesulitan",
+        "wazan_perubahan": "Isim Masdar atau Isim Sifat (bentuk kata benda dari akar kata)."
+      },
+      "nahwu": {
+        "kedudukan": "Fa'il (subjek) dari fi'il مَسَّكُمُ.",
+        "irab_dan_logika": "Marfu' (dirafa'kan) dengan dhammah zhahirah di akhirnya, karena ia adalah fa'il. Alif lam (ال) adalah huruf ta'rif (penentu)."
+      },
+      "hikmah": "Merujuk pada segala bentuk kesulitan, musibah, atau bahaya yang dapat menimpa manusia, menekankan sifat universal dari penderitaan.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "فِى",
+      "transliterasi": "fī",
+      "jenis_kata": "Huruf",
+      "arti": "di, di dalam",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk huruf",
+        "makna_dasar": "Menunjukkan tempat, waktu, atau sebab.",
+        "wazan_perubahan": "Tidak berlaku untuk huruf"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Jar (preposisi).",
+        "irab_dan_logika": "Mabniyyun 'ala as-sukūn (tetap sukun). Huruf Jar menjadikan isim setelahnya majrur (dijarrkan)."
+      },
+      "hikmah": "Menunjukkan lokasi atau konteks terjadinya bahaya, yaitu 'di lautan', memperjelas situasi yang digambarkan.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "ٱلْبَحْرِ",
+      "transliterasi": "al-bahri",
+      "jenis_kata": "Isim",
+      "arti": "laut, lautan",
+      "sharaf": {
+        "akar_kata": "ب ح ر (B-H-R)",
+        "makna_dasar": "laut, samudera, luas",
+        "wazan_perubahan": "Isim Mufrad (kata benda tunggal)."
+      },
+      "nahwu": {
+        "kedudukan": "Isim Majrur oleh huruf Jar فِى.",
+        "irab_dan_logika": "Majrur (dijarrkan) dengan kasrah zhahirah di akhirnya, karena didahului oleh huruf Jar فِى."
+      },
+      "hikmah": "Menentukan lokasi spesifik bahaya, yaitu lautan, yang secara historis dan kultural sering dikaitkan dengan risiko dan ketidakpastian, sehingga memperkuat gambaran kesulitan yang ekstrem.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "ضَلَّ",
+      "transliterasi": "dhalla",
+      "jenis_kata": "Fi'il",
+      "arti": "hilang, tersesat, melupakan",
+      "sharaf": {
+        "akar_kata": "ض ل ل (Dh-L-L)",
+        "makna_dasar": "tersesat, menyimpang, hilang, lupa",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau) dari wazan فَعَلَ (fa'ala)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Madhi.",
+        "irab_dan_logika": "Mabniyyun 'ala al-fath (tetap fathah). Fa'ilnya adalah dhamir mustatir (tersembunyi) yang kembali kepada 'siapa yang kamu seru' atau 'sesuatu yang diseru selain Allah'. Dalam konteks ayat, ini berarti 'hilanglah siapa yang kamu seru kecuali Dia'."
+      },
+      "hikmah": "Menunjukkan kondisi di mana segala sesuatu selain Allah menjadi tidak berdaya atau terlupakan di saat bahaya besar, menegaskan keesaan Allah sebagai satu-satunya penyelamat.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "مَن",
+      "transliterasi": "man",
+      "jenis_kata": "Isim",
+      "arti": "siapa, barangsiapa",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Penunjuk objek atau subjek yang tidak spesifik",
+        "wazan_perubahan": "Tidak berlaku (Isim Mabni)"
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul bih (objek) dari fi'il 'تَدْعُونَ'",
+        "irab_dan_logika": "Mabni (tetap) di atas sukun, dalam posisi nashab sebagai maf'ul bih."
+      },
+      "hikmah": "Kata ini merujuk pada segala sesuatu atau siapa saja yang diseru atau disembah oleh manusia selain Allah, yang pada akhirnya akan lenyap atau tidak dapat memberikan pertolongan saat bahaya besar.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "تَدْعُونَ",
+      "transliterasi": "tad'ūna",
+      "jenis_kata": "Fi'il",
+      "arti": "kamu sekalian menyeru/memanggil/berdoa",
+      "sharaf": {
+        "akar_kata": "د ع و (d-'-w)",
+        "makna_dasar": "menyeru, memanggil, berdoa",
+        "wazan_perubahan": "Fi'il Mudhari' dari Bab I (فَعَلَ - يَفْعُلُ), wazan تَفْعُلُونَ (untuk jamak mudzakkar mukhatab)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il (kata kerja) dan Fa'il (subjek) berupa wawu jamak.",
+        "irab_dan_logika": "Marfu' dengan tetapnya nun (ثبوت النون) karena termasuk Af'alul Khamsah (lima fi'il)."
+      },
+      "hikmah": "Menggambarkan tindakan manusia yang secara rutin atau kebiasaan menyeru atau berdoa kepada selain Allah, menunjukkan ketergantungan mereka pada entitas lain sebelum menghadapi bahaya yang sesungguhnya.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "إِلَّآ",
+      "transliterasi": "illā",
+      "jenis_kata": "Huruf",
+      "arti": "kecuali",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Pengecualian",
+        "wazan_perubahan": "Tidak berlaku (Huruf)"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf istitsna' (pengecualian).",
+        "irab_dan_logika": "Mabni (tetap) di atas sukun, tidak memiliki kedudukan i'rab."
+      },
+      "hikmah": "Kata ini berfungsi sebagai penegas bahwa di antara semua yang diseru, hanya satu entitas yang dikecualikan, yaitu Allah, yang menunjukkan keesaan-Nya dalam kemampuan menolong.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "إِيَّاهُ",
+      "transliterasi": "iyyāhu",
+      "jenis_kata": "Isim",
+      "arti": "Dia (hanya Dia)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Penekanan pada dhamir ghaib (Dia)",
+        "wazan_perubahan": "Tidak berlaku (Dhamir Mabni)"
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul bih muqaddam (objek yang didahulukan) dari fi'il yang dihilangkan (تقدير: تدعون إياه).",
+        "irab_dan_logika": "Mabni (tetap) di atas sukun (pada إيا), dalam posisi nashab. Huruf هُ adalah dhamir muttashil yang menunjukkan ghaib (Dia)."
+      },
+      "hikmah": "Memberikan penekanan kuat bahwa hanya Allah (Dia) yang tetap diseru dan dapat memberikan pertolongan, mengesampingkan semua yang lain. Ini adalah manifestasi tauhid dalam kondisi genting.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "فَلَمَّا",
+      "transliterasi": "falammā",
+      "jenis_kata": "Huruf",
+      "arti": "maka ketika, lalu ketika",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Urutan waktu dan sebab-akibat",
+        "wazan_perubahan": "Tidak berlaku (Huruf)"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf 'athaf (فَ) dan Huruf syarat (لَمَّا).",
+        "irab_dan_logika": "Mabni (tetap) di atas sukun, tidak memiliki kedudukan i'rab."
+      },
+      "hikmah": "Kata ini berfungsi sebagai penghubung yang menunjukkan transisi waktu dan sebab-akibat, mengaitkan peristiwa penyelamatan dengan respons manusia yang tidak bersyukur.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "نَجَّىٰكُمْ",
+      "transliterasi": "najjākum",
+      "jenis_kata": "Fi'il",
+      "arti": "Dia menyelamatkan kalian",
+      "sharaf": {
+        "akar_kata": "ن ج و (n-j-w)",
+        "makna_dasar": "menyelamatkan, melepaskan dari bahaya",
+        "wazan_perubahan": "Fi'il Madhi dari Bab II (فَعَّلَ), wazan فَعَّلَ. Dhamir كُمْ (kalian) adalah maf'ul bih."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il (kata kerja) dan Fa'il (subjek) berupa dhamir mustatir (Dia/Allah). كُمْ adalah Maf'ul bih (objek).",
+        "irab_dan_logika": "Fi'il Madhi mabni di atas fathah muqaddarah (tersembunyi) di atas alif maqsurah karena ta'addur (ketidakmungkinan). كُمْ adalah dhamir muttashil mabni di atas sukun, dalam posisi nashab sebagai maf'ul bih."
+      },
+      "hikmah": "Menggambarkan tindakan penyelamatan Allah yang Maha Kuasa dan penuh rahmat, yang seharusnya memicu rasa syukur dan ketaatan, namun ironisnya justru diikuti oleh pengingkaran manusia.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "إِلَى",
+      "transliterasi": "ilā",
+      "jenis_kata": "Huruf",
+      "arti": "ke, kepada, menuju",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk huruf",
+        "makna_dasar": "Tidak berlaku untuk huruf",
+        "wazan_perubahan": "Tidak berlaku untuk huruf"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Jar",
+        "irab_dan_logika": "Huruf Jar yang berfungsi menjadikan Isim setelahnya majrur (berharakat kasrah)."
+      },
+      "hikmah": "Menunjukkan arah atau tujuan, dalam konteks ini 'ke daratan', sebagai tempat tujuan setelah diselamatkan dari lautan.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "ٱلْبَرِّ",
+      "transliterasi": "al-barr",
+      "jenis_kata": "Isim",
+      "arti": "daratan, tanah kering",
+      "sharaf": {
+        "akar_kata": "ب ر ر (B-R-R)",
+        "makna_dasar": "kebaikan, daratan, kesalehan",
+        "wazan_perubahan": "Isim (bentuk dasar)"
+      },
+      "nahwu": {
+        "kedudukan": "Isim Majrur",
+        "irab_dan_logika": "Majrur karena didahului oleh Huruf Jar 'إِلَى'. Tanda jarnya adalah kasrah pada huruf ra' (ٱلْبَرِّ)."
+      },
+      "hikmah": "Merujuk pada daratan sebagai tempat keselamatan dan perlindungan setelah menghadapi bahaya di lautan, menyoroti kontras antara bahaya dan keamanan.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "أَعْرَضْتُمْ",
+      "transliterasi": "a'raḍtum",
+      "jenis_kata": "Fi'il",
+      "arti": "kamu berpaling",
+      "sharaf": {
+        "akar_kata": "ع ر ض (Ain-Ra-Dhad)",
+        "makna_dasar": "memalingkan, menolak, menampakkan",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau), wazan أفعل (af'ala), dhomir أنتم (antum - kalian laki-laki)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Madhi",
+        "irab_dan_logika": "Fi'il Madhi mabni (tetap) di atas sukun karena bersambung dengan ta' fa'il (تُمْ). Ta' (تُمْ) adalah dhomir fa'il (subjek) yang menunjukkan 'kalian'."
+      },
+      "hikmah": "Menggambarkan tindakan manusia yang melupakan pertolongan Allah setelah diselamatkan, menunjukkan sifat ingkar janji atau tidak bersyukur yang cepat muncul setelah bahaya berlalu.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "وَكَانَ",
+      "transliterasi": "wa kāna",
+      "jenis_kata": "Huruf dan Fi'il",
+      "arti": "dan adalah, dan telah menjadi",
+      "sharaf": {
+        "akar_kata": "ك و ن (K-W-N)",
+        "makna_dasar": "ada, terjadi, menjadi",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau), wazan فعل (fa'ala), dhomir هو (huwa - dia laki-laki)."
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Athaf (و) dan Fi'il Naqis (كَانَ)",
+        "irab_dan_logika": "و' adalah huruf athaf yang menghubungkan kalimat sebelumnya. 'كَانَ' adalah fi'il naqis (kata kerja bantu) yang merofa'kan isimnya dan menashabkan khobarnya. Fi'il Madhi mabni di atas fathah."
+      },
+      "hikmah": "Menunjukkan keberadaan atau sifat yang melekat pada manusia, mengindikasikan bahwa sifat tidak berterima kasih ini adalah karakteristik yang sering atau selalu ada pada diri manusia.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "ٱلْإِنسَٰنُ",
+      "transliterasi": "al-insānu",
+      "jenis_kata": "Isim",
+      "arti": "manusia",
+      "sharaf": {
+        "akar_kata": "أ ن س (A-N-S)",
+        "makna_dasar": "manusia, ramah, akrab",
+        "wazan_perubahan": "Isim (bentuk dasar)"
+      },
+      "nahwu": {
+        "kedudukan": "Isim Kana (Isim dari كان)",
+        "irab_dan_logika": "Marfu' (rafa') karena merupakan isim dari 'كَانَ'. Tanda rafa'nya adalah dhommah pada huruf nun (ٱلْإِنسَٰنُ)."
+      },
+      "hikmah": "Merujuk pada umat manusia secara umum, menyoroti kecenderungan sifat dasar manusia yang seringkali lupa diri dan tidak bersyukur setelah mendapatkan pertolongan.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "كَفُورًا",
+      "transliterasi": "kafūran",
+      "jenis_kata": "Isim Sifat (Shighah Mubalaghah)",
+      "arti": "sangat tidak berterima kasih, sangat ingkar",
+      "sharaf": {
+        "akar_kata": "ك ف ر (K-F-R)",
+        "makna_dasar": "menutupi, mengingkari, tidak bersyukur",
+        "wazan_perubahan": "Isim Sifat (Shighah Mubalaghah) dengan wazan فَعُول (fa'ūl), menunjukkan intensitas atau keseringan."
+      },
+      "nahwu": {
+        "kedudukan": "Khabar Kana (Khabar dari كان)",
+        "irab_dan_logika": "Manshub (nashab) karena merupakan khabar dari 'كَانَ'. Tanda nashabnya adalah fathatain (tanwin fathah) pada huruf ra' (كَفُورًا)."
+      },
+      "hikmah": "Menekankan sifat manusia yang sangat sering atau berlebihan dalam mengingkari nikmat dan tidak bersyukur kepada Allah, terutama setelah diselamatkan dari bahaya besar, sebagai peringatan akan kelemahan moral manusia.",
+      "role": "none"
+    }
+  ]
+}

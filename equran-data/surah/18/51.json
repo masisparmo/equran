@@ -1,0 +1,240 @@
+{
+  "surah": 18,
+  "ayah": 51,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "مَّآ",
+      "transliterasi": "maa",
+      "jenis_kata": "Huruf",
+      "arti": "tidak",
+      "sharaf": {
+        "akar_kata": "ma",
+        "makna_dasar": "penyangkalan",
+        "wazan_perubahan": "tidak berubah"
+      },
+      "nahwu": {
+        "kedudukan": "awal kalimat",
+        "irab_dan_logika": "menyangkal keberadaan atau kejadian"
+      },
+      "hikmah": "menunjukkan penyangkalan terhadap sesuatu yang akan disebutkan",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "أَشْهَدتُّهُمْ",
+      "transliterasi": "asyhadtuhum",
+      "jenis_kata": "Fi'il",
+      "arti": "aku menghadirkan mereka sebagai saksi",
+      "sharaf": {
+        "akar_kata": "syahada",
+        "makna_dasar": "menghadirkan sebagai saksi",
+        "wazan_perubahan": "fi'il madhi dengan akhiran hum"
+      },
+      "nahwu": {
+        "kedudukan": "predikat kalimat",
+        "irab_dan_logika": "subyek fi'il adalah aku, objek adalah mereka"
+      },
+      "hikmah": "menunjukkan tindakan menghadirkan seseorang sebagai saksi",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "خَلْقَ",
+      "transliterasi": "khalq",
+      "jenis_kata": "Isim",
+      "arti": "penciptaan",
+      "sharaf": {
+        "akar_kata": "khalaqa",
+        "makna_dasar": "menciptakan",
+        "wazan_perubahan": "masdar dari fi'il khalaqa"
+      },
+      "nahwu": {
+        "kedudukan": "objek fi'il",
+        "irab_dan_logika": "objek dari fi'il asyhadtuhum"
+      },
+      "hikmah": "menunjukkan proses penciptaan sesuatu",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "ٱلسَّمَٰوَٰتِ",
+      "transliterasi": "assamawati",
+      "jenis_kata": "Isim",
+      "arti": "langit",
+      "sharaf": {
+        "akar_kata": "sama",
+        "makna_dasar": "tinggi",
+        "wazan_perubahan": "bentuk jamak dari sama"
+      },
+      "nahwu": {
+        "kedudukan": "objek dari kata khalq",
+        "irab_dan_logika": "objek dari kata khalq yang merupakan bagian dari penciptaan"
+      },
+      "hikmah": "menunjukkan bagian dari alam yang diciptakan",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "وَٱلْأَرْضِ",
+      "transliterasi": "walardi",
+      "jenis_kata": "Isim",
+      "arti": "dan bumi",
+      "sharaf": {
+        "akar_kata": "ard",
+        "makna_dasar": "tanah",
+        "wazan_perubahan": "bentuk mufrad dari ard dengan kata sandang al"
+      },
+      "nahwu": {
+        "kedudukan": "objek dari kata khalq",
+        "irab_dan_logika": "objek dari kata khalq yang merupakan bagian dari penciptaan"
+      },
+      "hikmah": "menunjukkan bagian dari alam yang diciptakan",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "وَلَا",
+      "transliterasi": "wala",
+      "jenis_kata": "Huruf",
+      "arti": "dan tidak",
+      "sharaf": {
+        "akar_kata": "wa la",
+        "makna_dasar": "penyangkalan dan penghubung",
+        "wazan_perubahan": "tidak berubah"
+      },
+      "nahwu": {
+        "kedudukan": "awal kalimat",
+        "irab_dan_logika": "menyangkal keberadaan atau kejadian dan menghubungkan dengan kalimat sebelumnya"
+      },
+      "hikmah": "menunjukkan penyangkalan terhadap sesuatu yang akan disebutkan dan menghubungkan dengan kalimat sebelumnya",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "خَلْقَ",
+      "transliterasi": "khalqa",
+      "jenis_kata": "Isim",
+      "arti": "ciptaan atau makhluk",
+      "sharaf": {
+        "akar_kata": "kh-l-q",
+        "makna_dasar": "menciptakan atau membuat",
+        "wazan_perubahan": "fi'il madhi"
+      },
+      "nahwu": {
+        "kedudukan": "maf'ul bih",
+        "irab_dan_logika": "harakat akhirnya adalah fathah karena berfungsi sebagai objek dari fi'il yang tidak disebutkan secara eksplisit"
+      },
+      "hikmah": "mengacu pada proses penciptaan atau makhluk yang diciptakan",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "أَنفُسِهِمْ",
+      "transliterasi": "anfusihim",
+      "jenis_kata": "Isim",
+      "arti": "diri mereka sendiri",
+      "sharaf": {
+        "akar_kata": "n-f-s",
+        "makna_dasar": "jiwa atau diri",
+        "wazan_perubahan": "isim jamak"
+      },
+      "nahwu": {
+        "kedudukan": "maf'ul bih",
+        "irab_dan_logika": "harakat akhirnya adalah kasrah karena berfungsi sebagai objek dari fi'il yang tidak disebutkan secara eksplisit dan memiliki sufiks pronoun him yang menunjukkan kepemilikan"
+      },
+      "hikmah": "mengacu pada diri atau jiwa mereka sendiri yang diciptakan",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "وَمَا",
+      "transliterasi": "wa ma",
+      "jenis_kata": "Huruf",
+      "arti": "dan apa atau tidak",
+      "sharaf": {
+        "akar_kata": "waw dan ma",
+        "makna_dasar": "penghubung dan penyangkal",
+        "wazan_perubahan": "huruf penghubung dan penyangkal"
+      },
+      "nahwu": {
+        "kedudukan": "penghubung antara dua kalimat",
+        "irab_dan_logika": "berfungsi sebagai penghubung untuk menghubungkan dua kalimat dan juga sebagai penyangkal untuk menyangkal keberadaan sesuatu"
+      },
+      "hikmah": "menghubungkan dua kalimat dan menyangkal keberadaan sesuatu",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "كُنتُ",
+      "transliterasi": "kuntu",
+      "jenis_kata": "Fi'il",
+      "arti": "aku adalah",
+      "sharaf": {
+        "akar_kata": "k-w-n",
+        "makna_dasar": "ada atau menjadi",
+        "wazan_perubahan": "fi'il madhi"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il madhi",
+        "irab_dan_logika": "berfungsi sebagai predikat dari kalimat dan menunjukkan keadaan atau sifat dari subjek"
+      },
+      "hikmah": "menunjukkan keadaan atau sifat dari subjek",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "مُتَّخِذَ",
+      "transliterasi": "muttakhidza",
+      "jenis_kata": "Fi'il",
+      "arti": "mengambil atau memilih",
+      "sharaf": {
+        "akar_kata": "kh-dh",
+        "makna_dasar": "mengambil atau memilih",
+        "wazan_perubahan": "fi'il mudhari"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il mudhari",
+        "irab_dan_logika": "berfungsi sebagai predikat dari kalimat dan menunjukkan tindakan atau kegiatan dari subjek"
+      },
+      "hikmah": "mengambil atau memilih sesuatu sebagai penolong",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "ٱلْمُضِلِّينَ",
+      "transliterasi": "almudhillin",
+      "jenis_kata": "Isim",
+      "arti": "orang-orang yang menyesatkan",
+      "sharaf": {
+        "akar_kata": "d-l-l",
+        "makna_dasar": "menyesatkan atau tersesat",
+        "wazan_perubahan": "isim fa'il"
+      },
+      "nahwu": {
+        "kedudukan": "maf'ul bih",
+        "irab_dan_logika": "berfungsi sebagai objek dari fi'il dan memiliki harakat akhir yang menunjukkan jamak"
+      },
+      "hikmah": "mengacu pada orang-orang yang menyesatkan atau menyebabkan kesesatan",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "عَضُدًۭا",
+      "transliterasi": "aadadan",
+      "jenis_kata": "Isim",
+      "arti": "penolong",
+      "sharaf": {
+        "akar_kata": "aadhada",
+        "makna_dasar": "menolong",
+        "wazan_perubahan": "tafhil"
+      },
+      "nahwu": {
+        "kedudukan": "maf ul bih",
+        "irab_dan_logika": "harakat fathah karena majrur"
+      },
+      "hikmah": "Allah tidak mengambil iblis dan anak cucunya sebagai penolong karena mereka adalah makhluk yang tidak taat dan menyesatkan",
+      "role": "none"
+    }
+  ]
+}

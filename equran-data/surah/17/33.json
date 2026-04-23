@@ -1,0 +1,402 @@
+{
+  "surah": 17,
+  "ayah": 33,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "وَلَا",
+      "transliterasi": "wa lā",
+      "jenis_kata": "Huruf",
+      "arti": "dan janganlah",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf 'Athaf (penghubung) dan Huruf Nahi (larangan)",
+        "irab_dan_logika": "Huruf 'athaf 'و' (wa) tidak memiliki i'rab. Huruf 'لَا' (lā) adalah huruf nahi jazimah yang menyebabkan fi'il mudhari' setelahnya menjadi majzum (berharakat sukun atau membuang nun)."
+      },
+      "hikmah": "Menggabungkan larangan ini dengan perintah atau larangan sebelumnya, serta menegaskan larangan keras untuk melakukan perbuatan yang disebutkan selanjutnya.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "تَقْتُلُوا۟",
+      "transliterasi": "taqtulū",
+      "jenis_kata": "Fi'il",
+      "arti": "kalian membunuh",
+      "sharaf": {
+        "akar_kata": "ق-ت-ل (Q-T-L)",
+        "makna_dasar": "Membunuh, memerangi, membantai.",
+        "wazan_perubahan": "Fi'il Mudhari' (kata kerja sekarang/akan datang), wazan فَعَلَ - يَفْعُلُ (fa'ala - yaf'ulu), bab I. Bentuk jamak mudzakkar mukhatab (kalian laki-laki)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Majzum",
+        "irab_dan_logika": "Majzum karena didahului oleh 'لَا النَّاهِيَة' (lā an-nāhiyah). Tanda jazm-nya adalah membuang huruf nun (حذف النون) karena termasuk Af'alul Khamsah (lima fi'il). Wau alif (وَا) adalah fa'il (pelaku) yang kembali kepada 'kalian'."
+      },
+      "hikmah": "Larangan tegas dan langsung kepada umat manusia secara kolektif untuk tidak melakukan pembunuhan, menunjukkan pentingnya menjaga kehidupan.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "ٱلنَّفْسَ",
+      "transliterasi": "an-nafsa",
+      "jenis_kata": "Isim",
+      "arti": "jiwa, diri, nyawa",
+      "sharaf": {
+        "akar_kata": "ن-ف-س (N-F-S)",
+        "makna_dasar": "Jiwa, diri, nafas, esensi.",
+        "wazan_perubahan": "Isim Mufrad (kata benda tunggal), bentuk dasar."
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul Bih (objek)",
+        "irab_dan_logika": "Manshub (berharakat fathah) karena menjadi objek dari fi'il 'تَقْتُلُوا۟' (taqtulū). Alif lam (ال) menunjukkan makna umum atau jenis."
+      },
+      "hikmah": "Menekankan objek larangan, yaitu 'jiwa' atau 'nyawa', yang mencakup setiap individu manusia, menegaskan nilai sakral kehidupan.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "ٱلَّتِى",
+      "transliterasi": "allatī",
+      "jenis_kata": "Isim Maushul",
+      "arti": "yang",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "Penghubung, penunjuk.",
+        "wazan_perubahan": "Isim Maushul Mufrad Muannats (kata penghubung tunggal perempuan)."
+      },
+      "nahwu": {
+        "kedudukan": "Na'at (sifat) atau Shifat dari 'ٱلنَّفْسَ'",
+        "irab_dan_logika": "Isim maushul mabni (tetap) di atas sukun, dalam posisi nashab (manshub) karena menjadi sifat bagi 'ٱلنَّفْسَ' yang manshub."
+      },
+      "hikmah": "Berfungsi sebagai penghubung untuk menjelaskan lebih lanjut tentang 'jiwa' yang dimaksud, yaitu jiwa yang memiliki kriteria tertentu yang akan dijelaskan setelahnya.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "حَرَّمَ",
+      "transliterasi": "ḥarrama",
+      "jenis_kata": "Fi'il",
+      "arti": "telah mengharamkan",
+      "sharaf": {
+        "akar_kata": "ح-ر-م (Ḥ-R-M)",
+        "makna_dasar": "Melarang, mengharamkan, menjadikan suci/terlarang.",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau), wazan فَعَّلَ (fa''ala), bab II (tashdid pada ain fi'il) yang menunjukkan makna taktsir (memperbanyak) atau ta'diyah (transitif). Bentuk tunggal mudzakkar ghaib (dia laki-laki)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Madhi",
+        "irab_dan_logika": "Fi'il madhi mabni di atas fathah. Merupakan shilah al-maushul (kalimat penghubung) bagi 'ٱلَّتِى'. Fa'ilnya mustatir (tersembunyi) berupa 'هُوَ' (Dia) yang kembali kepada Allah."
+      },
+      "hikmah": "Menjelaskan bahwa larangan membunuh jiwa ini datang dari otoritas tertinggi, yaitu Allah, menegaskan kesakralan larangan tersebut dan bahwa hanya Allah yang berhak menentukan apa yang haram.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "ٱللَّهُ",
+      "transliterasi": "Allāhu",
+      "jenis_kata": "Isim",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "أ-ل-ه (A-L-H)",
+        "makna_dasar": "Tuhan, yang disembah.",
+        "wazan_perubahan": "Isim 'Alam (nama diri), lafzhul jalalah."
+      },
+      "nahwu": {
+        "kedudukan": "Fa'il (pelaku)",
+        "irab_dan_logika": "Marfu' (berharakat dhammah) karena menjadi fa'il dari fi'il 'حَرَّمَ' (harrama)."
+      },
+      "hikmah": "Menegaskan bahwa sumber larangan pembunuhan adalah Allah SWT, Dzat Yang Maha Kuasa dan Maha Bijaksana, yang memberikan hukum-hukum-Nya demi kemaslahatan hamba-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "إِلَّا",
+      "transliterasi": "illā",
+      "jenis_kata": "Huruf",
+      "arti": "kecuali, melainkan",
+      "sharaf": {
+        "akar_kata": "Tidak ada",
+        "makna_dasar": "Pengecualian, pembatasan",
+        "wazan_perubahan": "Tidak ada"
+      },
+      "nahwu": {
+        "kedudukan": "Harf Istithna' (huruf pengecualian)",
+        "irab_dan_logika": "Huruf mabni (tetap) tidak memiliki kedudukan i'rab. Berfungsi sebagai pembatas atau pengecualian."
+      },
+      "hikmah": "Menunjukkan bahwa larangan membunuh jiwa adalah mutlak, kecuali jika ada alasan yang dibenarkan oleh syariat, sehingga tindakan tersebut menjadi pengecualian yang sah.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "بِٱلْحَقِّ",
+      "transliterasi": "bil-ḥaqqi",
+      "jenis_kata": "Isim (dengan huruf jar)",
+      "arti": "dengan kebenaran, dengan hak",
+      "sharaf": {
+        "akar_kata": "ح ق ق",
+        "makna_dasar": "Kebenaran, hak, keadilan, ketetapan",
+        "wazan_perubahan": "Wazan 'فَعْل' (fa'l) untuk masdar 'الحق'."
+      },
+      "nahwu": {
+        "kedudukan": "Majrur oleh huruf jar 'بِ' (bi)",
+        "irab_dan_logika": "بِ' adalah huruf jar, sehingga 'الحق' menjadi isim majrur dengan tanda kasrah (kasrah karena isim mufrad)."
+      },
+      "hikmah": "Menegaskan bahwa satu-satunya alasan yang membenarkan pembunuhan adalah jika sesuai dengan kebenaran dan keadilan yang ditetapkan oleh Allah, seperti qisas atau hukuman mati bagi kejahatan tertentu yang sangat berat.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "وَمَن",
+      "transliterasi": "wa man",
+      "jenis_kata": "Huruf (waw) dan Isim Syarat (man)",
+      "arti": "dan barangsiapa",
+      "sharaf": {
+        "akar_kata": "Tidak ada",
+        "makna_dasar": "Penghubung (waw), syarat (man)",
+        "wazan_perubahan": "Tidak ada"
+      },
+      "nahwu": {
+        "kedudukan": "و' (waw) adalah huruf 'athaf (penghubung). 'مَن' (man) adalah isim syarat yang berfungsi sebagai mubtada' (subjek) dalam kalimat syarat.",
+        "irab_dan_logika": "و' adalah huruf mabni. 'مَن' adalah isim syarat mabni 'ala sukun, dalam kedudukan rafa' sebagai mubtada'."
+      },
+      "hikmah": "Membuka klausa baru yang menjelaskan konsekuensi bagi orang yang dibunuh secara zalim, menunjukkan bahwa setiap tindakan memiliki balasan atau ketentuan hukumnya.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "قُتِلَ",
+      "transliterasi": "qutila",
+      "jenis_kata": "Fi'il Madhi Majhul (kata kerja lampau pasif)",
+      "arti": "dia dibunuh",
+      "sharaf": {
+        "akar_kata": "ق ت ل",
+        "makna_dasar": "Membunuh, memerangi",
+        "wazan_perubahan": "فُعِلَ (fu'ila) - wazan fi'il madhi majhul."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il syarat (kata kerja syarat) dari isim syarat 'مَن'.",
+        "irab_dan_logika": "Fi'il madhi mabni 'ala fath. Karena ini adalah fi'il majhul, maka setelahnya ada naibul fa'il (pengganti subjek) yang tersembunyi (huwa, kembali ke 'مَن')."
+      },
+      "hikmah": "Menekankan status korban sebagai orang yang dibunuh, bukan pembunuh, dan bahwa pembunuhan tersebut terjadi secara pasif terhadapnya, yang mengarah pada kondisi 'zalim'.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "مَظْلُومًۭا",
+      "transliterasi": "maẓlūman",
+      "jenis_kata": "Isim Maf'ul (kata benda yang dikenai pekerjaan)",
+      "arti": "dalam keadaan terzalimi, secara zalim",
+      "sharaf": {
+        "akar_kata": "ظ ل م",
+        "makna_dasar": "Zalim, aniaya, gelap",
+        "wazan_perubahan": "مَفْعُول (maf'ūl) - wazan isim maf'ul."
+      },
+      "nahwu": {
+        "kedudukan": "Hal (keadaan) bagi naibul fa'il yang tersembunyi dari 'قُتِلَ'.",
+        "irab_dan_logika": "Mansub (berharakat fathah) karena berfungsi sebagai hal. Tanda nashabnya adalah fathah tanwin."
+      },
+      "hikmah": "Menggambarkan kondisi spesifik pembunuhan, yaitu dilakukan secara tidak adil atau melanggar hak, yang menjadi dasar bagi ketentuan hukum selanjutnya bagi ahli waris.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "فَقَدْ",
+      "transliterasi": "fa qad",
+      "jenis_kata": "Huruf",
+      "arti": "maka sungguh",
+      "sharaf": {
+        "akar_kata": "Tidak ada",
+        "makna_dasar": "Penghubung (fa), penegas/penguat (qad)",
+        "wazan_perubahan": "Tidak ada"
+      },
+      "nahwu": {
+        "kedudukan": "فَ' (fa) adalah huruf jawab syarat. 'قَدْ' (qad) adalah huruf tahqiq (penegas) yang masuk pada fi'il madhi.",
+        "irab_dan_logika": "Keduanya adalah huruf mabni dan tidak memiliki kedudukan i'rab. 'فَ' mengikat jawab syarat dengan syaratnya. 'قَدْ' menguatkan makna fi'il madhi yang mengikutinya."
+      },
+      "hikmah": "Menunjukkan hubungan sebab-akibat yang kuat antara pembunuhan zalim dan penetapan hak bagi ahli waris, menegaskan bahwa ketentuan ini adalah suatu kepastian dari Allah.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "جَعَلْنَا",
+      "transliterasi": "ja'alnā",
+      "jenis_kata": "Fi'il",
+      "arti": "Kami telah menjadikan/memberi",
+      "sharaf": {
+        "akar_kata": "ج-ع-ل",
+        "makna_dasar": "Menjadikan, membuat, menempatkan, memberi",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau), wazan فَعَلَ (fa'ala), bersambung dengan dhamir nā (نا) yang menunjukkan subjek 'kami'."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il (Kata Kerja) dan Fa'il (Subjek) dalam bentuk dhamir muttasil (نا)",
+        "irab_dan_logika": "Fi'il Madhi mabniyyun 'ala as-sukūn (mabni sukun) karena bersambung dengan dhamir nā (نا). Dhamir nā (نا) adalah dhamir muttasil mabniyyun 'ala as-sukūn fi mahalli raf'in fa'il (dhamir bersambung yang mabni sukun pada posisi rafa' sebagai fa'il)."
+      },
+      "hikmah": "Menunjukkan tindakan Allah SWT yang memberikan atau menetapkan sesuatu, dalam konteks ayat ini adalah memberikan kekuasaan kepada ahli waris dari korban yang terbunuh secara zalim.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "لِوَلِيِّهِۦ",
+      "transliterasi": "liwalīyihi",
+      "jenis_kata": "Huruf + Isim + Dhamir",
+      "arti": "bagi walinya/ahli warisnya",
+      "sharaf": {
+        "akar_kata": "و-ل-ي",
+        "makna_dasar": "Dekat, mengikuti, menguasai, melindungi, wali, ahli waris",
+        "wazan_perubahan": "Isim Fa'il (bentuk partisip aktif) dari wazan فَعِيل (fa'īl) untuk وَلِيّ (walī), kemudian bersambung dengan huruf jar لِ (li) dan dhamir هِ (hi)."
+      },
+      "nahwu": {
+        "kedudukan": "Jar Majrur (preposisi dan kata yang di-jar-kan)",
+        "irab_dan_logika": "لِ (li) adalah huruf jar mabniyyun 'ala al-kasr (mabni kasrah). وَلِيِّ (walīyi) adalah isim majrur bil-lām wa 'alamat jarrihi al-kasratu az-zāhirah (isim yang di-jar-kan oleh lam dan tanda jarnya adalah kasrah yang tampak). هِ (hi) adalah dhamir muttasil mabniyyun 'ala al-kasr fi mahalli jarrin mudaf ilaih (dhamir bersambung yang mabni kasrah pada posisi jar sebagai mudaf ilaih)."
+      },
+      "hikmah": "Menjelaskan kepada siapa kekuasaan itu diberikan, yaitu kepada wali atau ahli waris dari korban yang terbunuh secara zalim, menunjukkan hak dan tanggung jawab mereka.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "سُلْطَٰنًۭا",
+      "transliterasi": "sulṭānan",
+      "jenis_kata": "Isim",
+      "arti": "kekuasaan/otoritas",
+      "sharaf": {
+        "akar_kata": "س-ل-ط",
+        "makna_dasar": "Menguasai, memiliki kekuatan, otoritas, bukti",
+        "wazan_perubahan": "Isim Masdar (kata benda verbal) atau Isim Makna (kata benda yang menunjukkan makna) dari wazan فُعْلَان (fu'lān)."
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul Bih (Objek Langsung)",
+        "irab_dan_logika": "Maf'ul Bih mansūbun wa 'alamat nasbihi al-fatḥatu az-zāhirah (objek langsung yang mansub dan tanda nasabnya adalah fathah yang tampak)."
+      },
+      "hikmah": "Menjelaskan apa yang diberikan Allah kepada ahli waris, yaitu kekuasaan atau otoritas untuk menuntut keadilan, namun dengan batasan yang akan dijelaskan selanjutnya.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "فَلَا",
+      "transliterasi": "falā",
+      "jenis_kata": "Huruf",
+      "arti": "maka janganlah",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk huruf.",
+        "makna_dasar": "ف (fa) adalah huruf 'athaf atau isti'naf yang berarti 'maka', menunjukkan akibat atau kelanjutan. لَا (lā) adalah huruf nahiyah (larangan) yang berarti 'jangan'.",
+        "wazan_perubahan": "Tidak berlaku untuk huruf."
+      },
+      "nahwu": {
+        "kedudukan": "Huruf 'athaf/isti'naf dan Huruf Nahiyah",
+        "irab_dan_logika": "ف (fa) adalah huruf 'athaf/isti'naf mabniyyun 'ala al-fatḥ (mabni fathah), tidak memiliki kedudukan i'rab. لَا (lā) adalah huruf nahiyah jazimah mabniyyun 'ala as-sukūn (mabni sukun), tidak memiliki kedudukan i'rab."
+      },
+      "hikmah": "Menunjukkan transisi ke perintah atau larangan berikutnya, yaitu larangan untuk melampaui batas, sebagai batasan atas kekuasaan yang telah diberikan.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "يُسْرِف",
+      "transliterasi": "yusrif",
+      "jenis_kata": "Fi'il",
+      "arti": "ia melampaui batas/berlebihan",
+      "sharaf": {
+        "akar_kata": "س-ر-ف",
+        "makna_dasar": "Melampaui batas, berlebihan, boros",
+        "wazan_perubahan": "Fi'il Mudhari' (kata kerja sekarang/akan datang) dari wazan أَفْعَلَ (af'ala) - bentuk IV. Dalam konteks ini, يُفْعِلُ (yuf'ilu). Karena didahului oleh لَا nahiyah, maka fi'il mudhari' ini menjadi majzum."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Majzum (kata kerja sekarang/akan datang yang dijazamkan)",
+        "irab_dan_logika": "Fi'il Mudhari' majzūmun bi-lā an-nāhiyah wa 'alamat jazmihi as-sukūn (fi'il mudhari' yang dijazamkan oleh lā nahiyah dan tanda jazmnya adalah sukun). Fa'ilnya adalah dhamir mustatir jawazan takdiruhu 'huwa' (subjeknya adalah dhamir tersembunyi yang boleh ditampakkan, yaitu 'dia' - kembali kepada wali)."
+      },
+      "hikmah": "Menekankan larangan untuk berlebihan atau melampaui batas dalam menggunakan kekuasaan yang diberikan, khususnya dalam menuntut balas. Ini adalah prinsip keadilan dalam Islam.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "فِّى",
+      "transliterasi": "fī",
+      "jenis_kata": "Huruf",
+      "arti": "dalam/di",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk huruf.",
+        "makna_dasar": "Menunjukkan tempat, waktu, atau konteks",
+        "wazan_perubahan": "Tidak berlaku untuk huruf."
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Jar (preposisi)",
+        "irab_dan_logika": "Huruf jar mabniyyun 'ala as-sukūn (mabni sukun), tidak memiliki kedudukan i'rab."
+      },
+      "hikmah": "Memperkenalkan konteks atau batasan dari larangan melampaui batas, yaitu 'dalam pembunuhan' atau 'dalam urusan pembunuhan', yang akan diikuti oleh kata yang di-jar-kan olehnya.",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "ٱلْقَتْلِ",
+      "transliterasi": "al-Qatl",
+      "jenis_kata": "Isim",
+      "arti": "Pembunuhan, membunuh",
+      "sharaf": {
+        "akar_kata": "ق ت ل",
+        "makna_dasar": "Membunuh, membunuh",
+        "wazan_perubahan": "Masdar dari Fi'il Tsulatsi Mujarrad (فَعْلٌ)"
+      },
+      "nahwu": {
+        "kedudukan": "Isim majrur",
+        "irab_dan_logika": "Harakat kasrah (ـِ) pada huruf lam (ل) menunjukkan bahwa ia majrur. Ini disebabkan oleh huruf jar yang tersirat sebelumnya, yang mengindikasikan makna 'dalam' atau 'terkait dengan' pembunuhan, seperti dalam frasa 'janganlah melampaui batas dalam pembunuhan' (لا تسرفوا في القتل)."
+      },
+      "hikmah": "Kata ini menekankan larangan melampaui batas dalam tindakan pembunuhan, bahkan ketika ada hak qisas. Ini menunjukkan pentingnya keadilan dan proporsionalitas dalam hukum Islam, mencegah balas dendam yang berlebihan dan tidak sesuai syariat.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "إِنَّهُۥ",
+      "transliterasi": "Innahu",
+      "jenis_kata": "Huruf + Dhomir",
+      "arti": "Sesungguhnya dia/ia",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Penekanan (untuk إنّ) dan merujuk pada pihak ketiga tunggal (untuk هُ)",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Huruf Taukid (penegas) dan Isim إنّ",
+        "irab_dan_logika": "إنّ adalah huruf taukid dan nashb yang menashabkan isimnya. Dhomir 'هُ' adalah dhomir muttasil (kata ganti bersambung) yang berkedudukan sebagai isim إنّ dan manshub secara mahal (kedudukan). Dhomir ini merujuk kepada ahli waris (wali) yang mendapat pertolongan."
+      },
+      "hikmah": "Innahu berfungsi sebagai penegas bahwa ahli waris yang dibunuh secara zalim itu benar-benar akan mendapatkan pertolongan atau dukungan dari Allah dan hukum syariat, memberikan jaminan keadilan bagi mereka yang terzalimi.",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "كَانَ",
+      "transliterasi": "Kaana",
+      "jenis_kata": "Fi'il",
+      "arti": "Adalah/telah ada/dia adalah",
+      "sharaf": {
+        "akar_kata": "ك و ن",
+        "makna_dasar": "Ada, terjadi, menjadi",
+        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau) dari Fi'il Tsulatsi Mujarrad, wazan فَعَلَ"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Naqis",
+        "irab_dan_logika": "Fi'il madhi mabni 'ala al-fath (dibangun di atas fathah). Kaana adalah fi'il naqis yang merafa'kan isimnya (dhomir mustatir 'هو' yang tersembunyi, merujuk kepada ahli waris) dan menashabkan khabarnya (yaitu 'منصورًا')."
+      },
+      "hikmah": "Meskipun 'kaana' sering diartikan sebagai 'telah ada' (lampau), dalam konteks ini, ia lebih berfungsi untuk menunjukkan kepastian dan ketetapan. Ini menegaskan bahwa ahli waris yang mendapat hak qisas adalah (dan akan selalu) orang yang mendapat pertolongan, bukan hanya di masa lalu tetapi juga di masa sekarang dan masa depan dalam konteks hukum Allah.",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "مَنصُورًۭا",
+      "transliterasi": "Mansuuron",
+      "jenis_kata": "Isim",
+      "arti": "Yang ditolong, yang mendapat pertolongan",
+      "sharaf": {
+        "akar_kata": "ن ص ر",
+        "makna_dasar": "Menolong, membantu",
+        "wazan_perubahan": "Isim Maf'ul (kata benda yang menunjukkan objek dari suatu perbuatan) dari Fi'il Tsulatsi Mujarrad, wazan مَفْعُولٌ"
+      },
+      "nahwu": {
+        "kedudukan": "Khabar Kaana",
+        "irab_dan_logika": "Harakat fathatain (ـًۭا) menunjukkan bahwa ia manshub (berharakat fathah). Ini karena ia adalah khabar dari 'kaana', dan 'kaana' menashabkan khabarnya."
+      },
+      "hikmah": "Kata ini menguatkan bahwa ahli waris yang dizalimi dan memiliki hak qisas adalah pihak yang didukung dan ditolong oleh syariat Allah. Ini memberikan jaminan keadilan dan legitimasi bagi tindakan mereka dalam menuntut hak, selama tidak melampaui batas yang telah ditetapkan.",
+      "role": "none"
+    }
+  ]
+}

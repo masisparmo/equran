@@ -1,0 +1,438 @@
+{
+  "surah": 18,
+  "ayah": 110,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "قُلْ",
+      "transliterasi": "qul",
+      "jenis_kata": "Fi'il",
+      "arti": "katakanlah",
+      "sharaf": {
+        "akar_kata": "q-w-l",
+        "makna_dasar": "mengatakan atau mengucapkan",
+        "wazan_perubahan": "perintah"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il amr",
+        "irab_dan_logika": "berharakat dengan sukun karena fi'il amr yang tidak memiliki fai'l"
+      },
+      "hikmah": "perintah untuk mengucapkan atau mengatakan sesuatu",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "إِنَّمَآ",
+      "transliterasi": "innama",
+      "jenis_kata": "Huruf",
+      "arti": "sesungguhnya tidak lain kecuali",
+      "sharaf": {
+        "akar_kata": "i-n",
+        "makna_dasar": "penekanan atau pengukuhan",
+        "wazan_perubahan": "huruf yang menunjukkan penekanan"
+      },
+      "nahwu": {
+        "kedudukan": "huruf istitsna",
+        "irab_dan_logika": "menghubungkan antara kalimat dan menunjukkan penekanan"
+      },
+      "hikmah": "penekanan bahwa sesuatu itu tidak lain kecuali",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "أَنَا۠",
+      "transliterasi": "ana",
+      "jenis_kata": "Isim",
+      "arti": "aku",
+      "sharaf": {
+        "akar_kata": "a-n",
+        "makna_dasar": "diri sendiri",
+        "wazan_perubahan": "isim dhahir"
+      },
+      "nahwu": {
+        "kedudukan": "fa'il",
+        "irab_dan_logika": "berharakat dengan dammah karena fa'il yang menempati awal kalimat"
+      },
+      "hikmah": "penunjukan diri sendiri sebagai subjek",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "بَشَرٌۭ",
+      "transliterasi": "basharun",
+      "jenis_kata": "Isim",
+      "arti": "manusia",
+      "sharaf": {
+        "akar_kata": "b-sh-r",
+        "makna_dasar": "manusia atau makhluk",
+        "wazan_perubahan": "isim mufrod"
+      },
+      "nahwu": {
+        "kedudukan": "nafiyah",
+        "irab_dan_logika": "berharakat dengan sukun karena nafiyah yang menempati tengah kalimat"
+      },
+      "hikmah": "penunjukan sifat atau karakteristik",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "مِّثْلُكُمْ",
+      "transliterasi": "mislukum",
+      "jenis_kata": "Isim",
+      "arti": "seperti kamu",
+      "sharaf": {
+        "akar_kata": "m-th-l",
+        "makna_dasar": "kesamaan atau persamaan",
+        "wazan_perubahan": "isim tashbih"
+      },
+      "nahwu": {
+        "kedudukan": "badal",
+        "irab_dan_logika": "berharakat dengan kasrah karena badal yang menempati akhir kalimat"
+      },
+      "hikmah": "penunjukan kesamaan atau persamaan",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "يُوحَىٰٓ",
+      "transliterasi": "yuha",
+      "jenis_kata": "Fi'il",
+      "arti": "diwahyukan",
+      "sharaf": {
+        "akar_kata": "w-h-y",
+        "makna_dasar": "menginsafkan atau memberikan ilham",
+        "wazan_perubahan": "fi'il mudhari"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il mudhari",
+        "irab_dan_logika": "berharakat dengan fathah karena fi'il mudhari yang menempati awal kalimat"
+      },
+      "hikmah": "penunjukan proses penerimaan ilham atau wahyu",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "إِلَى",
+      "transliterasi": "ilayya",
+      "jenis_kata": "Huruf",
+      "arti": "kepadaku",
+      "sharaf": {
+        "akar_kata": "aly",
+        "makna_dasar": "arah atau tujuan",
+        "wazan_perubahan": "tidak ada perubahan"
+      },
+      "nahwu": {
+        "kedudukan": "khobar atau predikat",
+        "irab_dan_logika": "harakat akhirnya adalah ya' karena berupa huruf yang menunjukkan arah"
+      },
+      "hikmah": "kata ilayya menunjukkan bahwa wahyu diberikan kepadanya secara langsung",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "أَنَّمَا",
+      "transliterasi": "annama",
+      "jenis_kata": "Huruf",
+      "arti": "sesungguhnya",
+      "sharaf": {
+        "akar_kata": "nmy",
+        "makna_dasar": "penekanan atau pengakuan",
+        "wazan_perubahan": "tidak ada perubahan"
+      },
+      "nahwu": {
+        "kedudukan": "huruf penguat",
+        "irab_dan_logika": "harakat akhirnya adalah sukun karena berupa huruf yang menunjukkan penekanan"
+      },
+      "hikmah": "kata annama menekankan bahwa apa yang disampaikan adalah kebenaran",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "إِلَٰهُكُم",
+      "transliterasi": "ilahukum",
+      "jenis_kata": "Isim",
+      "arti": "tuhan kalian",
+      "sharaf": {
+        "akar_kata": "lh",
+        "makna_dasar": "kekuasaan atau ketuhanan",
+        "wazan_perubahan": "dengan tambahan akhiran -kum untuk menunjukkan kepemilikan"
+      },
+      "nahwu": {
+        "kedudukan": "mudhaf",
+        "irab_dan_logika": "harakat akhirnya adalah dammah karena berupa isim yang diikuti oleh kata lain"
+      },
+      "hikmah": "kata ilahukum menunjukkan bahwa tuhan yang dimaksud adalah tuhan bagi orang-orang yang diajak berbicara",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "إِلَٰهٌۭ",
+      "transliterasi": "ilahun",
+      "jenis_kata": "Isim",
+      "arti": "tuhan",
+      "sharaf": {
+        "akar_kata": "lh",
+        "makna_dasar": "kekuasaan atau ketuhanan",
+        "wazan_perubahan": "dengan tambahan nun untuk menunjukkan kesatuan"
+      },
+      "nahwu": {
+        "kedudukan": "najis",
+        "irab_dan_logika": "harakat akhirnya adalah nun untuk menunjukkan kesatuan"
+      },
+      "hikmah": "kata ilahun menunjukkan bahwa tuhan yang dimaksud adalah satu-satunya tuhan",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "وَٰحِدٌۭ",
+      "transliterasi": "wahidun",
+      "jenis_kata": "Isim",
+      "arti": "esa",
+      "sharaf": {
+        "akar_kata": "whd",
+        "makna_dasar": "kesatuan atau keesaan",
+        "wazan_perubahan": "dengan tambahan nun untuk menunjukkan kesatuan"
+      },
+      "nahwu": {
+        "kedudukan": "sifat",
+        "irab_dan_logika": "harakat akhirnya adalah nun untuk menunjukkan kesatuan"
+      },
+      "hikmah": "kata wahidun menekankan bahwa tuhan yang dimaksud adalah satu-satunya tuhan yang esa",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "فَمَن",
+      "transliterasi": "faman",
+      "jenis_kata": "Huruf",
+      "arti": "maka siapa",
+      "sharaf": {
+        "akar_kata": "f",
+        "makna_dasar": "penghubung atau peralihan",
+        "wazan_perubahan": "tidak ada perubahan"
+      },
+      "nahwu": {
+        "kedudukan": "huruf penghubung",
+        "irab_dan_logika": "harakat akhirnya adalah fathah karena berupa huruf yang menunjukkan peralihan"
+      },
+      "hikmah": "kata faman menunjukkan peralihan dari kalimat sebelumnya dan memulai kalimat baru",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "كَانَ",
+      "transliterasi": "kaana",
+      "jenis_kata": "Fi'il",
+      "arti": "ada, menjadi, atau terjadi",
+      "sharaf": {
+        "akar_kata": "k-w-n",
+        "makna_dasar": "ada, menjadi, atau terjadi",
+        "wazan_perubahan": "fi'il madhi"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il madhi",
+        "irab_dan_logika": "berharakat fathah karena berupa fi'il madhi yang tidak memiliki fa'il"
+      },
+      "hikmah": "menunjukkan keadaan atau peristiwa yang telah terjadi",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "يَرْجُوا۟",
+      "transliterasi": "yarjuu",
+      "jenis_kata": "Fi'il",
+      "arti": "mengharapkan",
+      "sharaf": {
+        "akar_kata": "r-j-w",
+        "makna_dasar": "mengharapkan",
+        "wazan_perubahan": "fi'il mudhari'"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il mudhari'",
+        "irab_dan_logika": "berharakat sukun karena berupa fi'il mudhari' yang tidak memiliki naib fi'il"
+      },
+      "hikmah": "menunjukkan harapan atau keinginan yang kuat",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "لِقَآءَ",
+      "transliterasi": "liqaa'a",
+      "jenis_kata": "Isim",
+      "arti": "pertemuan",
+      "sharaf": {
+        "akar_kata": "l-q-w",
+        "makna_dasar": "pertemuan",
+        "wazan_perubahan": "masdar"
+      },
+      "nahwu": {
+        "kedudukan": "maf'ul bih",
+        "irab_dan_logika": "berharakat fathah karena berupa maf'ul bih"
+      },
+      "hikmah": "menunjukkan tujuan atau harapan untuk bertemu dengan seseorang atau sesuatu",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "رَبِّهِۦ",
+      "transliterasi": "rabbihii",
+      "jenis_kata": "Isim",
+      "arti": "tuhannya",
+      "sharaf": {
+        "akar_kata": "r-b-b",
+        "makna_dasar": "tuhannya",
+        "wazan_perubahan": "isim mufrod"
+      },
+      "nahwu": {
+        "kedudukan": "maf'ul bih",
+        "irab_dan_logika": "berharakat kasrah karena berupa maf'ul bih yang memiliki khafdh"
+      },
+      "hikmah": "menunjukkan hubungan antara hamba dan tuhannya",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "فَلْيَعْمَلْ",
+      "transliterasi": "falya'mal",
+      "jenis_kata": "Fi'il",
+      "arti": "maka hendaklah ia beramal",
+      "sharaf": {
+        "akar_kata": "ʿ-m-l",
+        "makna_dasar": "beramal",
+        "wazan_perubahan": "fi'il amr"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il amr",
+        "irab_dan_logika": "berharakat sukun karena berupa fi'il amr"
+      },
+      "hikmah": "menunjukkan perintah untuk melakukan amal saleh",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "عَمَلًۭا",
+      "transliterasi": "ʿamalan",
+      "jenis_kata": "Isim",
+      "arti": "amal",
+      "sharaf": {
+        "akar_kata": "ʿ-m-l",
+        "makna_dasar": "amal",
+        "wazan_perubahan": "masdar"
+      },
+      "nahwu": {
+        "kedudukan": "maf'ul bih",
+        "irab_dan_logika": "berharakat fathah karena berupa maf'ul bih"
+      },
+      "hikmah": "menunjukkan hasil atau buah dari perbuatan seseorang",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "صَٰلِحًۭا",
+      "transliterasi": "saliha",
+      "jenis_kata": "Isim",
+      "arti": "baik, saleh",
+      "sharaf": {
+        "akar_kata": "s-l-h",
+        "makna_dasar": "perbaikan, kebaikan",
+        "wazan_perubahan": "maf'ul"
+      },
+      "nahwu": {
+        "kedudukan": "maf'ul bih, objek penderita",
+        "irab_dan_logika": "mengikuti fi'il yang tidak disebutkan secara eksplisit, yaitu mengerjakan"
+      },
+      "hikmah": "amal yang baik dan saleh",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "وَلَا",
+      "transliterasi": "wa la",
+      "jenis_kata": "Huruf",
+      "arti": "dan tidak",
+      "sharaf": {
+        "akar_kata": "l-a",
+        "makna_dasar": "peniadaan",
+        "wazan_perubahan": "huruf penghubung"
+      },
+      "nahwu": {
+        "kedudukan": "penghubung antara dua kalimat",
+        "irab_dan_logika": "menghubungkan antara perintah untuk mengerjakan amal saleh dan larangan untuk mempersekutukan Tuhan"
+      },
+      "hikmah": "penghubung untuk menegaskan larangan",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "يُشْرِكْ",
+      "transliterasi": "yusyrik",
+      "jenis_kata": "Fi'il",
+      "arti": "mempersekutukan",
+      "sharaf": {
+        "akar_kata": "s-y-r-k",
+        "makna_dasar": "mengaitkan, mempersekutukan",
+        "wazan_perubahan": "fi'il mudhari'"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il mudhari' yang diperintahkan untuk tidak dilakukan",
+        "irab_dan_logika": "diperintahkan untuk tidak mempersekutukan Tuhan dalam beribadah"
+      },
+      "hikmah": "larangan untuk mempersekutukan Tuhan",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "بِعِبَادَةِ",
+      "transliterasi": "bi'ibadati",
+      "jenis_kata": "Isim",
+      "arti": "dengan beribadah",
+      "sharaf": {
+        "akar_kata": "b-d-'",
+        "makna_dasar": "penghambaan, ketaatan",
+        "wazan_perubahan": "maf'ul"
+      },
+      "nahwu": {
+        "kedudukan": "maf'ul bih, objek penderita",
+        "irab_dan_logika": "mengikuti fi'il yusyrik, menunjukkan cara mempersekutukan Tuhan"
+      },
+      "hikmah": "cara mempersekutukan Tuhan dalam beribadah",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "رَبِّهِۦٓ",
+      "transliterasi": "rabbih",
+      "jenis_kata": "Isim",
+      "arti": "Tuhannya",
+      "sharaf": {
+        "akar_kata": "r-b-b",
+        "makna_dasar": "pengaturan, perawatan",
+        "wazan_perubahan": "isim maf'ul"
+      },
+      "nahwu": {
+        "kedudukan": "maf'ul bih, objek penderita",
+        "irab_dan_logika": "mengikuti kata bi'ibadati, menunjukkan Tuhan yang disembah"
+      },
+      "hikmah": "Tuhannya, yang disembah dan dipuja",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "أَحَدًۢا",
+      "transliterasi": "ahada",
+      "jenis_kata": "Isim",
+      "arti": "seorangpun",
+      "sharaf": {
+        "akar_kata": "a-h-d",
+        "makna_dasar": "kesatuan, keesaan",
+        "wazan_perubahan": "isim nakirah"
+      },
+      "nahwu": {
+        "kedudukan": "nakirah, kata benda yang tidak tertentu",
+        "irab_dan_logika": "menunjukkan bahwa tidak ada seorangpun yang dapat dipertuhankan selain Tuhan"
+      },
+      "hikmah": "tidak ada seorangpun yang dapat dipertuhankan selain Tuhan",
+      "role": "none"
+    }
+  ]
+}
