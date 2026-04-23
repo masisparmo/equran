@@ -112,6 +112,24 @@
     },
     {
       "index": 6,
+      "kata_arab": "ۖ",
+      "transliterasi": "waqf lazim",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "Tanda berhenti sempurna",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk tanda waqaf",
+        "makna_dasar": "Tidak berlaku untuk tanda waqaf",
+        "wazan_perubahan": "Tidak berlaku untuk tanda waqaf"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf, bukan bagian dari struktur nahwu kalimat",
+        "irab_dan_logika": "Tidak memiliki i'rab"
+      },
+      "hikmah": "Tanda `ۖ` (waqf lazim) menunjukkan bahwa berhenti di sini adalah lebih baik dan sempurna. Melanjutkan bacaan tanpa berhenti dapat mengubah atau mengaburkan makna. Dalam konteks ayat ini, ia memisahkan pernyataan tentang pertolongan Allah di Badar dari perintah untuk bertakwa, memberikan jeda untuk merenungkan nikmat tersebut sebelum menerima perintah.",
+      "role": "none"
+    },
+    {
+      "index": 7,
       "kata_arab": "فَٱتَّقُوا۟",
       "transliterasi": "fa-ttaqu",
       "jenis_kata": "Huruf dan Fi'il Amar",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "ٱللَّهَ",
       "transliterasi": "Allāha",
       "jenis_kata": "Isim (lafzhul jalalah)",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "لَعَلَّكُمْ",
       "transliterasi": "la'allakum",
       "jenis_kata": "Huruf Nasikh dan Dhamir",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "تَشْكُرُونَ",
       "transliterasi": "tashkurūna",
       "jenis_kata": "Fi'il Mudhari'",

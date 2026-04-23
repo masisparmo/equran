@@ -400,6 +400,24 @@
     },
     {
       "index": 22,
+      "kata_arab": "ۗ",
+      "transliterasi": "Tidak ada transliterasi",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "Tanda berhenti (waqaf mutlaq)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku.",
+        "makna_dasar": "Tidak berlaku.",
+        "wazan_perubahan": "Tidak berlaku."
+      },
+      "nahwu": {
+        "kedudukan": "Bukan bagian dari struktur nahwu kalimat. Ini adalah tanda baca.",
+        "irab_dan_logika": "Tidak berlaku."
+      },
+      "hikmah": "Tanda ini menunjukkan tempat yang baik untuk berhenti membaca, menandakan selesainya satu bagian makna atau ide dalam ayat. Ini membantu pembaca memahami struktur dan pesan ayat dengan lebih baik.",
+      "role": "none"
+    },
+    {
+      "index": 23,
       "kata_arab": "وَٱللَّهُ",
       "transliterasi": "wal-lāhu",
       "jenis_kata": "Isim",
@@ -417,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 24,
       "kata_arab": "بِمَا",
       "transliterasi": "bimā",
       "jenis_kata": "Huruf + Isim Maushul",
@@ -435,7 +453,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 25,
       "kata_arab": "تَعْمَلُونَ",
       "transliterasi": "ta'malūna",
       "jenis_kata": "Fi'il (Kata Kerja)",
@@ -453,7 +471,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 26,
       "kata_arab": "خَبِيرٌۭ",
       "transliterasi": "khabīrun",
       "jenis_kata": "Isim (Kata Benda/Sifat)",

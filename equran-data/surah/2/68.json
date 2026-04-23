@@ -382,6 +382,24 @@
     },
     {
       "index": 21,
+      "kata_arab": "ۖ",
+      "transliterasi": "Tidak ada transliterasi",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "Tanda berhenti (waqaf jaiz)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "N/A",
+        "irab_dan_logika": "N/A"
+      },
+      "hikmah": "Menunjukkan tempat yang dianjurkan untuk berhenti membaca, namun boleh juga melanjutkan. Ini adalah **waqaf jaiz** (boleh berhenti, boleh lanjut), memberikan fleksibilitas dalam pembacaan Al-Qur'an.",
+      "role": "none"
+    },
+    {
+      "index": 22,
       "kata_arab": "فَٱفْعَلُوا۟",
       "transliterasi": "fa'falū",
       "jenis_kata": "Fi'il Amar",
@@ -399,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 23,
       "kata_arab": "مَا",
       "transliterasi": "mā",
       "jenis_kata": "Isim Maushul",
@@ -417,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 24,
       "kata_arab": "تُؤْمَرُونَ",
       "transliterasi": "tu'marūna",
       "jenis_kata": "Fi'il Mudhari' Majhul",

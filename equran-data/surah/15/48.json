@@ -5,109 +5,145 @@
     {
       "index": 0,
       "kata_arab": "لَا",
-      "transliterasi": "lā",
-      "jenis_kata": "Huruf",
-      "arti": "tidak",
+      "transliterasi": "Lā",
+      "jenis_kata": "Harf Nafyi (Partikel Negasi)",
+      "arti": "Tidak",
       "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
+        "akar_kata": "N/A",
+        "makna_dasar": "Penafian atau peniadaan",
+        "wazan_perubahan": "N/A"
       },
       "nahwu": {
-        "kedudukan": "Harf nafi (negasi) di depan fi'il",
-        "irab_dan_logika": "Tidak berubah, berfungsi menafikan"
+        "kedudukan": "Harf Nafyi",
+        "irab_dan_logika": "Tidak memiliki kedudukan i'rab (mabni) dan tidak mengubah status i'rab kata kerja setelahnya (fi'il mudhari' tetap marfu')."
       },
-      "hikmah": "Menunjukkan penolakan, berarti ‘tidak’",
+      "hikmah": "Berfungsi untuk meniadakan terjadinya perbuatan (rasa lelah) bagi penghuni surga secara mutlak.",
       "role": "none"
     },
     {
       "index": 1,
-      "kata_arab": "يَمَسُّهُمْ",
-      "transliterasi": "yamassuhum",
-      "jenis_kata": "Fi'il",
-      "arti": "menyentuh mereka",
+      "kata_arab": "يَمَسُّهُمۡ",
+      "transliterasi": "Yamassuhum",
+      "jenis_kata": "Fi'il Mudhari' + Dhamir (Kata Kerja + Kata Ganti)",
+      "arti": "Menyentuh mereka",
       "sharaf": {
-        "akar_kata": "م س س",
-        "makna_dasar": "menyentuh",
-        "wazan_perubahan": "فعل مضارع مضعف"
+        "akar_kata": "m-s-s (م س س)",
+        "makna_dasar": "Menyentuh atau mengenai",
+        "wazan_perubahan": "Yaf'alu (Mudha'af)"
       },
       "nahwu": {
-        "kedudukan": "Fi'il mudhari' thulathi mushtaq bil dammah, mudhaf muttasil (hum) sebagai maf'ul bih",
-        "irab_dan_logika": "Verb tidak ber-i'rab; alif alif suffix \"hum\" berkasrah sebagai objek"
+        "kedudukan": "Fi'il Mudhari' Marfu' + Maf'ul Bih",
+        "irab_dan_logika": "Fi'il mudhari' marfu' dengan dhommah yang nampak. 'Hum' adalah dhamir muttasil yang berkedudukan sebagai objek (maf'ul bih)."
       },
-      "hikmah": "Tidak menyentuh mereka",
+      "hikmah": "Menunjukkan bahwa rasa lelah sedikit pun tidak akan pernah menyentuh apalagi menyakiti para penghuni surga.",
       "role": "none"
     },
     {
       "index": 2,
       "kata_arab": "فِيهَا",
-      "transliterasi": "fīhā",
-      "jenis_kata": "Huruf",
-      "arti": "di dalamnya",
+      "transliterasi": "Fīhā",
+      "jenis_kata": "Jar wa Majrur",
+      "arti": "Di dalamnya",
       "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
+        "akar_kata": "N/A",
+        "makna_dasar": "Keterangan tempat",
+        "wazan_perubahan": "N/A"
       },
       "nahwu": {
-        "kedudukan": "Harf jar + dhamir muttasil, menunjukkan tempat",
-        "irab_dan_logika": "\"fī\" berkasrah, dhamir \"hā\" berkasrah sebagai majrur"
+        "kedudukan": "Jar wa Majrur (Muta'alliq bi yamassuhum)",
+        "irab_dan_logika": "Fi' adalah harf jar, 'Ha' adalah dhamir muttasil (majrur) yang merujuk pada Al-Jannah (Surga)."
       },
-      "hikmah": "Menunjukkan lokasi, ‘di dalamnya’",
+      "hikmah": "Menegaskan bahwa di dalam lingkungan surga tersebut, segala bentuk ketidaknyamanan fisik ditiadakan.",
       "role": "none"
     },
     {
       "index": 3,
-      "kata_arab": "نَصَبٌۭ",
-      "transliterasi": "naṣabun",
-      "jenis_kata": "Isim",
-      "arti": "kelelahan",
+      "kata_arab": "نَصَبࣱ",
+      "transliterasi": "Naṣabun",
+      "jenis_kata": "Isim (Kata Benda)",
+      "arti": "Kelelahan / Kepayahan",
       "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
+        "akar_kata": "n-ṣ-b (ن ص ب)",
+        "makna_dasar": "Sesuatu yang ditegakkan atau rasa letih yang amat sangat",
+        "wazan_perubahan": "Fa'alun"
       },
       "nahwu": {
-        "kedudukan": "",
-        "irab_dan_logika": ""
+        "kedudukan": "Fa'il (Subjek)",
+        "irab_dan_logika": "Marfu' dengan tanda dhommatain. Ia adalah subjek yang melakukan perbuatan 'menyentuh' (yamassu)."
       },
-      "hikmah": "",
+      "hikmah": "Nasab merujuk pada rasa lelah yang timbul akibat usaha fisik atau beban pikiran, yang mana hal ini tidak ada di surga.",
       "role": "none"
     },
     {
       "index": 4,
-      "kata_arab": "مِّنْهَا",
-      "transliterasi": "min‑hā",
-      "jenis_kata": "Huruf (preposisi dengan suffiks pronoun)",
-      "arti": "dari‑nya / dari itu",
+      "kata_arab": "وَمَا",
+      "transliterasi": "Wa mā",
+      "jenis_kata": "Harf 'Athaf + Harf Nafyi",
+      "arti": "Dan tidak",
       "sharaf": {
-        "akar_kata": "مِن (partikel)",
-        "makna_dasar": "menunjuk asal atau sumber",
-        "wazan_perubahan": "tidak berlaku (partikel)"
+        "akar_kata": "N/A",
+        "makna_dasar": "Penyambung dan penafian",
+        "wazan_perubahan": "N/A"
       },
       "nahwu": {
-        "kedudukan": "**اسم جر** yang melengkapi huruf جر «مِن» dengan ضمير متصل «هَا»",
-        "irab_dan_logika": "مجرور بالكسرة الظاهرة على النون في «مِنْ»; الضمير المتصل لا يحمل علامة إعراب، لذا يبقى «هَا» بدون harakat"
+        "kedudukan": "Athaaf + Nafyi",
+        "irab_dan_logika": "Wa' menyambungkan kalimat baru ke kalimat sebelumnya. 'Ma' berfungsi menafikan kalimat isimiyyah setelahnya."
       },
-      "hikmah": "Menunjukkan bahwa sesuatu (dalam konteks ayat, surga) bersumber dari Allah dan tidak terlepas darinya.",
+      "hikmah": "Menambahkan jaminan keamanan lain bagi penghuni surga selain ketiadaan rasa lelah.",
       "role": "none"
     },
     {
       "index": 5,
-      "kata_arab": "بِمُخْرَجِينَ",
-      "transliterasi": "bi‑mukhrijīn",
-      "jenis_kata": "Isim (اسم فاعل) jamak مذكر سالم",
-      "arti": "orang‑orang yang dikeluarkan / yang keluar",
+      "kata_arab": "هُم",
+      "transliterasi": "Hum",
+      "jenis_kata": "Dhamir Munfasil (Kata Ganti Terpisah)",
+      "arti": "Mereka",
       "sharaf": {
-        "akar_kata": "خ ر ج",
-        "makna_dasar": "keluar, mengeluarkan",
-        "wazan_perubahan": "مُفْعِل (aktif participle) → مُخْرِج"
+        "akar_kata": "N/A",
+        "makna_dasar": "Kata ganti orang ketiga jamak laki-laki",
+        "wazan_perubahan": "N/A"
       },
       "nahwu": {
-        "kedudukan": "**اسم مجرور** بحرف الجر «بِ»",
-        "irab_dan_logika": "مجرور بالكسرة الظاهرة على النون لأن الكلمة مضافة إلى حرف الجر «بِ» وتُنصب بالكسرة في حالة الجر"
+        "kedudukan": "Mubtada' (Subjek)",
+        "irab_dan_logika": "Dhamir mabni dalam kedudukan rafa' sebagai permulaan kalimat (mubtada')."
       },
-      "hikmah": "Mengandung makna bahwa mereka tidak akan pernah dikeluarkan dari tempat yang dimaksud (surga), menegaskan kekekalan kenikmatan di dalamnya.",
+      "hikmah": "Merujuk kepada para penghuni surga yang telah disebutkan sebelumnya, menekankan kondisi permanen mereka.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "مِّنۡهَا",
+      "transliterasi": "minhā",
+      "jenis_kata": "Harf Jar & Isim Dhamir",
+      "arti": "darinya",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "Menunjukkan asal atau permulaan (ibtida' al-ghayah)",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Jar wa Majrur",
+        "irab_dan_logika": "Terdiri dari huruf jar 'min' dan kata ganti 'ha' (feminin tunggal) yang merujuk pada Al-Jannah (Surga). Secara sintaksis, frasa ini berkaitan (muta'alliq) dengan kata 'mukhrajin'."
+      },
+      "hikmah": "Kata ini menunjukkan bahwa titik awal perpindahan (keluar) tidak akan pernah terjadi bagi penduduk surga dari tempat tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "بِمُخۡرَجِينَ",
+      "transliterasi": "bi mukhrajīna",
+      "jenis_kata": "Harf Jar & Isim Maf'ul",
+      "arti": "orang-orang yang dikeluarkan",
+      "sharaf": {
+        "akar_kata": "kh-r-j (خ ر ج)",
+        "makna_dasar": "Keluar",
+        "wazan_perubahan": "Isim Maf'ul dari wazan 'Af'ala' (Mukhraj) dalam bentuk Jamak Mudzakkar Salim."
+      },
+      "nahwu": {
+        "kedudukan": "Khabar dari 'Ma' (Nafi)",
+        "irab_dan_logika": "Huruf 'bi' adalah Ba Zaidah (tambahan) untuk taukid (penguatan). 'Mukhrajina' majrur secara lafaz karena huruf 'bi', namun secara kedudukan (mahallan) adalah manshub sebagai khabar dari 'Ma' yang beramal seperti 'Laisa'."
+      },
+      "hikmah": "Penggunaan Isim Maf'ul (objek) yang diperkuat dengan huruf 'bi' menegaskan kepastian mutlak bahwa penduduk surga tidak akan pernah dipaksa keluar atau dikeluarkan oleh siapa pun.",
       "role": "none"
     }
   ]

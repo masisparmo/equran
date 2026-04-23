@@ -147,7 +147,25 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 12,
+      "kata_arab": "ۚ",
+      "transliterasi": "Waqf Mutlaq",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "Tanda berhenti sempurna",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca dalam Al-Qur'an",
+        "irab_dan_logika": "Tidak memiliki i'rab karena bukan bagian dari struktur kalimat gramatikal. Fungsinya adalah sebagai petunjuk untuk berhenti membaca."
+      },
+      "hikmah": "Tanda ini mengindikasikan bahwa pembaca dianjurkan untuk berhenti sejenak. Hal ini membantu dalam memahami makna kalimat sebelumnya secara utuh dan mengambil napas sebelum melanjutkan bacaan, sehingga pesan yang disampaikan dapat dicerna dengan baik.",
+      "role": "none"
+    },
+    {
+      "index": 13,
       "kata_arab": "أَفَلَا",
       "transliterasi": "Afalā",
       "jenis_kata": "Huruf (Gabungan dari Hamzah Istifham, Fa' Athaf, dan La Nafiyah)",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 14,
       "kata_arab": "تَعْقِلُونَ",
       "transliterasi": "Ta'qilūna",
       "jenis_kata": "Fi'il (Kata Kerja)",

@@ -454,6 +454,24 @@
     },
     {
       "index": 25,
+      "kata_arab": "ۚ",
+      "transliterasi": "-",
+      "jenis_kata": "Tanda Waqaf (Tanda Baca)",
+      "arti": "Tanda berhenti (waqaf jaiz, boleh berhenti atau melanjutkan)",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Bukan kata, melainkan tanda baca dalam mushaf Al-Qur'an",
+        "irab_dan_logika": "Tidak memiliki i'rab. Ini adalah tanda waqaf 'jaiz' (boleh berhenti atau melanjutkan), yang menunjukkan bahwa makna kalimat sebelumnya sudah lengkap, namun ada korelasi makna dengan kalimat berikutnya. Memberikan jeda untuk merenungkan jawaban yang telah diucapkan."
+      },
+      "hikmah": "Tanda ini berfungsi sebagai jeda yang strategis, memungkinkan pembaca untuk meresapi pengakuan 'Allah' sebelum beralih ke pertanyaan berikutnya yang bersifat teguran. Ini menekankan pentingnya refleksi atas kebenaran yang telah diakui.",
+      "role": "none"
+    },
+    {
+      "index": 26,
       "kata_arab": "فَقُلْ",
       "transliterasi": "Faqul",
       "jenis_kata": "Huruf (Fa') dan Fi'il (Kata Kerja)",
@@ -471,7 +489,7 @@
       "role": "none"
     },
     {
-      "index": 26,
+      "index": 27,
       "kata_arab": "أَفَلَا",
       "transliterasi": "Afalā",
       "jenis_kata": "Gabungan Huruf (Hamzah Istifham, Fa', La Nafy)",
@@ -489,7 +507,7 @@
       "role": "none"
     },
     {
-      "index": 27,
+      "index": 28,
       "kata_arab": "تَتَّقُونَ",
       "transliterasi": "Tattaqūn",
       "jenis_kata": "Fi'il (Kata Kerja)",

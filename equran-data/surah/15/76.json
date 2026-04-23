@@ -4,56 +4,56 @@
   "words": [
     {
       "index": 0,
-      "kata_arab": "وَإِنَّهَا",
-      "transliterasi": "wa‑innaha",
-      "jenis_kata": "Huruf (partikel)",
-      "arti": "**dan sesungguhnya dia** (kota itu)",
+      "kata_arab": "وَإِنَّهَا",
+      "transliterasi": "wa innahā",
+      "jenis_kata": "Harf (Kata Sambung & Penegas) + Isim (Kata Ganti)",
+      "arti": "Dan sesungguhnya ia (negeri itu)",
       "sharaf": {
-        "akar_kata": "أ‑ن",
-        "makna_dasar": "menegaskan, menekankan",
-        "wazan_perubahan": "أَفَعَل"
+        "akar_kata": "ا ن ن (A-N-N)",
+        "makna_dasar": "Penekanan atau penguatan informasi",
+        "wazan_perubahan": "N/A (Harf Musyabbah bi al-Fi'l)"
       },
       "nahwu": {
-        "kedudukan": "Khabar (predikat) setelah huruf توكيد *inna*",
-        "irab_dan_logika": "مُنصَبٌ karena *inna* menuntut nasb pada kata berikutnya"
+        "kedudukan": "Wa (Isti'nafiyah), Inna (Harf Taukid), Ha (Isim Inna)",
+        "irab_dan_logika": "Huruf 'wa' memulai kalimat baru. 'Inna' berfungsi menasabkan isim di depannya. 'Ha' adalah dhomir muttasil mabni yang berkedudukan sebagai Isim Inna (merujuk pada negeri kaum Luth)."
       },
-      "hikmah": "Menegaskan keberadaan kota dengan kepastian yang kuat",
+      "hikmah": "Kata ini berfungsi memberikan penekanan yang sangat kuat bahwa keberadaan negeri yang hancur tersebut adalah fakta yang nyata.",
       "role": "none"
     },
     {
       "index": 1,
-      "kata_arab": "لَبِسَبِيلٍ",
-      "transliterasi": "la‑bi‑sabeelin",
-      "jenis_kata": "Huruf (lam al‑taʿkīd) + Preposisi + Isim",
-      "arti": "**memang di jalan**",
+      "kata_arab": "لَبِسَبِيلࣲ",
+      "transliterasi": "labisabīlin",
+      "jenis_kata": "Harf (Awalan) + Isim (Kata Benda)",
+      "arti": "benar-benar di jalan",
       "sharaf": {
-        "akar_kata": "س‑ب‑ل",
-        "makna_dasar": "jalan, cara, petunjuk",
-        "wazan_perubahan": "فَعِل"
+        "akar_kata": "س ب ل (S-B-L)",
+        "makna_dasar": "Jalan, lintasan, atau cara",
+        "wazan_perubahan": "Fa'īl (فَعِيْل)"
       },
       "nahwu": {
-        "kedudukan": "Frasa preposisional *bi‑sabeelin* yang menjadi bagian dari predikat",
-        "irab_dan_logika": "مرفوع بالضمة المقدرة على النون karena lam al‑taʿkīd, sedangkan *sabeelin* مجرور بالكسرة sebagai objek preposisi *bi*"
+        "kedudukan": "Lam al-Muzahlaqah + Jar wa Majrur (Khabar Inna)",
+        "irab_dan_logika": "Huruf 'La' adalah Lam Taukid untuk penguatan. 'Bi' adalah harf jar yang membuat kata 'sabilin' menjadi majrur (berharakat kasrah). Secara keseluruhan berkedudukan sebagai Khabar dari Inna."
       },
-      "hikmah": "Menunjukkan bahwa kota itu terletak pada suatu jalan yang tetap dan dapat dilalui",
+      "hikmah": "Menegaskan bahwa lokasi reruntuhan tersebut berada tepat di jalur perjalanan (rute dagang) yang nyata dan bisa disaksikan.",
       "role": "none"
     },
     {
       "index": 2,
-      "kata_arab": "مُّقِيمٍ",
-      "transliterasi": "muqimin",
-      "jenis_kata": "Isim (اسم الفاعل)",
-      "arti": "**yang tetap, yang berada**",
+      "kata_arab": "مُّقِيمٍ",
+      "transliterasi": "muqīmin",
+      "jenis_kata": "Isim Fa'il (Kata Benda Pelaku)",
+      "arti": "yang tetap / yang masih ada",
       "sharaf": {
-        "akar_kata": "ق‑و‑م",
-        "makna_dasar": "berdiri, menetap, tetap",
-        "wazan_perubahan": "مُفَعِل"
+        "akar_kata": "ق و م (Q-W-M)",
+        "makna_dasar": "Berdiri, tegak, atau menetap",
+        "wazan_perubahan": "Muf'il (مُفْعِل) dari Bab Af'ala (Aqāma)"
       },
       "nahwu": {
-        "kedudukan": "Sifat (isim sifat) yang menerangkan *sabeel*",
-        "irab_dan_logika": "مجرور بالكسرة karena termasuk dalam frasa preposisional *bi‑sabeelin*"
+        "kedudukan": "Na'at (Sifat)",
+        "irab_dan_logika": "Majrur dengan tanda kasratain karena mengikuti kata 'sabilin' yang disifatinya."
       },
-      "hikmah": "Memberi penegasan bahwa jalan tersebut adalah jalan yang terus-menerus ada dan dapat diikuti manusia",
+      "hikmah": "Menjelaskan bahwa jalan tersebut bukan jalan yang sudah hilang, melainkan jalan yang masih tetap eksis, jelas jejaknya, dan masih dilalui oleh manusia hingga saat itu.",
       "role": "none"
     }
   ]

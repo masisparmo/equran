@@ -4,128 +4,146 @@
   "words": [
     {
       "index": 0,
-      "kata_arab": "وَلَقَدْ",
-      "transliterasi": "*wa laqad*",
-      "jenis_kata": "*Huruf*",
-      "arti": "*dan sesungguhnya*",
+      "kata_arab": "وَلَقَدۡ",
+      "transliterasi": "wa laqad",
+      "jenis_kata": "kata sambung",
+      "arti": "dan sungguh",
       "sharaf": {
-        "akar_kata": "*قَد*",
-        "makna_dasar": "*telah*",
-        "wazan_perubahan": "*partikel, tidak berubah*"
+        "akar_kata": "q-d",
+        "makna_dasar": "menguatkan atau menegaskan",
+        "wazan_perubahan": "lam-ta'kid"
       },
       "nahwu": {
-        "kedudukan": "*Huruf penghubung (و) + huruf penegas (لَقَد) yang mendahului fi'il*",
-        "irab_dan_logika": "*Tidak berikhtibar karena huruf; wa berfatḥah, laqad ber­sukun pada د karena huruf tidak berkasrah*"
+        "kedudukan": "kata sambung",
+        "irab_dan_logika": "menghubungkan kalimat dan menegaskan kebenaran"
       },
-      "hikmah": "*Menegaskan kepastian Allah dalam menciptakan sesuatu, memberi bobot pada ayat berikutnya*",
+      "hikmah": "menegaskan kebenaran kalimat yang akan disampaikan",
       "role": "none"
     },
     {
       "index": 1,
-      "kata_arab": "جَعَلْنَا",
-      "transliterasi": "*jaʿalnā*",
-      "jenis_kata": "*Fiʿil*",
-      "arti": "*Kami menjadikan*",
+      "kata_arab": "جَعَلۡنَا",
+      "transliterasi": "ja'alna",
+      "jenis_kata": "kata kerja",
+      "arti": "kami jadikan",
       "sharaf": {
-        "akar_kata": "*ج‑ع‑ل*",
-        "makna_dasar": "*menetapkan, menjadikan*",
-        "wazan_perubahan": "*فعل ماضٍ مبني على السكون مع ضمير المتكلم الجمع*"
+        "akar_kata": "j-'-l",
+        "makna_dasar": "membuat atau menjadikan",
+        "wazan_perubahan": "fi'il madhi"
       },
       "nahwu": {
-        "kedudukan": "*فعل ماضٍ مبني على السكون، فاعله ضمير مستتر \"kami\"*",
-        "irab_dan_logika": "*الفعل مرفوع بالضمة المقدرة على النون، لا إعراب للضمير المتكلم*"
+        "kedudukan": "kata kerja",
+        "irab_dan_logika": "menjelaskan tindakan yang dilakukan oleh subyek"
       },
-      "hikmah": "*Menunjukkan tindakan aktif Allah dalam menciptakan gugusan bintang di langit*",
+      "hikmah": "menjelaskan tindakan penciptaan yang dilakukan oleh Allah",
       "role": "none"
     },
     {
       "index": 2,
-      "kata_arab": "فِى",
-      "transliterasi": "*fī*",
-      "jenis_kata": "*Huruf*",
-      "arti": "*di dalam*",
+      "kata_arab": "فِي",
+      "transliterasi": "fi",
+      "jenis_kata": "kata depan",
+      "arti": "di",
       "sharaf": {
-        "akar_kata": "*—*",
-        "makna_dasar": "*preposisi tempat*",
-        "wazan_perubahan": "*tidak berubah*"
+        "akar_kata": "f-y",
+        "makna_dasar": "di dalam atau di atas",
+        "wazan_perubahan": "kata depan"
       },
       "nahwu": {
-        "kedudukan": "*حرف جر يسبق اسمًا مجرورًا*",
-        "irab_dan_logika": "*حرف جر لا إعراب له، يجر ما بعده*"
+        "kedudukan": "kata depan",
+        "irab_dan_logika": "menunjukkan lokasi atau tempat"
       },
-      "hikmah": "*Menunjukkan lokasi keberadaan gugusan bintang, yaitu di dalam langit*",
+      "hikmah": "menunjukkan lokasi atau tempat di mana gugusan bintang diciptakan",
       "role": "none"
     },
     {
       "index": 3,
-      "kata_arab": "ٱلسَّمَآءِ",
-      "transliterasi": "*as‑samāʾi*",
-      "jenis_kata": "*Isim*",
-      "arti": "*langit*",
+      "kata_arab": "ٱلسَّمَآءِ",
+      "transliterasi": "as-sama'",
+      "jenis_kata": "kata benda",
+      "arti": "langit",
       "sharaf": {
-        "akar_kata": "*س‑م‑و*",
-        "makna_dasar": "*ketinggian, ruang atas*",
-        "wazan_perubahan": "*اسم مرفوع/مجرور حسب موقعه، هنا مجرور بالكسرة*"
+        "akar_kata": "s-m-w",
+        "makna_dasar": "tinggi atau atas",
+        "wazan_perubahan": "kata benda"
       },
       "nahwu": {
-        "kedudukan": "*اسم مجرور بـ \"في\"*",
-        "irab_dan_logika": "*الكسرة الظاهرة على آخره دليل الجر بعد حرف الجر \"في\"*"
+        "kedudukan": "objek",
+        "irab_dan_logika": "menjadi tempat di mana gugusan bintang diciptakan"
       },
-      "hikmah": "*Menandakan tempat yang diciptakan Allah, yaitu langit tempat bintang-bintang berada*",
+      "hikmah": "menjadi tempat di mana gugusan bintang diciptakan",
       "role": "none"
     },
     {
       "index": 4,
-      "kata_arab": "بُرُوجًۭا",
-      "transliterasi": "*burūjan*",
-      "jenis_kata": "*Isim*",
-      "arti": "*gugusan bintang* (jamak tak teratur dari \"برج\")",
+      "kata_arab": "بُرُوجࣰ",
+      "transliterasi": "buruj",
+      "jenis_kata": "kata benda",
+      "arti": "gugusan bintang",
       "sharaf": {
-        "akar_kata": "*ب‑ر‑ج*",
-        "makna_dasar": "*menara, kumpulan*",
-        "wazan_perubahan": "*جمع تكسير (بُرُوج) مع تنوين النصب*"
+        "akar_kata": "b-r-j",
+        "makna_dasar": "menara atau gugusan",
+        "wazan_perubahan": "kata benda"
       },
       "nahwu": {
-        "kedudukan": "*مفعول به منصوب للفعل \"جعلنا\"*",
-        "irab_dan_logika": "*الفتحة الظاهرة على آخره مع تنوين النصب دليل النصب لأن الفعل ماضٍ يحتاج مفعول به*"
+        "kedudukan": "objek",
+        "irab_dan_logika": "menjadi hasil penciptaan Allah"
       },
-      "hikmah": "*Menggambarkan keindahan dan keteraturan ciptaan Allah berupa gugusan bintang di langit*",
+      "hikmah": "menjadi hasil penciptaan Allah yang indah dan bermanfaat",
       "role": "none"
     },
     {
       "index": 5,
-      "kata_arab": "وَزَيَّنَّٰهَا",
-      "transliterasi": "*wa zayyannāhā*",
-      "jenis_kata": "*Fiʿil*",
-      "arti": "*dan Kami menghiasinya*",
+      "kata_arab": "ا",
+      "transliterasi": "-",
+      "jenis_kata": "Huruf Tambahan",
+      "arti": "-",
       "sharaf": {
-        "akar_kata": "*ز‑ي‑ن*",
-        "makna_dasar": "*menyempurnakan, menghias*",
-        "wazan_perubahan": "*فعل ماضٍ مبني على السكون مع ضمير المتكلم الجمع وضمير متصل \"ها\"*"
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
       },
       "nahwu": {
-        "kedudukan": "*فعل ماضٍ معواصِل؛ الواو حرف عطف، الفعل مرفوع بالضمة، والضمير المتصل \"ها\" مفعول به منصوب*",
-        "irab_dan_logika": "*الواو عاطفة لا إعراب لها؛ الفعل مرفوع لأن فعل ماضٍ، والضمير المتصل منصوب لأنه مفعول به*"
+        "kedudukan": "-",
+        "irab_dan_logika": "-"
       },
-      "hikmah": "*Menegaskan bahwa Allah tidak hanya menciptakan, tetapi juga menghias langit agar indah bagi orang yang memandangnya*",
+      "hikmah": "Huruf Alif tambahan (silent letter / tidak dibaca).",
       "role": "none"
     },
     {
       "index": 6,
-      "kata_arab": "لِلنَّٰظِرِينَ",
-      "transliterasi": "li‑l‑naẓirīna",
-      "jenis_kata": "Isim (Jarr)",
-      "arti": "bagi orang yang melihat",
+      "kata_arab": "وَزَيَّنَّٰهَا",
+      "transliterasi": "wa zayyannāhā",
+      "jenis_kata": "Fi'il Madhi + Dhamir (Kata Kerja Lampau + Kata Ganti)",
+      "arti": "dan Kami telah menghiasinya",
       "sharaf": {
-        "akar_kata": "ن ظ ر",
-        "makna_dasar": "melihat",
-        "wazan_perubahan": "اسم الفاعل (فَاعِل) dengan jamak مذكر سالم"
+        "akar_kata": "z-y-n (ز ي ن)",
+        "makna_dasar": "keindahan atau perhiasan",
+        "wazan_perubahan": "Fa''ala (فَعَّلَ) yang bermakna intensif atau melakukan sesuatu dengan sungguh-sungguh (tazyin)"
       },
       "nahwu": {
-        "kedudukan": "مجرور بحرف الجر (لِ)",
-        "irab_dan_logika": "حرف الجر «لِ» يجر الاسم فتنتهي الكلمة بالكسرة الظاهرة على آخرها"
+        "kedudukan": "Fi'il, Fa'il, dan Maf'ul bih",
+        "irab_dan_logika": "Huruf 'wa' adalah athaf. 'Zayyan' adalah fi'il madhi mabni di atas sukun karena bersambung dengan 'na' (mutakallim ma'al ghair) sebagai subjek (Fa'il). 'Ha' adalah dhamir muttasil sebagai objek (Maf'ul bih) yang merujuk pada langit (as-sama')."
       },
-      "hikmah": "Langit yang dihiasi bukan sekadar keindahan semata, melainkan tanda bagi *para pengamat* yang menatapnya; dengan melihat ciptaan Allah, hati mereka teringat akan kebesaran Sang Pencipta dan menguatkan keimanan.",
+      "hikmah": "Kata ini menunjukkan bahwa Allah secara aktif dan sengaja memperindah langit dengan gugusan bintang agar tidak hanya berfungsi secara fisik, tetapi juga memiliki nilai estetika bagi manusia.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "لِلنَّٰظِرِينَ",
+      "transliterasi": "lin-nāẓirīn",
+      "jenis_kata": "Harf Jar + Isim Fa'il (Kata Benda Pelaku)",
+      "arti": "bagi orang-orang yang memandang",
+      "sharaf": {
+        "akar_kata": "n-zh-r (ن ظ ر)",
+        "makna_dasar": "melihat, memperhatikan, atau merenungkan",
+        "wazan_perubahan": "Fa'ilin (فَاعِلِيْن) merupakan bentuk jamak mudzakkar salim dari isim fa'il (pelaku)"
+      },
+      "nahwu": {
+        "kedudukan": "Jar wa Majrur",
+        "irab_dan_logika": "Huruf 'li' adalah harf jar (untuk/bagi). 'An-nāẓirīn' adalah majrur dengan tanda 'ya' karena merupakan Jam' Mudzakkar Salim. Secara logika, ini menjelaskan tujuan dari keindahan tersebut."
+      },
+      "hikmah": "Keindahan langit diciptakan khusus untuk subjek yang memiliki kemampuan melihat dan merenung (manusia), sebagai sarana untuk mengenal keagungan Pencipta melalui pengamatan visual.",
       "role": "none"
     }
   ]

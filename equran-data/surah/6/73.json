@@ -382,6 +382,24 @@
     },
     {
       "index": 21,
+      "kata_arab": "ۚ",
+      "transliterasi": "waqf",
+      "jenis_kata": "Isyarat",
+      "arti": "tanda berhenti",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqf (tanda baca) yang memisahkan bagian kalimat",
+        "irab_dan_logika": "Tidak memiliki إعراب"
+      },
+      "hikmah": "Memberi jeda untuk menekankan makna sebelumnya sebelum melanjutkan ke frasa berikutnya.",
+      "role": "none"
+    },
+    {
+      "index": 22,
       "kata_arab": "عَالِمُ",
       "transliterasi": "ʿālimu",
       "jenis_kata": "Isim",
@@ -399,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 24,
       "kata_arab": "وَٱلشَّهَٰدَةِ",
       "transliterasi": "wa ash-shahādati",
       "jenis_kata": "Isim",
@@ -417,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 25,
       "kata_arab": "ۚ",
       "transliterasi": "waqf",
       "jenis_kata": "Huruf",
@@ -435,7 +453,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 26,
       "kata_arab": "وَهُوَ",
       "transliterasi": "wa huwa",
       "jenis_kata": "Isim",
@@ -453,7 +471,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 27,
       "kata_arab": "ٱلْحَكِيمُ",
       "transliterasi": "al-ḥakīmu",
       "jenis_kata": "Isim",
@@ -471,7 +489,7 @@
       "role": "none"
     },
     {
-      "index": 26,
+      "index": 28,
       "kata_arab": "ٱلْخَبِيرُ",
       "transliterasi": "al-khabīru",
       "jenis_kata": "Isim",

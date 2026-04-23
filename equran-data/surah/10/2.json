@@ -364,6 +364,24 @@
     },
     {
       "index": 20,
+      "kata_arab": "ۗ",
+      "transliterasi": "",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "Tanda berhenti (waqaf lazim/mu'anaqah)",
+      "sharaf": {
+        "akar_kata": "Tidak ada",
+        "makna_dasar": "Tidak ada",
+        "wazan_perubahan": "Tidak ada"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca Al-Qur'an",
+        "irab_dan_logika": "Tidak ada i'rab karena ini adalah tanda baca, bukan kata."
+      },
+      "hikmah": "Menunjukkan tempat yang dianjurkan untuk berhenti membaca, menandakan selesainya satu bagian makna atau kalimat. Dalam konteks ini, menandai akhir dari pernyataan tentang kedudukan orang beriman sebelum beralih ke pernyataan orang kafir.",
+      "role": "none"
+    },
+    {
+      "index": 21,
       "kata_arab": "قَالَ",
       "transliterasi": "qāla",
       "jenis_kata": "Fi'il",
@@ -381,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 22,
       "kata_arab": "ٱلْكَٰفِرُونَ",
       "transliterasi": "al-kāfirūna",
       "jenis_kata": "Isim",
@@ -399,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 23,
       "kata_arab": "إِنَّ",
       "transliterasi": "inna",
       "jenis_kata": "Huruf",
@@ -417,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 24,
       "kata_arab": "هَٰذَا",
       "transliterasi": "Hādhā",
       "jenis_kata": "Isim Isyarah",
@@ -435,7 +453,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 25,
       "kata_arab": "لَسَٰحِرٌۭ",
       "transliterasi": "Lasāḥirun",
       "jenis_kata": "Isim Fa'il",
@@ -453,7 +471,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 26,
       "kata_arab": "مُّبِينٌ",
       "transliterasi": "Mubīnun",
       "jenis_kata": "Isim Fa'il / Sifat Musyabbahah",

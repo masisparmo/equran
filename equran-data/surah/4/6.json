@@ -364,6 +364,24 @@
     },
     {
       "index": 20,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "Tanda Baca (Waqaf Lazim)",
+      "arti": "Tidak ada arti harfiah, tanda berhenti",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Tidak berlaku",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda Waqaf Lazim",
+        "irab_dan_logika": "Tanda ini menunjukkan bahwa pembaca *harus* berhenti di sini. Ini menandakan akhir dari satu klausa atau ide penting dan permulaan ide baru, membantu dalam pemahaman makna."
+      },
+      "hikmah": "Tanda waqaf ini memisahkan dua bagian penting dari instruksi Allah: pertama, tentang pengujian anak yatim hingga dewasa; kedua, tentang pengelolaan harta mereka setelah dewasa dan etika bagi para wali. Ini membantu pembaca memahami struktur dan alur makna ayat.",
+      "role": "none"
+    },
+    {
+      "index": 21,
       "kata_arab": "وَمَن",
       "transliterasi": "wa man",
       "jenis_kata": "Huruf (Wawu) + Isim Syarat (Man)",
@@ -381,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 22,
       "kata_arab": "كَانَ",
       "transliterasi": "kāna",
       "jenis_kata": "Fi'il Madhi Naqish",
@@ -399,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 23,
       "kata_arab": "غَنِيًّۭا",
       "transliterasi": "ghaniyyan",
       "jenis_kata": "Isim (Sifat/Kata Sifat)",
@@ -417,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 24,
       "kata_arab": "فَلْيَسْتَعْفِفْ",
       "transliterasi": "fal-yasta'fif",
       "jenis_kata": "Fi'il",
@@ -435,7 +453,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 25,
       "kata_arab": "ۖ",
       "transliterasi": "(tanda waqaf)",
       "jenis_kata": "Huruf (tanda baca)",
@@ -453,7 +471,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 26,
       "kata_arab": "وَمَن",
       "transliterasi": "wa man",
       "jenis_kata": "Huruf dan Isim Syarat",
@@ -471,7 +489,7 @@
       "role": "none"
     },
     {
-      "index": 26,
+      "index": 27,
       "kata_arab": "كَانَ",
       "transliterasi": "kaana",
       "jenis_kata": "Fi'il Naqis (kata kerja bantu)",
@@ -489,7 +507,7 @@
       "role": "none"
     },
     {
-      "index": 27,
+      "index": 28,
       "kata_arab": "فَقِيرًۭا",
       "transliterasi": "faqīran",
       "jenis_kata": "Isim (kata benda/sifat)",
@@ -507,7 +525,7 @@
       "role": "none"
     },
     {
-      "index": 28,
+      "index": 29,
       "kata_arab": "فَلْيَأْكُلْ",
       "transliterasi": "fal-ya'kul",
       "jenis_kata": "Fi'il",
@@ -525,7 +543,7 @@
       "role": "none"
     },
     {
-      "index": 29,
+      "index": 30,
       "kata_arab": "بِٱلْمَعْرُوفِ",
       "transliterasi": "bil-ma'rūfi",
       "jenis_kata": "Isim (dengan huruf jar)",
@@ -543,7 +561,7 @@
       "role": "none"
     },
     {
-      "index": 30,
+      "index": 31,
       "kata_arab": "ۚ",
       "transliterasi": "(tanda waqaf lazim)",
       "jenis_kata": "Huruf (tanda baca)",
@@ -561,7 +579,7 @@
       "role": "none"
     },
     {
-      "index": 31,
+      "index": 32,
       "kata_arab": "فَإِذَا",
       "transliterasi": "fa-idhā",
       "jenis_kata": "Huruf (partikel)",
@@ -579,7 +597,7 @@
       "role": "none"
     },
     {
-      "index": 32,
+      "index": 33,
       "kata_arab": "دَفَعْتُمْ",
       "transliterasi": "dafa'tum",
       "jenis_kata": "Fi'il (kata kerja)",
@@ -597,7 +615,7 @@
       "role": "none"
     },
     {
-      "index": 33,
+      "index": 34,
       "kata_arab": "إِلَيْهِمْ",
       "transliterasi": "ilayhim",
       "jenis_kata": "Huruf (dengan dhomir)",
@@ -615,7 +633,7 @@
       "role": "none"
     },
     {
-      "index": 34,
+      "index": 35,
       "kata_arab": "أَمْوَٰلَهُمْ",
       "transliterasi": "amwālahum",
       "jenis_kata": "Isim (dengan dhomir)",
@@ -633,7 +651,7 @@
       "role": "none"
     },
     {
-      "index": 35,
+      "index": 36,
       "kata_arab": "فَأَشْهِدُوا۟",
       "transliterasi": "fa-asyhidū",
       "jenis_kata": "Fi'il",
@@ -651,7 +669,7 @@
       "role": "none"
     },
     {
-      "index": 36,
+      "index": 37,
       "kata_arab": "عَلَيْهِمْ",
       "transliterasi": "alaihim",
       "jenis_kata": "Huruf Jar + Isim Dhamir",
@@ -669,7 +687,25 @@
       "role": "none"
     },
     {
-      "index": 37,
+      "index": 38,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "(tanda berhenti)",
+      "sharaf": {
+        "akar_kata": "(tidak berlaku)",
+        "makna_dasar": "(tidak berlaku)",
+        "wazan_perubahan": "(tidak berlaku)"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca Al-Qur'an",
+        "irab_dan_logika": "Tanda waqaf jaiz (boleh berhenti atau melanjutkan). Menunjukkan akhir dari satu klausa atau ide, namun masih terkait dengan klausa berikutnya."
+      },
+      "hikmah": "Tanda waqaf ini mengindikasikan jeda yang disarankan dalam pembacaan, memisahkan perintah untuk bersaksi dari pernyataan tentang cukuplah Allah sebagai Pengawas. Meskipun ada jeda, kedua bagian ayat ini masih saling melengkapi dalam konteks menjaga amanah harta anak yatim.",
+      "role": "none"
+    },
+    {
+      "index": 39,
       "kata_arab": "وَكَفَىٰ",
       "transliterasi": "wa-kafā",
       "jenis_kata": "Fi'il",
@@ -687,7 +723,7 @@
       "role": "none"
     },
     {
-      "index": 38,
+      "index": 40,
       "kata_arab": "بِٱللَّهِ",
       "transliterasi": "bi-llāhi",
       "jenis_kata": "Huruf Jar + Isim",
@@ -705,7 +741,7 @@
       "role": "none"
     },
     {
-      "index": 39,
+      "index": 41,
       "kata_arab": "حَسِيبًۭا",
       "transliterasi": "ḥasīban",
       "jenis_kata": "Isim",

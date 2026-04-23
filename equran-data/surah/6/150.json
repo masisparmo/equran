@@ -39,7 +39,7 @@
       "role": "none"
     },
     {
-      "index": 2,
+      "index": 6,
       "kata_arab": "ٱللَّهَ",
       "transliterasi": "Allāha",
       "jenis_kata": "Isim",
@@ -57,7 +57,7 @@
       "role": "none"
     },
     {
-      "index": 3,
+      "index": 7,
       "kata_arab": "حَرَّمَ",
       "transliterasi": "ḥarrama",
       "jenis_kata": "Fi'il",
@@ -75,7 +75,7 @@
       "role": "none"
     },
     {
-      "index": 4,
+      "index": 8,
       "kata_arab": "هَٰذَا",
       "transliterasi": "hādhā",
       "jenis_kata": "Isim",
@@ -93,7 +93,7 @@
       "role": "none"
     },
     {
-      "index": 5,
+      "index": 9,
       "kata_arab": "ۖ",
       "transliterasi": "",
       "jenis_kata": "Huruf",
@@ -111,7 +111,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 10,
       "kata_arab": "فَإِن",
       "transliterasi": "fa‑in",
       "jenis_kata": "Huruf",
@@ -129,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 11,
       "kata_arab": "شَهِدُوا۟",
       "transliterasi": "shahīdū",
       "jenis_kata": "Fi'il",
@@ -147,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 12,
       "kata_arab": "فَلَا",
       "transliterasi": "fa-lā",
       "jenis_kata": "Huruf",
@@ -165,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 13,
       "kata_arab": "تَشْهَدْ",
       "transliterasi": "tashhad",
       "jenis_kata": "Fi'il",
@@ -183,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 14,
       "kata_arab": "مَعَهُمْ",
       "transliterasi": "ma‘ahum",
       "jenis_kata": "Huruf jar + ضمير",
@@ -201,7 +201,25 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 15,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Tanda waqf",
+      "arti": "tanda jeda",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "simbol waqf (tanda berhenti)",
+        "irab_dan_logika": "tidak memengaruhi i‘rab, hanya memisahkan dua perintah"
+      },
+      "hikmah": "memberi jeda untuk menekankan perintah pertama sebelum melanjutkan",
+      "role": "none"
+    },
+    {
+      "index": 16,
       "kata_arab": "وَلَا",
       "transliterasi": "wa-lā",
       "jenis_kata": "Huruf",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 17,
       "kata_arab": "تَتَّبِعْ",
       "transliterasi": "tattabi‘",
       "jenis_kata": "Fi'il",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 18,
       "kata_arab": "أَهْوَآءَ",
       "transliterasi": "ahwāʾa",
       "jenis_kata": "Isim",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 19,
       "kata_arab": "ٱلَّذِينَ",
       "transliterasi": "alladhīna",
       "jenis_kata": "Isim (اسم موصول)",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 20,
       "kata_arab": "كَذَّبُوا۟",
       "transliterasi": "kadhdhabū",
       "jenis_kata": "Fi'il (verb)",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 24,
       "kata_arab": "يُؤْمِنُونَ",
       "transliterasi": "yu'minūna",
       "jenis_kata": "Fi'il",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 25,
       "kata_arab": "بِٱلْءَاخِرَةِ",
       "transliterasi": "bil-ākhirati",
       "jenis_kata": "Huruf + Isim",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 26,
       "kata_arab": "وَهُم",
       "transliterasi": "",
       "jenis_kata": "Huruf + Isim",
@@ -345,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 27,
       "kata_arab": "بِرَبِّهِمْ",
       "transliterasi": "",
       "jenis_kata": "Huruf + Isim + ضمير متصل",
@@ -363,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 28,
       "kata_arab": "يَعْدِلُونَ",
       "transliterasi": "",
       "jenis_kata": "Fi'il",

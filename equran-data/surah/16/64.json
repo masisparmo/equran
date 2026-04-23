@@ -73,6 +73,204 @@
       },
       "hikmah": "Al-Kitab di sini merujuk khusus kepada Al-Qur'an sebagai mukjizat tertulis yang abadi.",
       "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "إِلَّا",
+      "transliterasi": "Illā",
+      "jenis_kata": "Harf Istitsna",
+      "arti": "Melainkan / Kecuali",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "Pengecualian atau pembatasan (Hashr).",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Adatul Hashr",
+        "irab_dan_logika": "Mabni. Karena didahului negasi (Ma), maka berfungsi membatasi tujuan (takhshis)."
+      },
+      "hikmah": "Menegaskan bahwa tujuan utama dan satu-satunya dari penurunan Al-Qur'an adalah poin yang akan disebutkan setelahnya.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "لِتُبَيِّنَ",
+      "transliterasi": "Li tubayyina",
+      "jenis_kata": "Fi'il Mudhari'",
+      "arti": "Agar engkau menjelaskan",
+      "sharaf": {
+        "akar_kata": "ب - ي - ن (b-y-n)",
+        "makna_dasar": "Jelas atau terpisah",
+        "wazan_perubahan": "Fa''ala (فعّل) yang bermakna membuat sesuatu menjadi jelas (menjelaskan)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Manshub",
+        "irab_dan_logika": "Manshub dengan fathah karena adanya 'Lam Ta'lil' (huruf alasan) yang menyembunyikan 'An' mashdariyah."
+      },
+      "hikmah": "Tugas utama Rasulullah SAW adalah memberikan penjelasan (tabyin) terhadap isi Al-Qur'an agar manusia tidak berselisih.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "لَهُمُ",
+      "transliterasi": "lahumu",
+      "jenis_kata": "Harf Jar & Dhamir",
+      "arti": "kepada mereka",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "Penunjukan arah atau peruntukan",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Jar wa Majrur",
+        "irab_dan_logika": "Terdiri dari 'li' (untuk/kepada) dan 'hum' (mereka). Harakat dhommah pada mim (humu) muncul untuk menghindari pertemuan dua sukun (iltiqa' as-sakinayn) dengan kata setelahnya."
+      },
+      "hikmah": "Menunjukkan bahwa penjelasan yang dibawa Nabi Muhammad ditujukan secara spesifik kepada kaum yang berselisih tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "ٱلَّذِي",
+      "transliterasi": "alladhī",
+      "jenis_kata": "Ism Mawshul",
+      "arti": "yang / apa yang",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "Kata ganti penghubung (Relative Pronoun)",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul Bih (Objek)",
+        "irab_dan_logika": "Mabni (tetap), menempati posisi nashab sebagai objek dari kata kerja 'tubayyina' (menjelaskan)."
+      },
+      "hikmah": "Berfungsi sebagai penghubung untuk merujuk pada perkara atau topik yang menjadi sumber perselisihan.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "ٱخۡتَلَفُواْ",
+      "transliterasi": "ikhtalafū",
+      "jenis_kata": "Fi'il Madhi",
+      "arti": "mereka telah berselisih",
+      "sharaf": {
+        "akar_kata": "kh-l-f (خلف)",
+        "makna_dasar": "Berbeda atau berada di belakang",
+        "wazan_perubahan": "Ifta'ala (إفتعل)"
+      },
+      "nahwu": {
+        "kedudukan": "Silah al-Mawshul",
+        "irab_dan_logika": "Mabni 'ala dhommi karena bersambung dengan Wawu Jama'ah (subjek 'mereka'). Kalimat ini menjelaskan isi dari kata 'alladhi'."
+      },
+      "hikmah": "Menunjukkan adanya tindakan perselisihan atau perbedaan pendapat yang terjadi di masa lalu sebelum Al-Qur'an memberikan ketetapan.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "فِيهِ",
+      "transliterasi": "fīhi",
+      "jenis_kata": "Harf Jar & Dhamir",
+      "arti": "di dalamnya / tentangnya",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "Menunjukkan wadah atau topik pembicaraan",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Jar wa Majrur",
+        "irab_dan_logika": "Berkaitan dengan fi'il 'ikhtalafū'. Dhamir 'hi' kembali kepada 'alladhi' (perkara yang diperselisihkan)."
+      },
+      "hikmah": "Menegaskan bahwa perselisihan tersebut berpusat pada materi atau ajaran tertentu yang sedang dibahas.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "وَهُدࣰ",
+      "transliterasi": "wa hudan",
+      "jenis_kata": "Harf 'Atf & Ism Masdar",
+      "arti": "dan petunjuk",
+      "sharaf": {
+        "akar_kata": "h-d-y (هدي)",
+        "makna_dasar": "Membimbing atau menunjukkan jalan",
+        "wazan_perubahan": "Fu'alan (فعلاً)"
+      },
+      "nahwu": {
+        "kedudukan": "Ma'tuf",
+        "irab_dan_logika": "Manshub (dengan fathah muqaddarah) karena dihubungkan dengan fungsi Al-Qur'an sebagai penjelas (li tubayyina)."
+      },
+      "hikmah": "Menegaskan bahwa selain sebagai penjelas konflik, Al-Qur'an berfungsi sebagai pedoman hidup bagi manusia.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "ى",
+      "transliterasi": "y (Alif Maqsura)",
+      "jenis_kata": "Harf (Akhiran Ism)",
+      "arti": "(akhiran pembentuk kata benda)",
+      "sharaf": {
+        "akar_kata": "h-d-y (هدي)",
+        "makna_dasar": "Penutup kata yang menunjukkan sifat",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Bagian dari Ism Maqsur",
+        "irab_dan_logika": "Merupakan huruf terakhir dari kata 'hudan'. Dalam tata bahasa, ia menanggung harakat yang tidak nampak (muqaddarah)."
+      },
+      "hikmah": "Melengkapi struktur kata 'hudan' yang melambangkan bimbingan yang bersifat tetap dan teguh.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "وَرَحۡمَةࣰ",
+      "transliterasi": "wa-rahmat",
+      "jenis_kata": "kata benda",
+      "arti": "kasih sayang",
+      "sharaf": {
+        "akar_kata": "ر-ح-م",
+        "makna_dasar": "kasih sayang",
+        "wazan_perubahan": "raf' al-ma'rifa"
+      },
+      "nahwu": {
+        "kedudukan": "objek",
+        "irab_dan_logika": "maf'ul bih"
+      },
+      "hikmah": "Kasih sayang yang diberikan oleh Allah kepada hamba-Nya",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "لِّقَوۡمࣲ",
+      "transliterasi": "li-qawm",
+      "jenis_kata": "kata benda",
+      "arti": "bagi kaum",
+      "sharaf": {
+        "akar_kata": "ق-و-م",
+        "makna_dasar": "kaum",
+        "wazan_perubahan": "raf' al-ma'rifa"
+      },
+      "nahwu": {
+        "kedudukan": "objek",
+        "irab_dan_logika": "maf'ul bih"
+      },
+      "hikmah": "Bagi kaum yang beriman",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "يُؤۡمِنُونَ",
+      "transliterasi": "yu'minun",
+      "jenis_kata": "kata kerja",
+      "arti": "mereka beriman",
+      "sharaf": {
+        "akar_kata": "أ-م-ن",
+        "makna_dasar": "iman",
+        "wazan_perubahan": "fi'il mudhari'"
+      },
+      "nahwu": {
+        "kedudukan": "predikat",
+        "irab_dan_logika": "fi'il mudhari'"
+      },
+      "hikmah": "Mereka yang beriman kepada Allah dan rasul-Nya",
+      "role": "none"
     }
   ]
 }

@@ -274,6 +274,24 @@
     },
     {
       "index": 15,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Simbol",
+      "arti": "tanda jeda ayat",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "tanda waqf akhir ayat",
+        "irab_dan_logika": "tidak berirab, berfungsi memisahkan bagian"
+      },
+      "hikmah": "Memberi **istirahat** bagi pembaca, menandai akhir pemikiran.",
+      "role": "none"
+    },
+    {
+      "index": 16,
       "kata_arab": "وَٱللَّهُ",
       "transliterasi": "wa-Allāhu",
       "jenis_kata": "Isim",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "بَصِيرٌۢ",
       "transliterasi": "baṣīr",
       "jenis_kata": "Isim",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "بِمَا",
       "transliterasi": "bima",
       "jenis_kata": "Huruf",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 19,
       "kata_arab": "يَعْمَلُونَ",
       "transliterasi": "ya‘malūna",
       "jenis_kata": "Fi‘il",

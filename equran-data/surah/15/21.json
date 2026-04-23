@@ -5,127 +5,199 @@
     {
       "index": 0,
       "kata_arab": "وَإِن",
-      "transliterasi": "wa‑in",
-      "jenis_kata": "Huruf",
-      "arti": "dan sesungguhnya",
+      "transliterasi": "Wa in",
+      "jenis_kata": "Harf (Kata Tugas)",
+      "arti": "Dan tidaklah",
       "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
+        "akar_kata": "N/A",
+        "makna_dasar": "Penghubung dan Negasi",
+        "wazan_perubahan": "N/A"
       },
       "nahwu": {
-        "kedudukan": "Huruf sambung (harf al‑‘itlaq) yang menghubungkan ayat dengan kalimat sebelumnya",
-        "irab_dan_logika": "Tidak memiliki i‘rāb karena termasuk huruf; berfungsi menegaskan pernyataan selanjutnya"
+        "kedudukan": "Harf Isti'nafiyah & Harf Nafyi",
+        "irab_dan_logika": "Huruf 'Wa' adalah permulaan kalimat. Huruf 'In' di sini bermakna 'Ma' (negasi/peniadaan), bukan bermakna 'jika'."
       },
-      "hikmah": "Menegaskan bahwa apa yang akan disebutkan selanjutnya adalah sesuatu yang pasti dan nyata",
+      "hikmah": "Mengawali pernyataan tegas bahwa tidak ada satu hal pun yang dikecualikan dari kekuasaan Allah.",
       "role": "none"
     },
     {
       "index": 1,
-      "kata_arab": "مِّن",
-      "transliterasi": "min",
-      "jenis_kata": "Huruf",
-      "arti": "dari",
+      "kata_arab": "مِّن",
+      "transliterasi": "Min",
+      "jenis_kata": "Harf Jar",
+      "arti": "Dari / Sesuatu pun",
       "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
+        "akar_kata": "N/A",
+        "makna_dasar": "Asal atau Penekanan",
+        "wazan_perubahan": "N/A"
       },
       "nahwu": {
-        "kedudukan": "Preposisi yang menghubungkan kata benda berikutnya",
-        "irab_dan_logika": "Membawa kata berikutnya (شَىْءٍ) ke dalam keadaan majrur (kasrah) sebagai mudhaf‑i‑l‑jar"
+        "kedudukan": "Harf Jar Zaidah (Tambahan Penekanan)",
+        "irab_dan_logika": "Berfungsi memberikan penekanan (taukid) pada kalimat negatif, sehingga bermakna 'tidak ada satu pun'."
       },
-      "hikmah": "Menunjukkan asal atau sumber sesuatu yang dibicarakan",
+      "hikmah": "Menegaskan cakupan yang sangat luas, mencakup segala jenis makhluk atau benda tanpa terkecuali.",
       "role": "none"
     },
     {
       "index": 2,
-      "kata_arab": "شَىْءٍ",
-      "transliterasi": "shayin",
-      "jenis_kata": "Isim",
-      "arti": "sesuatu",
+      "kata_arab": "شَيْءٍ",
+      "transliterasi": "Shay'in",
+      "jenis_kata": "Isim (Kata Benda)",
+      "arti": "Sesuatu",
       "sharaf": {
-        "akar_kata": "ش‑ي‑ء",
-        "makna_dasar": "benda, sesuatu yang dapat dipertanggungjawabkan",
-        "wazan_perubahan": "isim majrur tak berwazn (kata benda tak berwazan khusus)"
+        "akar_kata": "sh-y-' (ش ي أ)",
+        "makna_dasar": "Sesuatu yang ada atau dikehendaki",
+        "wazan_perubahan": "Isim Jamid"
       },
       "nahwu": {
-        "kedudukan": "Mudhaf‑i‑l‑jar (objek preposisi مِّن)",
-        "irab_dan_logika": "Berakhiran kasrah (ـٍ) karena berada di belakang preposisi مِّن"
+        "kedudukan": "Mubtada' (Subjek)",
+        "irab_dan_logika": "Majrur secara lafaz karena huruf 'Min', namun secara kedudukan (mahallan) adalah Marfu' sebagai Mubtada'."
       },
-      "hikmah": "Menyiratkan bahwa tidak ada satu pun benda atau hal yang luput dari pengetahuan Allah",
+      "hikmah": "Kata umum yang merujuk pada segala hal yang diciptakan, baik materi maupun non-materi.",
       "role": "none"
     },
     {
       "index": 3,
-      "kata_arab": "إِلَّا",
-      "transliterasi": "illa",
-      "jenis_kata": "Huruf",
-      "arti": "kecuali",
+      "kata_arab": "إِلَّا",
+      "transliterasi": "Illa",
+      "jenis_kata": "Harf Istitsna' (Pengecualian)",
+      "arti": "Kecuali / Melainkan",
       "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
+        "akar_kata": "N/A",
+        "makna_dasar": "Pembatasan (Hasr)",
+        "wazan_perubahan": "N/A"
       },
       "nahwu": {
-        "kedudukan": "Huruf istithna’ (pengecualian)",
-        "irab_dan_logika": "Tidak mempengaruhi i‘rāb kata sesudahnya; kata berikutnya tetap dalam keadaan yang ditentukan sebelumnya"
+        "kedudukan": "Adat Hasr",
+        "irab_dan_logika": "Digunakan untuk membatasi pernyataan negatif sebelumnya, menciptakan makna eksklusivitas (hanya)."
       },
-      "hikmah": "Menyatakan pengecualian dari pernyataan umum yang baru saja disebutkan",
+      "hikmah": "Menghubungkan ketiadaan sesuatu dengan sumber aslinya yang hanya ada pada Allah.",
       "role": "none"
     },
     {
       "index": 4,
       "kata_arab": "عِندَنَا",
-      "transliterasi": "indana",
-      "jenis_kata": "Isim",
-      "arti": "di sisi Kami",
+      "transliterasi": "Indana",
+      "jenis_kata": "Zharaf + Dhamir",
+      "arti": "Di sisi Kami",
       "sharaf": {
-        "akar_kata": "ع‑ن‑د",
-        "makna_dasar": "dekat, berada di",
-        "wazan_perubahan": "isim majrur bi‑‘ind"
+        "akar_kata": "-n-d (ع ن د)",
+        "makna_dasar": "Keberadaan atau kedekatan",
+        "wazan_perubahan": "Zharaf Makan"
       },
       "nahwu": {
-        "kedudukan": "Mudhaf‑i‑l‑jar (tempat) yang menjadi objek pengecualian setelah إِلَّا",
-        "irab_dan_logika": "Berakhiran kasrah (ـَ) karena tetap berada dalam posisi majrur setelah إِلَّا"
+        "kedudukan": "Khabar Muqaddam (Predikat yang didahulukan)",
+        "irab_dan_logika": "Terdiri dari 'Inda (keterangan tempat) dan 'Na' (kata ganti Kami/Allah). Didahulukan untuk menunjukkan pengkhususan."
       },
-      "hikmah": "Menegaskan bahwa segala sesuatu berada dalam kepemilikan dan pengawasan Allah",
+      "hikmah": "Menunjukkan bahwa segala sumber daya berada di bawah kendali dan kepemilikan mutlak Allah SWT.",
       "role": "none"
     },
     {
       "index": 5,
-      "kata_arab": "خَزَآئِنُهُۥ",
-      "transliterasi": "khazā’inuhu",
-      "jenis_kata": "Isim",
-      "arti": "khazanah‑nya",
+      "kata_arab": "خَزَائِنُهُ",
+      "transliterasi": "Khaza'inuhu",
+      "jenis_kata": "Isim Jamak + Dhamir",
+      "arti": "Perbendaharaan-perbendaharaannya",
       "sharaf": {
-        "akar_kata": "خ‑ز‑ن",
-        "makna_dasar": "tempat penyimpanan, harta yang disimpan",
-        "wazan_perubahan": "isim maf‘ūl (fa‘ā’il) dalam bentuk jamak taksir (خَزَائِن)"
+        "akar_kata": "kh-z-n (خ ز ن)",
+        "makna_dasar": "Menyimpan atau mengumpulkan",
+        "wazan_perubahan": "Fa'a'il (Jamak Taksir)"
       },
       "nahwu": {
-        "kedudukan": "Mudhakkar marfu‘ (predikat) yang menjelaskan sifat “عِندَنَا”",
-        "irab_dan_logika": "Berakhiran dhammah (ـُ) karena berfungsi sebagai mubtada’/khabar dalam struktur “إِلَّا عِندَنَا خَزَآئِنُهُۥ”"
+        "kedudukan": "Mubtada' Mu'akhkhar (Subjek yang diakhirkan)",
+        "irab_dan_logika": "Marfu' dengan dhummah. 'Hu' (nya) kembali kepada 'Shay'in' (sesuatu tersebut)."
       },
-      "hikmah": "Menunjukkan bahwa segala harta, ilmu, dan rahmat berada dalam gudang tak terbatas milik Allah, yang tidak dapat diukur kecuali dengan kehendak-Nya",
+      "hikmah": "Menggambarkan kekayaan Allah yang tidak terbatas, di mana setiap ciptaan memiliki 'gudang' atau sumber asalnya di sisi-Nya.",
       "role": "none"
     },
     {
       "index": 6,
       "kata_arab": "وَمَا",
-      "transliterasi": "wa ma",
-      "jenis_kata": "Huruf",
+      "transliterasi": "wa mā",
+      "jenis_kata": "Harf (Partikel)",
       "arti": "dan tidak",
       "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
+        "akar_kata": "N/A",
+        "makna_dasar": "Kata hubung dan penafian",
+        "wazan_perubahan": "N/A"
       },
       "nahwu": {
-        "kedudukan": "Huruf negasi yang membuka ayat",
-        "irab_dan_logika": "مبني على السكون لا إعراب له، يسبق الفعل ليعطي معنى النفي"
+        "kedudukan": "Harf al-Isti'naf & Ma an-Nafiyah",
+        "irab_dan_logika": "Huruf 'wa' sebagai permulaan kalimat baru, dan 'ma' berfungsi menafikan (meniadakan) perbuatan setelahnya."
       },
-      "hikmah": "Menegaskan bahwa tidak ada sesuatu yang diturunkan kecuali dengan izin Allah",
+      "hikmah": "Berfungsi untuk memulai pernyataan baru yang menegaskan peniadaan suatu tindakan kecuali dalam kondisi tertentu.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "نُنَزِّلُهُۥٓ",
+      "transliterasi": "nunazziluhū",
+      "jenis_kata": "Fi'il Mudhari' + Dhamir",
+      "arti": "Kami menurunkannya",
+      "sharaf": {
+        "akar_kata": "n-z-l (ن ز ل)",
+        "makna_dasar": "Turun",
+        "wazan_perubahan": "Fa''ala (Taf'il) - menunjukkan proses yang bertahap atau berulang."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Marfu' + Fa'il + Maf'ul Bih",
+        "irab_dan_logika": "Fi'il mudhari' marfu' dengan dhammah. Subjeknya (Fa'il) adalah 'Nahnu' (Kami). Akhiran 'hu' adalah objek (Maf'ul Bih)."
+      },
+      "hikmah": "Menunjukkan tindakan Allah yang menurunkan segala sesuatu secara bertahap dan berkelanjutan sesuai hikmah-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "إِلَّا",
+      "transliterasi": "illā",
+      "jenis_kata": "Harf Istitsna'",
+      "arti": "kecuali / melainkan",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "Pengecualian",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Adat al-Hasr",
+        "irab_dan_logika": "Karena didahului oleh penafian (Ma), maka kata ini berfungsi sebagai pembatas (Hasr) untuk mengkhususkan cara penurunan tersebut."
+      },
+      "hikmah": "Menegaskan bahwa tidak ada cara lain dalam penurunan tersebut kecuali dengan aturan yang akan disebutkan setelahnya.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "بِقَدَرࣲ",
+      "transliterasi": "bi qadarin",
+      "jenis_kata": "Harf Jar + Isim",
+      "arti": "dengan ukuran",
+      "sharaf": {
+        "akar_kata": "q-d-r (ق د ر)",
+        "makna_dasar": "Ketetapan, ukuran, atau kemampuan",
+        "wazan_perubahan": "Isim Jamid/Masdar"
+      },
+      "nahwu": {
+        "kedudukan": "Jar wa Majrur",
+        "irab_dan_logika": "Huruf 'bi' menjarkan kata 'qadar' sehingga berakhiran kasratain. Secara makna berkaitan dengan cara penurunan (Hal)."
+      },
+      "hikmah": "Segala sesuatu yang diturunkan Allah tidaklah sembarangan, melainkan memiliki takaran dan perhitungan yang sangat presisi.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "مَّعۡلُومࣲ",
+      "transliterasi": "ma'lūmin",
+      "jenis_kata": "Isim Maf'ul",
+      "arti": "yang diketahui / tertentu",
+      "sharaf": {
+        "akar_kata": "-l-m (ع ل م)",
+        "makna_dasar": "Ilmu atau pengetahuan",
+        "wazan_perubahan": "Maf'ul (objek dari perbuatan)"
+      },
+      "nahwu": {
+        "kedudukan": "Na'at (Sifat)",
+        "irab_dan_logika": "Mengikuti kata 'qadarin' dalam keadaan majrur (kasratain). Berfungsi menyifati ukuran tersebut."
+      },
+      "hikmah": "Ukuran tersebut telah diketahui dan ditetapkan secara pasti dalam ilmu Allah, tidak kurang dan tidak lebih.",
       "role": "none"
     }
   ]

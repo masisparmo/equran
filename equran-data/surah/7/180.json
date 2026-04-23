@@ -94,6 +94,24 @@
     },
     {
       "index": 5,
+      "kata_arab": "ۖ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Tanda baca (waqf)",
+      "arti": "(tidak ada)",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "tanda waqf akhir ayat, memisahkan bagian kalimat",
+        "irab_dan_logika": "tidak berharakat, berfungsi sebagai jeda bacaan"
+      },
+      "hikmah": "Menandai akhir perintah dan menguatkan makna keseluruhan ayat",
+      "role": "none"
+    },
+    {
+      "index": 6,
       "kata_arab": "وَذَرُوا۟",
       "transliterasi": "wa-dharū",
       "jenis_kata": "Fi'il",
@@ -111,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 7,
       "kata_arab": "ٱلَّذِينَ",
       "transliterasi": "alladhīna",
       "jenis_kata": "Isim (isim mawsul)",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "يُلْحِدُونَ",
       "transliterasi": "yulhidūna",
       "jenis_kata": "Fi'il",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "فِىٓ",
       "transliterasi": "fī",
       "jenis_kata": "Huruf",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "أَسْمَٰٓئِهِۦ",
       "transliterasi": "asmāʾihi",
       "jenis_kata": "Isim",
@@ -183,7 +201,25 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
+      "kata_arab": "ۚ",
+      "transliterasi": "(waqf)",
+      "jenis_kata": "Tanda waqf",
+      "arti": "(tanda jeda)",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca akhir ayat",
+        "irab_dan_logika": "menandakan berhenti baca, tidak mempengaruhi i‘rab"
+      },
+      "hikmah": "memberi jeda untuk merenungkan makna ayat",
+      "role": "none"
+    },
+    {
+      "index": 12,
       "kata_arab": "سَيُجْزَوْنَ",
       "transliterasi": "sayujzawna",
       "jenis_kata": "Fi'il",
@@ -201,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 13,
       "kata_arab": "مَا",
       "transliterasi": "ma",
       "jenis_kata": "Harf",
@@ -219,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 14,
       "kata_arab": "كَانُوا۟",
       "transliterasi": "kānū",
       "jenis_kata": "Fi'il",
@@ -237,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 15,
       "kata_arab": "يَعْمَلُونَ",
       "transliterasi": "yaʿmalūna",
       "jenis_kata": "Fi'il",

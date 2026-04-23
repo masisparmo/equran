@@ -112,6 +112,24 @@
     },
     {
       "index": 6,
+      "kata_arab": "ۖ",
+      "transliterasi": "-",
+      "jenis_kata": "Haruf",
+      "arti": "tanda jeda (waqf)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "tanda waqf",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "pembatas antar frasa/ayat",
+        "irab_dan_logika": "tidak berharakat, berfungsi sebagai tanda jeda untuk memisahkan makna"
+      },
+      "hikmah": "*Menandai peralihan ke perintah atau pernyataan selanjutnya dalam ayat.*",
+      "role": "none"
+    },
+    {
+      "index": 7,
       "kata_arab": "فَإِذَا",
       "transliterasi": "fa-idhā",
       "jenis_kata": "Huruf",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "هِىَ",
       "transliterasi": "hiya",
       "jenis_kata": "Isim",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "تَلْقَفُ",
       "transliterasi": "talqafu",
       "jenis_kata": "Fi'il",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "مَا",
       "transliterasi": "mā",
       "jenis_kata": "Huruf",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "يَأْفِكُونَ",
       "transliterasi": "ya'fikūna",
       "jenis_kata": "Fi'il",

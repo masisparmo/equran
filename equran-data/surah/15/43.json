@@ -5,73 +5,73 @@
     {
       "index": 0,
       "kata_arab": "وَإِنَّ",
-      "transliterasi": "`wa‑inna`",
-      "jenis_kata": "`Huruf`",
-      "arti": "`dan sesungguhnya`",
+      "transliterasi": "wa inna",
+      "jenis_kata": "Harf (Partikel)",
+      "arti": "Dan sesungguhnya",
       "sharaf": {
-        "akar_kata": "`ن`",
-        "makna_dasar": "`penekanan, kepastian`",
-        "wazan_perubahan": "`tidak berlaku (bukan kata berakar)`"
+        "akar_kata": "N/A",
+        "makna_dasar": "Penekanan (Taukid)",
+        "wazan_perubahan": "N/A"
       },
       "nahwu": {
-        "kedudukan": "`Huruf al‑‘itbār (kata penegas) di awal ayat, diikuti konjungsi وَ`",
-        "irab_dan_logika": "`inna menuntut isim setelahnya ber‑kasrah; huruf wa tidak ber‑irab`"
+        "kedudukan": "Harf Isti'naf (permulaan) dan Harf Nasab",
+        "irab_dan_logika": "Huruf 'wa' adalah penghubung kalimat, sedangkan 'inna' adalah amil nawasikh yang berfungsi menasabkan isim setelahnya dan merofa'kan khabar untuk memberikan penekanan kuat."
       },
-      "hikmah": "`Menegaskan kebenaran dan kepastian pernyataan selanjutnya tentang neraka.`",
+      "hikmah": "Kata ini berfungsi untuk memulai pernyataan baru dengan penekanan yang sangat kuat bahwa informasi selanjutnya adalah sebuah kepastian.",
       "role": "none"
     },
     {
       "index": 1,
       "kata_arab": "جَهَنَّمَ",
-      "transliterasi": "`Jahannama`",
-      "jenis_kata": "`Isim`",
-      "arti": "`neraka`",
+      "transliterasi": "jahannama",
+      "jenis_kata": "Isim (Kata Benda)",
+      "arti": "Neraka Jahanam",
       "sharaf": {
-        "akar_kata": "`ج‑ه‑ن`",
-        "makna_dasar": "`tempat yang sangat panas, api`",
-        "wazan_perubahan": "`maf‘ala`"
+        "akar_kata": "J-H-N-M",
+        "makna_dasar": "Kedalaman yang sangat jauh atau kegelapan",
+        "wazan_perubahan": "Isim Ghairu Munsharif (tidak menerima tanwin)"
       },
       "nahwu": {
-        "kedudukan": "`Isim إنّ (nama yang di‑nasb) sebagai subjek kalimat`",
-        "irab_dan_logika": "`karena berada setelah إنّ, mendapat harakat dammah (kasrah) yang tampak sebagai َ  pada akhir kata`"
+        "kedudukan": "Isim Inna",
+        "irab_dan_logika": "Manshub dengan tanda fathah. Ia menjadi subjek yang dibicarakan setelah partikel penegas 'inna'."
       },
-      "hikmah": "`Menegaskan keberadaan neraka sebagai tempat yang dijanjikan bagi mereka yang mengikuti setan.`",
+      "hikmah": "Jahanam adalah nama tempat pembalasan terakhir yang digambarkan sangat dalam dan gelap bagi mereka yang durhaka.",
       "role": "none"
     },
     {
       "index": 2,
       "kata_arab": "لَمَوْعِدُهُمْ",
-      "transliterasi": "`lamaw‘iduhum`",
-      "jenis_kata": "`Isim`",
-      "arti": "`tempat pertemuan mereka`",
+      "transliterasi": "lamau'iduhum",
+      "jenis_kata": "Isim + Dhamir (Kata Ganti)",
+      "arti": "benar-benar tempat yang dijanjikan bagi mereka",
       "sharaf": {
-        "akar_kata": "`و‑ع‑د`",
-        "makna_dasar": "`menetapkan, mengatur pertemuan`",
-        "wazan_perubahan": "`maf‘il`"
+        "akar_kata": "W-'a-D (وعد)",
+        "makna_dasar": "Janji",
+        "wazan_perubahan": "Maf'il (Isim Makan/Zaman)"
       },
       "nahwu": {
-        "kedudukan": "`Kata خبر إنّ (predikat) yang menjelaskan جَهَنَّمَ`",
-        "irab_dan_logika": "`dalam keadaan mansub (kasrah) karena menjadi خبر إنّ; harakat dammah pada akhir kata menandakan kasus mansub`"
+        "kedudukan": "Khabar Inna",
+        "irab_dan_logika": "Huruf 'la' di awal adalah Lam al-Muzahlaqah untuk taukid (penguat). 'Mau'idu' adalah khabar inna yang marfu' dengan dhammah, dan 'hum' adalah mudhaf ilayh (kata ganti pemilik)."
       },
-      "hikmah": "`Menegaskan bahwa neraka adalah tempat pertemuan yang pasti bagi semua pengikut setan.`",
+      "hikmah": "Menegaskan secara mutlak bahwa Jahanam adalah tempat pertemuan yang telah ditetapkan dan dijanjikan bagi para pengikut setan.",
       "role": "none"
     },
     {
       "index": 3,
       "kata_arab": "أَجْمَعِينَ",
-      "transliterasi": "`ajma‘īna`",
-      "jenis_kata": "`Isim (sifat)`",
-      "arti": "`semua, seluruhnya`",
+      "transliterasi": "ajma'īna",
+      "jenis_kata": "Isim (Taukid)",
+      "arti": "semuanya / seluruhnya",
       "sharaf": {
-        "akar_kata": "`ج‑م‑ع`",
-        "makna_dasar": "`mengumpulkan, menyatukan`",
-        "wazan_perubahan": "`maf‘ūl`"
+        "akar_kata": "J-M-'a (جمع)",
+        "makna_dasar": "Mengumpulkan",
+        "wazan_perubahan": "Af'aluna (bentuk jamak mudzakkar salim)"
       },
       "nahwu": {
-        "kedudukan": "`Sifat (keterangan) yang melengkapi لَمَوْعِدُهُمْ`",
-        "irab_dan_logika": "`mansub (kasrah) karena menjadi bagian dari خبر إنّ; harakat dammah pada akhir kata menandakan kasus mansub`"
+        "kedudukan": "Taukid (Penguat)",
+        "irab_dan_logika": "Majrur dengan tanda 'ya' karena mengikuti dhamir 'hum' sebelumnya. Berfungsi untuk menghilangkan keraguan bahwa tidak ada satu pun yang tertinggal."
       },
-      "hikmah": "`Menunjukkan bahwa semua pengikut setan akan berkumpul bersama‑sama di neraka.`",
+      "hikmah": "Kata ini memastikan bahwa hukuman tersebut mencakup seluruh pengikut setan tanpa terkecuali, mempertegas luasnya cakupan ancaman tersebut.",
       "role": "none"
     }
   ]

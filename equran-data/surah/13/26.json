@@ -112,6 +112,24 @@
     },
     {
       "index": 6,
+      "kata_arab": "ۚ",
+      "transliterasi": "waqf lazim",
+      "jenis_kata": "Tanda Baca",
+      "arti": "Tanda berhenti sempurna",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk tanda baca",
+        "makna_dasar": "Tidak berlaku untuk tanda baca",
+        "wazan_perubahan": "Tidak berlaku untuk tanda baca"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca, bukan bagian dari struktur kalimat gramatikal",
+        "irab_dan_logika": "Tidak memiliki irab"
+      },
+      "hikmah": "Tanda ini menunjukkan bahwa pembaca dianjurkan untuk berhenti secara sempurna, menandai akhir dari satu klausa atau ide penting sebelum melanjutkan ke klausa berikutnya.",
+      "role": "none"
+    },
+    {
+      "index": 7,
       "kata_arab": "وَفَرِحُوا۟",
       "transliterasi": "wa farihuu",
       "jenis_kata": "Fi'il",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "بِٱلْحَيَوٰةِ",
       "transliterasi": "bil-hayati",
       "jenis_kata": "Isim",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "ٱلدُّنْيَا",
       "transliterasi": "ad-dunya",
       "jenis_kata": "Isim",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "وَمَا",
       "transliterasi": "wa maa",
       "jenis_kata": "Huruf",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "ٱلْحَيَوٰةُ",
       "transliterasi": "al-hayatu",
       "jenis_kata": "Isim",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "ٱلدُّنْيَا",
       "transliterasi": "ad-dunyā",
       "jenis_kata": "Isim",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "فِى",
       "transliterasi": "fī",
       "jenis_kata": "Huruf",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "ٱلْءَاخِرَةِ",
       "transliterasi": "al-ākhirah",
       "jenis_kata": "Isim",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "إِلَّا",
       "transliterasi": "illā",
       "jenis_kata": "Huruf",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "مَتَٰعٌۭ",
       "transliterasi": "matā'un",
       "jenis_kata": "Isim",

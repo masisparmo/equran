@@ -454,6 +454,24 @@
     },
     {
       "index": 25,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Tanda Baca",
+      "arti": "Tanda berhenti (waqf jaiz)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "N/A",
+        "irab_dan_logika": "N/A"
+      },
+      "hikmah": "Menunjukkan tempat yang dianjurkan untuk berhenti membaca, memberikan jeda untuk memahami makna ayat sebelumnya sebelum melanjutkan.",
+      "role": "none"
+    },
+    {
+      "index": 26,
       "kata_arab": "ذَٰلِكُمُ",
       "transliterasi": "dzalikum",
       "jenis_kata": "Isim Isyarah",
@@ -471,7 +489,7 @@
       "role": "none"
     },
     {
-      "index": 26,
+      "index": 27,
       "kata_arab": "ٱللَّهُ",
       "transliterasi": "Allahu",
       "jenis_kata": "Isim",
@@ -489,7 +507,7 @@
       "role": "none"
     },
     {
-      "index": 27,
+      "index": 28,
       "kata_arab": "رَبُّكُمْ",
       "transliterasi": "Rabbukum",
       "jenis_kata": "Isim",
@@ -507,7 +525,7 @@
       "role": "none"
     },
     {
-      "index": 28,
+      "index": 29,
       "kata_arab": "فَٱعْبُدُوهُ",
       "transliterasi": "fa'buduhu",
       "jenis_kata": "Fi'il Amr",
@@ -525,7 +543,7 @@
       "role": "none"
     },
     {
-      "index": 29,
+      "index": 30,
       "kata_arab": "ۚ",
       "transliterasi": "waqf ja'iz",
       "jenis_kata": "Tanda Baca Al-Qur'an",
@@ -543,7 +561,7 @@
       "role": "none"
     },
     {
-      "index": 30,
+      "index": 31,
       "kata_arab": "أَفَلَا",
       "transliterasi": "afalā",
       "jenis_kata": "Huruf",
@@ -561,7 +579,7 @@
       "role": "none"
     },
     {
-      "index": 31,
+      "index": 32,
       "kata_arab": "تَذَكَّرُونَ",
       "transliterasi": "tadzkkarūna",
       "jenis_kata": "Fi'il (Kata Kerja)",

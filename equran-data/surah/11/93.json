@@ -93,7 +93,25 @@
       "role": "none"
     },
     {
-      "index": 5,
+      "index": 6,
+      "kata_arab": "ۖ",
+      "transliterasi": "—",
+      "jenis_kata": "Haruf",
+      "arti": "tanda waqf kecil (pause)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "tanda jeda dalam bacaan",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca, tidak termasuk dalam sintaks kalimat",
+        "irab_dan_logika": "tidak berirab, berfungsi sebagai pemisah makhraj"
+      },
+      "hikmah": "*Menandakan jeda singkat* untuk memberi kesempatan mendengar dan merenungkan ayat sebelumnya.",
+      "role": "none"
+    },
+    {
+      "index": 7,
       "kata_arab": "سَوْفَ",
       "transliterasi": "sawfa",
       "jenis_kata": "Huruf",
@@ -111,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 8,
       "kata_arab": "تَعْلَمُونَ",
       "transliterasi": "taʿlamūna",
       "jenis_kata": "Fi'il",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 9,
       "kata_arab": "مَن",
       "transliterasi": "man",
       "jenis_kata": "Isim",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 10,
       "kata_arab": "يَأْتِيهِ",
       "transliterasi": "yaʾtīhi",
       "jenis_kata": "Fi'il",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 11,
       "kata_arab": "عَذَابٌۭ",
       "transliterasi": "ʿadhābun",
       "jenis_kata": "Isim",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 12,
       "kata_arab": "يُخْزِيهِ",
       "transliterasi": "yukhzīhi",
       "jenis_kata": "Fi'il",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 13,
       "kata_arab": "وَمَنْ",
       "transliterasi": "wa-man",
       "jenis_kata": "Isim",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 14,
       "kata_arab": "هُوَ",
       "transliterasi": "huwa",
       "jenis_kata": "Isim",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 15,
       "kata_arab": "كَٰذِبٌۭ",
       "transliterasi": "kāḏibu",
       "jenis_kata": "Isim",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 16,
       "kata_arab": "ۖ",
       "transliterasi": "comma",
       "jenis_kata": "Huruf (tanda baca)",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 17,
       "kata_arab": "وَٱرْتَقِبُوٓا۟",
       "transliterasi": "wa-artaqibū",
       "jenis_kata": "Fi'il",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 18,
       "kata_arab": "إِنِّى",
       "transliterasi": "innī",
       "jenis_kata": "Isim",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 19,
       "kata_arab": "مَعَكُمْ",
       "transliterasi": "ma‘akum",
       "jenis_kata": "Huruf",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 20,
       "kata_arab": "رَقِيبٌۭ",
       "transliterasi": "raqībun",
       "jenis_kata": "Isim",

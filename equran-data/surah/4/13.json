@@ -292,6 +292,24 @@
     },
     {
       "index": 16,
+      "kata_arab": "ۚ",
+      "transliterasi": "Tidak ada transliterasi",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "Tanda berhenti (waqaf lazim)",
+      "sharaf": {
+        "akar_kata": "Tidak ada.",
+        "makna_dasar": "Tanda berhenti yang dianjurkan.",
+        "wazan_perubahan": "Tidak ada."
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca dalam mushaf Al-Qur'an.",
+        "irab_dan_logika": "Bukan bagian dari struktur gramatikal ayat, sehingga tidak memiliki kedudukan i'rab."
+      },
+      "hikmah": "Tanda ini menunjukkan tempat yang baik untuk berhenti membaca, menandakan selesainya satu bagian makna atau kalimat, sebelum melanjutkan ke bagian berikutnya. Ini membantu pembaca memahami struktur dan makna ayat dengan lebih baik.",
+      "role": "none"
+    },
+    {
+      "index": 17,
       "kata_arab": "وَذَٰلِكَ",
       "transliterasi": "wa żālika",
       "jenis_kata": "Huruf (Waw Athaf) dan Isim Isyarah (Kata Tunjuk)",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "ٱلْفَوْزُ",
       "transliterasi": "al-Fawz",
       "jenis_kata": "Isim",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 19,
       "kata_arab": "ٱلْعَظِيمُ",
       "transliterasi": "al-'Azhim",
       "jenis_kata": "Isim",

@@ -166,6 +166,24 @@
     },
     {
       "index": 9,
+      "kata_arab": "ۗ",
+      "transliterasi": "-",
+      "jenis_kata": "Tanda Waqaf (Punctuation Mark)",
+      "arti": "Tanda berhenti yang lebih utama untuk melanjutkan bacaan (waqf lazim).",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku.",
+        "makna_dasar": "Tanda waqaf lazim (وقف لازم) yang berarti pembaca *harus* berhenti di sini untuk menjaga makna ayat.",
+        "wazan_perubahan": "Tidak berlaku."
+      },
+      "nahwu": {
+        "kedudukan": "Bukan bagian dari struktur gramatikal kalimat.",
+        "irab_dan_logika": "Tidak berlaku."
+      },
+      "hikmah": "Ini adalah tanda waqaf (berhenti) dalam Al-Qur'an, yang dikenal sebagai 'waqf lazim'. Artinya, pembaca harus berhenti di sini untuk menjaga makna ayat. Jika tidak berhenti, makna bisa berubah atau menjadi rancu. Dalam konteks ini, ia menandai akhir dari satu klausa makna dan permulaan klausa makna baru yang penting: 'Dan kemenanganmu itu hanyalah dari Allah...'",
+      "role": "none"
+    },
+    {
+      "index": 10,
       "kata_arab": "وَمَا",
       "transliterasi": "wa-mā",
       "jenis_kata": "Huruf",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "ٱلنَّصْرُ",
       "transliterasi": "an-naṣru",
       "jenis_kata": "Isim (kata benda)",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "إِلَّا",
       "transliterasi": "Illā",
       "jenis_kata": "Huruf",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "مِنْ",
       "transliterasi": "Min",
       "jenis_kata": "Huruf",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "عِندِ",
       "transliterasi": "Indi",
       "jenis_kata": "Isim (Dzharaf Makan)",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "ٱللَّهِ",
       "transliterasi": "Allāhi",
       "jenis_kata": "Isim (Isim Jalalah)",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "ٱلْعَزِيزِ",
       "transliterasi": "Al-'Azīzi",
       "jenis_kata": "Isim (Sifat/Asmaul Husna)",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "ٱلْحَكِيمِ",
       "transliterasi": "Al-Hakīmi",
       "jenis_kata": "Isim (Sifat/Asmaul Husna)",

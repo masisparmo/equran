@@ -274,6 +274,24 @@
     },
     {
       "index": 15,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "Tanda Waqaf (bukan kata)",
+      "arti": "Tanda berhenti (jeda)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk tanda baca",
+        "makna_dasar": "Tidak berlaku untuk tanda baca",
+        "wazan_perubahan": "Tidak berlaku untuk tanda baca"
+      },
+      "nahwu": {
+        "kedudukan": "Bukan bagian dari struktur gramatikal kata",
+        "irab_dan_logika": "Tidak berlaku untuk tanda baca"
+      },
+      "hikmah": "Tanda waqaf ini menunjukkan tempat yang baik untuk berhenti membaca, memberikan jeda bagi pembaca untuk merenungkan dan memahami makna bagian sebelumnya sebelum melanjutkan ke bagian berikutnya dari ayat tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 16,
       "kata_arab": "وَلَيَحْلِفُنَّ",
       "transliterasi": "wa-la-yaḥlifunna",
       "jenis_kata": "Gabungan Huruf dan Fi'il",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "إِنْ",
       "transliterasi": "in",
       "jenis_kata": "Huruf (Harf Nafyi)",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "أَرَدْنَآ",
       "transliterasi": "Aradnā",
       "jenis_kata": "**Fi'il** (Kata Kerja)",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 19,
       "kata_arab": "إِلَّا",
       "transliterasi": "Illā",
       "jenis_kata": "**Huruf** (Partikel)",
@@ -345,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 20,
       "kata_arab": "ٱلْحُسْنَىٰ",
       "transliterasi": "Al-Ḥusnā",
       "jenis_kata": "**Isim** (Kata Benda)",
@@ -363,7 +381,25 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 21,
+      "kata_arab": "ۖ",
+      "transliterasi": "Tidak ada transliterasi",
+      "jenis_kata": "**Tanda Waqaf** (Simbol Bacaan)",
+      "arti": "Tanda berhenti yang dianjurkan (waqaf jaiz)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk tanda waqaf.",
+        "makna_dasar": "Menunjukkan tempat yang dianjurkan untuk berhenti saat membaca Al-Qur'an, namun boleh juga dilanjutkan.",
+        "wazan_perubahan": "Tidak berlaku untuk tanda waqaf."
+      },
+      "nahwu": {
+        "kedudukan": "Bukan bagian dari struktur gramatikal kalimat.",
+        "irab_dan_logika": "Tidak memiliki *i'rab*."
+      },
+      "hikmah": "Tanda ini membantu pembaca dalam memahami jeda makna dan struktur ayat. Dalam konteks ini, ia menandai akhir dari klaim palsu para munafik sebelum Allah memberikan kesaksian-Nya yang membantah klaim tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 22,
       "kata_arab": "وَٱللَّهُ",
       "transliterasi": "Wa Allāhu",
       "jenis_kata": "**Huruf** (Waw) dan **Isim** (Allah)",
@@ -381,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 23,
       "kata_arab": "يَشْهَدُ",
       "transliterasi": "Yashhadu",
       "jenis_kata": "**Fi'il** (Kata Kerja)",
@@ -399,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 24,
       "kata_arab": "إِنَّهُمْ",
       "transliterasi": "Innahum",
       "jenis_kata": "Huruf",
@@ -417,7 +453,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 25,
       "kata_arab": "لَكَٰذِبُونَ",
       "transliterasi": "Lakādzibūn",
       "jenis_kata": "Isim",

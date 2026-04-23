@@ -184,6 +184,24 @@
     },
     {
       "index": 10,
+      "kata_arab": "ۗ",
+      "transliterasi": "",
+      "jenis_kata": "Isyarat",
+      "arti": "tanda berhenti (tanda ayat)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "علامة وقف لا إعراب لها",
+        "irab_dan_logika": "مبنية لا محل لها من الإعراب"
+      },
+      "hikmah": "Menandai akhir kalimat/ayat, memberi jeda bagi pembaca.",
+      "role": "none"
+    },
+    {
+      "index": 11,
       "kata_arab": "أَلَا",
       "transliterasi": "alā",
       "jenis_kata": "Huruf",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "يَوْمَ",
       "transliterasi": "yawm",
       "jenis_kata": "Isim",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "يَأْتِيهِمْ",
       "transliterasi": "ya'tīhim",
       "jenis_kata": "Fi'il",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 18,
       "kata_arab": "بِهِم",
       "transliterasi": "bi‑him",
       "jenis_kata": "Huruf (preposisi)",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 19,
       "kata_arab": "مَا",
       "transliterasi": "mā",
       "jenis_kata": "Huruf (kata tanya)",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 20,
       "kata_arab": "كَانُوا۟",
       "transliterasi": "kānū",
       "jenis_kata": "Fi‘il (kata kerja)",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 21,
       "kata_arab": "بِهِۦ",
       "transliterasi": "bi‑hi",
       "jenis_kata": "Huruf (preposisi)",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 22,
       "kata_arab": "يَسْتَهْزِءُونَ",
       "transliterasi": "yastahziʾūna",
       "jenis_kata": "Fi‘il (kata kerja)",

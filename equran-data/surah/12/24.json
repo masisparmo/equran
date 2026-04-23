@@ -202,6 +202,24 @@
     },
     {
       "index": 11,
+      "kata_arab": "ۚ",
+      "transliterasi": "waqf",
+      "jenis_kata": "Isyarat",
+      "arti": "tanda berhenti",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda waqf akhir ayat",
+        "irab_dan_logika": "tidak memiliki i‘rāb; berfungsi sebagai isyarat jeda"
+      },
+      "hikmah": "memberi kesempatan bagi pendengar/penafsir untuk merenungkan makna ayat sebelum melanjutkan",
+      "role": "none"
+    },
+    {
+      "index": 12,
       "kata_arab": "كَذَٰلِكَ",
       "transliterasi": "kathalika",
       "jenis_kata": "Isim (isim isyarah)",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "لِنَصْرِفَ",
       "transliterasi": "li‑nasrifa",
       "jenis_kata": "Fiʿil (fiʿl mudhariʿ majzūm) dengan huruf jar li‑",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "عَنْهُ",
       "transliterasi": "ʿanhu",
       "jenis_kata": "Huruf (preposisi) + ضمير متصل",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 18,
       "kata_arab": "إِنَّهُۥ",
       "transliterasi": "innahu",
       "jenis_kata": "Huruf",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 19,
       "kata_arab": "مِنْ",
       "transliterasi": "min",
       "jenis_kata": "Huruf",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 20,
       "kata_arab": "عِبَادِنَا",
       "transliterasi": "ʿibādina",
       "jenis_kata": "Isim",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 21,
       "kata_arab": "ٱلْمُخْلَصِينَ",
       "transliterasi": "al-mukhlaṣīna",
       "jenis_kata": "Isim",

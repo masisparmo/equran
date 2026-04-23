@@ -5,91 +5,91 @@
     {
       "index": 0,
       "kata_arab": "إِنَّ",
-      "transliterasi": "inna",
-      "jenis_kata": "Huruf",
-      "arti": "sesungguhnya",
+      "transliterasi": "Inna",
+      "jenis_kata": "Harf (Partikel)",
+      "arti": "Sesungguhnya / Sungguh",
       "sharaf": {
-        "akar_kata": "Tidak ada",
-        "makna_dasar": "Tidak ada",
-        "wazan_perubahan": "Tidak ada"
+        "akar_kata": "N/A",
+        "makna_dasar": "Penekanan (Taukid)",
+        "wazan_perubahan": "N/A"
       },
       "nahwu": {
-        "kedudukan": "Huruf takid (penguat) yang menegaskan kalimat nominal berikutnya",
-        "irab_dan_logika": "Berharakat **dhammah** karena إِنَّ termasuk huruf yang menuntut i‘rāb majrur pada isim yang mengikutinya"
+        "kedudukan": "Harf Nasab wa Taukid",
+        "irab_dan_logika": "Berfungsi memberikan penekanan pada kalimat dan menasabkan Ism-nya (Ism Inna)."
       },
-      "hikmah": "Menegaskan bahwa apa yang disebutkan selanjutnya adalah fakta yang pasti bagi orang beriman",
+      "hikmah": "Kata ini digunakan untuk menghilangkan keraguan dan menegaskan bahwa informasi yang akan disampaikan adalah kebenaran mutlak.",
       "role": "none"
     },
     {
       "index": 1,
-      "kata_arab": "فِى",
-      "transliterasi": "fi",
-      "jenis_kata": "Huruf",
-      "arti": "di, dalam",
+      "kata_arab": "فِي",
+      "transliterasi": "Fi",
+      "jenis_kata": "Harf Jar (Preposisi)",
+      "arti": "Di dalam / Pada",
       "sharaf": {
-        "akar_kata": "Tidak ada",
-        "makna_dasar": "Tidak ada",
-        "wazan_perubahan": "Tidak ada"
+        "akar_kata": "N/A",
+        "makna_dasar": "Wadah atau keterangan tempat/kondisi (Zharfiyah)",
+        "wazan_perubahan": "N/A"
       },
       "nahwu": {
-        "kedudukan": "Huruf jar (preposisi) yang menghubungkan kata benda selanjutnya",
-        "irab_dan_logika": "Membuat kata yang diikutinya berkasrah (majrur) sebagai objek preposisi"
+        "kedudukan": "Harf Jar",
+        "irab_dan_logika": "Berfungsi menjarkan (mengubah harakat akhir menjadi kasrah/majrur) kata setelahnya."
       },
-      "hikmah": "Menunjukkan tempat atau konteks keberadaan tanda‑tanda kekuasaan Allah",
+      "hikmah": "Menunjukkan bahwa pelajaran atau tanda tersebut terkandung di dalam peristiwa yang disebutkan sebelumnya.",
       "role": "none"
     },
     {
       "index": 2,
       "kata_arab": "ذَٰلِكَ",
-      "transliterasi": "dhalika",
-      "jenis_kata": "Isim",
-      "arti": "itu",
+      "transliterasi": "Dhalika",
+      "jenis_kata": "Ism Isyarah (Kata Tunjuk)",
+      "arti": "Itu / Yang demikian itu",
       "sharaf": {
-        "akar_kata": "ذ-ل-ك",
-        "makna_dasar": "menunjuk pada sesuatu yang telah disebut atau akan disebut",
-        "wazan_perubahan": "bentuk isim dhahir (demonstratif)"
+        "akar_kata": "N/A",
+        "makna_dasar": "Menunjuk sesuatu yang jauh (secara jarak atau derajat)",
+        "wazan_perubahan": "N/A"
       },
       "nahwu": {
-        "kedudukan": "Isim ma'rifah yang berfungsi sebagai objek preposisi \"fi\"",
-        "irab_dan_logika": "Berkasrah karena berada di belakang huruf jar \"fi\""
+        "kedudukan": "Ism Majrur (Fi mahalli jarr)",
+        "irab_dan_logika": "Menjadi objek dari preposisi 'Fi'. Secara struktur kalimat, 'Fi dhalika' adalah Khabar Inna Muqaddam (Predikat yang didahulukan)."
       },
-      "hikmah": "Menunjuk pada tanda‑tanda kekuasaan Allah yang dimaksud dalam ayat",
+      "hikmah": "Merujuk pada kisah kehancuran kaum Luth yang baru saja diceritakan sebagai bukti sejarah yang nyata.",
       "role": "none"
     },
     {
       "index": 3,
-      "kata_arab": "لَءَايَةًۭ",
-      "transliterasi": "la'ayatan",
-      "jenis_kata": "Isim",
-      "arti": "sebuah tanda",
+      "kata_arab": "لَآيَةً",
+      "transliterasi": "La-ayatan",
+      "jenis_kata": "Ism (Kata Benda)",
+      "arti": "Benar-benar sebuah tanda",
       "sharaf": {
-        "akar_kata": "أ-ي-ن",
-        "makna_dasar": "tanda, bukti",
-        "wazan_perubahan": "bentuk isim mufradah dengan tanwin fatha (ً)"
+        "akar_kata": "A-Y-Y (أ ي ي)",
+        "makna_dasar": "Tanda, bukti, atau mukjizat",
+        "wazan_perubahan": "Ism tunggal (Mufrad) muannats"
       },
       "nahwu": {
-        "kedudukan": "Isim majrur sebagai khabar jar pada \"fi dhalika\"",
-        "irab_dan_logika": "Berkasrah (dengan tanwin) karena menjadi khabar bagi preposisi \"fi\""
+        "kedudukan": "Ism Inna Mu'akhkhar",
+        "irab_dan_logika": "Mansub dengan fathah. Huruf 'La' di awal adalah Lam al-Muzahlaqah yang berfungsi sebagai penguat (taukid) tambahan."
       },
-      "hikmah": "Menunjukkan bahwa hal tersebut merupakan bukti nyata kekuasaan Allah",
+      "hikmah": "Menegaskan bahwa peristiwa tersebut bukan sekadar kebetulan, melainkan bukti nyata kekuasaan Allah bagi yang mau berpikir.",
       "role": "none"
     },
     {
       "index": 4,
-      "kata_arab": "لِّلْمُؤْمِنِينَ",
-      "transliterasi": "lilmu'minina",
-      "jenis_kata": "Huruf",
-      "arti": "bagi orang‑orang beriman",
+      "kata_arab": "لِّلْمُؤْمِنِينَ",
+      "transliterasi": "Lil-mu'minin",
+      "jenis_kata": "Harf Jar + Ism (Jamak)",
+      "arti": "Bagi orang-orang yang beriman",
       "sharaf": {
-        "akar_kata": "أ-م-ن",
-        "makna_dasar": "iman, kepercayaan",
-        "wazan_perubahan": "bentuk fi‘il (مُؤْمِن) dengan tambahan alif lam jar \"li\""
+        "akar_kata": "A-M-N (أ م ن)",
+        "makna_dasar": "Aman, percaya, atau beriman",
+        "wazan_perubahan": "Ism Fa'il (pelaku) dari Form IV (Aamana), jamak mudzakkar salim"
       },
       "nahwu": {
-        "kedudukan": "Jar majrur, keterangan tujuan atau manfaat",
-        "irab_dan_logika": "Berkasrah karena preposisi \"li\" menuntut i‘rāb majrur"
+        "kedudukan": "Jar wa Majrur",
+        "irab_dan_logika": "Majrur dengan tanda 'Ya' karena merupakan jamak mudzakkar salim. Berfungsi sebagai keterangan bagi siapa tanda tersebut bermanfaat."
       },
-      "hikmah": "Menegaskan bahwa tanda‑tanda itu diperuntukkan khusus bagi orang‑orang yang beriman",
+      "hikmah": "Menunjukkan bahwa hanya orang-orang yang memiliki imanlah yang mampu mengambil pelajaran dan hikmah dari tanda-tanda kekuasaan Allah.",
       "role": "none"
     }
   ]

@@ -201,7 +201,25 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
+      "kata_arab": "ۗ",
+      "transliterasi": "(tanda ayat)",
+      "jenis_kata": "Harakat/Isyarat",
+      "arti": "tanda akhir ayat (waqf)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Penanda akhir ayat, tidak termasuk dalam sintaks",
+        "irab_dan_logika": "Tidak memiliki i‘rāb karena merupakan tanda baca"
+      },
+      "hikmah": "*Menandakan selesai baca ayat, memberi jeda bagi pembaca untuk merenungkan makna.*",
+      "role": "none"
+    },
+    {
+      "index": 13,
       "kata_arab": "وَإِنَّ",
       "transliterasi": "wa‑inna",
       "jenis_kata": "Huruf (harf muqaddam)",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 14,
       "kata_arab": "جَهَنَّمَ",
       "transliterasi": "jahannama",
       "jenis_kata": "Isim (isim mufrad)",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 15,
       "kata_arab": "لَمُحِيطَةٌۢ",
       "transliterasi": "lamuhitatun",
       "jenis_kata": "Isim fi‘l (isim maf‘ūl)",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 16,
       "kata_arab": "بِٱلْكَٰفِرِينَ",
       "transliterasi": "bil‑kaafiriin",
       "jenis_kata": "Isim (isim majrur) dengan huruf jar",

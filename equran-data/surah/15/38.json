@@ -4,74 +4,74 @@
   "words": [
     {
       "index": 0,
-      "kata_arab": "إِلَىٰ",
+      "kata_arab": "إِلَىٰ",
       "transliterasi": "ilā",
-      "jenis_kata": "Huruf",
-      "arti": "ke, menuju",
+      "jenis_kata": "Harf Jarr (Kata Depan)",
+      "arti": "Sampai",
       "sharaf": {
-        "akar_kata": "إ ل ي",
-        "makna_dasar": "menuju, mengarah ke",
-        "wazan_perubahan": "mauzul"
+        "akar_kata": "N/A",
+        "makna_dasar": "Menunjukkan batas akhir (ghayah)",
+        "wazan_perubahan": "N/A"
       },
       "nahwu": {
-        "kedudukan": "Huruf jar (preposisi)",
-        "irab_dan_logika": "Marfu' karena huruf jar, menghubungkan ke kata berikutnya yang berkasrah"
+        "kedudukan": "Harf Jarr",
+        "irab_dan_logika": "Mabni, berfungsi menjerkan (mengubah harakat akhir menjadi kasrah) isim yang datang setelahnya."
       },
-      "hikmah": "Menunjukkan arah atau tujuan waktu yang akan datang, yaitu sampai pada hari yang telah ditetapkan.",
+      "hikmah": "Menandakan batas akhir dari penangguhan waktu yang diberikan Allah kepada Iblis.",
       "role": "none"
     },
     {
       "index": 1,
-      "kata_arab": "يَوْمِ",
-      "transliterasi": "yawm",
-      "jenis_kata": "Isim",
-      "arti": "hari",
+      "kata_arab": "يَوۡمِ",
+      "transliterasi": "yawmi",
+      "jenis_kata": "Isim (Kata Benda)",
+      "arti": "Hari",
       "sharaf": {
-        "akar_kata": "ي و م",
-        "makna_dasar": "satu siklus siang dan malam",
-        "wazan_perubahan": "fa‘l (kata benda)"
+        "akar_kata": "y-w-m (ي و م)",
+        "makna_dasar": "Satu putaran waktu atau periode",
+        "wazan_perubahan": "Isim Jamid"
       },
       "nahwu": {
-        "kedudukan": "Majrur (objek huruf jar إِلَى)",
-        "irab_dan_logika": "Berkasrah karena berada di belakang huruf jar"
+        "kedudukan": "Isim Majrur & Mudhaf",
+        "irab_dan_logika": "Majrur dengan kasrah karena didahului harf jarr 'ila'. Berperan sebagai mudhaf (kata yang disandarkan)."
       },
-      "hikmah": "Menunjuk pada hari tertentu yang menjadi titik akhir dari rentang waktu yang disebutkan.",
+      "hikmah": "Merujuk pada suatu hari atau periode waktu tertentu di masa depan.",
       "role": "none"
     },
     {
       "index": 2,
-      "kata_arab": "ٱلْوَقْتِ",
-      "transliterasi": "al‑waqt",
-      "jenis_kata": "Isim",
-      "arti": "waktu",
+      "kata_arab": "ٱلۡوَقۡتِ",
+      "transliterasi": "al-waqti",
+      "jenis_kata": "Isim (Kata Benda) Ma'rifah",
+      "arti": "Waktu",
       "sharaf": {
-        "akar_kata": "و ق ت",
-        "makna_dasar": "periode, masa",
-        "wazan_perubahan": "fa‘l"
+        "akar_kata": "w-q-t (و ق ت)",
+        "makna_dasar": "Batas waktu yang ditetapkan untuk suatu perkara",
+        "wazan_perubahan": "Isim Jamid"
       },
       "nahwu": {
-        "kedudukan": "Majrur (objek huruf jar إِلَى) dan bagian dari iḍāfah dengan ٱلْمَعْلُومِ",
-        "irab_dan_logika": "Berkasrah karena huruf jar, serta berkasrah sebagai mudhaf dalam iḍāfah"
+        "kedudukan": "Mudhaf Ilayh",
+        "irab_dan_logika": "Majrur dengan kasrah karena menjadi penyerta (pemilik) dari kata 'yawm'."
       },
-      "hikmah": "Mengacu pada masa yang spesifik, yaitu waktu yang telah ditentukan dalam rencana Allah.",
+      "hikmah": "Menjelaskan bahwa hari tersebut adalah waktu yang sangat spesifik dan terbatas.",
       "role": "none"
     },
     {
       "index": 3,
-      "kata_arab": "ٱلْمَعْلُومِ",
-      "transliterasi": "al‑ma‘lūm",
-      "jenis_kata": "Isim",
-      "arti": "yang diketahui",
+      "kata_arab": "ٱلۡمَعۡلُومِ",
+      "transliterasi": "al-ma'lūmi",
+      "jenis_kata": "Isim Maf'ul (Kata Sifat)",
+      "arti": "Yang diketahui / ditentukan",
       "sharaf": {
-        "akar_kata": "ع ل م",
-        "makna_dasar": "mengetahui, terketahui",
-        "wazan_perubahan": "maf‘ūl (partisip pasif)"
+        "akar_kata": "-l-m (ع ل م)",
+        "makna_dasar": "Ilmu atau pengetahuan",
+        "wazan_perubahan": "Maf'ul (مَفْعُول)"
       },
       "nahwu": {
-        "kedudukan": "Majrur (pihak iḍāfah yang menjelaskan ٱلْوَقْتِ)",
-        "irab_dan_logika": "Berkasrah karena menjadi mudhaf ilāhiyyah dalam iḍāfah, menyesuaikan dengan kata yang diikatnya"
+        "kedudukan": "Na'at (Sifat)",
+        "irab_dan_logika": "Majrur dengan kasrah mengikuti kata 'al-waqti' yang disifatinya."
       },
-      "hikmah": "Menegaskan bahwa waktu tersebut bukan sembarangan, melainkan waktu yang sudah ditetapkan dan diketahui oleh Allah.",
+      "hikmah": "Menegaskan bahwa waktu tersebut telah diketahui dan ditetapkan secara pasti dalam ilmu Allah, yaitu hari Kiamat.",
       "role": "none"
     }
   ]

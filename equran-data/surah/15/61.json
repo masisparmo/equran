@@ -4,92 +4,92 @@
   "words": [
     {
       "index": 0,
-      "kata_arab": "فَلَمَّا",
-      "transliterasi": "fa-lammā",
-      "jenis_kata": "Huruf",
+      "kata_arab": "فَلَمَّا",
+      "transliterasi": "falamma",
+      "jenis_kata": "Harf (Partikel)",
       "arti": "Maka ketika",
       "sharaf": {
-        "akar_kata": "ل م",
-        "makna_dasar": "menunjuk waktu",
-        "wazan_perubahan": "tidak berlaku (kata partikel)"
+        "akar_kata": "ل - م - ا",
+        "makna_dasar": "Waktu atau saat",
+        "wazan_perubahan": "N/A"
       },
       "nahwu": {
-        "kedudukan": "حرف جر زمانية يسبق الجملة الفعلية",
-        "irab_dan_logika": "مبني على السكون لأن الحروف لا تُعرب"
+        "kedudukan": "Fa (istinafiyah/athaf) + Lamma (zharaf zaman)",
+        "irab_dan_logika": "Fa sebagai penghubung kalimat, Lamma adalah kata keterangan waktu yang mengandung makna syarat namun tidak menjazamkan fi'il."
       },
-      "hikmah": "Menandakan permulaan peristiwa kedatangan para utusan kepada kaum Luth.",
+      "hikmah": "Kata ini berfungsi sebagai penghubung yang menandakan kelanjutan cerita ke peristiwa saat para utusan tiba.",
       "role": "none"
     },
     {
       "index": 1,
       "kata_arab": "جَآءَ",
-      "transliterasi": "jāʾa",
-      "jenis_kata": "Fi'il",
-      "arti": "datang",
+      "transliterasi": "ja'a",
+      "jenis_kata": "Fi'il Madhi (Kata Kerja Lampau)",
+      "arti": "Datang",
       "sharaf": {
-        "akar_kata": "ج و ي",
-        "makna_dasar": "datang",
-        "wazan_perubahan": "فَعَلَ (verb 3rd form)"
+        "akar_kata": "ج - ي - ء",
+        "makna_dasar": "Kedatangan atau kehadiran",
+        "wazan_perubahan": "Fa'ala (فَعَلَ)"
       },
       "nahwu": {
-        "kedudukan": "فعل ماضٍ مبني على الفتح",
-        "irab_dan_logika": "مرفوع بالفتحة لأنه فعل ماضٍ"
+        "kedudukan": "Fi'il Madhi",
+        "irab_dan_logika": "Mabni 'alal fathi (berharakat akhir fathah) karena tidak bersambung dengan dhamir rafa' mutaharrik."
       },
-      "hikmah": "Menunjukkan aksi kedatangan para utusan.",
+      "hikmah": "Menunjukkan peristiwa kedatangan para malaikat yang telah terjadi dalam konteks kisah tersebut.",
       "role": "none"
     },
     {
       "index": 2,
-      "kata_arab": "آلَ",
-      "transliterasi": "āla",
-      "jenis_kata": "Isim",
-      "arti": "keluarga, kaum",
+      "kata_arab": "ءَالَ",
+      "transliterasi": "ala",
+      "jenis_kata": "Ism (Kata Benda)",
+      "arti": "Keluarga / Pengikut",
       "sharaf": {
-        "akar_kata": "أ ل ل",
-        "makna_dasar": "keluarga, suku",
-        "wazan_perubahan": "فَعْل"
+        "akar_kata": "ا - و - ل",
+        "makna_dasar": "Kembali atau merujuk kepada",
+        "wazan_perubahan": "N/A"
       },
       "nahwu": {
-        "kedudukan": "مبتدأ مرفوع بالضمة في إعراب الإضافة",
-        "irab_dan_logika": "مرفوع بالضمة لأنّه مبتدأ"
+        "kedudukan": "Maf'ul Bih (Objek) dan Mudhaf",
+        "irab_dan_logika": "Manshub dengan fathah karena merupakan objek yang didatangi (didahului fi'il ja'a)."
       },
-      "hikmah": "Menyatakan kelompok atau suku yang dimiliki oleh Luth.",
+      "hikmah": "Merujuk kepada orang-orang yang memiliki hubungan dekat atau pengikut setia Nabi Luth.",
       "role": "none"
     },
     {
       "index": 3,
       "kata_arab": "لُوطٍ",
-      "transliterasi": "Lūṭ",
-      "jenis_kata": "Isim",
-      "arti": "nama nabi Luth",
+      "transliterasi": "lutin",
+      "jenis_kata": "Ism 'Alam (Nama Diri)",
+      "arti": "Luth",
       "sharaf": {
-        "akar_kata": "ل ط ظ (nama khusus)",
-        "makna_dasar": "nama nabi Luth",
-        "wazan_perubahan": "tidak ada (nama)"
+        "akar_kata": "ل - و - ط",
+        "makna_dasar": "Nama Nabi Luth AS",
+        "wazan_perubahan": "N/A"
       },
       "nahwu": {
-        "kedudukan": "مضاف إليه مجرور بالكسرة في إعراب الإضافة",
-        "irab_dan_logika": "مجرور بالكسرة لأنه مضاف إليه"
+        "kedudukan": "Mudhaf Ilaih",
+        "irab_dan_logika": "Majrur dengan kasratain karena mengikuti kata 'ala' yang berkedudukan sebagai mudhaf."
       },
-      "hikmah": "Menunjukkan kepemilikan kaum tersebut kepada Nabi Luth.",
+      "hikmah": "Menjelaskan secara spesifik bahwa keluarga atau pengikut yang dimaksud adalah milik Nabi Luth.",
       "role": "none"
     },
     {
       "index": 4,
-      "kata_arab": "ٱلْمُرْسَلُونَ",
-      "transliterasi": "al-mursalūna",
-      "jenis_kata": "Isim",
-      "arti": "para utusan",
+      "kata_arab": "ٱلۡمُرۡسَلُونَ",
+      "transliterasi": "al-mursaluna",
+      "jenis_kata": "Ism Maf'ul (Jamak Mudzakkar Salim)",
+      "arti": "Para utusan",
       "sharaf": {
-        "akar_kata": "ر س ل",
-        "makna_dasar": "mengirim",
-        "wazan_perubahan": "مُفَعَّل"
+        "akar_kata": "ر - س - ل",
+        "makna_dasar": "Mengirim atau mengutus",
+        "wazan_perubahan": "Muf'aluna (مُفْعَلُوْنَ) dari fi'il Mazid"
       },
       "nahwu": {
-        "kedudukan": "خبر مرفوع بالضمة",
-        "irab_dan_logika": "مرفوع بالضمة لأنه خبر"
+        "kedudukan": "Fa'il (Subjek)",
+        "irab_dan_logika": "Marfu' dengan tanda 'wawu' karena merupakan Jamak Mudzakkar Salim. Ini adalah pelaku dari kata kerja 'ja'a'."
       },
-      "hikmah": "Menegaskan bahwa yang datang adalah para utusan Allah.",
+      "hikmah": "Subjek yang datang adalah para utusan Allah (malaikat) yang membawa kabar atau tugas tertentu.",
       "role": "none"
     }
   ]

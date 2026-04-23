@@ -400,6 +400,24 @@
     },
     {
       "index": 22,
+      "kata_arab": "ۗ",
+      "transliterasi": "ۗ",
+      "jenis_kata": "Tanda baca (waqf)",
+      "arti": "tanda akhir ayat",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Menandai penghentian bacaan pada akhir ayat",
+        "irab_dan_logika": "Tidak berirab, berfungsi sebagai waqf"
+      },
+      "hikmah": "Menunjukkan berakhirnya bagian ayat",
+      "role": "none"
+    },
+    {
+      "index": 23,
       "kata_arab": "وَٱللَّهُ",
       "transliterasi": "wa-Allāhu",
       "jenis_kata": "Isim (nama) dengan huruf sambung",
@@ -417,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 24,
       "kata_arab": "غَفُورٌ",
       "transliterasi": "Ghafūr",
       "jenis_kata": "Isim (Kata Benda)",
@@ -435,7 +453,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 25,
       "kata_arab": "حَلِيمٌۭ",
       "transliterasi": "Halīm",
       "jenis_kata": "Isim (Kata Benda)",

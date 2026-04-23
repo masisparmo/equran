@@ -201,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "أَوْحَيْنَآ",
       "transliterasi": "*awḥaynā*",
       "jenis_kata": "*Fi'il* (verb)",
@@ -219,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "إِلَيْكَ",
       "transliterasi": "*ilāka*",
       "jenis_kata": "*Huruf* (preposisi) + ضمير متصل*",
@@ -237,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "وَهُمْ",
       "transliterasi": "*wa hum*",
       "jenis_kata": "*Huruf* (wa) + *Dhamir* (hum)",
@@ -255,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "يَكْفُرُونَ",
       "transliterasi": "*yakfurūna*",
       "jenis_kata": "*Fi'il* (verb)",
@@ -273,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "بِٱلرَّحْمَٰنِ",
       "transliterasi": "*bi al‑raḥmān*",
       "jenis_kata": "*Huruf* (bi) + *Isim* (al‑raḥmān)",
@@ -291,7 +291,25 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
+      "kata_arab": "ۚ",
+      "transliterasi": "*—*",
+      "jenis_kata": "*Tanda ayat* (waqf)",
+      "arti": "*tanda berhenti*",
+      "sharaf": {
+        "akar_kata": "*—*",
+        "makna_dasar": "*—*",
+        "wazan_perubahan": "*—*"
+      },
+      "nahwu": {
+        "kedudukan": "*penanda akhir ayat, tidak termasuk dalam i'rab*",
+        "irab_dan_logika": "*tidak memiliki i'rab karena bukan kata*"
+      },
+      "hikmah": "*menandai selesai pembacaan ayat, memberi jeda bagi pendengar*",
+      "role": "none"
+    },
+    {
+      "index": 18,
       "kata_arab": "قُلْ",
       "transliterasi": "qul",
       "jenis_kata": "Fi'il",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 19,
       "kata_arab": "هُوَ",
       "transliterasi": "huwa",
       "jenis_kata": "Isim",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 20,
       "kata_arab": "رَبِّى",
       "transliterasi": "rabbi",
       "jenis_kata": "Isim",
@@ -345,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 21,
       "kata_arab": "لَآ",
       "transliterasi": "lā",
       "jenis_kata": "Huruf",
@@ -363,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 22,
       "kata_arab": "إِلَٰهَ",
       "transliterasi": "ilāha",
       "jenis_kata": "Isim",
@@ -381,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 23,
       "kata_arab": "إِلَّا",
       "transliterasi": "illā",
       "jenis_kata": "Huruf",
@@ -399,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 24,
       "kata_arab": "هُوَ",
       "transliterasi": "huwa",
       "jenis_kata": "Isim (isim dhat)",
@@ -417,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 25,
       "kata_arab": "عَلَيْهِ",
       "transliterasi": "ʿalayhi",
       "jenis_kata": "Huruf (harf jar)",
@@ -435,7 +453,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 26,
       "kata_arab": "تَوَكَّلْتُ",
       "transliterasi": "tawakkaltu",
       "jenis_kata": "Fi'il (verb past, 1st person singular)",
@@ -453,7 +471,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 27,
       "kata_arab": "وَإِلَيْهِ",
       "transliterasi": "wa‑ʾilayhi",
       "jenis_kata": "Huruf (wa + harf jar)",

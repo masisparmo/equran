@@ -94,6 +94,24 @@
     },
     {
       "index": 5,
+      "kata_arab": "ۚ",
+      "transliterasi": "Tidak ada transliterasi",
+      "jenis_kata": "Tanda Waqaf (Tanda Berhenti)",
+      "arti": "Tidak ada arti harfiah",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku.",
+        "makna_dasar": "Menunjukkan tempat berhenti yang dianjurkan (waqaf lazim) dalam bacaan Al-Qur'an.",
+        "wazan_perubahan": "Tidak berlaku."
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca Al-Qur'an.",
+        "irab_dan_logika": "Tidak memiliki kedudukan i'rab. Fungsinya adalah untuk membantu pembaca dalam memahami makna ayat dengan berhenti pada tempat yang tepat, karena berhenti di sini dianggap lebih utama untuk kesempurnaan makna."
+      },
+      "hikmah": "Tanda waqaf lazim ini mengindikasikan bahwa kalimat sebelumnya telah menyampaikan makna yang lengkap dan utuh. Berhenti di sini membantu pembaca untuk mencerna pesan tentang balasan atas usaha, sebelum melanjutkan ke bagian ayat berikutnya yang membahas kecepatan perhitungan Allah, sehingga tidak terjadi kerancuan makna.",
+      "role": "none"
+    },
+    {
+      "index": 6,
       "kata_arab": "وَٱللَّهُ",
       "transliterasi": "wa-Allāhu",
       "jenis_kata": "Huruf (و) dan Isim (ٱللَّهُ)",
@@ -111,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 7,
       "kata_arab": "سَرِيعُ",
       "transliterasi": "sarī'u",
       "jenis_kata": "Isim (Sifat Musyabbahah atau Isim Fa'il)",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "ٱلْحِسَابِ",
       "transliterasi": "al-ḥisābi",
       "jenis_kata": "Isim",

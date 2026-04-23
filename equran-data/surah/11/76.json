@@ -76,6 +76,24 @@
     },
     {
       "index": 4,
+      "kata_arab": "ۖ",
+      "transliterasi": "—",
+      "jenis_kata": "Tanda baca",
+      "arti": "tanda jeda (waqf)",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "simbol waqf, memisahkan bagian kalimat",
+        "irab_dan_logika": "bukan bagian tata bahasa, hanya penanda jeda"
+      },
+      "hikmah": "memberi jeda untuk menekankan perintah",
+      "role": "none"
+    },
+    {
+      "index": 5,
       "kata_arab": "إِنَّهُۥ",
       "transliterasi": "innahu",
       "jenis_kata": "Huruf (ta'kid) + zamir",
@@ -93,7 +111,7 @@
       "role": "none"
     },
     {
-      "index": 5,
+      "index": 6,
       "kata_arab": "قَدْ",
       "transliterasi": "qad",
       "jenis_kata": "Huruf",
@@ -111,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 7,
       "kata_arab": "جَآءَ",
       "transliterasi": "ja'a",
       "jenis_kata": "Fi'il",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "أَمْرُ",
       "transliterasi": "amru",
       "jenis_kata": "Isim",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "رَبِّكَ",
       "transliterasi": "rabbika",
       "jenis_kata": "Isim",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "ۖ",
       "transliterasi": "(waqf)",
       "jenis_kata": "Huruf",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "وَإِنَّهُم",
       "transliterasi": "wa-innahum",
       "jenis_kata": "Huruf",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "آتِيهِمْ",
       "transliterasi": "āṭīhim",
       "jenis_kata": "Fi'il (imperatif)",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "عَذَابٌ",
       "transliterasi": "ʿadhābun",
       "jenis_kata": "Isim (isim mufrad)",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "غَيْرُ",
       "transliterasi": "ġayru",
       "jenis_kata": "Isim (kata benda)",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "مَرْدُودٍۢ",
       "transliterasi": "mardūdin",
       "jenis_kata": "Isim (isim mufrad)",

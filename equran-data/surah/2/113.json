@@ -418,6 +418,24 @@
     },
     {
       "index": 23,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqaf lazim)",
+      "jenis_kata": "Tanda Baca",
+      "arti": "(tanda berhenti wajib)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku.",
+        "makna_dasar": "Menandakan tempat berhenti yang wajib atau sangat dianjurkan dalam pembacaan Al-Qur'an.",
+        "wazan_perubahan": "Tidak berlaku."
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf lazim.",
+        "irab_dan_logika": "Tidak memiliki kedudukan i'rab. Fungsinya adalah untuk mengatur pembacaan Al-Qur'an agar maknanya tidak rancu dan untuk membantu pemahaman struktur kalimat."
+      },
+      "hikmah": "Menunjukkan bahwa kalimat sebelumnya telah sempurna maknanya dan pembaca dianjurkan untuk berhenti di sini sebelum melanjutkan ke bagian ayat berikutnya. Ini membantu dalam pemahaman struktur dan alur makna ayat.",
+      "role": "none"
+    },
+    {
+      "index": 24,
       "kata_arab": "فَٱللَّهُ",
       "transliterasi": "Fa-Allahu",
       "jenis_kata": "Huruf (Fa) + Isim (Allah)",
@@ -435,7 +453,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 25,
       "kata_arab": "يَحْكُمُ",
       "transliterasi": "Yahkumu",
       "jenis_kata": "Fi'il",
@@ -453,7 +471,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 26,
       "kata_arab": "بَيْنَهُمْ",
       "transliterasi": "Bainahum",
       "jenis_kata": "Isim (Zarf Makan) + Dhamir",
@@ -471,7 +489,7 @@
       "role": "none"
     },
     {
-      "index": 26,
+      "index": 27,
       "kata_arab": "يَوْمَ",
       "transliterasi": "Yawma",
       "jenis_kata": "Isim (Zarf Zaman)",
@@ -489,7 +507,7 @@
       "role": "none"
     },
     {
-      "index": 27,
+      "index": 28,
       "kata_arab": "ٱلْقِيَٰمَةِ",
       "transliterasi": "Al-Qiyamati",
       "jenis_kata": "Isim",
@@ -507,7 +525,7 @@
       "role": "none"
     },
     {
-      "index": 28,
+      "index": 29,
       "kata_arab": "فِيمَا",
       "transliterasi": "Fima",
       "jenis_kata": "Huruf (Fi) + Isim Maushul (Ma)",
@@ -525,7 +543,7 @@
       "role": "none"
     },
     {
-      "index": 29,
+      "index": 30,
       "kata_arab": "كَانُوا۟",
       "transliterasi": "Kaanuu",
       "jenis_kata": "Fi'il",
@@ -543,7 +561,7 @@
       "role": "none"
     },
     {
-      "index": 30,
+      "index": 31,
       "kata_arab": "فِيهِ",
       "transliterasi": "Fiihi",
       "jenis_kata": "Huruf + Isim",
@@ -561,7 +579,7 @@
       "role": "none"
     },
     {
-      "index": 31,
+      "index": 32,
       "kata_arab": "يَخْتَلِفُونَ",
       "transliterasi": "Yakhtalifūna",
       "jenis_kata": "Fi'il",

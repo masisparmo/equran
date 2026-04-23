@@ -238,6 +238,24 @@
     },
     {
       "index": 13,
+      "kata_arab": "ۚ",
+      "transliterasi": "-",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "Tanda berhenti (waqaf jaiz)",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca",
+        "irab_dan_logika": "Tidak memiliki i'rab. Menunjukkan tempat yang dianjurkan untuk berhenti membaca, namun boleh juga melanjutkan."
+      },
+      "hikmah": "Memberikan jeda dalam pembacaan ayat, seringkali menandakan selesainya satu klausa atau gagasan, sebelum beralih ke gagasan berikutnya. Dalam konteks ini, ia memisahkan pernyataan tentang harapan rahmat Allah dari penegasan sifat-sifat Allah.",
+      "role": "none"
+    },
+    {
+      "index": 14,
       "kata_arab": "وَٱللَّهُ",
       "transliterasi": "Wallahu",
       "jenis_kata": "Huruf (Waw) + Isim (Allah)",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "غَفُورٌۭ",
       "transliterasi": "Ghafūrun",
       "jenis_kata": "Isim Sifat (Sighah Mubalaghah)",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "رَّحِيمٌۭ",
       "transliterasi": "Rahīmun",
       "jenis_kata": "Isim Sifat (Sifah Musyabbahah atau Sighah Mubalaghah)",

@@ -148,6 +148,24 @@
     },
     {
       "index": 8,
+      "kata_arab": "ۗ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Isyarat",
+      "arti": "tanda berhenti (waqf)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "penanda akhir ayat",
+        "irab_dan_logika": "tidak berirab, berfungsi sebagai jeda"
+      },
+      "hikmah": "Memberi jeda untuk merenungkan makna ayat sebelum melanjutkan bacaan.",
+      "role": "none"
+    },
+    {
+      "index": 9,
       "kata_arab": "وَٱللَّهُ",
       "transliterasi": "waAllāhu",
       "jenis_kata": "Isim (Allah) dengan huruf sambung وَ",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "سَمِيعٌ",
       "transliterasi": "samī‘un",
       "jenis_kata": "Isim (sifat)",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "عَلِيمٌ",
       "transliterasi": "ʿalīmun",
       "jenis_kata": "Isim (sifat)",

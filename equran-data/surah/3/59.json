@@ -130,6 +130,24 @@
     },
     {
       "index": 7,
+      "kata_arab": "ۖ",
+      "transliterasi": "(Tanda Waqaf)",
+      "jenis_kata": "**Tanda Baca**",
+      "arti": "Tanda berhenti",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "N/A (bukan bagian dari struktur kalimat)",
+        "irab_dan_logika": "N/A"
+      },
+      "hikmah": "Menunjukkan tempat yang dianjurkan untuk berhenti membaca, membantu pemahaman makna ayat dan pengambilan napas.",
+      "role": "none"
+    },
+    {
+      "index": 8,
       "kata_arab": "خَلَقَهُۥ",
       "transliterasi": "Khalaqahū",
       "jenis_kata": "**Fi'il** (Kata Kerja)",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "مِن",
       "transliterasi": "Min",
       "jenis_kata": "**Huruf** (Kata Depan)",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "تُرَابٍۢ",
       "transliterasi": "Turābin",
       "jenis_kata": "**Isim** (Kata Benda)",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "ثُمَّ",
       "transliterasi": "Thumma",
       "jenis_kata": "**Huruf** (Kata Penghubung)",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "قَالَ",
       "transliterasi": "Qāla",
       "jenis_kata": "Fi'il",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "لَهُۥ",
       "transliterasi": "Lahū",
       "jenis_kata": "Huruf + Dhamir",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "كُن",
       "transliterasi": "Kun",
       "jenis_kata": "Fi'il Amr",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "فَيَكُونُ",
       "transliterasi": "Fayakūnu",
       "jenis_kata": "Huruf + Fi'il Mudhari'",

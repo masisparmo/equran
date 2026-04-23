@@ -112,6 +112,24 @@
     },
     {
       "index": 6,
+      "kata_arab": "ۖ",
+      "transliterasi": "waqf lazim",
+      "jenis_kata": "Tanda Baca Al-Qur'an",
+      "arti": "Tanda berhenti sempurna",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Tidak berlaku",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Tidak berlaku",
+        "irab_dan_logika": "Tidak berlaku"
+      },
+      "hikmah": "Tanda ini mengindikasikan bahwa pembaca *wajib* berhenti di sini untuk menjaga kesempurnaan makna ayat. Melanjutkan bacaan tanpa berhenti dapat mengubah atau mengaburkan makna yang dimaksud.",
+      "role": "none"
+    },
+    {
+      "index": 7,
       "kata_arab": "وَأُو۟لَٰٓئِكَ",
       "transliterasi": "wa-ulā'ika",
       "jenis_kata": "Huruf (`و`) dan Isim Isyarah (`أُو۟لَٰٓئِكَ`)",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "هُمُ",
       "transliterasi": "humu",
       "jenis_kata": "Isim Dhamir Munfashil (Kata Ganti Terpisah)",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "ٱلْمُهْتَدُونَ",
       "transliterasi": "al-muhtadūna",
       "jenis_kata": "Isim Fa'il (Kata Benda Pelaku) / Jamak Mudzakkar Salim",

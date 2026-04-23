@@ -4,110 +4,110 @@
   "words": [
     {
       "index": 0,
-      "kata_arab": "إِلَّآ",
-      "transliterasi": "illa",
-      "jenis_kata": "Huruf",
+      "kata_arab": "إِلَّآ",
+      "transliterasi": "illā",
+      "jenis_kata": "kata penghubung",
       "arti": "kecuali",
       "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
+        "akar_kata": "l-ā",
+        "makna_dasar": "pengecualian",
+        "wazan_perubahan": "bentuk penghubung"
       },
       "nahwu": {
-        "kedudukan": "Harf istithna' (pengecualian) yang menghubungkan kata sesudahnya dengan kalimat sebelumnya",
-        "irab_dan_logika": "Tidak berharakat karena huruf, berfungsi sebagai pemisah makna"
+        "kedudukan": "penghubung",
+        "irab_dan_logika": "menghubungkan kalimat"
       },
-      "hikmah": "Menunjukkan pengecualian, menegaskan bahwa hanya Luth dan pengikutnya yang dimaksud",
+      "hikmah": "menunjukkan pengecualian",
       "role": "none"
     },
     {
       "index": 1,
-      "kata_arab": "آلَ",
+      "kata_arab": "ءَالَ",
       "transliterasi": "āla",
-      "jenis_kata": "Isim",
-      "arti": "keluarga, keturunan",
+      "jenis_kata": "kata benda",
+      "arti": "keluarga",
       "sharaf": {
-        "akar_kata": "أ ل ل",
-        "makna_dasar": "keluarga, keturunan",
-        "wazan_perubahan": "مَفْعُول"
+        "akar_kata": "ā-l",
+        "makna_dasar": "keluarga",
+        "wazan_perubahan": "bentuk kata benda"
       },
       "nahwu": {
-        "kedudukan": "Isim majrur setelah huruf إِلَّا",
-        "irab_dan_logika": "Berkasrah (آلَ) karena majrur, menandakan objek pengecualian"
+        "kedudukan": "objek",
+        "irab_dan_logika": "merupakan objek dari kalimat"
       },
-      "hikmah": "Menyiratkan bahwa yang dikecualikan adalah keluarga atau pengikut Luth",
+      "hikmah": "merujuk pada keluarga atau pengikut",
       "role": "none"
     },
     {
       "index": 2,
       "kata_arab": "لُوطٍ",
-      "transliterasi": "Lūṭ",
-      "jenis_kata": "Isim",
-      "arti": "nama nabi Luth",
+      "transliterasi": "lūṭ",
+      "jenis_kata": "kata benda",
+      "arti": "Luṭ",
       "sharaf": {
-        "akar_kata": "ل و ط",
-        "makna_dasar": "nama pribadi Luth",
-        "wazan_perubahan": "اسم علم"
+        "akar_kata": "l-ṭ",
+        "makna_dasar": "nama nabi",
+        "wazan_perubahan": "bentuk kata benda"
       },
       "nahwu": {
-        "kedudukan": "Isim mudhaf (milik) dari آلَ",
-        "irab_dan_logika": "Berkasrah (لُوطٍ) karena majrur, menandakan kepemilikan"
+        "kedudukan": "objek",
+        "irab_dan_logika": "merupakan objek dari kalimat"
       },
-      "hikmah": "Menegaskan bahwa Luth termasuk dalam keluarga yang dikecualikan",
+      "hikmah": "merujuk pada Nabi Luṭ",
       "role": "none"
     },
     {
       "index": 3,
-      "kata_arab": "إِنَّا",
+      "kata_arab": "إِنَّا",
       "transliterasi": "innā",
-      "jenis_kata": "Huruf",
+      "jenis_kata": "kata ganti",
       "arti": "sesungguhnya kami",
       "sharaf": {
-        "akar_kata": "إ ن ن",
-        "makna_dasar": "penegasan, penekanan",
-        "wazan_perubahan": "حرف مشبه بالفعل"
+        "akar_kata": "n-ā",
+        "makna_dasar": "penekanan",
+        "wazan_perubahan": "bentuk kata ganti"
       },
       "nahwu": {
-        "kedudukan": "Harf takrif yang memperkuat subjek selanjutnya",
-        "irab_dan_logika": "Tidak berharakat, mengikat fi'il berikutnya dalam bentuk past"
+        "kedudukan": "subyek",
+        "irab_dan_logika": "menekankan subyek kalimat"
       },
-      "hikmah": "Memberi penekanan pada janji Allah bahwa Dia-lah yang akan menyelamatkan",
+      "hikmah": "menekankan subyek kalimat",
       "role": "none"
     },
     {
       "index": 4,
-      "kata_arab": "لَمُنَجُّوهُمْ",
-      "transliterasi": "lamunajju'uhum",
-      "jenis_kata": "Fi'il",
-      "arti": "kami akan menyelamatkan mereka",
+      "kata_arab": "لَمُنَجُّوهُمۡ",
+      "transliterasi": "lamunajjūhum",
+      "jenis_kata": "kata kerja",
+      "arti": "kami pasti menyelamatkan mereka",
       "sharaf": {
-        "akar_kata": "ن ج و",
+        "akar_kata": "n-j-w",
         "makna_dasar": "menyelamatkan",
-        "wazan_perubahan": "فَعَلَ"
+        "wazan_perubahan": "bentuk kata kerja"
       },
       "nahwu": {
-        "kedudukan": "Fi'il mudhari' (masa depan) dengan prefiks لَ (lam) sebagai penegasan",
-        "irab_dan_logika": "Mubtada' (verb) berharakat dhammah karena mudhari' yang di‑lam, menunjukkan kepastian"
+        "kedudukan": "predikat",
+        "irab_dan_logika": "merupakan predikat kalimat"
       },
-      "hikmah": "Allah menegaskan bahwa Dia pasti akan menyelamatkan Luth beserta pengikutnya",
+      "hikmah": "menyelamatkan orang-orang tersebut",
       "role": "none"
     },
     {
       "index": 5,
-      "kata_arab": "أَجْمَعِينَ",
-      "transliterasi": "ajma'īna",
-      "jenis_kata": "Isim",
-      "arti": "semua (mereka)",
+      "kata_arab": "أَجۡمَعِينَ",
+      "transliterasi": "ajmaʿīna",
+      "jenis_kata": "kata sifat",
+      "arti": "semuanya",
       "sharaf": {
-        "akar_kata": "ج م ع",
-        "makna_dasar": "mengumpulkan, semua",
-        "wazan_perubahan": "فَعْل"
+        "akar_kata": "j-m-ʿ",
+        "makna_dasar": "keseluruhan",
+        "wazan_perubahan": "bentuk kata sifat"
       },
       "nahwu": {
-        "kedudukan": "Isim mansub (objek) dari fi'il لَمُنَجُّوهُمْ",
-        "irab_dan_logika": "Berfatḥah (أَجْمَعِينَ) dengan tanwin fatha karena mansub"
+        "kedudukan": "keterangan",
+        "irab_dan_logika": "menggambarkan objek kalimat"
       },
-      "hikmah": "Menunjukkan bahwa keselamatan mencakup seluruh pengikut Luth tanpa terkecuali",
+      "hikmah": "menyelamatkan semua orang",
       "role": "none"
     }
   ]

@@ -202,6 +202,24 @@
     },
     {
       "index": 11,
+      "kata_arab": "ۗ",
+      "transliterasi": "",
+      "jenis_kata": "Isyarat",
+      "arti": "tanda akhir ayat (waqf)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca yang menandai berakhirnya ayat",
+        "irab_dan_logika": "Tidak memiliki إعراب"
+      },
+      "hikmah": "Menandakan selesai‑nya pernyataan Allah dalam ayat ini.",
+      "role": "none"
+    },
+    {
+      "index": 12,
       "kata_arab": "وَٱللَّهُ",
       "transliterasi": "wa‑Allāhu",
       "jenis_kata": "**Huruf** (konjungsi) yang melekat pada isim",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "عَلَىٰ",
       "transliterasi": "ʿalā",
       "jenis_kata": "**Huruf** (preposisi)",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "كُلِّ",
       "transliterasi": "kullī",
       "jenis_kata": "**Isim** (kata benda totalitas)",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "شَىْءٍۢ",
       "transliterasi": "shaiʾin",
       "jenis_kata": "**Isim** (kata benda)",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "قَدِيرٌ",
       "transliterasi": "qadīrun",
       "jenis_kata": "**Isim** (sifat, khabar)",

@@ -6,90 +6,90 @@
       "index": 0,
       "kata_arab": "قَالَ",
       "transliterasi": "qāla",
-      "jenis_kata": "Fi'il",
-      "arti": "dia berkata",
+      "jenis_kata": "Fi'il Madhi (Kata Kerja Lampau)",
+      "arti": "Dia (telah) berfirman",
       "sharaf": {
-        "akar_kata": "ق و ل",
-        "makna_dasar": "kata, ucapan",
-        "wazan_perubahan": "فَعَلَ"
+        "akar_kata": "q-w-l (قول)",
+        "makna_dasar": "Berkata atau berucap",
+        "wazan_perubahan": "Fa'ala (فَعَلَ)"
       },
       "nahwu": {
-        "kedudukan": "Fi'il ماضٍ مبني على الفتح، والفاعل مستتر (Allah)",
-        "irab_dan_logika": "مرفوع بالضمة لأن الفعل الماضي يُرفع بالضمة"
+        "kedudukan": "Fi'il Madhi",
+        "irab_dan_logika": "Mabni 'ala al-fath (tetap dengan harakat fathah). Pelakunya (Fa'il) adalah dhamir mustatir (kata ganti tersembunyi) 'Huwa' yang merujuk kepada Allah."
       },
-      "hikmah": "Allah menegaskan pernyataan-Nya kepada Iblis dengan kata **قَالَ** yang menandakan otoritas dan kepastian",
+      "hikmah": "Kata ini menandai dimulainya ketetapan hukum atau vonis Allah SWT terhadap pembangkangan Iblis.",
       "role": "none"
     },
     {
       "index": 1,
-      "kata_arab": "فَٱخْرُجْ",
-      "transliterasi": "fa-ukh'ruj",
-      "jenis_kata": "Fi'il (imperatif) dengan huruf عطف **فَ**",
-      "arti": "maka keluar (perintah)",
+      "kata_arab": "فَٱخۡرُجۡ",
+      "transliterasi": "fakhruj",
+      "jenis_kata": "Harf 'Ataf + Fi'il Amr (Kata Kerja Perintah)",
+      "arti": "Maka keluarlah",
       "sharaf": {
-        "akar_kata": "خ ر ج",
-        "makna_dasar": "keluar, menempuh jalan keluar",
-        "wazan_perubahan": "أَفْعَلَ (imperatif)"
+        "akar_kata": "kh-r-j (خرج)",
+        "makna_dasar": "Keluar atau berpindah dari dalam ke luar",
+        "wazan_perubahan": "Uf'ul (افْعُلْ)"
       },
       "nahwu": {
-        "kedudukan": "فعل أمر مبني على السكون، والـ **فَ** حرف عطف يربط الجملة السابقة",
-        "irab_dan_logika": "مبني على السكون لأن الفعل أمر، والفتحة على آخره تدل على الأمر"
+        "kedudukan": "Fi'il Amr",
+        "irab_dan_logika": "Mabni 'ala as-sukun. Huruf 'Fa' di awal berfungsi sebagai penghubung (sababiyah) atas kejadian sebelumnya."
       },
-      "hikmah": "Perintah tegas **اخرج** menunjukkan larangan mutlak; Iblis harus meninggalkan surga tanpa syarat",
+      "hikmah": "Perintah pengusiran yang tegas dan segera bagi Iblis untuk meninggalkan kedudukan mulianya.",
       "role": "none"
     },
     {
       "index": 2,
-      "kata_arab": "مِنْهَا",
-      "transliterasi": "min‑hā",
-      "jenis_kata": "Huruf جر",
-      "arti": "dari (itu)",
+      "kata_arab": "مِنۡهَا",
+      "transliterasi": "minhā",
+      "jenis_kata": "Harf Jar + Isim Dhamir (Kata Ganti)",
+      "arti": "Dari sana (surga/tempat itu)",
       "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
+        "akar_kata": "N/A",
+        "makna_dasar": "Menunjukkan asal atau permulaan tempat",
+        "wazan_perubahan": "N/A"
       },
       "nahwu": {
-        "kedudukan": "حرف جر يتبعه اسم مجرور",
-        "irab_dan_logika": "مجرور بالكسرة، والهاء ضمير متصل مبني على السكون في محل جر"
+        "kedudukan": "Jar wa Majrur",
+        "irab_dan_logika": "Min' adalah harf jar, 'Ha' adalah dhamir muttasil yang merujuk pada Al-Jannah (Surga) atau as-sama' (langit)."
       },
-      "hikmah": "Menunjukkan asal tempat Iblis harus meninggalkan, yaitu **dari surga**",
+      "hikmah": "Menegaskan bahwa Iblis tidak lagi memiliki hak untuk berada di tempat yang suci dan mulia tersebut.",
       "role": "none"
     },
     {
       "index": 3,
-      "kata_arab": "فَإِنَّكَ",
-      "transliterasi": "fa‑innaka",
-      "jenis_kata": "Huruf عطف **فَ** + حرف توكيد **إِنَّ** + ضمير متصل",
-      "arti": "maka sesungguhnya engkau",
+      "kata_arab": "فَإِنَّكَ",
+      "transliterasi": "fa-innaka",
+      "jenis_kata": "Harf Taukid + Isim Dhamir",
+      "arti": "Maka sesungguhnya kamu",
       "sharaf": {
-        "akar_kata": "إ ن ن",
-        "makna_dasar": "menegaskan, menekankan",
-        "wazan_perubahan": "إِنَّ"
+        "akar_kata": "N/A",
+        "makna_dasar": "Penegasan (taukid) dan sebab (ta'lil)",
+        "wazan_perubahan": "N/A"
       },
       "nahwu": {
-        "kedudukan": "إِنَّ حرف توكيد ونصب، والضمير **كَ** في محل نصب، والـ **فَ** حرف عطف يربungkan dengan sebelumnya",
-        "irab_dan_logika": "إنَّ منصوب بالفتحة، والضمير في محل نصب لأنه تابع لإن"
+        "kedudukan": "Inna wa Ismuha",
+        "irab_dan_logika": "Inna' berfungsi menasabkan isim, 'Ka' (kamu) adalah dhamir yang berkedudukan sebagai Isim Inna."
       },
-      "hikmah": "Dengan **إِنَّ** Allah menegaskan kembali status Iblis, menambah kekuatan perintah",
+      "hikmah": "Memberikan alasan yang pasti dan tidak terbantahkan mengapa Iblis diusir.",
       "role": "none"
     },
     {
       "index": 4,
-      "kata_arab": "رَجِيمٌۭ",
-      "transliterasi": "rajīmun",
-      "jenis_kata": "Isim",
-      "arti": "terkutuk",
+      "kata_arab": "رَجِيمࣱ",
+      "transliterasi": "rajīm",
+      "jenis_kata": "Isim Sifat (Sifat Mushabbahah)",
+      "arti": "Yang terkutuk / Yang dilempari",
       "sharaf": {
-        "akar_kata": "ر ج م",
-        "makna_dasar": "menolak, menolak masuk",
-        "wazan_perubahan": "فعيل"
+        "akar_kata": "r-j-m (رجم)",
+        "makna_dasar": "Melempar dengan batu atau mengusir",
+        "wazan_perubahan": "Fa'īl (فَعِيلٌ) bermakna Maf'ūl (yang dilempar/diusir)"
       },
       "nahwu": {
-        "kedudukan": "اسم مرفوع بالضمة، خبر مرفوع لضمير مخفي (أنت)",
-        "irab_dan_logika": "مرفوع بالضمة لأنّه خبر مرفوع"
+        "kedudukan": "Khabar Inna",
+        "irab_dan_logika": "Marfu' dengan tanda dhammah. Menjadi predikat yang menjelaskan status Iblis."
       },
-      "hikmah": "Menyatakan status akhir Iblis: **rajīm** – terkutuk selamanya, tidak lagi berhak masuk surga",
+      "hikmah": "Iblis menyandang status sebagai makhluk yang terusir dari rahmat Allah dan terhina selamanya.",
       "role": "none"
     }
   ]

@@ -4,56 +4,110 @@
   "words": [
     {
       "index": 0,
-      "kata_arab": "ٱلْكِتَٰبِ",
-      "transliterasi": "al‑kitābi",
-      "jenis_kata": "Isim (isim majrur)",
-      "arti": "buku, kitab",
+      "kata_arab": "الٓرۚ",
+      "transliterasi": "Alif Lām Rā",
+      "jenis_kata": "Huruf Muqatta'ah",
+      "arti": "Alif Lam Ra",
       "sharaf": {
-        "akar_kata": "ك-ت-ب",
-        "makna_dasar": "menulis, menuliskan",
-        "wazan_perubahan": "miftāl (fa‘ala)"
+        "akar_kata": "N/A",
+        "makna_dasar": "Huruf-huruf terputus yang maknanya hanya diketahui oleh Allah.",
+        "wazan_perubahan": "N/A"
       },
       "nahwu": {
-        "kedudukan": "mudhaf (i'rab majrur) sebagai pelengkap kata *ayat*",
-        "irab_dan_logika": "berkasrah karena menjadi mudhaf ilaih, menandakan kepemilikan"
+        "kedudukan": "Fatihah as-Suwar (Pembuka Surah)",
+        "irab_dan_logika": "Tidak memiliki kedudukan i'rab (la mahalla laha min al-i'rab) menurut pendapat terkuat, berfungsi sebagai penarik perhatian dan mukjizat bahasa."
       },
-      "hikmah": "Menunjukkan bahwa ayat‑ayat tersebut termasuk dalam **Kitab** Allah yang sempurna, menegaskan otoritas dan keutuhan Al‑Qur'an.",
+      "hikmah": "Simbol kemukjizatan Al-Qur'an yang disusun dari huruf-huruf hijaiyah yang dikenal bangsa Arab, namun mereka tidak mampu menandinginya.",
       "role": "none"
     },
     {
       "index": 1,
-      "kata_arab": "وَقُرْءَانٍۢ",
-      "transliterasi": "wa‑qur'ānin",
-      "jenis_kata": "Isim (isim majrur)",
-      "arti": "dan Al‑Qur'an (yang dibaca)",
+      "kata_arab": "تِلۡكَ",
+      "transliterasi": "tilka",
+      "jenis_kata": "Isim Isyarah (Kata Tunjuk)",
+      "arti": "Itu",
       "sharaf": {
-        "akar_kata": "ق-ر-أ",
-        "makna_dasar": "membaca, melantunkan",
-        "wazan_perubahan": "maf‘ūl (muf‘al)"
+        "akar_kata": "N/A",
+        "makna_dasar": "Kata tunjuk untuk sesuatu yang jauh (muannats/feminin).",
+        "wazan_perubahan": "N/A"
       },
       "nahwu": {
-        "kedudukan": "mudhaf (i'rab majrur) setelah *ayat* dengan huruf *wa*",
-        "irab_dan_logika": "berkasrah dan ber‑tanwin kasrah karena menjadi bagian dari i‘rāb majrur"
+        "kedudukan": "Mubtada' (Subjek)",
+        "irab_dan_logika": "Isim isyarah mabni dalam kedudukan rafa' sebagai subjek kalimat."
       },
-      "hikmah": "Qur'an disebut sebagai **Al‑Qur'an** yang dibaca, menegaskan fungsi utama kitab suci sebagai bacaan yang diturunkan dan dijelaskan.",
+      "hikmah": "Merujuk kepada ayat-ayat yang akan dibacakan atau surah ini, menunjukkan kemuliaan dan kedudukannya yang tinggi (jauh secara derajat).",
       "role": "none"
     },
     {
       "index": 2,
-      "kata_arab": "مُّبِينٍۢ",
-      "transliterasi": "mubīnin",
-      "jenis_kata": "Isim sifat (isim majrur)",
-      "arti": "jelas, nyata",
+      "kata_arab": "ءَايَٰتُ",
+      "transliterasi": "āyātu",
+      "jenis_kata": "Isim (Kata Benda)",
+      "arti": "Ayat-ayat / Tanda-tanda",
       "sharaf": {
-        "akar_kata": "ب-ي-ن",
-        "makna_dasar": "menunjukkan, memperjelas",
-        "wazan_perubahan": "maf‘ūl (muf‘al)"
+        "akar_kata": "أ ي ي",
+        "makna_dasar": "Tanda yang jelas atau bukti.",
+        "wazan_perubahan": "Jamak Muannats Salim"
       },
       "nahwu": {
-        "kedudukan": "sifat (na‘t) yang menempel pada *qur'ānin* dalam i‘rāb majrur",
-        "irab_dan_logika": "berkasrah karena mengikuti kata yang dimodifikasinya yang berada dalam majrur"
+        "kedudukan": "Khabar (Predikat) & Mudhaf",
+        "irab_dan_logika": "Marfu' dengan dammah karena merupakan predikat dari 'tilka'."
       },
-      "hikmah": "Menegaskan bahwa Al‑Qur'an itu **mubīn**, yaitu jelas dan tidak menyisakan keraguan, sehingga menjadi petunjuk yang terang bagi umat.",
+      "hikmah": "Kumpulan tanda-tanda kekuasaan Allah dan petunjuk yang menyusun kitab suci.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "ٱلۡكِتَٰبِ",
+      "transliterasi": "al-kitābi",
+      "jenis_kata": "Isim (Kata Benda)",
+      "arti": "Kitab / Buku",
+      "sharaf": {
+        "akar_kata": "ك ت ب",
+        "makna_dasar": "Menulis atau mengumpulkan.",
+        "wazan_perubahan": "Fi'al"
+      },
+      "nahwu": {
+        "kedudukan": "Mudhaf Ilayh",
+        "irab_dan_logika": "Majrur dengan kasrah karena disandarkan pada kata 'ayatu'."
+      },
+      "hikmah": "Merujuk pada Al-Qur'an atau Lauh Mahfuz sebagai wahyu yang tertulis dan terhimpun.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "وَقُرۡءَانࣲ",
+      "transliterasi": "wa qur'ānin",
+      "jenis_kata": "Isim (Kata Benda) dengan Huruf Athaf",
+      "arti": "dan Al-Qur'an (Bacaan)",
+      "sharaf": {
+        "akar_kata": "ق ر أ",
+        "makna_dasar": "Membaca atau mengumpulkan.",
+        "wazan_perubahan": "Fu'lan"
+      },
+      "nahwu": {
+        "kedudukan": "Ma'thuf",
+        "irab_dan_logika": "Majrur dengan tanwin kasrah karena mengikuti (athaf) kepada 'al-kitabi'."
+      },
+      "hikmah": "Menegaskan sifat kitab tersebut sebagai sesuatu yang dibaca berulang-ulang dan mengandung mukjizat lisan.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "مُّبِينࣲ",
+      "transliterasi": "mubīnin",
+      "jenis_kata": "Isim Fa'il (Kata Sifat)",
+      "arti": "Yang memberi penjelasan / Yang nyata",
+      "sharaf": {
+        "akar_kata": "ب ي ن",
+        "makna_dasar": "Terpisah atau jelas.",
+        "wazan_perubahan": "Muf'il (dari Bab IV: Abana)"
+      },
+      "nahwu": {
+        "kedudukan": "Na'at (Sifat)",
+        "irab_dan_logika": "Majrur dengan tanwin kasrah karena menjadi sifat bagi kata 'qur'anin'."
+      },
+      "hikmah": "Al-Qur'an adalah kitab yang sangat jelas kebenarannya dan menjelaskan segala sesuatu yang dibutuhkan manusia untuk keselamatan.",
       "role": "none"
     }
   ]

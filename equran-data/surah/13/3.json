@@ -292,6 +292,24 @@
     },
     {
       "index": 16,
+      "kata_arab": "ۖ",
+      "transliterasi": "Tidak ada transliterasi",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "Tanda berhenti (waqaf ja'iz)",
+      "sharaf": {
+        "akar_kata": "Tidak ada",
+        "makna_dasar": "Menunjukkan tempat yang dianjurkan untuk berhenti, tetapi boleh juga melanjutkan bacaan",
+        "wazan_perubahan": "Tidak ada"
+      },
+      "nahwu": {
+        "kedudukan": "Bukan bagian dari struktur gramatikal kalimat. Ini adalah tanda baca.",
+        "irab_dan_logika": "Tidak memiliki i'rab."
+      },
+      "hikmah": "Tanda ini membantu pembaca Al-Qur'an untuk memahami jeda yang tepat dalam bacaan, sehingga makna ayat dapat tersampaikan dengan baik. Dalam konteks ini, ia memisahkan dua gagasan utama: penciptaan bumi dan isinya, dengan pengaturan malam dan siang.",
+      "role": "none"
+    },
+    {
+      "index": 17,
       "kata_arab": "يُغْشِى",
       "transliterasi": "Yughshī",
       "jenis_kata": "Fi'il",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "ٱلَّيْلَ",
       "transliterasi": "al-Layl",
       "jenis_kata": "Isim (Kata Benda)",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 19,
       "kata_arab": "ٱلنَّهَارَ",
       "transliterasi": "an-Nahār",
       "jenis_kata": "Isim (Kata Benda)",
@@ -345,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 20,
       "kata_arab": "ۚ",
       "transliterasi": "(tanda waqaf)",
       "jenis_kata": "Huruf (Tanda Baca)",
@@ -363,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 21,
       "kata_arab": "إِنَّ",
       "transliterasi": "Inna",
       "jenis_kata": "Huruf (Huruf Taukid/Penegas)",
@@ -381,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 22,
       "kata_arab": "فِى",
       "transliterasi": "Fī",
       "jenis_kata": "Huruf (Huruf Jar)",
@@ -399,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 23,
       "kata_arab": "ذَٰلِكَ",
       "transliterasi": "Dhālika",
       "jenis_kata": "Isim Isyarat (Kata Tunjuk)",
@@ -417,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 24,
       "kata_arab": "لَءَايَٰتٍۢ",
       "transliterasi": "la'āyātin",
       "jenis_kata": "Isim",
@@ -435,7 +453,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 25,
       "kata_arab": "لِّقَوْمٍۢ",
       "transliterasi": "liqawmin",
       "jenis_kata": "Huruf + Isim",
@@ -453,7 +471,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 26,
       "kata_arab": "يَتَفَكَّرُونَ",
       "transliterasi": "yatafakkarūna",
       "jenis_kata": "Fi'il",

@@ -76,6 +76,24 @@
     },
     {
       "index": 4,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Tanda baca",
+      "arti": "tanda berhenti (waqf)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "memisahkan antara bagian sebelumnya dan kalimat berikutnya",
+        "irab_dan_logika": "tidak berirab, berfungsi sebagai tanda jeda"
+      },
+      "hikmah": "Memberi jeda untuk menekankan makna sebelum masuk perkataan Shaleh",
+      "role": "none"
+    },
+    {
+      "index": 5,
       "kata_arab": "قَالَ",
       "transliterasi": "qāla",
       "jenis_kata": "Fi'il",
@@ -93,7 +111,7 @@
       "role": "none"
     },
     {
-      "index": 5,
+      "index": 6,
       "kata_arab": "يَٰقَوْمِ",
       "transliterasi": "yā qawmi",
       "jenis_kata": "Isim (nama) dengan huruf نداء",
@@ -111,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 7,
       "kata_arab": "ٱعْبُدُوا۟",
       "transliterasi": "ʿbudū",
       "jenis_kata": "Fi'il (perintah)",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "ٱللَّهَ",
       "transliterasi": "Allāha",
       "jenis_kata": "Isim (nama Allah)",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "مَا",
       "transliterasi": "mā",
       "jenis_kata": "Huruf (kata tanya)",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "لَكُم",
       "transliterasi": "lakum",
       "jenis_kata": "Huruf جر + ضمير متصل",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "مِّنْ",
       "transliterasi": "min",
       "jenis_kata": "Huruf جر",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "إِلَٰهٍ",
       "transliterasi": "ilāhin",
       "jenis_kata": "Isim",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "غَيْرُهُۥ",
       "transliterasi": "ghayruhu",
       "jenis_kata": "Isim",
@@ -237,7 +255,25 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
+      "kata_arab": "ۖ",
+      "transliterasi": "(waqf)",
+      "jenis_kata": "Simbol",
+      "arti": "tanda berhenti",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda waqf (simbol) di akhir frasa",
+        "irab_dan_logika": "tidak berirab, berfungsi memisahkan bagian kalimat"
+      },
+      "hikmah": "memberi jeda untuk menekankan makna sebelumnya",
+      "role": "none"
+    },
+    {
+      "index": 15,
       "kata_arab": "هُوَ",
       "transliterasi": "huwa",
       "jenis_kata": "Isim",
@@ -255,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 16,
       "kata_arab": "أَنشَأَكُم",
       "transliterasi": "anshaʾakum",
       "jenis_kata": "Fi'il",
@@ -273,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 17,
       "kata_arab": "مِّنَ",
       "transliterasi": "mina",
       "jenis_kata": "Huruf",
@@ -291,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 18,
       "kata_arab": "ٱلْأَرْضِ",
       "transliterasi": "al-ʾarḍi",
       "jenis_kata": "Isim (isim majrur)",
@@ -309,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 19,
       "kata_arab": "وَٱسْتَعْمَرَكُمْ",
       "transliterasi": "wa-istaʿmarakum",
       "jenis_kata": "Fi'il (verb past, 3rd masc. sg. dengan ضمير متصل)",
@@ -327,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 20,
       "kata_arab": "فِيهَا",
       "transliterasi": "fīhā",
       "jenis_kata": "Harf (preposisi *fi* + ضمير متصل *‑hā*)",
@@ -345,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 21,
       "kata_arab": "فَٱسْتَغْفِرُوهُ",
       "transliterasi": "fa-astaghfirūhu",
       "jenis_kata": "Fi'il (imperatif, 2nd person plural) dengan ضمير متصل *‑hu*",
@@ -363,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 22,
       "kata_arab": "ثُمَّ",
       "transliterasi": "thumma",
       "jenis_kata": "Harf (conjunction)",
@@ -381,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 24,
       "kata_arab": "إِلَيْهِ",
       "transliterasi": "ilayhi",
       "jenis_kata": "Huruf",
@@ -399,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 25,
       "kata_arab": "ۚ",
       "transliterasi": "",
       "jenis_kata": "Huruf",
@@ -417,7 +453,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 26,
       "kata_arab": "إِنَّ",
       "transliterasi": "inna",
       "jenis_kata": "Huruf",
@@ -435,7 +471,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 27,
       "kata_arab": "رَبِّى",
       "transliterasi": "rabbī",
       "jenis_kata": "Isim",
@@ -453,7 +489,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 28,
       "kata_arab": "قَرِيبٌۭ",
       "transliterasi": "qarībun",
       "jenis_kata": "Isim",
@@ -471,7 +507,7 @@
       "role": "none"
     },
     {
-      "index": 26,
+      "index": 29,
       "kata_arab": "مُّجِيبٌۭ",
       "transliterasi": "mujībun",
       "jenis_kata": "Isim",

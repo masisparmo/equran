@@ -274,6 +274,24 @@
     },
     {
       "index": 15,
+      "kata_arab": "ۖ",
+      "transliterasi": "-",
+      "jenis_kata": "Tanda Waqaf (tanda baca)",
+      "arti": "Tanda berhenti (waqaf jaiz)",
+      "sharaf": {
+        "akar_kata": "Tidak ada",
+        "makna_dasar": "Tidak ada",
+        "wazan_perubahan": "Tidak ada"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca dalam mushaf Al-Qur'an.",
+        "irab_dan_logika": "Bukan bagian dari tata bahasa Arab, melainkan konvensi penulisan mushaf. Menunjukkan tempat yang dianjurkan untuk berhenti, tetapi boleh juga melanjutkan."
+      },
+      "hikmah": "Tanda waqaf ini mengindikasikan jeda yang tepat untuk memahami makna kalimat sebelumnya sebelum melanjutkan ke bagian berikutnya. Ini membantu pembaca merenungkan keagungan Allah sebagai 'sebaik-baik Penjaga' sebelum beralih ke sifat-Nya yang lain.",
+      "role": "none"
+    },
+    {
+      "index": 16,
       "kata_arab": "وَهُوَ",
       "transliterasi": "wa-Huwa",
       "jenis_kata": "Huruf (wa) + Isim (Huwa - Dhamir)",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "أَرْحَمُ",
       "transliterasi": "arḥamu",
       "jenis_kata": "Isim",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "ٱلرَّٰحِمِينَ",
       "transliterasi": "ar-rāḥimīn",
       "jenis_kata": "Isim",

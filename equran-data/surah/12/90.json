@@ -184,6 +184,24 @@
     },
     {
       "index": 10,
+      "kata_arab": "ۖ",
+      "transliterasi": "(Tanda Waqaf Lazim)",
+      "jenis_kata": "Tanda Baca",
+      "arti": "Tanda berhenti yang dianjurkan (waqaf lazim)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk tanda baca.",
+        "makna_dasar": "Menunjukkan tempat berhenti yang lebih baik untuk menjaga kesempurnaan makna.",
+        "wazan_perubahan": "Tidak berlaku untuk tanda baca."
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca, bukan bagian dari struktur gramatikal kalimat.",
+        "irab_dan_logika": "Tidak memiliki i'rab."
+      },
+      "hikmah": "Tanda waqaf lazim (ۖ) menunjukkan bahwa pada titik ini, makna kalimat sebelumnya sudah sempurna dan jelas. Berhenti di sini membantu pembaca memahami bahwa pengenalan diri Yusuf dan saudaranya adalah satu bagian lengkap sebelum melanjutkan ke pernyataan berikutnya tentang karunia Allah, sehingga membantu dalam pemahaman makna dan intonasi saat membaca Al-Qur'an.",
+      "role": "none"
+    },
+    {
+      "index": 11,
       "kata_arab": "قَدْ",
       "transliterasi": "Qad",
       "jenis_kata": "Huruf",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "مَنَّ",
       "transliterasi": "manna",
       "jenis_kata": "Fi'il",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "ٱللَّهُ",
       "transliterasi": "Allāhu",
       "jenis_kata": "Isim",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "عَلَيْنَآ",
       "transliterasi": "alaynā",
       "jenis_kata": "Huruf + Isim Dhomir",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "ۖ",
       "transliterasi": "(tanda waqaf)",
       "jenis_kata": "Tanda baca Al-Qur'an",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "إِنَّهُۥ",
       "transliterasi": "innahu",
       "jenis_kata": "Huruf + Isim Dhomir",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "مَن",
       "transliterasi": "man",
       "jenis_kata": "Isim Syarat",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "يَتَّقِ",
       "transliterasi": "yattaqi",
       "jenis_kata": "Fi'il",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 19,
       "kata_arab": "وَيَصْبِرْ",
       "transliterasi": "wa yaṣbir",
       "jenis_kata": "Fi'il",
@@ -345,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 20,
       "kata_arab": "فَإِنَّ",
       "transliterasi": "fa inna",
       "jenis_kata": "Huruf",
@@ -363,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 21,
       "kata_arab": "ٱللَّهَ",
       "transliterasi": "Allāha",
       "jenis_kata": "Isim",
@@ -381,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 22,
       "kata_arab": "لَا",
       "transliterasi": "lā",
       "jenis_kata": "Huruf",
@@ -399,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 23,
       "kata_arab": "يُضِيعُ",
       "transliterasi": "yuḍī'u",
       "jenis_kata": "Fi'il",
@@ -417,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 24,
       "kata_arab": "أَجْرَ",
       "transliterasi": "ajra",
       "jenis_kata": "Isim (Kata Benda)",
@@ -435,7 +453,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 25,
       "kata_arab": "ٱلْمُحْسِنِينَ",
       "transliterasi": "al-muhsinīn",
       "jenis_kata": "Isim (Kata Benda), Isim Fa'il (Pelaku)",

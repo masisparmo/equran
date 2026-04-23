@@ -112,6 +112,24 @@
     },
     {
       "index": 6,
+      "kata_arab": "ۖ",
+      "transliterasi": "Waqf Mutlaq",
+      "jenis_kata": "Tanda Baca",
+      "arti": "Tanda berhenti mutlak (disunnahkan berhenti)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Tidak berlaku",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Tidak berlaku",
+        "irab_dan_logika": "Tidak berlaku"
+      },
+      "hikmah": "Tanda ini menunjukkan tempat berhenti yang disunnahkan untuk mengambil napas dan memahami makna ayat sebelumnya sebelum melanjutkan bacaan. Ini membantu dalam pemahaman konteks dan pesan ayat.",
+      "role": "none"
+    },
+    {
+      "index": 7,
       "kata_arab": "أَنزَلَهُۥ",
       "transliterasi": "Anzalahu",
       "jenis_kata": "Fi'il (kata kerja) + Dhamir (kata ganti)",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "بِعِلْمِهِۦ",
       "transliterasi": "Bi'ilmihi",
       "jenis_kata": "Huruf Jar + Isim + Dhamir",
@@ -147,7 +165,25 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
+      "kata_arab": "ۖ",
+      "transliterasi": "Waqf Mutlaq",
+      "jenis_kata": "Tanda Baca",
+      "arti": "Tanda berhenti mutlak (disunnahkan berhenti)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Tidak berlaku",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Tidak berlaku",
+        "irab_dan_logika": "Tidak berlaku"
+      },
+      "hikmah": "Sama seperti tanda sebelumnya, ini menunjukkan tempat berhenti yang disunnahkan. Berhenti di sini memungkinkan pembaca untuk merenungkan bahwa Al-Qur'an diturunkan dengan ilmu Allah, sebelum melanjutkan ke bagian tentang kesaksian para malaikat.",
+      "role": "none"
+    },
+    {
+      "index": 10,
       "kata_arab": "وَٱلْمَلَٰٓئِكَةُ",
       "transliterasi": "Wal-malaa'ikatu",
       "jenis_kata": "Huruf Athaf + Isim",
@@ -165,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 11,
       "kata_arab": "يَشْهَدُونَ",
       "transliterasi": "Yashhaduuna",
       "jenis_kata": "Fi'il (kata kerja)",
@@ -183,7 +219,25 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 12,
+      "kata_arab": "ۚ",
+      "transliterasi": "Juz' sign",
+      "jenis_kata": "Tanda Baca",
+      "arti": "Tanda berhenti sempurna",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Tidak berlaku",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Tidak berlaku",
+        "irab_dan_logika": "Tidak berlaku"
+      },
+      "hikmah": "Tanda ini menunjukkan tempat berhenti yang disunnahkan (waqf lazim atau waqf mutlaq) dalam pembacaan Al-Qur'an, menandakan bahwa makna kalimat sebelumnya telah sempurna dan dapat dipahami secara utuh sebelum melanjutkan ke bagian berikutnya.",
+      "role": "none"
+    },
+    {
+      "index": 13,
       "kata_arab": "وَكَفَىٰ",
       "transliterasi": "Wa kafa",
       "jenis_kata": "Huruf (Wawu) + Fi'il (Kafa)",
@@ -201,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 15,
       "kata_arab": "شَهِيدًا",
       "transliterasi": "Shahidan",
       "jenis_kata": "Isim (kata benda)",

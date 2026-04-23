@@ -94,6 +94,24 @@
     },
     {
       "index": 5,
+      "kata_arab": "ۚ",
+      "transliterasi": "N/A",
+      "jenis_kata": "Tanda Waqaf (Simbol)",
+      "arti": "Tanda berhenti (waqaf jaiz)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca dalam mushaf",
+        "irab_dan_logika": "Bukan bagian dari struktur kalimat Arab secara gramatikal, melainkan tanda untuk pembacaan Al-Qur'an. Tidak memiliki i'rab."
+      },
+      "hikmah": "Membantu pembaca Al-Qur'an untuk mengatur nafas dan memahami jeda makna. Tanda ini menunjukkan 'waqaf jaiz', artinya boleh berhenti atau boleh melanjutkan bacaan, namun berhenti lebih utama untuk memahami satu kesatuan makna.",
+      "role": "none"
+    },
+    {
+      "index": 6,
       "kata_arab": "وَمَا",
       "transliterasi": "wa mā",
       "jenis_kata": "Huruf",
@@ -111,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 7,
       "kata_arab": "مِنْ",
       "transliterasi": "min",
       "jenis_kata": "Huruf",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "إِلَٰهٍ",
       "transliterasi": "ilāhin",
       "jenis_kata": "Isim",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "إِلَّا",
       "transliterasi": "illā",
       "jenis_kata": "Huruf",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "ٱللَّهُ",
       "transliterasi": "Allāhu",
       "jenis_kata": "Isim",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "ۚ",
       "transliterasi": "N/A",
       "jenis_kata": "Tanda Baca",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "وَإِنَّ",
       "transliterasi": "wa-inna",
       "jenis_kata": "Huruf",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "ٱللَّهَ",
       "transliterasi": "Allāha",
       "jenis_kata": "Isim",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "لَهُوَ",
       "transliterasi": "lahuwa",
       "jenis_kata": "Huruf dan Isim Dhomir",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "ٱلْعَزِيزُ",
       "transliterasi": "al-'Azīzu",
       "jenis_kata": "Isim (Sifat/Asmaul Husna)",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "ٱلْحَكِيمُ",
       "transliterasi": "al-Ḥakīmu",
       "jenis_kata": "Isim (Sifat/Asmaul Husna)",

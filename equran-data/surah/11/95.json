@@ -76,6 +76,24 @@
     },
     {
       "index": 4,
+      "kata_arab": "ۗ",
+      "transliterasi": "waqf",
+      "jenis_kata": "Tanda baca",
+      "arti": "*tanda jeda*",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Penanda akhir bagian kalimat",
+        "irab_dan_logika": "Tidak berharakat; berfungsi memisahkan bagian kalimat untuk kejelasan"
+      },
+      "hikmah": "Memberi jeda, menandai berakhirnya pernyataan sebelum ayat selanjutnya",
+      "role": "none"
+    },
+    {
+      "index": 5,
       "kata_arab": "أَلَا",
       "transliterasi": "alā",
       "jenis_kata": "Huruf",
@@ -93,7 +111,7 @@
       "role": "none"
     },
     {
-      "index": 5,
+      "index": 6,
       "kata_arab": "بُعْدًۭا",
       "transliterasi": "bu‘dan",
       "jenis_kata": "Isim",
@@ -111,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 7,
       "kata_arab": "لِّمَدْيَنَ",
       "transliterasi": "li‑Madyana",
       "jenis_kata": "Huruf",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "كَمَا",
       "transliterasi": "kama",
       "jenis_kata": "Huruf",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "بَعِدَتْ",
       "transliterasi": "ba‘idat",
       "jenis_kata": "Fi‘il",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "ثَمُودُ",
       "transliterasi": "Thamud",
       "jenis_kata": "Isim",

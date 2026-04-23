@@ -5,127 +5,199 @@
     {
       "index": 0,
       "kata_arab": "قَالَ",
-      "transliterasi": "qāla",
-      "jenis_kata": "Fi'il",
-      "arti": "*dia berkata*",
+      "transliterasi": "Qāla",
+      "jenis_kata": "Fi'il Madhi (Kata Kerja Lampau)",
+      "arti": "Dia (laki-laki) telah berkata",
       "sharaf": {
-        "akar_kata": "ق-و-ل",
-        "makna_dasar": "kata, ucapan",
-        "wazan_perubahan": "fa‘ala (bentuk I)"
+        "akar_kata": "ق و ل (Q-W-L)",
+        "makna_dasar": "Berucap atau berkata",
+        "wazan_perubahan": "فَعَلَ (Fa'ala)"
       },
       "nahwu": {
-        "kedudukan": "Fi'il madhi sebagai predikat utama",
-        "irab_dan_logika": "dhammah karena fi'il madhi"
+        "kedudukan": "Fi'il (Kata Kerja) dan Fa'il (Pelaku)",
+        "irab_dan_logika": "Fi'il madhi mabni 'alal fathi. Pelakunya (Fa'il) adalah dhamir mustatir 'huwa' yang merujuk kepada Iblis."
       },
-      "hikmah": "menunjukkan pernyataan Iblis secara tegas",
+      "hikmah": "Kata ini memulai pernyataan pembangkangan Iblis sebagai respon terhadap perintah Allah.",
       "role": "none"
     },
     {
       "index": 1,
-      "kata_arab": "لَمْ",
-      "transliterasi": "lam",
-      "jenis_kata": "Huruf",
-      "arti": "*tidak*",
+      "kata_arab": "لَمۡ",
+      "transliterasi": "Lam",
+      "jenis_kata": "Harf Nafyi wa Jazm (Partikel Negasi)",
+      "arti": "Tidak / Bukan",
       "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "partikel penafian",
-        "wazan_perubahan": ""
+        "akar_kata": "N/A",
+        "makna_dasar": "Penyangkalan terhadap suatu perbuatan",
+        "wazan_perubahan": "N/A"
       },
       "nahwu": {
-        "kedudukan": "Huruf nasb yang mengubah fi'il madhi menjadi majzū'",
-        "irab_dan_logika": "lam sukun, kata berikutnya berkasrah menandakan nasb"
+        "kedudukan": "Harf Jazm",
+        "irab_dan_logika": "Berfungsi meniadakan (negasi) fi'il mudhari' setelahnya dan mengubah maknanya menjadi masa lampau serta menjadikannya majzum."
       },
-      "hikmah": "menegaskan penolakan total",
+      "hikmah": "Digunakan untuk menegaskan ketidakmungkinan atau penolakan mutlak Iblis untuk melakukan tindakan tersebut.",
       "role": "none"
     },
     {
       "index": 2,
-      "kata_arab": "أَكُن",
-      "transliterasi": "akunu",
-      "jenis_kata": "Fi'il",
-      "arti": "*aku akan menjadi*",
+      "kata_arab": "أَكُن",
+      "transliterasi": "Akun",
+      "jenis_kata": "Fi'il Mudhari' Naqish (Kata Kerja Sedang/Akan)",
+      "arti": "Aku adalah / Aku menjadi",
       "sharaf": {
-        "akar_kata": "ك-ن-و",
-        "makna_dasar": "menjadi, ada",
-        "wazan_perubahan": "af‘alu (bentuk I)"
+        "akar_kata": "ك و ن (K-W-N)",
+        "makna_dasar": "Keberadaan atau menjadi",
+        "wazan_perubahan": "أَفْعُلُ (Af'ulu) menjadi Akun karena jazm"
       },
       "nahwu": {
-        "kedudukan": "Fi'il mudhari‘ yang dinasbkan oleh لَمْ menjadi majzū'",
-        "irab_dan_logika": "kasrah karena nasb, menandakan ketidak‑berlakuannya"
+        "kedudukan": "Fi'il Mudhari' Majzum",
+        "irab_dan_logika": "Majzum oleh 'lam' dengan tanda sukun pada huruf nun. Isim kaana adalah dhamir mustatir 'ana' (aku)."
       },
-      "hikmah": "menyatakan ketidakmungkinan sujud",
+      "hikmah": "Menunjukkan pernyataan Iblis tentang jati dirinya yang merasa tidak layak atau tidak sudi berada dalam posisi bersujud.",
       "role": "none"
     },
     {
       "index": 3,
-      "kata_arab": "لِأَسْجُدَ",
-      "transliterasi": "li‑asjuda",
-      "jenis_kata": "Fi'il (dengan huruf jar)",
-      "arti": "*untuk sujud*",
+      "kata_arab": "لِّأَسۡجُدَ",
+      "transliterasi": "Li-asjuda",
+      "jenis_kata": "Harf Lam + Fi'il Mudhari'",
+      "arti": "Untuk aku bersujud",
       "sharaf": {
-        "akar_kata": "س-ج-د",
-        "makna_dasar": "sujud",
-        "wazan_perubahan": "af‘ala (bentuk I)"
+        "akar_kata": "س ج د (S-J-D)",
+        "makna_dasar": "Tunduk atau meletakkan dahi ke tanah",
+        "wazan_perubahan": "أَفْعُلَ (Af'ula)"
       },
       "nahwu": {
-        "kedudukan": "Fi'il majrur setelah huruf jar *li*; bentuk mudhari‘",
-        "irab_dan_logika": "lam kasrah, verb berharakat fatha pada alif, sukun pada sin, damma pada jim, fatha pada dal"
+        "kedudukan": "Lam al-Juhud + Fi'il Mudhari' Manshub",
+        "irab_dan_logika": "Huruf 'Lam' di sini adalah Lam al-Juhud (pengingkaran kuat) karena didahului oleh negasi 'lam akun'. Fi'il mudhari manshub dengan 'an' yang disembunyikan."
       },
-      "hikmah": "menunjukkan tujuan sujud kepada manusia",
+      "hikmah": "Struktur ini memberikan penekanan yang sangat kuat bahwa Iblis benar-benar tidak akan pernah sudi bersujud.",
       "role": "none"
     },
     {
       "index": 4,
       "kata_arab": "لِبَشَرٍ",
-      "transliterasi": "li‑basharin",
-      "jenis_kata": "Isim (dengan huruf jar)",
-      "arti": "*kepada manusia*",
+      "transliterasi": "Li-basharin",
+      "jenis_kata": "Harf Jar + Isim (Kata Benda)",
+      "arti": "Kepada manusia",
       "sharaf": {
-        "akar_kata": "ب-ش-ر",
-        "makna_dasar": "manusia",
-        "wazan_perubahan": "fa‘ala (bentuk I)"
+        "akar_kata": "ب ش ر (B-SH-R)",
+        "makna_dasar": "Kulit luar atau makhluk yang tampak kulitnya",
+        "wazan_perubahan": "N/A"
       },
       "nahwu": {
-        "kedudukan": "Isim majrur setelah huruf jar *li*",
-        "irab_dan_logika": "kasrah karena majrur"
+        "kedudukan": "Jar wa Majrur",
+        "irab_dan_logika": "Huruf 'Li' adalah harf jar (kepada). 'Basharin' adalah isim majrur dengan tanda kasratain."
       },
-      "hikmah": "menyasar makhluk yang diciptakan",
+      "hikmah": "Merujuk kepada Nabi Adam AS, di mana Iblis memandang rendah sisi material (kemanusiaan) Adam.",
       "role": "none"
     },
     {
       "index": 5,
-      "kata_arab": "خَلَقْتَهُۥ",
-      "transliterasi": "khalaqtahu",
-      "jenis_kata": "Fi'il + dhamir",
-      "arti": "*aku menciptakan dia*",
+      "kata_arab": "خَلَقۡتَهُۥ",
+      "transliterasi": "Khalaqtahu",
+      "jenis_kata": "Fi'il Madhi + Dhamir (Objek)",
+      "arti": "Engkau telah menciptakannya",
       "sharaf": {
-        "akar_kata": "خ-ل-ق",
-        "makna_dasar": "mencipta",
-        "wazan_perubahan": "fa‘ala (bentuk I)"
+        "akar_kata": "خ ل ق (KH-L-Q)",
+        "makna_dasar": "Menciptakan sesuatu dari ketiadaan",
+        "wazan_perubahan": "فَعَلْتَ (Fa'alta)"
       },
       "nahwu": {
-        "kedudukan": "Fi'il madhi dengan dhamir muttasil *hu* sebagai objek",
-        "irab_dan_logika": "dhammah pada alif karena madhi, dhamir *hu* ber‑i‘rāb majrur"
+        "kedudukan": "Fi'il, Fa'il, dan Maf'ul Bih",
+        "irab_dan_logika": "Khalaqta adalah fi'il madhi dan fa'il (Engkau/Allah). 'Hu' adalah dhamir muttasil sebagai maf'ul bih (objek/Adam)."
       },
-      "hikmah": "menegaskan penciptaan manusia oleh Allah",
+      "hikmah": "Iblis mengakui Allah sebagai Pencipta, namun ia membangkang karena merasa asal-usul penciptaan dirinya lebih mulia daripada Adam.",
       "role": "none"
     },
     {
       "index": 6,
       "kata_arab": "مِن",
       "transliterasi": "min",
-      "jenis_kata": "Huruf (preposisi)",
-      "arti": "dari, menunjukkan asal atau bahan",
+      "jenis_kata": "Harf Jarr (Kata Depan)",
+      "arti": "dari",
       "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
+        "akar_kata": "N/A",
+        "makna_dasar": "Menunjukkan titik awal (ibtida' al-ghayah)",
+        "wazan_perubahan": "N/A"
       },
       "nahwu": {
-        "kedudukan": "",
-        "irab_dan_logika": ""
+        "kedudukan": "Harf Jarr",
+        "irab_dan_logika": "Mabni 'ala as-sukun. Berfungsi menjarr-kan kata setelahnya (salsalin)."
       },
-      "hikmah": "",
+      "hikmah": "Kata ini menunjukkan asal-usul bahan baku utama penciptaan manusia.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "صَلۡصَٰلࣲ",
+      "transliterasi": "salsalin",
+      "jenis_kata": "Isim (Kata Benda)",
+      "arti": "tanah liat kering",
+      "sharaf": {
+        "akar_kata": "ص ل ص ل (S-L-S-L)",
+        "makna_dasar": "Suara gemerincing; tanah kering yang jika dipukul mengeluarkan bunyi",
+        "wazan_perubahan": "Fa'lal"
+      },
+      "nahwu": {
+        "kedudukan": "Isim Majrur",
+        "irab_dan_logika": "Majrur dengan tanda kasratain karena didahului harf jarr 'min'."
+      },
+      "hikmah": "Merujuk pada fase tanah liat yang sudah mengeras dan kering sehingga bisa berbunyi jika disentuh.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "مِّنۡ",
+      "transliterasi": "min",
+      "jenis_kata": "Harf Jarr (Kata Depan)",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "Penjelasan (Li al-bayan)",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Harf Jarr",
+        "irab_dan_logika": "Mabni 'ala as-sukun. Berfungsi menjelaskan sifat atau asal dari 'salsal' sebelumnya."
+      },
+      "hikmah": "Berfungsi sebagai penjelas bahwa tanah liat kering tersebut berasal dari lumpur hitam.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "حَمَإࣲ",
+      "transliterasi": "hama'in",
+      "jenis_kata": "Isim (Kata Benda)",
+      "arti": "lumpur hitam",
+      "sharaf": {
+        "akar_kata": "ح م أ (H-M-')",
+        "makna_dasar": "Lumpur yang berubah warna menjadi hitam dan berbau",
+        "wazan_perubahan": "Fa'al"
+      },
+      "nahwu": {
+        "kedudukan": "Isim Majrur",
+        "irab_dan_logika": "Majrur dengan tanda kasratain karena didahului harf jarr 'min'."
+      },
+      "hikmah": "Menunjukkan materi dasar manusia berupa lumpur yang telah mengalami perubahan warna dan aroma.",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "مَّسۡنُونࣲ",
+      "transliterasi": "masnunin",
+      "jenis_kata": "Isim Maf'ul (Kata Kerja Pasif yang dibendakan)",
+      "arti": "yang diberi bentuk / yang dituangkan",
+      "sharaf": {
+        "akar_kata": "س ن ن (S-N-N)",
+        "makna_dasar": "Membentuk, mengasah, atau mengalirkan",
+        "wazan_perubahan": "Maf'ul"
+      },
+      "nahwu": {
+        "kedudukan": "Na'at (Sifat)",
+        "irab_dan_logika": "Majrur dengan kasratain karena mengikuti kata yang disifatinya (hama'in)."
+      },
+      "hikmah": "Menjelaskan bahwa lumpur tersebut telah diolah, dibentuk dengan rapi, atau telah melalui proses pematangan waktu.",
       "role": "none"
     }
   ]

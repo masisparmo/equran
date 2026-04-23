@@ -364,6 +364,24 @@
     },
     {
       "index": 20,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Simbol (tanda baca)",
+      "arti": "tanda berhenti",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca yang memisahkan bagian kalimat",
+        "irab_dan_logika": "Tidak berirab, berfungsi sebagai jeda"
+      },
+      "hikmah": "Memberi jeda untuk menekankan makna sebelumnya",
+      "role": "none"
+    },
+    {
+      "index": 21,
       "kata_arab": "وَهُمْ",
       "transliterasi": "wa-hum",
       "jenis_kata": "Huruf (wa) + Isim (hum)",
@@ -381,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 22,
       "kata_arab": "لَا",
       "transliterasi": "la",
       "jenis_kata": "Huruf (negasi)",
@@ -399,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 23,
       "kata_arab": "يُظْلَمُونَ",
       "transliterasi": "yuzlamuna",
       "jenis_kata": "Fi'il (madhi majzum)",

@@ -274,6 +274,24 @@
     },
     {
       "index": 15,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqaf jaiz)",
+      "jenis_kata": "Tanda Baca",
+      "arti": "Tanda berhenti yang boleh berhenti atau melanjutkan",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Menunjukkan jeda dalam bacaan Al-Qur'an",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf",
+        "irab_dan_logika": "Tidak memiliki i'rab"
+      },
+      "hikmah": "Tanda ini membantu pembaca untuk memahami struktur kalimat dan makna, memberikan jeda setelah deskripsi hukuman salib sebelum beralih ke pernyataan keputusan yang final.",
+      "role": "none"
+    },
+    {
+      "index": 16,
       "kata_arab": "قُضِىَ",
       "transliterasi": "quḍiya",
       "jenis_kata": "Fi'il",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "ٱلْأَمْرُ",
       "transliterasi": "al-amr",
       "jenis_kata": "Isim",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "ٱلَّذِى",
       "transliterasi": "Alladhī",
       "jenis_kata": "Isim Maushul",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 19,
       "kata_arab": "فِيهِ",
       "transliterasi": "Fīhi",
       "jenis_kata": "Huruf + Dhamir",
@@ -345,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 20,
       "kata_arab": "تَسْتَفْتِيَانِ",
       "transliterasi": "Tastaftiyāni",
       "jenis_kata": "Fi'il Mudhari'",

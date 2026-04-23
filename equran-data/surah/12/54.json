@@ -112,6 +112,24 @@
     },
     {
       "index": 6,
+      "kata_arab": "ۖ",
+      "transliterasi": "waqf mutlaq",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "Tanda berhenti sempurna",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Tidak berlaku",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Tidak berlaku",
+        "irab_dan_logika": "Tidak berlaku"
+      },
+      "hikmah": "Tanda waqaf mutlaq (ۖ) menunjukkan tempat yang sangat dianjurkan untuk berhenti saat membaca Al-Qur'an. Berhenti di sini memberikan jeda yang sempurna sebelum melanjutkan ke bagian kalimat berikutnya, membantu pemahaman makna ayat.",
+      "role": "none"
+    },
+    {
+      "index": 7,
       "kata_arab": "فَلَمَّا",
       "transliterasi": "fa-lammā",
       "jenis_kata": "Huruf (gabungan)",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "كَلَّمَهُۥ",
       "transliterasi": "kallamahu",
       "jenis_kata": "Fi'il (kata kerja) + Dhamir (kata ganti)",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "قَالَ",
       "transliterasi": "qāla",
       "jenis_kata": "Fi'il (kata kerja)",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "إِنَّكَ",
       "transliterasi": "innaka",
       "jenis_kata": "Huruf Taukid (penegas) + Dhamir (kata ganti)",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "ٱلْيَوْمَ",
       "transliterasi": "al-yawma",
       "jenis_kata": "Isim (kata benda)",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "لَدَيْنَا",
       "transliterasi": "Ladainā",
       "jenis_kata": "Huruf (Zaraf Makan) + Isim Dhomir",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "مَكِينٌ",
       "transliterasi": "Makīn",
       "jenis_kata": "Isim (Kata Benda/Sifat)",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "أَمِينٌۭ",
       "transliterasi": "Amīn",
       "jenis_kata": "Isim (Kata Benda/Sifat)",

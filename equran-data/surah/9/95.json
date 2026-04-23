@@ -256,6 +256,24 @@
     },
     {
       "index": 14,
+      "kata_arab": "ۖ",
+      "transliterasi": "",
+      "jenis_kata": "Tanda baca (waqf)",
+      "arti": "tanda jeda",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Tidak termasuk dalam i‘rāb, berfungsi memisahkan bagian kalimat",
+        "irab_dan_logika": "Menandakan jeda ringan antara predikat pertama dan lanjutan"
+      },
+      "hikmah": "Memberi ruang napas bagi pembaca untuk merenungkan sifat najis sebelum melanjutkan ke tempat tinggal mereka.",
+      "role": "none"
+    },
+    {
+      "index": 15,
       "kata_arab": "وَمَأْوَىٰهُمْ",
       "transliterasi": "wa ma'wāhum",
       "jenis_kata": "Isim (ma'wā) dengan huruf عطف وَ dan ضمير متصل هُمْ",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "جَهَنَّمُ",
       "transliterasi": "jahannamu",
       "jenis_kata": "Isim (isim maf'ul)",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "جَزَآءًۢ",
       "transliterasi": "jazā'an",
       "jenis_kata": "Isim (isim maf'ul)",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "بِمَا",
       "transliterasi": "bima",
       "jenis_kata": "Huruf",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 19,
       "kata_arab": "كَانُوا۟",
       "transliterasi": "kānū",
       "jenis_kata": "Fi'il",
@@ -345,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 20,
       "kata_arab": "يَكْسِبُونَ",
       "transliterasi": "yaksibūna",
       "jenis_kata": "Fi'il",

@@ -382,6 +382,24 @@
     },
     {
       "index": 21,
+      "kata_arab": "ۖ",
+      "transliterasi": "-",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "Tanda berhenti (waqaf jaiz)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca Al-Qur'an",
+        "irab_dan_logika": "Bukan bagian dari tata bahasa Arab, melainkan konvensi penulisan mushaf untuk membantu pembaca. Tanda ini (waqaf jaiz) menunjukkan bahwa boleh berhenti atau melanjutkan bacaan."
+      },
+      "hikmah": "Membantu pembaca untuk memahami struktur makna ayat dengan memberikan jeda yang tepat, meskipun boleh juga untuk melanjutkan. Dalam konteks ini, ia memisahkan bagian tentang penolakan tebusan dengan bagian tentang azab yang akan mereka terima.",
+      "role": "none"
+    },
+    {
+      "index": 22,
       "kata_arab": "وَلَهُمْ",
       "transliterasi": "walahum",
       "jenis_kata": "Huruf dan Isim (gabungan)",
@@ -399,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 23,
       "kata_arab": "عَذَابٌ",
       "transliterasi": "adhābun",
       "jenis_kata": "Isim",
@@ -417,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 24,
       "kata_arab": "أَلِيمٌۭ",
       "transliterasi": "Alīmun",
       "jenis_kata": "Isim",

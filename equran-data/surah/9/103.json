@@ -166,6 +166,24 @@
     },
     {
       "index": 9,
+      "kata_arab": "ۖ",
+      "transliterasi": "",
+      "jenis_kata": "Tanda baca (waqf)",
+      "arti": "tanda jeda pendek",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Berfungsi memisahkan antara جملة الوصل (وَصَلِّ عَلَيْهِمْ) dengan جملة الإِنَّ (إِنَّ صَلَوٰتَكَ)",
+        "irab_dan_logika": "Tidak berirab, hanya tanda baca"
+      },
+      "hikmah": "Memberi jeda untuk menekankan peralihan makna antara perintah dan penegasan.",
+      "role": "none"
+    },
+    {
+      "index": 10,
       "kata_arab": "إِنَّ",
       "transliterasi": "inna",
       "jenis_kata": "Huruf (partikel penegas)",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "صَلَوٰتَكَ",
       "transliterasi": "salawataka",
       "jenis_kata": "Isim (isim mufrad)",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "سَكَنٌۭ",
       "transliterasi": "sakanun",
       "jenis_kata": "Isim",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "لَّهُمْ",
       "transliterasi": "lahum",
       "jenis_kata": "Huruf",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "ۗ",
       "transliterasi": "(tanda waqaf)",
       "jenis_kata": "Huruf",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "وَٱللَّهُ",
       "transliterasi": "waAllahu",
       "jenis_kata": "Isim",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "سَمِيعٌ",
       "transliterasi": "samī‘un",
       "jenis_kata": "Isim",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "عَلِيمٌ",
       "transliterasi": "ʿalīmun",
       "jenis_kata": "Isim",

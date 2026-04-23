@@ -166,6 +166,24 @@
     },
     {
       "index": 9,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Isyarat",
+      "arti": "tanda berhenti/istirahat",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqf (فَاصِل) yang memisahkan bagian kalimat",
+        "irab_dan_logika": "Tidak berharakat, berfungsi sebagai pemisah"
+      },
+      "hikmah": "Memberi jeda sebelum masuk ke syarat selanjutnya",
+      "role": "none"
+    },
+    {
+      "index": 10,
       "kata_arab": "فَإِنِ",
       "transliterasi": "fa‑in",
       "jenis_kata": "Huruf",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "ٱنتَهَوْا۟",
       "transliterasi": "intahaw",
       "jenis_kata": "Fiʿil",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "فَإِنَّ",
       "transliterasi": "fa‑inna",
       "jenis_kata": "Huruf",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "ٱللَّهَ",
       "transliterasi": "Allāh",
       "jenis_kata": "Isim",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "بِمَا",
       "transliterasi": "bi‑mā",
       "jenis_kata": "Huruf + Isim",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "يَعْمَلُونَ",
       "transliterasi": "ya‘malūna",
       "jenis_kata": "Fi’il",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "بَصِيرٌۭ",
       "transliterasi": "baṣīr",
       "jenis_kata": "Isim",

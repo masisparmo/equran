@@ -166,6 +166,24 @@
     },
     {
       "index": 9,
+      "kata_arab": "ۚ",
+      "transliterasi": "Jīm kecil",
+      "jenis_kata": "Tanda Waqaf (tanda baca)",
+      "arti": "Tanda berhenti (waqaf jaiz)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca Al-Qur'an",
+        "irab_dan_logika": "Tidak memiliki kedudukan i'rab. Menunjukkan tempat yang dianjurkan untuk berhenti, namun boleh juga melanjutkan bacaan."
+      },
+      "hikmah": "Tanda ini memberikan panduan dalam membaca Al-Qur'an, membantu pembaca memahami jeda makna dan struktur kalimat, serta menjaga keindahan tilawah.",
+      "role": "none"
+    },
+    {
+      "index": 10,
       "kata_arab": "وَرَبُّكَ",
       "transliterasi": "Wa Rabbuka",
       "jenis_kata": "Gabungan Huruf dan Isim",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "أَعْلَمُ",
       "transliterasi": "A'lamu",
       "jenis_kata": "Isim Tafdhil (kata sifat komparatif/superlatif)",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "بِٱلْمُفْسِدِينَ",
       "transliterasi": "bi al-mufsidīn",
       "jenis_kata": "Isim (kata benda), didahului oleh huruf jar.",

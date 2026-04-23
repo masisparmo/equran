@@ -364,6 +364,24 @@
     },
     {
       "index": 20,
+      "kata_arab": "ۖ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "Tanda Baca",
+      "arti": "Tanda berhenti wajib/sempurna",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf (berhenti) dalam Al-Qur'an.",
+        "irab_dan_logika": "Bukan bagian dari struktur gramatikal kalimat. Ini adalah tanda untuk pembaca Al-Qur'an agar berhenti di sini untuk memahami makna dengan sempurna."
+      },
+      "hikmah": "Menunjukkan akhir dari satu bagian makna atau kalimat, dan disarankan untuk berhenti membaca di sini untuk memahami makna dengan sempurna sebelum melanjutkan ke bagian berikutnya.",
+      "role": "none"
+    },
+    {
+      "index": 21,
       "kata_arab": "وَّإِن",
       "transliterasi": "wa-in",
       "jenis_kata": "Huruf",
@@ -381,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 22,
       "kata_arab": "تَوَلَّوْا۟",
       "transliterasi": "ta-wal-law",
       "jenis_kata": "Fi'il",
@@ -399,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 23,
       "kata_arab": "فَإِنَّمَا",
       "transliterasi": "fa-in-na-maa",
       "jenis_kata": "Huruf",
@@ -417,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 24,
       "kata_arab": "عَلَيْكَ",
       "transliterasi": "alaika",
       "jenis_kata": "Huruf",
@@ -435,7 +453,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 25,
       "kata_arab": "ٱلْبَلَٰغُ",
       "transliterasi": "al-balāghu",
       "jenis_kata": "Isim (mashdar)",
@@ -453,7 +471,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 26,
       "kata_arab": "ۗ",
       "transliterasi": "Tanda waqaf",
       "jenis_kata": "Tanda Waqaf",
@@ -471,7 +489,7 @@
       "role": "none"
     },
     {
-      "index": 26,
+      "index": 27,
       "kata_arab": "وَٱللَّهُ",
       "transliterasi": "wa Allāhu",
       "jenis_kata": "Huruf (waw) dan Isim (lafazh jalalah)",
@@ -489,7 +507,7 @@
       "role": "none"
     },
     {
-      "index": 27,
+      "index": 28,
       "kata_arab": "بَصِيرٌۢ",
       "transliterasi": "baṣīrum",
       "jenis_kata": "Isim (sifat musyabbahah/sighah mubalaghah)",
@@ -507,7 +525,7 @@
       "role": "none"
     },
     {
-      "index": 28,
+      "index": 29,
       "kata_arab": "بِٱلْعِبَادِ",
       "transliterasi": "bi al-'ibādi",
       "jenis_kata": "Huruf (ba') dan Isim (al-'ibād)",

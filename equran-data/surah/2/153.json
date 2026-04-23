@@ -112,6 +112,24 @@
     },
     {
       "index": 6,
+      "kata_arab": "ۚ",
+      "transliterasi": "Waqf Ja'iz",
+      "jenis_kata": "Tanda Baca",
+      "arti": "Tanda berhenti (boleh berhenti atau melanjutkan)",
+      "sharaf": {
+        "akar_kata": "Tidak ada (tanda baca)",
+        "makna_dasar": "Jeda bacaan",
+        "wazan_perubahan": "Tidak ada (tanda baca)"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca Al-Qur'an",
+        "irab_dan_logika": "Bukan bagian dari struktur gramatikal kalimat Arab, melainkan panduan untuk pembacaan Al-Qur'an. Menunjukkan tempat yang dianjurkan untuk berhenti sejenak, namun boleh juga melanjutkan."
+      },
+      "hikmah": "Menunjukkan tempat yang dianjurkan untuk berhenti sejenak dalam membaca Al-Qur'an, namun tidak wajib. Membantu pembaca memahami jeda makna dan mengambil napas.",
+      "role": "none"
+    },
+    {
+      "index": 7,
       "kata_arab": "إِنَّ",
       "transliterasi": "Inna",
       "jenis_kata": "Huruf",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "ٱللَّهَ",
       "transliterasi": "Allāha",
       "jenis_kata": "Isim",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "مَعَ",
       "transliterasi": "Ma'a",
       "jenis_kata": "Zaraf Makan (kata keterangan tempat)",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "ٱلصَّٰبِرِينَ",
       "transliterasi": "Aṣ-Ṣābirīn",
       "jenis_kata": "Isim (Isim Fa'il jamak)",

@@ -147,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 12,
       "kata_arab": "يَهْتَدِي",
       "transliterasi": "yahdī",
       "jenis_kata": "Fi'il",
@@ -165,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 13,
       "kata_arab": "لِنَفْسِهِۦ",
       "transliterasi": "linafsihi",
       "jenis_kata": "Isim (isim majrur dengan huruf li‑ dan dhamir muttasil)",
@@ -183,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 18,
       "kata_arab": "يَضِلُّ",
       "transliterasi": "yaḍillu",
       "jenis_kata": "Fi'il (verb)",
@@ -201,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 19,
       "kata_arab": "عَلَيْهَا",
       "transliterasi": "ʿalayhā",
       "jenis_kata": "Huruf (preposisi) + zamir",
@@ -219,7 +219,25 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 20,
+      "kata_arab": "ۖ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Isyarat baca (waqf)",
+      "arti": "tanda jeda",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "menandai jeda antarkalimat",
+        "irab_dan_logika": "tidak berirab, berfungsi sebagai pemisah"
+      },
+      "hikmah": "*Memberi ruang napas bagi pembaca untuk merenungkan makna sebelumnya*",
+      "role": "none"
+    },
+    {
+      "index": 21,
       "kata_arab": "وَمَآ",
       "transliterasi": "wa-mā",
       "jenis_kata": "Huruf (wa) + huruf ma (partikel negatif)",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 22,
       "kata_arab": "أَنَا۠",
       "transliterasi": "anā",
       "jenis_kata": "Isim (dhamir)",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 23,
       "kata_arab": "عَلَيْكُم",
       "transliterasi": "ʿalaykum",
       "jenis_kata": "Huruf (preposisi) + zamir",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 24,
       "kata_arab": "بِوَكِيلٍۢ",
       "transliterasi": "bi‑wakīlin",
       "jenis_kata": "Huruf + Isim (preposisi + isim majrur)",

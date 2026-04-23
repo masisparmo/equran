@@ -166,6 +166,24 @@
     },
     {
       "index": 9,
+      "kata_arab": "ۖ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "Tanda Baca (Waqaf Lazim)",
+      "arti": "(tidak ada arti harfiah, tanda berhenti)",
+      "sharaf": {
+        "akar_kata": "(Tidak berlaku)",
+        "makna_dasar": "(Tidak berlaku)",
+        "wazan_perubahan": "(Tidak berlaku)"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda Waqaf",
+        "irab_dan_logika": "Tanda waqaf lazim (berhenti wajib) yang menunjukkan selesainya satu bagian makna dan memulai bagian makna baru."
+      },
+      "hikmah": "Mengindikasikan jeda penting dalam pembacaan Al-Qur'an, memisahkan dua gagasan utama dalam ayat ini: keimanan sebelum kematian dan peran Nabi Isa AS di hari kiamat.",
+      "role": "none"
+    },
+    {
+      "index": 10,
       "kata_arab": "وَيَوْمَ",
       "transliterasi": "wa yawma",
       "jenis_kata": "Huruf dan Isim (Zaraf Zaman)",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "ٱلْقِيَٰمَةِ",
       "transliterasi": "al-qiyāmati",
       "jenis_kata": "Isim",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "يَكُونُ",
       "transliterasi": "yakūnu",
       "jenis_kata": "Fi'il (Kata Kerja)",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "عَلَيْهِمْ",
       "transliterasi": "alayhim",
       "jenis_kata": "Huruf (preposisi) + Isim (dhamir/kata ganti)",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "شَهِيدًۭا",
       "transliterasi": "syahīdan",
       "jenis_kata": "Isim (Kata Benda)",

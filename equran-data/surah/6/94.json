@@ -57,7 +57,7 @@
       "role": "none"
     },
     {
-      "index": 3,
+      "index": 6,
       "kata_arab": "مَرَّةٍۢ",
       "transliterasi": "marrah",
       "jenis_kata": "Isim",
@@ -75,7 +75,7 @@
       "role": "none"
     },
     {
-      "index": 4,
+      "index": 7,
       "kata_arab": "وَتَرَكْتُم",
       "transliterasi": "wa tarak tum",
       "jenis_kata": "Fi'il",
@@ -93,7 +93,7 @@
       "role": "none"
     },
     {
-      "index": 5,
+      "index": 8,
       "kata_arab": "مَا",
       "transliterasi": "ma",
       "jenis_kata": "Huruf",
@@ -111,7 +111,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 9,
       "kata_arab": "خَوَّلْنَاكُمْ",
       "transliterasi": "khawwalna kum",
       "jenis_kata": "Fi'il",
@@ -129,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 10,
       "kata_arab": "وَرَاءِ",
       "transliterasi": "wa ra'a",
       "jenis_kata": "Huruf",
@@ -147,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 11,
       "kata_arab": "ظُهُورِكُمْ",
       "transliterasi": "zuhurikum",
       "jenis_kata": "Isim",
@@ -165,7 +165,25 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 12,
+      "kata_arab": "ۖ",
+      "transliterasi": "(waqf)",
+      "jenis_kata": "Isyarat",
+      "arti": "tanda waqf (berhenti)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca waqf di akhir ayat",
+        "irab_dan_logika": "menandakan jeda panjang, tidak mempengaruhi i‘rab"
+      },
+      "hikmah": "menunjukkan akhir pemikiran atau pernyataan dalam ayat",
+      "role": "none"
+    },
+    {
+      "index": 13,
       "kata_arab": "وَمَا",
       "transliterasi": "wa-mā",
       "jenis_kata": "Huruf",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 14,
       "kata_arab": "نَرَىٰ",
       "transliterasi": "narā",
       "jenis_kata": "Fi'il",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 15,
       "kata_arab": "مَعَكُمْ",
       "transliterasi": "ma‘akum",
       "jenis_kata": "Isim",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 16,
       "kata_arab": "شُفَعَآءَكُمُ",
       "transliterasi": "shufa‘ākumu",
       "jenis_kata": "Isim",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 17,
       "kata_arab": "الَّذِينَ",
       "transliterasi": "alladhīna",
       "jenis_kata": "Isim",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 18,
       "kata_arab": "زَعَمْتُمْ",
       "transliterasi": "za‘amtum",
       "jenis_kata": "Fi'il",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 19,
       "kata_arab": "أَنَّهُمْ",
       "transliterasi": "annahum",
       "jenis_kata": "Huruf",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 20,
       "kata_arab": "فِيكُمْ",
       "transliterasi": "fikum",
       "jenis_kata": "Huruf",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 21,
       "kata_arab": "شُرَكَٰٓؤُا۟",
       "transliterasi": "shurakā’u",
       "jenis_kata": "Isim",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 22,
       "kata_arab": "ۚ",
       "transliterasi": "",
       "jenis_kata": "Huruf",
@@ -345,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 23,
       "kata_arab": "لَقَد",
       "transliterasi": "laqad",
       "jenis_kata": "Huruf",
@@ -363,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 24,
       "kata_arab": "تَّقَطَّعَ",
       "transliterasi": "taqaṭṭaʿa",
       "jenis_kata": "Fi'il (verb)",
@@ -381,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 25,
       "kata_arab": "بَيْنَكُمْ",
       "transliterasi": "baynakum",
       "jenis_kata": "Huruf jar + Isim (kata benda)",
@@ -399,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 26,
       "kata_arab": "وَضَلَّ",
       "transliterasi": "waḍalla",
       "jenis_kata": "Fi'il (verb)",
@@ -417,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 27,
       "kata_arab": "عَنكُم",
       "transliterasi": "ʿankum",
       "jenis_kata": "Huruf jar + Isim (kata benda)",
@@ -435,7 +453,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 28,
       "kata_arab": "مَّا",
       "transliterasi": "mā",
       "jenis_kata": "Isim (kata benda relatif)",
@@ -453,7 +471,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 29,
       "kata_arab": "كُنتُمْ",
       "transliterasi": "kuntum",
       "jenis_kata": "Fi'il (verb)",
@@ -471,7 +489,7 @@
       "role": "none"
     },
     {
-      "index": 26,
+      "index": 30,
       "kata_arab": "تَزْعُمُونَ",
       "transliterasi": "tazʿumūna",
       "jenis_kata": "Fi'il",

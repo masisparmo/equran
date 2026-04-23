@@ -256,6 +256,24 @@
     },
     {
       "index": 14,
+      "kata_arab": "ۗ",
+      "transliterasi": "**(tanda ayat)**",
+      "jenis_kata": "**Simbol/harf al‑waqf**",
+      "arti": "**menandai akhir ayat**",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "**Tidak termasuk dalam sintaksis, berfungsi sebagai tanda baca**",
+        "irab_dan_logika": "**Tidak memiliki i‘rāb**"
+      },
+      "hikmah": "**Memberi jeda bagi pembaca untuk merenungkan makna ayat**",
+      "role": "none"
+    },
+    {
+      "index": 15,
       "kata_arab": "إِنَّ",
       "transliterasi": "**inna**",
       "jenis_kata": "**Huruf (particle) penegas**",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "ٱللَّهَ",
       "transliterasi": "**Allāha**",
       "jenis_kata": "**Isim**",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "قَوِىٌّۭ",
       "transliterasi": "**qawiyyun**",
       "jenis_kata": "**Isim sifat**",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "شَدِيدُ",
       "transliterasi": "Shadīd",
       "jenis_kata": "Isim (Kata Sifat/Adjektiva)",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 19,
       "kata_arab": "ٱلْعِقَابِ",
       "transliterasi": "Al-'iqāb",
       "jenis_kata": "Isim (Kata Benda)",

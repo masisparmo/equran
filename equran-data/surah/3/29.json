@@ -184,6 +184,24 @@
     },
     {
       "index": 10,
+      "kata_arab": "ۗ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "Tanda Baca",
+      "arti": "(tanda berhenti)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Tidak berlaku",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf lazim (harus berhenti)",
+        "irab_dan_logika": "Tidak memiliki i'rab. Menunjukkan tempat berhenti yang dianjurkan untuk memisahkan makna kalimat, memberikan jeda sebelum melanjutkan ke pernyataan berikutnya."
+      },
+      "hikmah": "Tanda waqaf ini menandakan akhir dari satu klausa penting dan awal dari klausa berikutnya. Ini memisahkan pernyataan tentang pengetahuan Allah terhadap apa yang ada di hati manusia dari pernyataan tentang pengetahuan-Nya terhadap alam semesta, memberikan jeda untuk merenungkan setiap bagian makna secara terpisah dan mendalam.",
+      "role": "none"
+    },
+    {
+      "index": 11,
       "kata_arab": "وَيَعْلَمُ",
       "transliterasi": "wa ya'lamu",
       "jenis_kata": "Fi'il",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "مَا",
       "transliterasi": "mā",
       "jenis_kata": "Isim Maushul",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "فِى",
       "transliterasi": "fī",
       "jenis_kata": "Huruf",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "ٱلسَّمَٰوَٰتِ",
       "transliterasi": "as-samāwāt",
       "jenis_kata": "Isim",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "وَمَا",
       "transliterasi": "wa-mā",
       "jenis_kata": "Huruf (Waw) dan Isim Maushul (Ma)",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "فِى",
       "transliterasi": "fī",
       "jenis_kata": "Huruf",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "ٱلْأَرْضِ",
       "transliterasi": "al-arḍ",
       "jenis_kata": "Isim",
@@ -309,7 +327,25 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
+      "kata_arab": "ۗ",
+      "transliterasi": "Waqf Lazim",
+      "jenis_kata": "Tanda Waqf",
+      "arti": "Tanda berhenti sempurna (wajib berhenti)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Tidak berlaku",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca Al-Qur'an",
+        "irab_dan_logika": "Menunjukkan tempat berhenti yang wajib atau sangat dianjurkan untuk menjaga kesempurnaan makna ayat."
+      },
+      "hikmah": "Tanda ini mengindikasikan bahwa kalimat sebelumnya telah selesai dan maknanya sudah utuh, sehingga pembaca diwajibkan berhenti sejenak sebelum melanjutkan ke bagian berikutnya. Ini membantu dalam memahami struktur dan pesan ayat secara benar.",
+      "role": "none"
+    },
+    {
+      "index": 19,
       "kata_arab": "وَٱللَّهُ",
       "transliterasi": "Wa-Allahu",
       "jenis_kata": "Huruf (Waw) + Isim (Allah)",
@@ -327,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 20,
       "kata_arab": "عَلَىٰ",
       "transliterasi": "Ala",
       "jenis_kata": "Huruf Jar",
@@ -345,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 21,
       "kata_arab": "كُلِّ",
       "transliterasi": "Kulli",
       "jenis_kata": "Isim",
@@ -363,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 22,
       "kata_arab": "شَىْءٍۢ",
       "transliterasi": "Syai'in",
       "jenis_kata": "Isim",
@@ -381,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 23,
       "kata_arab": "قَدِيرٌۭ",
       "transliterasi": "Qadirun",
       "jenis_kata": "Isim (Sifat Musyabbahah/Isim Fa'il dalam makna mubalaghah)",

@@ -382,6 +382,24 @@
     },
     {
       "index": 21,
+      "kata_arab": "ۚ",
+      "transliterasi": "—",
+      "jenis_kata": "Tanda waqf (tanda baca)",
+      "arti": "tanda jeda",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "simbol waqf — menandai akhir bagian kalimat",
+        "irab_dan_logika": "tidak berharakat; berfungsi memisahkan makna"
+      },
+      "hikmah": "Memberi jeda untuk menekankan poin sebelumnya sebelum perintah *fa‑antaẓirū*.",
+      "role": "none"
+    },
+    {
+      "index": 22,
       "kata_arab": "فَٱنتَظِرُوٓا۟",
       "transliterasi": "fa‑antaẓirū",
       "jenis_kata": "Fi‘il (imperatif) + huruf *fa*",
@@ -399,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 23,
       "kata_arab": "إِنِّى",
       "transliterasi": "innī",
       "jenis_kata": "Huruf (partikel) + pronoun",
@@ -417,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 24,
       "kata_arab": "مَعَكُم",
       "transliterasi": "ma‘a‑kum",
       "jenis_kata": "Huruf (preposisi)",
@@ -435,7 +453,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 25,
       "kata_arab": "مِّنَ",
       "transliterasi": "mina",
       "jenis_kata": "Huruf (jar)",
@@ -453,7 +471,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 26,
       "kata_arab": "ٱلْمُنتَظِرِينَ",
       "transliterasi": "al‑muntaẓirīna",
       "jenis_kata": "Isim (isim fa‘il)",

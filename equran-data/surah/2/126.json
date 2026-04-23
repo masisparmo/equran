@@ -328,6 +328,24 @@
     },
     {
       "index": 18,
+      "kata_arab": "ۖ",
+      "transliterasi": "Waqf Laazim",
+      "jenis_kata": "Tanda Waqf",
+      "arti": "Tanda berhenti sempurna",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Tidak berlaku",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca Al-Qur'an",
+        "irab_dan_logika": "Tanda ini menunjukkan tempat berhenti yang wajib atau sangat dianjurkan untuk menjaga kesempurnaan makna ayat. Tidak memiliki kedudukan i'rab."
+      },
+      "hikmah": "Menunjukkan tempat berhenti yang dianjurkan untuk memahami makna ayat dengan benar, memisahkan dua bagian makna yang berbeda dalam satu ayat.",
+      "role": "none"
+    },
+    {
+      "index": 19,
       "kata_arab": "قَالَ",
       "transliterasi": "Qāla",
       "jenis_kata": "Fi'il",
@@ -345,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 20,
       "kata_arab": "وَمَن",
       "transliterasi": "Wa man",
       "jenis_kata": "Huruf (Wawu) dan Isim (Man)",
@@ -363,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 21,
       "kata_arab": "كَفَرَ",
       "transliterasi": "Kafara",
       "jenis_kata": "Fi'il",
@@ -381,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 22,
       "kata_arab": "فَأُمَتِّعُهُۥ",
       "transliterasi": "Fa umatti'uhu",
       "jenis_kata": "Huruf (Fa), Fi'il (Umatti'u), dan Dhomir (Hu)",
@@ -399,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 23,
       "kata_arab": "قَلِيلًۭا",
       "transliterasi": "Qalīlan",
       "jenis_kata": "Isim",
@@ -417,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 24,
       "kata_arab": "ثُمَّ",
       "transliterasi": "Thumma",
       "jenis_kata": "Huruf",
@@ -435,7 +453,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 25,
       "kata_arab": "أَضْطَرُّهُۥٓ",
       "transliterasi": "Adhṭarruhu",
       "jenis_kata": "Fi'il",
@@ -453,7 +471,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 26,
       "kata_arab": "إِلَىٰ",
       "transliterasi": "Ilā",
       "jenis_kata": "Huruf",
@@ -471,7 +489,7 @@
       "role": "none"
     },
     {
-      "index": 26,
+      "index": 27,
       "kata_arab": "عَذَابِ",
       "transliterasi": "Adhābi",
       "jenis_kata": "Isim",
@@ -489,7 +507,7 @@
       "role": "none"
     },
     {
-      "index": 27,
+      "index": 28,
       "kata_arab": "ٱلنَّارِ",
       "transliterasi": "An-Nār",
       "jenis_kata": "Isim",
@@ -507,7 +525,25 @@
       "role": "none"
     },
     {
-      "index": 28,
+      "index": 29,
+      "kata_arab": "ۖ",
+      "transliterasi": "(Tanda Waqaf Lazim)",
+      "jenis_kata": "Tanda baca Al-Qur'an",
+      "arti": "Tanda berhenti wajib (lazim)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Menunjukkan tempat yang dianjurkan untuk berhenti membaca",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf",
+        "irab_dan_logika": "Tidak memiliki kedudukan nahwu atau i'rab karena bukan bagian dari struktur kalimat. Ini adalah tanda untuk pembaca Al-Qur'an."
+      },
+      "hikmah": "Tanda waqaf lazim ini memberi petunjuk kepada pembaca untuk berhenti sejenak, memungkinkan pemahaman yang lebih baik terhadap makna ayat yang telah dibaca. Dalam konteks ini, menandai akhir dari satu bagian makna yang penting, yaitu tentang nasib orang kafir, sebelum melanjutkan ke bagian berikutnya.",
+      "role": "none"
+    },
+    {
+      "index": 30,
       "kata_arab": "وَبِئْسَ",
       "transliterasi": "wa bi'sa",
       "jenis_kata": "*Huruf* (waw) + *Fi'il* (bi'sa)",
@@ -525,7 +561,7 @@
       "role": "none"
     },
     {
-      "index": 29,
+      "index": 31,
       "kata_arab": "ٱلْمَصِيرُ",
       "transliterasi": "al-masiiru",
       "jenis_kata": "*Isim*",

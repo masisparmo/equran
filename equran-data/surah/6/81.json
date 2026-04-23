@@ -237,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 18,
       "kata_arab": "أَحَقُّ",
       "transliterasi": "aḥaqqu",
       "jenis_kata": "Isim (isim tafdhil)",
@@ -255,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 19,
       "kata_arab": "بِٱلْأَمْنِ",
       "transliterasi": "bi‑al‑amni",
       "jenis_kata": "Huruf jar + Isim",
@@ -273,7 +273,25 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 20,
+      "kata_arab": "ۖ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Tanda baca",
+      "arti": "(tidak ada, merupakan tanda jeda)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqf (pause) di akhir frasa",
+        "irab_dan_logika": "Tidak berirab, berfungsi sebagai pemisah ayat"
+      },
+      "hikmah": "Memberi jeda untuk menekankan makna sebelum melanjutkan ayat.",
+      "role": "none"
+    },
+    {
+      "index": 21,
       "kata_arab": "إِن",
       "transliterasi": "in",
       "jenis_kata": "Huruf (huruf syarat)",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 22,
       "kata_arab": "كُنتُمْ",
       "transliterasi": "kuntum",
       "jenis_kata": "Fi'il (verb)",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 23,
       "kata_arab": "تَعْلَمُونَ",
       "transliterasi": "taʿlamūna",
       "jenis_kata": "Fi'il (verb)",

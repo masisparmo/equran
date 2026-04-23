@@ -166,6 +166,24 @@
     },
     {
       "index": 9,
+      "kata_arab": "ۘ",
+      "transliterasi": "Tidak ada transliterasi",
+      "jenis_kata": "Tanda Waqaf (Tanda Berhenti)",
+      "arti": "Tidak ada arti harfiah",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Menunjukkan tempat yang dianjurkan untuk berhenti membaca, namun boleh juga melanjutkan.",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Bukan bagian dari struktur nahwu kalimat.",
+        "irab_dan_logika": "Tidak memiliki i'rab. Ini adalah tanda baca dalam mushaf."
+      },
+      "hikmah": "Tanda ini (waqaf mu'anaqah atau waqaf muraqabah) menunjukkan bahwa pembaca boleh berhenti di sini atau di tanda waqaf serupa yang akan datang (jika ada), tetapi tidak boleh berhenti di keduanya. Dalam konteks ini, ia menandai jeda yang memungkinkan untuk memahami dua bagian ayat secara terpisah namun terkait.",
+      "role": "none"
+    },
+    {
+      "index": 10,
       "kata_arab": "وَٱلَّذِينَ",
       "transliterasi": "wa-alladhīna",
       "jenis_kata": "Huruf (Wawu Athaf) + Isim Maushul",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "ٱتَّقَوْا۟",
       "transliterasi": "ittaqaw",
       "jenis_kata": "Fi'il Madhi (Kata Kerja Lampau)",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "فَوْقَهُمْ",
       "transliterasi": "fawqahum",
       "jenis_kata": "Isim (Zaraf Makan) + Dhamir",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "يَوْمَ",
       "transliterasi": "yawma",
       "jenis_kata": "Isim (Zaraf Zaman)",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "ٱلْقِيَٰمَةِ",
       "transliterasi": "al-qiyāmati",
       "jenis_kata": "Isim",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "ۗ",
       "transliterasi": "(tanda waqaf)",
       "jenis_kata": "Huruf (tanda baca/waqaf)",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "وَٱللَّهُ",
       "transliterasi": "wa-allāhu",
       "jenis_kata": "Huruf (Waw Athaf/Istinafiyah) + Isim (Lafazh Jalalah)",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "يَرْزُقُ",
       "transliterasi": "yarzuqu",
       "jenis_kata": "Fi'il (Kata Kerja)",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "مَن",
       "transliterasi": "man",
       "jenis_kata": "Isim Maushul",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 19,
       "kata_arab": "يَشَآءُ",
       "transliterasi": "yashā'u",
       "jenis_kata": "Fi'il (kata kerja)",
@@ -345,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 20,
       "kata_arab": "بِغَيْرِ",
       "transliterasi": "bighairi",
       "jenis_kata": "Huruf (بِ) dan Isim (غَيْرِ)",
@@ -363,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 21,
       "kata_arab": "حِسَابٍۢ",
       "transliterasi": "ḥisābin",
       "jenis_kata": "Isim (kata benda)",

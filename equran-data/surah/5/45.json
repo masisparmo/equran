@@ -292,6 +292,24 @@
     },
     {
       "index": 16,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqaf lazim)",
+      "jenis_kata": "Tanda Baca",
+      "arti": "(tanda berhenti wajib)",
+      "sharaf": {
+        "akar_kata": "Tidak Berlaku",
+        "makna_dasar": "Tidak Berlaku",
+        "wazan_perubahan": "Tidak Berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Tidak Berlaku",
+        "irab_dan_logika": "Tidak Berlaku"
+      },
+      "hikmah": "Tanda waqaf lazim (berhenti wajib) ini mengindikasikan bahwa kalimat sebelumnya telah selesai dan mengandung makna yang sempurna. Berhenti di sini membantu pembaca memahami bahwa bagian selanjutnya dari ayat akan membahas topik yang berbeda atau kelanjutan dari hukum qisas, yaitu tentang pengampunan.",
+      "role": "none"
+    },
+    {
+      "index": 17,
       "kata_arab": "فَمَن",
       "transliterasi": "fa man",
       "jenis_kata": "Huruf (Fa) + Isim Syarat (Man)",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "تَصَدَّقَ",
       "transliterasi": "taṣaddaqā",
       "jenis_kata": "Fi'il (Kata Kerja)",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 19,
       "kata_arab": "بِهِۦ",
       "transliterasi": "bihi",
       "jenis_kata": "Huruf (preposisi) + Isim (dhamir)",
@@ -345,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 20,
       "kata_arab": "فَهُوَ",
       "transliterasi": "fahuwa",
       "jenis_kata": "Huruf (konjungsi) + Isim (dhamir)",
@@ -363,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 21,
       "kata_arab": "كَفَّارَةٌۭ",
       "transliterasi": "kaffāratun",
       "jenis_kata": "Isim (Kata Benda)",
@@ -381,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 22,
       "kata_arab": "لَّهُۥ",
       "transliterasi": "lahu",
       "jenis_kata": "Huruf (preposisi) + Isim (dhamir)",
@@ -399,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 23,
       "kata_arab": "ۚ",
       "transliterasi": "(Tidak ada)",
       "jenis_kata": "Tanda Waqaf (Tanda Baca)",
@@ -417,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 24,
       "kata_arab": "وَمَن",
       "transliterasi": "wa man",
       "jenis_kata": "Huruf (و) dan Isim (مَن)",
@@ -435,7 +453,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 25,
       "kata_arab": "لَّمْ",
       "transliterasi": "lam",
       "jenis_kata": "Huruf",
@@ -453,7 +471,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 26,
       "kata_arab": "يَحْكُم",
       "transliterasi": "yaḥkum",
       "jenis_kata": "Fi'il (Kata Kerja)",
@@ -471,7 +489,7 @@
       "role": "none"
     },
     {
-      "index": 26,
+      "index": 27,
       "kata_arab": "بِمَآ",
       "transliterasi": "bimā",
       "jenis_kata": "Huruf (بِ) dan Isim Maushul (مَا)",
@@ -489,7 +507,7 @@
       "role": "none"
     },
     {
-      "index": 27,
+      "index": 28,
       "kata_arab": "أَنزَلَ",
       "transliterasi": "anzala",
       "jenis_kata": "Fi'il (Kata Kerja)",
@@ -507,7 +525,7 @@
       "role": "none"
     },
     {
-      "index": 28,
+      "index": 29,
       "kata_arab": "ٱللَّهُ",
       "transliterasi": "Allāhu",
       "jenis_kata": "Isim (Kata Benda)",
@@ -525,7 +543,7 @@
       "role": "none"
     },
     {
-      "index": 29,
+      "index": 30,
       "kata_arab": "فَأُو۟لَٰٓئِكَ",
       "transliterasi": "fa-ulā'ika",
       "jenis_kata": "Huruf + Isim Isyarah",
@@ -543,7 +561,7 @@
       "role": "none"
     },
     {
-      "index": 30,
+      "index": 31,
       "kata_arab": "هُمُ",
       "transliterasi": "humu",
       "jenis_kata": "Isim (Dhamir Munfasil)",
@@ -561,7 +579,7 @@
       "role": "none"
     },
     {
-      "index": 31,
+      "index": 32,
       "kata_arab": "ٱلظَّٰلِمُونَ",
       "transliterasi": "azh-zhālimūn",
       "jenis_kata": "Isim (Isim Fa'il)",

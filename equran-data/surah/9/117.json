@@ -418,6 +418,24 @@
     },
     {
       "index": 23,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqaf lazim)",
+      "jenis_kata": "Tanda Baca",
+      "arti": "Tanda berhenti yang dianjurkan (wajib)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku.",
+        "makna_dasar": "Menunjukkan tempat berhenti yang kuat, di mana makna kalimat sudah sempurna.",
+        "wazan_perubahan": "Tidak berlaku."
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf",
+        "irab_dan_logika": "Tidak memiliki i'rab. Fungsinya adalah untuk membantu pembacaan Al-Qur'an agar makna tidak rancu dan untuk menandai selesainya satu gagasan atau kalimat."
+      },
+      "hikmah": "Tanda waqaf lazim ini menandakan bahwa kalimat sebelumnya telah mencapai kesempurnaan makna. Ini adalah titik berhenti yang kuat, sebelum melanjutkan ke penjelasan berikutnya tentang sifat Allah (Sesungguhnya Allah Maha Pengasih lagi Maha Penyayang kepada mereka). Ini membantu pembaca memahami bahwa satu gagasan telah selesai disampaikan.",
+      "role": "none"
+    },
+    {
+      "index": 24,
       "kata_arab": "إِنَّهُۥ",
       "transliterasi": "Innahu",
       "jenis_kata": "Huruf (Inna) + Isim Dhomir (Hu)",
@@ -435,7 +453,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 25,
       "kata_arab": "بِهِمْ",
       "transliterasi": "Bihim",
       "jenis_kata": "Huruf (Bi) + Isim Dhomir (Him)",
@@ -453,7 +471,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 26,
       "kata_arab": "رَءُوفٌۭ",
       "transliterasi": "Ra'ūfun",
       "jenis_kata": "Isim (Sifat Musyabbahah/Shighah Mubalaghah)",
@@ -471,7 +489,7 @@
       "role": "none"
     },
     {
-      "index": 26,
+      "index": 27,
       "kata_arab": "رَّحِيمٌۭ",
       "transliterasi": "Rahīmun",
       "jenis_kata": "Isim (Sifat Musyabbahah/Shighah Mubalaghah)",

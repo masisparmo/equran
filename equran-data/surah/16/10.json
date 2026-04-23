@@ -112,6 +112,24 @@
     },
     {
       "index": 6,
+      "kata_arab": "ۖ",
+      "transliterasi": "Waqaf Mutlaq",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "Tanda berhenti mutlak",
+      "sharaf": {
+        "akar_kata": "Tidak relevan",
+        "makna_dasar": "Tidak relevan",
+        "wazan_perubahan": "Tidak relevan"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca Al-Qur'an",
+        "irab_dan_logika": "Menunjukkan tempat berhenti yang dianjurkan (waqaf mutlaq) untuk memahami makna ayat dengan lebih baik, memberikan jeda setelah menjelaskan asal air hujan."
+      },
+      "hikmah": "Tanda ini mengisyaratkan bahwa berhenti di sini adalah baik dan dianjurkan, membantu pembaca untuk mencerna bagian ayat sebelumnya yang menjelaskan tentang air hujan yang diturunkan Allah, sebelum melanjutkan ke manfaat-manfaatnya.",
+      "role": "none"
+    },
+    {
+      "index": 7,
       "kata_arab": "لَّكُم",
       "transliterasi": "lakum",
       "jenis_kata": "Huruf (Lam) + Isim Dhomir (Kum)",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "مِّنْهُ",
       "transliterasi": "minhu",
       "jenis_kata": "Huruf (Min) + Isim Dhomir (Hu)",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "شَرَابٌۭ",
       "transliterasi": "sharābun",
       "jenis_kata": "Isim",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "وَمِنْهُ",
       "transliterasi": "wa minhu",
       "jenis_kata": "Huruf (Waw) + Huruf (Min) + Isim Dhomir (Hu)",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "شَجَرٌۭ",
       "transliterasi": "shajarun",
       "jenis_kata": "Isim",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "فِيهِ",
       "transliterasi": "fīhi",
       "jenis_kata": "Huruf",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "تُسِيمُونَ",
       "transliterasi": "tusīmūna",
       "jenis_kata": "Fi'il",

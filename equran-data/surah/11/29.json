@@ -202,6 +202,24 @@
     },
     {
       "index": 11,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Tanda baca",
+      "arti": "tanda waqf (titik kecil) untuk mengakhiri ayat",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "علامة وقف",
+        "irab_dan_logika": "Tidak mempengaruhi إعراب; berfungsi sebagai pemisah akhir ayat"
+      },
+      "hikmah": "Menandai akhir bagian kalimat, memberi jeda bagi pembaca.",
+      "role": "none"
+    },
+    {
+      "index": 12,
       "kata_arab": "وَمَا",
       "transliterasi": "wa-mā",
       "jenis_kata": "Huruf",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "أَنَا",
       "transliterasi": "anā",
       "jenis_kata": "Isim",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "بِطَارِدِ",
       "transliterasi": "bi-ṭāriḍi",
       "jenis_kata": "Isim",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "ٱلَّذِينَ",
       "transliterasi": "alladhīna",
       "jenis_kata": "Isim",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "آمَنُوا",
       "transliterasi": "āmānū",
       "jenis_kata": "Fi'il",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "ۚ",
       "transliterasi": "(tanda ayah)",
       "jenis_kata": "Huruf (tanda baca)",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "إِنَّهُم",
       "transliterasi": "innahum",
       "jenis_kata": "Huruf (particle)",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 19,
       "kata_arab": "مُّلاقُوا۟",
       "transliterasi": "mulāqū",
       "jenis_kata": "Isim (isim fa'il)",
@@ -345,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 20,
       "kata_arab": "رَبِّهِمْ",
       "transliterasi": "rabbihim",
       "jenis_kata": "Isim (isim iḍāfah)",
@@ -363,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 21,
       "kata_arab": "وَلَٰكِنِّىٓ",
       "transliterasi": "walakinnī",
       "jenis_kata": "Huruf (kata sambung) + ضمير متصل",
@@ -381,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 22,
       "kata_arab": "أَرَىٰكُمْ",
       "transliterasi": "arākum",
       "jenis_kata": "Fi'il (verb)",
@@ -399,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 23,
       "kata_arab": "قَوْمًۭا",
       "transliterasi": "qawman",
       "jenis_kata": "Isim (noun)",
@@ -417,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 24,
       "kata_arab": "تَجْهَلُونَ",
       "transliterasi": "tajhalūna",
       "jenis_kata": "Fi'il",

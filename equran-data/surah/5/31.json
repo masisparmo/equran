@@ -418,6 +418,24 @@
     },
     {
       "index": 23,
+      "kata_arab": "ۖ",
+      "transliterasi": "Tanda Waqaf",
+      "jenis_kata": "Tanda Baca",
+      "arti": "Tanda berhenti (waqaf jaiz)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Tidak berlaku",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf (berhenti membaca).",
+        "irab_dan_logika": "Tidak berlaku untuk tanda baca."
+      },
+      "hikmah": "Tanda waqaf 'ۖ' (Jim) menunjukkan bahwa pembaca dianjurkan untuk berhenti di sini, tetapi juga diperbolehkan untuk melanjutkan. Dalam konteks makna, ini menandai akhir dari ucapan penyesalan Qabil, sebelum ayat melanjutkan dengan kesimpulan tentang dirinya sebagai orang yang menyesal.",
+      "role": "none"
+    },
+    {
+      "index": 24,
       "kata_arab": "فَأَصْبَحَ",
       "transliterasi": "fa-ashbaha",
       "jenis_kata": "Fi'il",
@@ -435,7 +453,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 25,
       "kata_arab": "مِنَ",
       "transliterasi": "mina",
       "jenis_kata": "Huruf",
@@ -453,7 +471,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 26,
       "kata_arab": "ٱلنَّٰدِمِينَ",
       "transliterasi": "an-nādimīn",
       "jenis_kata": "Isim",

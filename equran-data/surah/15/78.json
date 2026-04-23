@@ -5,91 +5,91 @@
     {
       "index": 0,
       "kata_arab": "وَإِن",
-      "transliterasi": "wa‑in",
-      "jenis_kata": "Huruf",
-      "arti": "dan sesungguhnya",
+      "transliterasi": "Wa in",
+      "jenis_kata": "Harf (Kata Tugas)",
+      "arti": "Dan sesungguhnya",
       "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
+        "akar_kata": "Tidak ada (Harf)",
+        "makna_dasar": "Penghubung dan penekanan",
+        "wazan_perubahan": "Tidak ada"
       },
       "nahwu": {
-        "kedudukan": "Huruf al‑istiqra yang menghubungkan ayat ini dengan ayat sebelumnya",
-        "irab_dan_logika": "Tidak berharakat karena huruf, berfungsi sebagai alat sambung, tidak berubah"
+        "kedudukan": "Wawu Isti'nafiyah dan In Mukhaffafah",
+        "irab_dan_logika": "Wawu sebagai permulaan kalimat baru. 'In' di sini adalah 'mukhaffafah min al-tsaqilah' (peringanan dari Inna) yang berfungsi memberikan penekanan (taukid)."
       },
-      "hikmah": "Menegaskan bahwa apa yang akan disebutkan selanjutnya adalah fakta yang kuat",
+      "hikmah": "Berfungsi untuk memulai pernyataan baru dengan nada penegasan yang kuat tentang kondisi penduduk Aikah.",
       "role": "none"
     },
     {
       "index": 1,
       "kata_arab": "كَانَ",
-      "transliterasi": "kaana",
-      "jenis_kata": "Fi'il",
-      "arti": "adalah",
+      "transliterasi": "kāna",
+      "jenis_kata": "Fi'il Madhi Naqis",
+      "arti": "adalah/dahulu",
       "sharaf": {
-        "akar_kata": "ك-و-ن",
-        "makna_dasar": "menjadi, ada",
-        "wazan_perubahan": "فَعَلَ"
+        "akar_kata": "k-w-n (ك و ن)",
+        "makna_dasar": "Keberadaan atau terjadinya sesuatu",
+        "wazan_perubahan": "Fa'ala (فَعَلَ)"
       },
       "nahwu": {
-        "kedudukan": "Kata kerja tak berjarak (verb) sebagai predikat utama dalam konstruk \"kaana ...\"",
-        "irab_dan_logika": "Marfu' karena فعل ماضٍ, ditanda dengan dhammah"
+        "kedudukan": "Fi'il Madhi Naqis",
+        "irab_dan_logika": "Berfungsi merofa'kan isim (Ashabu) dan menashobkan khabar (Zhalimin). Menunjukkan bahwa sifat tersebut sudah melekat pada mereka di masa lalu."
       },
-      "hikmah": "Menyatakan keberadaan atau keadaan subjek yang akan dijelaskan",
+      "hikmah": "Menunjukkan ketetapan keadaan atau sifat yang dialami oleh subjek di masa lampau.",
       "role": "none"
     },
     {
       "index": 2,
       "kata_arab": "أَصْحَٰبُ",
-      "transliterasi": "ashābu",
-      "jenis_kata": "Isim",
-      "arti": "para sahabat / kaum",
+      "transliterasi": "ash-hābu",
+      "jenis_kata": "Isim (Kata Benda)",
+      "arti": "penduduk / pemilik",
       "sharaf": {
-        "akar_kata": "ص-ح-ب",
-        "makna_dasar": "teman, sahabat, kelompok",
-        "wazan_perubahan": "فَعْل"
+        "akar_kata": "sh-h-b (ص ح ب)",
+        "makna_dasar": "Menyertai atau menemani",
+        "wazan_perubahan": "Af'aal (أَفْعَال) - Jamak Taksir"
       },
       "nahwu": {
-        "kedudukan": "Isim marfu' sebagai subjek (fa'il) dalam kalimat",
-        "irab_dan_logika": "Berharakat dhammah karena marfu' sebagai subjek"
+        "kedudukan": "Isim Kāna dan Mudhaf",
+        "irab_dan_logika": "Marfu' dengan dhammah karena merupakan isim dari Kana. Berstatus Mudhaf karena disandarkan pada kata berikutnya."
       },
-      "hikmah": "Menunjuk kelompok penduduk Aikah",
+      "hikmah": "Merujuk pada sekelompok orang yang memiliki keterikatan kuat dengan suatu tempat atau identitas.",
       "role": "none"
     },
     {
       "index": 3,
       "kata_arab": "ٱلْأَيْكَةِ",
-      "transliterasi": "al‑ʾaykati",
-      "jenis_kata": "Isim",
-      "arti": "Aikah (nama tempat)",
+      "transliterasi": "al-aykati",
+      "jenis_kata": "Isim (Kata Benda)",
+      "arti": "Aikah (hutan lebat)",
       "sharaf": {
-        "akar_kata": "ي-ك-ه",
-        "makna_dasar": "nama tempat khusus",
-        "wazan_perubahan": "اسم علم"
+        "akar_kata": "a-y-k (أ ي ك)",
+        "makna_dasar": "Pohon yang rimbun/berkumpul",
+        "wazan_perubahan": "Isim Jamid"
       },
       "nahwu": {
-        "kedudukan": "Isim majrur karena berjarak setelah kata \"ashābu\"",
-        "irab_dan_logika": "Berharakat kasrah menandakan majrur (jar)"
+        "kedudukan": "Mudhaf Ilayhi",
+        "irab_dan_logika": "Majrur dengan kasrah. Menjelaskan tempat tinggal atau identitas dari 'Ashabu' (penduduk)."
       },
-      "hikmah": "Menunjuk nama tempat yang dimaksud dalam ayat",
+      "hikmah": "Merujuk pada tempat tinggal kaum Nabi Syu'aib yang berupa daerah subur dengan pepohonan yang rimbun.",
       "role": "none"
     },
     {
       "index": 4,
       "kata_arab": "لَظَٰلِمِينَ",
-      "transliterasi": "laẓẓālimīna",
-      "jenis_kata": "Isim",
-      "arti": "orang‑orang zalim",
+      "transliterasi": "la-zhālimīn",
+      "jenis_kata": "Isim Fail (Jamak)",
+      "arti": "benar-benar orang-orang yang zalim",
       "sharaf": {
-        "akar_kata": "ظ-ل-م",
-        "makna_dasar": "menindas, berbuat zalim",
-        "wazan_perubahan": "فَعْل"
+        "akar_kata": "zh-l-m (ظ ل م)",
+        "makna_dasar": "Kegelapan atau menempatkan sesuatu bukan pada tempatnya",
+        "wazan_perubahan": "Fā'ilūn (فَاعِلُوْن) - Isim Fail"
       },
       "nahwu": {
-        "kedudukan": "Isim majrur sebagai predikat setelah \"kaana\" dengan lam al‑jar penegas",
-        "irab_dan_logika": "Berharakat kasrah (ين) menandakan majrur karena lam al‑jar, menunjukkan sifat zalim"
+        "kedudukan": "Khabar Kāna",
+        "irab_dan_logika": "Manshub dengan tanda 'Ya' karena jamak mudzakkar salim. Huruf 'La' di awal adalah Lam al-Muzahlaqah yang berfungsi sebagai penguat (taukid)."
       },
-      "hikmah": "Menegaskan bahwa penduduk Aikah termasuk golongan yang zalim",
+      "hikmah": "Sebuah penegasan mutlak bahwa penduduk tersebut telah melampaui batas dan melakukan kejahatan yang nyata.",
       "role": "none"
     }
   ]

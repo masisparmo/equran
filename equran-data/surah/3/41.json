@@ -94,6 +94,24 @@
     },
     {
       "index": 5,
+      "kata_arab": "ۖ",
+      "transliterasi": "(Tidak ada transliterasi kata)",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "Tanda berhenti (Waqaf Lazim)",
+      "sharaf": {
+        "akar_kata": "(Tidak berlaku)",
+        "makna_dasar": "(Tidak berlaku)",
+        "wazan_perubahan": "(Tidak berlaku)"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca dalam Al-Qur'an.",
+        "irab_dan_logika": "(Tidak berlaku)"
+      },
+      "hikmah": "Tanda waqaf lazim (ۖ) menunjukkan bahwa pembaca *harus* berhenti di sini. Ini menandakan selesainya satu bagian makna atau kalimat yang utuh, dan memulai bagian baru. Dalam konteks ini, ia memisahkan permohonan Nabi Zakariya dari jawaban Allah.",
+      "role": "none"
+    },
+    {
+      "index": 6,
       "kata_arab": "قَالَ",
       "transliterasi": "Qāla",
       "jenis_kata": "Fi'il",
@@ -111,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 7,
       "kata_arab": "ءَايَتُكَ",
       "transliterasi": "Āyatuka",
       "jenis_kata": "Isim",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "أَلَّا",
       "transliterasi": "Allā",
       "jenis_kata": "Huruf",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "تُكَلِّمَ",
       "transliterasi": "Tukallima",
       "jenis_kata": "Fi'il",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "ٱلنَّاسَ",
       "transliterasi": "An-Nāsa",
       "jenis_kata": "Isim",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "ثَلَٰثَةَ",
       "transliterasi": "Thalāthata",
       "jenis_kata": "Isim",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "أَيَّامٍ",
       "transliterasi": "ayyāmin",
       "jenis_kata": "Isim",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "إِلَّا",
       "transliterasi": "illā",
       "jenis_kata": "Huruf",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "رَمْزًۭا",
       "transliterasi": "ramzan",
       "jenis_kata": "Isim",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "ۗ",
       "transliterasi": "(tanda waqaf)",
       "jenis_kata": "Tanda baca Al-Qur'an",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "وَٱذْكُر",
       "transliterasi": "wadhkur",
       "jenis_kata": "Fi'il",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "رَّبَّكَ",
       "transliterasi": "rabbaka",
       "jenis_kata": "Isim",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "كَثِيرًۭا",
       "transliterasi": "kathīran",
       "jenis_kata": "Isim",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 19,
       "kata_arab": "وَسَبِّحْ",
       "transliterasi": "wasabbih",
       "jenis_kata": "Fi'il Amr",
@@ -345,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 20,
       "kata_arab": "بِٱلْعَشِىِّ",
       "transliterasi": "bil-'ashiyyi",
       "jenis_kata": "Isim",
@@ -363,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 21,
       "kata_arab": "وَٱلْإِبْكَٰرِ",
       "transliterasi": "wal-ibkāri",
       "jenis_kata": "Isim",

@@ -436,6 +436,24 @@
     },
     {
       "index": 24,
+      "kata_arab": "ۚ",
+      "transliterasi": "Waqf Ja'iz",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "Tanda berhenti (boleh berhenti atau melanjutkan)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Tidak berlaku",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca",
+        "irab_dan_logika": "Tidak memiliki i'rab, berfungsi sebagai penanda jeda yang dianjurkan dalam bacaan Al-Qur'an untuk membantu pemahaman makna."
+      },
+      "hikmah": "Tanda ini menunjukkan bahwa pembaca boleh berhenti sejenak di sini untuk mengambil napas atau melanjutkan bacaan. Berhenti di sini tidak mengubah makna ayat secara signifikan dan membantu dalam memahami struktur kalimat.",
+      "role": "none"
+    },
+    {
+      "index": 25,
       "kata_arab": "ذَٰلِكَ",
       "transliterasi": "Dzaalika",
       "jenis_kata": "Isim Isyarah (Kata Tunjuk)",
@@ -453,7 +471,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 26,
       "kata_arab": "لَهُمْ",
       "transliterasi": "Lahum",
       "jenis_kata": "Huruf (Lam) + Dhomir (Hum)",
@@ -471,7 +489,7 @@
       "role": "none"
     },
     {
-      "index": 26,
+      "index": 27,
       "kata_arab": "خِزْىٌۭ",
       "transliterasi": "Khizyun",
       "jenis_kata": "Isim (Kata Benda)",
@@ -489,7 +507,7 @@
       "role": "none"
     },
     {
-      "index": 27,
+      "index": 28,
       "kata_arab": "فِى",
       "transliterasi": "Fii",
       "jenis_kata": "Huruf Jar (Preposisi)",
@@ -507,7 +525,7 @@
       "role": "none"
     },
     {
-      "index": 28,
+      "index": 29,
       "kata_arab": "ٱلدُّنْيَا",
       "transliterasi": "Ad-Dunya",
       "jenis_kata": "Isim (Kata Benda)",
@@ -525,7 +543,25 @@
       "role": "none"
     },
     {
-      "index": 29,
+      "index": 30,
+      "kata_arab": "ۖ",
+      "transliterasi": "waqf lazim",
+      "jenis_kata": "Tanda Baca",
+      "arti": "Tanda berhenti sempurna",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Tidak berlaku",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqf (berhenti) dalam Al-Qur'an",
+        "irab_dan_logika": "Tidak berlaku untuk tanda baca"
+      },
+      "hikmah": "Tanda ini menunjukkan bahwa pembaca dianjurkan untuk berhenti secara sempurna pada titik ini untuk memahami makna ayat dengan benar dan menghindari kesalahpahaman.",
+      "role": "none"
+    },
+    {
+      "index": 31,
       "kata_arab": "وَلَهُمْ",
       "transliterasi": "wa lahum",
       "jenis_kata": "Huruf + Huruf + Isim Dhomir",
@@ -543,7 +579,7 @@
       "role": "none"
     },
     {
-      "index": 30,
+      "index": 32,
       "kata_arab": "فِى",
       "transliterasi": "fī",
       "jenis_kata": "Huruf",
@@ -561,7 +597,7 @@
       "role": "none"
     },
     {
-      "index": 31,
+      "index": 33,
       "kata_arab": "ٱلْءَاخِرَةِ",
       "transliterasi": "al-ākhirah",
       "jenis_kata": "Isim",
@@ -579,7 +615,7 @@
       "role": "none"
     },
     {
-      "index": 32,
+      "index": 34,
       "kata_arab": "عَذَابٌ",
       "transliterasi": "ʿadhāb",
       "jenis_kata": "Isim",
@@ -597,7 +633,7 @@
       "role": "none"
     },
     {
-      "index": 33,
+      "index": 35,
       "kata_arab": "عَظِيمٌ",
       "transliterasi": "ʿaẓīm",
       "jenis_kata": "Isim Sifat (Adjektiva)",

@@ -148,6 +148,24 @@
     },
     {
       "index": 8,
+      "kata_arab": "ۖ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "Tanda Baca (Waqaf Lazim)",
+      "arti": "Tidak ada arti harfiah, tanda berhenti",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Tidak berlaku",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda Waqaf Lazim",
+        "irab_dan_logika": "Bukan bagian dari struktur gramatikal kalimat. Ini adalah tanda waqaf (berhenti) yang menunjukkan bahwa pembaca dianjurkan untuk berhenti di sini, karena makna ayat sudah sempurna atau untuk menghindari kesalahpahaman jika disambung."
+      },
+      "hikmah": "Berfungsi sebagai panduan pembacaan Al-Qur'an untuk membantu memahami makna ayat dengan benar, menandakan jeda yang kuat dalam pembacaan.",
+      "role": "none"
+    },
+    {
+      "index": 9,
       "kata_arab": "وَتُخْرِجُ",
       "transliterasi": "wa tukhriju",
       "jenis_kata": "Fi'il",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "ٱلْحَىَّ",
       "transliterasi": "al-ḥayya",
       "jenis_kata": "Isim",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "مِنَ",
       "transliterasi": "mina",
       "jenis_kata": "Huruf",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "ٱلْمَيِّتِ",
       "transliterasi": "al-mayyiti",
       "jenis_kata": "Isim",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "وَتُخْرِجُ",
       "transliterasi": "wa tukhriju",
       "jenis_kata": "Fi'il",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "ٱلْمَيِّتَ",
       "transliterasi": "al-mayyita",
       "jenis_kata": "Isim",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "مِنَ",
       "transliterasi": "mina",
       "jenis_kata": "Huruf",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "ٱلْحَىِّ",
       "transliterasi": "al-hayyi",
       "jenis_kata": "Isim",
@@ -291,7 +309,25 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
+      "kata_arab": "ۖ",
+      "transliterasi": "Tidak ada transliterasi",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "Tanda berhenti",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Tidak berlaku",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda Waqaf Lazim",
+        "irab_dan_logika": "Tanda ini menunjukkan tempat yang dianjurkan untuk berhenti membaca agar makna kalimat tidak rancu atau terputus. Berhenti di sini adalah lebih utama daripada melanjutkan."
+      },
+      "hikmah": "Tanda waqaf ini memberi isyarat kepada pembaca untuk berhenti sejenak, memungkinkan pemahaman yang lebih baik terhadap makna ayat yang telah disampaikan sebelum melanjutkan ke bagian berikutnya, sehingga pesan Al-Qur'an dapat dicerna dengan sempurna.",
+      "role": "none"
+    },
+    {
+      "index": 18,
       "kata_arab": "وَتَرْزُقُ",
       "transliterasi": "wa tarzuqu",
       "jenis_kata": "Fi'il",
@@ -309,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 19,
       "kata_arab": "مَن",
       "transliterasi": "man",
       "jenis_kata": "Isim Maushul",
@@ -327,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 20,
       "kata_arab": "تَشَآءُ",
       "transliterasi": "tashaa'u",
       "jenis_kata": "Fi'il",
@@ -345,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 21,
       "kata_arab": "بِغَيْرِ",
       "transliterasi": "bi ghairi",
       "jenis_kata": "Huruf dan Isim",
@@ -363,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 22,
       "kata_arab": "حِسَابٍۢ",
       "transliterasi": "hisaabin",
       "jenis_kata": "Isim",

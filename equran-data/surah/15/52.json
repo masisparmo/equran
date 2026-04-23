@@ -4,164 +4,182 @@
   "words": [
     {
       "index": 0,
-      "kata_arab": "إِذْ",
-      "transliterasi": "idh",
-      "jenis_kata": "Huruf",
-      "arti": "ketika",
+      "kata_arab": "إِذۡ",
+      "transliterasi": "Idz",
+      "jenis_kata": "Isim (Zharf Zaman)",
+      "arti": "Ketika / Ingatlah ketika",
       "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "waktu",
-        "wazan_perubahan": ""
+        "akar_kata": "Tidak ada (Mabni)",
+        "makna_dasar": "Penunjuk waktu lampau",
+        "wazan_perubahan": "N/A"
       },
       "nahwu": {
-        "kedudukan": "kata sambung (huruf ma'ul)",
-        "irab_dan_logika": "marfu' karena huruf, menandakan waktu terjadinya peristiwa"
+        "kedudukan": "Zharf Zaman",
+        "irab_dan_logika": "Mabni di atas sukun, berfungsi sebagai keterangan waktu untuk peristiwa yang akan disebutkan."
       },
-      "hikmah": "Menunjukkan bahwa peristiwa masuk terjadi pada saat tertentu",
+      "hikmah": "Kata ini mengawali kisah untuk menarik perhatian pembaca pada momen spesifik saat peristiwa terjadi.",
       "role": "none"
     },
     {
       "index": 1,
-      "kata_arab": "دَخَلُوا۟",
-      "transliterasi": "dakhalaū",
-      "jenis_kata": "Fi'il",
-      "arti": "mereka masuk",
+      "kata_arab": "دَخَلُواْ",
+      "transliterasi": "Dakhalū",
+      "jenis_kata": "Fi'il Madhi",
+      "arti": "Mereka telah masuk",
       "sharaf": {
-        "akar_kata": "د-خ-ل",
-        "makna_dasar": "memasuki",
-        "wazan_perubahan": "fa'ala (madhi)"
+        "akar_kata": "د - خ - ل (d-kh-l)",
+        "makna_dasar": "Masuk / Berada di dalam",
+        "wazan_perubahan": "Fa'alū (فَعَلُوا) - Jamak Mudzakkar Salim"
       },
       "nahwu": {
-        "kedudukan": "fi'il madhi, third person masculine plural",
-        "irab_dan_logika": "marfu' dengan dhammah karena bentuk madhi"
+        "kedudukan": "Fi'il dan Fa'il",
+        "irab_dan_logika": "Mabni 'ala dhommi karena bersambung dengan Wawul Jama'ah (subjek 'mereka')."
       },
-      "hikmah": "Menegaskan aksi fisik masuk ke tempat yang dimaksud",
+      "hikmah": "Menunjukkan tindakan fisik para tamu (malaikat) yang memasuki kediaman Nabi Ibrahim.",
       "role": "none"
     },
     {
       "index": 2,
-      "kata_arab": "عَلَيْهِ",
-      "transliterasi": "ʿalayhi",
-      "jenis_kata": "Huruf",
-      "arti": "atasnya",
+      "kata_arab": "عَلَيۡهِ",
+      "transliterasi": "Alayhi",
+      "jenis_kata": "Jar wa Majrur",
+      "arti": "Kepadanya / Atasnya",
       "sharaf": {
-        "akar_kata": "ع-ل-ى",
-        "makna_dasar": "di atas",
-        "wazan_perubahan": ""
+        "akar_kata": "عَلَى (Huruf) + ه (Dhomir)",
+        "makna_dasar": "Menunjukkan arah atau objek",
+        "wazan_perubahan": "N/A"
       },
       "nahwu": {
-        "kedudukan": "huruf jar",
-        "irab_dan_logika": "majrur dengan kasrah karena huruf jar"
+        "kedudukan": "Muta'alliq bi Dakhalu",
+        "irab_dan_logika": "Terdiri dari huruf jar 'ala' dan dhomir muttasil 'hi' yang merujuk pada Nabi Ibrahim."
       },
-      "hikmah": "Menunjukkan lokasi atau arah masuk ke tempat tersebut",
+      "hikmah": "Menegaskan bahwa tujuan masuknya para tamu tersebut adalah menemui Nabi Ibrahim secara langsung.",
       "role": "none"
     },
     {
       "index": 3,
-      "kata_arab": "فَقَالُوا۟",
-      "transliterasi": "faqālū",
-      "jenis_kata": "Fi'il",
-      "arti": "lalu mereka berkata",
+      "kata_arab": "فَقَالُواْ",
+      "transliterasi": "Faqālū",
+      "jenis_kata": "Harf Athaf + Fi'il Madhi",
+      "arti": "Lalu mereka berkata",
       "sharaf": {
-        "akar_kata": "ق-و-ل",
-        "makna_dasar": "mengucapkan",
-        "wazan_perubahan": "fa'ala (madhi)"
+        "akar_kata": "ق - و - ل (q-w-l)",
+        "makna_dasar": "Berkata / Berucap",
+        "wazan_perubahan": "Fa'alū (فَعَلُوا) dengan huruf 'Fa' sebagai penghubung"
       },
       "nahwu": {
-        "kedudukan": "fi'il madhi, third person masculine plural, dengan alif al-wasl",
-        "irab_dan_logika": "marfu' dengan dhammah karena fi'il madhi"
+        "kedudukan": "Ma'thuf",
+        "irab_dan_logika": "Huruf 'Fa' menunjukkan urutan kejadian yang langsung (tanpa jeda lama) setelah mereka masuk."
       },
-      "hikmah": "Menandakan respons lisan setelah masuk",
+      "hikmah": "Menggambarkan kesopanan tamu yang segera memberikan salam sesaat setelah memasuki ruangan.",
       "role": "none"
     },
     {
       "index": 4,
-      "kata_arab": "سَلَٰمًۭا",
-      "transliterasi": "salāman",
-      "jenis_kata": "Isim",
-      "arti": "salam",
+      "kata_arab": "سَلَٰمࣰا",
+      "transliterasi": "Salāman",
+      "jenis_kata": "Isim (Mashdar)",
+      "arti": "Keselamatan / Salam",
       "sharaf": {
-        "akar_kata": "س-ل-م",
-        "makna_dasar": "kedamaian",
-        "wazan_perubahan": "fa'ala"
+        "akar_kata": "س - ل - م (s-l-m)",
+        "makna_dasar": "Kesejahteraan / Kedamaian",
+        "wazan_perubahan": "Fa'ālan (فَعَالًا)"
       },
       "nahwu": {
-        "kedudukan": "isim mansub (nasb) sebagai objek kata قال",
-        "irab_dan_logika": "mansub dengan fathah karena menjadi maf'ul bih"
+        "kedudukan": "Maf'ul Muthlaq / Maf'ul Bih",
+        "irab_dan_logika": "Manshub dengan fathah. Secara makna merupakan pengganti dari kalimat 'Kami mengucapkan salam'."
       },
-      "hikmah": "Menyampaikan harapan damai dan keselamatan",
+      "hikmah": "Sebuah doa dan penghormatan yang mengandung pesan perdamaian agar tuan rumah merasa aman.",
       "role": "none"
     },
     {
       "index": 5,
-      "kata_arab": "قَالَ",
-      "transliterasi": "qāla",
-      "jenis_kata": "Fi'il",
-      "arti": "dia berkata",
+      "kata_arab": "ا",
+      "transliterasi": "-",
+      "jenis_kata": "Huruf Tambahan",
+      "arti": "-",
       "sharaf": {
-        "akar_kata": "ق-و-ل",
-        "makna_dasar": "mengatakan",
-        "wazan_perubahan": "fa'ala (madhi)"
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
       },
       "nahwu": {
-        "kedudukan": "fi'il madhi, third person masculine singular",
-        "irab_dan_logika": "marfu' dengan dhammah karena fi'il madhi"
+        "kedudukan": "-",
+        "irab_dan_logika": "-"
       },
-      "hikmah": "Pernyataan Ibrahim yang mengekspresikan rasa takut dan hormat",
+      "hikmah": "Huruf Alif tambahan (silent letter / tidak dibaca).",
       "role": "none"
     },
     {
       "index": 6,
-      "kata_arab": "إِنَّا",
-      "transliterasi": "inna",
-      "jenis_kata": "Huruf",
-      "arti": "sesungguhnya",
+      "kata_arab": "قَالَ",
+      "transliterasi": "qāla",
+      "jenis_kata": "kata kerja",
+      "arti": "berkata",
       "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": "-"
+        "akar_kata": "ق-و-ل",
+        "makna_dasar": "berbicara",
+        "wazan_perubahan": "fi'il madhi"
       },
       "nahwu": {
-        "kedudukan": "Bagian dari kalimat nominal setelah kata *qāla* (kata kerja), berfungsi sebagai **mubtada’** (subjek) dalam *khabar* إِنَّا",
-        "irab_dan_logika": "مُنصوب بالفتحة لأن حرف إنّ يجر الاسم ويعربه منصوباً"
+        "kedudukan": "fi'il",
+        "irab_dan_logika": "mubtada"
       },
-      "hikmah": "Menegaskan bahwa pembicara (Ibrahim) bersama pengikutnya merasa takut kepada tamu.",
+      "hikmah": "berkata",
       "role": "none"
     },
     {
       "index": 7,
-      "kata_arab": "مِنكُمْ",
-      "transliterasi": "minkum",
-      "jenis_kata": "Huruf",
-      "arti": "dari kamu",
+      "kata_arab": "إِنَّا",
+      "transliterasi": "innā",
+      "jenis_kata": "kata ganti",
+      "arti": "kami",
       "sharaf": {
-        "akar_kata": "م ن",
-        "makna_dasar": "dari",
-        "wazan_perubahan": "حرف جر"
+        "akar_kata": "ن-ا",
+        "makna_dasar": "kami",
+        "wazan_perubahan": "kata ganti orang pertama jamak"
       },
       "nahwu": {
-        "kedudukan": "Kata depan yang menghubungkan *إِنَّا* dengan *وَجِلُونَ*, menandakan asal atau sumber rasa takut",
-        "irab_dan_logika": "مجرور بحرف الجر *من* وعلامة جره الكسرة، والضمير المتصل *كم* في محل جر"
+        "kedudukan": "fa'il",
+        "irab_dan_logika": "mubtada"
       },
-      "hikmah": "Menunjukkan bahwa rasa takut itu bersumber dari pihak *kamu* (para tamu).",
+      "hikmah": "kami",
       "role": "none"
     },
     {
       "index": 8,
-      "kata_arab": "وَجِلُونَ",
-      "transliterasi": "wajilūna",
-      "jenis_kata": "Isim",
-      "arti": "penakut (jamak laki-laki)",
+      "kata_arab": "مِنكُمۡ",
+      "transliterasi": "minkum",
+      "jenis_kata": "kata sambung",
+      "arti": "dari kalian",
       "sharaf": {
-        "akar_kata": "ج ل ل",
-        "makna_dasar": "takut, cemas",
-        "wazan_perubahan": "فَعِيلون (isim fa‘ilun) jamak"
+        "akar_kata": "م-ن",
+        "makna_dasar": "dari",
+        "wazan_perubahan": "kata sambung"
       },
       "nahwu": {
-        "kedudukan": "Khabar (predikat) dari kata *إنّ* yang menyatakan keadaan *kami*",
-        "irab_dan_logika": "مرفوع بالضمة لأنه خبر إنّ"
+        "kedudukan": "maf'ul bih",
+        "irab_dan_logika": "objek"
       },
-      "hikmah": "Menyiratkan bahwa mereka (Ibrahim dan pengikutnya) berada dalam keadaan takut yang nyata kepada tamu.",
+      "hikmah": "dari kalian",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "وَجِلُونَ",
+      "transliterasi": "wajilūna",
+      "jenis_kata": "kata sifat",
+      "arti": "takut",
+      "sharaf": {
+        "akar_kata": "و-ج-ل",
+        "makna_dasar": "takut",
+        "wazan_perubahan": "kata sifat jamak"
+      },
+      "nahwu": {
+        "kedudukan": "na'at",
+        "irab_dan_logika": "sifat"
+      },
+      "hikmah": "takut",
       "role": "none"
     }
   ]

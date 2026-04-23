@@ -472,6 +472,24 @@
     },
     {
       "index": 26,
+      "kata_arab": "ۚ",
+      "transliterasi": "ۚ",
+      "jenis_kata": "Tanda waqf (علامة وقف)",
+      "arti": "tanda berhenti/istirahat",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "علامة وقف تفصل بين جملتين أو جزأين من الآية",
+        "irab_dan_logika": "ليس له إعراب؛ وظيفته إيقاف القارئ لتبيين انتهاء فكرة"
+      },
+      "hikmah": "Menandai **perhentian** logis, memberi ruang bagi pembaca menimbang makna sebelumnya sebelum melanjutkan.",
+      "role": "none"
+    },
+    {
+      "index": 27,
       "kata_arab": "يَقُولُونَ",
       "transliterasi": "yaqūlūna",
       "jenis_kata": "Fi'il (verb) – mudhari‘ majrur",
@@ -489,7 +507,7 @@
       "role": "none"
     },
     {
-      "index": 27,
+      "index": 28,
       "kata_arab": "بِأَفْوَٰهِهِم",
       "transliterasi": "bi‑afwāhihim",
       "jenis_kata": "Huruf (preposisi) + Isim + ضمير متصل",
@@ -507,7 +525,7 @@
       "role": "none"
     },
     {
-      "index": 28,
+      "index": 29,
       "kata_arab": "مَّا",
       "transliterasi": "mā",
       "jenis_kata": "Huruf (نفي) أو اسم موصول",
@@ -525,7 +543,7 @@
       "role": "none"
     },
     {
-      "index": 29,
+      "index": 30,
       "kata_arab": "لَيْسَ",
       "transliterasi": "laysa",
       "jenis_kata": "Huruf (kata negatif)",
@@ -543,7 +561,7 @@
       "role": "none"
     },
     {
-      "index": 30,
+      "index": 31,
       "kata_arab": "فِى",
       "transliterasi": "fi",
       "jenis_kata": "Huruf (preposisi)",
@@ -561,7 +579,7 @@
       "role": "none"
     },
     {
-      "index": 31,
+      "index": 32,
       "kata_arab": "قُلُوبِهِمْ",
       "transliterasi": "qulubihim",
       "jenis_kata": "Isim (kata benda)",
@@ -579,7 +597,25 @@
       "role": "none"
     },
     {
-      "index": 32,
+      "index": 33,
+      "kata_arab": "ۗ",
+      "transliterasi": "ۗ",
+      "jenis_kata": "Tanda baca (waqf)",
+      "arti": "tanda jeda pendek",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Menandai akhir bagian kalimat sebelum lanjutan \"وَاللَّهُ\"",
+        "irab_dan_logika": "Tidak berirab, berfungsi sebagai pemisah sintaksis"
+      },
+      "hikmah": "Memberi jeda untuk menekankan pernyataan sebelumnya sebelum melanjutkan dengan ayat selanjutnya.",
+      "role": "none"
+    },
+    {
+      "index": 34,
       "kata_arab": "وَاللَّهُ",
       "transliterasi": "wa-Allah",
       "jenis_kata": "Isim (nama Allah) dengan huruf sambung \"wa\"",
@@ -597,7 +633,7 @@
       "role": "none"
     },
     {
-      "index": 33,
+      "index": 35,
       "kata_arab": "أَعْلَمُ",
       "transliterasi": "a'lamu",
       "jenis_kata": "Fi'il (kata kerja)",
@@ -615,7 +651,7 @@
       "role": "none"
     },
     {
-      "index": 34,
+      "index": 36,
       "kata_arab": "بِمَا",
       "transliterasi": "bi‑ma",
       "jenis_kata": "Huruf",
@@ -633,7 +669,7 @@
       "role": "none"
     },
     {
-      "index": 35,
+      "index": 37,
       "kata_arab": "يَكْتُمُونَ",
       "transliterasi": "yaktumūna",
       "jenis_kata": "Fi'il",

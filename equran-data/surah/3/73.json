@@ -544,6 +544,24 @@
     },
     {
       "index": 30,
+      "kata_arab": "ۗ",
+      "transliterasi": "Tanda Waqaf Mutlaq",
+      "jenis_kata": "Tanda Baca Al-Qur'an",
+      "arti": "Tanda berhenti sempurna (wajib atau sangat dianjurkan)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Tidak berlaku",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Tidak memiliki kedudukan nahwu karena bukan kata.",
+        "irab_dan_logika": "Tidak berlaku."
+      },
+      "hikmah": "Tanda ini menunjukkan bahwa pembaca disunnahkan untuk berhenti sejenak di sini untuk mengambil nafas dan memahami makna kalimat sebelumnya secara utuh sebelum melanjutkan ke bagian berikutnya.",
+      "role": "none"
+    },
+    {
+      "index": 31,
       "kata_arab": "وَٱللَّهُ",
       "transliterasi": "Wa Allāhu",
       "jenis_kata": "Huruf (Waw) dan Isim (Allah)",
@@ -561,7 +579,7 @@
       "role": "none"
     },
     {
-      "index": 31,
+      "index": 32,
       "kata_arab": "وَٰسِعٌ",
       "transliterasi": "Wāsi'un",
       "jenis_kata": "Isim Sifat (Isim Fa'il)",
@@ -579,7 +597,7 @@
       "role": "none"
     },
     {
-      "index": 32,
+      "index": 33,
       "kata_arab": "عَلِيمٌۭ",
       "transliterasi": "Alīmun",
       "jenis_kata": "Isim Sifat (Shighah Mubalaghah)",

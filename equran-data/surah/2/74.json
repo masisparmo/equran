@@ -634,6 +634,24 @@
     },
     {
       "index": 35,
+      "kata_arab": "ۗ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "Tanda Baca",
+      "arti": "Tanda berhenti (waqaf)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Tidak berlaku",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf (berhenti)",
+        "irab_dan_logika": "Tidak berlaku"
+      },
+      "hikmah": "Menandakan tempat yang dianjurkan untuk berhenti membaca, membantu pembaca memahami pemisahan makna dalam ayat. Ini adalah waqaf *mujawwaz* (boleh berhenti, boleh lanjut), menunjukkan bahwa berhenti di sini baik, namun melanjutkan juga diperbolehkan.",
+      "role": "none"
+    },
+    {
+      "index": 36,
       "kata_arab": "وَمَا",
       "transliterasi": "wa mā",
       "jenis_kata": "Huruf",
@@ -651,7 +669,7 @@
       "role": "none"
     },
     {
-      "index": 36,
+      "index": 37,
       "kata_arab": "ٱللَّهُ",
       "transliterasi": "Allāhu",
       "jenis_kata": "Isim",
@@ -669,7 +687,7 @@
       "role": "none"
     },
     {
-      "index": 37,
+      "index": 38,
       "kata_arab": "بِغَٰفِلٍ",
       "transliterasi": "bi ghāfilin",
       "jenis_kata": "Isim (Isim Fa'il)",
@@ -687,7 +705,7 @@
       "role": "none"
     },
     {
-      "index": 38,
+      "index": 39,
       "kata_arab": "عَمَّا",
       "transliterasi": "ammā",
       "jenis_kata": "Gabungan Huruf dan Isim",
@@ -705,7 +723,7 @@
       "role": "none"
     },
     {
-      "index": 39,
+      "index": 40,
       "kata_arab": "تَعْمَلُونَ",
       "transliterasi": "ta'malūna",
       "jenis_kata": "Fi'il (Fi'il Mudhari')",

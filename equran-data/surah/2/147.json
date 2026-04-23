@@ -58,6 +58,24 @@
     },
     {
       "index": 3,
+      "kata_arab": "ۖ",
+      "transliterasi": "(Tidak ada transliterasi untuk tanda waqaf)",
+      "jenis_kata": "**Tanda Waqaf** (Tanda Berhenti)",
+      "arti": "Tanda berhenti (Waqaf Mutlaq)",
+      "sharaf": {
+        "akar_kata": "(Tidak berlaku untuk tanda baca)",
+        "makna_dasar": "Menunjukkan tempat berhenti yang dianjurkan dalam membaca Al-Qur'an.",
+        "wazan_perubahan": "(Tidak berlaku untuk tanda baca)"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca dalam mushaf Al-Qur'an.",
+        "irab_dan_logika": "(Tidak berlaku untuk tanda baca)"
+      },
+      "hikmah": "Tanda ini mengisyaratkan bahwa kalimat sebelumnya sudah **sempurna maknanya** dan pembaca dianjurkan untuk **berhenti sejenak** sebelum melanjutkan ke bagian berikutnya. Ini membantu dalam pemahaman makna ayat secara utuh.",
+      "role": "none"
+    },
+    {
+      "index": 4,
       "kata_arab": "فَلَا",
       "transliterasi": "Fa-laa",
       "jenis_kata": "**Huruf** (Kata Sambung + Kata Larangan)",
@@ -75,7 +93,7 @@
       "role": "none"
     },
     {
-      "index": 4,
+      "index": 5,
       "kata_arab": "تَكُونَنَّ",
       "transliterasi": "Takūnanna",
       "jenis_kata": "**Fi'il** (Kata Kerja)",
@@ -93,7 +111,7 @@
       "role": "none"
     },
     {
-      "index": 5,
+      "index": 6,
       "kata_arab": "مِنَ",
       "transliterasi": "mina",
       "jenis_kata": "Huruf",
@@ -111,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 7,
       "kata_arab": "ٱلْمُمْتَرِينَ",
       "transliterasi": "al-mumtarīn",
       "jenis_kata": "Isim",

@@ -202,6 +202,24 @@
     },
     {
       "index": 11,
+      "kata_arab": "ۗ",
+      "transliterasi": "",
+      "jenis_kata": "Simbol (tanda ayat)",
+      "arti": "tanda berhenti ayat",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "penanda akhir ayat",
+        "irab_dan_logika": "tidak memiliki i‘rab, berfungsi sebagai tanda baca"
+      },
+      "hikmah": "Menandai selesai pembacaan ayat, memberi jeda untuk merenungkan makna.",
+      "role": "none"
+    },
+    {
+      "index": 12,
       "kata_arab": "قَدْ",
       "transliterasi": "qad",
       "jenis_kata": "Huruf",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "فَصَّلْنَا",
       "transliterasi": "faṣṣalnā",
       "jenis_kata": "Fi'il",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "ٱلْءَايَٰتِ",
       "transliterasi": "al‑āyāti",
       "jenis_kata": "Isim",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "لِقَوْمٍ",
       "transliterasi": "liqawmin",
       "jenis_kata": "Huruf",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "يَعْلَمُونَ",
       "transliterasi": "yaʿlamūna",
       "jenis_kata": "Fi'il",

@@ -4,218 +4,254 @@
   "words": [
     {
       "index": 0,
-      "kata_arab": "فَأَسْرِ",
-      "transliterasi": "fa-asri",
-      "jenis_kata": "Fi'il (امر)",
-      "arti": "**Maka pergilah**",
+      "kata_arab": "فَأَسۡرِ",
+      "transliterasi": "Fa'asri",
+      "jenis_kata": "Fi'il Amr (Kata Kerja Perintah) + Harf (Kata Sambung)",
+      "arti": "Maka pergilah (di waktu malam)",
       "sharaf": {
-        "akar_kata": "س ر ي",
-        "makna_dasar": "berjalan, bergerak",
-        "wazan_perubahan": "فعل (imperatif)"
+        "akar_kata": "s-r-y (س ر ي)",
+        "makna_dasar": "Berjalan di malam hari",
+        "wazan_perubahan": "Af'ala (أفعل) - Asra (أسرى)"
       },
       "nahwu": {
-        "kedudukan": "kata kerja perintah (imperatif) di awal ayat, menghubungkan dengan ayat sebelumnya melalui **fa**",
-        "irab_dan_logika": "berakhiran kasrah pada رِ karena bentuk أمر"
+        "kedudukan": "Fi'il Amr",
+        "irab_dan_logika": "Mabni atas penghapusan huruf illat (ya) di akhirnya karena merupakan kata kerja perintah (amr) dari fi'il mu'tal akhir."
       },
-      "hikmah": "Perintah Allah kepada Nabi untuk memulai perjalanan pada waktu yang ditentukan",
+      "hikmah": "Perintah dari Allah kepada Nabi Luth untuk segera meninggalkan kota Sodom pada waktu malam hari.",
       "role": "none"
     },
     {
       "index": 1,
-      "kata_arab": "بِأَهْلِكَ",
-      "transliterasi": "bi-ahlika",
-      "jenis_kata": "Huruf (bi) + Isim (ahl) dengan ضمير متصل",
-      "arti": "**dengan keluargamu**",
+      "kata_arab": "بِأَهۡلِكَ",
+      "transliterasi": "Bi'ahlika",
+      "jenis_kata": "Harf Jar + Isim + Dhamir (Kata Ganti)",
+      "arti": "dengan keluargamu",
       "sharaf": {
-        "akar_kata": "أ ه ل",
-        "makna_dasar": "keluarga, suku",
-        "wazan_perubahan": "اسم (أهل)"
+        "akar_kata": "a-h-l (أ ه ل)",
+        "makna_dasar": "Keluarga atau penghuni",
+        "wazan_perubahan": "Isim Jamid"
       },
       "nahwu": {
-        "kedudukan": "mudaf ‘ila bi‑ahlika, objek preposisi **bi** yang menempel pada kata kerja *asri*",
-        "irab_dan_logika": "kasrah pada هِ karena preposisi *bi* menuntut i‘rāb majrūr"
+        "kedudukan": "Jar wa Majrur + Mudhaf Ilayh",
+        "irab_dan_logika": "Huruf 'bi' menjadikannya majrur (kasrah pada huruf lam). 'Ka' adalah dhamir muttasil sebagai pemilik (mudhaf ilayh)."
       },
-      "hikmah": "Menegaskan bahwa Nabi tidak sendirian, melainkan bersama keluarganya",
+      "hikmah": "Menunjukkan bahwa Nabi Luth diperintahkan membawa serta seluruh anggota keluarganya yang beriman dalam perjalanan tersebut.",
       "role": "none"
     },
     {
       "index": 2,
-      "kata_arab": "بِقِطْعٍۢ",
-      "transliterasi": "bi-qiṭ'in",
-      "jenis_kata": "Huruf (bi) + Isim (qiṭ‘)",
-      "arti": "**dengan sepotong**",
+      "kata_arab": "بِقِطۡعࣲ",
+      "transliterasi": "Biqith'in",
+      "jenis_kata": "Harf Jar + Isim",
+      "arti": "dengan potongan / pada bagian",
       "sharaf": {
-        "akar_kata": "ق ط ع",
-        "makna_dasar": "memotong, potongan",
-        "wazan_perubahan": "اسم (قِطْع)"
+        "akar_kata": "q-th-' (ق ط ع)",
+        "makna_dasar": "Memotong atau memisahkan",
+        "wazan_perubahan": "Fi'lun (فِعْل)"
       },
       "nahwu": {
-        "kedudukan": "keterangan cara (ظرف طريقة) yang menempel pada *asri*",
-        "irab_dan_logika": "kasrah pada عٍ karena preposisi *bi*"
+        "kedudukan": "Jar wa Majrur",
+        "irab_dan_logika": "Majrur dengan tanda kasratain karena didahului huruf jar 'bi'."
       },
-      "hikmah": "Menunjukkan cara perjalanan: hanya dalam sebagian kecil malam",
+      "hikmah": "Merujuk pada bagian waktu malam, khususnya di akhir malam saat suasana masih gelap namun mendekati fajar.",
       "role": "none"
     },
     {
       "index": 3,
-      "kata_arab": "مِّنَ",
-      "transliterasi": "mina",
-      "jenis_kata": "Huruf (preposisi)",
-      "arti": "**dari**",
+      "kata_arab": "مِّنَ",
+      "transliterasi": "Mina",
+      "jenis_kata": "Harf Jar",
+      "arti": "dari",
       "sharaf": {
-        "akar_kata": "-",
-        "makna_dasar": "-",
-        "wazan_perubahan": "-"
+        "akar_kata": "N/A",
+        "makna_dasar": "Permulaan (Ibtida') atau bagian (Tab'idh)",
+        "wazan_perubahan": "N/A"
       },
       "nahwu": {
-        "kedudukan": "preposisi yang menghubungkan *bi‑qiṭ‘* dengan *al‑layli*",
-        "irab_dan_logika": "menuntut i‘rāb majrūr pada kata berikutnya"
+        "kedudukan": "Harf Jar",
+        "irab_dan_logika": "Mabni atas sukun, namun diberi harakat fathah untuk menghindari pertemuan dua sukun (iltiqa' as-sakinain) dengan kata al-layl."
       },
-      "hikmah": "Menandakan bahwa bagian malam yang dimaksud diambil dari keseluruhan malam",
+      "hikmah": "Berfungsi sebagai penghubung untuk menjelaskan bagian dari waktu yang dimaksud.",
       "role": "none"
     },
     {
       "index": 4,
-      "kata_arab": "ٱلَّيْلِ",
-      "transliterasi": "al‑layli",
-      "jenis_kata": "Isim (definit)",
-      "arti": "**malam**",
+      "kata_arab": "ٱلَّيۡلِ",
+      "transliterasi": "Al-layli",
+      "jenis_kata": "Isim (Kata Benda)",
+      "arti": "malam",
       "sharaf": {
-        "akar_kata": "ل ي ل",
-        "makna_dasar": "malam",
-        "wazan_perubahan": "اسم (ليل)"
+        "akar_kata": "l-y-l (ل ي ل)",
+        "makna_dasar": "Waktu gelap setelah matahari terbenam",
+        "wazan_perubahan": "Isim Jamid"
       },
       "nahwu": {
-        "kedudukan": "mudaf ‘ila mina, objek preposisi *mina*",
-        "irab_dan_logika": "kasrah pada يِ karena preposisi *mina*"
+        "kedudukan": "Majrur",
+        "irab_dan_logika": "Majrur dengan tanda kasrah karena didahului oleh harf jar 'min'."
       },
-      "hikmah": "Menetapkan waktu pelaksanaan perintah: pada bagian malam",
+      "hikmah": "Menegaskan waktu keberangkatan yang spesifik yaitu di saat malam hari agar tidak terlihat oleh kaumnya yang zalim.",
       "role": "none"
     },
     {
       "index": 5,
-      "kata_arab": "وَٱتَّبِعْ",
-      "transliterasi": "wa-ttabiʿ",
-      "jenis_kata": "Fi'il (امر) dengan huruf wa",
-      "arti": "**dan ikutilah**",
+      "kata_arab": "وَٱتَّبِعۡ",
+      "transliterasi": "Wattabi'",
+      "jenis_kata": "Harf Athaf + Fi'il Amr",
+      "arti": "dan ikutilah",
       "sharaf": {
-        "akar_kata": "ت ب ع",
-        "makna_dasar": "mengikuti",
-        "wazan_perubahan": "فعل (form II) dengan penekanan (tt)"
+        "akar_kata": "t-b-' (ت ب ع)",
+        "makna_dasar": "Mengikuti di belakang",
+        "wazan_perubahan": "Ifta'ala (افتعل) - Ittaba'a (اتبع)"
       },
       "nahwu": {
-        "kedudukan": "kata kerja perintah kedua, berkoordinasi dengan *fa‑asri* melalui *wa*",
-        "irab_dan_logika": "berakhiran sukun pada ع karena bentuk أمر"
+        "kedudukan": "Fi'il Amr",
+        "irab_dan_logika": "Mabni atas sukun. 'Wa' adalah huruf athaf yang menghubungkan perintah ini dengan perintah sebelumnya."
       },
-      "hikmah": "Perintah lanjutan untuk mengikuti jejak yang telah ditetapkan Allah",
+      "hikmah": "Perintah kepada Nabi Luth untuk berjalan di posisi paling belakang guna memastikan seluruh keluarganya aman dan tidak ada yang tertinggal.",
       "role": "none"
     },
     {
       "index": 6,
-      "kata_arab": "أَدْبَٰرَهُمْ",
-      "transliterasi": "adbara-hum",
-      "jenis_kata": "Isim",
-      "arti": "punggung mereka",
+      "kata_arab": "أَدۡبَٰرَهُمۡ",
+      "transliterasi": "adbārahum",
+      "jenis_kata": "Isim (Kata Benda) + Dhamir (Kata Ganti)",
+      "arti": "belakang mereka",
       "sharaf": {
-        "akar_kata": "د ب ر",
-        "makna_dasar": "belakang, sisi",
-        "wazan_perubahan": "أَفْعَال (jamak)"
+        "akar_kata": "د - ب - ر (d-b-r)",
+        "makna_dasar": "bagian belakang atau akhir dari sesuatu",
+        "wazan_perubahan": "Jamak Taksir pada pola Af'aal (أفعال)"
       },
       "nahwu": {
-        "kedudukan": "muf'ul bihi (objek) dari فعل *أَتْبِعْ*",
-        "irab_dan_logika": "منصوب بالفتحة لأنّه مفعول به منصوب، والضمير المتصل *هُمْ* لا يغيّر الإعراب"
+        "kedudukan": "Maf'ul Bih (Objek)",
+        "irab_dan_logika": "Manshub dengan tanda fathah. Kata ini menjadi objek dari perintah untuk mengikuti mereka dari belakang guna memastikan keamanan seluruh anggota keluarga."
       },
-      "hikmah": "**Jangan menoleh ke belakang**, artinya jangan melihat ke arah punggung mereka.",
+      "hikmah": "Nabi Luth diperintahkan untuk berjalan di posisi paling belakang guna menjaga dan memastikan tidak ada anggota keluarganya yang tertinggal.",
       "role": "none"
     },
     {
       "index": 7,
       "kata_arab": "وَلَا",
-      "transliterasi": "wa la",
-      "jenis_kata": "Huruf",
-      "arti": "dan jangan",
+      "transliterasi": "wa lā",
+      "jenis_kata": "Harf (Kata Tugas)",
+      "arti": "dan janganlah",
       "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
+        "akar_kata": "N/A",
+        "makna_dasar": "Larangan (an-Nahyu)",
+        "wazan_perubahan": "N/A"
       },
       "nahwu": {
-        "kedudukan": "حرف نفي وعطف يربط بين الجملتين *أَتْبِعْهُمْ* و *يَلْتَفِتْ*",
-        "irab_dan_logika": "حرف مبني لا محل له من الإعراب"
+        "kedudukan": "Harf Athaf + La an-Nahiyah",
+        "irab_dan_logika": "Huruf 'wa' sebagai penyambung kalimat, dan 'la' berfungsi memberikan makna larangan keras yang menjazm-kan fi'il mudhari' setelahnya."
       },
-      "hikmah": "Menunjukkan larangan untuk melakukan tindakan selanjutnya.",
+      "hikmah": "Sebuah instruksi tegas yang melarang adanya tindakan tertentu selama proses penyelamatan berlangsung.",
       "role": "none"
     },
     {
       "index": 8,
-      "kata_arab": "يَلْتَفِتْ",
-      "transliterasi": "yaltafiṭ",
-      "jenis_kata": "Fi'il",
-      "arti": "menoleh, memalingkan (pandangan)",
+      "kata_arab": "يَلۡتَفِتۡ",
+      "transliterasi": "yaltafit",
+      "jenis_kata": "Fi'il Mudhari' (Kata Kerja Sedang/Akan Datang)",
+      "arti": "menoleh",
       "sharaf": {
-        "akar_kata": "ل ف ت",
-        "makna_dasar": "memutar, menoleh",
-        "wazan_perubahan": "يفعل (form I)"
+        "akar_kata": "ل - ف - ت (l-f-t)",
+        "makna_dasar": "memalingkan wajah atau perhatian",
+        "wazan_perubahan": "Ifta'ala (إفتعل) - Yafta'ilu"
       },
       "nahwu": {
-        "kedudukan": "فعل مضارع مجزوم بحذف النون بعد حرف النفي *لا*",
-        "irab_dan_logika": "مجزوم بحذف النون لأنه من فعل النهي"
+        "kedudukan": "Fi'il Mudhari' Majzum",
+        "irab_dan_logika": "Majzum (sukun) karena didahului oleh La an-Nahiyah. Menunjukkan larangan untuk menoleh ke belakang."
       },
-      "hikmah": "**Jangan menoleh kembali**; larangan kuat agar tidak melihat ke belakang.",
+      "hikmah": "Larangan untuk menoleh ke belakang agar mereka tetap fokus pada keselamatan dan tidak merasa iba terhadap kaum yang sedang diazab.",
       "role": "none"
     },
     {
       "index": 9,
-      "kata_arab": "مِنكُمْ",
+      "kata_arab": "مِنكُمۡ",
       "transliterasi": "minkum",
-      "jenis_kata": "Huruf",
-      "arti": "dari kalian",
+      "jenis_kata": "Harf Jar + Dhamir",
+      "arti": "di antara kamu",
       "sharaf": {
-        "akar_kata": "م ن",
-        "makna_dasar": "dari, asal",
-        "wazan_perubahan": "حرف جر"
+        "akar_kata": "N/A",
+        "makna_dasar": "Sebagian dari atau termasuk dalam kelompok",
+        "wazan_perubahan": "N/A"
       },
       "nahwu": {
-        "kedudukan": "جار ومجرور متعلق بـ *يَلْتَفِتْ*",
-        "irab_dan_logika": "مجرور وعلامة جره الكسرة لأنه حرف جر"
+        "kedudukan": "Jar wa Majrur",
+        "irab_dan_logika": "Terdiri dari huruf jar 'min' dan kata ganti orang kedua jamak 'kum'. Berfungsi sebagai keterangan yang memperjelas subjek."
       },
-      "hikmah": "Menunjukkan sumber larangan, yaitu **dari kalian** sendiri.",
+      "hikmah": "Menegaskan bahwa larangan menoleh ini berlaku bagi setiap individu yang ikut dalam rombongan Nabi Luth.",
       "role": "none"
     },
     {
       "index": 10,
-      "kata_arab": "حَيْثُ",
-      "transliterasi": "ḥaythu",
-      "jenis_kata": "Huruf",
-      "arti": "*di mana*; menunjukkan tempat",
+      "kata_arab": "أَحَدࣱ",
+      "transliterasi": "aḥadun",
+      "jenis_kata": "Isim (Kata Benda)",
+      "arti": "seorang pun",
       "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": "Tidak berlaku (kata tanya)"
+        "akar_kata": "أ - ح - د (a-ḥ-d)",
+        "makna_dasar": "satu atau tunggal",
+        "wazan_perubahan": "Fa'al (فعل)"
       },
       "nahwu": {
-        "kedudukan": "Kata tanya (harf) yang berfungsi sebagai keterangan tempat dalam ayat",
-        "irab_dan_logika": "Berharakat sukun (حَيْثُ) karena huruf ini tidak berinfleksi; menempel pada fi'il berikutnya"
+        "kedudukan": "Fa'il (Subjek)",
+        "irab_dan_logika": "Marfu' dengan dhommah. Karena terletak setelah kalimat negatif/larangan, ia memberikan makna keumuman (istighraq), artinya 'tidak satu pun'."
       },
-      "hikmah": "Menunjukkan **tempat** yang diperintahkan untuk dilalui, menekankan kepatuhan pada perintah Allah",
+      "hikmah": "Menekankan bahwa tidak boleh ada satu orang pun, tanpa pengecualian, yang melanggar perintah tersebut.",
       "role": "none"
     },
     {
       "index": 11,
-      "kata_arab": "تُؤْمَرُونَ",
-      "transliterasi": "tuʾamarūna",
-      "jenis_kata": "Fi'il",
-      "arti": "*kamu diperintahkan*",
+      "kata_arab": "وَٱمۡضُواْ",
+      "transliterasi": "wamḍū",
+      "jenis_kata": "Fi'il Amr (Kata Kerja Perintah)",
+      "arti": "dan teruskanlah/pergilah",
       "sharaf": {
-        "akar_kata": "أ م ر",
-        "makna_dasar": "perintah",
-        "wazan_perubahan": "bentuk pasif (مُفعَل به) dari fi'il I"
+        "akar_kata": "م - ض - ي (m-ḍ-y)",
+        "makna_dasar": "berlalu, pergi, atau melanjutkan perjalanan",
+        "wazan_perubahan": "If'alū (إفعلوا) dari akar madaa"
       },
       "nahwu": {
-        "kedudukan": "Kata kerja pasif, predikat dalam klausa yang menghubungkan dengan kata sebelumnya",
-        "irab_dan_logika": "Marfu' dengan dhammah karena fi'il mudhari' (present) dalam bentuk pasif"
+        "kedudukan": "Fi'il Amr",
+        "irab_dan_logika": "Mabni 'ala hadzfin nun (dihilangkannya huruf nun) karena merupakan bentuk jamak untuk perintah."
       },
-      "hikmah": "Menegaskan bahwa **kewajiban** melaksanakan perintah Allah bersifat wajib bagi semua yang disebut",
+      "hikmah": "Perintah untuk terus melangkah maju dengan cepat menuju tempat yang aman sesuai arahan Allah tanpa rasa ragu.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "حَيۡثُ",
+      "transliterasi": "haythu",
+      "jenis_kata": "Isim (Zharf Makan)",
+      "arti": "di mana / ke mana",
+      "sharaf": {
+        "akar_kata": "ح - ي - ث",
+        "makna_dasar": "Menunjukkan arah atau keberadaan suatu tempat",
+        "wazan_perubahan": "N/A (Isim Mabni)"
+      },
+      "nahwu": {
+        "kedudukan": "Zharf Makan (Keterangan Tempat)",
+        "irab_dan_logika": "Mabni 'ala ad-dhammi (tetap dengan harakat dammah di akhirnya) dalam kedudukan nasb sebagai keterangan tempat."
+      },
+      "hikmah": "Kata ini berfungsi sebagai kata penghubung yang mengarahkan pada lokasi spesifik yang telah ditetapkan oleh Allah untuk keselamatan mereka.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "تُؤۡمَرُونَ",
+      "transliterasi": "tu'maruna",
+      "jenis_kata": "Fi'il Mudhari' (Kata Kerja Sedang/Akan Datang)",
+      "arti": "kamu sekalian diperintahkan",
+      "sharaf": {
+        "akar_kata": "أ - م - ر",
+        "makna_dasar": "Perintah atau instruksi",
+        "wazan_perubahan": "Yuf'aluna (Bentuk Pasif/Majhul dari Fi'il Mudhari')"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Majhul (Pasif)",
+        "irab_dan_logika": "Marfu' dengan tanda tetapnya huruf Nun (thubutun-nun) karena termasuk Af'alul Khamsah. Huruf Wawu di dalamnya berfungsi sebagai Naib al-Fa'il (subjek pasif)."
+      },
+      "hikmah": "Penggunaan bentuk pasif menekankan bahwa perintah tersebut datang dari otoritas yang lebih tinggi (Allah), dan mereka harus fokus pada pelaksanaan perintah tersebut tanpa ragu.",
       "role": "none"
     }
   ]

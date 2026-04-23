@@ -4,110 +4,110 @@
   "words": [
     {
       "index": 0,
-      "kata_arab": "وَإِنَّا",
-      "transliterasi": "wa‑inna",
-      "jenis_kata": "Huruf",
-      "arti": "*dan sesungguhnya*",
+      "kata_arab": "وَإِنَّا",
+      "transliterasi": "Wa innā",
+      "jenis_kata": "Harf (Kata Tugas) + Isim (Kata Benda/Ganti)",
+      "arti": "Dan sesungguhnya Kami",
       "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
+        "akar_kata": "ا ن ن (Inna) + ن ح ن (Nahnu)",
+        "makna_dasar": "Penekanan (Taukid) dan kata ganti orang pertama jamak",
+        "wazan_perubahan": "N/A (Harf Musyabbah bi al-Fi'il)"
       },
       "nahwu": {
-        "kedudukan": "Huruf sambung yang menghubungkan ayat sebelumnya",
-        "irab_dan_logika": "Tidak ber‑iʿrāb karena termasuk huruf; berfungsi memperkuat pernyataan sebelumnya."
+        "kedudukan": "Istinafiyah (Permulaan kalimat) + Isim Inna",
+        "irab_dan_logika": "Huruf 'Wa' adalah penghubung. 'Inna' adalah harf taukid yang menasabkan isim. 'Na' adalah dhamir muttasil yang berkedudukan sebagai Isim Inna (fi mahalli nasbin)."
       },
-      "hikmah": "Menegaskan kepastian Allah dalam pernyataan berikutnya.",
+      "hikmah": "Penegasan kuat di awal kalimat bahwa Allah-lah subjek tunggal dari pernyataan berikutnya.",
       "role": "none"
     },
     {
       "index": 1,
-      "kata_arab": "لَنَحْنُ",
-      "transliterasi": "lanāḥnu",
-      "jenis_kata": "Huruf",
-      "arti": "*sesungguhnya Kami*",
+      "kata_arab": "لَنَحۡنُ",
+      "transliterasi": "La-nahnu",
+      "jenis_kata": "Harf (Kata Tugas) + Isim (Kata Ganti)",
+      "arti": "Sungguh Kami",
       "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
+        "akar_kata": "ن ح ن (Nahnu)",
+        "makna_dasar": "Kami (Dhamir Munfasil)",
+        "wazan_perubahan": "N/A"
       },
       "nahwu": {
-        "kedudukan": "Huruf emphatik *lam* yang menegaskan kata ganti *nahnu* sebagai subjek",
-        "irab_dan_logika": "Marfuʿ dengan ḍamma karena berfungsi sebagai isim (nahnu) yang ditekankan."
+        "kedudukan": "Lam al-Muzahlaqah + Mubtada",
+        "irab_dan_logika": "Huruf 'La' adalah Lam Taukid untuk penguatan. 'Nahnu' adalah dhamir munfasil yang berfungsi sebagai Mubtada (subjek) dalam jumlah khabariyah."
       },
-      "hikmah": "Menegaskan identitas Allah sebagai subjek utama dalam ayat ini.",
+      "hikmah": "Pengulangan kata 'Kami' dengan tambahan 'Lam' berfungsi untuk membatasi (qashr) bahwa hanya Allah yang memiliki otoritas tersebut.",
       "role": "none"
     },
     {
       "index": 2,
-      "kata_arab": "نُحْىِۦ",
-      "transliterasi": "nuḥyi",
-      "jenis_kata": "Fiʿil",
-      "arti": "*menghidupkan*",
+      "kata_arab": "نُحۡيِۦ",
+      "transliterasi": "Nuhyī",
+      "jenis_kata": "Fi'il Mudhari' (Kata Kerja Sekarang/Akan Datang)",
+      "arti": "Kami menghidupkan",
       "sharaf": {
-        "akar_kata": "ح ي ي",
-        "makna_dasar": "hidup",
-        "wazan_perubahan": "فَعَلَ (bentuk I)"
+        "akar_kata": "ح ي ي (H-Y-Y)",
+        "makna_dasar": "Hidup",
+        "wazan_perubahan": "Af'ala (Ahya) - Yuf'ilu (Yuhyi)"
       },
       "nahwu": {
-        "kedudukan": "Fiʿil mudhariʿ (present) yang berfungsi sebagai predikat utama",
-        "irab_dan_logika": "Mabni karena fiʿil mudhariʿ tidak ber‑iʿrāb; berakhiran ḍamma menandakan bentuk mudhariʿ."
+        "kedudukan": "Khabar",
+        "irab_dan_logika": "Fi'il mudhari' marfu' dengan dammah muqaddarah (tersembunyi) di atas huruf ya'. Pelakunya (fa'il) adalah dhamir mustatir 'Nahnu'."
       },
-      "hikmah": "Menunjukkan kekuasaan Allah dalam memberi kehidupan.",
+      "hikmah": "Menunjukkan bahwa Allah terus-menerus memberikan kehidupan kepada makhluk-Nya.",
       "role": "none"
     },
     {
       "index": 3,
       "kata_arab": "وَنُمِيتُ",
-      "transliterasi": "wanumitu",
-      "jenis_kata": "Fiʿil",
-      "arti": "*mematikan*",
+      "transliterasi": "Wa numītu",
+      "jenis_kata": "Fi'il Mudhari' (Kata Kerja Sekarang/Akan Datang)",
+      "arti": "Dan Kami mematikan",
       "sharaf": {
-        "akar_kata": "م ي ت",
-        "makna_dasar": "mati",
-        "wazan_perubahan": "فَعَلَ (bentuk I)"
+        "akar_kata": "م و ت (M-W-T)",
+        "makna_dasar": "Mati",
+        "wazan_perubahan": "Af'ala (Amata) - Yuf'ilu (Yumitu)"
       },
       "nahwu": {
-        "kedudukan": "Fiʿil mudhariʿ yang dihubungkan dengan *wa* (dan)",
-        "irab_dan_logika": "Mabni; huruf *wa* tidak mempengaruhi iʿrāb fiʿil, tetap berakhiran ḍamma."
+        "kedudukan": "Ma'thuf (Dihubungkan ke kata sebelumnya)",
+        "irab_dan_logika": "Fi'il mudhari' marfu' dengan dammah zahirah. Dihubungkan dengan kata 'Nuhyi' menggunakan huruf 'Wa'."
       },
-      "hikmah": "Menegaskan bahwa Allah juga berkuasa atas kematian.",
+      "hikmah": "Menegaskan bahwa sebagaimana Allah menghidupkan, Dia juga satu-satunya yang berkuasa mencabut nyawa.",
       "role": "none"
     },
     {
       "index": 4,
-      "kata_arab": "وَنَحْنُ",
-      "transliterasi": "wanahnu",
-      "jenis_kata": "Huruf",
-      "arti": "*dan kami*",
+      "kata_arab": "وَنَحۡنُ",
+      "transliterasi": "Wa nahnu",
+      "jenis_kata": "Isim (Kata Ganti)",
+      "arti": "Dan Kami",
       "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
+        "akar_kata": "ن ح ن (Nahnu)",
+        "makna_dasar": "Kami",
+        "wazan_perubahan": "N/A"
       },
       "nahwu": {
-        "kedudukan": "Huruf *wa* yang menghubungkan kembali ke subjek *nahnu*",
-        "irab_dan_logika": "Isim *nahnu* tetap marfuʿ dengan ḍamma; huruf *wa* tidak ber‑iʿrāb."
+        "kedudukan": "Mubtada",
+        "irab_dan_logika": "Dhamir munfasil yang berkedudukan sebagai subjek baru untuk menekankan sifat berikutnya."
       },
-      "hikmah": "Pengulangan subjek menegaskan kepemilikan dan kesinambungan tindakan Allah.",
+      "hikmah": "Pengulangan kata 'Kami' untuk ketiga kalinya dalam satu ayat ini memberikan penekanan mutlak atas keagungan Allah.",
       "role": "none"
     },
     {
       "index": 5,
-      "kata_arab": "ٱلْوَٰرِثُونَ",
-      "transliterasi": "al‑wārithūna",
-      "jenis_kata": "Isim",
-      "arti": "*yang mewarisi*",
+      "kata_arab": "ٱلۡوَٰرِثُونَ",
+      "transliterasi": "Al-wārithūn",
+      "jenis_kata": "Isim Fa'il (Kata Benda Pelaku)",
+      "arti": "Orang-orang yang mewarisi",
       "sharaf": {
-        "akar_kata": "و ر ث",
-        "makna_dasar": "mewarisi",
-        "wazan_perubahan": "فَاعِل (bentuk aktif)"
+        "akar_kata": "و ر ث (W-R-TH)",
+        "makna_dasar": "Mewarisi / Tetap ada setelah yang lain musnah",
+        "wazan_perubahan": "Fa'ilun (Wārith) dalam bentuk jamak mudzakkar salim"
       },
       "nahwu": {
-        "kedudukan": "Isim faʿil jamak marfuʿ berfungsi sebagai khabar (predikat)",
-        "irab_dan_logika": "Marfuʿ dengan ḍamma karena berperan sebagai khabar yang menegaskan subjek *nahnu*."
+        "kedudukan": "Khabar",
+        "irab_dan_logika": "Marfu' dengan tanda 'Waw' karena merupakan jamak mudzakkar salim. Penggunaan Alif-Lam (Ma'rifah) menunjukkan kekhususan."
       },
-      "hikmah": "Menunjukkan bahwa Allah-lah yang mewarisi segala sesuatu, menegaskan kepemilikan mutlak-Nya.",
+      "hikmah": "Allah adalah Dzat yang tetap kekal abadi setelah seluruh makhluk-Nya binasa; Dialah pemilik akhir dari segala sesuatu.",
       "role": "none"
     }
   ]

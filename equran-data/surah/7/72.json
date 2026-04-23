@@ -184,6 +184,24 @@
     },
     {
       "index": 10,
+      "kata_arab": "ۖ",
+      "transliterasi": "(waqf)",
+      "jenis_kata": "Tanda waqf (simbol jeda)",
+      "arti": "(tanda jeda)",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Penanda jeda (waqf) antara dua bagian kalimat",
+        "irab_dan_logika": "Tidak memiliki i‘rāb; berfungsi memperjelas ritme bacaan"
+      },
+      "hikmah": "Memberi ruang napas bagi pendengar untuk merenungkan penolakan tersebut",
+      "role": "none"
+    },
+    {
+      "index": 11,
       "kata_arab": "وَمَا",
       "transliterasi": "wamā",
       "jenis_kata": "Huruf (wa) + huruf (mā) – partikel negatif",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "كَانُوا۟",
       "transliterasi": "kānū",
       "jenis_kata": "Fi'il",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "مُؤْمِنِينَ",
       "transliterasi": "muʾminīna",
       "jenis_kata": "Isim (isim faʿil)",

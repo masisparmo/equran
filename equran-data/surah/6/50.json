@@ -274,6 +274,24 @@
     },
     {
       "index": 15,
+      "kata_arab": "ۖ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Tanda baca (waqf)",
+      "arti": "(tidak ada)",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "فاصل بين جملتين",
+        "irab_dan_logika": "Tidak berirab, berfungsi memisahkan dua bagian kalimat"
+      },
+      "hikmah": "Memberi jeda untuk menekankan perbedaan antara penolakan menjadi malaikat dan pernyataan berikutnya.",
+      "role": "none"
+    },
+    {
+      "index": 16,
       "kata_arab": "إِنْ",
       "transliterasi": "in",
       "jenis_kata": "Huruf (partikel syarat)",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "أَتَّبِعُ",
       "transliterasi": "attabiʿu",
       "jenis_kata": "Fi'il (verb)",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "إِلَّا",
       "transliterasi": "illa",
       "jenis_kata": "Huruf",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 19,
       "kata_arab": "مَا",
       "transliterasi": "ma",
       "jenis_kata": "Isim",
@@ -345,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 20,
       "kata_arab": "يُوحَىٰٓ",
       "transliterasi": "yūḥā",
       "jenis_kata": "Fi'il",
@@ -363,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 21,
       "kata_arab": "إِلَىَّ",
       "transliterasi": "ilāya",
       "jenis_kata": "Huruf",
@@ -381,7 +399,25 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 22,
+      "kata_arab": "ۙ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Tanda baca",
+      "arti": "tanda berhenti ayat",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "simbol waqf di akhir frasa",
+        "irab_dan_logika": "tidak berirab, berfungsi prosodik"
+      },
+      "hikmah": "memberi jeda, menandai akhir bagian kalimat",
+      "role": "none"
+    },
+    {
+      "index": 23,
       "kata_arab": "قُلْ",
       "transliterasi": "qul",
       "jenis_kata": "Fi'il",
@@ -399,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 24,
       "kata_arab": "هَلْ",
       "transliterasi": "hal",
       "jenis_kata": "Huruf",
@@ -417,7 +453,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 25,
       "kata_arab": "يَسْتَوِي",
       "transliterasi": "yastawī",
       "jenis_kata": "Fi'il",
@@ -435,7 +471,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 26,
       "kata_arab": "ٱلْأَعْمَىٰ",
       "transliterasi": "al‑ʾaʿmā",
       "jenis_kata": "Isim",
@@ -453,7 +489,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 27,
       "kata_arab": "وَٱلْبَصِيرُ",
       "transliterasi": "wal‑baṣīr",
       "jenis_kata": "Isim",
@@ -471,7 +507,7 @@
       "role": "none"
     },
     {
-      "index": 26,
+      "index": 28,
       "kata_arab": "ۚ",
       "transliterasi": "waqf",
       "jenis_kata": "Huruf",
@@ -489,7 +525,7 @@
       "role": "none"
     },
     {
-      "index": 27,
+      "index": 30,
       "kata_arab": "تَتَفَكَّرُونَ",
       "transliterasi": "tatafakkarūna",
       "jenis_kata": "Fi'il",

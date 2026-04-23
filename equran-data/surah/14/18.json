@@ -364,6 +364,24 @@
     },
     {
       "index": 20,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Isyarat",
+      "arti": "tanda berhenti",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "**Tanda baca** akhir ayat",
+        "irab_dan_logika": "Tidak memiliki iʿrāb; berfungsi memisahkan bagian bacaan"
+      },
+      "hikmah": "**Menandai** jeda untuk menghayati makna sebelumnya.",
+      "role": "none"
+    },
+    {
+      "index": 21,
       "kata_arab": "ذَٰلِكَ",
       "transliterasi": "dhālika",
       "jenis_kata": "Isim",
@@ -381,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 22,
       "kata_arab": "هُوَ",
       "transliterasi": "huwa",
       "jenis_kata": "Isim",
@@ -399,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 23,
       "kata_arab": "ٱلضَّلَٰلُ",
       "transliterasi": "al-ḍalālu",
       "jenis_kata": "Isim",
@@ -417,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 24,
       "kata_arab": "ٱلْبَعِيدُ",
       "transliterasi": "al-ba‘īd",
       "jenis_kata": "Isim",

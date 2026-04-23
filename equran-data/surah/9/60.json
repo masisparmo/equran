@@ -165,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 12,
       "kata_arab": "سَبِيلِ",
       "transliterasi": "sabeeli",
       "jenis_kata": "Isim (isim majrur)",
@@ -183,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 13,
       "kata_arab": "اللَّهِ",
       "transliterasi": "Allahi",
       "jenis_kata": "Isim (isim majrur, mudhaf)",
@@ -201,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 14,
       "kata_arab": "وَٱبْنِ",
       "transliterasi": "wa ibni",
       "jenis_kata": "Isim (isim majrur) dengan huruf *wa* (konjungsi)",
@@ -219,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 15,
       "kata_arab": "ٱلسَّبِيلِ",
       "transliterasi": "as‑sabeeli",
       "jenis_kata": "Isim (isim majrur, mudhaf)",
@@ -237,7 +237,25 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 16,
+      "kata_arab": "ۖ",
+      "transliterasi": "",
+      "jenis_kata": "Tanda baca (waqf)",
+      "arti": "tanda jeda",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Berfungsi sebagai **waqf** (tanda jeda) setelah frasa *ابْنِ السَّبِيلِ*",
+        "irab_dan_logika": "Tidak memiliki iʿrāb; menandakan berhentinya bacaan sejenak sebelum kata berikutnya."
+      },
+      "hikmah": "Memberi ruang napas bagi pembaca untuk menekankan makna **“anak‑anak jalan”** sebelum melanjutkan ke kata selanjutnya.",
+      "role": "none"
+    },
+    {
+      "index": 17,
       "kata_arab": "فَرِيضَةًۭ",
       "transliterasi": "farīḍatan",
       "jenis_kata": "Isim (isim mansūb, tafriq)",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 18,
       "kata_arab": "مِّنَ",
       "transliterasi": "mina",
       "jenis_kata": "Huruf",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 19,
       "kata_arab": "ٱللَّهِ",
       "transliterasi": "Allahi",
       "jenis_kata": "Isim",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 20,
       "kata_arab": "ۗ",
       "transliterasi": "(tanda waqaf)",
       "jenis_kata": "Huruf (tanda baca)",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 21,
       "kata_arab": "وَٱللَّهُ",
       "transliterasi": "waAllahu",
       "jenis_kata": "Isim (dengan huruf wa)",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 22,
       "kata_arab": "عَلِيمٌ",
       "transliterasi": "ʿAlīmun",
       "jenis_kata": "Isim (sifat)",
@@ -345,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 23,
       "kata_arab": "حَكِيمٌۭ",
       "transliterasi": "ḥakīmun",
       "jenis_kata": "Isim (sifat)",

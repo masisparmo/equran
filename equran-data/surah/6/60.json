@@ -93,7 +93,7 @@
       "role": "none"
     },
     {
-      "index": 5,
+      "index": 6,
       "kata_arab": "جَرَحْتُم",
       "transliterasi": "jarah‑tum",
       "jenis_kata": "Fi'il (verb)",
@@ -111,7 +111,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 7,
       "kata_arab": "بِٱلنَّهَارِ",
       "transliterasi": "bi‑al‑nahari",
       "jenis_kata": "Huruf (preposisi) + Isim",
@@ -129,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "ثُمَّ",
       "transliterasi": "thumma",
       "jenis_kata": "Huruf (particle)",
@@ -147,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "يَبْعَثُكُمْ",
       "transliterasi": "yab‘athukum",
       "jenis_kata": "Fi'il (verb)",
@@ -165,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "فِيهِ",
       "transliterasi": "fihi",
       "jenis_kata": "Huruf (preposisi) + Isim",
@@ -183,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "لِيُقْضَىٰٓ",
       "transliterasi": "liyuqda",
       "jenis_kata": "Fi'il (verb) dengan huruf lam (li‑)",
@@ -201,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "أَجَلٌۭ",
       "transliterasi": "ajal",
       "jenis_kata": "Isim",
@@ -219,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "مُّسَمًّۭى",
       "transliterasi": "musamman",
       "jenis_kata": "Isim",
@@ -237,7 +237,25 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
+      "kata_arab": "ۖ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Haruf (tanda baca)",
+      "arti": "(tanda jeda)",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "tanda waqf yang memisahkan antara frasa sebelumnya dan berikutnya",
+        "irab_dan_logika": "tidak berirab, berfungsi sebagai pemisah"
+      },
+      "hikmah": "*Memberi jeda untuk menekankan makna sebelum melanjutkan ayat.*",
+      "role": "none"
+    },
+    {
+      "index": 15,
       "kata_arab": "ثُمَّ",
       "transliterasi": "thumma",
       "jenis_kata": "Haruf",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 16,
       "kata_arab": "إِلَيْهِ",
       "transliterasi": "ilayhi",
       "jenis_kata": "Haruf jar + dhamir",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 17,
       "kata_arab": "مَرْجِعُكُمْ",
       "transliterasi": "marji‘ukum",
       "jenis_kata": "Isim",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 18,
       "kata_arab": "ثُمَّ",
       "transliterasi": "thumma",
       "jenis_kata": "Huruf (حرف عطف)",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 19,
       "kata_arab": "يُنَبِّئُكُم",
       "transliterasi": "yunabbi'ukum",
       "jenis_kata": "Fi'il (verb) bentuk mudhari‘ (imperfek)",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 20,
       "kata_arab": "بِمَا",
       "transliterasi": "bima",
       "jenis_kata": "Huruf (حرف جر) + اسم موصول",
@@ -345,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 21,
       "kata_arab": "كُنتُمْ",
       "transliterasi": "kuntum",
       "jenis_kata": "Fi'il (verb) bentuk mazi (past)",

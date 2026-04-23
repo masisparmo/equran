@@ -148,6 +148,24 @@
     },
     {
       "index": 8,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Tanda waqf (tanda baca)",
+      "arti": "tanda berhenti/istirahat",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Menandai akhir bagian kalimat sebelum **فَإِن**",
+        "irab_dan_logika": "Tidak memiliki i‘rab karena bukan kata"
+      },
+      "hikmah": "Memberi jeda bagi pembaca untuk merenungkan makna **kelemahan** yang disebutkan.",
+      "role": "none"
+    },
+    {
+      "index": 9,
       "kata_arab": "فَإِن",
       "transliterasi": "fa-in",
       "jenis_kata": "Huruf (huruf ‘ataf + huruf shart)",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "يَكُن",
       "transliterasi": "yakun",
       "jenis_kata": "Fi‘il (verb mudar‘)",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "مِّنكُمْ",
       "transliterasi": "minkum",
       "jenis_kata": "Huruf (harf jar)",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "مِّا۟ئَةٌۭ",
       "transliterasi": "miʾah",
       "jenis_kata": "Isim",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "صَابِرَةٌۭ",
       "transliterasi": "ṣābirah",
       "jenis_kata": "Isim (isim faʿil)",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 18,
       "kata_arab": "يَكُن",
       "transliterasi": "yakunu",
       "jenis_kata": "Fi'il",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 19,
       "kata_arab": "مِّنكُمْ",
       "transliterasi": "minkum",
       "jenis_kata": "Huruf",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 20,
       "kata_arab": "أَلْفٌۭ",
       "transliterasi": "alfun",
       "jenis_kata": "Isim",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 21,
       "kata_arab": "يَغْلِبُوٓا۟",
       "transliterasi": "yaghlibūna",
       "jenis_kata": "Fi'il",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 22,
       "kata_arab": "أَلْفَيْنِ",
       "transliterasi": "alfayni",
       "jenis_kata": "Isim",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 23,
       "kata_arab": "بِإِذْنِ",
       "transliterasi": "bi-idhni",
       "jenis_kata": "Huruf",
@@ -345,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 24,
       "kata_arab": "ٱللَّهِ",
       "transliterasi": "*Allāhi*",
       "jenis_kata": "*Isim*",
@@ -363,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 25,
       "kata_arab": "ۗ",
       "transliterasi": "*Ayah sign*",
       "jenis_kata": "*Huruf (tanda baca)*",
@@ -381,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 26,
       "kata_arab": "وَٱللَّهُ",
       "transliterasi": "*wa‑Allāhu*",
       "jenis_kata": "*Isim dengan huruf wa (وَ)*",
@@ -399,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 27,
       "kata_arab": "مَعَ",
       "transliterasi": "*ma‘a*",
       "jenis_kata": "*Huruf jar*",
@@ -417,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 28,
       "kata_arab": "ٱلصَّٰبِرِينَ",
       "transliterasi": "*as‑ṣābirīna*",
       "jenis_kata": "*Isim jamak (مُعْتَل) berakhiran *-īn*",

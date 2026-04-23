@@ -5,127 +5,127 @@
     {
       "index": 0,
       "kata_arab": "وَإِنَّ",
-      "transliterasi": "wa‑inna",
-      "jenis_kata": "Huruf",
-      "arti": "dan sesungguhnya",
+      "transliterasi": "wa inna",
+      "jenis_kata": "Harf (Partikel)",
+      "arti": "Dan sesungguhnya",
       "sharaf": {
-        "akar_kata": "-",
-        "makna_dasar": "menegaskan kebenaran",
-        "wazan_perubahan": "tidak berlaku (huruf)"
+        "akar_kata": "N/A",
+        "makna_dasar": "Penekanan atau penguatan informasi",
+        "wazan_perubahan": "N/A"
       },
       "nahwu": {
-        "kedudukan": "Huruf penghubung di awal ayat, memperkenalkan klausa",
-        "irab_dan_logika": "Tidak berharakat karena huruf, menghubungkan dengan kalimat sebelumnya"
+        "kedudukan": "Harf 'Atf dan Harf Nasab wa Taukid",
+        "irab_dan_logika": "Huruf 'wa' menyambungkan dengan ayat sebelumnya. 'Inna' berfungsi menasabkan isim (kata benda) setelahnya untuk memberikan penekanan (taukid)."
       },
-      "hikmah": "Menegaskan kepastian bahwa apa yang disebutkan selanjutnya adalah benar.",
+      "hikmah": "Kata ini berfungsi untuk memberikan kepastian mutlak bahwa apa yang akan disampaikan setelahnya adalah kebenaran yang tidak diragukan.",
       "role": "none"
     },
     {
       "index": 1,
       "kata_arab": "رَبَّكَ",
       "transliterasi": "rabbaka",
-      "jenis_kata": "Isim",
+      "jenis_kata": "Isim (Kata Benda)",
       "arti": "Tuhanmu",
       "sharaf": {
-        "akar_kata": "ر ب ب",
-        "makna_dasar": "pemilik, penguasa",
-        "wazan_perubahan": "bentuk mudhari' dengan suffiks 2sm ka"
+        "akar_kata": "r-b-b (ر ب ب)",
+        "makna_dasar": "Mendidik, memelihara, memiliki, dan memperbaiki",
+        "wazan_perubahan": "N/A"
       },
       "nahwu": {
-        "kedudukan": "Isim marfu' dalam posisi subjek (mubtada')",
-        "irab_dan_logika": "Diberi ḍamma karena menjadi mubtada' dan tidak ada alif lam"
+        "kedudukan": "Isim Inna dan Mudhaf",
+        "irab_dan_logika": "Manshub dengan tanda fathah karena menjadi Isim Inna. 'Ka' (kamu) adalah dhamir muttasil yang berkedudukan sebagai Mudhaf Ilaih."
       },
-      "hikmah": "Menunjukkan kepemilikan Allah atas tugas pengumpulan.",
+      "hikmah": "Menegaskan hubungan khusus antara Allah sebagai Pemelihara dengan Nabi Muhammad SAW (dan umatnya secara umum).",
       "role": "none"
     },
     {
       "index": 2,
       "kata_arab": "هُوَ",
       "transliterasi": "huwa",
-      "jenis_kata": "Isim",
-      "arti": "Dia (laki‑laki)",
+      "jenis_kata": "Isim Dhamir (Kata Ganti)",
+      "arti": "Dia",
       "sharaf": {
-        "akar_kata": "ه و أ",
-        "makna_dasar": "kata ganti orang ketiga tunggal",
-        "wazan_perubahan": "bentuk ism dhat"
+        "akar_kata": "N/A",
+        "makna_dasar": "Kata ganti orang ketiga tunggal laki-laki",
+        "wazan_perubahan": "N/A"
       },
       "nahwu": {
-        "kedudukan": "Isim marfu' sebagai predikat (khabar) setelah al‑if al‑if",
-        "irab_dan_logika": "Diberi ḍamma karena predikat dalam nominal sentence"
+        "kedudukan": "Dhamir Fashl",
+        "irab_dan_logika": "Berfungsi sebagai pemisah atau penegas (fashl) untuk menguatkan bahwa hanya Allah-lah yang memiliki otoritas tersebut."
       },
-      "hikmah": "Menegaskan bahwa Allah‑lah yang melakukan tindakan.",
+      "hikmah": "Penggunaan 'huwa' di sini memberikan makna eksklusivitas (hashr), bahwa hanya Dia, tidak ada yang lain, yang mampu melakukan tindakan tersebut.",
       "role": "none"
     },
     {
       "index": 3,
       "kata_arab": "يَحْشُرُهُمْ",
       "transliterasi": "yahshuruhum",
-      "jenis_kata": "Fi'il",
-      "arti": "menghimpun mereka",
+      "jenis_kata": "Fi'il Mudhari' + Dhamir",
+      "arti": "Dia mengumpulkan mereka",
       "sharaf": {
-        "akar_kata": "ح ش ر",
-        "makna_dasar": "mengumpulkan, mengerumuni",
-        "wazan_perubahan": "bentuk imperfect (mudhari') dengan prefiks ya‑, sukun, akhiran ‑hum (objek mereka)"
+        "akar_kata": "h-sh-r (ح ش ر)",
+        "makna_dasar": "Mengumpulkan dari berbagai tempat ke satu titik",
+        "wazan_perubahan": "Yaf'ulu (يَفْعُلُ)"
       },
       "nahwu": {
-        "kedudukan": "Fi'il mudhari' (verb) sebagai predikat utama",
-        "irab_dan_logika": "Berharakat dhammah pada ya karena mudhari', dan harakat akhir ‑hum kasrah karena objeknya"
+        "kedudukan": "Khabar Inna (Jumlah Fi'liyyah)",
+        "irab_dan_logika": "Fi'il mudhari' marfu' dengan dhammah. Fa'ilnya adalah dhamir mustatir (Allah). 'Hum' adalah maf'ul bih (objek) yang kembali kepada manusia."
       },
-      "hikmah": "Allah akan mengumpulkan semua makhluk pada hari kiamat.",
+      "hikmah": "Menunjukkan kepastian bahwa Allah akan menghimpun seluruh makhluk di hari kiamat untuk mempertanggungjawabkan perbuatan mereka.",
       "role": "none"
     },
     {
       "index": 4,
-      "kata_arab": "ۚ",
-      "transliterasi": "ۚ",
-      "jenis_kata": "Huruf",
-      "arti": "tanda berhenti (pause)",
+      "kata_arab": "إِنَّهُ",
+      "transliterasi": "innahu",
+      "jenis_kata": "Harf Nasab + Dhamir",
+      "arti": "Sesungguhnya Dia",
       "sharaf": {
-        "akar_kata": "-",
-        "makna_dasar": "menandai jeda dalam bacaan",
-        "wazan_perubahan": "-"
+        "akar_kata": "N/A",
+        "makna_dasar": "Penekanan kembali terhadap sifat Allah",
+        "wazan_perubahan": "N/A"
       },
       "nahwu": {
-        "kedudukan": "Tanda baca, tidak memiliki i‘rab",
-        "irab_dan_logika": "Tidak berharakat, berfungsi memisahkan bagian kalimat"
+        "kedudukan": "Harf Taukid + Isim Inna",
+        "irab_dan_logika": "Inna' sebagai huruf taukid, dan 'hu' (kata ganti Dia) adalah isim inna yang berada dalam posisi manshub."
       },
-      "hikmah": "Memberi jeda untuk menekankan makna sebelumnya.",
+      "hikmah": "Pengulangan kata 'inna' di sini berfungsi untuk memperkuat alasan mengapa Allah mampu mengumpulkan seluruh makhluk.",
       "role": "none"
     },
     {
       "index": 5,
-      "kata_arab": "إِنَّهُۤ",
-      "transliterasi": "innahu",
-      "jenis_kata": "Huruf",
-      "arti": "sesungguhnya Dia",
+      "kata_arab": "حَكِيمٌ",
+      "transliterasi": "hakimun",
+      "jenis_kata": "Isim (Sifat Mushabbahah)",
+      "arti": "Maha Bijaksana",
       "sharaf": {
-        "akar_kata": "-",
-        "makna_dasar": "menegaskan kebenaran",
-        "wazan_perubahan": "-"
+        "akar_kata": "h-k-m (ح ك م)",
+        "makna_dasar": "Menghalangi kerusakan, menetapkan hukum dengan tepat",
+        "wazan_perubahan": "Fa'il (فَعِيْلٌ)"
       },
       "nahwu": {
-        "kedudukan": "Huruf taksir (penegas) yang menguatkan pernyataan",
-        "irab_dan_logika": "Tidak berharakat, menguatkan kalimat sebelumnya"
+        "kedudukan": "Khabar Inna",
+        "irab_dan_logika": "Marfu' dengan tanda tanwin dhammah. Menjadi predikat yang menjelaskan sifat Allah dalam tindakan-Nya."
       },
-      "hikmah": "Menegaskan kembali sifat Allah yang Maha Bijaksana.",
+      "hikmah": "Menegaskan bahwa pengumpulan manusia di hari kiamat didasari oleh hikmah (kebijaksanaan) yang sempurna, bukan tindakan sia-sia.",
       "role": "none"
     },
     {
       "index": 6,
-      "kata_arab": "حَكِيمٌ",
-      "transliterasi": "ḥakīmun",
-      "jenis_kata": "Isim sifat",
-      "arti": "bijaksana",
+      "kata_arab": "عَلِيمٌ",
+      "transliterasi": "Alīmun",
+      "jenis_kata": "Isim (Kata Sifat/Shighah Mubalaghah)",
+      "arti": "Maha Mengetahui",
       "sharaf": {
-        "akar_kata": "ح ك م",
-        "makna_dasar": "mengatur, memerintah, memberi kebijaksanaan",
-        "wazan_perubahan": "fa‘īl (حَكِيم)"
+        "akar_kata": "ع - ل - م (ʿ-l-m)",
+        "makna_dasar": "Mengetahui, memiliki ilmu, atau menyadari sesuatu",
+        "wazan_perubahan": "Fa'īlun (فَعِيلٌ) yang berfungsi sebagai Shighah Mubalaghah (menunjukkan kesempurnaan dan intensitas)"
       },
       "nahwu": {
-        "kedudukan": "khabar (predikat) untuk kata ganti “huwa” (Dia) dalam ayat",
-        "irab_dan_logika": "dammah karena berfungsi sebagai isim mufrad nakirah (tanpa alif lam) dalam posisi rafa'"
+        "kedudukan": "Khabar kedua (Khabar thāni) dari 'Inna'",
+        "irab_dan_logika": "Marfu' dengan tanda dhammah (tanwin). Secara logika, kata ini menjadi penjelas sifat Allah setelah 'Hakimun' (Maha Bijaksana), menunjukkan bahwa tindakan-Nya didasari oleh ilmu yang sempurna."
       },
-      "hikmah": "**Hikmah**: Allah disebut **Al‑Hakim** menegaskan bahwa segala keputusan‑Keputusan-Nya dilandasi kebijaksanaan mutlak, sehingga setiap peristiwa yang terjadi adalah hasil dari kebijaksanaan Ilahi yang sempurna.",
+      "hikmah": "Kata 'Alīm' dalam ayat ini menekankan bahwa Allah memiliki pengetahuan yang tak terbatas dan mendalam. Dalam konteks pengumpulan manusia (Al-Hasyr), Allah mengetahui secara detail setiap individu, amal perbuatan mereka, hingga bagian tubuh yang telah hancur, sehingga tidak ada satu pun yang luput dari pengawasan-Nya.",
       "role": "none"
     },
     {

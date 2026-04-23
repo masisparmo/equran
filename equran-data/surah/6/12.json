@@ -400,6 +400,24 @@
     },
     {
       "index": 22,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Tanda baca (waqf)",
+      "arti": "tanda jeda",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Menandai berhentinya bacaan sesaat setelah frasa *فِيهِ*",
+        "irab_dan_logika": "Tidak beri i‘rāb; berfungsi sebagai isyarat tajwid"
+      },
+      "hikmah": "Memberi jeda untuk menekankan kepastian yang baru saja disebut.",
+      "role": "none"
+    },
+    {
+      "index": 23,
       "kata_arab": "ٱلَّذِينَ",
       "transliterasi": "alladhīna",
       "jenis_kata": "Isim (اسم موصول, jamak maskulin)",
@@ -417,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 24,
       "kata_arab": "خَسِرُوٓا۟",
       "transliterasi": "khasirū",
       "jenis_kata": "Fi'il",
@@ -435,7 +453,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 25,
       "kata_arab": "أَنفُسَهُمْ",
       "transliterasi": "anfusahum",
       "jenis_kata": "Isim",
@@ -453,7 +471,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 26,
       "kata_arab": "فَهُمْ",
       "transliterasi": "fahum",
       "jenis_kata": "Huruf + Isim Dhamir",
@@ -471,7 +489,7 @@
       "role": "none"
     },
     {
-      "index": 26,
+      "index": 27,
       "kata_arab": "لَا",
       "transliterasi": "lā",
       "jenis_kata": "Huruf",
@@ -489,7 +507,7 @@
       "role": "none"
     },
     {
-      "index": 27,
+      "index": 28,
       "kata_arab": "يُؤْمِنُونَ",
       "transliterasi": "yuʾminūna",
       "jenis_kata": "Fi'il",

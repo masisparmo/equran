@@ -76,6 +76,24 @@
     },
     {
       "index": 4,
+      "kata_arab": "ۖ",
+      "transliterasi": "—",
+      "jenis_kata": "Tanda baca",
+      "arti": "waqf (tanda jeda)",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "tanda waqf yang memisahkan bagian kalimat",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "Memberi jeda untuk menekankan peralihan **antara** sumpah dan konsekuensi selanjutnya.",
+      "role": "none"
+    },
+    {
+      "index": 5,
       "kata_arab": "فَإِن",
       "transliterasi": "fa‑in",
       "jenis_kata": "Huruf",
@@ -93,7 +111,7 @@
       "role": "none"
     },
     {
-      "index": 5,
+      "index": 6,
       "kata_arab": "تَرْضَوْا۟",
       "transliterasi": "taṛḍawā",
       "jenis_kata": "Fi'il",
@@ -111,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 7,
       "kata_arab": "عَنْهُ",
       "transliterasi": "ʿanhu",
       "jenis_kata": "Huruf",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "فَإِنَّ",
       "transliterasi": "fa‑inna",
       "jenis_kata": "Huruf",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "ٱللَّهَ",
       "transliterasi": "Allāha",
       "jenis_kata": "Isim",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "لَا",
       "transliterasi": "lā",
       "jenis_kata": "Huruf",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "يَرْضَىٰ",
       "transliterasi": "yarḍā",
       "jenis_kata": "Fi'il",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "عَنِ",
       "transliterasi": "ʿani",
       "jenis_kata": "Huruf",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "ٱلْقَوْمِ",
       "transliterasi": "al‑qawmi",
       "jenis_kata": "Isim",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "ٱلْفَٰسِقِينَ",
       "transliterasi": "al‑fāsiqīna",
       "jenis_kata": "Isim",

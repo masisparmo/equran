@@ -364,6 +364,24 @@
     },
     {
       "index": 20,
+      "kata_arab": "ۚ",
+      "transliterasi": "-",
+      "jenis_kata": "**Tanda Waqaf**",
+      "arti": "Tanda berhenti (waqaf mutlaq)",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca Al-Qur'an",
+        "irab_dan_logika": "Tidak memiliki kedudukan nahwu atau irab karena bukan kata."
+      },
+      "hikmah": "Menunjukkan tempat yang dianjurkan untuk berhenti membaca, membantu pembaca memahami makna ayat dengan lebih baik sebelum melanjutkan ke bagian berikutnya.",
+      "role": "none"
+    },
+    {
+      "index": 21,
       "kata_arab": "وَكَذَٰلِكَ",
       "transliterasi": "wa kadzaalika",
       "jenis_kata": "**Huruf** (waw) + **Isim Isyarah** (dzalika)",
@@ -381,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 22,
       "kata_arab": "نَجْزِى",
       "transliterasi": "najzee",
       "jenis_kata": "**Fi'il Mudhari'** (kata kerja sekarang/akan datang)",
@@ -399,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 23,
       "kata_arab": "ٱلْمُجْرِمِينَ",
       "transliterasi": "al-mujrimeen",
       "jenis_kata": "**Isim** (kata benda), **Isim Fa'il** (pelaku)",

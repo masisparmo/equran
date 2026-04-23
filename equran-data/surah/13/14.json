@@ -400,6 +400,24 @@
     },
     {
       "index": 22,
+      "kata_arab": "ۚ",
+      "transliterasi": "N/A",
+      "jenis_kata": "Tanda Baca (Waqaf)",
+      "arti": "tanda berhenti",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "menunjukkan tempat berhenti yang disarankan",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Bukan bagian dari struktur gramatikal kalimat. Ini adalah tanda waqaf lazim (harus berhenti) atau waqaf mutlaq (boleh berhenti).",
+        "irab_dan_logika": "N/A (tidak memiliki i'rab karena bukan kata)."
+      },
+      "hikmah": "Menandai akhir dari satu bagian makna yang utuh dan transisi ke bagian makna berikutnya. Berhenti di sini membantu pembaca memahami bahwa perumpamaan tentang air dan mulut telah selesai, dan ayat akan melanjutkan dengan kesimpulan atau perumpamaan lain.",
+      "role": "none"
+    },
+    {
+      "index": 23,
       "kata_arab": "وَمَا",
       "transliterasi": "wa mā",
       "jenis_kata": "Huruf",
@@ -417,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 24,
       "kata_arab": "دُعَآءُ",
       "transliterasi": "du'ā'u",
       "jenis_kata": "Isim (Kata Benda)",
@@ -435,7 +453,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 25,
       "kata_arab": "ٱلْكَٰفِرِينَ",
       "transliterasi": "al-kāfirīna",
       "jenis_kata": "Isim (Kata Benda), Isim Fa'il (Pelaku)",
@@ -453,7 +471,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 26,
       "kata_arab": "إِلَّا",
       "transliterasi": "illā",
       "jenis_kata": "Huruf (Partikel)",
@@ -471,7 +489,7 @@
       "role": "none"
     },
     {
-      "index": 26,
+      "index": 27,
       "kata_arab": "فِى",
       "transliterasi": "fī",
       "jenis_kata": "Huruf (Partikel)",
@@ -489,7 +507,7 @@
       "role": "none"
     },
     {
-      "index": 27,
+      "index": 28,
       "kata_arab": "ضَلَٰلٍۢ",
       "transliterasi": "ḍalālin",
       "jenis_kata": "Isim (Kata Benda), Isim Masdar",

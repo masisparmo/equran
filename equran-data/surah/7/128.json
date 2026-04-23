@@ -165,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 12,
       "kata_arab": "يَشَآءُ",
       "transliterasi": "yashā’u",
       "jenis_kata": "Fi'il",
@@ -183,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 13,
       "kata_arab": "مِنْ",
       "transliterasi": "min",
       "jenis_kata": "Huruf",
@@ -201,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 14,
       "kata_arab": "عِبَادِهِۦ",
       "transliterasi": "ʿibādihi",
       "jenis_kata": "Isim",
@@ -219,7 +219,25 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 15,
+      "kata_arab": "ۖ",
+      "transliterasi": "",
+      "jenis_kata": "Tanda baca",
+      "arti": "tanda waqf (istirahat)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "memisahkan antara dua bagian ayat",
+        "irab_dan_logika": "tidak berirab, berfungsi sebagai jeda"
+      },
+      "hikmah": "Memberi jeda untuk menekankan makna sebelum melanjutkan ke bagian selanjutnya.",
+      "role": "none"
+    },
+    {
+      "index": 16,
       "kata_arab": "وَالْعَاقِبَةُ",
       "transliterasi": "wal-ʿāqibatu",
       "jenis_kata": "Isim",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 17,
       "kata_arab": "لِلْمُتَّقِينَ",
       "transliterasi": "lil-muttaqīna",
       "jenis_kata": "Isim",

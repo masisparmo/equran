@@ -562,6 +562,24 @@
     },
     {
       "index": 31,
+      "kata_arab": "ۗ",
+      "transliterasi": "-",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "Tanda berhenti (waqaf lazim)",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca dalam Al-Qur'an.",
+        "irab_dan_logika": "Tidak memiliki i'rab karena bukan bagian dari struktur kalimat. Menunjukkan tempat berhenti yang dianjurkan."
+      },
+      "hikmah": "Menandakan akhir dari satu bagian makna dan permulaan bagian makna baru, memberikan jeda untuk memahami pesan sebelumnya sebelum melanjutkan.",
+      "role": "none"
+    },
+    {
+      "index": 32,
       "kata_arab": "وَٱللَّهُ",
       "transliterasi": "wallāhu",
       "jenis_kata": "Huruf + Isim",
@@ -579,7 +597,7 @@
       "role": "none"
     },
     {
-      "index": 32,
+      "index": 33,
       "kata_arab": "بِمَا",
       "transliterasi": "bimā",
       "jenis_kata": "Huruf + Isim Maushul",
@@ -597,7 +615,7 @@
       "role": "none"
     },
     {
-      "index": 33,
+      "index": 34,
       "kata_arab": "تَعْمَلُونَ",
       "transliterasi": "ta'malūna",
       "jenis_kata": "Fi'il Mudhari'",
@@ -615,7 +633,7 @@
       "role": "none"
     },
     {
-      "index": 34,
+      "index": 35,
       "kata_arab": "عَلِيمٌۭ",
       "transliterasi": "alīmun",
       "jenis_kata": "Isim Sifat (Sighah Mubalaghah)",

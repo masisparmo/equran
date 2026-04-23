@@ -166,6 +166,24 @@
     },
     {
       "index": 9,
+      "kata_arab": "ۖ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "Tanda Baca",
+      "arti": "tanda berhenti (waqaf mutlaq)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf (berhenti) dalam Al-Qur'an.",
+        "irab_dan_logika": "Tidak memiliki i'rab. Menunjukkan tempat yang baik untuk berhenti membaca."
+      },
+      "hikmah": "Tanda waqaf ini menandai akhir dari pertanyaan Maryam, memberikan jeda sebelum dimulainya jawaban dari Allah SWT. Ini membantu pembaca memahami transisi antara pertanyaan dan jawaban, serta menekankan pentingnya pertanyaan Maryam.",
+      "role": "none"
+    },
+    {
+      "index": 10,
       "kata_arab": "قَالَ",
       "transliterasi": "qāla",
       "jenis_kata": "Fi'il",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "كَذَٰلِكِ",
       "transliterasi": "kadhāliki",
       "jenis_kata": "Huruf + Isim Isyarah",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "ٱللَّهُ",
       "transliterasi": "Allāh",
       "jenis_kata": "Isim",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "يَخْلُقُ",
       "transliterasi": "yakhluqu",
       "jenis_kata": "Fi'il",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "مَا",
       "transliterasi": "mā",
       "jenis_kata": "Isim Maushul",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "يَشَآءُ",
       "transliterasi": "yashā'u",
       "jenis_kata": "Fi'il",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "ۚ",
       "transliterasi": "Tidak ada transliterasi karena ini tanda waqaf.",
       "jenis_kata": "Tanda Waqaf",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "إِذَا",
       "transliterasi": "idhā",
       "jenis_kata": "Huruf / Zharaf Zaman",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "قَضَىٰٓ",
       "transliterasi": "qaḍā",
       "jenis_kata": "Fi'il",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 19,
       "kata_arab": "أَمْرًۭا",
       "transliterasi": "amran",
       "jenis_kata": "Isim",
@@ -345,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 20,
       "kata_arab": "فَإِنَّمَا",
       "transliterasi": "fa-innamā",
       "jenis_kata": "Huruf",
@@ -363,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 21,
       "kata_arab": "يَقُولُ",
       "transliterasi": "yaqūlu",
       "jenis_kata": "Fi'il",
@@ -381,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 22,
       "kata_arab": "لَهُۥ",
       "transliterasi": "lahū",
       "jenis_kata": "Huruf dan Dhamir",
@@ -399,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 23,
       "kata_arab": "كُن",
       "transliterasi": "kun",
       "jenis_kata": "Fi'il",
@@ -417,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 24,
       "kata_arab": "فَيَكُونُ",
       "transliterasi": "fa-yakūnu",
       "jenis_kata": "Fi'il Mudhari'",

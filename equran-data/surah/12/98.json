@@ -94,6 +94,24 @@
     },
     {
       "index": 5,
+      "kata_arab": "ۖ",
+      "transliterasi": "Tidak ada transliterasi",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "Tanda berhenti (waqaf jaiz)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku.",
+        "makna_dasar": "Menunjukkan tempat yang dianjurkan untuk berhenti, tetapi boleh juga melanjutkan.",
+        "wazan_perubahan": "Tidak berlaku."
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca dalam Al-Qur'an.",
+        "irab_dan_logika": "Tidak memiliki i'rab karena bukan bagian dari struktur kalimat. Fungsinya adalah untuk membantu pembaca dalam tilawah (membaca Al-Qur'an) agar memahami makna dan menjaga nafas."
+      },
+      "hikmah": "Tanda waqaf ini menunjukkan bahwa kalimat sebelumnya sudah lengkap maknanya, dan pembaca boleh berhenti di sini. Dalam konteks tafsir, ini bisa menandakan selesainya satu bagian dari janji Nabi Ya'qub sebelum melanjutkan dengan penegasan sifat-sifat Allah.",
+      "role": "none"
+    },
+    {
+      "index": 6,
       "kata_arab": "إِنَّهُۥ",
       "transliterasi": "Innahu",
       "jenis_kata": "Huruf dan Isim",
@@ -111,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 7,
       "kata_arab": "هُوَ",
       "transliterasi": "Huwa",
       "jenis_kata": "Isim (Dhomir Munfasil)",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "ٱلْغَفُورُ",
       "transliterasi": "Al-Ghafuur",
       "jenis_kata": "Isim (Shighah Mubalaghah)",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "ٱلرَّحِيمُ",
       "transliterasi": "Ar-Rahiim",
       "jenis_kata": "Isim (Shighah Mubalaghah)",

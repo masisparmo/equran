@@ -184,6 +184,24 @@
     },
     {
       "index": 10,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Tanda baca (waqf)",
+      "arti": "-",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Penanda akhir bagian kalimat, memisahkan dua klausa",
+        "irab_dan_logika": "Tidak memiliki i‘rāb karena bukan kata."
+      },
+      "hikmah": "Tanda waqf ini memberi jeda untuk merenungkan makna sebelumnya sebelum melanjutkan ke ayat berikutnya.",
+      "role": "none"
+    },
+    {
+      "index": 11,
       "kata_arab": "وَجَآءَكَ",
       "transliterasi": "wajā'aka",
       "jenis_kata": "Fi'il (verb) dengan huruf waqf",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "فِى",
       "transliterasi": "fi",
       "jenis_kata": "Huruf (preposisi)",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "هَٰذِهِ",
       "transliterasi": "hādhihi",
       "jenis_kata": "Isim (isim isyarah)",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "ٱلْحَقُّ",
       "transliterasi": "al‑ḥaqq",
       "jenis_kata": "Isim (isim mufrad)",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "وَمَوْعِظَةٌۭ",
       "transliterasi": "wa‑mawʿiẓah",
       "jenis_kata": "Isim (isim mufrad)",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "وَذِكْرَىٰ",
       "transliterasi": "wa‑dhikrā",
       "jenis_kata": "Isim (isim mufrad)",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "لِلْمُؤْمِنِينَ",
       "transliterasi": "lil‑muʾminīn",
       "jenis_kata": "Huruf jar + Isim (jamak)",

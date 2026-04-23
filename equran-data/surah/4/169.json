@@ -112,6 +112,24 @@
     },
     {
       "index": 6,
+      "kata_arab": "ۚ",
+      "transliterasi": "waqf juzz",
+      "jenis_kata": "Tanda Baca",
+      "arti": "Tanda berhenti (jeda)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Tidak berlaku",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf",
+        "irab_dan_logika": "Tanda baca ini menunjukkan tempat berhenti yang disunnahkan untuk memisahkan makna ayat, bukan bagian dari struktur gramatikal kalimat."
+      },
+      "hikmah": "Menunjukkan tempat berhenti yang dianjurkan untuk membantu pembaca memahami pemisahan makna dalam ayat Al-Qur'an.",
+      "role": "none"
+    },
+    {
+      "index": 7,
       "kata_arab": "وَكَانَ",
       "transliterasi": "wa kāna",
       "jenis_kata": "Huruf (Waw) dan Fi'il (Kāna)",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "ذَٰلِكَ",
       "transliterasi": "dzālika",
       "jenis_kata": "Isim Isyarah (Kata Tunjuk)",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "عَلَى",
       "transliterasi": "alā",
       "jenis_kata": "Huruf Jar",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "ٱللَّهِ",
       "transliterasi": "Allāhi",
       "jenis_kata": "Isim (Nama Dzat Allah)",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "يَسِيرًۭا",
       "transliterasi": "yasīran",
       "jenis_kata": "Isim (Sifat/Kata Sifat)",

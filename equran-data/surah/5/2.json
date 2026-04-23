@@ -904,6 +904,24 @@
     },
     {
       "index": 50,
+      "kata_arab": "ۚ",
+      "transliterasi": "Tidak ada transliterasi",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "Tanda berhenti (waqaf jaiz)",
+      "sharaf": {
+        "akar_kata": "Tidak ada",
+        "makna_dasar": "Tidak ada",
+        "wazan_perubahan": "Tidak ada"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca dalam Al-Qur'an.",
+        "irab_dan_logika": "Ini adalah tanda waqaf *jaiz* (boleh berhenti, boleh lanjut). Menunjukkan akhir dari satu klausa atau ide, memberikan kesempatan untuk mengambil napas dan memahami makna yang telah disampaikan."
+      },
+      "hikmah": "Secara makna, tanda ini menandai selesainya larangan untuk tolong-menolong dalam dosa dan permusuhan, sebelum beralih ke perintah berikutnya. Ini membantu pembaca untuk mencerna satu bagian penting dari ayat sebelum melanjutkan.",
+      "role": "none"
+    },
+    {
+      "index": 51,
       "kata_arab": "وَٱتَّقُوا۟",
       "transliterasi": "wattaqū",
       "jenis_kata": "Fi'il",
@@ -921,7 +939,7 @@
       "role": "none"
     },
     {
-      "index": 51,
+      "index": 52,
       "kata_arab": "ٱللَّهَ",
       "transliterasi": "Allāha",
       "jenis_kata": "Isim",
@@ -939,7 +957,25 @@
       "role": "none"
     },
     {
-      "index": 52,
+      "index": 53,
+      "kata_arab": "ۖ",
+      "transliterasi": "Tidak ada transliterasi",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "Tanda berhenti (waqaf jaiz)",
+      "sharaf": {
+        "akar_kata": "Tidak ada",
+        "makna_dasar": "Tidak ada",
+        "wazan_perubahan": "Tidak ada"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca dalam Al-Qur'an.",
+        "irab_dan_logika": "Ini adalah tanda waqaf *jaiz* (boleh berhenti, boleh lanjut). Menunjukkan akhir dari satu klausa atau ide, memberikan kesempatan untuk mengambil napas dan memahami makna yang telah disampaikan."
+      },
+      "hikmah": "Menandai selesainya perintah untuk bertakwa kepada Allah, sebelum melanjutkan dengan peringatan tentang siksa-Nya. Tanda ini membantu pembaca untuk memahami bahwa perintah takwa adalah sebuah poin penting yang perlu direnungkan sebelum melanjutkan ke konsekuensi dari ketidaktaatan.",
+      "role": "none"
+    },
+    {
+      "index": 54,
       "kata_arab": "إِنَّ",
       "transliterasi": "Inna",
       "jenis_kata": "Huruf",
@@ -957,7 +993,7 @@
       "role": "none"
     },
     {
-      "index": 53,
+      "index": 55,
       "kata_arab": "ٱللَّهَ",
       "transliterasi": "Allāha",
       "jenis_kata": "Isim",
@@ -975,7 +1011,7 @@
       "role": "none"
     },
     {
-      "index": 54,
+      "index": 56,
       "kata_arab": "شَدِيدُ",
       "transliterasi": "Shadīdu",
       "jenis_kata": "Isim",
@@ -993,7 +1029,7 @@
       "role": "none"
     },
     {
-      "index": 55,
+      "index": 57,
       "kata_arab": "ٱلْعِقَابِ",
       "transliterasi": "Al-'Iqābi",
       "jenis_kata": "Isim",

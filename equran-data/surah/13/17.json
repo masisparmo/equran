@@ -760,6 +760,24 @@
     },
     {
       "index": 42,
+      "kata_arab": "ۚ",
+      "transliterasi": "Waqf Mutlaq",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "Tanda berhenti mutlak (boleh berhenti atau melanjutkan, namun berhenti lebih baik)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Tidak berlaku",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Tidak berlaku",
+        "irab_dan_logika": "Tidak berlaku"
+      },
+      "hikmah": "Menunjukkan jeda dalam bacaan untuk pemahaman makna yang lebih baik, menandakan akhir dari satu gagasan atau perumpamaan sebelum melanjutkan ke penjelasan berikutnya.",
+      "role": "none"
+    },
+    {
+      "index": 43,
       "kata_arab": "كَذَٰلِكَ",
       "transliterasi": "kadzālika",
       "jenis_kata": "Gabungan (Huruf Jar كَ + Isim Isyarah ذَٰلِكَ)",
@@ -777,7 +795,7 @@
       "role": "none"
     },
     {
-      "index": 43,
+      "index": 44,
       "kata_arab": "يَضْرِبُ",
       "transliterasi": "yaḍribu",
       "jenis_kata": "Fi'il (kata kerja)",
@@ -795,7 +813,7 @@
       "role": "none"
     },
     {
-      "index": 44,
+      "index": 45,
       "kata_arab": "ٱللَّهُ",
       "transliterasi": "Allāhu",
       "jenis_kata": "Isim (kata benda), Isim Jalalah (Nama Allah)",
@@ -813,7 +831,7 @@
       "role": "none"
     },
     {
-      "index": 45,
+      "index": 46,
       "kata_arab": "ٱلْأَمْثَالَ",
       "transliterasi": "al-amtsāla",
       "jenis_kata": "Isim (kata benda)",

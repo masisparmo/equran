@@ -202,6 +202,24 @@
     },
     {
       "index": 11,
+      "kata_arab": "ۚ",
+      "transliterasi": "(Tanda Waqaf)",
+      "jenis_kata": "Tanda Waqaf (Berhenti)",
+      "arti": "Tanda berhenti (waqaf jaiz)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku.",
+        "makna_dasar": "Tidak berlaku.",
+        "wazan_perubahan": "Tidak berlaku."
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf jaiz (boleh berhenti, boleh melanjutkan).",
+        "irab_dan_logika": "Bukan bagian dari tata bahasa Arab, melainkan tanda baca untuk membantu pembacaan Al-Qur'an."
+      },
+      "hikmah": "Tanda waqaf \"ۚ\" (Jim) menunjukkan bahwa berhenti di sini adalah *jaiz* (boleh), artinya pembaca boleh berhenti atau melanjutkan bacaan. Dalam konteks makna, ini menandai selesainya satu bagian hukum atau pengecualian, memberikan jeda sebelum melanjutkan ke penegasan tentang keburukan perbuatan tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 12,
       "kata_arab": "إِنَّهُۥ",
       "transliterasi": "Innahu",
       "jenis_kata": "Huruf dan Isim Dhomir",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "كَانَ",
       "transliterasi": "Kaana",
       "jenis_kata": "Fi'il Madhi Naqish (Kata Kerja Lampau Tidak Sempurna)",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "فَٰحِشَةًۭ",
       "transliterasi": "Faahisyatan",
       "jenis_kata": "Isim (Kata Benda)",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "وَمَقْتًۭا",
       "transliterasi": "Wa maqtan",
       "jenis_kata": "Huruf dan Isim",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "وَسَآءَ",
       "transliterasi": "Wa saa'a",
       "jenis_kata": "Huruf dan Fi'il Madhi",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "سَبِيلًا",
       "transliterasi": "Sabiilan",
       "jenis_kata": "Isim (Kata Benda)",

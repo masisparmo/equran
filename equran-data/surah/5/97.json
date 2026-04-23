@@ -202,6 +202,24 @@
     },
     {
       "index": 11,
+      "kata_arab": "ۚ",
+      "transliterasi": "-",
+      "jenis_kata": "Isyarat (tanda waqf)",
+      "arti": "tanda akhir ayat",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Tidak termasuk dalam إعراب الجملة",
+        "irab_dan_logika": "Merupakan tanda baca yang menandai selesai‑nya ayat"
+      },
+      "hikmah": "Menandai bahwa seluruh rangkaian makna di atas telah selesai dan menjadi satu kesatuan ayat.",
+      "role": "none"
+    },
+    {
+      "index": 12,
       "kata_arab": "ذَٰلِكَ",
       "transliterasi": "dhālika",
       "jenis_kata": "Isim",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "لِتَعْلَمُوٓا۟",
       "transliterasi": "li‑taʿlamū",
       "jenis_kata": "Fi'il (madhi) dengan huruf li‑pembentuk tujuan)",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "أَنَّ",
       "transliterasi": "anna",
       "jenis_kata": "Huruf (harf nashb)",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 18,
       "kata_arab": "فِى",
       "transliterasi": "fī",
       "jenis_kata": "Huruf",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 19,
       "kata_arab": "ٱلسَّمَٰوَٰتِ",
       "transliterasi": "as‑samāwāti",
       "jenis_kata": "Isim",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 24,
       "kata_arab": "ٱللَّهَ",
       "transliterasi": "Allāha",
       "jenis_kata": "Isim",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 25,
       "kata_arab": "بِكُلِّ",
       "transliterasi": "bikulli",
       "jenis_kata": "Huruf (بِ) + Isim (كُلّ)",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 26,
       "kata_arab": "شَىْءٍ",
       "transliterasi": "shay'in",
       "jenis_kata": "Isim",
@@ -345,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 27,
       "kata_arab": "عَلِيمٌ",
       "transliterasi": "alīmun",
       "jenis_kata": "Isim (Sifat/Shifat Musyabbahah atau Sighah Mubalaghah)",

@@ -274,6 +274,24 @@
     },
     {
       "index": 15,
+      "kata_arab": "ۚ",
+      "transliterasi": "Tidak ada transliterasi",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "Tanda berhenti (waqaf jaiz, boleh berhenti atau melanjutkan)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Tidak berlaku",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Bukan bagian dari struktur gramatikal kalimat.",
+        "irab_dan_logika": "Tidak memiliki i'rab. Ini adalah tanda baca untuk memudahkan pembacaan Al-Qur'an, menunjukkan jeda yang diperbolehkan."
+      },
+      "hikmah": "Tanda waqaf ini memisahkan janji kemenangan dari perintah berikutnya tentang tawakkal. Ini menunjukkan bahwa meskipun kemenangan dijanjikan, tawakkal kepada Allah tetap menjadi pilar utama keimanan.",
+      "role": "none"
+    },
+    {
+      "index": 16,
       "kata_arab": "وَعَلَى",
       "transliterasi": "wa-'alaa",
       "jenis_kata": "Huruf",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "ٱللَّهِ",
       "transliterasi": "allaahi",
       "jenis_kata": "Isim",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 19,
       "kata_arab": "إِن",
       "transliterasi": "in",
       "jenis_kata": "Huruf",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 20,
       "kata_arab": "كُنتُم",
       "transliterasi": "kuntum",
       "jenis_kata": "Fi'il (Kata Kerja)",
@@ -345,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 21,
       "kata_arab": "مُّؤْمِنِينَ",
       "transliterasi": "mu'minīn",
       "jenis_kata": "Isim (Kata Benda)",

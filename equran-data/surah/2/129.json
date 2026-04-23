@@ -220,6 +220,24 @@
     },
     {
       "index": 12,
+      "kata_arab": "ۚ",
+      "transliterasi": "Waqf Ja'iz",
+      "jenis_kata": "Tanda Baca",
+      "arti": "Tanda berhenti (boleh berhenti atau melanjutkan)",
+      "sharaf": {
+        "akar_kata": "Tidak Berlaku",
+        "makna_dasar": "Tidak Berlaku",
+        "wazan_perubahan": "Tidak Berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf (berhenti)",
+        "irab_dan_logika": "Tanda ini menunjukkan bahwa pembaca boleh berhenti atau melanjutkan bacaan. Tidak memiliki kedudukan i'rab."
+      },
+      "hikmah": "Menunjukkan jeda yang diizinkan dalam bacaan Al-Qur'an untuk mengambil napas atau memahami makna pada titik tersebut, tanpa mengubah makna ayat.",
+      "role": "none"
+    },
+    {
+      "index": 13,
       "kata_arab": "إِنَّكَ",
       "transliterasi": "Innak",
       "jenis_kata": "Huruf + Isim (Dhomir)",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "أَنتَ",
       "transliterasi": "Anta",
       "jenis_kata": "Isim (Dhomir Munfasil)",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "ٱلْعَزِيزُ",
       "transliterasi": "Al-'Azīz",
       "jenis_kata": "Isim (Sifat/Asmaul Husna)",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "ٱلْحَكِيمُ",
       "transliterasi": "Al-Hakīm",
       "jenis_kata": "Isim (Sifat/Asmaul Husna)",
