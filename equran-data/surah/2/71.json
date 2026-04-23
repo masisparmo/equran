@@ -292,6 +292,24 @@
     },
     {
       "index": 16,
+      "kata_arab": "ۚ",
+      "transliterasi": "N/A",
+      "jenis_kata": "Tanda Waqaf (Simbol)",
+      "arti": "N/A",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "Tanda berhenti yang dianjurkan (waqaf jaiz)",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "N/A (bukan kata dalam tata bahasa Arab)",
+        "irab_dan_logika": "N/A"
+      },
+      "hikmah": "Tanda ini menunjukkan tempat yang baik untuk berhenti membaca, memberikan jeda untuk memahami makna sebelumnya sebelum melanjutkan ke bagian berikutnya dari ayat. Ini membantu dalam pemahaman dan tadabbur Al-Qur'an.",
+      "role": "none"
+    },
+    {
+      "index": 17,
       "kata_arab": "قَالُوا۟",
       "transliterasi": "qālū",
       "jenis_kata": "Fi'il (Kata Kerja)",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "ٱلْـَٰٔنَ",
       "transliterasi": "al-āna",
       "jenis_kata": "Isim",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 19,
       "kata_arab": "جِئْتَ",
       "transliterasi": "ji'ta",
       "jenis_kata": "Fi'il",
@@ -345,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 20,
       "kata_arab": "بِٱلْحَقِّ",
       "transliterasi": "bil-ḥaqq",
       "jenis_kata": "Huruf (Ba') + Isim (al-Haqq)",
@@ -363,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 21,
       "kata_arab": "فَذَبَحُوهَا",
       "transliterasi": "fa-dhabaḥūhā",
       "jenis_kata": "Huruf (Fa') + Fi'il (dhabaḥū) + Dhomir (hā)",
@@ -381,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 22,
       "kata_arab": "وَمَا",
       "transliterasi": "wa-mā",
       "jenis_kata": "Huruf (Wawu) + Huruf (Ma)",
@@ -399,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 23,
       "kata_arab": "كَادُوا۟",
       "transliterasi": "kādū",
       "jenis_kata": "Fi'il",
@@ -417,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 24,
       "kata_arab": "يَفْعَلُونَ",
       "transliterasi": "yaf'alūna",
       "jenis_kata": "Fi'il",

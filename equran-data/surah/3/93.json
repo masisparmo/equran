@@ -310,6 +310,24 @@
     },
     {
       "index": 17,
+      "kata_arab": "ۗ",
+      "transliterasi": "N/A",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "N/A",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca",
+        "irab_dan_logika": "Tidak memiliki i'rab. Ini adalah tanda waqaf jaiz (boleh berhenti atau melanjutkan), yang menunjukkan bahwa berhenti di sini lebih utama."
+      },
+      "hikmah": "Tanda waqaf ini berfungsi sebagai panduan bagi pembaca Al-Qur'an, menunjukkan tempat yang disarankan untuk berhenti membaca guna membantu pemahaman makna ayat. Berhenti di sini akan memberikan jeda setelah menjelaskan batasan waktu 'sebelum Taurat diturunkan'.",
+      "role": "none"
+    },
+    {
+      "index": 18,
       "kata_arab": "قُلْ",
       "transliterasi": "Qul",
       "jenis_kata": "Fi'il",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 19,
       "kata_arab": "فَأْتُوا۟",
       "transliterasi": "Fa'tū",
       "jenis_kata": "Fi'il",
@@ -345,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 20,
       "kata_arab": "بِٱلتَّوْرَىٰةِ",
       "transliterasi": "Bit-Taurāh",
       "jenis_kata": "Isim",
@@ -363,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 21,
       "kata_arab": "فَٱتْلُوهَآ",
       "transliterasi": "Fatlūhā",
       "jenis_kata": "Fi'il",
@@ -381,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 22,
       "kata_arab": "إِن",
       "transliterasi": "In",
       "jenis_kata": "Huruf",
@@ -399,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 23,
       "kata_arab": "كُنتُمْ",
       "transliterasi": "Kuntum",
       "jenis_kata": "Fi'il",
@@ -417,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 24,
       "kata_arab": "صَٰدِقِينَ",
       "transliterasi": "ṣādiqīna",
       "jenis_kata": "Isim",

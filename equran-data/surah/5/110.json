@@ -364,6 +364,24 @@
     },
     {
       "index": 20,
+      "kata_arab": "ۖ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf / Simbol",
+      "arti": "tanda waqf (istirāḥah)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "pemisah ayat/kalimat",
+        "irab_dan_logika": "bukan bagian tata bahasa, berfungsi sebagai **tanda jeda**"
+      },
+      "hikmah": "menunjukkan jeda bacaan, memberi ruang bagi pendengar merenungkan nikmat yang disebutkan",
+      "role": "none"
+    },
+    {
+      "index": 21,
       "kata_arab": "وَإِذْ",
       "transliterasi": "wa‑idh",
       "jenis_kata": "Huruf",
@@ -381,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 22,
       "kata_arab": "عَلَّمْتُكَ",
       "transliterasi": "ʿallamtu‑ka",
       "jenis_kata": "Fiʿil",
@@ -399,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 23,
       "kata_arab": "ٱلْكِتَٰبَ",
       "transliterasi": "al‑kitāba",
       "jenis_kata": "Isim",
@@ -417,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 24,
       "kata_arab": "وَالْحِكْمَةَ",
       "transliterasi": "wa al-ḥikmah",
       "jenis_kata": "Isim",
@@ -435,7 +453,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 25,
       "kata_arab": "وَالْتَّوْرَاةَ",
       "transliterasi": "wa al-Tawrata",
       "jenis_kata": "Isim",
@@ -453,7 +471,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 26,
       "kata_arab": "وَالْإِنْجِيلَ",
       "transliterasi": "wa al-Injīla",
       "jenis_kata": "Isim",
@@ -471,7 +489,7 @@
       "role": "none"
     },
     {
-      "index": 26,
+      "index": 27,
       "kata_arab": "وَإِذْ",
       "transliterasi": "wa-idh",
       "jenis_kata": "Harf",
@@ -489,7 +507,7 @@
       "role": "none"
     },
     {
-      "index": 27,
+      "index": 28,
       "kata_arab": "تَخْلُقُ",
       "transliterasi": "takhluqu",
       "jenis_kata": "Fi'il",
@@ -507,7 +525,7 @@
       "role": "none"
     },
     {
-      "index": 28,
+      "index": 29,
       "kata_arab": "مِنَ",
       "transliterasi": "mina",
       "jenis_kata": "Huruf (preposisi)",
@@ -525,7 +543,7 @@
       "role": "none"
     },
     {
-      "index": 29,
+      "index": 30,
       "kata_arab": "ٱلطِّينِ",
       "transliterasi": "aṭ-ṭīn",
       "jenis_kata": "Isim (isim mufrad)",
@@ -543,7 +561,7 @@
       "role": "none"
     },
     {
-      "index": 30,
+      "index": 31,
       "kata_arab": "كَهَيْـَٔةِ",
       "transliterasi": "ka‑hayʼah",
       "jenis_kata": "Isim (isim majrur) dengan huruf جر *ka*",
@@ -561,7 +579,7 @@
       "role": "none"
     },
     {
-      "index": 31,
+      "index": 32,
       "kata_arab": "ٱلطَّيْرِ",
       "transliterasi": "aṭ-ṭayr",
       "jenis_kata": "Isim (isim mufrad)",
@@ -579,7 +597,7 @@
       "role": "none"
     },
     {
-      "index": 32,
+      "index": 33,
       "kata_arab": "بِإِذْنِى",
       "transliterasi": "bi‑idhni",
       "jenis_kata": "Huruf (preposisi) + Isim",
@@ -597,7 +615,7 @@
       "role": "none"
     },
     {
-      "index": 33,
+      "index": 34,
       "kata_arab": "فِيهَا",
       "transliterasi": "fīhā",
       "jenis_kata": "Huruf (preposisi dengan suffiks pronoun)",
@@ -615,7 +633,7 @@
       "role": "none"
     },
     {
-      "index": 34,
+      "index": 35,
       "kata_arab": "فَتَكُونُ",
       "transliterasi": "fa‑takūnu",
       "jenis_kata": "Fi'il (verb)",
@@ -633,7 +651,7 @@
       "role": "none"
     },
     {
-      "index": 35,
+      "index": 36,
       "kata_arab": "طَيْرًۢا",
       "transliterasi": "ṭayran",
       "jenis_kata": "Isim (isim maf‘ūl)",
@@ -651,7 +669,7 @@
       "role": "none"
     },
     {
-      "index": 36,
+      "index": 37,
       "kata_arab": "بِإِذْنِى",
       "transliterasi": "bi‑idhni",
       "jenis_kata": "Huruf (preposisi) + Isim",
@@ -669,7 +687,7 @@
       "role": "none"
     },
     {
-      "index": 37,
+      "index": 38,
       "kata_arab": "وَتُبْرِئُ",
       "transliterasi": "wa‑tubriʾu",
       "jenis_kata": "Fi'il (verb)",
@@ -687,7 +705,7 @@
       "role": "none"
     },
     {
-      "index": 38,
+      "index": 39,
       "kata_arab": "ٱلْأَكْمَهَ",
       "transliterasi": "al‑akmaha",
       "jenis_kata": "Isim",
@@ -705,7 +723,7 @@
       "role": "none"
     },
     {
-      "index": 39,
+      "index": 40,
       "kata_arab": "وَٱلْأَبْرَصَ",
       "transliterasi": "wa al‑abraṣa",
       "jenis_kata": "Isim",
@@ -723,7 +741,7 @@
       "role": "none"
     },
     {
-      "index": 40,
+      "index": 41,
       "kata_arab": "بِإِذْنِى",
       "transliterasi": "bi‑idhni",
       "jenis_kata": "Huruf",
@@ -741,7 +759,25 @@
       "role": "none"
     },
     {
-      "index": 41,
+      "index": 42,
+      "kata_arab": "ۖ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda jeda",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "penanda akhir frasa, memisahkan antara dua bagian ayat",
+        "irab_dan_logika": "tidak berirab, berfungsi sebagai *waqf* untuk memberi jeda bacaan"
+      },
+      "hikmah": "**Hikmah:** Jeda ini memberi kesempatan bagi pendengar untuk merenungkan tiap mukjizat secara terpisah, menambah kekhusyukan dalam pemahaman.",
+      "role": "none"
+    },
+    {
+      "index": 43,
       "kata_arab": "وَإِذْ",
       "transliterasi": "wa‑idh",
       "jenis_kata": "Huruf",
@@ -759,7 +795,7 @@
       "role": "none"
     },
     {
-      "index": 42,
+      "index": 44,
       "kata_arab": "تُخْرِجُ",
       "transliterasi": "tukh’riju",
       "jenis_kata": "Fi’il",
@@ -777,7 +813,7 @@
       "role": "none"
     },
     {
-      "index": 43,
+      "index": 45,
       "kata_arab": "ٱلْمَوْتَىٰ",
       "transliterasi": "al‑mawta",
       "jenis_kata": "Isim",
@@ -795,7 +831,7 @@
       "role": "none"
     },
     {
-      "index": 44,
+      "index": 46,
       "kata_arab": "بِإِذْنِى",
       "transliterasi": "bi‑idhni",
       "jenis_kata": "Huruf (jar)",
@@ -813,7 +849,25 @@
       "role": "none"
     },
     {
-      "index": 45,
+      "index": 47,
+      "kata_arab": "ۖ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf (tanda waqf)",
+      "arti": "tanda jeda (waqf)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca yang memisahkan antara dua bagian ayat",
+        "irab_dan_logika": "tidak berirab, berfungsi sebagai **waqf** untuk memberi jeda bacaan"
+      },
+      "hikmah": "Memberi kesempatan bagi pendengar merenungkan makna ayat sebelum melanjutkan ke bagian berikutnya.",
+      "role": "none"
+    },
+    {
+      "index": 48,
       "kata_arab": "وَإِذْ",
       "transliterasi": "wa‑idh",
       "jenis_kata": "Huruf (wa + idh)",
@@ -831,7 +885,7 @@
       "role": "none"
     },
     {
-      "index": 46,
+      "index": 49,
       "kata_arab": "كَفَفْتُ",
       "transliterasi": "kafaf‑tu",
       "jenis_kata": "Fi‘il (verb)",
@@ -849,7 +903,7 @@
       "role": "none"
     },
     {
-      "index": 47,
+      "index": 50,
       "kata_arab": "بَنِىٓ",
       "transliterasi": "bani",
       "jenis_kata": "Isim",
@@ -867,7 +921,7 @@
       "role": "none"
     },
     {
-      "index": 48,
+      "index": 51,
       "kata_arab": "إِسْرَٰٓءِيلَ",
       "transliterasi": "Isrāʾīla",
       "jenis_kata": "Isim (nama proper)",
@@ -885,7 +939,7 @@
       "role": "none"
     },
     {
-      "index": 49,
+      "index": 52,
       "kata_arab": "عَنكَ",
       "transliterasi": "ʿanka",
       "jenis_kata": "Huruf (preposisi) + ضمير متصل",
@@ -903,7 +957,7 @@
       "role": "none"
     },
     {
-      "index": 50,
+      "index": 53,
       "kata_arab": "إِذْ",
       "transliterasi": "idh",
       "jenis_kata": "Huruf (kata sambung temporal)",
@@ -921,7 +975,7 @@
       "role": "none"
     },
     {
-      "index": 51,
+      "index": 54,
       "kata_arab": "جِئْتَهُم",
       "transliterasi": "jiʾtahum",
       "jenis_kata": "Fiʿl (verb)",
@@ -939,7 +993,7 @@
       "role": "none"
     },
     {
-      "index": 52,
+      "index": 55,
       "kata_arab": "بِٱلْبَيِّنَٰتِ",
       "transliterasi": "bil-bayyināti",
       "jenis_kata": "Isim (noun) dengan huruf jar",
@@ -957,7 +1011,7 @@
       "role": "none"
     },
     {
-      "index": 53,
+      "index": 56,
       "kata_arab": "فَقَالَ",
       "transliterasi": "fa-qāla",
       "jenis_kata": "Fiʿl (verb) dengan huruf عطف",
@@ -975,7 +1029,7 @@
       "role": "none"
     },
     {
-      "index": 54,
+      "index": 57,
       "kata_arab": "ٱلَّذِينَ",
       "transliterasi": "al‑ladhīna",
       "jenis_kata": "Isim",
@@ -993,7 +1047,7 @@
       "role": "none"
     },
     {
-      "index": 55,
+      "index": 58,
       "kata_arab": "كَفَرُوا۟",
       "transliterasi": "kafarū",
       "jenis_kata": "Fi'il",
@@ -1011,7 +1065,7 @@
       "role": "none"
     },
     {
-      "index": 56,
+      "index": 59,
       "kata_arab": "إِنْ",
       "transliterasi": "in",
       "jenis_kata": "Huruf",
@@ -1029,7 +1083,7 @@
       "role": "none"
     },
     {
-      "index": 57,
+      "index": 60,
       "kata_arab": "هَٰذَآ",
       "transliterasi": "hādhā",
       "jenis_kata": "Isim",
@@ -1047,7 +1101,7 @@
       "role": "none"
     },
     {
-      "index": 58,
+      "index": 61,
       "kata_arab": "إِلَّا",
       "transliterasi": "illā",
       "jenis_kata": "Huruf",
@@ -1065,7 +1119,7 @@
       "role": "none"
     },
     {
-      "index": 59,
+      "index": 62,
       "kata_arab": "سِحْرٌۭ",
       "transliterasi": "sihrun",
       "jenis_kata": "Isim",
@@ -1083,7 +1137,7 @@
       "role": "none"
     },
     {
-      "index": 60,
+      "index": 63,
       "kata_arab": "مُّبِينٌۭ",
       "transliterasi": "mubinun",
       "jenis_kata": "Isim",

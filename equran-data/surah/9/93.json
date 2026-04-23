@@ -130,6 +130,24 @@
     },
     {
       "index": 7,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf (tanda waqf)",
+      "arti": "tanda berhenti/istirahat",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "simbol pemisah antar bagian kalimat",
+        "irab_dan_logika": "tidak berirab, berfungsi memisahkan struktur"
+      },
+      "hikmah": "Menandai jeda sehingga makna sebelumnya selesai dan bagian berikutnya dimulai",
+      "role": "none"
+    },
+    {
+      "index": 8,
       "kata_arab": "رَضُوا۟",
       "transliterasi": "raḍū",
       "jenis_kata": "Fiʿil madhi (3ʾ ml)",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "ٱلْخَوَالِفِ",
       "transliterasi": "al‑khawālif",
       "jenis_kata": "Isim (jamak)",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "وَطَبَعَ",
       "transliterasi": "wa‑ṭabaʿa",
       "jenis_kata": "Fiʿil (verb)",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "ٱللَّهُ",
       "transliterasi": "Allāhu",
       "jenis_kata": "Isim (nama Allah)",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "عَلَىٰ",
       "transliterasi": "ʿalā",
       "jenis_kata": "Huruf (preposisi)",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "لَا",
       "transliterasi": "lā",
       "jenis_kata": "Huruf",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "يَعْلَمُونَ",
       "transliterasi": "yaʿlamūna",
       "jenis_kata": "Fi'il",

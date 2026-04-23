@@ -130,6 +130,24 @@
     },
     {
       "index": 7,
+      "kata_arab": "ۖ",
+      "transliterasi": "waqf",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda jeda",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca, memisahkan bagian ayat",
+        "irab_dan_logika": "tidak memiliki harakat karena bukan kata"
+      },
+      "hikmah": "Menandakan jeda dalam bacaan, memberi ruang bagi makna sebelumnya untuk dipahami dengan tenang.",
+      "role": "none"
+    },
+    {
+      "index": 8,
       "kata_arab": "وَمِن",
       "transliterasi": "wa‑min",
       "jenis_kata": "Huruf",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "وَرَاءِهِۦ",
       "transliterasi": "wa‑rāʾihi",
       "jenis_kata": "Isim (isim maushul) dengan huruf wa‑",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "عَذَابٌ",
       "transliterasi": "ʿadhābun",
       "jenis_kata": "Isim",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "غَلِيظٌۭ",
       "transliterasi": "ghalīẓun",
       "jenis_kata": "Isim sifat",

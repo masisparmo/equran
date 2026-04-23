@@ -148,6 +148,24 @@
     },
     {
       "index": 8,
+      "kata_arab": "ۗ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "Tanda baca",
+      "arti": "Tanda waqaf lazim (berhenti lebih baik)",
+      "sharaf": {
+        "akar_kata": "Tidak ada",
+        "makna_dasar": "Tidak ada",
+        "wazan_perubahan": "Tidak ada"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca, bukan bagian dari struktur nahwu kalimat.",
+        "irab_dan_logika": "Tidak ada i'rab."
+      },
+      "hikmah": "Menunjukkan tempat berhenti yang dianjurkan dalam pembacaan Al-Qur'an untuk memahami makna kalimat sebelumnya dengan baik sebelum melanjutkan ke kalimat berikutnya.",
+      "role": "none"
+    },
+    {
+      "index": 9,
       "kata_arab": "وَعَلَىٰ",
       "transliterasi": "Wa-'ala",
       "jenis_kata": "Huruf",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "ٱللَّهِ",
       "transliterasi": "Allahi",
       "jenis_kata": "Isim",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "فَلْيَتَوَكَّلِ",
       "transliterasi": "Falyatawakkali",
       "jenis_kata": "Fi'il (kata kerja)",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "ٱلْمُؤْمِنُونَ",
       "transliterasi": "al-Mu'minūn",
       "jenis_kata": "Isim",

@@ -184,6 +184,24 @@
     },
     {
       "index": 10,
+      "kata_arab": "ۗ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda ayat (separator)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "penanda akhir ayat, tidak termasuk dalam sintaks",
+        "irab_dan_logika": "tidak memiliki i‘rāb karena merupakan tanda baca"
+      },
+      "hikmah": "menandai berakhirnya ayat, memberi jeda bagi pembaca untuk merenungkan makna sebelumnya",
+      "role": "none"
+    },
+    {
+      "index": 11,
       "kata_arab": "وَمَا",
       "transliterasi": "wa-mā",
       "jenis_kata": "Huruf (wa + mā)",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "يَذَّكَّرُ",
       "transliterasi": "yadhakkaru",
       "jenis_kata": "Fi‘il (verb)",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "إِلَّآ",
       "transliterasi": "illā",
       "jenis_kata": "Huruf (particle)",

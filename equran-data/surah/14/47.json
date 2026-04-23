@@ -112,6 +112,24 @@
     },
     {
       "index": 6,
+      "kata_arab": "ۗ",
+      "transliterasi": "(simbol ayat)",
+      "jenis_kata": "Huruf (simbol)",
+      "arti": "tanda akhir ayat",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "simbol pemisah ayat, tidak termasuk dalam sintaks",
+        "irab_dan_logika": "tidak memiliki i‘rāb karena bukan kata"
+      },
+      "hikmah": "menandakan batas ayat, mengingatkan pembaca bahwa makna selanjutnya berada pada ayat berikutnya",
+      "role": "none"
+    },
+    {
+      "index": 7,
       "kata_arab": "إِنَّ",
       "transliterasi": "inna",
       "jenis_kata": "Huruf (harf nashb)",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "ٱللَّهَ",
       "transliterasi": "Allāh",
       "jenis_kata": "Isim (isim mansub)",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "عَزِيزٌۭ",
       "transliterasi": "ʿazīz",
       "jenis_kata": "Isim (isim marfu')",

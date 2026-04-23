@@ -238,6 +238,24 @@
     },
     {
       "index": 13,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "Huruf",
+      "arti": "Tanda waqaf jaiz mutlaq (boleh berhenti atau lanjut).",
+      "sharaf": {
+        "akar_kata": "Tidak ada akar kata.",
+        "makna_dasar": "Tidak ada makna dasar.",
+        "wazan_perubahan": "Tidak ada wazan."
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf.",
+        "irab_dan_logika": "Tidak memiliki i'rab."
+      },
+      "hikmah": "Menunjukkan tempat yang baik untuk berhenti membaca, namun boleh juga untuk melanjutkan. Dalam konteks makna, ia menandai selesainya satu klausa penting sebelum klausa berikutnya, memberikan jeda untuk merenungkan makna sebelumnya.",
+      "role": "none"
+    },
+    {
+      "index": 14,
       "kata_arab": "وَيَفْعَلُ",
       "transliterasi": "wa yaf'alu",
       "jenis_kata": "Fi'il",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "ٱللَّهُ",
       "transliterasi": "Allāhu",
       "jenis_kata": "Isim",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "مَا",
       "transliterasi": "mā",
       "jenis_kata": "Huruf (isim ma'iyyah)",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "يَشَآءُ",
       "transliterasi": "yashāʾu",
       "jenis_kata": "Fi'il (verb)",

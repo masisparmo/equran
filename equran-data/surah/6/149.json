@@ -76,6 +76,24 @@
     },
     {
       "index": 4,
+      "kata_arab": "ۖ",
+      "transliterasi": "(waqf)",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda koma/istirahat",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "penanda jeda dalam bacaan Qur'an",
+        "irab_dan_logika": "tidak berirab, hanya memisahkan bagian"
+      },
+      "hikmah": "*Memberi jeda agar makna ayat dapat dipahami secara terpisah.*",
+      "role": "none"
+    },
+    {
+      "index": 5,
       "kata_arab": "فَلَوْ",
       "transliterasi": "fa‑law",
       "jenis_kata": "Huruf (fa + law)",
@@ -93,7 +111,7 @@
       "role": "none"
     },
     {
-      "index": 5,
+      "index": 6,
       "kata_arab": "شَآءَ",
       "transliterasi": "shā'a",
       "jenis_kata": "Fi'il",
@@ -111,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 7,
       "kata_arab": "لَهَدَىٰكُمْ",
       "transliterasi": "lihadākum",
       "jenis_kata": "Fi'il",

@@ -256,6 +256,24 @@
     },
     {
       "index": 14,
+      "kata_arab": "ۗ",
+      "transliterasi": "ۗ",
+      "jenis_kata": "Huruf (tanda waqf)",
+      "arti": "tanda berhenti, koma",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "simbol waqf, tidak berirab",
+        "irab_dan_logika": "bukan bagian sintaks, berfungsi sebagai jeda bacaan"
+      },
+      "hikmah": "Memberi jeda untuk menekankan makna sebelumnya sebelum pertanyaan retoris selanjutnya.",
+      "role": "none"
+    },
+    {
+      "index": 15,
       "kata_arab": "أَوَلَوْ",
       "transliterasi": "awalu",
       "jenis_kata": "Huruf (partikel pertanyaan)",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "كَانَ",
       "transliterasi": "kāna",
       "jenis_kata": "Fi'il (kata kerja)",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "آبَاؤُهُمْ",
       "transliterasi": "ābā'uhum",
       "jenis_kata": "Isim (kata benda)",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "لَا",
       "transliterasi": "lā",
       "jenis_kata": "Huruf (partikel negatif)",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 19,
       "kata_arab": "يَعْقِلُونَ",
       "transliterasi": "ya‘qilūna",
       "jenis_kata": "Fi'il (verb)",
@@ -345,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 20,
       "kata_arab": "شَيْئًا",
       "transliterasi": "shay’an",
       "jenis_kata": "Isim (noun)",
@@ -363,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 21,
       "kata_arab": "وَلَا",
       "transliterasi": "wa‑lā",
       "jenis_kata": "Huruf (wa + lā)",
@@ -381,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 22,
       "kata_arab": "يَهْتَدُونَ",
       "transliterasi": "yah'tadūna",
       "jenis_kata": "Fi'il (verb)",

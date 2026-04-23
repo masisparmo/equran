@@ -202,6 +202,24 @@
     },
     {
       "index": 11,
+      "kata_arab": "ۖ",
+      "transliterasi": "ۖ",
+      "jenis_kata": "Huruf",
+      "arti": "tanda waqf (istirahat)",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "علامة وقف",
+        "irab_dan_logika": "ليس له إعراب؛ berfungsi sebagai tanda jeda dalam ayat"
+      },
+      "hikmah": "**ۖ** menandai jeda singkat, memberi kesempatan pembaca merenungkan makna ayat sebelum melanjutkan.",
+      "role": "none"
+    },
+    {
+      "index": 12,
       "kata_arab": "وَلَا",
       "transliterasi": "wa-lā",
       "jenis_kata": "Huruf",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "تَجِدُ",
       "transliterasi": "tajidu",
       "jenis_kata": "Fi'il",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "أَكْثَرَهُمْ",
       "transliterasi": "aktharuhum",
       "jenis_kata": "Isim",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "شَٰكِرِينَ",
       "transliterasi": "shākirīna",
       "jenis_kata": "Isim",

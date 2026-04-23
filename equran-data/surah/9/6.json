@@ -238,6 +238,24 @@
     },
     {
       "index": 13,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda baca)",
+      "jenis_kata": "Huruf",
+      "arti": "tanda berhenti/akhir ayat",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "simbol waqf akhir ayat",
+        "irab_dan_logika": "bukan من الصرف النحوي"
+      },
+      "hikmah": "Menandai selesai satu bagian ayat, memberi jeda bagi pendengar.",
+      "role": "none"
+    },
+    {
+      "index": 14,
       "kata_arab": "ذَٰلِكَ",
       "transliterasi": "dhalika",
       "jenis_kata": "Isim",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "بِأَنَّهُمْ",
       "transliterasi": "bi-anna-hum",
       "jenis_kata": "Huruf",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "قَوْمٌۭ",
       "transliterasi": "qawmun",
       "jenis_kata": "Isim",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "يَعْلَمُونَ",
       "transliterasi": "",
       "jenis_kata": "Fi‘il",

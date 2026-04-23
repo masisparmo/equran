@@ -76,6 +76,24 @@
     },
     {
       "index": 4,
+      "kata_arab": "ۗ",
+      "transliterasi": "ۗ",
+      "jenis_kata": "Huruf",
+      "arti": "tanda waqf",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "علامة وقف لا إعراب لها",
+        "irab_dan_logika": "ليس لها إعراب، تُستعمل لتقسيم الجملة"
+      },
+      "hikmah": "memisahkan bagian kalimat untuk kejelasan bacaan",
+      "role": "none"
+    },
+    {
+      "index": 5,
       "kata_arab": "أَلَآ",
       "transliterasi": "alā",
       "jenis_kata": "Huruf",
@@ -93,7 +111,7 @@
       "role": "none"
     },
     {
-      "index": 5,
+      "index": 6,
       "kata_arab": "إِنَّ",
       "transliterasi": "inna",
       "jenis_kata": "Huruf",
@@ -111,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 7,
       "kata_arab": "ثَمُودَا۟",
       "transliterasi": "Thamūda",
       "jenis_kata": "Isim",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "كَفَرُوا۟",
       "transliterasi": "kafarū",
       "jenis_kata": "Fi'il",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "رَبَّهُمْ",
       "transliterasi": "rabbahum",
       "jenis_kata": "Isim",
@@ -165,7 +183,25 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
+      "kata_arab": "ۗ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf",
+      "arti": "tanda baca (virgul)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "علامة التوقف في النص",
+        "irab_dan_logika": "ليس له إعراب؛ يوضح وقف القراءة"
+      },
+      "hikmah": "Memberi jeda bagi pembaca untuk merenungkan ayat sebelumnya.",
+      "role": "none"
+    },
+    {
+      "index": 11,
       "kata_arab": "أَلَا",
       "transliterasi": "alā",
       "jenis_kata": "Huruf",
@@ -183,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 12,
       "kata_arab": "بُعْدًۭا",
       "transliterasi": "bu'dan",
       "jenis_kata": "Isim",
@@ -201,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 13,
       "kata_arab": "لِّثَمُودَ",
       "transliterasi": "li-Ṭamūda",
       "jenis_kata": "Huruf jar + Isim",

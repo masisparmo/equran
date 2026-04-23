@@ -112,6 +112,24 @@
     },
     {
       "index": 6,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf",
+      "arti": "tanda berhenti, memberi jeda",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "simbol waqf yang memisahkan klausa",
+        "irab_dan_logika": "tidak memiliki i‘rāb karena bukan kata"
+      },
+      "hikmah": "menandakan akhir bagian kalimat sebelum lanjutan",
+      "role": "none"
+    },
+    {
+      "index": 7,
       "kata_arab": "وَكَانَ",
       "transliterasi": "wa-kaana",
       "jenis_kata": "Fi‘il",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "ٱللَّهُ",
       "transliterasi": "Allahu",
       "jenis_kata": "Isim",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "عَلِيمًا",
       "transliterasi": "‘Aliman",
       "jenis_kata": "Isim",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "حَكِيمًۭا",
       "transliterasi": "Hakiman",
       "jenis_kata": "Isim",

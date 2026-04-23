@@ -112,6 +112,24 @@
     },
     {
       "index": 6,
+      "kata_arab": "ۖ",
+      "transliterasi": "—",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda koma/istirahat dalam bacaan",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqf (istirahat) di akhir ayat",
+        "irab_dan_logika": "Tidak memiliki i‘rāb karena bukan kata; berfungsi memisahkan bagian bacaan"
+      },
+      "hikmah": "Menandakan jeda singkat sebelum melanjutkan ayat, membantu pelafalan yang tepat",
+      "role": "none"
+    },
+    {
+      "index": 7,
       "kata_arab": "وَلَلدَّارُ",
       "transliterasi": "wal‑d‑dāru",
       "jenis_kata": "Isim (kata benda) dengan huruf alif wa‑lam (و + ال)",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "ٱلْءَاخِرَةُ",
       "transliterasi": "al‑ākhirah",
       "jenis_kata": "Isim (kata benda) dengan al‑lam",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "خَيْرٌۭ",
       "transliterasi": "khayrun",
       "jenis_kata": "Isim (kata benda) tak berdefinisi",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "لِّلَّذِينَ",
       "transliterasi": "lilladhīna",
       "jenis_kata": "Huruf (preposisi) + Isim (kata ganti relatif)",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "يَتَّقُونَ",
       "transliterasi": "yattaqūna",
       "jenis_kata": "Fi‘il (kata kerja) bentuk mudhari‘",
@@ -201,7 +219,25 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
+      "kata_arab": "ۗ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "Tanda ayat (segmen)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Penanda akhir ayat, tidak berfungsi dalam sintaks",
+        "irab_dan_logika": "Tidak memiliki i‘rāb karena merupakan tanda baca"
+      },
+      "hikmah": "Menandai jeda ayat, membantu pembacaan dan pemahaman ritme",
+      "role": "none"
+    },
+    {
+      "index": 13,
       "kata_arab": "أَفَلَا",
       "transliterasi": "afalā",
       "jenis_kata": "Huruf (حرف استفهام + حرف عطف)",
@@ -219,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 14,
       "kata_arab": "تَعْقِلُونَ",
       "transliterasi": "taʿqilūna",
       "jenis_kata": "Fi'il (verb, mudhari‘, 2nd person plural)",

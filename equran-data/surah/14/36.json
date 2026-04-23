@@ -112,6 +112,24 @@
     },
     {
       "index": 6,
+      "kata_arab": "ۖ",
+      "transliterasi": "—",
+      "jenis_kata": "Huruf",
+      "arti": "tanda waqf (virgul)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca, memisahkan bagian kalimat",
+        "irab_dan_logika": "menandakan jeda, tidak berharakat"
+      },
+      "hikmah": "menunjukkan jeda untuk menekankan hubungan sebab‑akibat",
+      "role": "none"
+    },
+    {
+      "index": 7,
       "kata_arab": "فَمَن",
       "transliterasi": "fa‑man",
       "jenis_kata": "Huruf",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "تَبِعَنِى",
       "transliterasi": "taba‘ani",
       "jenis_kata": "Fi'il",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "فَإِنَّهُۥ",
       "transliterasi": "fa‑innahu",
       "jenis_kata": "Huruf",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "مِنِّى",
       "transliterasi": "minni",
       "jenis_kata": "Huruf",
@@ -183,7 +201,25 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
+      "kata_arab": "ۖ",
+      "transliterasi": "—",
+      "jenis_kata": "Huruf",
+      "arti": "tanda waqf (virgul)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca, memisahkan akhir frasa dari lanjutan ayat",
+        "irab_dan_logika": "menandakan jeda, tidak berharakat"
+      },
+      "hikmah": "menutup bagian ini sebelum melanjutkan ke pernyataan berikutnya",
+      "role": "none"
+    },
+    {
+      "index": 12,
       "kata_arab": "وَمَنْ",
       "transliterasi": "wa man",
       "jenis_kata": "Huruf + Isim Syarat",
@@ -201,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 13,
       "kata_arab": "عَصَانِى",
       "transliterasi": "asani",
       "jenis_kata": "Fi'il",
@@ -219,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 14,
       "kata_arab": "فَإِنَّكَ",
       "transliterasi": "fa innaka",
       "jenis_kata": "Huruf + Huruf Taukid + Dhamir",
@@ -237,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 15,
       "kata_arab": "غَفُورٌۭ",
       "transliterasi": "Ghafurun",
       "jenis_kata": "Isim (kata sifat)",
@@ -255,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 16,
       "kata_arab": "رَّحِيمٌۭ",
       "transliterasi": "Rahimun",
       "jenis_kata": "Isim (kata sifat)",

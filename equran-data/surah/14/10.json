@@ -148,6 +148,24 @@
     },
     {
       "index": 8,
+      "kata_arab": "ۖ",
+      "transliterasi": "waqf",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda jeda/istirahat",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda waqf (tanda baca) yang memisahkan dua bagian kalimat",
+        "irab_dan_logika": "tidak memiliki i‘rāb karena bukan kata"
+      },
+      "hikmah": "memberi jeda bagi pembaca untuk merenungkan makna sebelumnya sebelum melanjutkan ayat",
+      "role": "none"
+    },
+    {
+      "index": 9,
       "kata_arab": "يَدْعُوكُمْ",
       "transliterasi": "yadʿūkum",
       "jenis_kata": "Fiʿil",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "لِيَغْفِرَ",
       "transliterasi": "liyaghfira",
       "jenis_kata": "Fiʿil",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "مِّن",
       "transliterasi": "min",
       "jenis_kata": "Huruf",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "ذُنُوبِكُمْ",
       "transliterasi": "dhunūbikum",
       "jenis_kata": "Isim",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "وَيُؤَخِّرَكُمْ",
       "transliterasi": "wa yu’akhkhirakum",
       "jenis_kata": "Fi'il",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "إِلَىٰ",
       "transliterasi": "ilā",
       "jenis_kata": "Huruf",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "أَجَلٍۢ",
       "transliterasi": "ajalin",
       "jenis_kata": "Isim",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "مُّسَمًّۭى",
       "transliterasi": "musamman",
       "jenis_kata": "Isim",
@@ -291,7 +309,25 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
+      "kata_arab": "ۚ",
+      "transliterasi": "-",
+      "jenis_kata": "Huruf",
+      "arti": "tanda waqf (tanda baca)",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca di akhir ayat",
+        "irab_dan_logika": "tidak berirab, berfungsi sebagai pemisah atau jeda"
+      },
+      "hikmah": "menandakan akhir bagian kalimat, memberi jeda untuk menekankan apa yang dikatakan sebelumnya",
+      "role": "none"
+    },
+    {
+      "index": 18,
       "kata_arab": "قَالُوٓا۟",
       "transliterasi": "qālū",
       "jenis_kata": "Fi'il",
@@ -309,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 19,
       "kata_arab": "إِنْ",
       "transliterasi": "in",
       "jenis_kata": "Huruf",
@@ -327,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 20,
       "kata_arab": "أَنتُمْ",
       "transliterasi": "antum",
       "jenis_kata": "Isim",
@@ -345,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 21,
       "kata_arab": "إِلَّا",
       "transliterasi": "illā",
       "jenis_kata": "Huruf",
@@ -363,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 22,
       "kata_arab": "بَشَرٌۭ",
       "transliterasi": "basharun",
       "jenis_kata": "Isim",
@@ -381,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 23,
       "kata_arab": "مِّثْلُنَا",
       "transliterasi": "mithlu-nā",
       "jenis_kata": "Isim",
@@ -399,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 24,
       "kata_arab": "تُرِيدُونَ",
       "transliterasi": "turīdūna",
       "jenis_kata": "Fi'il",
@@ -417,7 +453,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 25,
       "kata_arab": "أَن",
       "transliterasi": "an",
       "jenis_kata": "Huruf",
@@ -435,7 +471,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 26,
       "kata_arab": "تَصُدُّونَا",
       "transliterasi": "taṣuddūnā",
       "jenis_kata": "Fi'il",
@@ -453,7 +489,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 27,
       "kata_arab": "عَمَّا",
       "transliterasi": "ʿammā",
       "jenis_kata": "Huruf",
@@ -471,7 +507,7 @@
       "role": "none"
     },
     {
-      "index": 26,
+      "index": 28,
       "kata_arab": "يَعْبُدُ",
       "transliterasi": "ya‘budu",
       "jenis_kata": "Fi‘il (kata kerja)",
@@ -489,7 +525,7 @@
       "role": "none"
     },
     {
-      "index": 27,
+      "index": 29,
       "kata_arab": "آبَاؤُنَا",
       "transliterasi": "ābāʾunā",
       "jenis_kata": "Isim (kata benda) jamak maskulin sahih dengan i‘rāb tanwin dan suffiks milik",
@@ -507,7 +543,7 @@
       "role": "none"
     },
     {
-      "index": 28,
+      "index": 30,
       "kata_arab": "فَأْتُونَا",
       "transliterasi": "fa‘ṭūnā",
       "jenis_kata": "Fi‘il (kata kerja) perintah (imperatif) jamak",
@@ -525,7 +561,7 @@
       "role": "none"
     },
     {
-      "index": 29,
+      "index": 31,
       "kata_arab": "بِسُلْطَانٍ",
       "transliterasi": "bisulṭānin",
       "jenis_kata": "Isim (kata benda) mudhaf (terdapat huruf jar)",
@@ -543,7 +579,7 @@
       "role": "none"
     },
     {
-      "index": 30,
+      "index": 32,
       "kata_arab": "مُّبِينٍ",
       "transliterasi": "mubīnin",
       "jenis_kata": "Isim (kata sifat) mudhaf",

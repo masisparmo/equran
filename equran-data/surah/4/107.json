@@ -112,6 +112,24 @@
     },
     {
       "index": 6,
+      "kata_arab": "ۚ",
+      "transliterasi": "waqf",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda jeda/istirahat",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca akhir ayat, memisahkan bagian kalimat",
+        "irab_dan_logika": "tidak memiliki i‘rāb, berfungsi sebagai pemisah"
+      },
+      "hikmah": "*Menandakan jeda* sehingga pembaca dapat berhenti sejenak dan merenungkan makna ayat sebelumnya.",
+      "role": "none"
+    },
+    {
+      "index": 7,
       "kata_arab": "إِنَّ",
       "transliterasi": "inna",
       "jenis_kata": "Huruf (particle)",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "ٱللَّهَ",
       "transliterasi": "Allāh",
       "jenis_kata": "Isim (nama khusus)",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "لَا",
       "transliterasi": "lā",
       "jenis_kata": "Huruf (negasi)",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "يُحِبُّ",
       "transliterasi": "yuḥibbu",
       "jenis_kata": "Fi‘il (verb)",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "مَن",
       "transliterasi": "man",
       "jenis_kata": "Isim (kata relatif)",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "كَانَ",
       "transliterasi": "kāna",
       "jenis_kata": "Fi'il",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "خَوَّانًا",
       "transliterasi": "khawwānan",
       "jenis_kata": "Isim (اسم فاعل)",

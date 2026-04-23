@@ -220,6 +220,24 @@
     },
     {
       "index": 12,
+      "kata_arab": "ۚ",
+      "transliterasi": "`waqf` (tanda berhenti)",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "*tanda jeda/berhenti*",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "*Penanda akhir ayat, tidak berirab*",
+        "irab_dan_logika": "*Tidak memiliki harakat karena berfungsi sebagai tanda baca*"
+      },
+      "hikmah": "*Memberi jeda bagi pembaca untuk merenungkan makna sebelumnya*",
+      "role": "none"
+    },
+    {
+      "index": 13,
       "kata_arab": "إِنَّ",
       "transliterasi": "`inna`",
       "jenis_kata": "Huruf (partikel)",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "ٱللَّهَ",
       "transliterasi": "`Allāh`",
       "jenis_kata": "Isim (nama Allah)",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "غَفُورٌۭ",
       "transliterasi": "`Ghafūrun`",
       "jenis_kata": "Isim sifat (sifat Allah)",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "رَّحِيمٌ",
       "transliterasi": "`Rahīmun`",
       "jenis_kata": "Isim sifat (sifat Allah)",

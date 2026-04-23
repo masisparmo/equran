@@ -76,6 +76,24 @@
     },
     {
       "index": 4,
+      "kata_arab": "ۖ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Huruf",
+      "arti": "tanda jeda",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "menandakan berhenti sejenak",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca yang memisahkan bagian kalimat",
+        "irab_dan_logika": "Tidak memiliki i‘raab, berfungsi sebagai waqf"
+      },
+      "hikmah": "Memberi jeda untuk menekankan makna sebelum melanjutkan",
+      "role": "none"
+    },
+    {
+      "index": 5,
       "kata_arab": "وَإِن",
       "transliterasi": "wa-in",
       "jenis_kata": "Huruf",
@@ -93,7 +111,7 @@
       "role": "none"
     },
     {
-      "index": 5,
+      "index": 6,
       "kata_arab": "تَغْفِرْ",
       "transliterasi": "taghfir",
       "jenis_kata": "Fi'il (imperatif)",
@@ -111,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 7,
       "kata_arab": "لَهُمْ",
       "transliterasi": "lahum",
       "jenis_kata": "Huruf jar (preposisi) + ضمير",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "فَإِنَّكَ",
       "transliterasi": "fa‑innaka",
       "jenis_kata": "Huruf *fa* (konjungsi) + *inna* (huruf takwid) + ضمير",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "أَنتَ",
       "transliterasi": "anta",
       "jenis_kata": "Isim (dhamir)",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "ٱلْعَزِيزُ",
       "transliterasi": "al-‘azīz",
       "jenis_kata": "Isim (isim sifat)",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "ٱلْحَكِيمُ",
       "transliterasi": "al-ḥakīm",
       "jenis_kata": "Isim (isim sifat)",

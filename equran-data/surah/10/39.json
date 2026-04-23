@@ -166,6 +166,24 @@
     },
     {
       "index": 9,
+      "kata_arab": "ۚ",
+      "transliterasi": "N/A",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "N/A",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf lazim (harus berhenti)",
+        "irab_dan_logika": "Bukan bagian dari tata bahasa Arab, melainkan tanda baca untuk memudahkan pembacaan Al-Qur'an."
+      },
+      "hikmah": "Menunjukkan tempat yang dianjurkan untuk berhenti membaca, membantu dalam pemahaman makna ayat dan memberikan jeda yang tepat untuk merenungkan kalimat sebelumnya.",
+      "role": "none"
+    },
+    {
+      "index": 10,
       "kata_arab": "كَذَٰلِكَ",
       "transliterasi": "kadhālika",
       "jenis_kata": "Isim",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "كَذَّبَ",
       "transliterasi": "kadhdhaba",
       "jenis_kata": "Fi'il",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "ٱلَّذِينَ",
       "transliterasi": "Alladhīna",
       "jenis_kata": "Isim",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "مِن",
       "transliterasi": "Min",
       "jenis_kata": "Huruf",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "قَبْلِهِمْ",
       "transliterasi": "Qablihim",
       "jenis_kata": "Isim",
@@ -255,7 +273,25 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
+      "kata_arab": "ۖ",
+      "transliterasi": "(Tanda Waqaf Laazim)",
+      "jenis_kata": "Tanda Baca",
+      "arti": "Tanda waqaf lazim (harus berhenti)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "Menunjukkan tempat berhenti yang wajib dalam bacaan Al-Qur'an untuk menjaga makna.",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf (bukan bagian dari struktur gramatikal kalimat).",
+        "irab_dan_logika": "N/A (tidak memiliki i'rab karena bukan kata)."
+      },
+      "hikmah": "Meskipun bukan kata, tanda waqaf ini sangat penting dalam pembacaan Al-Qur'an. Ia mengindikasikan bahwa pembaca *harus* berhenti di sini untuk memastikan pemahaman yang benar atas makna ayat, mencegah salah tafsir yang mungkin timbul jika terus disambung.",
+      "role": "none"
+    },
+    {
+      "index": 16,
       "kata_arab": "فَٱنظُرْ",
       "transliterasi": "Fanzur",
       "jenis_kata": "Fi'il",
@@ -273,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 17,
       "kata_arab": "كَيْفَ",
       "transliterasi": "Kayfa",
       "jenis_kata": "Isim",
@@ -291,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 18,
       "kata_arab": "كَانَ",
       "transliterasi": "kāna",
       "jenis_kata": "Fi'il",
@@ -309,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 19,
       "kata_arab": "عَٰقِبَةُ",
       "transliterasi": "`āqibatu",
       "jenis_kata": "Isim",
@@ -327,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 20,
       "kata_arab": "ٱلظَّٰلِمِينَ",
       "transliterasi": "aẓ-ẓālimīn",
       "jenis_kata": "Isim",

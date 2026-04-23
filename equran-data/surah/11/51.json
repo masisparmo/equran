@@ -94,6 +94,24 @@
     },
     {
       "index": 5,
+      "kata_arab": "ۖ",
+      "transliterasi": "waqf",
+      "jenis_kata": "Huruf (tanda وقف)",
+      "arti": "tanda jeda",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "علامة وقف لا إعراب لها",
+        "irab_dan_logika": "تُستعمل لتقسيم الآية وإعطاء وقفة"
+      },
+      "hikmah": "memberi jeda untuk menekankan makna ayat",
+      "role": "none"
+    },
+    {
+      "index": 6,
       "kata_arab": "إِنْ",
       "transliterasi": "in",
       "jenis_kata": "Huruf",
@@ -111,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 7,
       "kata_arab": "أَجْرٍ",
       "transliterasi": "ajrin",
       "jenis_kata": "Isim",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "أَفَلَا",
       "transliterasi": "Afalā",
       "jenis_kata": "Huruf (Gabungan dari Hamzah Istifham, Fa' Athaf, dan La Nafiyah)",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "تَعْقِلُونَ",
       "transliterasi": "Ta'qilūna",
       "jenis_kata": "Fi'il (Kata Kerja)",

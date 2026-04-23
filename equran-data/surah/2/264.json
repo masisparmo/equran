@@ -598,6 +598,24 @@
     },
     {
       "index": 33,
+      "kata_arab": "ۗ",
+      "transliterasi": "-",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "Tanda waqaf lazim (harus berhenti)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku.",
+        "makna_dasar": "Menandakan akhir dari sebuah kalimat atau bagian makna yang penting.",
+        "wazan_perubahan": "Tidak berlaku."
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf",
+        "irab_dan_logika": "Bukan bagian dari struktur nahwu kata, melainkan tanda baca untuk memudahkan pembacaan dan pemahaman makna. Waqaf lazim (mim kecil di atas) menunjukkan bahwa berhenti di sini adalah lebih utama."
+      },
+      "hikmah": "Tanda waqaf ini menandai selesainya satu bagian makna yang penting, yaitu perumpamaan tentang kesia-siaan amal orang-orang yang riya' dan kafir. Ini memberikan jeda untuk merenungkan konsekuensi dari perbuatan mereka sebelum melanjutkan ke pernyataan berikutnya tentang petunjuk Allah.",
+      "role": "none"
+    },
+    {
+      "index": 34,
       "kata_arab": "وَٱللَّهُ",
       "transliterasi": "Wa-Allahu",
       "jenis_kata": "Huruf (Waw) + Isim (Allah)",
@@ -615,7 +633,7 @@
       "role": "none"
     },
     {
-      "index": 34,
+      "index": 35,
       "kata_arab": "لَا",
       "transliterasi": "La",
       "jenis_kata": "Huruf",
@@ -633,7 +651,7 @@
       "role": "none"
     },
     {
-      "index": 35,
+      "index": 36,
       "kata_arab": "يَهْدِى",
       "transliterasi": "Yahdi",
       "jenis_kata": "Fi'il (kata kerja)",
@@ -651,7 +669,7 @@
       "role": "none"
     },
     {
-      "index": 36,
+      "index": 37,
       "kata_arab": "ٱلْقَوْمَ",
       "transliterasi": "Al-Qawma",
       "jenis_kata": "Isim (kata benda)",
@@ -669,7 +687,7 @@
       "role": "none"
     },
     {
-      "index": 37,
+      "index": 38,
       "kata_arab": "ٱلْكَٰفِرِينَ",
       "transliterasi": "Al-Kafirina",
       "jenis_kata": "Isim (kata benda)",

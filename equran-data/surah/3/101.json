@@ -166,6 +166,24 @@
     },
     {
       "index": 9,
+      "kata_arab": "ۗ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "Tanda Baca (Waqaf Lazim)",
+      "arti": "Berhenti sempurna (wajib berhenti)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku.",
+        "makna_dasar": "Tidak berlaku.",
+        "wazan_perubahan": "Tidak berlaku."
+      },
+      "nahwu": {
+        "kedudukan": "Tidak berlaku.",
+        "irab_dan_logika": "Tidak berlaku."
+      },
+      "hikmah": "Menandakan akhir dari satu bagian kalimat atau makna yang utuh, dan permulaan bagian baru. Dalam konteks ayat ini, menandai akhir dari pertanyaan retoris tentang kekafiran dan permulaan pernyataan tentang petunjuk.",
+      "role": "none"
+    },
+    {
+      "index": 10,
       "kata_arab": "وَمَن",
       "transliterasi": "wa man",
       "jenis_kata": "Huruf + Isim Syarat",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "يَعْتَصِم",
       "transliterasi": "ya'tashim",
       "jenis_kata": "Fi'il Mudhari'",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "بِٱللَّهِ",
       "transliterasi": "bi-llāhi",
       "jenis_kata": "Huruf dan Isim",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "فَقَدْ",
       "transliterasi": "fa-qad",
       "jenis_kata": "Huruf",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "هُدِىَ",
       "transliterasi": "hudīya",
       "jenis_kata": "Fi'il (Kata Kerja)",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "إِلَىٰ",
       "transliterasi": "ilā",
       "jenis_kata": "Huruf",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "صِرَٰطٍۢ",
       "transliterasi": "ṣirāṭin",
       "jenis_kata": "Isim (Kata Benda)",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "مُّسْتَقِيمٍۢ",
       "transliterasi": "mustaqīmin",
       "jenis_kata": "Isim (Kata Benda) - Isim Fa'il",

@@ -94,6 +94,24 @@
     },
     {
       "index": 5,
+      "kata_arab": "ۖ",
+      "transliterasi": "(tanda ayat)",
+      "jenis_kata": "Simbol (tanda baca)",
+      "arti": "-",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Tidak termasuk dalam nahwu, merupakan tanda baca ayat",
+        "irab_dan_logika": "-"
+      },
+      "hikmah": "menandai akhir ayat, memberi jeda dalam bacaan",
+      "role": "none"
+    },
+    {
+      "index": 6,
       "kata_arab": "وَخَرَقُوا۟",
       "transliterasi": "wa-kharaqū",
       "jenis_kata": "Fi'il",
@@ -111,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 7,
       "kata_arab": "لَهُۥ",
       "transliterasi": "lahu",
       "jenis_kata": "Huruf",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "بَنِينَ",
       "transliterasi": "banīna",
       "jenis_kata": "Isim",
@@ -147,7 +165,25 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda berhenti)",
+      "jenis_kata": "Huruf",
+      "arti": "tanda jeda/istirahat dalam bacaan",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca, bukan bagian sintaksis",
+        "irab_dan_logika": "tidak memiliki i‘rab karena bukan kata"
+      },
+      "hikmah": "menandakan jeda dalam bacaan, memberi kesempatan refleksi",
+      "role": "none"
+    },
+    {
+      "index": 10,
       "kata_arab": "سُبْحَٰنَهُۥ",
       "transliterasi": "subḥānahu",
       "jenis_kata": "Isim",
@@ -165,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 11,
       "kata_arab": "وَتَعَٰلَىٰ",
       "transliterasi": "wa ta‘ālā",
       "jenis_kata": "Isim",
@@ -183,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 12,
       "kata_arab": "عَمَّا",
       "transliterasi": "ʿammā",
       "jenis_kata": "Huruf",

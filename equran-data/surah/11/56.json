@@ -112,6 +112,24 @@
     },
     {
       "index": 6,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda berhenti/istirahat dalam bacaan",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Berada di akhir kata sebelumnya sebagai penanda waqf",
+        "irab_dan_logika": "Tidak memiliki i‘rab karena bukan kata, berfungsi sebagai isyarat jeda"
+      },
+      "hikmah": "*Menandakan berhentinya bacaan sejenak, memberi ruang bagi pendengar memahami makna sebelum melanjutkan*",
+      "role": "none"
+    },
+    {
+      "index": 7,
       "kata_arab": "مَّا",
       "transliterasi": "mā",
       "jenis_kata": "Huruf (partikel)",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "مِن",
       "transliterasi": "min",
       "jenis_kata": "Huruf (preposisi)",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "دَآبَّةٍ",
       "transliterasi": "dābbatin",
       "jenis_kata": "Isim (isim mufrod)",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "إِلَّا",
       "transliterasi": "illā",
       "jenis_kata": "Huruf (partikel)",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "هُوَ",
       "transliterasi": "huwa",
       "jenis_kata": "Isim (dhamir)",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "ءَاخِذٌۢ",
       "transliterasi": "ākhidhun",
       "jenis_kata": "Isim (masdar)",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "بِنَاصِيَتِهَآ",
       "transliterasi": "bi-nāṣiyati-hā",
       "jenis_kata": "Isim (isim majrur)",
@@ -237,7 +255,25 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
+      "kata_arab": "ۚ",
+      "transliterasi": "—",
+      "jenis_kata": "Huruf (tanda waqf)",
+      "arti": "tanda jeda",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "simbol waqf (tanda baca) yang memisahkan bagian ayat",
+        "irab_dan_logika": "tidak memiliki i‘rāb karena bukan kata"
+      },
+      "hikmah": "*Memberi jeda bagi pembaca untuk merenungkan makna sebelumnya sebelum melanjutkan.*",
+      "role": "none"
+    },
+    {
+      "index": 15,
       "kata_arab": "إِنَّ",
       "transliterasi": "inna",
       "jenis_kata": "Huruf (harf istifham)",
@@ -255,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 16,
       "kata_arab": "رَبِّى",
       "transliterasi": "rabbi",
       "jenis_kata": "Isim (isim mudhaf)",
@@ -273,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 17,
       "kata_arab": "عَلَىٰ",
       "transliterasi": "ʿalā",
       "jenis_kata": "Huruf (harf jar)",
@@ -291,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 18,
       "kata_arab": "صِرَٰطٍۢ",
       "transliterasi": "ṣirāṭ",
       "jenis_kata": "Isim",
@@ -309,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 19,
       "kata_arab": "مُّسْتَقِيمٍۢ",
       "transliterasi": "mustaqīm",
       "jenis_kata": "Isim",

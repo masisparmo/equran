@@ -94,6 +94,24 @@
     },
     {
       "index": 5,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf",
+      "arti": "tanda baca (tanda berhenti)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "simbol/penanda akhir ayat",
+        "irab_dan_logika": "tidak berharakat, berfungsi sebagai pemisah ayat"
+      },
+      "hikmah": "*Menandai jeda* untuk memberi ruang memikirkan makna ayat sebelumnya.",
+      "role": "none"
+    },
+    {
+      "index": 6,
       "kata_arab": "وَكَذَٰلِكَ",
       "transliterasi": "wa‑kadhālika",
       "jenis_kata": "Huruf",
@@ -111,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 7,
       "kata_arab": "نَجْزِى",
       "transliterasi": "najzī",
       "jenis_kata": "Fi'il",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "ٱلْمُحْسِنِينَ",
       "transliterasi": "al‑muhsinīn",
       "jenis_kata": "Isim",

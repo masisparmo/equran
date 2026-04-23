@@ -112,6 +112,24 @@
     },
     {
       "index": 6,
+      "kata_arab": "ۖ",
+      "transliterasi": "waqf",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda jeda pendek",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "penanda jeda antara kata-kata",
+        "irab_dan_logika": "tidak berharakat, berfungsi memisahkan bagian kalimat"
+      },
+      "hikmah": "menunjukkan jeda napas dalam bacaan, memberi ruang bagi pendengar memahami makna sebelumnya",
+      "role": "none"
+    },
+    {
+      "index": 7,
       "kata_arab": "قَالَ",
       "transliterasi": "qāla",
       "jenis_kata": "Fi'il",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "هَٰذَا",
       "transliterasi": "hādhā",
       "jenis_kata": "Isim (isim isyarah)",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "رَبِّى",
       "transliterasi": "rabbi",
       "jenis_kata": "Isim",
@@ -165,7 +183,25 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
+      "kata_arab": "ۖ",
+      "transliterasi": "waqf",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda jeda pendek",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "penanda jeda antara frasa",
+        "irab_dan_logika": "tidak berharakat, berfungsi memisahkan bagian kalimat"
+      },
+      "hikmah": "menandai perhentian singkat, memberi ruang bagi pendengar memproses makna sebelumnya",
+      "role": "none"
+    },
+    {
+      "index": 11,
       "kata_arab": "فَلَمَّآ",
       "transliterasi": "fa-lammā",
       "jenis_kata": "Huruf (fa + lamma)",
@@ -183,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 12,
       "kata_arab": "أَفَلَ",
       "transliterasi": "afala",
       "jenis_kata": "Huruf",
@@ -201,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 13,
       "kata_arab": "قَالَ",
       "transliterasi": "qaala",
       "jenis_kata": "Fi'il",
@@ -219,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 14,
       "kata_arab": "لَآ",
       "transliterasi": "laa",
       "jenis_kata": "Huruf",
@@ -237,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 15,
       "kata_arab": "أُحِبُّ",
       "transliterasi": "uhibbu",
       "jenis_kata": "Fi'il",
@@ -255,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 16,
       "kata_arab": "ٱلْءَافِلِينَ",
       "transliterasi": "al-aafiliin",
       "jenis_kata": "Isim",

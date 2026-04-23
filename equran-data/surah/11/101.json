@@ -94,6 +94,24 @@
     },
     {
       "index": 5,
+      "kata_arab": "ۖ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Huruf",
+      "arti": "**tanda jeda/waqf**",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca (waqf) yang memisahkan bagian ayat",
+        "irab_dan_logika": "Tidak berharakat, berfungsi sebagai pemisah"
+      },
+      "hikmah": "Memberi jeda untuk menekankan makna sebelumnya sebelum melanjutkan ayat.",
+      "role": "none"
+    },
+    {
+      "index": 6,
       "kata_arab": "فَمَآ",
       "transliterasi": "fa-mā",
       "jenis_kata": "Huruf (fa) + Isim (mā)",
@@ -111,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 7,
       "kata_arab": "أَغْنَتْ",
       "transliterasi": "aghnaṭ",
       "jenis_kata": "Fi'il (verb)",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "مِن",
       "transliterasi": "min",
       "jenis_kata": "Huruf (preposisi)",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "دُونِ",
       "transliterasi": "dūni",
       "jenis_kata": "Isim",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "ٱللَّهِ",
       "transliterasi": "Allāhi",
       "jenis_kata": "Isim (nama Allah)",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "مِن",
       "transliterasi": "min",
       "jenis_kata": "Huruf (preposisi)",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "شَىْءٍۢ",
       "transliterasi": "shai'in",
       "jenis_kata": "Isim",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "لَّمَّا",
       "transliterasi": "lamma",
       "jenis_kata": "Huruf (kata sambung waktu)",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "جَآءَ",
       "transliterasi": "jaa'a",
       "jenis_kata": "Fi'il",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "أَمْرُ",
       "transliterasi": "amru",
       "jenis_kata": "Isim",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "رَبِّكَ",
       "transliterasi": "rabbika",
       "jenis_kata": "Isim",
@@ -291,7 +309,25 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
+      "kata_arab": "ۖ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Huruf",
+      "arti": "tanda koma/waqf",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca",
+        "irab_dan_logika": "tidak berirab, berfungsi memisahkan bagian kalimat"
+      },
+      "hikmah": "*Memberi jeda bagi pembaca untuk menelaah makna sebelumnya sebelum melanjutkan ke bagian selanjutnya.*",
+      "role": "none"
+    },
+    {
+      "index": 18,
       "kata_arab": "وَمَا",
       "transliterasi": "wamaa",
       "jenis_kata": "Huruf",
@@ -309,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 19,
       "kata_arab": "زَادُوهُمْ",
       "transliterasi": "zaadoo-hum",
       "jenis_kata": "Fi'il",
@@ -327,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 20,
       "kata_arab": "غَيْرَ",
       "transliterasi": "ghayra",
       "jenis_kata": "Huruf (istisna')",
@@ -345,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 21,
       "kata_arab": "تَتْبِيبٍۢ",
       "transliterasi": "tatbībin",
       "jenis_kata": "Isim (masdar)",

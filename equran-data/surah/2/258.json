@@ -418,6 +418,24 @@
     },
     {
       "index": 23,
+      "kata_arab": "ۖ",
+      "transliterasi": "(tanda waqaf lazim)",
+      "jenis_kata": "Huruf",
+      "arti": "Tanda waqaf lazim (harus berhenti)",
+      "sharaf": {
+        "akar_kata": "(Tidak berlaku)",
+        "makna_dasar": "Menunjukkan tempat berhenti yang dianjurkan dalam bacaan Al-Qur'an.",
+        "wazan_perubahan": "(Tidak berlaku)"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf.",
+        "irab_dan_logika": "(Tidak berlaku untuk tanda baca)"
+      },
+      "hikmah": "Tanda waqaf ini menandai akhir dari satu bagian makna atau ide, memberikan kesempatan bagi pembaca untuk memahami sepenuhnya pernyataan sebelumnya sebelum melanjutkan ke bagian berikutnya. Dalam konteks ini, menandai akhir dari klaim raja dan awal dari tanggapan Ibrahim yang mematahkan argumennya.",
+      "role": "none"
+    },
+    {
+      "index": 24,
       "kata_arab": "قَالَ",
       "transliterasi": "Qāla",
       "jenis_kata": "Fi'il",
@@ -435,7 +453,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 25,
       "kata_arab": "إِبْرَٰهِۦمُ",
       "transliterasi": "Ibrāhīmu",
       "jenis_kata": "Isim",
@@ -453,7 +471,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 26,
       "kata_arab": "فَإِنَّ",
       "transliterasi": "Fa-inna",
       "jenis_kata": "Huruf",
@@ -471,7 +489,7 @@
       "role": "none"
     },
     {
-      "index": 26,
+      "index": 27,
       "kata_arab": "ٱللَّهَ",
       "transliterasi": "Allāha",
       "jenis_kata": "Isim",
@@ -489,7 +507,7 @@
       "role": "none"
     },
     {
-      "index": 27,
+      "index": 28,
       "kata_arab": "يَأْتِى",
       "transliterasi": "Ya'tī",
       "jenis_kata": "Fi'il",
@@ -507,7 +525,7 @@
       "role": "none"
     },
     {
-      "index": 28,
+      "index": 29,
       "kata_arab": "بِٱلشَّمْسِ",
       "transliterasi": "Bi-sh-shamsi",
       "jenis_kata": "Isim",
@@ -525,7 +543,7 @@
       "role": "none"
     },
     {
-      "index": 29,
+      "index": 30,
       "kata_arab": "مِنَ",
       "transliterasi": "mina",
       "jenis_kata": "Huruf",
@@ -543,7 +561,7 @@
       "role": "none"
     },
     {
-      "index": 30,
+      "index": 31,
       "kata_arab": "ٱلْمَشْرِقِ",
       "transliterasi": "al-mashriqi",
       "jenis_kata": "Isim",
@@ -561,7 +579,7 @@
       "role": "none"
     },
     {
-      "index": 31,
+      "index": 32,
       "kata_arab": "فَأْتِ",
       "transliterasi": "fa'ti",
       "jenis_kata": "Fi'il",
@@ -579,7 +597,7 @@
       "role": "none"
     },
     {
-      "index": 32,
+      "index": 33,
       "kata_arab": "بِهَا",
       "transliterasi": "biha",
       "jenis_kata": "Huruf + Dhamir",
@@ -597,7 +615,7 @@
       "role": "none"
     },
     {
-      "index": 33,
+      "index": 34,
       "kata_arab": "مِنَ",
       "transliterasi": "mina",
       "jenis_kata": "Huruf",
@@ -615,7 +633,7 @@
       "role": "none"
     },
     {
-      "index": 34,
+      "index": 35,
       "kata_arab": "ٱلْمَغْرِبِ",
       "transliterasi": "al-maghribi",
       "jenis_kata": "Isim",
@@ -633,7 +651,7 @@
       "role": "none"
     },
     {
-      "index": 35,
+      "index": 36,
       "kata_arab": "فَبُهِتَ",
       "transliterasi": "fa-buhita",
       "jenis_kata": "Fi'il",
@@ -651,7 +669,7 @@
       "role": "none"
     },
     {
-      "index": 36,
+      "index": 37,
       "kata_arab": "ٱلَّذِى",
       "transliterasi": "alladzī",
       "jenis_kata": "Isim Maushul",
@@ -669,7 +687,7 @@
       "role": "none"
     },
     {
-      "index": 37,
+      "index": 38,
       "kata_arab": "كَفَرَ",
       "transliterasi": "kafara",
       "jenis_kata": "Fi'il",
@@ -687,7 +705,25 @@
       "role": "none"
     },
     {
-      "index": 38,
+      "index": 39,
+      "kata_arab": "ۗ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "Tanda Baca",
+      "arti": "(tanda waqaf jaiz kafi - boleh berhenti, lebih baik berhenti)",
+      "sharaf": {
+        "akar_kata": "N/A (bukan kata)",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "N/A (bukan kata)",
+        "irab_dan_logika": "N/A"
+      },
+      "hikmah": "Tanda waqaf ini menandakan akhir dari satu bagian makna yang penting dalam ayat, yaitu tentang kekalahan orang kafir dalam perdebatan dengan Ibrahim AS. Ini memberikan jeda sebelum bagian ayat selanjutnya yang membahas tentang petunjuk Allah.",
+      "role": "none"
+    },
+    {
+      "index": 40,
       "kata_arab": "وَٱللَّهُ",
       "transliterasi": "wallāhu",
       "jenis_kata": "Isim",
@@ -705,7 +741,7 @@
       "role": "none"
     },
     {
-      "index": 39,
+      "index": 41,
       "kata_arab": "لَا",
       "transliterasi": "lā",
       "jenis_kata": "Huruf",
@@ -723,7 +759,7 @@
       "role": "none"
     },
     {
-      "index": 40,
+      "index": 42,
       "kata_arab": "يَهْدِى",
       "transliterasi": "Yahdi",
       "jenis_kata": "Fi'il",
@@ -741,7 +777,7 @@
       "role": "none"
     },
     {
-      "index": 41,
+      "index": 43,
       "kata_arab": "ٱلْقَوْمَ",
       "transliterasi": "Al-Qawma",
       "jenis_kata": "Isim",
@@ -759,7 +795,7 @@
       "role": "none"
     },
     {
-      "index": 42,
+      "index": 44,
       "kata_arab": "ٱلظَّٰلِمِينَ",
       "transliterasi": "Azh-Zhalimin",
       "jenis_kata": "Isim",

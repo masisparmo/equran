@@ -112,6 +112,24 @@
     },
     {
       "index": 6,
+      "kata_arab": "ۖ",
+      "transliterasi": "",
+      "jenis_kata": "Tanda baca",
+      "arti": "tanda koma/istirahat",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Penanda jeda antar ayat, tidak termasuk dalam sintaks kalimat",
+        "irab_dan_logika": "Tidak memiliki i‘rab karena bukan kata"
+      },
+      "hikmah": "Menandakan jeda, memberi ruang bagi pembaca untuk berhenti sejenak",
+      "role": "none"
+    },
+    {
+      "index": 7,
       "kata_arab": "وَمَن",
       "transliterasi": "wa‑man",
       "jenis_kata": "Isim (nama) dengan huruf wa",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "جَاءَ",
       "transliterasi": "ja'a",
       "jenis_kata": "Fi'il",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "بِٱلسَّيِّئَةِ",
       "transliterasi": "bi‑s‑sayi‘ati",
       "jenis_kata": "Huruf jar + Isim",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "فَلَا",
       "transliterasi": "fa‑la",
       "jenis_kata": "Huruf (fa) + Huruf (la)",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "إِلَّا",
       "transliterasi": "illa",
       "jenis_kata": "Huruf (harf istisna)",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "مِثْلَهَا",
       "transliterasi": "mithluha",
       "jenis_kata": "Isim (isim al‑mithl)",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "وَهُمْ",
       "transliterasi": "wahum",
       "jenis_kata": "Isim (ضمير متصل) dengan huruf عطف",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "لَا",
       "transliterasi": "la",
       "jenis_kata": "Huruf (nafi)",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "يُظْلَمُونَ",
       "transliterasi": "yuzlamuna",
       "jenis_kata": "Fi'il (verb)",

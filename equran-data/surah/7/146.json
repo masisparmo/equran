@@ -508,6 +508,24 @@
     },
     {
       "index": 28,
+      "kata_arab": "ۚ",
+      "transliterasi": "`(tanda waqf)`",
+      "jenis_kata": "`Huruf (tanda baca)`",
+      "arti": "`tanda berhenti (pause) pada akhir ayat`",
+      "sharaf": {
+        "akar_kata": "`-`",
+        "makna_dasar": "`-`",
+        "wazan_perubahan": "`-`"
+      },
+      "nahwu": {
+        "kedudukan": "`penanda akhir ayat, tidak termasuk dalam sintaksis`",
+        "irab_dan_logika": "`Tidak berirab karena merupakan tanda baca`"
+      },
+      "hikmah": "`Menandai selesai‑nya pernyataan, memberi ruang bagi pembaca merenungkan makna ayat`",
+      "role": "none"
+    },
+    {
+      "index": 29,
       "kata_arab": "ذَٰلِكَ",
       "transliterasi": "dhālika",
       "jenis_kata": "Huruf (isim ishārah)",
@@ -525,7 +543,7 @@
       "role": "none"
     },
     {
-      "index": 29,
+      "index": 30,
       "kata_arab": "بِأَنَّهُمْ",
       "transliterasi": "bi-anna-hum",
       "jenis_kata": "Huruf (حرف جر + حرف توكيد)",
@@ -543,7 +561,7 @@
       "role": "none"
     },
     {
-      "index": 30,
+      "index": 31,
       "kata_arab": "كَذَّبُوا۟",
       "transliterasi": "kadhabū",
       "jenis_kata": "Fi'il (verb madhi)",
@@ -561,7 +579,7 @@
       "role": "none"
     },
     {
-      "index": 31,
+      "index": 32,
       "kata_arab": "بِـَٔايَٰتِنَا",
       "transliterasi": "bi-āyātinā",
       "jenis_kata": "Huruf (حرف جر) + Isim",
@@ -579,7 +597,7 @@
       "role": "none"
     },
     {
-      "index": 32,
+      "index": 33,
       "kata_arab": "وَكَانُوا۟",
       "transliterasi": "wa-kānū",
       "jenis_kata": "Fi'il (verb madhi)",
@@ -597,7 +615,7 @@
       "role": "none"
     },
     {
-      "index": 33,
+      "index": 34,
       "kata_arab": "عَنْهَا",
       "transliterasi": "ʿanha",
       "jenis_kata": "Huruf (حرف جر)",
@@ -615,7 +633,7 @@
       "role": "none"
     },
     {
-      "index": 34,
+      "index": 35,
       "kata_arab": "غَٰفِلِينَ",
       "transliterasi": "ghāfilīna",
       "jenis_kata": "Isim",

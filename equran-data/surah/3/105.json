@@ -184,6 +184,24 @@
     },
     {
       "index": 10,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "Tanda baca Al-Qur'an",
+      "arti": "(tanda waqaf lazim/wajib berhenti)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf lazim",
+        "irab_dan_logika": "Bukan bagian dari struktur gramatikal bahasa Arab. Ini adalah tanda baca yang menunjukkan tempat berhenti yang dianjurkan atau wajib dalam bacaan Al-Qur'an untuk memahami makna kalimat sebelumnya secara utuh."
+      },
+      "hikmah": "Menandakan jeda penting dalam bacaan untuk memahami makna kalimat sebelumnya secara utuh, sebelum melanjutkan ke kalimat berikutnya yang menjelaskan konsekuensi dari perbuatan tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 11,
       "kata_arab": "وَأُو۟لَٰٓئِكَ",
       "transliterasi": "wa ulā'ika",
       "jenis_kata": "Huruf dan Isim Isyarah",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "لَهُمْ",
       "transliterasi": "lahum",
       "jenis_kata": "Huruf (preposisi) + Dhamir (kata ganti)",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "عَذَابٌ",
       "transliterasi": "adhābun",
       "jenis_kata": "Isim (kata benda)",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "عَظِيمٌۭ",
       "transliterasi": "azhīmun",
       "jenis_kata": "Isim (kata sifat/adjektiva)",

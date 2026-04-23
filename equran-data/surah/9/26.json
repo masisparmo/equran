@@ -274,6 +274,24 @@
     },
     {
       "index": 15,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda jeda",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "penanda akhir kalimat (waqf)",
+        "irab_dan_logika": "tidak berirab, berfungsi memisahkan dua bagian ayat"
+      },
+      "hikmah": "Memberi jeda untuk menekankan perbedaan antara hukuman dan penjelasan selanjutnya.",
+      "role": "none"
+    },
+    {
+      "index": 16,
       "kata_arab": "وَذَٰلِكَ",
       "transliterasi": "wa dhālika",
       "jenis_kata": "Huruf (wa) + Isim (dhālika)",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "جَزَآءُ",
       "transliterasi": "jazā’u",
       "jenis_kata": "Isim (isim mufrad)",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "ٱلْكَٰفِرِينَ",
       "transliterasi": "al‑kāfirīna",
       "jenis_kata": "Isim (nama)",

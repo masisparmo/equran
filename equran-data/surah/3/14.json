@@ -292,6 +292,24 @@
     },
     {
       "index": 16,
+      "kata_arab": "ۗ",
+      "transliterasi": "N/A",
+      "jenis_kata": "Huruf",
+      "arti": "(tanda waqaf lazim/mutlak)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf (berhenti)",
+        "irab_dan_logika": "N/A"
+      },
+      "hikmah": "Tanda waqaf lazim (mutlak) ini menunjukkan bahwa pembaca *harus* berhenti di sini. Ini menandakan akhir dari satu rangkaian penjelasan tentang objek-objek kecintaan duniawi yang telah disebutkan, dan akan dilanjutkan dengan pernyataan baru yang memberikan kesimpulan atau hikmah.",
+      "role": "none"
+    },
+    {
+      "index": 17,
       "kata_arab": "ذَٰلِكَ",
       "transliterasi": "dzalika",
       "jenis_kata": "Isim Isyarah",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "مَتَٰعُ",
       "transliterasi": "matāʿu",
       "jenis_kata": "Isim",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 19,
       "kata_arab": "ٱلْحَيَوٰةِ",
       "transliterasi": "al-ḥayāh",
       "jenis_kata": "Isim",
@@ -345,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 20,
       "kata_arab": "ٱلدُّنْيَا",
       "transliterasi": "ad-dunyā",
       "jenis_kata": "Isim",
@@ -363,7 +381,25 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 21,
+      "kata_arab": "ۖ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "Huruf",
+      "arti": "tanda waqaf lazim (berhenti lebih utama)",
+      "sharaf": {
+        "akar_kata": "Tidak ada",
+        "makna_dasar": "Tidak ada",
+        "wazan_perubahan": "Tidak ada"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf",
+        "irab_dan_logika": "Tidak memiliki *i'rab* karena bukan kata."
+      },
+      "hikmah": "Menunjukkan tempat berhenti yang dianjurkan dalam bacaan Al-Qur'an untuk memahami makna ayat dengan lebih baik, memisahkan satu gagasan dari gagasan berikutnya.",
+      "role": "none"
+    },
+    {
+      "index": 22,
       "kata_arab": "وَٱللَّهُ",
       "transliterasi": "wa-Allāhu",
       "jenis_kata": "Huruf + Isim",
@@ -381,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 23,
       "kata_arab": "عِندَهُۥ",
       "transliterasi": "ʿindahū",
       "jenis_kata": "Isim (kata keterangan tempat) + Dhomir (kata ganti)",
@@ -399,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 24,
       "kata_arab": "حُسْنُ",
       "transliterasi": "ḥusnu",
       "jenis_kata": "Isim (Kata Benda)",
@@ -417,7 +453,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 25,
       "kata_arab": "ٱلْمَـَٔابِ",
       "transliterasi": "al-ma'āb",
       "jenis_kata": "Isim (Kata Benda)",

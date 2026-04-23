@@ -310,6 +310,24 @@
     },
     {
       "index": 17,
+      "kata_arab": "ۘ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf (tanda waqf)",
+      "arti": "tanda jeda",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda waqf di akhir ayat",
+        "irab_dan_logika": "menandakan berhenti, tidak berharakat"
+      },
+      "hikmah": "Menunjukkan jeda, memberi ruang bagi pendengar untuk merenung",
+      "role": "none"
+    },
+    {
+      "index": 18,
       "kata_arab": "تشَاّبَهُتِ",
       "transliterasi": "tashábbahat",
       "jenis_kata": "Fi'il (verb)",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 19,
       "kata_arab": "قُلُوبُهُم",
       "transliterasi": "qulūbuhum",
       "jenis_kata": "Isim (noun)",
@@ -345,7 +363,25 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 20,
+      "kata_arab": "ۗ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf (tanda waqf)",
+      "arti": "tanda jeda",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda waqf setelah kata \"قُلُوبُهُمْ\"",
+        "irab_dan_logika": "menandakan berhenti sejenak, tidak berharakat"
+      },
+      "hikmah": "Memberi kesempatan bagi pendengar merenungkan keadaan hati yang serupa",
+      "role": "none"
+    },
+    {
+      "index": 21,
       "kata_arab": "قد",
       "transliterasi": "qad",
       "jenis_kata": "Huruf (partikel)",
@@ -363,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 22,
       "kata_arab": "بَيْىنَا",
       "transliterasi": "bayyanna",
       "jenis_kata": "Fi'il (verb)",
@@ -381,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 23,
       "kata_arab": "ٱلْءَايَٰتِ",
       "transliterasi": "al-āyāt",
       "jenis_kata": "**Isim** (kata benda)",
@@ -399,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 24,
       "kata_arab": "لِقَوْمٍۢ",
       "transliterasi": "li-qaumin",
       "jenis_kata": "**Huruf** (لِ - li) + **Isim** (قَوْمٍ)",
@@ -417,7 +453,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 25,
       "kata_arab": "يُوقِنُونَ",
       "transliterasi": "yūqinūna",
       "jenis_kata": "**Fi'il** (kata kerja)",

@@ -292,6 +292,24 @@
     },
     {
       "index": 16,
+      "kata_arab": "ۖ",
+      "transliterasi": "waqf",
+      "jenis_kata": "Huruf (tanda waqf)",
+      "arti": "koma, jeda",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqf yang memisahkan bagian kalimat",
+        "irab_dan_logika": "Tidak berirab, berfungsi sebagai pemisah"
+      },
+      "hikmah": "Memberi jeda untuk menekankan pernyataan sebelumnya",
+      "role": "none"
+    },
+    {
+      "index": 17,
       "kata_arab": "إِنَّكَ",
       "transliterasi": "innaka",
       "jenis_kata": "Huruf (harf takid) + ضمير",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "لَأَنتَ",
       "transliterasi": "la anta",
       "jenis_kata": "Huruf",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 19,
       "kata_arab": "الْحَلِيمُ",
       "transliterasi": "al‑ḥalīmu",
       "jenis_kata": "Isim",
@@ -345,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 20,
       "kata_arab": "الرَّشِيدُ",
       "transliterasi": "ar‑rasīdu",
       "jenis_kata": "Isim",

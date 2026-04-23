@@ -328,6 +328,24 @@
     },
     {
       "index": 18,
+      "kata_arab": "ۗ",
+      "transliterasi": "-",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "Tanda waqaf lazim (harus berhenti)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "N/A",
+        "irab_dan_logika": "N/A"
+      },
+      "hikmah": "Tanda waqaf lazim (wajib berhenti) ini menunjukkan bahwa **makna kalimat sebelumnya sudah sempurna dan tidak boleh disambung langsung dengan kalimat berikutnya**. Ini membantu pembaca memahami pembagian makna dalam ayat dan memberikan penekanan pada kontras antara orang beriman dan orang kafir.",
+      "role": "none"
+    },
+    {
+      "index": 19,
       "kata_arab": "أُو۟لَٰٓئِكَ",
       "transliterasi": "ulā'ika",
       "jenis_kata": "Isim Isyarah",
@@ -345,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 20,
       "kata_arab": "أَصْحَٰبُ",
       "transliterasi": "aṣḥābu",
       "jenis_kata": "Isim",
@@ -363,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 21,
       "kata_arab": "ٱلنَّارِ",
       "transliterasi": "an-nār",
       "jenis_kata": "Isim",
@@ -381,7 +399,25 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 22,
+      "kata_arab": "ۖ",
+      "transliterasi": "-",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "Tanda waqaf jaiz (boleh berhenti, boleh lanjut)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "N/A",
+        "irab_dan_logika": "N/A"
+      },
+      "hikmah": "Tanda waqaf jaiz (boleh berhenti atau melanjutkan) ini menunjukkan bahwa **berhenti di sini diperbolehkan, namun melanjutkan bacaan juga tidak mengubah makna secara signifikan**. Dalam konteks ini, ia menandai akhir dari satu bagian pernyataan tentang penghuni neraka, sebelum melanjutkan dengan penegasan kekekalan mereka di dalamnya.",
+      "role": "none"
+    },
+    {
+      "index": 23,
       "kata_arab": "هُمْ",
       "transliterasi": "hum",
       "jenis_kata": "Isim (Dhamir)",
@@ -399,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 24,
       "kata_arab": "فِيهَا",
       "transliterasi": "fīhā",
       "jenis_kata": "Huruf (preposisi) + Isim (Dhamir)",
@@ -417,7 +453,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 25,
       "kata_arab": "خَٰلِدُونَ",
       "transliterasi": "khālidūn",
       "jenis_kata": "Isim (Isim Fa'il)",

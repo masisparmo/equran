@@ -202,6 +202,24 @@
     },
     {
       "index": 11,
+      "kata_arab": "ۗ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "Tanda Baca",
+      "arti": "Tanda waqaf lazim (harus berhenti)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "N/A",
+        "irab_dan_logika": "N/A"
+      },
+      "hikmah": "Tanda waqaf lazim ini menunjukkan bahwa pada titik ini, makna kalimat telah sempurna dan pembaca dianjurkan untuk berhenti sejenak sebelum melanjutkan, untuk memastikan pemahaman yang utuh terhadap ayat tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 12,
       "kata_arab": "وَٱللَّهُ",
       "transliterasi": "Wa Allāhu",
       "jenis_kata": "Huruf (Waw) + Isim (Allah)",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "سَمِيعٌ",
       "transliterasi": "Samī'un",
       "jenis_kata": "Isim (Sifat Allah)",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "عَلِيمٌۭ",
       "transliterasi": "Alīmun",
       "jenis_kata": "Isim (Sifat Allah)",

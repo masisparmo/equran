@@ -274,6 +274,24 @@
     },
     {
       "index": 15,
+      "kata_arab": "ۖ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "Huruf",
+      "arti": "Tanda waqaf lazim (berhenti lebih utama).",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Bukan bagian dari struktur gramatikal kalimat, melainkan tanda baca.",
+        "irab_dan_logika": "N/A"
+      },
+      "hikmah": "Tanda waqaf ini menunjukkan tempat yang baik untuk berhenti membaca, memberikan jeda sebelum melanjutkan ke bagian berikutnya yang menjelaskan alasan mengapa harus memerangi sekutu setan, yaitu karena tipu daya setan itu lemah.",
+      "role": "none"
+    },
+    {
+      "index": 16,
       "kata_arab": "إِنَّ",
       "transliterasi": "Inna",
       "jenis_kata": "Huruf",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "كَيْدَ",
       "transliterasi": "kayda",
       "jenis_kata": "Isim",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "ٱلشَّيْطَٰنِ",
       "transliterasi": "ash-shayṭāni",
       "jenis_kata": "Isim",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 19,
       "kata_arab": "كَانَ",
       "transliterasi": "kāna",
       "jenis_kata": "Fi'il Madhi Naqish",
@@ -345,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 20,
       "kata_arab": "ضَعِيفًا",
       "transliterasi": "ḍa'īfan",
       "jenis_kata": "Isim / Sifat Musyabbahah",

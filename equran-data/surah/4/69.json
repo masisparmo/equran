@@ -274,6 +274,24 @@
     },
     {
       "index": 15,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqaf lazim)",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "Tanda waqaf lazim (harus berhenti)",
+      "sharaf": {
+        "akar_kata": "Tidak ada (ini tanda baca)",
+        "makna_dasar": "Tidak ada (ini tanda baca)",
+        "wazan_perubahan": "Tidak ada (ini tanda baca)"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf (berhenti) dalam Al-Qur'an.",
+        "irab_dan_logika": "Tidak memiliki *i'rab* karena bukan bagian dari struktur kalimat. Menunjukkan tempat berhenti yang dianjurkan untuk memahami makna."
+      },
+      "hikmah": "Tanda `waqaf lazim` (wajib berhenti) ini menunjukkan bahwa kalimat sebelumnya telah sempurna maknanya, yaitu daftar golongan orang-orang yang dianugerahi nikmat oleh Allah. Berhenti di sini membantu pembaca memahami pengelompokan tersebut sebelum melanjutkan ke bagian selanjutnya yang merupakan pujian atas mereka.",
+      "role": "none"
+    },
+    {
+      "index": 16,
       "kata_arab": "وَحَسُنَ",
       "transliterasi": "wa ḥasuna",
       "jenis_kata": "Fi'il (kata kerja)",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "أُو۟لَٰٓئِكَ",
       "transliterasi": "ulā'ika",
       "jenis_kata": "Isim Isyarah (kata tunjuk)",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "رَفِيقًۭا",
       "transliterasi": "rafīqan",
       "jenis_kata": "Isim (Kata Benda)",

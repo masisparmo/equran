@@ -166,6 +166,24 @@
     },
     {
       "index": 9,
+      "kata_arab": "ۚ",
+      "transliterasi": "Tidak ada transliterasi (simbol)",
+      "jenis_kata": "Tanda Waqaf (Punctuation Mark)",
+      "arti": "Tidak ada arti harfiah (simbol)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Menunjukkan tempat berhenti yang dianjurkan (waqaf ja'iz), boleh berhenti atau melanjutkan bacaan.",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca dalam mushaf Al-Qur'an.",
+        "irab_dan_logika": "Tidak memiliki kedudukan i'rab karena bukan bagian dari struktur gramatikal kalimat. Fungsinya adalah sebagai panduan tajwid."
+      },
+      "hikmah": "Tanda ini berfungsi sebagai panduan bagi pembaca Al-Qur'an untuk mengatur nafas dan memahami jeda makna. Di sini, ia menandai selesainya satu bagian doa Nabi Yusuf AS sebelum beralih ke bagian berikutnya yang memuji Allah sebagai Pencipta, memberikan jeda untuk merenungkan anugerah sebelumnya.",
+      "role": "none"
+    },
+    {
+      "index": 10,
       "kata_arab": "فَاطِرَ",
       "transliterasi": "fāṭira",
       "jenis_kata": "Isim (Isim Fa'il)",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "ٱلسَّمَٰوَٰتِ",
       "transliterasi": "as-samāwāti",
       "jenis_kata": "Isim (Jamak Muannats Salim)",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "وَٱلْأَرْضِ",
       "transliterasi": "wal-arḍi",
       "jenis_kata": "Isim",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "أَنتَ",
       "transliterasi": "Anta",
       "jenis_kata": "Isim (Dhamir)",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "وَلِىِّۦ",
       "transliterasi": "waliyyī",
       "jenis_kata": "Isim",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "فِى",
       "transliterasi": "fī",
       "jenis_kata": "Huruf",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "ٱلدُّنْيَا",
       "transliterasi": "ad-dunyā",
       "jenis_kata": "Isim",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "وَٱلْءَاخِرَةِ",
       "transliterasi": "wal-ākhirah",
       "jenis_kata": "Isim",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "تَوَفَّنِى",
       "transliterasi": "tawaffanī",
       "jenis_kata": "Fi'il (Kata Kerja)",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 19,
       "kata_arab": "مُسْلِمًۭا",
       "transliterasi": "musliman",
       "jenis_kata": "Isim (Kata Benda/Sifat)",
@@ -345,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 20,
       "kata_arab": "وَأَلْحِقْنِى",
       "transliterasi": "wa alḥiqnī",
       "jenis_kata": "Fi'il (Kata Kerja)",
@@ -363,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 21,
       "kata_arab": "بِٱلصَّٰلِحِينَ",
       "transliterasi": "biṣ-ṣāliḥīn",
       "jenis_kata": "Huruf (ب) + Isim (ٱلصَّٰلِحِينَ)",

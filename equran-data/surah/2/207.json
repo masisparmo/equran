@@ -148,6 +148,24 @@
     },
     {
       "index": 8,
+      "kata_arab": "ۗ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "Huruf (Tanda Baca/Waqaf)",
+      "arti": "Tanda waqaf lazim (harus berhenti)",
+      "sharaf": {
+        "akar_kata": "Tidak ada",
+        "makna_dasar": "Menunjukkan tempat berhenti yang dianjurkan atau wajib dalam bacaan Al-Qur'an.",
+        "wazan_perubahan": "Tidak ada"
+      },
+      "nahwu": {
+        "kedudukan": "Bukan bagian dari struktur nahwu kalimat, melainkan tanda baca.",
+        "irab_dan_logika": "Tidak memiliki i'rab."
+      },
+      "hikmah": "Dalam konteks tafsir, tanda waqaf ini menandai akhir dari satu gagasan penting: pengorbanan diri demi keridhaan Allah. Bagian selanjutnya akan membahas sifat Allah. Ini membantu pembaca memahami struktur makna ayat dan memisahkan dua ide utama.",
+      "role": "none"
+    },
+    {
+      "index": 9,
       "kata_arab": "وَٱللَّهُ",
       "transliterasi": "wa-Allāhu",
       "jenis_kata": "Huruf (Waw) + Isim (Allah)",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "رَءُوفٌۢ",
       "transliterasi": "ra'ūfum",
       "jenis_kata": "Isim (Kata Sifat/Sifat Musyabbahah)",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "بِٱلْعِبَادِ",
       "transliterasi": "bi-al-'ibād(i)",
       "jenis_kata": "Huruf Jar (bi) + Isim (al-'ibād)",

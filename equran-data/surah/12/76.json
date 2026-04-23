@@ -436,6 +436,24 @@
     },
     {
       "index": 24,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqaf lazim)",
+      "jenis_kata": "Huruf (Tanda Baca)",
+      "arti": "Tanda waqaf lazim (harus berhenti)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf lazim",
+        "irab_dan_logika": "Tidak memiliki i'rab karena bukan bagian dari struktur kalimat. Fungsinya adalah sebagai panduan pembacaan Al-Qur'an."
+      },
+      "hikmah": "Menunjukkan bahwa pada titik ini, makna kalimat sudah sempurna dan pembaca dianjurkan untuk berhenti sejenak sebelum melanjutkan ke bagian berikutnya, membantu pemahaman makna ayat secara utuh.",
+      "role": "none"
+    },
+    {
+      "index": 25,
       "kata_arab": "نَرْفَعُ",
       "transliterasi": "narfa'u",
       "jenis_kata": "Fi'il",
@@ -453,7 +471,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 26,
       "kata_arab": "دَرَجَٰتٍۢ",
       "transliterasi": "darajātīn",
       "jenis_kata": "Isim",
@@ -471,7 +489,7 @@
       "role": "none"
     },
     {
-      "index": 26,
+      "index": 27,
       "kata_arab": "مَّن",
       "transliterasi": "man",
       "jenis_kata": "Isim Maushul (Kata Sambung)",
@@ -489,7 +507,7 @@
       "role": "none"
     },
     {
-      "index": 27,
+      "index": 28,
       "kata_arab": "نَّشَآءُ",
       "transliterasi": "nashaa'u",
       "jenis_kata": "Fi'il",
@@ -507,7 +525,25 @@
       "role": "none"
     },
     {
-      "index": 28,
+      "index": 29,
+      "kata_arab": "ۗ",
+      "transliterasi": "-",
+      "jenis_kata": "Huruf (Tanda Baca)",
+      "arti": "Tanda waqf lazim (harus berhenti)",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda Waqf Lazim",
+        "irab_dan_logika": "Ini adalah tanda *waqf lazim* dalam mushaf Al-Qur'an, yang berarti pembaca *harus berhenti* di sini. Tanda ini mengindikasikan bahwa kalimat atau klausa sebelumnya telah sempurna maknanya dan berhenti di sini akan mencegah kesalahpahaman makna jika disambung."
+      },
+      "hikmah": "Kehadiran tanda ini sangat penting untuk menjaga keutuhan makna ayat. Ia memisahkan dua gagasan utama dalam ayat ini: kehendak Allah dalam meninggikan derajat, dan kebenaran bahwa di atas setiap orang berilmu ada Yang Maha Mengetahui.",
+      "role": "none"
+    },
+    {
+      "index": 30,
       "kata_arab": "وَفَوْقَ",
       "transliterasi": "wafawqa",
       "jenis_kata": "Huruf dan Isim",
@@ -525,7 +561,7 @@
       "role": "none"
     },
     {
-      "index": 29,
+      "index": 31,
       "kata_arab": "كُلِّ",
       "transliterasi": "kulli",
       "jenis_kata": "Isim",
@@ -543,7 +579,7 @@
       "role": "none"
     },
     {
-      "index": 30,
+      "index": 32,
       "kata_arab": "ذِى",
       "transliterasi": "dzii",
       "jenis_kata": "Isim",
@@ -561,7 +597,7 @@
       "role": "none"
     },
     {
-      "index": 31,
+      "index": 33,
       "kata_arab": "عِلْمٍ",
       "transliterasi": "ilmin",
       "jenis_kata": "Isim",
@@ -579,7 +615,7 @@
       "role": "none"
     },
     {
-      "index": 32,
+      "index": 34,
       "kata_arab": "عَلِيمٌۭ",
       "transliterasi": "ʿAlīm",
       "jenis_kata": "Isim",

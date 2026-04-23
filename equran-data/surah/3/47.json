@@ -274,6 +274,24 @@
     },
     {
       "index": 15,
+      "kata_arab": "ۚ",
+      "transliterasi": "Tidak ada transliterasi karena ini tanda waqaf.",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "Tidak ada arti harfiah.",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku.",
+        "makna_dasar": "Tidak berlaku.",
+        "wazan_perubahan": "Tidak berlaku."
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca dalam Al-Qur'an.",
+        "irab_dan_logika": "Menunjukkan tempat berhenti yang dianjurkan atau diperbolehkan. Tanda \"ج\" (jim) berarti boleh berhenti atau melanjutkan."
+      },
+      "hikmah": "Memberi jeda dalam pembacaan untuk memahami makna kalimat sebelumnya, yaitu tentang kekuasaan Allah menciptakan apa yang Dia kehendaki, sebelum melanjutkan ke penjelasan berikutnya.",
+      "role": "none"
+    },
+    {
+      "index": 16,
       "kata_arab": "إِذَا",
       "transliterasi": "idhā",
       "jenis_kata": "Huruf / Zharaf Zaman",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "قَضَىٰٓ",
       "transliterasi": "qaḍā",
       "jenis_kata": "Fi'il",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "أَمْرًۭا",
       "transliterasi": "amran",
       "jenis_kata": "Isim",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 19,
       "kata_arab": "فَإِنَّمَا",
       "transliterasi": "fa-innamā",
       "jenis_kata": "Huruf",
@@ -345,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 20,
       "kata_arab": "يَقُولُ",
       "transliterasi": "yaqūlu",
       "jenis_kata": "Fi'il",
@@ -363,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 21,
       "kata_arab": "لَهُۥ",
       "transliterasi": "lahū",
       "jenis_kata": "Huruf dan Dhamir",
@@ -381,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 22,
       "kata_arab": "كُن",
       "transliterasi": "kun",
       "jenis_kata": "Fi'il",
@@ -399,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 23,
       "kata_arab": "فَيَكُونُ",
       "transliterasi": "fa-yakūnu",
       "jenis_kata": "Fi'il Mudhari'",

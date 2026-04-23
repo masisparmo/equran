@@ -94,6 +94,24 @@
     },
     {
       "index": 5,
+      "kata_arab": "ۖ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf (tanda waqf)",
+      "arti": "tanda jeda (waqf)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca yang memisahkan bagian ayat",
+        "irab_dan_logika": "Tidak memiliki iʿrāb, berfungsi sebagai pemisah"
+      },
+      "hikmah": "Menandai akhir segmen kalimat, memberi jeda bagi pembaca untuk merenungkan makna.",
+      "role": "none"
+    },
+    {
+      "index": 6,
       "kata_arab": "تَجْرِي",
       "transliterasi": "tajrī",
       "jenis_kata": "Fi'il",
@@ -111,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 7,
       "kata_arab": "مِن",
       "transliterasi": "min",
       "jenis_kata": "Huruf",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "تَحْتِهَا",
       "transliterasi": "taḥtihā",
       "jenis_kata": "Isim",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "ٱلْأَنْهَٰرُ",
       "transliterasi": "al‑anharu",
       "jenis_kata": "Isim",
@@ -165,7 +183,25 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
+      "kata_arab": "ۖ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "**tanda jeda (koma/waqf)**",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "memisahkan bagian kalimat",
+        "wazan_perubahan": "tanda waqf (فاصلة)"
+      },
+      "nahwu": {
+        "kedudukan": "ليس له إعراب، يَعمل كفاصل بين الجملتين",
+        "irab_dan_logika": "لا إعراب له؛ وظيفته إيقاف القارئ لتوضيح المعنى"
+      },
+      "hikmah": "Memberi jeda untuk memperjelas makna, menekankan keutuhan gagasan sebelum melanjutkan.",
+      "role": "none"
+    },
+    {
+      "index": 11,
       "kata_arab": "أُكُلُهَا",
       "transliterasi": "ukuluha",
       "jenis_kata": "Fi'il",
@@ -183,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 12,
       "kata_arab": "دَآئِمٌۭ",
       "transliterasi": "dāʼimun",
       "jenis_kata": "Isim (isim sifat)",
@@ -201,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 13,
       "kata_arab": "وَظِلُّهَا",
       "transliterasi": "waẓilluhā",
       "jenis_kata": "Isim (isim + huruf \"wa\" penghubung)",
@@ -219,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 14,
       "kata_arab": "تِلْكَ",
       "transliterasi": "tilka",
       "jenis_kata": "Isim isyarah (kata tunjuk)",
@@ -237,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 15,
       "kata_arab": "عُقْبَى",
       "transliterasi": "ʿuqbā",
       "jenis_kata": "Isim (isim mafdhul)",
@@ -255,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 16,
       "kata_arab": "ٱلَّذِينَ",
       "transliterasi": "alladhīna",
       "jenis_kata": "Isim mawsul (kata sambung relatif)",
@@ -273,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 17,
       "kata_arab": "ٱتَّقَوا۟",
       "transliterasi": "ittaqaw",
       "jenis_kata": "Fi'il (imperatif)",
@@ -291,7 +327,43 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 18,
+      "kata_arab": "ۖ",
+      "transliterasi": "(tanda baca)",
+      "jenis_kata": "Huruf (tanda waqf)",
+      "arti": "tanda koma/istirahat",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "pemisah antar frasa",
+        "irab_dan_logika": "tidak berharakat, berfungsi memberi jeda bacaan"
+      },
+      "hikmah": "Menandakan jeda untuk menekankan makna kata sebelumnya sebelum melanjutkan penjelasan.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "وَّعُقْبَى",
+      "transliterasi": "wa‘uqbā",
+      "jenis_kata": "Isim (isim mawsūl) dengan huruf waqf",
+      "arti": "dan akhir",
+      "sharaf": {
+        "akar_kata": "ق-ب-ى",
+        "makna_dasar": "akhir, tujuan",
+        "wazan_perubahan": "فَعْلَى"
+      },
+      "nahwu": {
+        "kedudukan": "isim mawsūl yang menjadi objek pelengkap setelah kata kerja \"ikat\" (menyatakan tempat kesudahan)",
+        "irab_dan_logika": "berharakat kasrah pada akhir karena berfungsi sebagai majrur setelah fi'il majrur (menyatakan tempat)"
+      },
+      "hikmah": "Menunjukkan bahwa akhir bagi orang-orang kafir adalah tempat yang menakutkan, yaitu neraka.",
+      "role": "none"
+    },
+    {
+      "index": 20,
       "kata_arab": "ٱلْكَٰفِرِينَ",
       "transliterasi": "al-kāfirīna",
       "jenis_kata": "Isim (isim jamak)",
@@ -309,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 21,
       "kata_arab": "ٱلنَّارُ",
       "transliterasi": "an-nāru",
       "jenis_kata": "Isim (isim mufrad)",

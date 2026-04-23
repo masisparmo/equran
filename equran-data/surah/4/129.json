@@ -148,6 +148,24 @@
     },
     {
       "index": 8,
+      "kata_arab": "ۖ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Huruf",
+      "arti": "tanda jeda (waqf)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "علامة وقف تُظهر وقفًا قصيرًا بين الجمل",
+        "irab_dan_logika": "لا إعراب؛ لا يؤثر على الإعراب"
+      },
+      "hikmah": "Memberi kesempatan bagi pembaca merenungkan makna sebelumnya sebelum melanjutkan ayat.",
+      "role": "none"
+    },
+    {
+      "index": 9,
       "kata_arab": "فَلَا",
       "transliterasi": "fa lā",
       "jenis_kata": "Huruf",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "تَمِيلُوا۟",
       "transliterasi": "tamīlū",
       "jenis_kata": "Fi'il",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "كُلَّ",
       "transliterasi": "kulla",
       "jenis_kata": "Isim",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "ٱلْمَيْلِ",
       "transliterasi": "al‑mayli",
       "jenis_kata": "Isim",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "فَتَذَرُوهَا",
       "transliterasi": "fa‑tadharu‑ha",
       "jenis_kata": "Fi'il",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "كَٱلْمُعَلَّقَةِ",
       "transliterasi": "ka‑al‑mu‘allaqati",
       "jenis_kata": "Isim",
@@ -255,7 +273,25 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
+      "kata_arab": "ۚ",
+      "transliterasi": "waqf",
+      "jenis_kata": "Huruf",
+      "arti": "tanda berhenti/akhir ayat",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca, memisahkan dua kalimat dalam ayat",
+        "irab_dan_logika": "Tidak berharakat, tidak beri‘rab karena bukan kata"
+      },
+      "hikmah": "Memberi jeda bagi pendengar untuk merenungkan makna sebelumnya sebelum melanjutkan.",
+      "role": "none"
+    },
+    {
+      "index": 16,
       "kata_arab": "وَتَتَّقُوا۟",
       "transliterasi": "wa-tattaqū",
       "jenis_kata": "Fi'il (verb)",
@@ -273,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 17,
       "kata_arab": "فَإِنَّ",
       "transliterasi": "fa-inna",
       "jenis_kata": "Huruf (حرف عطف + حرف توكيد)",
@@ -291,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 18,
       "kata_arab": "ٱللَّهَ",
       "transliterasi": "Allāha",
       "jenis_kata": "Isim (nama khusus)",

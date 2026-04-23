@@ -148,6 +148,24 @@
     },
     {
       "index": 8,
+      "kata_arab": "ۖ",
+      "transliterasi": "`waqf` (tanda koma)",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "*tanda jeda*",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Penanda jeda antar ayat",
+        "irab_dan_logika": "Tidak berharakat, berfungsi memisahkan bagian kalimat"
+      },
+      "hikmah": "Memberi jeda untuk menekankan perbandingan antara *hamba* dan *contoh*.",
+      "role": "none"
+    },
+    {
+      "index": 9,
       "kata_arab": "فَٱدْعُوهُمْ",
       "transliterasi": "`fa‑idʿūhum`",
       "jenis_kata": "Fiʿil (imperatif)",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "فَلْيَسْتَجِيبُوا۟",
       "transliterasi": "`fa‑l‑yastajībū`",
       "jenis_kata": "Fiʿil (imperatif)",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "لَكُمْ",
       "transliterasi": "`lakum`",
       "jenis_kata": "Huruf (jar)",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "إِن",
       "transliterasi": "in",
       "jenis_kata": "Huruf",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "كُنتُمْ",
       "transliterasi": "kuntum",
       "jenis_kata": "Fi'il",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "صَٰدِقِينَ",
       "transliterasi": "ṣādiqīna",
       "jenis_kata": "Isim",

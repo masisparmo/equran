@@ -220,6 +220,24 @@
     },
     {
       "index": 12,
+      "kata_arab": "ۚ",
+      "transliterasi": "—",
+      "jenis_kata": "Huruf (tanda waqf)",
+      "arti": "Tanda berhenti/istirahat dalam bacaan Al‑Qur'an",
+      "sharaf": {
+        "akar_kata": "Tidak ada (bukan kata)",
+        "makna_dasar": "Tidak berlaku",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Berada di akhir frasa «كِتَابٍ مُّبِينٍ» sebagai tanda waqf",
+        "irab_dan_logika": "Tidak memiliki i‘rāb karena merupakan tanda baca, fungsinya memberi jeda sebelum melanjutkan ayat selanjutnya"
+      },
+      "hikmah": "Menandakan penghentian sementara, memberi kesempatan bagi pendengar untuk merenungkan makna «kullu fī kitābin mubīn» sebelum melanjutkan bacaan.",
+      "role": "none"
+    },
+    {
+      "index": 13,
       "kata_arab": "كُلٌّۭ",
       "transliterasi": "kullun",
       "jenis_kata": "Isim (isim mufrod)",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "فِى",
       "transliterasi": "fī",
       "jenis_kata": "Huruf (huruf jar)",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "كِتَٰبٍۢ",
       "transliterasi": "kitābin",
       "jenis_kata": "Isim (isim mansub)",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "مُّبِينٍۢ",
       "transliterasi": "mubīnin",
       "jenis_kata": "Isim (isim sifat)",

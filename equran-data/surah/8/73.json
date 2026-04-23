@@ -94,6 +94,24 @@
     },
     {
       "index": 5,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf",
+      "arti": "tanda ayat (stop)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Tidak termasuk dalam tata bahasa; merupakan tanda baca",
+        "irab_dan_logika": "Tidak berirab karena bukan kata"
+      },
+      "hikmah": "Menandai akhir ayat, memberi jeda bagi pembaca.",
+      "role": "none"
+    },
+    {
+      "index": 6,
       "kata_arab": "إِلَّا",
       "transliterasi": "illa",
       "jenis_kata": "Huruf",
@@ -111,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 7,
       "kata_arab": "تَفْعَلُوهُ",
       "transliterasi": "tafʿalūhu",
       "jenis_kata": "Fi'il",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "تَكُن",
       "transliterasi": "takun",
       "jenis_kata": "Fi'il",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "فِتْنَةٌۭ",
       "transliterasi": "fitnah",
       "jenis_kata": "Isim",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "فِى",
       "transliterasi": "fi",
       "jenis_kata": "Huruf",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "وَفَسَادٌۭ",
       "transliterasi": "wa‑fasādun",
       "jenis_kata": "Isim",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "كَبِيرٌۭ",
       "transliterasi": "kabīrun",
       "jenis_kata": "Isim",

@@ -292,6 +292,24 @@
     },
     {
       "index": 16,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda ayat)",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda berhenti ayat",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Tidak berirab, berfungsi sebagai pemisah antar‑ayat",
+        "irab_dan_logika": "Tidak mempengaruhi i‘rāb"
+      },
+      "hikmah": "Menandai jeda untuk memberi ruang refleksi pada pembaca",
+      "role": "none"
+    },
+    {
+      "index": 17,
       "kata_arab": "وَمَآ",
       "transliterasi": "wa‑mā",
       "jenis_kata": "Huruf (wa) + Isim (mā)",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "آمَنَ",
       "transliterasi": "āmana",
       "jenis_kata": "Fiʿl (verb) masaḍ",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 19,
       "kata_arab": "مَعَهُۥٓ",
       "transliterasi": "ma‘ahu",
       "jenis_kata": "Huruf (preposisi) dengan ضمير متصل)",
@@ -345,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 20,
       "kata_arab": "إِلَّا",
       "transliterasi": "illa",
       "jenis_kata": "Huruf (harf istithna‘)",
@@ -363,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 21,
       "kata_arab": "قَلِيلٌ",
       "transliterasi": "qalīlun",
       "jenis_kata": "Isim (isim mufrad)",

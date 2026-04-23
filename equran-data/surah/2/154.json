@@ -148,6 +148,24 @@
     },
     {
       "index": 8,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "Tanda waqaf lazim (berhenti lebih baik)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Tidak berlaku",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Tidak berlaku",
+        "irab_dan_logika": "Tidak berlaku"
+      },
+      "hikmah": "Menunjukkan tempat berhenti yang dianjurkan dalam pembacaan Al-Qur'an untuk memahami makna yang benar, memisahkan larangan dari penegasan selanjutnya yang akan datang. Berhenti di sini membantu pembaca untuk tidak salah memahami bahwa syuhada benar-benar mati.",
+      "role": "none"
+    },
+    {
+      "index": 9,
       "kata_arab": "بَلْ",
       "transliterasi": "bal",
       "jenis_kata": "Huruf",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "أَحْيَآءٌۭ",
       "transliterasi": "aḥyā'un",
       "jenis_kata": "Isim",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "وَلَٰكِن",
       "transliterasi": "walākin",
       "jenis_kata": "Huruf",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "لَّا",
       "transliterasi": "Lā",
       "jenis_kata": "Huruf",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "تَشْعُرُونَ",
       "transliterasi": "Tasy'urūna",
       "jenis_kata": "Fi'il (Kata Kerja)",

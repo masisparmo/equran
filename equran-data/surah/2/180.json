@@ -238,6 +238,24 @@
     },
     {
       "index": 13,
+      "kata_arab": "ۖ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda jeda (koma)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "memisahkan dua perintah dalam ayat",
+        "irab_dan_logika": "tidak berirab, berfungsi sebagai waqf"
+      },
+      "hikmah": "Menandakan jeda untuk memberi ruang pemahaman antara “بِالْمَعْرُوفِ” dan “حَقًّا”.",
+      "role": "none"
+    },
+    {
+      "index": 14,
       "kata_arab": "حَقًّا",
       "transliterasi": "ḥaqqan",
       "jenis_kata": "Isim (maf‘ūl) dengan tanwin dammah, berfungsi sebagai naṣb (keterangan cara)",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "عَلَى",
       "transliterasi": "ʿalā",
       "jenis_kata": "Huruf jar (preposisi)",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "ٱلْمُتَّقِينَ",
       "transliterasi": "al‑muttaqīna",
       "jenis_kata": "Isim (isim majrur) jamak maskulin",

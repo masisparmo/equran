@@ -166,6 +166,24 @@
     },
     {
       "index": 9,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda koma)",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda jeda",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Menandai akhir frasa \"فِى سَبِيلِ ٱللَّهِ\"",
+        "irab_dan_logika": "Tidak berirab, berfungsi sebagai waqf"
+      },
+      "hikmah": "Memberi jeda untuk menekankan makna sebelumnya sebelum melanjutkan ke kalimat berikutnya",
+      "role": "none"
+    },
+    {
+      "index": 10,
       "kata_arab": "ذَٰلِكُمْ",
       "transliterasi": "dhalikum",
       "jenis_kata": "Isim (isim dhahir)",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "خَيْرٌۭ",
       "transliterasi": "khairun",
       "jenis_kata": "Isim (isim mufrad)",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "لَّكُمْ",
       "transliterasi": "lakkum",
       "jenis_kata": "Huruf",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "إِن",
       "transliterasi": "in",
       "jenis_kata": "Huruf",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "كُنتُمْ",
       "transliterasi": "kuntum",
       "jenis_kata": "Fi'il",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "تَعْلَمُونَ",
       "transliterasi": "taʿlamūna",
       "jenis_kata": "Fi'il",

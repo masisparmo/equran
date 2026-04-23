@@ -202,6 +202,24 @@
     },
     {
       "index": 11,
+      "kata_arab": "ۚ",
+      "transliterasi": "(waqf)",
+      "jenis_kata": "Huruf (tanda waqf)",
+      "arti": "tanda berhenti",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "علامة وقف لا إعراب لها",
+        "irab_dan_logika": "تُستعمل لإنهاء الآية"
+      },
+      "hikmah": "Menandai akhir ayat, memberi jeda bagi pembaca.",
+      "role": "none"
+    },
+    {
+      "index": 12,
       "kata_arab": "وَسَيَحْلِفُونَ",
       "transliterasi": "wa sayahlifūna",
       "jenis_kata": "Fi'il (verb) dengan awalan wa (conjunction)",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "بِٱللَّهِ",
       "transliterasi": "bi-llāhi",
       "jenis_kata": "Huruf jar + Isim (nama Allah)",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "لَوِ",
       "transliterasi": "law",
       "jenis_kata": "Huruf (particle)",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "ٱسْتَطَعْنَا",
       "transliterasi": "istaṭaʿnā",
       "jenis_kata": "Fi'il (verb) ماضي",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "لَخَرَجْنَا",
       "transliterasi": "la-kharajnā",
       "jenis_kata": "Fi'il (verb) ماضي dengan حرف نفي \"la\"",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "مَعَكُمْ",
       "transliterasi": "maʿakum",
       "jenis_kata": "Huruf jar + ضمير متصل",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "يُهْلِكُونَ",
       "transliterasi": "yuhlikūna",
       "jenis_kata": "Fi'il (verb)",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 19,
       "kata_arab": "أَنفُسَهُمْ",
       "transliterasi": "anfusahum",
       "jenis_kata": "Isim (noun)",
@@ -345,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 20,
       "kata_arab": "وَٱللَّهُ",
       "transliterasi": "wa‑Allāhu",
       "jenis_kata": "Huruf (wa) + Isim (Allah)",
@@ -363,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 21,
       "kata_arab": "يَعْلَمُ",
       "transliterasi": "yaʿlamu",
       "jenis_kata": "Fi'il (verb)",
@@ -381,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 22,
       "kata_arab": "إِنَّهُمْ",
       "transliterasi": "innahum",
       "jenis_kata": "Huruf (إن) + ضمير (هم)",
@@ -399,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 23,
       "kata_arab": "لَكَٰذِبُونَ",
       "transliterasi": "la‑kādhībūna",
       "jenis_kata": "Huruf (لَ) + Isim (كَاذِبُونَ)",

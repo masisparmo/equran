@@ -256,6 +256,24 @@
     },
     {
       "index": 14,
+      "kata_arab": "ۗ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "Tanda baca",
+      "arti": "(berhenti sejenak)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "N/A",
+        "irab_dan_logika": "N/A"
+      },
+      "hikmah": "Tanda waqaf (berhenti) yang menunjukkan akhir dari satu klausa atau ide, memberikan jeda untuk memahami makna sebelumnya sebelum melanjutkan. Ini adalah waqaf lazim, yang berarti lebih baik berhenti di sini.",
+      "role": "none"
+    },
+    {
+      "index": 15,
       "kata_arab": "وَٱللَّهُ",
       "transliterasi": "wallāhu",
       "jenis_kata": "Huruf (Waw) + Isim (Allah)",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "عَلَىٰ",
       "transliterasi": "‘alā",
       "jenis_kata": "Huruf (Huruf Jar)",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "كُلِّ",
       "transliterasi": "kulli",
       "jenis_kata": "Isim (kata benda)",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "شَىْءٍۢ",
       "transliterasi": "shay'in",
       "jenis_kata": "Isim (Kata Benda)",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 19,
       "kata_arab": "قَدِيرٌۭ",
       "transliterasi": "Qadīrun",
       "jenis_kata": "Isim (Kata Sifat/Sifah Musyabbahah)",

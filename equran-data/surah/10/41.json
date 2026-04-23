@@ -130,6 +130,24 @@
     },
     {
       "index": 7,
+      "kata_arab": "ۖ",
+      "transliterasi": "waqaf lazim",
+      "jenis_kata": "Huruf",
+      "arti": "tanda waqaf lazim (berhenti lebih utama)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf",
+        "irab_dan_logika": "N/A"
+      },
+      "hikmah": "Tanda waqaf lazim ini menunjukkan bahwa pembaca Al-Qur'an sebaiknya berhenti pada titik ini. Ini memisahkan dua gagasan atau kalimat yang berbeda, memberikan penekanan pada setiap bagian dan membantu memahami makna yang terpisah namun saling berkaitan.",
+      "role": "none"
+    },
+    {
+      "index": 8,
       "kata_arab": "أَنتُم",
       "transliterasi": "antum",
       "jenis_kata": "Isim",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "بَرِيٓـُٔونَ",
       "transliterasi": "bari'una",
       "jenis_kata": "Isim",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "مِمَّآ",
       "transliterasi": "mimma",
       "jenis_kata": "Huruf + Isim Maushul",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "أَعْمَلُ",
       "transliterasi": "a'malu",
       "jenis_kata": "Fi'il",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "وَأَنَا۠",
       "transliterasi": "wa anā",
       "jenis_kata": "Huruf (و) + Isim (أَنَا)",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "بَرِىٓءٌۭ",
       "transliterasi": "barī'un",
       "jenis_kata": "Isim (sifat/fa'il)",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "مِّمَّا",
       "transliterasi": "mimmā",
       "jenis_kata": "Huruf (مِنْ) + Isim Maushul (مَا)",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "تَعْمَلُونَ",
       "transliterasi": "ta'malūna",
       "jenis_kata": "Fi'il (mudhari')",

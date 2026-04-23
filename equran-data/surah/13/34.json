@@ -94,6 +94,24 @@
     },
     {
       "index": 5,
+      "kata_arab": "ۖ",
+      "transliterasi": "(waqf)",
+      "jenis_kata": "Huruf",
+      "arti": "tanda berhenti",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "simbol waqf (tanda baca) yang memisahkan bagian ayat",
+        "irab_dan_logika": "bukan bagian tata bahasa; berfungsi sebagai jeda baca"
+      },
+      "hikmah": "menandakan akhir segmen ayat sebelum melanjutkan ke bagian berikutnya",
+      "role": "none"
+    },
+    {
+      "index": 6,
       "kata_arab": "وَلَعَذَابُ",
       "transliterasi": "wa la‘adhābu",
       "jenis_kata": "Huruf (wa) + Isim (al-‘adhāb)",
@@ -111,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 7,
       "kata_arab": "ٱلْءَاخِرَةِ",
       "transliterasi": "al-ākhirah",
       "jenis_kata": "Isim",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "أَشَقُّ",
       "transliterasi": "ashaqqu",
       "jenis_kata": "Isim (sifat istifham)",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "مِّنَ",
       "transliterasi": "mina",
       "jenis_kata": "Huruf (preposisi)",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "اللَّهِ",
       "transliterasi": "Allāh",
       "jenis_kata": "Isim (nama Allah)",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "مِن",
       "transliterasi": "min",
       "jenis_kata": "Huruf (preposisi)",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "وَاقٍۢ",
       "transliterasi": "wāqin",
       "jenis_kata": "Isim (nama)",

@@ -292,6 +292,24 @@
     },
     {
       "index": 16,
+      "kata_arab": "ۛ",
+      "transliterasi": "Tidak ada transliterasi langsung",
+      "jenis_kata": "Tanda baca/waqaf",
+      "arti": "Tanda waqaf mu'anaqah (boleh berhenti di salah satu dari dua tanda serupa, tidak boleh di keduanya)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk tanda baca",
+        "makna_dasar": "Tidak berlaku untuk tanda baca",
+        "wazan_perubahan": "Tidak berlaku untuk tanda baca"
+      },
+      "nahwu": {
+        "kedudukan": "Tidak berlaku untuk tanda baca",
+        "irab_dan_logika": "Tidak berlaku untuk tanda baca"
+      },
+      "hikmah": "Tanda ini memberikan fleksibilitas bagi pembaca Al-Qur'an untuk memilih tempat berhenti yang paling sesuai untuk memahami makna ayat, tanpa mengubah esensi pesan.",
+      "role": "none"
+    },
+    {
+      "index": 17,
       "kata_arab": "وَمِنَ",
       "transliterasi": "wa-mina",
       "jenis_kata": "Huruf",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "ٱلَّذِينَ",
       "transliterasi": "Alladhīna",
       "jenis_kata": "Isim Maushul",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 19,
       "kata_arab": "هَادُوا۟",
       "transliterasi": "Hādū",
       "jenis_kata": "Fi'il Madhi",
@@ -345,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 20,
       "kata_arab": "سَمَّٰعُونَ",
       "transliterasi": "Sammā'ūna",
       "jenis_kata": "Isim Fa'il (Shighah Mubalaghah)",
@@ -363,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 21,
       "kata_arab": "لِلْكَذِبِ",
       "transliterasi": "Lil-kadhīb",
       "jenis_kata": "Huruf Jar + Isim",
@@ -381,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 22,
       "kata_arab": "سَمَّٰعُونَ",
       "transliterasi": "Sammā'ūna",
       "jenis_kata": "Isim Fa'il (Shighah Mubalaghah)",
@@ -399,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 23,
       "kata_arab": "لِقَوْمٍ",
       "transliterasi": "li-qaumin",
       "jenis_kata": "Isim",
@@ -417,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 24,
       "kata_arab": "ءَاخَرِينَ",
       "transliterasi": "ākharīna",
       "jenis_kata": "Isim",
@@ -435,7 +453,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 25,
       "kata_arab": "لَمْ",
       "transliterasi": "lam",
       "jenis_kata": "Huruf",
@@ -453,7 +471,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 26,
       "kata_arab": "يَأْتُوكَ",
       "transliterasi": "ya'tūka",
       "jenis_kata": "Fi'il",
@@ -471,7 +489,7 @@
       "role": "none"
     },
     {
-      "index": 26,
+      "index": 27,
       "kata_arab": "يُحَرِّفُونَ",
       "transliterasi": "yuḥarrifūna",
       "jenis_kata": "Fi'il",
@@ -489,7 +507,7 @@
       "role": "none"
     },
     {
-      "index": 27,
+      "index": 28,
       "kata_arab": "ٱلْكَلِمَ",
       "transliterasi": "al-Kalim",
       "jenis_kata": "Isim",
@@ -507,7 +525,7 @@
       "role": "none"
     },
     {
-      "index": 28,
+      "index": 29,
       "kata_arab": "مِنۢ",
       "transliterasi": "min",
       "jenis_kata": "Huruf",
@@ -525,7 +543,7 @@
       "role": "none"
     },
     {
-      "index": 29,
+      "index": 30,
       "kata_arab": "بَعْدِ",
       "transliterasi": "ba'di",
       "jenis_kata": "Isim",
@@ -543,7 +561,7 @@
       "role": "none"
     },
     {
-      "index": 30,
+      "index": 31,
       "kata_arab": "مَوَاضِعِهِۦ",
       "transliterasi": "mawāḍi'ihī",
       "jenis_kata": "Isim",
@@ -561,7 +579,25 @@
       "role": "none"
     },
     {
-      "index": 31,
+      "index": 32,
+      "kata_arab": "ۖ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "Tanda baca",
+      "arti": "Tanda waqaf lazim (wajib berhenti)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku karena ini adalah tanda baca.",
+        "makna_dasar": "Tidak berlaku.",
+        "wazan_perubahan": "Tidak berlaku."
+      },
+      "nahwu": {
+        "kedudukan": "Tidak berlaku.",
+        "irab_dan_logika": "Tidak berlaku."
+      },
+      "hikmah": "Menunjukkan bahwa pada titik ini, pembaca harus berhenti untuk mengambil napas dan memahami makna kalimat sebelumnya secara utuh sebelum melanjutkan. Ini adalah tanda waqaf lazim (wajib berhenti) dalam Al-Qur'an.",
+      "role": "none"
+    },
+    {
+      "index": 33,
       "kata_arab": "يَقُولُونَ",
       "transliterasi": "yaqūlūna",
       "jenis_kata": "Fi'il",
@@ -579,7 +615,7 @@
       "role": "none"
     },
     {
-      "index": 32,
+      "index": 34,
       "kata_arab": "إِنْ",
       "transliterasi": "In",
       "jenis_kata": "Huruf",
@@ -597,7 +633,7 @@
       "role": "none"
     },
     {
-      "index": 33,
+      "index": 35,
       "kata_arab": "أُوتِيتُمْ",
       "transliterasi": "Ūtītum",
       "jenis_kata": "Fi'il",
@@ -615,7 +651,7 @@
       "role": "none"
     },
     {
-      "index": 34,
+      "index": 36,
       "kata_arab": "هَٰذَا",
       "transliterasi": "Hādhā",
       "jenis_kata": "Isim",
@@ -633,7 +669,7 @@
       "role": "none"
     },
     {
-      "index": 35,
+      "index": 37,
       "kata_arab": "فَخُذُوهُ",
       "transliterasi": "Fa-khudhūhu",
       "jenis_kata": "Fi'il",
@@ -651,7 +687,7 @@
       "role": "none"
     },
     {
-      "index": 36,
+      "index": 38,
       "kata_arab": "وَإِن",
       "transliterasi": "Wa-in",
       "jenis_kata": "Huruf",
@@ -669,7 +705,7 @@
       "role": "none"
     },
     {
-      "index": 37,
+      "index": 39,
       "kata_arab": "لَّمْ",
       "transliterasi": "Lam",
       "jenis_kata": "Huruf",
@@ -687,7 +723,7 @@
       "role": "none"
     },
     {
-      "index": 38,
+      "index": 40,
       "kata_arab": "تُؤْتَوْهُ",
       "transliterasi": "tu'tawhu",
       "jenis_kata": "Fi'il",
@@ -705,7 +741,7 @@
       "role": "none"
     },
     {
-      "index": 39,
+      "index": 41,
       "kata_arab": "فَٱحْذَرُوا۟",
       "transliterasi": "faḥdharū",
       "jenis_kata": "Fi'il",
@@ -723,7 +759,25 @@
       "role": "none"
     },
     {
-      "index": 40,
+      "index": 42,
+      "kata_arab": "ۚ",
+      "transliterasi": "-",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "Tanda waqaf jaiz (boleh berhenti atau lanjut)",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca Al-Qur'an.",
+        "irab_dan_logika": "Tidak memiliki i'rab karena bukan kata."
+      },
+      "hikmah": "Menunjukkan jeda yang diperbolehkan dalam bacaan Al-Qur'an, membantu pemahaman makna dengan memisahkan dua klausa atau ide yang berbeda namun masih terkait.",
+      "role": "none"
+    },
+    {
+      "index": 43,
       "kata_arab": "وَمَن",
       "transliterasi": "waman",
       "jenis_kata": "Huruf dan Isim Syarat",
@@ -741,7 +795,7 @@
       "role": "none"
     },
     {
-      "index": 41,
+      "index": 44,
       "kata_arab": "يُرِدِ",
       "transliterasi": "yuridi",
       "jenis_kata": "Fi'il",
@@ -759,7 +813,7 @@
       "role": "none"
     },
     {
-      "index": 42,
+      "index": 45,
       "kata_arab": "ٱللَّهُ",
       "transliterasi": "Allāhu",
       "jenis_kata": "Isim",
@@ -777,7 +831,7 @@
       "role": "none"
     },
     {
-      "index": 43,
+      "index": 46,
       "kata_arab": "فِتْنَتَهُۥ",
       "transliterasi": "fitnatahu",
       "jenis_kata": "**Isim**",
@@ -795,7 +849,7 @@
       "role": "none"
     },
     {
-      "index": 44,
+      "index": 47,
       "kata_arab": "فَلَن",
       "transliterasi": "falan",
       "jenis_kata": "**Huruf**",
@@ -813,7 +867,7 @@
       "role": "none"
     },
     {
-      "index": 45,
+      "index": 48,
       "kata_arab": "تَمْلِكَ",
       "transliterasi": "tamlika",
       "jenis_kata": "**Fi'il**",
@@ -831,7 +885,7 @@
       "role": "none"
     },
     {
-      "index": 46,
+      "index": 49,
       "kata_arab": "لَهُۥ",
       "transliterasi": "lahu",
       "jenis_kata": "**Huruf** dan **Dhomir**",
@@ -849,7 +903,7 @@
       "role": "none"
     },
     {
-      "index": 47,
+      "index": 50,
       "kata_arab": "مِنَ",
       "transliterasi": "mina",
       "jenis_kata": "**Huruf**",
@@ -867,7 +921,7 @@
       "role": "none"
     },
     {
-      "index": 48,
+      "index": 51,
       "kata_arab": "ٱللَّهِ",
       "transliterasi": "Allahi",
       "jenis_kata": "**Isim**",
@@ -885,7 +939,7 @@
       "role": "none"
     },
     {
-      "index": 49,
+      "index": 52,
       "kata_arab": "شَيْـًٔا",
       "transliterasi": "syai'an",
       "jenis_kata": "Isim",
@@ -903,7 +957,25 @@
       "role": "none"
     },
     {
-      "index": 50,
+      "index": 53,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqaf lazim)",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda berhenti (wajib)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda Waqaf",
+        "irab_dan_logika": "N/A (bukan bagian dari struktur gramatikal, melainkan tanda baca untuk panduan pembacaan Al-Qur'an)."
+      },
+      "hikmah": "Tanda waqaf lazim ini menunjukkan bahwa pembaca harus berhenti di sini untuk memahami makna yang utuh dari kalimat sebelumnya, sebelum melanjutkan ke kalimat berikutnya. Ini menandai akhir dari satu gagasan penting.",
+      "role": "none"
+    },
+    {
+      "index": 54,
       "kata_arab": "أُو۟لَٰٓئِكَ",
       "transliterasi": "ulā'ika",
       "jenis_kata": "Isim Isyarah",
@@ -921,7 +993,7 @@
       "role": "none"
     },
     {
-      "index": 51,
+      "index": 55,
       "kata_arab": "ٱلَّذِينَ",
       "transliterasi": "alladhīna",
       "jenis_kata": "Isim Maushul",
@@ -939,7 +1011,7 @@
       "role": "none"
     },
     {
-      "index": 52,
+      "index": 56,
       "kata_arab": "لَمْ",
       "transliterasi": "lam",
       "jenis_kata": "Huruf Jazm",
@@ -957,7 +1029,7 @@
       "role": "none"
     },
     {
-      "index": 53,
+      "index": 57,
       "kata_arab": "يُرِدِ",
       "transliterasi": "yuridī",
       "jenis_kata": "Fi'il Mudhari'",
@@ -975,7 +1047,7 @@
       "role": "none"
     },
     {
-      "index": 54,
+      "index": 58,
       "kata_arab": "ٱللَّهُ",
       "transliterasi": "Allāhu",
       "jenis_kata": "Isim",
@@ -993,7 +1065,7 @@
       "role": "none"
     },
     {
-      "index": 55,
+      "index": 59,
       "kata_arab": "أَن",
       "transliterasi": "an",
       "jenis_kata": "Huruf",
@@ -1011,7 +1083,7 @@
       "role": "none"
     },
     {
-      "index": 56,
+      "index": 60,
       "kata_arab": "يُطَهِّرَ",
       "transliterasi": "yuṭahhiru",
       "jenis_kata": "Fi'il",
@@ -1029,7 +1101,7 @@
       "role": "none"
     },
     {
-      "index": 57,
+      "index": 61,
       "kata_arab": "قُلُوبَهُمْ",
       "transliterasi": "qulūbahum",
       "jenis_kata": "Isim",
@@ -1047,7 +1119,25 @@
       "role": "none"
     },
     {
-      "index": 58,
+      "index": 62,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqaf lazim)",
+      "jenis_kata": "Tanda Baca",
+      "arti": "(berhenti wajib)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku.",
+        "makna_dasar": "Menunjukkan tempat berhenti yang lebih kuat, seringkali mengakhiri sebuah klausa atau makna yang penting.",
+        "wazan_perubahan": "Tidak berlaku."
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf (berhenti)",
+        "irab_dan_logika": "Tidak memiliki irab."
+      },
+      "hikmah": "Menandakan akhir dari satu bagian makna yang penting, memberikan penekanan pada pernyataan sebelumnya tentang hati yang tidak disucikan oleh Allah, dan mempersiapkan pembaca untuk pernyataan berikutnya.",
+      "role": "none"
+    },
+    {
+      "index": 63,
       "kata_arab": "لَهُمْ",
       "transliterasi": "lahum",
       "jenis_kata": "Huruf + Dhomir",
@@ -1065,7 +1155,7 @@
       "role": "none"
     },
     {
-      "index": 59,
+      "index": 64,
       "kata_arab": "فِى",
       "transliterasi": "fī",
       "jenis_kata": "Huruf",
@@ -1083,7 +1173,7 @@
       "role": "none"
     },
     {
-      "index": 60,
+      "index": 65,
       "kata_arab": "ٱلدُّنْيَا",
       "transliterasi": "ad-dunyā",
       "jenis_kata": "Isim",
@@ -1101,7 +1191,7 @@
       "role": "none"
     },
     {
-      "index": 61,
+      "index": 66,
       "kata_arab": "خِزْىٌۭ",
       "transliterasi": "khizyun",
       "jenis_kata": "Isim",
@@ -1119,7 +1209,7 @@
       "role": "none"
     },
     {
-      "index": 62,
+      "index": 67,
       "kata_arab": "وَلَهُمْ",
       "transliterasi": "wa lahum",
       "jenis_kata": "Huruf (و) + Isim Dhomir (لهم)",
@@ -1137,7 +1227,7 @@
       "role": "none"
     },
     {
-      "index": 63,
+      "index": 68,
       "kata_arab": "فِى",
       "transliterasi": "fī",
       "jenis_kata": "Huruf",
@@ -1155,7 +1245,7 @@
       "role": "none"
     },
     {
-      "index": 64,
+      "index": 69,
       "kata_arab": "ٱلْءَاخِرَةِ",
       "transliterasi": "al-ākhirah",
       "jenis_kata": "Isim",
@@ -1173,7 +1263,7 @@
       "role": "none"
     },
     {
-      "index": 65,
+      "index": 70,
       "kata_arab": "عَذَابٌ",
       "transliterasi": "ʿadhāb",
       "jenis_kata": "Isim",
@@ -1191,7 +1281,7 @@
       "role": "none"
     },
     {
-      "index": 66,
+      "index": 71,
       "kata_arab": "عَظِيمٌۭ",
       "transliterasi": "ʿaẓīm",
       "jenis_kata": "Isim",

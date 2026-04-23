@@ -364,6 +364,24 @@
     },
     {
       "index": 20,
+      "kata_arab": "ۗ",
+      "transliterasi": "(Tanda Waqaf Lazim)",
+      "jenis_kata": "Huruf",
+      "arti": "Tanda berhenti sempurna",
+      "sharaf": {
+        "akar_kata": "Tidak ada",
+        "makna_dasar": "Tidak ada",
+        "wazan_perubahan": "Tidak ada"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf lazim (harus berhenti)",
+        "irab_dan_logika": "Tidak memiliki i'rab karena bukan bagian dari struktur kalimat gramatikal Arab, melainkan tanda baca untuk memandu pembacaan Al-Qur'an."
+      },
+      "hikmah": "Tanda ini mengindikasikan bahwa kalimat sebelumnya telah selesai dan memiliki makna yang sempurna, sehingga pembaca dianjurkan untuk berhenti sebelum melanjutkan ke bagian berikutnya. Ini memisahkan keinginan hamba dari peringatan Allah.",
+      "role": "none"
+    },
+    {
+      "index": 21,
       "kata_arab": "وَيُحَذِّرُكُمُ",
       "transliterasi": "Wa yuḥadhdhirukum",
       "jenis_kata": "Fi'il",
@@ -381,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 22,
       "kata_arab": "ٱللَّهُ",
       "transliterasi": "Allāhu",
       "jenis_kata": "Isim",
@@ -399,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 23,
       "kata_arab": "نَفْسَهُۥ",
       "transliterasi": "Nafsahū",
       "jenis_kata": "Isim",
@@ -417,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 24,
       "kata_arab": "وَٱللَّهُ",
       "transliterasi": "wa Allāhu",
       "jenis_kata": "Huruf dan Isim",
@@ -435,7 +453,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 25,
       "kata_arab": "رَءُوفٌۢ",
       "transliterasi": "ra'ūfum",
       "jenis_kata": "Isim",
@@ -453,7 +471,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 26,
       "kata_arab": "بِٱلْعِبَادِ",
       "transliterasi": "bi al-'ibādi",
       "jenis_kata": "Huruf dan Isim",

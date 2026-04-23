@@ -238,6 +238,24 @@
     },
     {
       "index": 13,
+      "kata_arab": "ۖ",
+      "transliterasi": "(Tanda waqaf)",
+      "jenis_kata": "Huruf (Tanda Baca)",
+      "arti": "Tanda waqaf lazim (berhenti lebih baik)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf",
+        "irab_dan_logika": "N/A (bukan bagian dari struktur gramatikal kalimat Arab, melainkan tanda bantu bacaan Al-Qur'an)."
+      },
+      "hikmah": "Tanda ini menunjukkan tempat yang dianjurkan untuk berhenti membaca agar makna ayat lebih jelas dan tidak terjadi salah paham. Dalam konteks ini, berhenti setelah 'abadā' (selama-lamanya) menegaskan kekekalan sebelum melanjutkan ke kenikmatan berikutnya.",
+      "role": "none"
+    },
+    {
+      "index": 14,
       "kata_arab": "لَّهُمْ",
       "transliterasi": "Lahum",
       "jenis_kata": "Huruf + Isim Dhomir",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "فِيهَآ",
       "transliterasi": "Fīhā",
       "jenis_kata": "Huruf + Isim Dhomir",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "أَزْوَٰجٌۭ",
       "transliterasi": "Azwāj",
       "jenis_kata": "Isim",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "مُّطَهَّرَةٌۭ",
       "transliterasi": "Muṭahharah",
       "jenis_kata": "Isim (Kata Sifat/Maf'ul)",
@@ -309,7 +327,25 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
+      "kata_arab": "ۖ",
+      "transliterasi": "waqf mutlaq",
+      "jenis_kata": "Tanda Baca",
+      "arti": "Berhenti sempurna",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Tidak berlaku",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf (berhenti)",
+        "irab_dan_logika": "Tidak memiliki i'rab karena bukan bagian dari struktur gramatikal kalimat. Fungsinya adalah sebagai petunjuk untuk berhenti membaca, membantu pemahaman makna ayat."
+      },
+      "hikmah": "Tanda ini menunjukkan bahwa pada titik ini, pembaca dianjurkan untuk berhenti sejenak untuk mengambil napas dan merenungkan makna bagian ayat yang telah dibaca, sebelum melanjutkan ke bagian berikutnya. Ini membantu dalam pemahaman yang lebih baik terhadap pesan Al-Qur'an.",
+      "role": "none"
+    },
+    {
+      "index": 19,
       "kata_arab": "وَنُدْخِلُهُمْ",
       "transliterasi": "wa nudkhiluhum",
       "jenis_kata": "Fi'il (kata kerja)",
@@ -327,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 20,
       "kata_arab": "ظِلًّۭا",
       "transliterasi": "ẓillan",
       "jenis_kata": "Isim (kata benda)",
@@ -345,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 21,
       "kata_arab": "ظَلِيلًا",
       "transliterasi": "ẓalīlan",
       "jenis_kata": "Isim Sifat (adjektiva)",

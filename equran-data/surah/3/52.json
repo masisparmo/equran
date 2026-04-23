@@ -184,6 +184,24 @@
     },
     {
       "index": 10,
+      "kata_arab": "ۖ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "Tanda Baca Al-Qur'an",
+      "arti": "N/A (tanda waqaf jaiz, boleh berhenti atau melanjutkan)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "N/A",
+        "irab_dan_logika": "N/A"
+      },
+      "hikmah": "Tanda **ۖ** (waqaf jaiz) menunjukkan bahwa pembaca Al-Qur'an memiliki pilihan untuk berhenti sejenak di sini atau melanjutkan bacaan. Secara makna, jeda ini memungkinkan pembaca untuk meresapi pertanyaan Nabi Isa AS dan tujuan pertolongan tersebut sebelum melanjutkan ke respons para Hawariyyin.",
+      "role": "none"
+    },
+    {
+      "index": 11,
       "kata_arab": "قَالَ",
       "transliterasi": "qāla",
       "jenis_kata": "Fi'il Madhi (Kata Kerja Lampau)",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "ٱلْحَوَارِيُّونَ",
       "transliterasi": "al-Ḥawāriyyūn",
       "jenis_kata": "Isim (Kata Benda)",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "نَحْنُ",
       "transliterasi": "Naḥnu",
       "jenis_kata": "Isim (Kata Ganti/Dhamir)",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "أَنصَارُ",
       "transliterasi": "Anṣāru",
       "jenis_kata": "Isim (Kata Benda)",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "ٱللَّهِ",
       "transliterasi": "Allāhi",
       "jenis_kata": "Isim (Kata Benda, Nama Allah)",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "ءَامَنَّا",
       "transliterasi": "Āmannā",
       "jenis_kata": "Fi'il (Kata Kerja)",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "بِٱللَّهِ",
       "transliterasi": "Billāhi",
       "jenis_kata": "Huruf (Preposisi) + Isim (Nama Allah)",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "وَٱشْهَدْ",
       "transliterasi": "wa-ashhad",
       "jenis_kata": "Fi'il (kata kerja) dan Huruf (penghubung)",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 19,
       "kata_arab": "بِأَنَّا",
       "transliterasi": "bi-annā",
       "jenis_kata": "Huruf (preposisi dan penegas)",
@@ -345,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 20,
       "kata_arab": "مُسْلِمُونَ",
       "transliterasi": "muslimūn",
       "jenis_kata": "Isim (kata benda)",

@@ -148,6 +148,24 @@
     },
     {
       "index": 8,
+      "kata_arab": "ۗ",
+      "transliterasi": "(tidak ada)",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda ayat (separator)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca di akhir ayat",
+        "irab_dan_logika": "tidak memiliki iʿrāb, berfungsi memisahkan ayat"
+      },
+      "hikmah": "Menandakan jeda dalam bacaan, memberi kesempatan berhenti sejenak untuk merenungkan makna ayat.",
+      "role": "none"
+    },
+    {
+      "index": 9,
       "kata_arab": "وَاللَّهُ",
       "transliterasi": "wa-Allahu",
       "jenis_kata": "Isim (nama) dengan huruf wa' al‑wasl",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "عَزِيزٌ",
       "transliterasi": "ʿazīzun",
       "jenis_kata": "Isim sifat",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "حَكِيمٌ",
       "transliterasi": "ḥakīmun",
       "jenis_kata": "Isim sifat",

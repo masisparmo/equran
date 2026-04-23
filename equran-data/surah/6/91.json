@@ -526,6 +526,24 @@
     },
     {
       "index": 29,
+      "kata_arab": "ۖ",
+      "transliterasi": "",
+      "jenis_kata": "علامة وقف",
+      "arti": "tanda koma/istirahat",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "menandai jeda dalam bacaan",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "علامة ترقيم لا إعراب لها",
+        "irab_dan_logika": "تُستعمل لتقسيم الجملة وتسهيل الوقف"
+      },
+      "hikmah": "Memberi kesempatan bagi pendengar merenungkan apa yang baru saja disebut",
+      "role": "none"
+    },
+    {
+      "index": 30,
       "kata_arab": "قُلِ",
       "transliterasi": "quli",
       "jenis_kata": "Fi'il",
@@ -543,7 +561,7 @@
       "role": "none"
     },
     {
-      "index": 30,
+      "index": 31,
       "kata_arab": "ٱللَّهُ",
       "transliterasi": "Allāhu",
       "jenis_kata": "Isim",
@@ -561,7 +579,25 @@
       "role": "none"
     },
     {
-      "index": 31,
+      "index": 32,
+      "kata_arab": "ۖ",
+      "transliterasi": "-",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda jeda",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Tidak berperan dalam nahwu, hanya tanda baca",
+        "irab_dan_logika": "Tidak memiliki i'rab"
+      },
+      "hikmah": "Memberi jeda bacaan untuk memperjelas ritme ayat",
+      "role": "none"
+    },
+    {
+      "index": 33,
       "kata_arab": "ثُمَّ",
       "transliterasi": "thumma",
       "jenis_kata": "Huruf",
@@ -579,7 +615,7 @@
       "role": "none"
     },
     {
-      "index": 32,
+      "index": 34,
       "kata_arab": "ذَرْهُمْ",
       "transliterasi": "dharrahum",
       "jenis_kata": "Fi'il",
@@ -597,7 +633,7 @@
       "role": "none"
     },
     {
-      "index": 33,
+      "index": 35,
       "kata_arab": "فِى",
       "transliterasi": "fī",
       "jenis_kata": "Huruf",
@@ -615,7 +651,7 @@
       "role": "none"
     },
     {
-      "index": 34,
+      "index": 36,
       "kata_arab": "خَوْضِهِمْ",
       "transliterasi": "khawḍihim",
       "jenis_kata": "Isim",
@@ -633,7 +669,7 @@
       "role": "none"
     },
     {
-      "index": 35,
+      "index": 37,
       "kata_arab": "يَلْعَبُونَ",
       "transliterasi": "yal‘abūna",
       "jenis_kata": "Fi‘il",

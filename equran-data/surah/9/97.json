@@ -220,6 +220,24 @@
     },
     {
       "index": 12,
+      "kata_arab": "ۗ",
+      "transliterasi": "ʿālamah fasl",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda berhenti ayat",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "penanda akhir ayat, tidak termasuk dalam sintaks kalimat",
+        "irab_dan_logika": "tidak memiliki i‘rāb; berfungsi sebagai isyarat jeda dan penekanan"
+      },
+      "hikmah": "Memberi jeda bagi pembaca untuk merenungkan makna ayat sebelum melanjutkan ke kalimat berikutnya.",
+      "role": "none"
+    },
+    {
+      "index": 13,
       "kata_arab": "وَٱللَّهُ",
       "transliterasi": "waAllāhu",
       "jenis_kata": "Isim",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "عَلِيمٌ",
       "transliterasi": "ʿAlīmun",
       "jenis_kata": "Isim",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "حَكِيمٌۭ",
       "transliterasi": "ḥakīmun",
       "jenis_kata": "Isim",

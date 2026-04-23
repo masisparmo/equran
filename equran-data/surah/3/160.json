@@ -112,6 +112,24 @@
     },
     {
       "index": 6,
+      "kata_arab": "ۖ",
+      "transliterasi": "—",
+      "jenis_kata": "Huruf",
+      "arti": "*tanda baca ayat*",
+      "sharaf": {
+        "akar_kata": "—",
+        "makna_dasar": "—",
+        "wazan_perubahan": "—"
+      },
+      "nahwu": {
+        "kedudukan": "*tanda baca* yang memisahkan bagian ayat",
+        "irab_dan_logika": "Tidak memiliki i‘rāb, berfungsi sebagai waqf untuk memberi jeda"
+      },
+      "hikmah": "Menandakan jeda, mempertegas makna sebelumnya",
+      "role": "none"
+    },
+    {
+      "index": 7,
       "kata_arab": "وَإِن",
       "transliterasi": "wa‑in",
       "jenis_kata": "Huruf",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "يَخْذُلْكُمْ",
       "transliterasi": "yakhdhulkum",
       "jenis_kata": "Fi'il",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "فَمَن",
       "transliterasi": "fa‑man",
       "jenis_kata": "Huruf + Isim",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "ذَا",
       "transliterasi": "dhaa",
       "jenis_kata": "Isim",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "ٱلَّذِى",
       "transliterasi": "alladhi",
       "jenis_kata": "Isim",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "يَنصُرُكُم",
       "transliterasi": "yanṣurukum",
       "jenis_kata": "Fi'il",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "مِّنۢ",
       "transliterasi": "min",
       "jenis_kata": "Huruf",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "بَعْدِهِۦ",
       "transliterasi": "ba‘di‑hi",
       "jenis_kata": "Isim",
@@ -255,7 +273,25 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
+      "kata_arab": "ۗ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf",
+      "arti": "tanda baca ayat",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "menandai jeda atau akhir bagian ayat",
+        "wazan_perubahan": "simbol tanda baca"
+      },
+      "nahwu": {
+        "kedudukan": "simbol pemisah dalam teks Qur'an",
+        "irab_dan_logika": "tidak berirab karena bukan kata"
+      },
+      "hikmah": "memberi jeda untuk memikirkan makna sebelumnya sebelum melanjutkan",
+      "role": "none"
+    },
+    {
+      "index": 16,
       "kata_arab": "وَعَلَى",
       "transliterasi": "wa‘alā",
       "jenis_kata": "Huruf",
@@ -273,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 17,
       "kata_arab": "ٱللَّهِ",
       "transliterasi": "Allāhi",
       "jenis_kata": "Isim",
@@ -291,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 18,
       "kata_arab": "فَلْيَتَوَكَّلِ",
       "transliterasi": "",
       "jenis_kata": "Fi'il (imperatif)",

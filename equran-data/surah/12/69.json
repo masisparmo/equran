@@ -130,6 +130,24 @@
     },
     {
       "index": 7,
+      "kata_arab": "ۖ",
+      "transliterasi": "sajdah",
+      "jenis_kata": "**Huruf** (tanda baca)",
+      "arti": "Tanda waqaf lazim (berhenti wajib)",
+      "sharaf": {
+        "akar_kata": "N/A (bukan kata)",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda **waqaf** (berhenti) dalam pembacaan Al-Qur'an.",
+        "irab_dan_logika": "N/A (bukan bagian dari struktur gramatikal kalimat)"
+      },
+      "hikmah": "Tanda ini menunjukkan tempat yang dianjurkan untuk berhenti membaca Al-Qur'an, membantu pembaca dalam memahami makna ayat dengan memisahkan gagasan atau kalimat.",
+      "role": "none"
+    },
+    {
+      "index": 8,
       "kata_arab": "قَالَ",
       "transliterasi": "qāla",
       "jenis_kata": "**Fi'il** (kata kerja)",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "إِنِّىٓ",
       "transliterasi": "innī",
       "jenis_kata": "**Huruf** (partikel)",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "أَنَا۠",
       "transliterasi": "anā",
       "jenis_kata": "**Isim** (dhamir/kata ganti)",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "أَخُوكَ",
       "transliterasi": "akhūka",
       "jenis_kata": "**Isim** (kata benda)",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "فَلَا",
       "transliterasi": "fa-lā",
       "jenis_kata": "Huruf",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "تَبْتَئِسْ",
       "transliterasi": "tabta'is",
       "jenis_kata": "Fi'il (Kata Kerja)",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "بِمَا",
       "transliterasi": "bi-mā",
       "jenis_kata": "Huruf (بِ) dan Isim/Huruf (مَا)",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "كَانُوا۟",
       "transliterasi": "kānū",
       "jenis_kata": "Fi'il (Kata Kerja)",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "يَعْمَلُونَ",
       "transliterasi": "ya'malūn",
       "jenis_kata": "Fi'il (Kata Kerja)",

@@ -148,6 +148,24 @@
     },
     {
       "index": 8,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda berhenti",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "menandai jeda dalam bacaan",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "simbol waqf, bukan bagian sintaksis",
+        "irab_dan_logika": "tidak memiliki iʿrāb"
+      },
+      "hikmah": "memberi jeda untuk menekankan makna sebelumnya sebelum melanjutkan",
+      "role": "none"
+    },
+    {
+      "index": 9,
       "kata_arab": "وَنَادَوْا۟",
       "transliterasi": "wanādaw",
       "jenis_kata": "Fi'il (dengan huruf wa)",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "أَصْحَابَ",
       "transliterasi": "aṣḥāba",
       "jenis_kata": "Isim",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "ٱلْجَنَّةِ",
       "transliterasi": "al‑jannati",
       "jenis_kata": "Isim",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "أَن",
       "transliterasi": "an",
       "jenis_kata": "Huruf",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "سَلَٰمٌ",
       "transliterasi": "salaamun",
       "jenis_kata": "Isim",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "عَلَيْكُمْ",
       "transliterasi": "ʿalaykum",
       "jenis_kata": "Huruf",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "لَمْ",
       "transliterasi": "lam",
       "jenis_kata": "Huruf",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "يَدْخُلُوهَا",
       "transliterasi": "yadkhulūhā",
       "jenis_kata": "Fi'il",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "وَهُمْ",
       "transliterasi": "wa hum",
       "jenis_kata": "Huruf dan Isim",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "يَطْمَعُونَ",
       "transliterasi": "yaṭma'ūna",
       "jenis_kata": "Fi'il",

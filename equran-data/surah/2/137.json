@@ -148,6 +148,24 @@
     },
     {
       "index": 8,
+      "kata_arab": "ۖ",
+      "transliterasi": "(Tanda Waqaf)",
+      "jenis_kata": "Tanda Baca",
+      "arti": "Tanda waqaf lazim (berhenti lebih baik)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf (berhenti).",
+        "irab_dan_logika": "Tidak memiliki kedudukan i'rab karena bukan merupakan bagian dari struktur kalimat bahasa Arab."
+      },
+      "hikmah": "Menunjukkan jeda yang dianjurkan dalam bacaan Al-Qur'an, memisahkan dua kondisi atau gagasan utama dalam ayat ini: kondisi beriman dan kondisi berpaling, beserta konsekuensinya masing-masing.",
+      "role": "none"
+    },
+    {
+      "index": 9,
       "kata_arab": "وَّإِن",
       "transliterasi": "Wa in",
       "jenis_kata": "Huruf",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "تَوَلَّوْا۟",
       "transliterasi": "Tawallaw",
       "jenis_kata": "Fi'il (Kata Kerja)",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "فَإِنَّمَا",
       "transliterasi": "Fa'innamā",
       "jenis_kata": "Huruf",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "هُمْ",
       "transliterasi": "hum",
       "jenis_kata": "Isim (Dhamir)",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "فِى",
       "transliterasi": "fī",
       "jenis_kata": "Huruf (Huruf Jar)",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "شِقَاقٍۢ",
       "transliterasi": "shiqāqin",
       "jenis_kata": "Isim (Mashdar)",
@@ -255,7 +273,25 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
+      "kata_arab": "ۖ",
+      "transliterasi": "-",
+      "jenis_kata": "Tanda Waqaf (Simbol)",
+      "arti": "-",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "-",
+        "irab_dan_logika": "-"
+      },
+      "hikmah": "Tanda waqaf ini berfungsi sebagai **jeda yang dianjurkan** dalam pembacaan Al-Qur'an. Ini memungkinkan pembaca untuk mengambil napas dan merenungkan makna bagian ayat sebelumnya, yaitu tentang kondisi permusuhan orang-orang yang berpaling, sebelum melanjutkan ke janji perlindungan dari Allah.",
+      "role": "none"
+    },
+    {
+      "index": 16,
       "kata_arab": "فَسَيَكْفِيكَهُمُ",
       "transliterasi": "fasayakfīkahumu",
       "jenis_kata": "Fi'il (Fi'il Mudhari')",
@@ -273,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 17,
       "kata_arab": "ٱللَّهُ",
       "transliterasi": "Allāhu",
       "jenis_kata": "Isim (Isim Jalalah)",
@@ -291,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 18,
       "kata_arab": "وَهُوَ",
       "transliterasi": "Wa Huwa",
       "jenis_kata": "Huruf dan Isim Dhomir",
@@ -309,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 19,
       "kata_arab": "ٱلسَّمِيعُ",
       "transliterasi": "As-Samī'u",
       "jenis_kata": "Isim (Asmaul Husna)",
@@ -327,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 20,
       "kata_arab": "ٱلْعَلِيمُ",
       "transliterasi": "Al-'Alīmu",
       "jenis_kata": "Isim (Asmaul Husna)",

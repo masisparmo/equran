@@ -220,6 +220,24 @@
     },
     {
       "index": 12,
+      "kata_arab": "ۚ",
+      "transliterasi": "waqf",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda berhenti/waqf",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqf di akhir ayat",
+        "irab_dan_logika": "Tidak berirab; berfungsi memisahkan bagian kalimat"
+      },
+      "hikmah": "Menandakan akhir pemikiran dalam ayat, memberi jeda bagi pendengar untuk merenungkan makna sebelumnya.",
+      "role": "none"
+    },
+    {
+      "index": 13,
       "kata_arab": "إِنَّهُۥ",
       "transliterasi": "innahu",
       "jenis_kata": "Huruf (harf ta'kid)",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "لَكُمْ",
       "transliterasi": "lakum",
       "jenis_kata": "Huruf (preposisi + kata ganti)",

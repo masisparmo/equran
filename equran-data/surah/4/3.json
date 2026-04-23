@@ -436,6 +436,24 @@
     },
     {
       "index": 24,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqaf lazim)",
+      "jenis_kata": "Huruf",
+      "arti": "Tanda waqaf lazim (harus berhenti)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf",
+        "irab_dan_logika": "N/A"
+      },
+      "hikmah": "Tanda ini menunjukkan akhir dari satu bagian kalimat dan pentingnya berhenti sejenak untuk memahami makna yang utuh sebelum melanjutkan ke bagian berikutnya. Ini membantu dalam pemahaman konteks ayat.",
+      "role": "none"
+    },
+    {
+      "index": 25,
       "kata_arab": "ذَٰلِكَ",
       "transliterasi": "dzālika",
       "jenis_kata": "Isim Isyarah",
@@ -453,7 +471,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 26,
       "kata_arab": "أَدْنَىٰٓ",
       "transliterasi": "adnā",
       "jenis_kata": "Isim Tafdhil",
@@ -471,7 +489,7 @@
       "role": "none"
     },
     {
-      "index": 26,
+      "index": 27,
       "kata_arab": "أَلَّا",
       "transliterasi": "allā",
       "jenis_kata": "Huruf",
@@ -489,7 +507,7 @@
       "role": "none"
     },
     {
-      "index": 27,
+      "index": 28,
       "kata_arab": "تَعُولُوا۟",
       "transliterasi": "ta'ūlū",
       "jenis_kata": "Fi'il Mudhari'",

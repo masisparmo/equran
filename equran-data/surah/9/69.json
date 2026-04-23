@@ -454,6 +454,42 @@
     },
     {
       "index": 25,
+      "kata_arab": "ۖ",
+      "transliterasi": "(tidak ada)",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda waqf kecil (pause)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "simbol waqf, tidak termasuk dalam i'rab",
+        "irab_dan_logika": "menandakan jeda dalam bacaan, tidak memiliki harakat"
+      },
+      "hikmah": "*Tidak mengubah makna ayat, hanya memberi jeda untuk memudahkan pembacaan.*",
+      "role": "none"
+    },
+    {
+      "index": 26,
+      "kata_arab": "وَأُولَٰئِكَ",
+      "transliterasi": "wa-ulaika",
+      "jenis_kata": "Isim (kata tunjuk) dengan huruf waqf \"wa\"",
+      "arti": "dan mereka itu",
+      "sharaf": {
+        "akar_kata": "أ ل ك",
+        "makna_dasar": "kata tunjuk yang merujuk kepada orang tertentu",
+        "wazan_perubahan": "اسم إشارة"
+      },
+      "nahwu": {
+        "kedudukan": "مبتدأ (subjek) dalam جملة اسمية",
+        "irab_dan_logika": "مرفوع بالضمة المقدرة karena berfungsi sebagai مبتدأ; huruf \"wa\" bersifat huruf عطف tidak mempengaruhi i'rab"
+      },
+      "hikmah": "*Menegaskan bahwa kelompok yang dibicarakan adalah orang‑orang tertentu yang akan disebutkan selanjutnya.*",
+      "role": "none"
+    },
+    {
+      "index": 27,
       "kata_arab": "هُمُ",
       "transliterasi": "hum",
       "jenis_kata": "Isim (kata ganti)",
@@ -471,7 +507,7 @@
       "role": "none"
     },
     {
-      "index": 26,
+      "index": 28,
       "kata_arab": "الْخَٰسِرُونَ",
       "transliterasi": "al‑khāsirūna",
       "jenis_kata": "Isim (isim fa'il jamak)",

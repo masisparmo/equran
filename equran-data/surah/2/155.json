@@ -184,6 +184,24 @@
     },
     {
       "index": 10,
+      "kata_arab": "ۗ",
+      "transliterasi": "(tanda waqaf lazim)",
+      "jenis_kata": "Tanda baca Al-Qur'an",
+      "arti": "-",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "-",
+        "irab_dan_logika": "Tanda waqaf lazim (harus berhenti). Menunjukkan akhir dari satu bagian makna dan awal bagian makna baru."
+      },
+      "hikmah": "Menandakan bahwa daftar cobaan telah selesai disebutkan, dan bagian selanjutnya akan membahas tentang respons terhadap cobaan tersebut, yaitu kesabaran dan berita gembira bagi orang-orang yang sabar.",
+      "role": "none"
+    },
+    {
+      "index": 11,
       "kata_arab": "وَبَشِّرِ",
       "transliterasi": "wa bashshir",
       "jenis_kata": "Fi'il",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "ٱلصَّٰبِرِينَ",
       "transliterasi": "al-ṣṣābirīn",
       "jenis_kata": "Isim (Kata Benda)",

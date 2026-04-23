@@ -130,6 +130,24 @@
     },
     {
       "index": 7,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Huruf waqf (tanda baca)",
+      "arti": "tanda jeda",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "penanda akhir ayat",
+        "irab_dan_logika": "tidak berirab, berfungsi memisahkan bagian kalimat"
+      },
+      "hikmah": "**ۚ** memberi jeda untuk menekankan makna tiap segmen ayat.",
+      "role": "none"
+    },
+    {
+      "index": 8,
       "kata_arab": "وَأُو۟لَٰٓئِكَ",
       "transliterasi": "wa-ula'ika",
       "jenis_kata": "Isim (kata ganti demonstratif)",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "هُمُ",
       "transliterasi": "humu",
       "jenis_kata": "Isim (kata ganti)",

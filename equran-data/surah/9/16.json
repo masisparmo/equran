@@ -364,6 +364,24 @@
     },
     {
       "index": 20,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Huruf",
+      "arti": "tanda jeda/berhenti",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca yang memisahkan dua bagian kalimat",
+        "irab_dan_logika": "menunjukkan jeda berhenti (waqf) setelah frasa sebelumnya"
+      },
+      "hikmah": "**Tanda waqf** ini memberi ruang bagi pembaca menelaah makna “orang‑orang yang beriman dan persahabatan” sebelum melanjutkan ayat.",
+      "role": "none"
+    },
+    {
+      "index": 21,
       "kata_arab": "وَٱللَّهُ",
       "transliterasi": "wa‑Allāh",
       "jenis_kata": "Huruf",
@@ -381,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 22,
       "kata_arab": "خَبِيرٌۢ",
       "transliterasi": "khabīrun",
       "jenis_kata": "Isim",
@@ -399,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 23,
       "kata_arab": "بِمَا",
       "transliterasi": "bi‑mā",
       "jenis_kata": "Huruf",
@@ -417,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 24,
       "kata_arab": "تَعْمَلُونَ",
       "transliterasi": "",
       "jenis_kata": "Fi'il",

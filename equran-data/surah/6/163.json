@@ -58,6 +58,24 @@
     },
     {
       "index": 3,
+      "kata_arab": "ۖ",
+      "transliterasi": "ٰ",
+      "jenis_kata": "Huruf",
+      "arti": "tanda waqf (koma)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "penanda jeda dalam bacaan",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca, tidak berirab",
+        "irab_dan_logika": "hanya berfungsi memisahkan bagian ayat"
+      },
+      "hikmah": "Memberi jeda untuk memperjelas makna sebelum melanjutkan ayat",
+      "role": "none"
+    },
+    {
+      "index": 4,
       "kata_arab": "وَبِذَٰلِكَ",
       "transliterasi": "wa-bidhālika",
       "jenis_kata": "Huruf",
@@ -75,7 +93,7 @@
       "role": "none"
     },
     {
-      "index": 4,
+      "index": 5,
       "kata_arab": "أُمِرْتُ",
       "transliterasi": "umirtu",
       "jenis_kata": "Fi'il",
@@ -93,7 +111,7 @@
       "role": "none"
     },
     {
-      "index": 5,
+      "index": 6,
       "kata_arab": "وَأَنَا۠",
       "transliterasi": "wa-anā",
       "jenis_kata": "Isim (dengan huruf wa sebagai awalan)",
@@ -111,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 7,
       "kata_arab": "أَوَّلُ",
       "transliterasi": "awwal",
       "jenis_kata": "Isim",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "ٱلْمُسْلِمِينَ",
       "transliterasi": "al-muslimīna",
       "jenis_kata": "Isim jam'i (kata benda jamak)",

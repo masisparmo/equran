@@ -130,6 +130,24 @@
     },
     {
       "index": 7,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf (tanda waqf / pause)",
+      "arti": "tanda jeda",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca, bukan bagian tata‑bahasa",
+        "irab_dan_logika": "Tidak memiliki i‘rāb; berfungsi memisahkan dua bagian kalimat untuk memberi jeda bacaan."
+      },
+      "hikmah": "Memberi penekanan pada pernyataan **قَالَ** sebelum melanjutkan negasi **لَا عَاصِمَ**.",
+      "role": "none"
+    },
+    {
+      "index": 8,
       "kata_arab": "قَالَ",
       "transliterasi": "qāla",
       "jenis_kata": "Fi‘il (kata kerja)",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "لَا",
       "transliterasi": "lā",
       "jenis_kata": "Huruf (partikel negatif)",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "عَاصِمَ",
       "transliterasi": "ʿāṣima",
       "jenis_kata": "Isim (kata benda)",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "ٱلْيَوْمَ",
       "transliterasi": "al‑yawma",
       "jenis_kata": "Isim (kata benda)",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "مِنْ",
       "transliterasi": "min",
       "jenis_kata": "Huruf",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "أَمْرِ",
       "transliterasi": "amr",
       "jenis_kata": "Isim",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "ٱللَّهِ",
       "transliterasi": "Allahi",
       "jenis_kata": "Isim",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "إِلَّا",
       "transliterasi": "illa",
       "jenis_kata": "Huruf",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "مَن",
       "transliterasi": "man",
       "jenis_kata": "Isim",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "رَّحِمَ",
       "transliterasi": "rahima",
       "jenis_kata": "Fi'il",
@@ -309,7 +327,25 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf",
+      "arti": "tanda baca (tanda waqf)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "simbol waqf di akhir ayat",
+        "irab_dan_logika": "menandakan berhenti, tidak memiliki harakat"
+      },
+      "hikmah": "menunjukkan akhir kalimat, memberi jeda bagi pembaca",
+      "role": "none"
+    },
+    {
+      "index": 19,
       "kata_arab": "ٱلْمُغْرَقِينَ",
       "transliterasi": "al‑mughraqīna",
       "jenis_kata": "Isim",

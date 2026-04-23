@@ -238,6 +238,24 @@
     },
     {
       "index": 13,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda baca)",
+      "jenis_kata": "Huruf",
+      "arti": "tanda berhenti/istirahat",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Penanda akhir ayat, tidak termasuk dalam sintaks kalimat",
+        "irab_dan_logika": "Tidak berharakat, berfungsi sebagai tanda baca untuk memisahkan ayat"
+      },
+      "hikmah": "Menunjukkan jeda, memberi kesempatan bagi pembaca untuk merenungkan makna ayat sebelumnya",
+      "role": "none"
+    },
+    {
+      "index": 14,
       "kata_arab": "سَنَزِيدُ",
       "transliterasi": "sanazīdu",
       "jenis_kata": "Fi'il",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "ٱلْمُحْسِنِينَ",
       "transliterasi": "al‑muḥsinīna",
       "jenis_kata": "Isim",

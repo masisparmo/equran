@@ -184,6 +184,24 @@
     },
     {
       "index": 10,
+      "kata_arab": "ۚ",
+      "transliterasi": "-",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "-",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "-",
+        "irab_dan_logika": "-"
+      },
+      "hikmah": "Tanda waqaf 'ج' (Jim) dalam mushaf Al-Qur'an menunjukkan bahwa berhenti di sini adalah *jaiz* (boleh), artinya boleh berhenti atau melanjutkan. Dalam konteks makna, ini menandai akhir dari satu klausa dan transisi ke klausa berikutnya yang membahas tentang hak menetapkan hukum.",
+      "role": "none"
+    },
+    {
+      "index": 11,
       "kata_arab": "إِنِ",
       "transliterasi": "ini",
       "jenis_kata": "Huruf Nafyi",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "ٱلْحُكْمُ",
       "transliterasi": "al-ḥukmu",
       "jenis_kata": "Isim",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "إِلَّا",
       "transliterasi": "illā",
       "jenis_kata": "Huruf Istitsna'",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "لِلَّهِ",
       "transliterasi": "li-llāhi",
       "jenis_kata": "Huruf",
@@ -255,7 +273,25 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
+      "kata_arab": "ۖ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf",
+      "arti": "tanda waqf (istirahat)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca",
+        "irab_dan_logika": "tidak berharakat, berfungsi memisahkan bagian ayat"
+      },
+      "hikmah": "menandakan jeda atau berhenti sejenak dalam bacaan",
+      "role": "none"
+    },
+    {
+      "index": 16,
       "kata_arab": "يَقُصُّ",
       "transliterasi": "yaqussu",
       "jenis_kata": "Fi'il",
@@ -273,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 17,
       "kata_arab": "ٱلْحَقَّ",
       "transliterasi": "al-ḥaqqa",
       "jenis_kata": "Isim",
@@ -291,7 +327,25 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 18,
+      "kata_arab": "ۖ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf",
+      "arti": "tanda waqf (istirahat)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca",
+        "irab_dan_logika": "tidak berharakat, memisahkan bagian ayat"
+      },
+      "hikmah": "memberi jeda untuk menekankan makna sebelumnya",
+      "role": "none"
+    },
+    {
+      "index": 19,
       "kata_arab": "وَهُوَ",
       "transliterasi": "wa huwa",
       "jenis_kata": "Huruf",
@@ -309,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 20,
       "kata_arab": "خَيْرُ",
       "transliterasi": "khayru",
       "jenis_kata": "Isim (kata benda)",
@@ -327,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 21,
       "kata_arab": "ٱلْفَٰصِلِينَ",
       "transliterasi": "al-fāṣilīna",
       "jenis_kata": "Isim (kata benda) – isim fa'il (aktif) jamak maskulin",

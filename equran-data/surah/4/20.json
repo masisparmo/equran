@@ -238,6 +238,24 @@
     },
     {
       "index": 13,
+      "kata_arab": "ۚ",
+      "transliterasi": "(Tanda Waqaf Lazim)",
+      "jenis_kata": "Huruf (Tanda Baca)",
+      "arti": "Tanda waqaf lazim (harus berhenti)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca",
+        "irab_dan_logika": "N/A"
+      },
+      "hikmah": "Tanda waqaf lazim ini menunjukkan bahwa pembaca Al-Qur'an **harus berhenti** pada titik ini. Ini membantu dalam memahami makna ayat dengan memisahkan satu gagasan atau kalimat lengkap dari yang berikutnya, sehingga intonasi dan pemahaman makna menjadi lebih tepat.",
+      "role": "none"
+    },
+    {
+      "index": 14,
       "kata_arab": "أَتَأْخُذُونَهُۥ",
       "transliterasi": "Atakhudzunahu",
       "jenis_kata": "Fi'il",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "بُهْتَٰنًۭا",
       "transliterasi": "Buhtānan",
       "jenis_kata": "Isim",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "وَإِثْمًۭا",
       "transliterasi": "Wa-ithman",
       "jenis_kata": "Huruf (waw) dan Isim (ithm)",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "مُّبِينًۭا",
       "transliterasi": "Mubīnan",
       "jenis_kata": "Isim",

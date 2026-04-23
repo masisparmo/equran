@@ -238,6 +238,24 @@
     },
     {
       "index": 13,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Huruf",
+      "arti": "tanda berhenti/istirahat",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Penanda akhir ayat/klause",
+        "irab_dan_logika": "Tidak memiliki i‘rāb, berfungsi sebagai tanda jeda untuk memperjelas makna"
+      },
+      "hikmah": "Memberi kesempatan bagi pembaca merenungkan makna ayat sebelum melanjutkan ke bagian berikutnya.",
+      "role": "none"
+    },
+    {
+      "index": 14,
       "kata_arab": "وَأُو۟لَٰٓئِكَ",
       "transliterasi": "wa‑ulāʾika",
       "jenis_kata": "Isim (kata tunjuk)",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "هُمُ",
       "transliterasi": "hum",
       "jenis_kata": "Isim (kata ganti)",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "ٱلْفَآئِزُونَ",
       "transliterasi": "al‑fāʾizūna",
       "jenis_kata": "Isim (isim faʿīl)",

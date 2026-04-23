@@ -148,6 +148,24 @@
     },
     {
       "index": 8,
+      "kata_arab": "ۖ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "Huruf",
+      "arti": "Tanda waqaf lazim (berhenti lebih utama)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf",
+        "irab_dan_logika": "Bukan bagian dari i'rab karena ini adalah tanda baca untuk memandu pembacaan Al-Qur'an."
+      },
+      "hikmah": "Menunjukkan tempat berhenti yang dianjurkan dalam pembacaan Al-Qur'an untuk memahami makna kalimat sebelumnya sebelum melanjutkan ke kalimat berikutnya, memisahkan ancaman dari Allah dan Rasul-Nya dengan tawaran taubat.",
+      "role": "none"
+    },
+    {
+      "index": 9,
       "kata_arab": "وَإِن",
       "transliterasi": "wa-in",
       "jenis_kata": "Huruf",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "تُبْتُمْ",
       "transliterasi": "tubtum",
       "jenis_kata": "Fi'il",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "فَلَكُمْ",
       "transliterasi": "fa-lakum",
       "jenis_kata": "Huruf + Isim",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "رُءُوسُ",
       "transliterasi": "ru'ūsu",
       "jenis_kata": "Isim (Kata Benda)",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "أَمْوَٰلِكُمْ",
       "transliterasi": "amwālikum",
       "jenis_kata": "Isim (Kata Benda)",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "لَا",
       "transliterasi": "lā",
       "jenis_kata": "Huruf",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "تَظْلِمُونَ",
       "transliterasi": "taẓlimūna",
       "jenis_kata": "Fi'il (Kata Kerja)",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "وَلَا",
       "transliterasi": "wa lā",
       "jenis_kata": "Huruf",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "تُظْلَمُونَ",
       "transliterasi": "tuẓlamūna",
       "jenis_kata": "Fi'il (Kata Kerja)",

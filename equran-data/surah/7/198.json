@@ -112,6 +112,24 @@
     },
     {
       "index": 6,
+      "kata_arab": "ۖ",
+      "transliterasi": "—",
+      "jenis_kata": "Huruf (tanda waqf)",
+      "arti": "tanda jeda/waqf",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "tanda waqf",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "penanda akhir ayat sebelum lanjutan",
+        "irab_dan_logika": "tidak memiliki harakat karena merupakan tanda baca"
+      },
+      "hikmah": "menandakan jeda, memberi ruang bagi pembaca untuk memisahkan dua bagian kalimat",
+      "role": "none"
+    },
+    {
+      "index": 7,
       "kata_arab": "وَتَرَىٰهُمْ",
       "transliterasi": "wa‑tarāhum",
       "jenis_kata": "Fi'il (mudhari') dengan dhamir muttasil",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "يَنظُرُونَ",
       "transliterasi": "yanẓurūna",
       "jenis_kata": "Fi'il (mudhari') jamak",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "إِلَيْكَ",
       "transliterasi": "ilāka",
       "jenis_kata": "Huruf jar + dhamir muttasil",
@@ -165,7 +183,25 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
+      "kata_arab": "وَهُمْ",
+      "transliterasi": "wa‑hum",
+      "jenis_kata": "Isim (dhamir) dengan huruf waqf",
+      "arti": "dan mereka",
+      "sharaf": {
+        "akar_kata": "ه م",
+        "makna_dasar": "mereka (dhamir)",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "dhamir marfu' sebagai subjek terselubung pada kalimat selanjutnya",
+        "irab_dan_logika": "marfu' karena berfungsi sebagai mubtada' terselubung, diikuti huruf wa"
+      },
+      "hikmah": "menegaskan keberadaan berhala‑berhala sebagai subjek yang tidak dapat melihat",
+      "role": "none"
+    },
+    {
+      "index": 11,
       "kata_arab": "لَا",
       "transliterasi": "lā",
       "jenis_kata": "Huruf (nafi)",
@@ -183,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 12,
       "kata_arab": "يُبْصِرُونَ",
       "transliterasi": "yubsirūna",
       "jenis_kata": "Fi'il",

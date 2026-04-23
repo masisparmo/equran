@@ -76,6 +76,24 @@
     },
     {
       "index": 4,
+      "kata_arab": "ۚ",
+      "transliterasi": "—",
+      "jenis_kata": "Huruf (tanda waqf)",
+      "arti": "tanda jeda/berhenti",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca yang memisahkan bagian kalimat",
+        "irab_dan_logika": "Tidak berirab, berfungsi sebagai **waqf** untuk memberi jeda"
+      },
+      "hikmah": "Menandakan akhir bagian kalimat, memberi ruang bagi pembaca memahami makna sebelumnya.",
+      "role": "none"
+    },
+    {
+      "index": 5,
       "kata_arab": "مَا",
       "transliterasi": "mā",
       "jenis_kata": "Isim (isim ma‘rifiyyah/isim moṣūl)",
@@ -93,7 +111,7 @@
       "role": "none"
     },
     {
-      "index": 5,
+      "index": 6,
       "kata_arab": "يَعْبُدُونَ",
       "transliterasi": "ya‘budūna",
       "jenis_kata": "Fi‘il (madhi mudhari‘ marfu‘)",
@@ -111,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 7,
       "kata_arab": "إِلَّا",
       "transliterasi": "illā",
       "jenis_kata": "Huruf (harf istithna’)",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "كَمَا",
       "transliterasi": "kamā",
       "jenis_kata": "Huruf (harf tashbih)",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "يَعْبُدُ",
       "transliterasi": "ya‘budu",
       "jenis_kata": "Fi‘il",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "أَبَاؤُهُمْ",
       "transliterasi": "abaā’uhum",
       "jenis_kata": "Isim",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "مِن",
       "transliterasi": "min",
       "jenis_kata": "Huruf",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "قَبْلُ",
       "transliterasi": "qabl",
       "jenis_kata": "Isim",
@@ -219,7 +237,25 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Huruf",
+      "arti": "tanda jeda",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda waqf (وقف) yang memisahkan bagian ayat",
+        "irab_dan_logika": "tidak يُعرب karena هو علامة إعرابية"
+      },
+      "hikmah": "memberi jeda untuk menekankan makna sebelumnya sebelum melanjutkan ke ayat berikutnya.",
+      "role": "none"
+    },
+    {
+      "index": 14,
       "kata_arab": "وَإِنَّا",
       "transliterasi": "wa‑inna",
       "jenis_kata": "Huruf",
@@ -237,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 15,
       "kata_arab": "لَمُوَفُّوهُمْ",
       "transliterasi": "lamūwaffūhum",
       "jenis_kata": "Fi'il (verb)",
@@ -255,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 16,
       "kata_arab": "نَصِيبَهُمْ",
       "transliterasi": "naṣībahum",
       "jenis_kata": "Isim (noun)",
@@ -273,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 17,
       "kata_arab": "غَيْرَ",
       "transliterasi": "ghayra",
       "jenis_kata": "Huruf (partikel)",
@@ -291,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 18,
       "kata_arab": "مَنقُوصٍۢ",
       "transliterasi": "manqūṣin",
       "jenis_kata": "Isim (isim maf‘ul)",

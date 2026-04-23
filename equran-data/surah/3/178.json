@@ -184,6 +184,24 @@
     },
     {
       "index": 10,
+      "kata_arab": "ۚ",
+      "transliterasi": "waqf",
+      "jenis_kata": "Huruf (tanda waqf)",
+      "arti": "tanda jeda",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "pemisah antar bagian ayat",
+        "irab_dan_logika": "tidak berirab karena bukan kata"
+      },
+      "hikmah": "Memisahkan dua segmen makna dalam ayat untuk memberi jeda bacaan.",
+      "role": "none"
+    },
+    {
+      "index": 11,
       "kata_arab": "وَلَهُمْ",
       "transliterasi": "walahum",
       "jenis_kata": "Huruf (wa + preposisi)",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "عَذَابٌۭ",
       "transliterasi": "ʿadhābun",
       "jenis_kata": "Isim (noun)",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "مُّهِينٌۭ",
       "transliterasi": "muhīnun",
       "jenis_kata": "Isim (isim fa'il)",

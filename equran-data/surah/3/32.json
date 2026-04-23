@@ -76,6 +76,24 @@
     },
     {
       "index": 4,
+      "kata_arab": "ۖ",
+      "transliterasi": "Sajdah (tanda waqaf)",
+      "jenis_kata": "Tanda Baca",
+      "arti": "Tanda waqaf lazim (berhenti lebih baik)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Bukan bagian dari struktur gramatikal kalimat.",
+        "irab_dan_logika": "Tidak memiliki i'rab karena bukan kata."
+      },
+      "hikmah": "Tanda 'ۖ' (waqaf lazim) menunjukkan bahwa berhenti pada titik ini adalah lebih utama untuk memahami makna ayat dengan benar. Dalam konteks ayat ini, berhenti di sini memisahkan perintah ketaatan dari konsekuensi jika berpaling.",
+      "role": "none"
+    },
+    {
+      "index": 5,
       "kata_arab": "فَإِن",
       "transliterasi": "Fa-in",
       "jenis_kata": "Huruf (Partikel)",
@@ -93,7 +111,7 @@
       "role": "none"
     },
     {
-      "index": 5,
+      "index": 6,
       "kata_arab": "تَوَلَّوْا۟",
       "transliterasi": "tawallaw",
       "jenis_kata": "Fi'il",
@@ -111,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 7,
       "kata_arab": "فَإِنَّ",
       "transliterasi": "fa-inna",
       "jenis_kata": "Huruf",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "ٱللَّهَ",
       "transliterasi": "Allāha",
       "jenis_kata": "Isim",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "لَا",
       "transliterasi": "lā",
       "jenis_kata": "Huruf",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "يُحِبُّ",
       "transliterasi": "yuḥibbu",
       "jenis_kata": "Fi'il",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "ٱلْكَٰفِرِينَ",
       "transliterasi": "al-kāfirīna",
       "jenis_kata": "Isim",

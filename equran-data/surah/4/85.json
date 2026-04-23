@@ -292,6 +292,24 @@
     },
     {
       "index": 16,
+      "kata_arab": "ۗ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "Tanda baca/simbol",
+      "arti": "berhenti (lebih baik), tanda waqaf jaiz",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Tidak berlaku",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf (berhenti)",
+        "irab_dan_logika": "Tidak berlaku untuk tanda baca. Ini adalah tanda yang menunjukkan tempat yang dianjurkan untuk berhenti membaca, namun boleh juga melanjutkan."
+      },
+      "hikmah": "Menunjukkan jeda dalam bacaan Al-Qur'an untuk memudahkan pemahaman makna. Dalam konteks ayat, ini menandai akhir dari satu bagian hukum atau pernyataan, sebelum melanjutkan ke pernyataan berikutnya.",
+      "role": "none"
+    },
+    {
+      "index": 17,
       "kata_arab": "وَكَانَ",
       "transliterasi": "wa kāna",
       "jenis_kata": "Fi'il",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "ٱللَّهُ",
       "transliterasi": "Allāhu",
       "jenis_kata": "Isim",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 19,
       "kata_arab": "عَلَىٰ",
       "transliterasi": "alā",
       "jenis_kata": "Huruf",
@@ -345,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 20,
       "kata_arab": "كُلِّ",
       "transliterasi": "kulli",
       "jenis_kata": "Isim",
@@ -363,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 21,
       "kata_arab": "شَىْءٍۢ",
       "transliterasi": "syay'in",
       "jenis_kata": "Isim",
@@ -381,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 22,
       "kata_arab": "مُّقِيتًۭا",
       "transliterasi": "muqītā",
       "jenis_kata": "Isim",

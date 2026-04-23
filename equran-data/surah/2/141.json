@@ -76,6 +76,24 @@
     },
     {
       "index": 4,
+      "kata_arab": "ۖ",
+      "transliterasi": "(Tanda Waqaf Lazim)",
+      "jenis_kata": "Tanda Baca Al-Qur'an",
+      "arti": "Berhenti di sini (wajib)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Menunjukkan tempat berhenti yang dianjurkan atau wajib dalam bacaan Al-Qur'an",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Bukan bagian dari struktur gramatikal kalimat",
+        "irab_dan_logika": "Tidak memiliki i'rab. Ini adalah tanda tajwid."
+      },
+      "hikmah": "Secara gramatikal tidak memiliki makna, tetapi secara tajwid dan pemahaman, ia menandakan akhir dari satu klausa atau gagasan, memberikan jeda untuk merenungkan makna 'umat yang telah berlalu' sebelum melanjutkan ke bagian berikutnya tentang pertanggungjawaban. Ini membantu pembaca memahami pembagian makna dalam ayat.",
+      "role": "none"
+    },
+    {
+      "index": 5,
       "kata_arab": "لَهَا",
       "transliterasi": "Lahā",
       "jenis_kata": "Huruf Jar + Dhamir (Preposisi + Kata Ganti)",
@@ -93,7 +111,7 @@
       "role": "none"
     },
     {
-      "index": 5,
+      "index": 6,
       "kata_arab": "مَا",
       "transliterasi": "mā",
       "jenis_kata": "Isim Maushul",
@@ -111,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 7,
       "kata_arab": "كَسَبَتْ",
       "transliterasi": "kasabat",
       "jenis_kata": "Fi'il",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "وَلَكُم",
       "transliterasi": "walakum",
       "jenis_kata": "Huruf (Waw) + Huruf (Lam) + Isim Dhamir (Kum)",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "مَّا",
       "transliterasi": "mā",
       "jenis_kata": "Isim Maushul",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "كَسَبْتُمْ",
       "transliterasi": "kasabtum",
       "jenis_kata": "Fi'il",
@@ -183,7 +201,25 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
+      "kata_arab": "ۖ",
+      "transliterasi": "Tidak berlaku",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "Tidak ada arti harfiah",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Tanda waqaf ja'iz (boleh berhenti atau melanjutkan).",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf.",
+        "irab_dan_logika": "Tidak memiliki i'rab. Fungsinya adalah untuk memandu pembacaan Al-Qur'an."
+      },
+      "hikmah": "Tanda waqaf ini (waqaf ja'iz) menunjukkan bahwa pembaca boleh berhenti di sini atau melanjutkan bacaan. Keberadaannya setelah penegasan 'dan bagi kalian apa yang kalian usahakan' berfungsi untuk memberikan jeda, menekankan prinsip pertanggungjawaban amal pribadi, sebelum ayat melanjutkan dengan penafian tanggung jawab atas perbuatan orang lain. Ini membantu pembaca untuk mencerna dan merenungkan makna bagian ayat tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 12,
       "kata_arab": "وَلَا",
       "transliterasi": "wa-lā",
       "jenis_kata": "Huruf",
@@ -201,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 13,
       "kata_arab": "تُسْـَٔلُونَ",
       "transliterasi": "tus-alūna",
       "jenis_kata": "Fi'il",
@@ -219,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 14,
       "kata_arab": "عَمَّا",
       "transliterasi": "ammā",
       "jenis_kata": "Huruf dan Isim Maushul",
@@ -237,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 15,
       "kata_arab": "كَانُوا۟",
       "transliterasi": "kānū",
       "jenis_kata": "Fi'il",
@@ -255,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 16,
       "kata_arab": "يَعْمَلُونَ",
       "transliterasi": "ya'malūna",
       "jenis_kata": "Fi'il",

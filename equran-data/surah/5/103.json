@@ -202,6 +202,24 @@
     },
     {
       "index": 11,
+      "kata_arab": "ۙ",
+      "transliterasi": "ʿālamah sajdah",
+      "jenis_kata": "Huruf (simbol)",
+      "arti": "tanda sajda",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 12,
       "kata_arab": "وَلَٰكِنَّ",
       "transliterasi": "walakinna",
       "jenis_kata": "Huruf",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "ٱلَّذِينَ",
       "transliterasi": "alladhīna",
       "jenis_kata": "Isim",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "كَفَرُوا۟",
       "transliterasi": "kafarū",
       "jenis_kata": "Fi'il",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "يَفْتَرُونَ",
       "transliterasi": "yaftarūna",
       "jenis_kata": "Fi'il",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "عَلَى",
       "transliterasi": "ʿalā",
       "jenis_kata": "Huruf",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "ٱللَّهِ",
       "transliterasi": "Allāhi",
       "jenis_kata": "Isim",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "ٱلْكَذِبَ",
       "transliterasi": "al-kaḍhib",
       "jenis_kata": "Isim",
@@ -327,7 +345,25 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 19,
+      "kata_arab": "ۖ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda jeda/berhenti",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "simbol waqf (tanda baca) yang memisahkan bagian kalimat",
+        "irab_dan_logika": "tidak memiliki iʿrāb karena bukan kata"
+      },
+      "hikmah": "Memberi jeda untuk menekankan perbedaan antara pernyataan tentang kebohongan dan konsekuensi bagi orang kafir.",
+      "role": "none"
+    },
+    {
+      "index": 20,
       "kata_arab": "وَأَكْثَرُهُمْ",
       "transliterasi": "wa‑aktharuhum",
       "jenis_kata": "Isim (isim mafʿul) dengan huruf *wa*",
@@ -345,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 21,
       "kata_arab": "لَا",
       "transliterasi": "lā",
       "jenis_kata": "Huruf (harf naṣr)",
@@ -363,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 22,
       "kata_arab": "يَعْقِلُونَ",
       "transliterasi": "yaʿqilūna",
       "jenis_kata": "Fiʿl (verb) mudhariʿ majzoom",

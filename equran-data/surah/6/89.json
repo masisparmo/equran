@@ -112,6 +112,24 @@
     },
     {
       "index": 6,
+      "kata_arab": "ۚ",
+      "transliterasi": "—",
+      "jenis_kata": "Huruf",
+      "arti": "tanda waqf (istirahat)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Berada di akhir kalimat sebagai tanda berhenti/istirahat",
+        "irab_dan_logika": "Tidak memiliki harakat karena merupakan tanda baca, menandakan jeda sebelum melanjutkan ayat selanjutnya"
+      },
+      "hikmah": "Menunjukkan pentingnya berhenti sejenak untuk merenungkan makna ayat sebelum melanjutkan",
+      "role": "none"
+    },
+    {
+      "index": 7,
       "kata_arab": "فَإِن",
       "transliterasi": "fa‑in",
       "jenis_kata": "Huruf",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "يَكْفُرْ",
       "transliterasi": "yakūfur",
       "jenis_kata": "Fi'il",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "بِهَا",
       "transliterasi": "bi‑ha",
       "jenis_kata": "Huruf",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "هَٰٓؤُلَآءِ",
       "transliterasi": "haʼulāʼi",
       "jenis_kata": "Isim",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "فَقَدْ",
       "transliterasi": "fa‑qad",
       "jenis_kata": "Huruf",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "وَكَّلْنَا",
       "transliterasi": "wa-kallnā",
       "jenis_kata": "Fi'il",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "بِهَا",
       "transliterasi": "bi‑hā",
       "jenis_kata": "Huruf (preposisi) + ضمير متصل",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "قَوْمًۭا",
       "transliterasi": "qawman",
       "jenis_kata": "Isim",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "لَّيْسُوا۟",
       "transliterasi": "laysaū",
       "jenis_kata": "Fi'il (ليس)",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "بِهَا",
       "transliterasi": "bi‑hā",
       "jenis_kata": "Huruf (preposisi) + ضمير متصل",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "بِكَافِرِينَ",
       "transliterasi": "bi‑kāfirīna",
       "jenis_kata": "Huruf (preposisi) + Isim",

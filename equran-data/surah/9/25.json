@@ -112,6 +112,24 @@
     },
     {
       "index": 6,
+      "kata_arab": "ۙ",
+      "transliterasi": "waqf",
+      "jenis_kata": "Huruf",
+      "arti": "tanda waqf (berhenti)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda waqf di antara kata-kata",
+        "irab_dan_logika": "menandakan jeda baca, tidak memiliki harakat"
+      },
+      "hikmah": "*Menunjukkan berhentinya bacaan, memberi kesempatan merenungkan ayat sebelumnya.*",
+      "role": "none"
+    },
+    {
+      "index": 7,
       "kata_arab": "وَيَوْمَ",
       "transliterasi": "wa‑yawma",
       "jenis_kata": "Huruf (wa) + Isim (yawma)",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "حُنَيْنٍ",
       "transliterasi": "Hunain",
       "jenis_kata": "Isim",
@@ -147,7 +165,25 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
+      "kata_arab": "ۙ",
+      "transliterasi": "waqf",
+      "jenis_kata": "Huruf",
+      "arti": "tanda waqf (berhenti)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda waqf di antara kata-kata",
+        "irab_dan_logika": "menandakan jeda baca, tidak memiliki harakat"
+      },
+      "hikmah": "*Memberi ruang bagi pendengar untuk merenungkan makna peristiwa Hunain.*",
+      "role": "none"
+    },
+    {
+      "index": 10,
       "kata_arab": "إِذْ",
       "transliterasi": "idh",
       "jenis_kata": "Huruf",
@@ -165,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 11,
       "kata_arab": "أَعْجَبَتْكُمْ",
       "transliterasi": "aʿjabatkum",
       "jenis_kata": "Fi'il",
@@ -183,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 12,
       "kata_arab": "كَثْرَتُكُمْ",
       "transliterasi": "kathratukum",
       "jenis_kata": "Isim",
@@ -201,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 13,
       "kata_arab": "فَلَمْ",
       "transliterasi": "fa lam",
       "jenis_kata": "Huruf (faʾ = huruf ‘fa’, lam = huruf ‘lam’)",
@@ -219,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 14,
       "kata_arab": "تُغْنِ",
       "transliterasi": "tughni",
       "jenis_kata": "Fi‘il mudhari‘ (present tense)",
@@ -237,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 15,
       "kata_arab": "عَنكُمْ",
       "transliterasi": "ʿankum",
       "jenis_kata": "Harf jar + dhamir muttasil",
@@ -255,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 16,
       "kata_arab": "شَيْـًۭٔا",
       "transliterasi": "shay'an",
       "jenis_kata": "Isim",
@@ -273,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 17,
       "kata_arab": "وَضَاقَتْ",
       "transliterasi": "wa daaqat",
       "jenis_kata": "Fi‘il madhi (past tense)",
@@ -291,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 18,
       "kata_arab": "عَلَيْكُمُ",
       "transliterasi": "‘alaykum",
       "jenis_kata": "Huruf (preposisi) dengan ضمير متصل",
@@ -309,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 19,
       "kata_arab": "الْأَرْضُ",
       "transliterasi": "al‑arḍu",
       "jenis_kata": "Isim (isim mufrad)",
@@ -327,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 20,
       "kata_arab": "مُّدْبِرِينَ",
       "transliterasi": "mudbirīna",
       "jenis_kata": "Isim",

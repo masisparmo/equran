@@ -130,6 +130,24 @@
     },
     {
       "index": 7,
+      "kata_arab": "ۖ",
+      "transliterasi": "-",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "Tanda waqaf jaiz (boleh berhenti, boleh lanjut)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku.",
+        "makna_dasar": "Tidak berlaku.",
+        "wazan_perubahan": "Tidak berlaku."
+      },
+      "nahwu": {
+        "kedudukan": "Tidak berlaku.",
+        "irab_dan_logika": "Tidak berlaku."
+      },
+      "hikmah": "Menunjukkan tempat yang disarankan untuk berhenti membaca, memberikan jeda untuk memahami makna kalimat sebelumnya.",
+      "role": "none"
+    },
+    {
+      "index": 8,
       "kata_arab": "قَالُوا۟",
       "transliterasi": "qālū",
       "jenis_kata": "Fi'il (kata kerja)",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "يَٰٓأَبَانَا",
       "transliterasi": "yā abānā",
       "jenis_kata": "Huruf (panggilan) + Isim (ayah) + Isim (pronomina)",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "مَا",
       "transliterasi": "mā",
       "jenis_kata": "Huruf (istifham/negasi)",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "نَبْغِى",
       "transliterasi": "nabghī",
       "jenis_kata": "Fi'il (kata kerja)",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "هَٰذِهِۦ",
       "transliterasi": "Hādhīhi",
       "jenis_kata": "Isim Isyarah",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "بِضَٰعَتُنَا",
       "transliterasi": "Biḍā‘atunā",
       "jenis_kata": "Isim (Kata Benda)",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "رُدَّتْ",
       "transliterasi": "Ruddāt",
       "jenis_kata": "Fi'il Madhi Majhul (Kata Kerja Lampau Pasif)",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "إِلَيْنَا",
       "transliterasi": "Ilaynā",
       "jenis_kata": "Huruf Jar + Dhamir Muttasil",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "وَنَمِيرُ",
       "transliterasi": "wa-namīru",
       "jenis_kata": "Fi'il",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "أَهْلَنَا",
       "transliterasi": "ahlanā",
       "jenis_kata": "Isim",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "وَنَحْفَظُ",
       "transliterasi": "wa-nahfaẓu",
       "jenis_kata": "Fi'il",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 19,
       "kata_arab": "أَخَانَا",
       "transliterasi": "akhānā",
       "jenis_kata": "Isim",
@@ -345,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 20,
       "kata_arab": "وَنَزْدَادُ",
       "transliterasi": "wa-nazdādu",
       "jenis_kata": "Fi'il",
@@ -363,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 21,
       "kata_arab": "كَيْلَ",
       "transliterasi": "kaila",
       "jenis_kata": "Isim",
@@ -381,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 22,
       "kata_arab": "بَعِيرٍۢ",
       "transliterasi": "ba'īrin",
       "jenis_kata": "Isim",
@@ -399,7 +417,25 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 23,
+      "kata_arab": "ۖ",
+      "transliterasi": "-",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "Tanda waqaf jaiz (boleh berhenti, boleh melanjutkan)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "N/A (bukan bagian dari struktur gramatikal kalimat)",
+        "irab_dan_logika": "N/A"
+      },
+      "hikmah": "Tanda waqaf ini menunjukkan bahwa pembaca boleh berhenti di sini untuk mengambil napas atau memahami makna, tetapi juga boleh melanjutkan bacaan karena makna belum sepenuhnya selesai atau ada hubungan erat dengan kalimat berikutnya. Dalam konteks ini, berhenti di 'بَعِيرٍ' (unta) dan melanjutkan ke 'ذَٰلِكَ كَيْلٌ يَسِيرٌ' (itu adalah takaran yang mudah) adalah pilihan yang baik.",
+      "role": "none"
+    },
+    {
+      "index": 24,
       "kata_arab": "ذَٰلِكَ",
       "transliterasi": "dzālika",
       "jenis_kata": "Isim Isyarat",
@@ -417,7 +453,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 25,
       "kata_arab": "كَيْلٌۭ",
       "transliterasi": "kailun",
       "jenis_kata": "Isim",
@@ -435,7 +471,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 26,
       "kata_arab": "يَسِيرٌۭ",
       "transliterasi": "yasīrun",
       "jenis_kata": "Isim Sifat",

@@ -94,6 +94,24 @@
     },
     {
       "index": 5,
+      "kata_arab": "ۖ",
+      "transliterasi": "(Tanda Waqaf Lazim)",
+      "jenis_kata": "Tanda Baca",
+      "arti": "Tanda waqaf lazim (harus berhenti)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Tidak berlaku",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf (berhenti membaca).",
+        "irab_dan_logika": "Tidak berlaku"
+      },
+      "hikmah": "Menunjukkan akhir dari satu bagian makna atau kalimat yang penting, mengisyaratkan bahwa pembaca harus berhenti sejenak untuk memahami makna yang telah disampaikan sebelum melanjutkan ke bagian ayat berikutnya.",
+      "role": "none"
+    },
+    {
+      "index": 6,
       "kata_arab": "وَٱللَّهُ",
       "transliterasi": "wa-Allah",
       "jenis_kata": "Isim",
@@ -111,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 7,
       "kata_arab": "فِیهَاۖ",
       "transliterasi": "fīhā",
       "jenis_kata": "Gabungan dari Harf (huruf depan) dan Isim (kata ganti di belakang)",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "وَٱللَّهُ",
       "transliterasi": "Wa-Allahu",
       "jenis_kata": "Terdiri dari dua bagian: 'وَ' (wa) adalah Harf (huruf penghubung), dan 'ٱللَّهُ' (Allahu) adalah Isim (kata benda, nama diri Allah).",
@@ -147,7 +165,7 @@
       "role": "subject"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "مُخۡرِجࣱ",
       "transliterasi": "mukhrijun",
       "jenis_kata": "Isim (Kata Benda)",
@@ -165,7 +183,7 @@
       "role": "predicate"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "مَّا",
       "transliterasi": "mā",
       "jenis_kata": "Isim (Kata Benda)",
@@ -183,7 +201,7 @@
       "role": "object"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "كُنتُمۡ",
       "transliterasi": "kuntum",
       "jenis_kata": "Fi'il (Kata Kerja)",
@@ -201,7 +219,7 @@
       "role": "predicate"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "تَكۡتُمُونَ",
       "transliterasi": "taktumūna",
       "jenis_kata": "Fi'il (Kata Kerja)",

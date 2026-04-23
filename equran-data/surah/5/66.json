@@ -346,6 +346,24 @@
     },
     {
       "index": 19,
+      "kata_arab": "ۖ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf (tanda waqf — *pause* / *stop*)",
+      "arti": "tanda jeda",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Memisahkan dua klausa: *«أُمَّةٌ مُّقْتَصِدَةٌ»* dan *«وَكَثِيرٌ مِّنْهُمْ سَاء»*",
+        "irab_dan_logika": "Tidak ber‑irab; berfungsi sebagai **waqf** untuk memberi jeda makna."
+      },
+      "hikmah": "Menandakan peralihan topik; setelah menyebut **umat yang murut**, ayat beralih ke **banyak yang berbuat buruk**.",
+      "role": "none"
+    },
+    {
+      "index": 20,
       "kata_arab": "وَكَثِيرٌۭ",
       "transliterasi": "wa‑kathirun",
       "jenis_kata": "Isim (isim mufradah, marfu‘ bi‑tanwin) dengan huruf *wa* (conjunction)",
@@ -363,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 21,
       "kata_arab": "مِّنْهُمْ",
       "transliterasi": "minhum",
       "jenis_kata": "Huruf jar (preposisi) + dhamir muttasil (pronoun) ",
@@ -381,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 22,
       "kata_arab": "مَا",
       "transliterasi": "mā",
       "jenis_kata": "Isim",
@@ -399,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 23,
       "kata_arab": "يَعْمَلُونَ",
       "transliterasi": "ya‘malūna",
       "jenis_kata": "Fi‘il",

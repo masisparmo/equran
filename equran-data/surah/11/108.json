@@ -274,6 +274,24 @@
     },
     {
       "index": 15,
+      "kata_arab": "ۖ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf (tanda waqf)",
+      "arti": "tanda jeda",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda waqf (tidak termasuk dalam i'rab)",
+        "irab_dan_logika": "menandakan jeda bacaan, tidak memengaruhi i'rab"
+      },
+      "hikmah": "memberi ruang berhenti sebelum penjelasan selanjutnya",
+      "role": "none"
+    },
+    {
+      "index": 16,
       "kata_arab": "عَطَآءً",
       "transliterasi": "‘aṭā'an",
       "jenis_kata": "Isim",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "غَيْرَ",
       "transliterasi": "ghayra",
       "jenis_kata": "Isim",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "مَجْذُوذٍۢ",
       "transliterasi": "majdhūḍin",
       "jenis_kata": "Isim",

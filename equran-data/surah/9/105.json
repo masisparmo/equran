@@ -130,6 +130,24 @@
     },
     {
       "index": 7,
+      "kata_arab": "ۖ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf (tanda waqf)",
+      "arti": "tanda jeda/istirahat dalam bacaan",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Tidak termasuk dalam sintaksis; berfungsi sebagai tanda baca",
+        "irab_dan_logika": "Menandakan jeda singkat (waqf) setelah kata sebelumnya"
+      },
+      "hikmah": "Memberi kesempatan bagi pendengar untuk merenungkan makna kata sebelumnya.",
+      "role": "none"
+    },
+    {
+      "index": 8,
       "kata_arab": "وَسَتُرَدُّونَ",
       "transliterasi": "wa-saturadduna",
       "jenis_kata": "Fiʿil",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "إِلَىٰ",
       "transliterasi": "ilā",
       "jenis_kata": "Huruf (preposisi)",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "عَٰلِمِ",
       "transliterasi": "ʿālimi",
       "jenis_kata": "Isim",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "ٱلْغَيْبِ",
       "transliterasi": "al‑ghaybi",
       "jenis_kata": "Isim",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "وَٱلشَّهَٰدَةِ",
       "transliterasi": "wa al‑shahādati",
       "jenis_kata": "Isim",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "فَيُنَبِّئُكُم",
       "transliterasi": "fa‑yunabbiʾukum",
       "jenis_kata": "Fiʿil",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "بِمَا",
       "transliterasi": "bi‑mā",
       "jenis_kata": "Huruf + Isim",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "كُنتُمْ",
       "transliterasi": "kun‑tum",
       "jenis_kata": "Fiʿil",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "تَعْمَلُونَ",
       "transliterasi": "taʿmalūna",
       "jenis_kata": "Fiʿil",

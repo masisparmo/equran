@@ -94,6 +94,24 @@
     },
     {
       "index": 5,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf (tanda waqf)",
+      "arti": "tanda berhenti ayat",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Simbol waqf akhir ayat",
+        "irab_dan_logika": "tidak berirab; berfungsi sebagai tanda baca"
+      },
+      "hikmah": "Menandai **akhir** rangkaian perintah, memberi jeda bagi pembaca untuk merenungkan makna keseluruhan ayat.",
+      "role": "none"
+    },
+    {
+      "index": 6,
       "kata_arab": "إِنَّ",
       "transliterasi": "inna",
       "jenis_kata": "Huruf (harf)",
@@ -111,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 7,
       "kata_arab": "رَبِّى",
       "transliterasi": "rabbi",
       "jenis_kata": "Isim (isim maf'ul)",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "رَحِيمٌۭ",
       "transliterasi": "rahim",
       "jenis_kata": "Isim (isim sifat)",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "وَدُودٌۭ",
       "transliterasi": "wadud",
       "jenis_kata": "Isim (isim sifat)",

@@ -166,6 +166,24 @@
     },
     {
       "index": 9,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf (tanda waqf)",
+      "arti": "tanda berhenti (pause)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca yang memisahkan dua bagian kalimat",
+        "irab_dan_logika": "Tidak memiliki إعراب karena bukan kata"
+      },
+      "hikmah": "Memberi jeda untuk menekankan makna sebelum masuk ke kalimat berikutnya ‘إِنَّ اللَّهَ …’.",
+      "role": "none"
+    },
+    {
+      "index": 10,
       "kata_arab": "إِنَّ",
       "transliterasi": "inna",
       "jenis_kata": "Huruf (حرف توكيد)",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "ٱللَّهَ",
       "transliterasi": "Allāha",
       "jenis_kata": "Isim (اسم علم)",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "سَمِيعٌ",
       "transliterasi": "Samī‘un",
       "jenis_kata": "Isim (Isim al‑fā‘il)",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "عَلِيمٌ",
       "transliterasi": "ʿAlīmun",
       "jenis_kata": "Isim (Isim al‑fā‘il)",

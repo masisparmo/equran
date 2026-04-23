@@ -58,6 +58,24 @@
     },
     {
       "index": 3,
+      "kata_arab": "ۗ",
+      "transliterasi": "(tanda ayat)",
+      "jenis_kata": "Huruf",
+      "arti": "**tanda ayat**",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "simbol baca, tidak berirab",
+        "irab_dan_logika": "tidak memiliki harakat, berfungsi sebagai pemisah"
+      },
+      "hikmah": "Menandai akhir bagian ayat dalam Al‑Qur'an.",
+      "role": "none"
+    },
+    {
+      "index": 4,
       "kata_arab": "وَيَتُوبُ",
       "transliterasi": "wa‑yatūbu",
       "jenis_kata": "Fi'il",
@@ -75,7 +93,7 @@
       "role": "none"
     },
     {
-      "index": 4,
+      "index": 5,
       "kata_arab": "ٱللَّهُ",
       "transliterasi": "Allāhu",
       "jenis_kata": "Isim",
@@ -93,7 +111,7 @@
       "role": "none"
     },
     {
-      "index": 5,
+      "index": 6,
       "kata_arab": "عَلَىٰ",
       "transliterasi": "ʿalā",
       "jenis_kata": "Huruf (preposisi)",
@@ -111,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 7,
       "kata_arab": "مَن",
       "transliterasi": "man",
       "jenis_kata": "Isim (isim ma'rifah relatif)",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "يَشَآءُ",
       "transliterasi": "yashāʾu",
       "jenis_kata": "Fi'il (verb mudhari‘, 3rd person masculine singular)",
@@ -147,7 +165,25 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
+      "kata_arab": "ۗ",
+      "transliterasi": "ۗ",
+      "jenis_kata": "Huruf (tanda ayah/istirahat)",
+      "arti": "tanda berhenti ayat",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Tidak termasuk dalam i‘rāb; berfungsi sebagai pemisah ayat",
+        "irab_dan_logika": "Tidak berirab karena bukan kata"
+      },
+      "hikmah": "Menandai akhir bagian kalimat, memberi jeda bagi pembaca untuk merenungkan makna sebelumnya.",
+      "role": "none"
+    },
+    {
+      "index": 10,
       "kata_arab": "وَٱللَّهُ",
       "transliterasi": "wa‑Allāhu",
       "jenis_kata": "Isim (Allah) dengan huruf al‑waaw sebagai huruf al‑‘atf",
@@ -165,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 11,
       "kata_arab": "عَلِيمٌ",
       "transliterasi": "ʿalīmun",
       "jenis_kata": "Isim (sifat) / اسم فاعل",
@@ -183,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 12,
       "kata_arab": "حَكِيمٌ",
       "transliterasi": "ḥakīmun",
       "jenis_kata": "Isim",

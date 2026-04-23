@@ -292,6 +292,24 @@
     },
     {
       "index": 16,
+      "kata_arab": "ۚ",
+      "transliterasi": "(Tanda waqaf)",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "(Tidak ada arti harfiah, ini adalah tanda baca)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku.",
+        "makna_dasar": "Menunjukkan tempat berhenti yang dianjurkan dalam bacaan Al-Qur'an.",
+        "wazan_perubahan": "Tidak berlaku."
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf lazim (wajib berhenti)",
+        "irab_dan_logika": "Tidak memiliki kedudukan i'rab karena bukan bagian dari struktur kalimat. Ini adalah tanda baca untuk memudahkan pembacaan dan pemahaman makna."
+      },
+      "hikmah": "Tanda ini menandakan akhir dari satu bagian makna yang penting, yaitu penolakan penyaliban dan penegasan penyerupaan. Berhenti di sini membantu pembaca mencerna informasi penting ini sebelum melanjutkan ke bagian berikutnya yang membahas keraguan orang-orang.",
+      "role": "none"
+    },
+    {
+      "index": 17,
       "kata_arab": "وَإِنَّ",
       "transliterasi": "wa inna",
       "jenis_kata": "Huruf",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "ٱلَّذِينَ",
       "transliterasi": "alladhīna",
       "jenis_kata": "Isim Maushul",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 19,
       "kata_arab": "ٱخْتَلَفُوا۟",
       "transliterasi": "ikhtalafū",
       "jenis_kata": "Fi'il Madhi",
@@ -345,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 20,
       "kata_arab": "فِيهِ",
       "transliterasi": "fīhi",
       "jenis_kata": "Huruf Jar + Dhomir",
@@ -363,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 21,
       "kata_arab": "لَفِى",
       "transliterasi": "lafī",
       "jenis_kata": "Huruf Taukid (Lam Ibtida') + Huruf Jar",
@@ -381,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 22,
       "kata_arab": "شَكٍّۢ",
       "transliterasi": "syakkin",
       "jenis_kata": "Isim",
@@ -399,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 23,
       "kata_arab": "مِّنْهُ",
       "transliterasi": "minhu",
       "jenis_kata": "Huruf Jar + Dhomir",
@@ -417,7 +435,25 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 24,
+      "kata_arab": "ۚ",
+      "transliterasi": "juz' (tanda waqaf lazim)",
+      "jenis_kata": "Huruf (Tanda Baca)",
+      "arti": "Tanda waqaf lazim (harus berhenti)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca",
+        "irab_dan_logika": "Tanda baca dalam Al-Qur'an, bukan bagian dari struktur gramatikal yang memiliki i'rab."
+      },
+      "hikmah": "Tanda ini menunjukkan bahwa pembaca Al-Qur'an harus berhenti pada titik ini. Hal ini penting untuk memahami makna ayat secara utuh dan benar, memisahkan satu gagasan dari gagasan berikutnya.",
+      "role": "none"
+    },
+    {
+      "index": 25,
       "kata_arab": "مَا",
       "transliterasi": "mā",
       "jenis_kata": "Huruf (Nafiyah)",
@@ -435,7 +471,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 26,
       "kata_arab": "لَهُم",
       "transliterasi": "lahum",
       "jenis_kata": "Huruf (Lam) + Isim Dhomir (Hum)",
@@ -453,7 +489,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 27,
       "kata_arab": "بِهِۦ",
       "transliterasi": "bihi",
       "jenis_kata": "Huruf (Ba') + Isim Dhomir (Hu)",
@@ -471,7 +507,7 @@
       "role": "none"
     },
     {
-      "index": 26,
+      "index": 28,
       "kata_arab": "مِنْ",
       "transliterasi": "min",
       "jenis_kata": "Huruf (Jar Zaidah)",
@@ -489,7 +525,7 @@
       "role": "none"
     },
     {
-      "index": 27,
+      "index": 29,
       "kata_arab": "عِلْمٍ",
       "transliterasi": "ilmin",
       "jenis_kata": "Isim (Mashdar)",
@@ -507,7 +543,7 @@
       "role": "none"
     },
     {
-      "index": 28,
+      "index": 30,
       "kata_arab": "إِلَّا",
       "transliterasi": "Illā",
       "jenis_kata": "Huruf",
@@ -525,7 +561,7 @@
       "role": "none"
     },
     {
-      "index": 29,
+      "index": 31,
       "kata_arab": "ٱتِّبَاعَ",
       "transliterasi": "Ittibā'a",
       "jenis_kata": "Isim (Masdar)",
@@ -543,7 +579,7 @@
       "role": "none"
     },
     {
-      "index": 30,
+      "index": 32,
       "kata_arab": "ٱلظَّنِّ",
       "transliterasi": "Aẓ-Ẓanni",
       "jenis_kata": "Isim",
@@ -561,7 +597,25 @@
       "role": "none"
     },
     {
-      "index": 31,
+      "index": 33,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqaf lazim)",
+      "jenis_kata": "Tanda Baca",
+      "arti": "(tanda waqaf lazim)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku.",
+        "makna_dasar": "Tidak berlaku.",
+        "wazan_perubahan": "Tidak berlaku."
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf lazim.",
+        "irab_dan_logika": "Tidak berlaku untuk tanda baca. Tanda ini menunjukkan bahwa pembaca *harus* berhenti di sini karena melanjutkan bacaan tanpa berhenti dapat mengubah atau mengaburkan makna."
+      },
+      "hikmah": "Menandakan selesainya satu bagian makna atau kalimat yang penting, memberikan penekanan pada pernyataan sebelumnya tentang keraguan dan persangkaan mereka, sebelum melanjutkan ke penegasan berikutnya.",
+      "role": "none"
+    },
+    {
+      "index": 34,
       "kata_arab": "وَمَا",
       "transliterasi": "Wa Mā",
       "jenis_kata": "Huruf",
@@ -579,7 +633,7 @@
       "role": "none"
     },
     {
-      "index": 32,
+      "index": 35,
       "kata_arab": "قَتَلُوهُ",
       "transliterasi": "Qatalūhu",
       "jenis_kata": "Fi'il (dan Dhamir)",
@@ -597,7 +651,7 @@
       "role": "none"
     },
     {
-      "index": 33,
+      "index": 36,
       "kata_arab": "يَقِينًۢا",
       "transliterasi": "Yaqīnan",
       "jenis_kata": "Isim (Kata Benda)",

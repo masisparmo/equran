@@ -130,6 +130,24 @@
     },
     {
       "index": 7,
+      "kata_arab": "ۚ",
+      "transliterasi": "waqf",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda berhenti",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqf (pemutus ayat)",
+        "irab_dan_logika": "Tidak berirab, berfungsi sebagai pemisah makna"
+      },
+      "hikmah": "Memberi jeda untuk merenungkan makna sebelumnya sebelum melanjutkan ke bagian selanjutnya.",
+      "role": "none"
+    },
+    {
+      "index": 8,
       "kata_arab": "وَكَفَىٰ",
       "transliterasi": "wa kafā",
       "jenis_kata": "Fi'il (verb)",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "بِٱللَّهِ",
       "transliterasi": "bi-llāhi",
       "jenis_kata": "Huruf (preposisi) + Isim",

@@ -166,6 +166,24 @@
     },
     {
       "index": 9,
+      "kata_arab": "ۖ",
+      "transliterasi": "(waqf)",
+      "jenis_kata": "Huruf",
+      "arti": "tanda koma/waqf",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "علامة وقف بين الجمل",
+        "irab_dan_logika": "ليس لها إعراب لأنها علامة تنغيم"
+      },
+      "hikmah": "menunjukkan jeda untuk memberi penekanan pada bagian sebelumnya",
+      "role": "none"
+    },
+    {
+      "index": 10,
       "kata_arab": "وَإِنَّهُم",
       "transliterasi": "wa-innahum",
       "jenis_kata": "Huruf",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "آتِيهِمْ",
       "transliterasi": "āṭīhim",
       "jenis_kata": "Fi'il (imperatif)",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "عَذَابٌ",
       "transliterasi": "ʿadhābun",
       "jenis_kata": "Isim (isim mufrad)",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "غَيْرُ",
       "transliterasi": "ġayru",
       "jenis_kata": "Isim (kata benda)",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "مَرْدُودٍۢ",
       "transliterasi": "mardūdin",
       "jenis_kata": "Isim (isim mufrad)",

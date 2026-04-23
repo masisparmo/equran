@@ -238,6 +238,24 @@
     },
     {
       "index": 13,
+      "kata_arab": "ۖ",
+      "transliterasi": "waqf",
+      "jenis_kata": "Huruf",
+      "arti": "tanda berhenti",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda waqf (tanda baca) yang memisahkan bagian kalimat",
+        "irab_dan_logika": "tidak memiliki i'rab karena bukan kata, berfungsi sebagai jeda untuk memperjelas makna"
+      },
+      "hikmah": "memberi jeda sehingga pembaca dapat merenungkan makna sebelumnya sebelum melanjutkan ke kalimat selanjutnya.",
+      "role": "none"
+    },
+    {
+      "index": 14,
       "kata_arab": "لَآ",
       "transliterasi": "lā",
       "jenis_kata": "Huruf",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "إِلَٰهَ",
       "transliterasi": "ilāha",
       "jenis_kata": "Isim",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "إِلَّا",
       "transliterasi": "illā",
       "jenis_kata": "Huruf",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "هُوَ",
       "transliterasi": "huwa",
       "jenis_kata": "Isim dhat",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "يُحْىِۦ",
       "transliterasi": "yuḥyī",
       "jenis_kata": "Fi'il",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 19,
       "kata_arab": "وَيُمِيتُ",
       "transliterasi": "wa-yumītu",
       "jenis_kata": "Fi'il",
@@ -345,7 +363,25 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 20,
+      "kata_arab": "ۖ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Huruf",
+      "arti": "tanda jeda/berhenti",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca yang memisahkan antara pernyataan sifat Allah dengan perintah selanjutnya",
+        "irab_dan_logika": "bukan bagian tata bahasa, berfungsi sebagai waqf (pause) untuk memberi kejelasan bacaan"
+      },
+      "hikmah": "Memberi ruang bagi pendengar/penyimak untuk merenungkan sifat Allah sebelum perintah beriman disampaikan.",
+      "role": "none"
+    },
+    {
+      "index": 21,
       "kata_arab": "فَـَٔامِنُوا۟",
       "transliterasi": "fa-āmīnū",
       "jenis_kata": "Fi'il",
@@ -363,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 22,
       "kata_arab": "بِٱللَّهِ",
       "transliterasi": "bi-llāhi",
       "jenis_kata": "Huruf",
@@ -381,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 23,
       "kata_arab": "وَرَسُولِهِ",
       "transliterasi": "wa-rasūlihi",
       "jenis_kata": "Isim",
@@ -399,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 24,
       "kata_arab": "ٱلنَّبِىِّ",
       "transliterasi": "an-nabī",
       "jenis_kata": "Isim",
@@ -417,7 +453,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 25,
       "kata_arab": "ٱلْأُمِّىِّ",
       "transliterasi": "al-ummī",
       "jenis_kata": "Isim",
@@ -435,7 +471,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 26,
       "kata_arab": "ٱلَّذِى",
       "transliterasi": "alladhī",
       "jenis_kata": "Huruf",
@@ -453,7 +489,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 27,
       "kata_arab": "يُؤْمِنُ",
       "transliterasi": "yuʾminu",
       "jenis_kata": "Fi'il",
@@ -471,7 +507,7 @@
       "role": "none"
     },
     {
-      "index": 26,
+      "index": 28,
       "kata_arab": "بِٱللَّهِ",
       "transliterasi": "bi-llāhi",
       "jenis_kata": "Huruf",
@@ -489,7 +525,7 @@
       "role": "none"
     },
     {
-      "index": 27,
+      "index": 29,
       "kata_arab": "وَكَلِمَٰتِهِۦ",
       "transliterasi": "wa kalimāti-hi",
       "jenis_kata": "Huruf",
@@ -507,7 +543,7 @@
       "role": "none"
     },
     {
-      "index": 28,
+      "index": 30,
       "kata_arab": "وَٱتَّبِعُوهُ",
       "transliterasi": "wa-ittabi‘ūhu",
       "jenis_kata": "Fi'il",
@@ -525,7 +561,7 @@
       "role": "none"
     },
     {
-      "index": 29,
+      "index": 31,
       "kata_arab": "لَعَلَّكُمْ",
       "transliterasi": "la‘allakum",
       "jenis_kata": "Huruf",
@@ -543,7 +579,7 @@
       "role": "none"
     },
     {
-      "index": 30,
+      "index": 32,
       "kata_arab": "تَهْتَدُونَ",
       "transliterasi": "tahdūna",
       "jenis_kata": "Fi'il",

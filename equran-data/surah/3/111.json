@@ -76,6 +76,24 @@
     },
     {
       "index": 4,
+      "kata_arab": "ۖ",
+      "transliterasi": "N/A",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "N/A",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca Al-Qur'an",
+        "irab_dan_logika": "Merupakan tanda *waqaf mutlaq* (waqaf lazim) dalam Al-Qur'an, yang menunjukkan bahwa berhenti di sini lebih utama daripada melanjutkan bacaan. Ini membantu dalam pemahaman makna dengan memisahkan dua gagasan atau kondisi yang berbeda dalam ayat."
+      },
+      "hikmah": "Tanda ini memberikan jeda penting dalam pembacaan, menandakan bahwa bagian pertama ayat yang membahas tentang gangguan telah selesai, dan bagian selanjutnya akan memperkenalkan skenario yang berbeda, yaitu kemungkinan konfrontasi militer.",
+      "role": "none"
+    },
+    {
+      "index": 5,
       "kata_arab": "وَإِن",
       "transliterasi": "wa in",
       "jenis_kata": "Huruf",
@@ -93,7 +111,7 @@
       "role": "none"
     },
     {
-      "index": 5,
+      "index": 6,
       "kata_arab": "يُقَٰتِلُوكُمْ",
       "transliterasi": "yuqātilūkum",
       "jenis_kata": "Fi'il",
@@ -111,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 7,
       "kata_arab": "يُوَلُّوكُمُ",
       "transliterasi": "yūwallūkumul",
       "jenis_kata": "Fi'il",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "ٱلْأَدْبَارَ",
       "transliterasi": "al-adbāra",
       "jenis_kata": "Isim",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "ثُمَّ",
       "transliterasi": "thumma",
       "jenis_kata": "Huruf",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "لَا",
       "transliterasi": "lā",
       "jenis_kata": "Huruf",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "يُنصَرُونَ",
       "transliterasi": "yunṣarūna",
       "jenis_kata": "Fi'il",

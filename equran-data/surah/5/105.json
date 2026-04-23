@@ -94,6 +94,24 @@
     },
     {
       "index": 5,
+      "kata_arab": "ۖ",
+      "transliterasi": "—",
+      "jenis_kata": "Huruf (tanda waqf — tanda jeda)",
+      "arti": "tanda berhenti",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqf yang memisahkan bagian ayat; tidak memengaruhi iʿrāb.",
+        "irab_dan_logika": "Tidak memiliki iʿrāb; berfungsi sebagai **ḥarf al‑waqf** untuk memberi jeda membaca."
+      },
+      "hikmah": "Memberi kesempatan bagi pendengar untuk merenungkan perintah yang baru saja diucapkan.",
+      "role": "none"
+    },
+    {
+      "index": 6,
       "kata_arab": "لَا",
       "transliterasi": "lā",
       "jenis_kata": "Huruf",
@@ -111,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 7,
       "kata_arab": "يَضُرُّكُم",
       "transliterasi": "yaḍurrukum",
       "jenis_kata": "Fiʿl",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "مَّن",
       "transliterasi": "man",
       "jenis_kata": "Isim",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "ضَلَّ",
       "transliterasi": "ḍalla",
       "jenis_kata": "Fiʿl",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "إِذَا",
       "transliterasi": "idhā",
       "jenis_kata": "Huruf",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "ٱهْتَدَيْتُمْ",
       "transliterasi": "ihtadaytum",
       "jenis_kata": "Fiʿl",
@@ -201,7 +219,25 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
+      "kata_arab": "ۚ",
+      "transliterasi": "—",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda waqf (virgul)",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Penanda akhir ayat, memisahkan bagian kalimat",
+        "irab_dan_logika": "Tidak memiliki i‘rāb karena merupakan tanda baca; berfungsi menghentikan bacaan sejenak"
+      },
+      "hikmah": "Menandakan jeda penting sebelum menyampaikan tujuan kembali kepada Allah",
+      "role": "none"
+    },
+    {
+      "index": 13,
       "kata_arab": "إِلَى",
       "transliterasi": "ilā",
       "jenis_kata": "Huruf (jar)",
@@ -219,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 14,
       "kata_arab": "ٱللَّهِ",
       "transliterasi": "Allāhi",
       "jenis_kata": "Isim (nama Allah)",
@@ -237,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 15,
       "kata_arab": "مَرْجِعُكُمْ",
       "transliterasi": "marji‘ukum",
       "jenis_kata": "Isim (isim maf‘ūl)",
@@ -255,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 16,
       "kata_arab": "جَمِيعًۭا",
       "transliterasi": "jamī‘an",
       "jenis_kata": "Isim (khabar atau sifat)",
@@ -273,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 17,
       "kata_arab": "فَيُنَبِّئُكُم",
       "transliterasi": "fa‑yunabbi’ukum",
       "jenis_kata": "Fi‘il (verb)",
@@ -291,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 18,
       "kata_arab": "بِمَا",
       "transliterasi": "bima",
       "jenis_kata": "Huruf",
@@ -309,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 19,
       "kata_arab": "كُنتُمْ",
       "transliterasi": "kuntum",
       "jenis_kata": "Fi'il",
@@ -327,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 20,
       "kata_arab": "تَعْمَلُونَ",
       "transliterasi": "ta‘malūna",
       "jenis_kata": "Fi'il",

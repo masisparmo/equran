@@ -58,6 +58,24 @@
     },
     {
       "index": 3,
+      "kata_arab": "ۖ",
+      "transliterasi": "(Tanda Waqaf)",
+      "jenis_kata": "Tanda Baca",
+      "arti": "(Tidak ada arti harfiah, tanda waqaf jaiz)",
+      "sharaf": {
+        "akar_kata": "(Tidak berlaku)",
+        "makna_dasar": "(Tidak berlaku)",
+        "wazan_perubahan": "(Tidak berlaku)"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf (berhenti)",
+        "irab_dan_logika": "Tidak memiliki kedudukan i'rab karena bukan bagian dari kata. Menunjukkan tempat yang dianjurkan untuk berhenti membaca, namun boleh juga melanjutkan."
+      },
+      "hikmah": "Memberikan jeda dalam pembacaan untuk memahami makna kalimat sebelumnya secara utuh sebelum melanjutkan ke bagian berikutnya, menegaskan bahwa Allah adalah Pelindung mereka.",
+      "role": "none"
+    },
+    {
+      "index": 4,
       "kata_arab": "وَهُوَ",
       "transliterasi": "Wa Huwa",
       "jenis_kata": "Huruf + Isim Dhamir",
@@ -75,7 +93,7 @@
       "role": "none"
     },
     {
-      "index": 4,
+      "index": 5,
       "kata_arab": "خَيْرُ",
       "transliterasi": "Khayru",
       "jenis_kata": "Isim",
@@ -93,7 +111,7 @@
       "role": "none"
     },
     {
-      "index": 5,
+      "index": 6,
       "kata_arab": "ٱلنَّٰصِرِينَ",
       "transliterasi": "an-Nāṣirīn",
       "jenis_kata": "Isim",

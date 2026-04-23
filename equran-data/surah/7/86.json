@@ -346,6 +346,24 @@
     },
     {
       "index": 19,
+      "kata_arab": "ۖ",
+      "transliterasi": "waqf",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda jeda/berhenti",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Penanda jeda (waqf) yang memisahkan dua bagian kalimat",
+        "irab_dan_logika": "Tidak memiliki harakat karena bukan kata; fungsinya memberi napas pada pembaca untuk menekankan makna sebelumnya"
+      },
+      "hikmah": "Tanda ini mengingatkan pembaca untuk **menahan diri** sejenak, menelaah keajaiban peningkatan jumlah umat sebelum melanjutkan ke ayat berikutnya.",
+      "role": "none"
+    },
+    {
+      "index": 20,
       "kata_arab": "وَٱنظُرُوا۟",
       "transliterasi": "wa-anẓurū",
       "jenis_kata": "Fi'il",
@@ -363,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 21,
       "kata_arab": "كَيْفَ",
       "transliterasi": "kayfa",
       "jenis_kata": "Huruf",
@@ -381,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 22,
       "kata_arab": "كَانَ",
       "transliterasi": "kāna",
       "jenis_kata": "Fi'il",
@@ -399,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 23,
       "kata_arab": "عَٰقِبَةُ",
       "transliterasi": "ʿāqibah",
       "jenis_kata": "Isim (noun)",
@@ -417,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 24,
       "kata_arab": "ٱلْمُفْسِدِينَ",
       "transliterasi": "al‑mufsidiina",
       "jenis_kata": "Isim (noun) – mudhaf ʿala (mazkur)",

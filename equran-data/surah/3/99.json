@@ -256,6 +256,24 @@
     },
     {
       "index": 14,
+      "kata_arab": "ۗ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda berhenti (waqaf mutlaq)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Menunjukkan jeda dalam bacaan",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf dalam bacaan Al-Qur'an",
+        "irab_dan_logika": "Tidak memiliki i'rab. Menunjukkan tempat yang baik untuk berhenti membaca, memberikan penekanan pada makna sebelumnya."
+      },
+      "hikmah": "Menandakan jeda yang penting dalam ayat, memberikan penekanan pada fakta bahwa Ahli Kitab menyaksikan kebenaran, sebelum melanjutkan ke peringatan ilahi.",
+      "role": "none"
+    },
+    {
+      "index": 15,
       "kata_arab": "وَمَا",
       "transliterasi": "wa maa",
       "jenis_kata": "Huruf (penghubung dan peniadaan)",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "ٱللَّهُ",
       "transliterasi": "allaahu",
       "jenis_kata": "Isim (nama Dzat Allah)",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "بِغَٰفِلٍ",
       "transliterasi": "bighaafilin",
       "jenis_kata": "Isim (kata benda, isim fa'il)",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "عَمَّا",
       "transliterasi": "ʿammā",
       "jenis_kata": "Huruf dan Isim",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 19,
       "kata_arab": "تَعْمَلُونَ",
       "transliterasi": "taʿmalūna",
       "jenis_kata": "Fi'il (Kata Kerja)",

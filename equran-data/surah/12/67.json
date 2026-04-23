@@ -328,6 +328,24 @@
     },
     {
       "index": 18,
+      "kata_arab": "ۖ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "Huruf",
+      "arti": "Tanda waqaf (berhenti)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "N/A",
+        "irab_dan_logika": "Ini adalah tanda waqaf jaiz (boleh berhenti, boleh melanjutkan). Tidak memiliki kedudukan nahwu atau i'rab karena bukan bagian dari struktur kalimat."
+      },
+      "hikmah": "Tanda waqaf ini menunjukkan jeda yang disarankan dalam bacaan, memberikan kesempatan untuk merenungkan bagian sebelumnya sebelum melanjutkan ke pernyataan berikutnya yang sangat penting tentang kekuasaan Allah.",
+      "role": "none"
+    },
+    {
+      "index": 19,
       "kata_arab": "إِنِ",
       "transliterasi": "ini",
       "jenis_kata": "Huruf",
@@ -345,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 20,
       "kata_arab": "ٱلْحُكْمُ",
       "transliterasi": "al-ḥukmu",
       "jenis_kata": "Isim",
@@ -363,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 21,
       "kata_arab": "إِلَّا",
       "transliterasi": "illā",
       "jenis_kata": "Huruf",
@@ -381,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 22,
       "kata_arab": "لِلَّهِ",
       "transliterasi": "lillāhi",
       "jenis_kata": "Huruf (jar) + Isim (Allah)",
@@ -399,7 +417,25 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 23,
+      "kata_arab": "ۖ",
+      "transliterasi": "waqf juzz",
+      "jenis_kata": "Tanda Baca Al-Qur'an",
+      "arti": "Berhenti di sini (lebih baik)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Tidak berlaku",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca",
+        "irab_dan_logika": "Tidak berlaku"
+      },
+      "hikmah": "Menunjukkan tempat berhenti yang dianjurkan dalam bacaan Al-Qur'an untuk memisahkan makna atau mengambil napas, seringkali menandai akhir sebuah klausa penting.",
+      "role": "none"
+    },
+    {
+      "index": 24,
       "kata_arab": "عَلَيْهِ",
       "transliterasi": "alaihi",
       "jenis_kata": "Huruf (preposisi) + Isim (dhamir)",
@@ -417,7 +453,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 25,
       "kata_arab": "تَوَكَّلْتُ",
       "transliterasi": "tawakkaltu",
       "jenis_kata": "Fi'il (kata kerja)",
@@ -435,7 +471,25 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 26,
+      "kata_arab": "ۖ",
+      "transliterasi": "waqf juzz",
+      "jenis_kata": "Tanda Baca Al-Qur'an",
+      "arti": "Berhenti di sini (lebih baik)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Tidak berlaku",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca",
+        "irab_dan_logika": "Tidak berlaku"
+      },
+      "hikmah": "Menunjukkan tempat berhenti yang dianjurkan dalam bacaan Al-Qur'an untuk memisahkan makna atau mengambil napas, seringkali menandai akhir sebuah klausa penting.",
+      "role": "none"
+    },
+    {
+      "index": 27,
       "kata_arab": "وَعَلَيْهِ",
       "transliterasi": "wa 'alaihi",
       "jenis_kata": "Huruf (konjungsi) + Huruf (preposisi) + Isim (dhamir)",
@@ -453,7 +507,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 28,
       "kata_arab": "فَلْيَتَوَكَّلِ",
       "transliterasi": "falyatawakkalil",
       "jenis_kata": "Huruf (fa') + Huruf (lam al-amr) + Fi'il (kata kerja)",
@@ -471,7 +525,7 @@
       "role": "none"
     },
     {
-      "index": 26,
+      "index": 29,
       "kata_arab": "ٱلْمُتَوَكِّلُونَ",
       "transliterasi": "al-Mutawakkilūn",
       "jenis_kata": "Isim (Kata Benda)",

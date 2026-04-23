@@ -166,6 +166,24 @@
     },
     {
       "index": 9,
+      "kata_arab": "ۚ",
+      "transliterasi": "waqf",
+      "jenis_kata": "Huruf",
+      "arti": "tanda berhenti",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda waqf kecil (قَصِير) yang memisahkan bagian ayat",
+        "irab_dan_logika": "bukan bagian gramatikal, berfungsi sebagai jeda bacaan"
+      },
+      "hikmah": "Memberi **istirahat** pada pembaca, menandai akhir segmen makna sebelum melanjutkan.",
+      "role": "none"
+    },
+    {
+      "index": 10,
       "kata_arab": "هِيَ",
       "transliterasi": "hiya",
       "jenis_kata": "Isim",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "حَسْبُهُمْ",
       "transliterasi": "ḥasbuhum",
       "jenis_kata": "Isim",
@@ -201,7 +219,25 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf",
+      "arti": "tanda waqf (tanda jeda kecil) yang menandai berhentinya bacaan sejenak",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca, berada di akhir frasa untuk memberi jeda",
+        "irab_dan_logika": "Tidak memiliki i‘rāb karena bukan kata; fungsinya sebagai **waqf** (hentian) dalam tajwid"
+      },
+      "hikmah": "Menunjukkan jeda singkat sebelum melanjutkan bacaan, memberi kesempatan bagi pendengar merenungkan makna sebelumnya",
+      "role": "none"
+    },
+    {
+      "index": 13,
       "kata_arab": "وَلَعَنَهُمُ",
       "transliterasi": "wa laʿanahumu",
       "jenis_kata": "Fi'il",
@@ -219,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 14,
       "kata_arab": "ٱللَّهُ",
       "transliterasi": "Allāhu",
       "jenis_kata": "Isim",
@@ -237,7 +273,25 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 15,
+      "kata_arab": "ۖ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf",
+      "arti": "tanda waqf (tanda jeda) yang menandai pemisahan antar frasa",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "",
+        "irab_dan_logika": ""
+      },
+      "hikmah": "",
+      "role": "none"
+    },
+    {
+      "index": 16,
       "kata_arab": "مُّقِيمٌۭ",
       "transliterasi": "muqīm",
       "jenis_kata": "Isim (Isim fa‘il)",

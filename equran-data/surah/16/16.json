@@ -22,6 +22,24 @@
     },
     {
       "index": 1,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda jeda/waqaf",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca, tidak memiliki irab",
+        "irab_dan_logika": "Berfungsi memisahkan bagian kalimat untuk memberi jeda dalam bacaan"
+      },
+      "hikmah": "Menandakan berhentinya bacaan sejenak, memberi kesempatan merenungkan makna ayat.",
+      "role": "none"
+    },
+    {
+      "index": 2,
       "kata_arab": "وَبِٱلنَّجْمِ",
       "transliterasi": "wa‑bi‑al‑najmi",
       "jenis_kata": "Huruf (konjungsi + preposisi)",
@@ -39,7 +57,7 @@
       "role": "none"
     },
     {
-      "index": 2,
+      "index": 3,
       "kata_arab": "هُمْ",
       "transliterasi": "hum",
       "jenis_kata": "Isim (dhamir)",
@@ -57,7 +75,7 @@
       "role": "none"
     },
     {
-      "index": 3,
+      "index": 4,
       "kata_arab": "يَهْتَدُونَ",
       "transliterasi": "yahtadūna",
       "jenis_kata": "Fi'il (verb)",

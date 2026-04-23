@@ -58,6 +58,24 @@
     },
     {
       "index": 3,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf (tanda waqf)",
+      "arti": "tanda jeda/berhenti",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda waqf yang memisahkan dua bagian kalimat",
+        "irab_dan_logika": "tidak berirab, berfungsi sebagai pemisah"
+      },
+      "hikmah": "Memberi jeda untuk menekankan perbedaan antara meninggalkan orang beriman dan pertanyaan selanjutnya.",
+      "role": "none"
+    },
+    {
+      "index": 4,
       "kata_arab": "أَيَبْتَغُونَ",
       "transliterasi": "ayabtaghūna",
       "jenis_kata": "Fiʿl",
@@ -75,7 +93,7 @@
       "role": "none"
     },
     {
-      "index": 4,
+      "index": 5,
       "kata_arab": "عِندَهُمُ",
       "transliterasi": "ʿindahumu",
       "jenis_kata": "Huruf (preposisi)",
@@ -93,7 +111,7 @@
       "role": "none"
     },
     {
-      "index": 5,
+      "index": 6,
       "kata_arab": "ٱلْعِزَّةَ",
       "transliterasi": "al‑ʿizzata",
       "jenis_kata": "Isim",
@@ -111,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 7,
       "kata_arab": "فَإِنَّ",
       "transliterasi": "fa‑inna",
       "jenis_kata": "Huruf (huruf al‑‘ataf & takwid)",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "ٱلْعِزَّةَ",
       "transliterasi": "al-ʿizzata",
       "jenis_kata": "Isim (nama)",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "لِلَّهِ",
       "transliterasi": "lillāhi",
       "jenis_kata": "Huruf (preposisi) + Isim (Allah)",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "جَمِيعًۭا",
       "transliterasi": "jamīʿan",
       "jenis_kata": "Isim (nama) dalam bentuk mansūb (نصب)",

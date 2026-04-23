@@ -148,6 +148,24 @@
     },
     {
       "index": 8,
+      "kata_arab": "ۖ",
+      "transliterasi": "waqf",
+      "jenis_kata": "Huruf",
+      "arti": "*tanda jeda (tanda baca)*",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "*menandai jeda antar bagian kalimat*",
+        "irab_dan_logika": "*tidak berirab, berfungsi sebagai pemisah*"
+      },
+      "hikmah": "*memberi ruang bagi pembaca memisahkan dua gagasan*",
+      "role": "none"
+    },
+    {
+      "index": 9,
       "kata_arab": "وَإِلَّا",
       "transliterasi": "wa‑illā",
       "jenis_kata": "Huruf",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "تَصْرِفْ",
       "transliterasi": "taṣrif",
       "jenis_kata": "Fi'il",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "عَنِّى",
       "transliterasi": "‘annī",
       "jenis_kata": "Huruf",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "كَيْدَهُنَّ",
       "transliterasi": "kaydahunna",
       "jenis_kata": "Isim (isim maf'ul + ضمير متصل)",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "أَصْبُ",
       "transliterasi": "aṣbu",
       "jenis_kata": "Fi'il (verb, mudhari‘, 1st person singular)",

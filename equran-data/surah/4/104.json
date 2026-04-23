@@ -220,6 +220,24 @@
     },
     {
       "index": 12,
+      "kata_arab": "ۖ",
+      "transliterasi": "waqf",
+      "jenis_kata": "Huruf",
+      "arti": "tanda jeda",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda waqf (tanda baca)",
+        "irab_dan_logika": "tidak berirab, menandakan jeda"
+      },
+      "hikmah": "*Memberi* jeda untuk menekankan makna sebelumnya.",
+      "role": "none"
+    },
+    {
+      "index": 13,
       "kata_arab": "وَتَرْجُونَ",
       "transliterasi": "wa tarjūna",
       "jenis_kata": "Fi'il",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "مِنَ",
       "transliterasi": "mina",
       "jenis_kata": "Huruf",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "ٱللَّهِ",
       "transliterasi": "Allāhi",
       "jenis_kata": "Isim",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "مَا",
       "transliterasi": "mā",
       "jenis_kata": "Huruf",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "لَا",
       "transliterasi": "lā",
       "jenis_kata": "Huruf (partikel negasi)",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "يَرْجُونَ",
       "transliterasi": "yarjūna",
       "jenis_kata": "Fi'il (verb)",
@@ -327,7 +345,43 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 19,
+      "kata_arab": "ۗ",
+      "transliterasi": "(tanda ayat)",
+      "jenis_kata": "Simbol (tanda akhir ayat)",
+      "arti": "menandakan selesai",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Berada di akhir ayat, tidak berfungsi dalam tata bahasa",
+        "irab_dan_logika": "Tidak memiliki i'rab karena bukan kata"
+      },
+      "hikmah": "Menandai berakhirnya kalimat sehingga pembaca dapat memisahkan makna antar ayat",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "وَكَانَ",
+      "transliterasi": "wa-kāna",
+      "jenis_kata": "Fi'il (verb) dengan huruf waqf",
+      "arti": "dan adalah",
+      "sharaf": {
+        "akar_kata": "ك-و-ن",
+        "makna_dasar": "menjadi, ada",
+        "wazan_perubahan": "كان"
+      },
+      "nahwu": {
+        "kedudukan": "Kata sambung (wa) + fi'il madhi yang berfungsi sebagai predikat (khabar) bagi اسم كان (Allāh)",
+        "irab_dan_logika": "Marfu' (berharakat dhammah) karena fi'il madhi tidak berkasrah atau fathah"
+      },
+      "hikmah": "Menyatakan keberadaan atau sifat Allah yang akan dijelaskan pada bagian selanjutnya",
+      "role": "none"
+    },
+    {
+      "index": 21,
       "kata_arab": "ٱللَّهُ",
       "transliterasi": "Allāhu",
       "jenis_kata": "Isim (nama)",
@@ -345,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 22,
       "kata_arab": "عَلِيمًا",
       "transliterasi": "ʿalīman",
       "jenis_kata": "Isim (sifat)",
@@ -363,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 23,
       "kata_arab": "حَكِيمًا",
       "transliterasi": "ḥakīman",
       "jenis_kata": "Isim",

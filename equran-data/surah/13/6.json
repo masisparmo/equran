@@ -166,6 +166,24 @@
     },
     {
       "index": 9,
+      "kata_arab": "ۗ",
+      "transliterasi": "N/A",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "N/A",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf lazim (harus berhenti)",
+        "irab_dan_logika": "N/A"
+      },
+      "hikmah": "Menunjukkan tempat berhenti yang dianjurkan atau bahkan wajib dalam pembacaan Al-Qur'an, menandakan selesainya satu bagian makna atau ide, dan mempersiapkan pembaca untuk bagian selanjutnya.",
+      "role": "none"
+    },
+    {
+      "index": 10,
       "kata_arab": "وَإِنَّ",
       "transliterasi": "wa inna",
       "jenis_kata": "Huruf",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "رَبَّكَ",
       "transliterasi": "rabbaka",
       "jenis_kata": "Isim",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "لَذُو",
       "transliterasi": "la-dhū",
       "jenis_kata": "Isim",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "مَغْفِرَةٍۢ",
       "transliterasi": "maghfiratin",
       "jenis_kata": "Isim",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "لِّلنَّاسِ",
       "transliterasi": "lin-nāsi",
       "jenis_kata": "Huruf (lam) + Isim (an-nās)",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "عَلَىٰ",
       "transliterasi": "alā",
       "jenis_kata": "Huruf",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "ظُلْمِهِمْ",
       "transliterasi": "zhulmihim",
       "jenis_kata": "Isim",
@@ -291,7 +309,25 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
+      "kata_arab": "ۖ",
+      "transliterasi": "(Tidak ada transliterasi)",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "(Tidak ada arti harfiah)",
+      "sharaf": {
+        "akar_kata": "(Tidak ada akar kata)",
+        "makna_dasar": "(Tidak ada makna dasar)",
+        "wazan_perubahan": "(Tidak ada wazan)"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca dalam Al-Qur'an",
+        "irab_dan_logika": "(Tidak berlaku i'rab untuk tanda waqaf)"
+      },
+      "hikmah": "Tanda waqaf 'Jim' (ج) menunjukkan bahwa berhenti di sini adalah *boleh* (jaiz), namun melanjutkan bacaan juga boleh. Ini memberikan fleksibilitas bagi pembaca untuk mengambil napas atau memahami makna pada titik tersebut, sebelum melanjutkan ke bagian ayat berikutnya.",
+      "role": "none"
+    },
+    {
+      "index": 18,
       "kata_arab": "وَإِنَّ",
       "transliterasi": "wa-inna",
       "jenis_kata": "Huruf",
@@ -309,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 19,
       "kata_arab": "رَبَّكَ",
       "transliterasi": "rabbaka",
       "jenis_kata": "Isim",
@@ -327,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 20,
       "kata_arab": "لَشَدِيدُ",
       "transliterasi": "lashadīdu",
       "jenis_kata": "Isim",
@@ -345,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 21,
       "kata_arab": "ٱلْعِقَابِ",
       "transliterasi": "al-'iqābi",
       "jenis_kata": "Isim",

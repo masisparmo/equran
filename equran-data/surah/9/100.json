@@ -292,6 +292,24 @@
     },
     {
       "index": 16,
+      "kata_arab": "ۚ",
+      "transliterasi": "waqf",
+      "jenis_kata": "Huruf (علامة وقف)",
+      "arti": "tanda jeda",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "علامة وقف تُستعمل لتقسيم المعنى وتوضيح الوقف",
+        "irab_dan_logika": "ليس لها إعراب لأنها علامة فقط"
+      },
+      "hikmah": "*Memberi jeda untuk menekankan makna sebelumnya sebelum melanjutkan*",
+      "role": "none"
+    },
+    {
+      "index": 17,
       "kata_arab": "ذَٰلِكَ",
       "transliterasi": "dhālika",
       "jenis_kata": "Isim (اسم إشارة)",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "ٱلْفَوْزُ",
       "transliterasi": "al‑fawzu",
       "jenis_kata": "Isim (nama benda)",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 19,
       "kata_arab": "ٱلْعَظِيمُ",
       "transliterasi": "al‑‘azīmu",
       "jenis_kata": "Isim (nama sifat)",

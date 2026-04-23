@@ -112,6 +112,24 @@
     },
     {
       "index": 6,
+      "kata_arab": "ۖ",
+      "transliterasi": "waqf",
+      "jenis_kata": "Huruf",
+      "arti": "tanda berhenti (waqf)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda waqf, tidak termasuk dalam susunan sintaksis",
+        "irab_dan_logika": "tidak berharakat, berfungsi sebagai jeda bacaan"
+      },
+      "hikmah": "menandakan berhenti sejenak untuk memberi penekanan pada makna sebelumnya",
+      "role": "none"
+    },
+    {
+      "index": 7,
       "kata_arab": "وَمَا",
       "transliterasi": "wa-mā",
       "jenis_kata": "Huruf",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "كُنتَ",
       "transliterasi": "kunta",
       "jenis_kata": "Fi'il",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "لَدَيْهِمْ",
       "transliterasi": "ladayhim",
       "jenis_kata": "Isim",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "إِذْ",
       "transliterasi": "idh",
       "jenis_kata": "Huruf",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "أَجْمَعُوا۟",
       "transliterasi": "ajma'ū",
       "jenis_kata": "Fi'il",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "أَمْرَهُمْ",
       "transliterasi": "amrahum",
       "jenis_kata": "Isim",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "وَهُمْ",
       "transliterasi": "wa hum",
       "jenis_kata": "Huruf dan Isim",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "يَمْكُرُونَ",
       "transliterasi": "yamkurūna",
       "jenis_kata": "Fi'il",

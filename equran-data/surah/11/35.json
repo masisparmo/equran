@@ -58,6 +58,24 @@
     },
     {
       "index": 3,
+      "kata_arab": "ۖ",
+      "transliterasi": "(tanda jeda)",
+      "jenis_kata": "Huruf",
+      "arti": "tanda baca (pause)",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca yang memisahkan bagian kalimat",
+        "irab_dan_logika": "Tidak ber‑i'rab, berfungsi sebagai pemisah"
+      },
+      "hikmah": "Memberi jeda untuk menekankan pernyataan sebelumnya.",
+      "role": "none"
+    },
+    {
+      "index": 4,
       "kata_arab": "قُلْ",
       "transliterasi": "qul",
       "jenis_kata": "Fi'il",
@@ -75,7 +93,7 @@
       "role": "none"
     },
     {
-      "index": 4,
+      "index": 5,
       "kata_arab": "إِنِ",
       "transliterasi": "in",
       "jenis_kata": "Huruf",
@@ -93,7 +111,7 @@
       "role": "none"
     },
     {
-      "index": 5,
+      "index": 6,
       "kata_arab": "ٱفْتَرَيْتُهُۥ",
       "transliterasi": "iftaraytuhu",
       "jenis_kata": "Fi'il",
@@ -111,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 7,
       "kata_arab": "فَعَلَىَّ",
       "transliterasi": "",
       "jenis_kata": "Huruf (فَ + عَلَى + ي)",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "إِجْرَامِى",
       "transliterasi": "",
       "jenis_kata": "Isim",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "وَأَنَا۠",
       "transliterasi": "",
       "jenis_kata": "Huruf (وَ) + Isim",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "تُجْرِمُونَ",
       "transliterasi": "tujrimūna",
       "jenis_kata": "Fi'il",

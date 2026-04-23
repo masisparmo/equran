@@ -166,6 +166,24 @@
     },
     {
       "index": 9,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf",
+      "arti": "tanda waqaf",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca waqaf (فاصل) بين الجمل",
+        "irab_dan_logika": "ليس له إعراب، يوقف القراءة مؤقتًا"
+      },
+      "hikmah": "memisahkan antara bagian yang menyebut orang‑orang terdahulu dengan perintah selanjutnya",
+      "role": "none"
+    },
+    {
+      "index": 10,
       "kata_arab": "قُل",
       "transliterasi": "qul",
       "jenis_kata": "Fi'il",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "فَٱنتَظِرُوٓا۟",
       "transliterasi": "fa-antaẓirū",
       "jenis_kata": "Fi'il",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "إِنِّى",
       "transliterasi": "Inni",
       "jenis_kata": "Huruf (particle)",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "مَعَكُم",
       "transliterasi": "ma‘akum",
       "jenis_kata": "Huruf (preposisi) + ضمير متصل",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "مِنَ",
       "transliterasi": "mina",
       "jenis_kata": "Huruf (preposisi)",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "ٱلْمُنتَظِرِينَ",
       "transliterasi": "al-muntazirīna",
       "jenis_kata": "Isim Fa'il (اسم فاعل)",

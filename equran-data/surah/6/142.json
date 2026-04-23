@@ -220,6 +220,24 @@
     },
     {
       "index": 12,
+      "kata_arab": "ۚ",
+      "transliterasi": "Juz' (tanda waqaf)",
+      "jenis_kata": "**Huruf** (tanda baca/waqaf)",
+      "arti": "Tanda waqaf jaiz (boleh berhenti atau melanjutkan)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Tidak berlaku",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf",
+        "irab_dan_logika": "Tidak berlaku"
+      },
+      "hikmah": "Tanda ini menunjukkan bahwa pembaca Al-Qur'an boleh berhenti di sini untuk mengambil napas atau melanjutkan bacaan. Secara makna, ia menandai selesainya satu bagian kalimat atau ide, dan bagian selanjutnya akan memulai ide baru yang terkait.",
+      "role": "none"
+    },
+    {
+      "index": 13,
       "kata_arab": "إِنَّهُۥ",
       "transliterasi": "Innahū",
       "jenis_kata": "**Huruf** (`inna`) + **Isim Dhomir** (`hu`)",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "لَكُمْ",
       "transliterasi": "Lakum",
       "jenis_kata": "**Huruf** (`li`) + **Isim Dhomir** (`kum`)",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "عَدُوٌّۭ",
       "transliterasi": "Adūwwun",
       "jenis_kata": "**Isim** (kata benda)",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "مُّبِينٌۭ",
       "transliterasi": "Mubīnun",
       "jenis_kata": "**Isim** (kata sifat)",

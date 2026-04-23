@@ -256,6 +256,24 @@
     },
     {
       "index": 14,
+      "kata_arab": "ۙ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "Tanda baca",
+      "arti": "Tanda waqaf jaiz (boleh berhenti, boleh lanjut)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Tidak berlaku",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca, bukan bagian dari struktur nahwu kalimat.",
+        "irab_dan_logika": "Tidak berlaku"
+      },
+      "hikmah": "Tanda waqaf ini menunjukkan jeda bacaan yang disunnahkan, memberikan kesempatan untuk memahami bagian ayat sebelumnya sebelum melanjutkan ke bagian berikutnya. Ini membantu dalam pemahaman makna ayat secara bertahap.",
+      "role": "none"
+    },
+    {
+      "index": 15,
       "kata_arab": "وَأَنَّ",
       "transliterasi": "wa-anna",
       "jenis_kata": "Huruf ('Wawu 'Athaf' + 'Anna')",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "ٱللَّهَ",
       "transliterasi": "Allāha",
       "jenis_kata": "Isim (Isim Jalalah)",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "سَمِيعٌ",
       "transliterasi": "samī'un",
       "jenis_kata": "Isim (Sifat Musyabbahah/Shighah Mubalaghah)",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "عَلِيمٌۭ",
       "transliterasi": "ʿAlīmun",
       "jenis_kata": "Isim",

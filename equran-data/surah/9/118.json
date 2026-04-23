@@ -472,6 +472,24 @@
     },
     {
       "index": 26,
+      "kata_arab": "ۚ",
+      "transliterasi": "N/A",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "Tanda waqaf jaiz (boleh berhenti, boleh lanjut)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "N/A",
+        "irab_dan_logika": "N/A"
+      },
+      "hikmah": "Tanda ini menunjukkan tempat yang dianjurkan untuk berhenti membaca, memberikan jeda sebelum memulai kalimat penegasan berikutnya tentang sifat-sifat Allah. Ini membantu pembaca memahami struktur makna ayat.",
+      "role": "none"
+    },
+    {
+      "index": 27,
       "kata_arab": "إِنَّ",
       "transliterasi": "inna",
       "jenis_kata": "Huruf (huruf taukid/penegas)",
@@ -489,7 +507,7 @@
       "role": "none"
     },
     {
-      "index": 27,
+      "index": 28,
       "kata_arab": "ٱللَّهَ",
       "transliterasi": "Allāha",
       "jenis_kata": "Isim (nama diri, lafzhul jalalah)",
@@ -507,7 +525,7 @@
       "role": "none"
     },
     {
-      "index": 28,
+      "index": 29,
       "kata_arab": "هُوَ",
       "transliterasi": "huwa",
       "jenis_kata": "Isim (dhamir munfasil)",
@@ -525,7 +543,7 @@
       "role": "none"
     },
     {
-      "index": 29,
+      "index": 30,
       "kata_arab": "ٱلتَّوَّابُ",
       "transliterasi": "At-Tawwāb",
       "jenis_kata": "Isim",
@@ -543,7 +561,7 @@
       "role": "none"
     },
     {
-      "index": 30,
+      "index": 31,
       "kata_arab": "ٱلرَّحِيمُ",
       "transliterasi": "Ar-Raḥīm",
       "jenis_kata": "Isim",

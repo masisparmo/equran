@@ -130,6 +130,24 @@
     },
     {
       "index": 7,
+      "kata_arab": "ۚ",
+      "transliterasi": "saktah",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda jeda/istirahat",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "pemisah ayat, bukan bagian sintaksis",
+        "irab_dan_logika": "tidak memiliki i‘rāb karena merupakan tanda baca"
+      },
+      "hikmah": "Memberi jeda untuk memaknai ayat secara terpisah.",
+      "role": "none"
+    },
+    {
+      "index": 8,
       "kata_arab": "لَا",
       "transliterasi": "lā",
       "jenis_kata": "Huruf (negasi)",
@@ -147,7 +165,25 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf",
+      "arti": "tanda waqaf kecil (simbol berhenti)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "menandakan jeda dalam bacaan",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca, bukan bagian sintaks kalimat",
+        "irab_dan_logika": "tidak memiliki i‘rab, berfungsi sebagai pemisah ayat untuk memberi jeda"
+      },
+      "hikmah": "menunjukkan berhenti sejenak agar pembaca dapat merenungkan makna ayat sebelumnya",
+      "role": "none"
+    },
+    {
+      "index": 10,
       "kata_arab": "ذَٰلِكَ",
       "transliterasi": "dhālika",
       "jenis_kata": "Isim (isim dhāri)",
@@ -165,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 11,
       "kata_arab": "هُوَ",
       "transliterasi": "huwa",
       "jenis_kata": "Isim dhāt (kata ganti)",
@@ -183,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 12,
       "kata_arab": "ٱلْفَوْزُ",
       "transliterasi": "al-fawzu",
       "jenis_kata": "Isim (kata benda)",
@@ -201,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 13,
       "kata_arab": "ٱلْعَظِيمُ",
       "transliterasi": "al-‘azīmu",
       "jenis_kata": "Isim (sifat/na‘t)",

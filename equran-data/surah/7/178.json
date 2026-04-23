@@ -94,6 +94,24 @@
     },
     {
       "index": 5,
+      "kata_arab": "ۖ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf",
+      "arti": "tanda waqf (istirahat)",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "tanda baca",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "*Tanda waqf* yang memisahkan ayat ini dari lanjutan",
+        "irab_dan_logika": "Tidak memiliki إعراب karena merupakan tanda baca"
+      },
+      "hikmah": "Memberi jeda bagi pembaca untuk merenungkan makna ayat sebelum melanjutkan.",
+      "role": "none"
+    },
+    {
+      "index": 6,
       "kata_arab": "وَمَن",
       "transliterasi": "wa‑man",
       "jenis_kata": "Huruf (wa) + Isim (man)",
@@ -111,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 7,
       "kata_arab": "يُضْلِلْ",
       "transliterasi": "yuḍlil",
       "jenis_kata": "Fi'il (verb)",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "فَأُو۟لَٰٓئِكَ",
       "transliterasi": "fa‑ulā’ika",
       "jenis_kata": "Huruf (fa) + Isim (ulā’ika)",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "هُمُ",
       "transliterasi": "hum",
       "jenis_kata": "Isim (dhamir)",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "ٱلْخَٰسِرُونَ",
       "transliterasi": "al‑khāsirūna",
       "jenis_kata": "Isim (isim jamak)",

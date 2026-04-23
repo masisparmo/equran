@@ -184,6 +184,24 @@
     },
     {
       "index": 10,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf",
+      "arti": "tanda waqf (tanda berhenti)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "simbol waqf, tidak termasuk dalam susunan nahwu",
+        "irab_dan_logika": "tidak memiliki harakat karena berfungsi sebagai tanda baca"
+      },
+      "hikmah": "Memberi jeda sejenak bagi pendengar/penyimak untuk merenungkan makna ayat sebelum tanda ini.",
+      "role": "none"
+    },
+    {
+      "index": 11,
       "kata_arab": "وَنَطْبَعُ",
       "transliterasi": "wa‑naṭbaʿu",
       "jenis_kata": "Fi'il",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "عَلَىٰ",
       "transliterasi": "ʿalā",
       "jenis_kata": "Huruf",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "قُلُوبِهِمْ",
       "transliterasi": "qulūbihim",
       "jenis_kata": "Isim",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "فَهُمْ",
       "transliterasi": "fa‑hum",
       "jenis_kata": "Huruf",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "لَا",
       "transliterasi": "lā",
       "jenis_kata": "Huruf",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "يَسْمَعُونَ",
       "transliterasi": "yasma'ūna",
       "jenis_kata": "Fi'il (Kata Kerja)",

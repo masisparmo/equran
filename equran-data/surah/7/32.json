@@ -328,6 +328,24 @@
     },
     {
       "index": 18,
+      "kata_arab": "ۗ",
+      "transliterasi": "waqf",
+      "jenis_kata": "Huruf (tanda waqf)",
+      "arti": "tanda jeda, berhenti sejenak",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca yang memisahkan bagian ayat",
+        "irab_dan_logika": "tidak memiliki iʿrāb karena bukan kata"
+      },
+      "hikmah": "memberi kesempatan bagi pendengar merenungkan makna sebelumnya",
+      "role": "none"
+    },
+    {
+      "index": 19,
       "kata_arab": "كَذَٰلِكَ",
       "transliterasi": "kadhālika",
       "jenis_kata": "Huruf (demonstratif)",
@@ -345,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 20,
       "kata_arab": "نُفَصِّلُ",
       "transliterasi": "nufaṣṣilu",
       "jenis_kata": "Fi'il",
@@ -363,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 21,
       "kata_arab": "ٱلْءَايَٰتِ",
       "transliterasi": "al-āyāti",
       "jenis_kata": "Isim",
@@ -381,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 22,
       "kata_arab": "لِقَوْمٍ",
       "transliterasi": "li‑qawmin",
       "jenis_kata": "Huruf+Isim",
@@ -399,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 23,
       "kata_arab": "يَعْلَمُونَ",
       "transliterasi": "ya‘lamūna",
       "jenis_kata": "Fi'il",

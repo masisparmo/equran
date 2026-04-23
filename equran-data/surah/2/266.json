@@ -508,6 +508,24 @@
     },
     {
       "index": 28,
+      "kata_arab": "ۗ",
+      "transliterasi": "N/A",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "Tanda waqaf lazim (wajib berhenti)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Bukan bagian dari struktur kalimat, melainkan tanda baca.",
+        "irab_dan_logika": "N/A"
+      },
+      "hikmah": "Menandakan *akhir dari satu bagian makna* dan *permulaan bagian makna baru*. Dalam konteks ini, ia menandai selesainya perumpamaan tentang kebun yang terbakar, sebelum beralih ke hikmah di baliknya.",
+      "role": "none"
+    },
+    {
+      "index": 29,
       "kata_arab": "كَذَٰلِكَ",
       "transliterasi": "kaḏālika",
       "jenis_kata": "Huruf + Isim Isyarah",
@@ -525,7 +543,7 @@
       "role": "none"
     },
     {
-      "index": 29,
+      "index": 30,
       "kata_arab": "يُبَيِّنُ",
       "transliterasi": "yubayyinu",
       "jenis_kata": "Fi'il",
@@ -543,7 +561,7 @@
       "role": "none"
     },
     {
-      "index": 30,
+      "index": 31,
       "kata_arab": "ٱللَّهُ",
       "transliterasi": "Allāhu",
       "jenis_kata": "Isim",
@@ -561,7 +579,7 @@
       "role": "none"
     },
     {
-      "index": 31,
+      "index": 32,
       "kata_arab": "لَكُمُ",
       "transliterasi": "lakumu",
       "jenis_kata": "Huruf + Isim Dhomir",
@@ -579,7 +597,7 @@
       "role": "none"
     },
     {
-      "index": 32,
+      "index": 33,
       "kata_arab": "ٱلْءَايَٰتِ",
       "transliterasi": "al-āyāti",
       "jenis_kata": "Isim",
@@ -597,7 +615,7 @@
       "role": "none"
     },
     {
-      "index": 33,
+      "index": 34,
       "kata_arab": "لَعَلَّكُمْ",
       "transliterasi": "la'allakum",
       "jenis_kata": "Huruf + Isim Dhomir",
@@ -615,7 +633,7 @@
       "role": "none"
     },
     {
-      "index": 34,
+      "index": 35,
       "kata_arab": "تَتَفَكَّرُونَ",
       "transliterasi": "tatafakkarūna",
       "jenis_kata": "Fi'il",

@@ -112,6 +112,24 @@
     },
     {
       "index": 6,
+      "kata_arab": "ۚ",
+      "transliterasi": "**pause (ʿāraḍ)**",
+      "jenis_kata": "**Huruf (tanda baca)**",
+      "arti": "**tanda jeda**",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "**Akhir ayat, memisahkan bagian**",
+        "irab_dan_logika": "**Tidak berharakat, berfungsi sebagai tanda jeda (waqf) dalam bacaan Qur'an**"
+      },
+      "hikmah": "**Menandakan jeda untuk menekankan makna ayat sebelumnya**",
+      "role": "none"
+    },
+    {
+      "index": 7,
       "kata_arab": "أَلَا",
       "transliterasi": "**alā**",
       "jenis_kata": "**Huruf**",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "لَهُ",
       "transliterasi": "**lahu**",
       "jenis_kata": "**Huruf (preposisi) + Isim (kata ganti)**",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "ٱلْحُكْمُ",
       "transliterasi": "**al‑ḥukmu**",
       "jenis_kata": "**Isim (kata benda)**",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "وَهُوَ",
       "transliterasi": "**wa‑huwa**",
       "jenis_kata": "**Huruf (wa) + Isim (huwa)**",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "أَسْرَعُ",
       "transliterasi": "**asra‘u**",
       "jenis_kata": "**Isim (sifat) – bentuk istif‘āl**",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "ٱلْحَٰسِبِينَ",
       "transliterasi": "al‑ḥāsibīna",
       "jenis_kata": "Isim (اسم فاعل)",

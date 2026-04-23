@@ -94,6 +94,24 @@
     },
     {
       "index": 5,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf (tanda waqf)",
+      "arti": "tanda berhenti",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda waqf, memisahkan ayat ini dari lanjutan",
+        "irab_dan_logika": "tidak berirab, berfungsi sebagai tanda baca"
+      },
+      "hikmah": "Memberi jeda bagi pembaca untuk merenungkan makna ayat.",
+      "role": "none"
+    },
+    {
+      "index": 6,
       "kata_arab": "وَمَن",
       "transliterasi": "wa‑man",
       "jenis_kata": "Isim (اسم موصول)",
@@ -111,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 7,
       "kata_arab": "يُشَاقِقِ",
       "transliterasi": "yušāqiqi",
       "jenis_kata": "Fi'il (فعل مضارع)",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "شَدِيدُ",
       "transliterasi": "shadīdu",
       "jenis_kata": "Isim (isim sifat)",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "ٱلْعِقَابِ",
       "transliterasi": "al-ʿiqābi",
       "jenis_kata": "Isim (isim mausuf)",

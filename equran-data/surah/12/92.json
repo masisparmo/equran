@@ -148,6 +148,24 @@
     },
     {
       "index": 8,
+      "kata_arab": "ۖ",
+      "transliterasi": "(tanda waqaf lazim)",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "Berhenti (wajib)",
+      "sharaf": {
+        "akar_kata": "Tidak ada",
+        "makna_dasar": "Menunjukkan tempat berhenti yang dianjurkan atau wajib dalam bacaan Al-Qur'an",
+        "wazan_perubahan": "Tidak ada"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca/waqaf",
+        "irab_dan_logika": "Bukan bagian dari struktur nahwu"
+      },
+      "hikmah": "Secara linguistik, ini bukan kata. Dalam konteks tafsir, tanda ini menunjukkan bahwa pembaca sebaiknya berhenti di sini untuk memahami makna kalimat sebelumnya secara utuh sebelum melanjutkan. Ini membantu dalam pemahaman makna dan menjaga keindahan bacaan.",
+      "role": "none"
+    },
+    {
+      "index": 9,
       "kata_arab": "وَهُوَ",
       "transliterasi": "wa huwa",
       "jenis_kata": "Huruf + Isim Dhomir",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "أَرْحَمُ",
       "transliterasi": "arhamu",
       "jenis_kata": "Isim",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "ٱلرَّٰحِمِينَ",
       "transliterasi": "ar-rāḥimīn",
       "jenis_kata": "Isim (Kata Benda)",

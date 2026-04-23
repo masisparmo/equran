@@ -256,6 +256,24 @@
     },
     {
       "index": 14,
+      "kata_arab": "ۚ",
+      "transliterasi": "Tidak ada transliterasi",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "Tanda Waqaf Lazim (berhenti lebih utama)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Menunjukkan tempat berhenti yang dianjurkan dalam bacaan Al-Qur'an.",
+        "wazan_perubahan": "Tidak berlaku."
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca",
+        "irab_dan_logika": "Bukan bagian dari struktur gramatikal kalimat."
+      },
+      "hikmah": "Tanda waqaf ini menandakan selesainya satu bagian makna atau argumen, yaitu penjelasan mengapa laki-laki menjadi pemimpin (karena kelebihan dan nafkah). Bagian selanjutnya akan membahas tentang wanita shalihah.",
+      "role": "none"
+    },
+    {
+      "index": 15,
       "kata_arab": "فَٱلصَّٰلِحَٰتُ",
       "transliterasi": "faṣ-ṣāliḥātu",
       "jenis_kata": "Isim",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "قَٰنِتَٰتٌ",
       "transliterasi": "qānitātun",
       "jenis_kata": "Isim",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "حَٰفِظَٰتٌۭ",
       "transliterasi": "ḥāfiẓātun",
       "jenis_kata": "Isim",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "لِّلْغَيْبِ",
       "transliterasi": "li al-ghaibi",
       "jenis_kata": "Isim",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 19,
       "kata_arab": "بِمَا",
       "transliterasi": "bimā",
       "jenis_kata": "Huruf + Isim Maushul",
@@ -345,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 20,
       "kata_arab": "حَفِظَ",
       "transliterasi": "ḥafiẓa",
       "jenis_kata": "Fi'il",
@@ -363,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 21,
       "kata_arab": "ٱللَّهُ",
       "transliterasi": "Allāhu",
       "jenis_kata": "Isim",
@@ -381,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 22,
       "kata_arab": "وَٱلَّٰتِى",
       "transliterasi": "wa al-lātī",
       "jenis_kata": "Huruf + Isim Maushul",
@@ -399,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 23,
       "kata_arab": "تَخَافُونَ",
       "transliterasi": "takhāfūna",
       "jenis_kata": "Fi'il",
@@ -417,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 24,
       "kata_arab": "نُشُوزَهُنَّ",
       "transliterasi": "nushūzahunna",
       "jenis_kata": "Isim",
@@ -435,7 +453,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 25,
       "kata_arab": "فَعِظُوهُنَّ",
       "transliterasi": "fa'izūhunna",
       "jenis_kata": "Fi'il",
@@ -453,7 +471,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 26,
       "kata_arab": "وَٱهْجُرُوهُنَّ",
       "transliterasi": "wahjurūhunna",
       "jenis_kata": "Fi'il",
@@ -471,7 +489,7 @@
       "role": "none"
     },
     {
-      "index": 26,
+      "index": 27,
       "kata_arab": "فِى",
       "transliterasi": "fī",
       "jenis_kata": "Huruf",
@@ -489,7 +507,7 @@
       "role": "none"
     },
     {
-      "index": 27,
+      "index": 28,
       "kata_arab": "ٱلْمَضَاجِعِ",
       "transliterasi": "al-madhāji'i",
       "jenis_kata": "Isim",
@@ -507,7 +525,7 @@
       "role": "none"
     },
     {
-      "index": 28,
+      "index": 29,
       "kata_arab": "وَٱضْرِبُوهُنَّ",
       "transliterasi": "waḍribūhunna",
       "jenis_kata": "Fi'il",
@@ -525,7 +543,25 @@
       "role": "none"
     },
     {
-      "index": 29,
+      "index": 30,
+      "kata_arab": "ۖ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "Tanda baca",
+      "arti": "Tanda waqaf lazim (berhenti lebih baik)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Tidak berlaku",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Tidak berlaku",
+        "irab_dan_logika": "Tidak berlaku"
+      },
+      "hikmah": "Menunjukkan tempat berhenti yang dianjurkan dalam membaca Al-Qur'an untuk memahami makna yang benar, memisahkan dua gagasan atau kalimat.",
+      "role": "none"
+    },
+    {
+      "index": 31,
       "kata_arab": "فَإِنْ",
       "transliterasi": "fa-in",
       "jenis_kata": "Huruf",
@@ -543,7 +579,7 @@
       "role": "none"
     },
     {
-      "index": 30,
+      "index": 32,
       "kata_arab": "أَطَعْنَكُمْ",
       "transliterasi": "aṭa'nakum",
       "jenis_kata": "Fi'il",
@@ -561,7 +597,7 @@
       "role": "none"
     },
     {
-      "index": 31,
+      "index": 33,
       "kata_arab": "فَلَا",
       "transliterasi": "fa-lā",
       "jenis_kata": "Huruf",
@@ -579,7 +615,7 @@
       "role": "none"
     },
     {
-      "index": 32,
+      "index": 34,
       "kata_arab": "تَبْغُوا۟",
       "transliterasi": "tabghū",
       "jenis_kata": "Fi'il",
@@ -597,7 +633,7 @@
       "role": "none"
     },
     {
-      "index": 33,
+      "index": 35,
       "kata_arab": "عَلَيْهِنَّ",
       "transliterasi": "alayhinna",
       "jenis_kata": "Huruf (preposisi) + Isim (pronomina)",
@@ -615,7 +651,7 @@
       "role": "none"
     },
     {
-      "index": 34,
+      "index": 36,
       "kata_arab": "سَبِيلًا",
       "transliterasi": "sabīlan",
       "jenis_kata": "Isim (kata benda)",
@@ -633,7 +669,7 @@
       "role": "none"
     },
     {
-      "index": 35,
+      "index": 37,
       "kata_arab": "إِنَّ",
       "transliterasi": "inna",
       "jenis_kata": "Huruf (Huruf Taukid wa Nashb)",
@@ -651,7 +687,7 @@
       "role": "none"
     },
     {
-      "index": 36,
+      "index": 38,
       "kata_arab": "ٱللَّهَ",
       "transliterasi": "allāha",
       "jenis_kata": "Isim (Kata Benda, Isim Jalalah)",
@@ -669,7 +705,7 @@
       "role": "none"
     },
     {
-      "index": 37,
+      "index": 39,
       "kata_arab": "كَانَ",
       "transliterasi": "kāna",
       "jenis_kata": "Fi'il Naqish (Kata Kerja Tidak Sempurna)",
@@ -687,7 +723,7 @@
       "role": "none"
     },
     {
-      "index": 38,
+      "index": 40,
       "kata_arab": "عَلِيًّۭا",
       "transliterasi": "ʿAliyyan",
       "jenis_kata": "Isim (Kata Sifat/Benda)",
@@ -705,7 +741,7 @@
       "role": "none"
     },
     {
-      "index": 39,
+      "index": 41,
       "kata_arab": "كَبِيرًۭا",
       "transliterasi": "Kabīran",
       "jenis_kata": "Isim (Kata Sifat/Benda)",

@@ -418,6 +418,24 @@
     },
     {
       "index": 23,
+      "kata_arab": "ۚ",
+      "transliterasi": "sukūn/waqf",
+      "jenis_kata": "Huruf",
+      "arti": "tanda berhenti (waqf) pada akhir ayat)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "simbol waqf, menandai akhir ayat; tidak termasuk dalam sintaks kalimat",
+        "irab_dan_logika": "tidak memiliki i‘rāb karena merupakan tanda baca"
+      },
+      "hikmah": "Menunjukkan jeda dan mengakhiri bacaan ayat, memberi kesempatan bagi pendengar untuk merenungkan makna sebelumnya.",
+      "role": "none"
+    },
+    {
+      "index": 24,
       "kata_arab": "وَكَانَ",
       "transliterasi": "wa kāna",
       "jenis_kata": "Fi'il",
@@ -435,7 +453,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 25,
       "kata_arab": "فَضْلُ",
       "transliterasi": "faḍlu",
       "jenis_kata": "Isim",
@@ -453,7 +471,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 26,
       "kata_arab": "ٱللَّهِ",
       "transliterasi": "Allāhi",
       "jenis_kata": "Isim",
@@ -471,7 +489,7 @@
       "role": "none"
     },
     {
-      "index": 26,
+      "index": 27,
       "kata_arab": "عَلَيْكَ",
       "transliterasi": "ʿalayka",
       "jenis_kata": "Huruf",
@@ -489,7 +507,7 @@
       "role": "none"
     },
     {
-      "index": 27,
+      "index": 28,
       "kata_arab": "عَظِيمًۭا",
       "transliterasi": "ʿaẓīman",
       "jenis_kata": "Isim",

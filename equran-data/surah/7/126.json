@@ -166,6 +166,24 @@
     },
     {
       "index": 9,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqf — pause)",
+      "jenis_kata": "Huruf (simbol tanda baca)",
+      "arti": "tanda jeda/waqf",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Menandai **hentian** singkat antara dua bagian kalimat (setelah *jāʾatnā*)",
+        "irab_dan_logika": "Tidak ber‑irab karena bukan kata; berfungsi sebagai **waqf** untuk memberi ruang napas dalam bacaan"
+      },
+      "hikmah": "Memberi **penekanan** pada makna sebelumnya sehingga pembaca dapat merenungkan turunnya ayat‑ayat sebelum melanjutkan doa.",
+      "role": "none"
+    },
+    {
+      "index": 10,
       "kata_arab": "رَبَّنَا",
       "transliterasi": "Rabbana",
       "jenis_kata": "Isim (kata benda) dengan suffiks *‑na* (kami)",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "أَفْرِغْ",
       "transliterasi": "afrigh",
       "jenis_kata": "Fi'il",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "عَلَيْنَا",
       "transliterasi": "ʿalaynā",
       "jenis_kata": "Huruf",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "صَبْرًۭا",
       "transliterasi": "ṣabrًا",
       "jenis_kata": "Isim",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "وَتَوَفَّنَا",
       "transliterasi": "wa tawaffanā",
       "jenis_kata": "Fi'il",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "مُسْلِمِينَ",
       "transliterasi": "muslimīna",
       "jenis_kata": "Isim",

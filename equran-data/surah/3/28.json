@@ -382,6 +382,24 @@
     },
     {
       "index": 21,
+      "kata_arab": "ۗ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "Tanda baca",
+      "arti": "Tanda waqaf lazim (harus berhenti)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku.",
+        "makna_dasar": "Menandakan tempat berhenti yang dianjurkan atau wajib dalam bacaan Al-Qur'an.",
+        "wazan_perubahan": "Tidak berlaku."
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf.",
+        "irab_dan_logika": "Tidak memiliki i'rab. Fungsinya adalah untuk membantu pembaca memahami makna ayat dengan berhenti pada tempat yang tepat."
+      },
+      "hikmah": "Menunjukkan akhir dari satu bagian makna atau satu klausa penting dalam ayat, sebelum melanjutkan ke bagian berikutnya yang mungkin memiliki penekanan atau subjek yang berbeda.",
+      "role": "none"
+    },
+    {
+      "index": 22,
       "kata_arab": "وَيُحَذِّرُكُمُ",
       "transliterasi": "wa yuḥadhdhirukumu",
       "jenis_kata": "Huruf, Fi'il, dan Dhomir",
@@ -399,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 23,
       "kata_arab": "ٱللَّهُ",
       "transliterasi": "Allāhu",
       "jenis_kata": "Isim",
@@ -417,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 24,
       "kata_arab": "نَفْسَهُۥ",
       "transliterasi": "nafsahū",
       "jenis_kata": "Isim",
@@ -435,7 +453,25 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 25,
+      "kata_arab": "ۗ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "Tanda baca Al-Qur'an",
+      "arti": "Tanda waqaf lazim (berhenti lebih utama)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "N/A (bukan bagian dari struktur gramatikal kalimat)",
+        "irab_dan_logika": "N/A"
+      },
+      "hikmah": "Menunjukkan tempat berhenti yang dianjurkan dalam membaca Al-Qur'an untuk memahami makna yang utuh. Dalam konteks ini, menandai akhir dari satu bagian peringatan dan awal bagian selanjutnya.",
+      "role": "none"
+    },
+    {
+      "index": 26,
       "kata_arab": "وَإِلَى",
       "transliterasi": "wa-ilā",
       "jenis_kata": "Huruf",
@@ -453,7 +489,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 27,
       "kata_arab": "ٱللَّهِ",
       "transliterasi": "Allāhi",
       "jenis_kata": "Isim",
@@ -471,7 +507,7 @@
       "role": "none"
     },
     {
-      "index": 26,
+      "index": 28,
       "kata_arab": "ٱلْمَصِيرُ",
       "transliterasi": "al-maṣīru",
       "jenis_kata": "Isim",

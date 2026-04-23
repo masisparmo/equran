@@ -274,6 +274,24 @@
     },
     {
       "index": 15,
+      "kata_arab": "ۗ",
+      "transliterasi": "-",
+      "jenis_kata": "Huruf",
+      "arti": "Tanda waqaf jaiz (boleh berhenti atau lanjut)",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca dalam mushaf Al-Qur'an.",
+        "irab_dan_logika": "Bukan bagian dari tata bahasa Arab, melainkan tanda untuk membantu pembacaan Al-Qur'an. Menunjukkan tempat yang dianjurkan untuk berhenti, namun boleh juga melanjutkan."
+      },
+      "hikmah": "Membantu dalam pemahaman makna ayat dengan memberikan jeda yang tepat, memisahkan satu gagasan dari gagasan berikutnya, yaitu antara penjelasan tentang azab dan penegasan kekuasaan Allah.",
+      "role": "none"
+    },
+    {
+      "index": 16,
       "kata_arab": "إِنَّ",
       "transliterasi": "inna",
       "jenis_kata": "Huruf",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "ٱللَّهَ",
       "transliterasi": "Allāha",
       "jenis_kata": "Isim",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "كَانَ",
       "transliterasi": "kāna",
       "jenis_kata": "Fi'il",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 19,
       "kata_arab": "عَزِيزًا",
       "transliterasi": "azīzan",
       "jenis_kata": "Isim",
@@ -345,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 20,
       "kata_arab": "حَكِيمًۭا",
       "transliterasi": "hakīman",
       "jenis_kata": "Isim",

@@ -40,6 +40,24 @@
     },
     {
       "index": 2,
+      "kata_arab": "ۖ",
+      "transliterasi": "(Tanda Waqaf)",
+      "jenis_kata": "Huruf (Tanda Baca/Waqaf)",
+      "arti": "Tanda waqaf jaiz (boleh berhenti, boleh melanjutkan)",
+      "sharaf": {
+        "akar_kata": "Tidak ada",
+        "makna_dasar": "Tidak ada",
+        "wazan_perubahan": "Tidak ada"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda Waqaf (berhenti)",
+        "irab_dan_logika": "Tidak memiliki i'rab karena bukan bagian dari struktur kalimat."
+      },
+      "hikmah": "Menunjukkan tempat yang dianjurkan untuk berhenti membaca, memberikan jeda untuk memahami makna kalimat sebelumnya sebelum melanjutkan ke kalimat berikutnya.",
+      "role": "none"
+    },
+    {
+      "index": 3,
       "kata_arab": "وَمَنْ",
       "transliterasi": "Wa man",
       "jenis_kata": "Huruf (Waw) dan Isim Istifham (Man)",
@@ -57,7 +75,7 @@
       "role": "none"
     },
     {
-      "index": 3,
+      "index": 4,
       "kata_arab": "أَحْسَنُ",
       "transliterasi": "Aḥsanu",
       "jenis_kata": "Isim (Kata Benda), Isim Tafdhil (Kata Sifat Komparatif/Superlatif)",
@@ -75,7 +93,7 @@
       "role": "none"
     },
     {
-      "index": 4,
+      "index": 5,
       "kata_arab": "مِنَ",
       "transliterasi": "Mina",
       "jenis_kata": "Huruf (Huruf Jar)",
@@ -93,7 +111,7 @@
       "role": "none"
     },
     {
-      "index": 5,
+      "index": 6,
       "kata_arab": "ٱللَّهِ",
       "transliterasi": "Allāhi",
       "jenis_kata": "Isim (Kata Benda)",
@@ -111,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 7,
       "kata_arab": "صِبْغَةًۭ",
       "transliterasi": "Shibghatan",
       "jenis_kata": "Isim (Kata Benda)",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "وَنَحْنُ",
       "transliterasi": "Wa naḥnu",
       "jenis_kata": "Huruf (Waw) + Isim (Dhamir Munfashil)",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "لَهُۥ",
       "transliterasi": "Lahū",
       "jenis_kata": "Huruf (Lam) + Isim (Dhamir Muttashil)",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "عَٰبِدُونَ",
       "transliterasi": "Ābidūn",
       "jenis_kata": "Isim Fa'il (Partisip Aktif)",

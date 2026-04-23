@@ -292,6 +292,24 @@
     },
     {
       "index": 16,
+      "kata_arab": "ۗ",
+      "transliterasi": "(Tanda Waqaf Lazim)",
+      "jenis_kata": "Tanda Baca (Bukan kata)",
+      "arti": "Tanda waqaf lazim (harus berhenti)",
+      "sharaf": {
+        "akar_kata": "Tidak ada",
+        "makna_dasar": "Tidak ada",
+        "wazan_perubahan": "Tidak ada"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca Al-Qur'an",
+        "irab_dan_logika": "Tidak memiliki irab (perubahan harakat akhir)."
+      },
+      "hikmah": "Tanda ini menunjukkan bahwa pada titik ini, makna kalimat sudah sempurna dan disarankan untuk berhenti membaca. Ini membantu pembaca memahami jeda makna dalam ayat dan mencerna pesan yang telah disampaikan.",
+      "role": "none"
+    },
+    {
+      "index": 17,
       "kata_arab": "وَمَا",
       "transliterasi": "Wa mā",
       "jenis_kata": "Huruf (Wawu) + Isim Maushul",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "عِندَ",
       "transliterasi": "inda",
       "jenis_kata": "Isim Zharaf Makan",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 19,
       "kata_arab": "ٱللَّهِ",
       "transliterasi": "Allāhi",
       "jenis_kata": "Isim (Isim Jalalah)",
@@ -345,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 20,
       "kata_arab": "خَيْرٌۭ",
       "transliterasi": "khayrun",
       "jenis_kata": "Isim (Isim Tafdhil/Sifat)",
@@ -363,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 21,
       "kata_arab": "لِّلْأَبْرَارِ",
       "transliterasi": "lil-abrār",
       "jenis_kata": "Huruf (Lam Jar) + Isim (Jamak dari Barr)",

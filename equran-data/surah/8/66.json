@@ -364,6 +364,24 @@
     },
     {
       "index": 20,
+      "kata_arab": "ۗ",
+      "transliterasi": "*Ayah sign*",
+      "jenis_kata": "*Huruf (tanda baca)*",
+      "arti": "*Akhir ayat*",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "*Penanda akhir kalimat*",
+        "irab_dan_logika": "*Tidak memiliki i‘rāb*"
+      },
+      "hikmah": "*Memberi jeda bagi pembaca untuk merenungkan makna ayat.*",
+      "role": "none"
+    },
+    {
+      "index": 21,
       "kata_arab": "وَٱللَّهُ",
       "transliterasi": "*wa‑Allāhu*",
       "jenis_kata": "*Isim dengan huruf wa (وَ)*",
@@ -381,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 22,
       "kata_arab": "مَعَ",
       "transliterasi": "*ma‘a*",
       "jenis_kata": "*Huruf jar*",
@@ -399,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 23,
       "kata_arab": "ٱلصَّٰبِرِينَ",
       "transliterasi": "*as‑ṣābirīna*",
       "jenis_kata": "*Isim jamak (مُعْتَل) berakhiran *-īn*",

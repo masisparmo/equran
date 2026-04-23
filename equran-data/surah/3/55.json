@@ -382,6 +382,24 @@
     },
     {
       "index": 21,
+      "kata_arab": "ۖ",
+      "transliterasi": "*Tidak ada transliterasi langsung*",
+      "jenis_kata": "Tanda Waqaf (simbol bacaan)",
+      "arti": "*Tidak ada arti harfiah*",
+      "sharaf": {
+        "akar_kata": "*Tidak berlaku*",
+        "makna_dasar": "*Tidak berlaku*",
+        "wazan_perubahan": "*Tidak berlaku*"
+      },
+      "nahwu": {
+        "kedudukan": "*Tidak berlaku dalam analisis nahwu kata*",
+        "irab_dan_logika": "*Tidak berlaku*"
+      },
+      "hikmah": "Tanda **waqaf lazim** (berhenti lebih baik), menunjukkan bahwa pembaca disarankan untuk berhenti di sini untuk memahami makna kalimat sebelumnya. Ini membantu dalam segmentasi makna ayat dan memberikan jeda yang tepat.",
+      "role": "none"
+    },
+    {
+      "index": 22,
       "kata_arab": "ثُمَّ",
       "transliterasi": "thumma",
       "jenis_kata": "Huruf",
@@ -399,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 23,
       "kata_arab": "إِلَىَّ",
       "transliterasi": "ilayya",
       "jenis_kata": "Huruf + Dhomir (preposisi + kata ganti)",
@@ -417,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 24,
       "kata_arab": "مَرْجِعُكُمْ",
       "transliterasi": "marji'ukum",
       "jenis_kata": "Isim",
@@ -435,7 +453,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 25,
       "kata_arab": "فَأَحْكُمُ",
       "transliterasi": "fa-ahkumu",
       "jenis_kata": "Fi'il",
@@ -453,7 +471,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 26,
       "kata_arab": "بَيْنَكُمْ",
       "transliterasi": "bainakum",
       "jenis_kata": "Isim / Zarf Makan",
@@ -471,7 +489,7 @@
       "role": "none"
     },
     {
-      "index": 26,
+      "index": 27,
       "kata_arab": "فِيمَا",
       "transliterasi": "fīmā",
       "jenis_kata": "Huruf + Isim Maushul",
@@ -489,7 +507,7 @@
       "role": "none"
     },
     {
-      "index": 27,
+      "index": 28,
       "kata_arab": "كُنتُمْ",
       "transliterasi": "kuntum",
       "jenis_kata": "Fi'il",
@@ -507,7 +525,7 @@
       "role": "none"
     },
     {
-      "index": 28,
+      "index": 29,
       "kata_arab": "فِيهِ",
       "transliterasi": "fīhi",
       "jenis_kata": "Huruf + Dhomir",
@@ -525,7 +543,7 @@
       "role": "none"
     },
     {
-      "index": 29,
+      "index": 30,
       "kata_arab": "تَخْتَلِفُونَ",
       "transliterasi": "takhtalifūna",
       "jenis_kata": "Fi'il (Kata Kerja)",

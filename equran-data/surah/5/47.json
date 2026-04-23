@@ -130,6 +130,24 @@
     },
     {
       "index": 7,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda berhenti",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "menandakan jeda atau akhir klausa",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "memisahkan dua bagian kalimat",
+        "irab_dan_logika": "bukan bagian tata bahasa, berfungsi sebagai **waqf** untuk memberi jeda"
+      },
+      "hikmah": "*Menandai peralihan dari perintah kepada Ahli Injil ke peringatan bagi yang tidak memutuskan perkara.*",
+      "role": "none"
+    },
+    {
+      "index": 8,
       "kata_arab": "وَمَن",
       "transliterasi": "wa‑man",
       "jenis_kata": "Huruf (wa) + Isim (man)",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "لَّمْ",
       "transliterasi": "lam",
       "jenis_kata": "Huruf (negasi)",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "يَحْكُم",
       "transliterasi": "yaḥkum",
       "jenis_kata": "Fi'il (verb) mudhari' 3rd masc. sg.",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "بِمَآ",
       "transliterasi": "bimā",
       "jenis_kata": "Huruf (bi) + Isim (mā)",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "أَنزَلَ",
       "transliterasi": "anzala",
       "jenis_kata": "Fi'il",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "ٱللَّهُ",
       "transliterasi": "Allahu",
       "jenis_kata": "Isim",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "فَأُو۟لَٰٓئِكَ",
       "transliterasi": "fa'ulaika",
       "jenis_kata": "Huruf + Isim",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "هُمُ",
       "transliterasi": "humu",
       "jenis_kata": "Isim (dzamir mufrada)",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "ٱلْفَٰسِقُونَ",
       "transliterasi": "al-fāsiqūna",
       "jenis_kata": "Isim",

@@ -184,6 +184,24 @@
     },
     {
       "index": 10,
+      "kata_arab": "ۖ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf (tanda waqf)",
+      "arti": "tanda jeda/istirahat",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "menandai akhir frasa sebelum ayat selanjutnya",
+        "irab_dan_logika": "tidak berirab, berfungsi sebagai tanda waqf"
+      },
+      "hikmah": "memberi jeda untuk menekankan makna ayat sebelum melanjutkan",
+      "role": "none"
+    },
+    {
+      "index": 11,
       "kata_arab": "هَٰذَا",
       "transliterasi": "hādhā",
       "jenis_kata": "Isim (isim dhahir)",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "مَا",
       "transliterasi": "mā",
       "jenis_kata": "Isim (isim mawsul/isim al‑ism)",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "كَنَزْتُمْ",
       "transliterasi": "kanztum",
       "jenis_kata": "Fi'il (fi'il madhi, 3rd‑person, 2nd‑person plural)",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "لِأَنفُسِكُمْ",
       "transliterasi": "li‑anfusikum",
       "jenis_kata": "Huruf (ḥarf jar) + Isim (isim majrur)",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "كُنتُمْ",
       "transliterasi": "kun tum",
       "jenis_kata": "Fi'il (verb)",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "تَكْنِزُونَ",
       "transliterasi": "taknizūna",
       "jenis_kata": "Fi'il (verb)",

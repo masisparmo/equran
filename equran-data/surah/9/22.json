@@ -58,6 +58,24 @@
     },
     {
       "index": 3,
+      "kata_arab": "ۚ",
+      "transliterasi": "waqf",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda berhenti",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "علامة وقف (توقف القراءة)",
+        "irab_dan_logika": "لا إعراب له؛ يوقف الجملة لتأكيد المعنى"
+      },
+      "hikmah": "memberi jeda untuk menekankan makna ayat",
+      "role": "none"
+    },
+    {
+      "index": 4,
       "kata_arab": "إِنَّ",
       "transliterasi": "inna",
       "jenis_kata": "Huruf (حرف توكيد)",
@@ -75,7 +93,7 @@
       "role": "none"
     },
     {
-      "index": 4,
+      "index": 5,
       "kata_arab": "ٱللَّهَ",
       "transliterasi": "Allāh",
       "jenis_kata": "Isim (اسم علم)",
@@ -93,7 +111,7 @@
       "role": "none"
     },
     {
-      "index": 5,
+      "index": 6,
       "kata_arab": "عِندَهُۥٓ",
       "transliterasi": "ʿinda-hu",
       "jenis_kata": "Huruf",
@@ -111,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 7,
       "kata_arab": "أَجْرٌ",
       "transliterasi": "ajru",
       "jenis_kata": "Isim",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "عَظِيمٌۭ",
       "transliterasi": "ʿazīmun",
       "jenis_kata": "Isim",

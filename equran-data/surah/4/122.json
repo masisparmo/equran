@@ -202,6 +202,24 @@
     },
     {
       "index": 11,
+      "kata_arab": "ۖ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda waqf kecil, memisahkan bagian ayat",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "simbol waqf, tidak termasuk dalam susunan nahwu",
+        "irab_dan_logika": "tidak berirab, berfungsi sebagai jeda bacaan"
+      },
+      "hikmah": "Memberi jeda singkat untuk memperjelas pemahaman ayat.",
+      "role": "none"
+    },
+    {
+      "index": 12,
       "kata_arab": "وَعْدَ",
       "transliterasi": "wa‘da",
       "jenis_kata": "Isim",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "ٱللَّهِ",
       "transliterasi": "Allahi",
       "jenis_kata": "Isim (nama Allah)",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "حَقًۭا",
       "transliterasi": "haqqan",
       "jenis_kata": "Isim",
@@ -255,7 +273,25 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda waqf besar, mengakhiri ayat",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "simbol waqf akhir ayat, tidak termasuk dalam struktur nahwu",
+        "irab_dan_logika": "tidak berirab, menandai selesai bacaan"
+      },
+      "hikmah": "Menandai akhir kalimat, memberi penekanan pada keseluruhan makna ayat.",
+      "role": "none"
+    },
+    {
+      "index": 16,
       "kata_arab": "وَمَنْ",
       "transliterasi": "wa‑man",
       "jenis_kata": "Huruf",
@@ -273,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 17,
       "kata_arab": "أَصْدَقُ",
       "transliterasi": "aṣdaqu",
       "jenis_kata": "Isim",
@@ -291,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 18,
       "kata_arab": "مِنَ",
       "transliterasi": "mina",
       "jenis_kata": "Huruf",
@@ -309,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 19,
       "kata_arab": "ٱللَّهِ",
       "transliterasi": "Allāhi",
       "jenis_kata": "Isim",
@@ -327,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 20,
       "kata_arab": "قِيلًۭا",
       "transliterasi": "qīlan",
       "jenis_kata": "Isim",

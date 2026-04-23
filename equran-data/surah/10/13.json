@@ -130,6 +130,24 @@
     },
     {
       "index": 7,
+      "kata_arab": "ۙ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "Huruf",
+      "arti": "Tanda waqaf jaiz (boleh berhenti, boleh lanjut).",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf.",
+        "irab_dan_logika": "Bukan bagian dari struktur gramatikal kalimat, melainkan tanda baca untuk membantu pembacaan Al-Qur'an."
+      },
+      "hikmah": "Menunjukkan jeda dalam bacaan, memberikan kesempatan untuk merenungkan kalimat sebelumnya sebelum melanjutkan ke kalimat berikutnya yang menjelaskan sebab lain atau kelanjutan cerita.",
+      "role": "none"
+    },
+    {
+      "index": 8,
       "kata_arab": "وَجَآءَتْهُمْ",
       "transliterasi": "wa jā`at-hum",
       "jenis_kata": "Huruf + Fi'il + Dhamir",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "رُسُلُهُم",
       "transliterasi": "rusuluhum",
       "jenis_kata": "Isim + Dhamir",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "بِٱلْبَيِّنَٰتِ",
       "transliterasi": "bi al-bayyināt",
       "jenis_kata": "Huruf + Isim",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "وَمَا",
       "transliterasi": "wa mā",
       "jenis_kata": "Huruf + Huruf",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "كَانُوا۟",
       "transliterasi": "Kaanuu",
       "jenis_kata": "Fi'il",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "لِيُؤْمِنُوا۟",
       "transliterasi": "Liyukminuu",
       "jenis_kata": "Fi'il",
@@ -237,7 +255,25 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
+      "kata_arab": "ۚ",
+      "transliterasi": "(Tanda Waqaf Lazim)",
+      "jenis_kata": "Huruf",
+      "arti": "(Tanda berhenti sempurna)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf lazim (harus berhenti).",
+        "irab_dan_logika": "Bukan bagian dari i'rab. Menunjukkan akhir dari satu klausa atau makna yang lengkap."
+      },
+      "hikmah": "Tanda ini mengindikasikan bahwa kalimat sebelumnya telah menyampaikan satu kesatuan makna yang utuh dan penting untuk berhenti sejenak sebelum melanjutkan ke kalimat berikutnya, yang seringkali membawa konsekuensi atau kelanjutan dari pernyataan sebelumnya.",
+      "role": "none"
+    },
+    {
+      "index": 15,
       "kata_arab": "كَذَٰلِكَ",
       "transliterasi": "Kadzalika",
       "jenis_kata": "Isim Isyarah + Huruf Tasybih",
@@ -255,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 16,
       "kata_arab": "نَجْزِى",
       "transliterasi": "Najzii",
       "jenis_kata": "Fi'il",
@@ -273,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 17,
       "kata_arab": "ٱلْقَوْمَ",
       "transliterasi": "Al-Qawma",
       "jenis_kata": "Isim",
@@ -291,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 18,
       "kata_arab": "ٱلْمُجْرِمِينَ",
       "transliterasi": "al-mujrimīn",
       "jenis_kata": "Isim",

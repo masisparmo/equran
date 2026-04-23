@@ -274,6 +274,24 @@
     },
     {
       "index": 15,
+      "kata_arab": "ۗ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "(tanda waqaf lazim/mutlak)",
+      "sharaf": {
+        "akar_kata": "Tidak ada",
+        "makna_dasar": "Tanda berhenti yang dianjurkan atau wajib dalam bacaan Al-Qur'an.",
+        "wazan_perubahan": "Tidak ada"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf (berhenti).",
+        "irab_dan_logika": "Huruf mabniyyun la mahalla lahu min al-i'rab. Menunjukkan akhir dari satu klausa atau ide penting, di mana berhenti adalah lebih utama atau wajib."
+      },
+      "hikmah": "Menandakan jeda penting dalam bacaan, seringkali menunjukkan selesainya satu gagasan atau klausa yang memiliki makna kuat sebelum melanjutkan ke gagasan berikutnya. Dalam konteks ini, menegaskan ironi bahwa mereka membaca kitab yang sama namun berselisih, dan mempersiapkan pembaca untuk gagasan selanjutnya.",
+      "role": "none"
+    },
+    {
+      "index": 16,
       "kata_arab": "كَذَٰلِكَ",
       "transliterasi": "kadzaalika",
       "jenis_kata": "Huruf (كَ) dan Isim Isyarah (ذَٰلِكَ)",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "قَالَ",
       "transliterasi": "qaala",
       "jenis_kata": "Fi'il (kata kerja)",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "ٱلَّذِينَ",
       "transliterasi": "alladhīna",
       "jenis_kata": "Isim",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 19,
       "kata_arab": "لَا",
       "transliterasi": "lā",
       "jenis_kata": "Huruf",
@@ -345,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 20,
       "kata_arab": "يَعْلَمُونَ",
       "transliterasi": "ya'lamūna",
       "jenis_kata": "Fi'il",
@@ -363,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 21,
       "kata_arab": "مِثْلَ",
       "transliterasi": "mithla",
       "jenis_kata": "Isim",
@@ -381,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 22,
       "kata_arab": "قَوْلِهِمْ",
       "transliterasi": "qawlihim",
       "jenis_kata": "Isim + Dhomir",
@@ -399,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 23,
       "kata_arab": "فَٱللَّهُ",
       "transliterasi": "Fa-Allahu",
       "jenis_kata": "Huruf (Fa) + Isim (Allah)",
@@ -417,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 24,
       "kata_arab": "يَحْكُمُ",
       "transliterasi": "Yahkumu",
       "jenis_kata": "Fi'il",
@@ -435,7 +453,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 25,
       "kata_arab": "بَيْنَهُمْ",
       "transliterasi": "Bainahum",
       "jenis_kata": "Isim (Zarf Makan) + Dhamir",
@@ -453,7 +471,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 26,
       "kata_arab": "يَوْمَ",
       "transliterasi": "Yawma",
       "jenis_kata": "Isim (Zarf Zaman)",
@@ -471,7 +489,7 @@
       "role": "none"
     },
     {
-      "index": 26,
+      "index": 27,
       "kata_arab": "ٱلْقِيَٰمَةِ",
       "transliterasi": "Al-Qiyamati",
       "jenis_kata": "Isim",
@@ -489,7 +507,7 @@
       "role": "none"
     },
     {
-      "index": 27,
+      "index": 28,
       "kata_arab": "فِيمَا",
       "transliterasi": "Fima",
       "jenis_kata": "Huruf (Fi) + Isim Maushul (Ma)",
@@ -507,7 +525,7 @@
       "role": "none"
     },
     {
-      "index": 28,
+      "index": 29,
       "kata_arab": "كَانُوا۟",
       "transliterasi": "Kaanuu",
       "jenis_kata": "Fi'il",
@@ -525,7 +543,7 @@
       "role": "none"
     },
     {
-      "index": 29,
+      "index": 30,
       "kata_arab": "فِيهِ",
       "transliterasi": "Fiihi",
       "jenis_kata": "Huruf + Isim",
@@ -543,7 +561,7 @@
       "role": "none"
     },
     {
-      "index": 30,
+      "index": 31,
       "kata_arab": "يَخْتَلِفُونَ",
       "transliterasi": "Yakhtalifūna",
       "jenis_kata": "Fi'il",

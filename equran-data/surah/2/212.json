@@ -256,6 +256,24 @@
     },
     {
       "index": 14,
+      "kata_arab": "ۗ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "Huruf (tanda baca/waqaf)",
+      "arti": "tanda waqaf jaiz kafi (berhenti lebih baik)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf dalam mushaf Al-Qur'an.",
+        "irab_dan_logika": "Bukan bagian dari struktur gramatikal kalimat, melainkan penanda untuk pembacaan yang membantu pemahaman makna."
+      },
+      "hikmah": "Tanda waqaf ini menunjukkan tempat yang dianjurkan untuk berhenti sejenak saat membaca Al-Qur'an. Ini membantu pembaca untuk memahami jeda makna antara satu bagian ayat dengan bagian selanjutnya, sehingga pesan yang disampaikan lebih jelas dan meresap.",
+      "role": "none"
+    },
+    {
+      "index": 15,
       "kata_arab": "وَٱللَّهُ",
       "transliterasi": "wa-allāhu",
       "jenis_kata": "Huruf (Waw Athaf/Istinafiyah) + Isim (Lafazh Jalalah)",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "يَرْزُقُ",
       "transliterasi": "yarzuqu",
       "jenis_kata": "Fi'il (Kata Kerja)",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "مَن",
       "transliterasi": "man",
       "jenis_kata": "Isim Maushul",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "يَشَآءُ",
       "transliterasi": "yashā'u",
       "jenis_kata": "Fi'il (kata kerja)",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 19,
       "kata_arab": "بِغَيْرِ",
       "transliterasi": "bighairi",
       "jenis_kata": "Huruf (بِ) dan Isim (غَيْرِ)",
@@ -345,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 20,
       "kata_arab": "حِسَابٍۢ",
       "transliterasi": "ḥisābin",
       "jenis_kata": "Isim (kata benda)",

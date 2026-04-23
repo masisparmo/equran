@@ -58,6 +58,24 @@
     },
     {
       "index": 3,
+      "kata_arab": "ۖ",
+      "transliterasi": "sajdah sign",
+      "jenis_kata": "Tanda Waqaf (tanda baca)",
+      "arti": "Tanda waqaf jaiz (boleh berhenti)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca, bukan bagian dari struktur gramatikal kalimat.",
+        "irab_dan_logika": "N/A"
+      },
+      "hikmah": "Menunjukkan tempat yang baik untuk berhenti membaca, memberikan jeda untuk merenungkan makna keesaan Tuhan sebelum melanjutkan ke penafian tuhan-tuhan lain.",
+      "role": "none"
+    },
+    {
+      "index": 4,
       "kata_arab": "لَّآ",
       "transliterasi": "lā",
       "jenis_kata": "Huruf (Huruf Nafyi Lil Jinsi)",
@@ -75,7 +93,7 @@
       "role": "none"
     },
     {
-      "index": 4,
+      "index": 5,
       "kata_arab": "إِلَٰهَ",
       "transliterasi": "ilāha",
       "jenis_kata": "Isim",
@@ -93,7 +111,7 @@
       "role": "none"
     },
     {
-      "index": 5,
+      "index": 6,
       "kata_arab": "إِلَّا",
       "transliterasi": "Illā",
       "jenis_kata": "Huruf",
@@ -111,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 7,
       "kata_arab": "هُوَ",
       "transliterasi": "Huwa",
       "jenis_kata": "Isim (Dhamir/Kata Ganti)",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "ٱلرَّحْمَٰنُ",
       "transliterasi": "Ar-Raḥmānu",
       "jenis_kata": "Isim (Sifat/Nama Allah)",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "ٱلرَّحِيمُ",
       "transliterasi": "Ar-Raḥīmu",
       "jenis_kata": "Isim (Sifat/Nama Allah)",

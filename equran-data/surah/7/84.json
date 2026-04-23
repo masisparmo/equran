@@ -58,6 +58,24 @@
     },
     {
       "index": 3,
+      "kata_arab": "ۖ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf (tanda waqf)",
+      "arti": "tanda jeda",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqf, memisahkan bagian ayat",
+        "irab_dan_logika": "Tidak berirab, berfungsi sebagai pemisah"
+      },
+      "hikmah": "Memberi jeda untuk menekankan makna sebelum perintah",
+      "role": "none"
+    },
+    {
+      "index": 4,
       "kata_arab": "فَٱنظُرْ",
       "transliterasi": "fa-anẓur",
       "jenis_kata": "Fi'il amar",
@@ -75,7 +93,7 @@
       "role": "none"
     },
     {
-      "index": 4,
+      "index": 5,
       "kata_arab": "كَيْفَ",
       "transliterasi": "kayfa",
       "jenis_kata": "Huruf (kata tanya)",
@@ -93,7 +111,7 @@
       "role": "none"
     },
     {
-      "index": 5,
+      "index": 6,
       "kata_arab": "كَانَ",
       "transliterasi": "kāna",
       "jenis_kata": "Fi'il (verb)",
@@ -111,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 7,
       "kata_arab": "عَٰقِبَةُ",
       "transliterasi": "ʿāqibah",
       "jenis_kata": "Isim (noun)",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "ٱلْمُجْرِمِينَ",
       "transliterasi": "al‑mujrimīna",
       "jenis_kata": "Isim (noun) – isim fa'il (active participle) jamak",

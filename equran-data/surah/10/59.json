@@ -292,6 +292,24 @@
     },
     {
       "index": 16,
+      "kata_arab": "ۖ",
+      "transliterasi": "waqf",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda koma/istirahat",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "tanda baca tidak memiliki wazan"
+      },
+      "nahwu": {
+        "kedudukan": "علامة وقف تفصل بين جزئي الجملة",
+        "irab_dan_logika": "ليس له إعراب؛ وظيفته إيقاف القارئ لتأمل المعنى"
+      },
+      "hikmah": "Memberi jeda bagi pendengar agar merenungkan pertanyaan sebelum melanjutkan ke pilihan \"atau\".",
+      "role": "none"
+    },
+    {
+      "index": 17,
       "kata_arab": "أَمْ",
       "transliterasi": "am",
       "jenis_kata": "Huruf",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "عَلَى",
       "transliterasi": "ʿalā",
       "jenis_kata": "Huruf",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 19,
       "kata_arab": "اللَّهِ",
       "transliterasi": "Allāh",
       "jenis_kata": "Isim",
@@ -345,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 20,
       "kata_arab": "تَفْتَرُونَ",
       "transliterasi": "taftarūna",
       "jenis_kata": "Fi'il",

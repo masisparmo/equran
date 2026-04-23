@@ -130,6 +130,24 @@
     },
     {
       "index": 7,
+      "kata_arab": "ۚ",
+      "transliterasi": "ۚ",
+      "jenis_kata": "Huruf (علامة وقف)",
+      "arti": "tanda jeda (waqf)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "علامة وقف تفصل بين الجمل",
+        "irab_dan_logika": "لا إعراب لها، تُقرأ وقفًا"
+      },
+      "hikmah": "menandakan jeda singkat sebelum melanjutkan ayat",
+      "role": "none"
+    },
+    {
+      "index": 8,
       "kata_arab": "وَمَأْوَىٰهُمْ",
       "transliterasi": "wa-ma'wahum",
       "jenis_kata": "Isim (اسم معطوف مع ضمير متصل)",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "ٱلْمَصِيرُ",
       "transliterasi": "al‑maṣīr",
       "jenis_kata": "Isim",

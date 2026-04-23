@@ -148,6 +148,24 @@
     },
     {
       "index": 8,
+      "kata_arab": "ۗ",
+      "transliterasi": "N/A",
+      "jenis_kata": "Tanda Baca",
+      "arti": "N/A",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda Waqaf Jaiz (boleh berhenti, boleh lanjut)",
+        "irab_dan_logika": "Bukan bagian dari gramatika kata, melainkan tanda untuk membantu pembacaan Al-Qur'an."
+      },
+      "hikmah": "Menunjukkan tempat yang baik untuk berhenti membaca, namun tidak wajib. Memungkinkan pembaca untuk mengambil napas atau merenungkan makna bagian sebelumnya sebelum melanjutkan. Dalam konteks ini, menandai akhir dari bagian perintah tentang membalas penghormatan sebelum beralih ke alasan atau penegasan ilahi.",
+      "role": "none"
+    },
+    {
+      "index": 9,
       "kata_arab": "إِنَّ",
       "transliterasi": "inna",
       "jenis_kata": "Huruf",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "ٱللَّهَ",
       "transliterasi": "Allāha",
       "jenis_kata": "Isim",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "كَانَ",
       "transliterasi": "kāna",
       "jenis_kata": "Fi'il",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "عَلَىٰ",
       "transliterasi": "alā",
       "jenis_kata": "Huruf",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "كُلِّ",
       "transliterasi": "kulli",
       "jenis_kata": "Isim",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "شَىْءٍ",
       "transliterasi": "shay'in",
       "jenis_kata": "Isim",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "حَسِيبًا",
       "transliterasi": "ḥasīban",
       "jenis_kata": "Isim",

@@ -148,6 +148,24 @@
     },
     {
       "index": 8,
+      "kata_arab": "ۗ",
+      "transliterasi": "(Tidak ada transliterasi kata)",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "Tanda waqaf jaiz (boleh berhenti, boleh lanjut)",
+      "sharaf": {
+        "akar_kata": "Tidak ada",
+        "makna_dasar": "Tidak ada",
+        "wazan_perubahan": "Tidak ada"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf (berhenti).",
+        "irab_dan_logika": "Tanda ini tidak memiliki i'rab. Fungsinya adalah untuk membantu pembacaan Al-Qur'an, menunjukkan tempat yang baik untuk berhenti atau melanjutkan bacaan, sehingga makna ayat dapat dipahami dengan benar."
+      },
+      "hikmah": "Secara tata bahasa, ini adalah tanda baca. Namun, secara makna, ia menandakan selesainya satu gagasan penting, yaitu perbandingan antara perkataan baik dan maaf dengan sedekah yang menyakitkan, sebelum beralih ke gagasan berikutnya tentang sifat-sifat Allah.",
+      "role": "none"
+    },
+    {
+      "index": 9,
       "kata_arab": "وَٱللَّهُ",
       "transliterasi": "wallāhu",
       "jenis_kata": "Huruf (waw) + Isim (Allah)",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "غَنِىٌّ",
       "transliterasi": "ghaniyyun",
       "jenis_kata": "Isim (kata sifat/sifat Allah)",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "حَلِيمٌۭ",
       "transliterasi": "halīmun",
       "jenis_kata": "Isim (kata sifat/sifat Allah)",

@@ -94,6 +94,24 @@
     },
     {
       "index": 5,
+      "kata_arab": "ۚ",
+      "transliterasi": "ۚ",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "*tanda berhenti (waqf)*",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda waqf, memisahkan dua bagian kalimat",
+        "irab_dan_logika": "tidak memiliki i‘rab karena bukan kata"
+      },
+      "hikmah": "menandakan jeda untuk menekankan pernyataan sebelumnya",
+      "role": "none"
+    },
+    {
+      "index": 6,
       "kata_arab": "قُلْ",
       "transliterasi": "qul",
       "jenis_kata": "Fi‘il (imperatif)",
@@ -111,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 7,
       "kata_arab": "أَبِٱللَّهِ",
       "transliterasi": "abillāhi",
       "jenis_kata": "Huruf (kata tanya) + preposisi *bi*",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "كُنتُمْ",
       "transliterasi": "kun tum",
       "jenis_kata": "Fi'il",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "تَسْتَهْزِئُونَ",
       "transliterasi": "tastahzi'oon",
       "jenis_kata": "Fi'il",

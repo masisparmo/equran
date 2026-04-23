@@ -94,6 +94,24 @@
     },
     {
       "index": 5,
+      "kata_arab": "ۖ",
+      "transliterasi": "Tanda Waqaf Jaiz",
+      "jenis_kata": "Huruf (Tanda Baca/Waqaf)",
+      "arti": "Tanda waqaf jaiz (boleh berhenti atau melanjutkan)",
+      "sharaf": {
+        "akar_kata": "Tidak ada akar kata",
+        "makna_dasar": "Tidak ada makna dasar",
+        "wazan_perubahan": "Tidak ada wazan perubahan"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf (berhenti) dalam bacaan Al-Qur'an.",
+        "irab_dan_logika": "Mabni (tetap) dan tidak memiliki kedudukan i'rab dalam tata bahasa. Fungsinya adalah untuk memandu pembaca dalam berhenti atau melanjutkan bacaan."
+      },
+      "hikmah": "Menunjukkan tempat yang dianjurkan untuk berhenti sejenak dalam membaca Al-Qur'an, memberikan kesempatan bagi pembaca untuk memahami makna bagian sebelumnya sebelum melanjutkan. Dalam konteks ayat ini, ia memisahkan antara tindakan setan dan tindakan Allah, menandai transisi makna yang penting.",
+      "role": "none"
+    },
+    {
+      "index": 6,
       "kata_arab": "وَاللَّهُ",
       "transliterasi": "wa-Allāhu",
       "jenis_kata": "Isim (nama Allah) dengan huruf wa (konjungsi)",
@@ -111,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 7,
       "kata_arab": "يَعِدُكُم",
       "transliterasi": "ya‘idukum",
       "jenis_kata": "Fi‘il mudhari‘ (verb present)",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "وَاللَّهُ",
       "transliterasi": "wa-Allahu",
       "jenis_kata": "Huruf (wa) + Isim (Allah)",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "وَاسِعٌ",
       "transliterasi": "wāsi‘un",
       "jenis_kata": "Isim (sifat)",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "عَلِيمٌ",
       "transliterasi": "ʿalīmun",
       "jenis_kata": "Isim (sifat)",

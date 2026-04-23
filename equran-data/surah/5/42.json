@@ -310,6 +310,24 @@
     },
     {
       "index": 17,
+      "kata_arab": "ۖ",
+      "transliterasi": "(Tanda waqaf lazim)",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "Tanda berhenti sempurna (waqaf lazim)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf lazim (harus berhenti)",
+        "irab_dan_logika": "N/A"
+      },
+      "hikmah": "Tanda ini menunjukkan bahwa pada titik ini, makna kalimat telah sempurna dan pembaca dianjurkan untuk berhenti. Ini memisahkan dua bagian penting dari ayat: bagian tentang berpaling dan bagian tentang memutuskan dengan adil.",
+      "role": "none"
+    },
+    {
+      "index": 18,
       "kata_arab": "وَإِنْ",
       "transliterasi": "Wa in",
       "jenis_kata": "Huruf",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 19,
       "kata_arab": "حَكَمْتَ",
       "transliterasi": "Hakamta",
       "jenis_kata": "Fi'il",
@@ -345,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 20,
       "kata_arab": "فَٱحْكُم",
       "transliterasi": "Fahkum",
       "jenis_kata": "Fi'il",
@@ -363,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 21,
       "kata_arab": "بَيْنَهُم",
       "transliterasi": "Baynahum",
       "jenis_kata": "Isim (Zharaf Makan)",
@@ -381,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 22,
       "kata_arab": "بِٱلْقِسْطِ",
       "transliterasi": "bil-qisṭi",
       "jenis_kata": "Isim",
@@ -399,7 +417,25 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 23,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "Huruf",
+      "arti": "Tanda waqaf lazim (harus berhenti)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf lazim.",
+        "irab_dan_logika": "N/A"
+      },
+      "hikmah": "Tanda waqaf ini menunjukkan bahwa pembaca *harus berhenti* pada titik ini untuk memahami makna kalimat yang telah disampaikan sebelum melanjutkan. Ini menandakan akhir dari satu gagasan penting, yaitu perintah untuk memutuskan perkara dengan adil.",
+      "role": "none"
+    },
+    {
+      "index": 24,
       "kata_arab": "إِنَّ",
       "transliterasi": "inna",
       "jenis_kata": "Huruf",
@@ -417,7 +453,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 25,
       "kata_arab": "ٱللَّهَ",
       "transliterasi": "Allāha",
       "jenis_kata": "Isim",
@@ -435,7 +471,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 26,
       "kata_arab": "يُحِبُّ",
       "transliterasi": "yuḥibbu",
       "jenis_kata": "Fi'il",
@@ -453,7 +489,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 27,
       "kata_arab": "ٱلْمُقْسِطِينَ",
       "transliterasi": "al-muqsiṭīna",
       "jenis_kata": "Isim",

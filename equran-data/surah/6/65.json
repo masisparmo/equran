@@ -328,6 +328,24 @@
     },
     {
       "index": 18,
+      "kata_arab": "ۗ",
+      "transliterasi": "(tanda baca)",
+      "jenis_kata": "Huruf",
+      "arti": "tanda koma",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "simbol pemisah ayat",
+        "irab_dan_logika": "tidak berirab, berfungsi sebagai jeda baca"
+      },
+      "hikmah": "Memberi jeda untuk menekankan makna sebelumnya",
+      "role": "none"
+    },
+    {
+      "index": 19,
       "kata_arab": "ٱنظُرْ",
       "transliterasi": "unẓur",
       "jenis_kata": "Fi'il",
@@ -345,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 20,
       "kata_arab": "كَيْفَ",
       "transliterasi": "kayfa",
       "jenis_kata": "Huruf",
@@ -363,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 21,
       "kata_arab": "نُصَرِّفُ",
       "transliterasi": "nuṣarrifu",
       "jenis_kata": "Fi'il",
@@ -381,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 22,
       "kata_arab": "ٱلْءَايَٰتِ",
       "transliterasi": "al-āyāti",
       "jenis_kata": "Isim",
@@ -399,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 23,
       "kata_arab": "لَعَلَّهُمْ",
       "transliterasi": "laʿallahum",
       "jenis_kata": "Huruf",
@@ -417,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 24,
       "kata_arab": "يَفْقَهُونَ",
       "transliterasi": "yafqahūna",
       "jenis_kata": "Fi'il",

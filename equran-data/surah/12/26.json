@@ -94,6 +94,24 @@
     },
     {
       "index": 5,
+      "kata_arab": "ۚ",
+      "transliterasi": "(waqf)",
+      "jenis_kata": "Tanda baca",
+      "arti": "tanda akhir ayat",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "simbol waqf akhir ayat",
+        "irab_dan_logika": "tidak berirab, berfungsi sebagai pemisah"
+      },
+      "hikmah": "menandai selesai‑nya ayat, memberi jeda bagi pembaca",
+      "role": "none"
+    },
+    {
+      "index": 6,
       "kata_arab": "وَشَهِدَ",
       "transliterasi": "*wa‑shahida*",
       "jenis_kata": "*Fi'il*",
@@ -111,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 7,
       "kata_arab": "شَاهِدٌۭ",
       "transliterasi": "*shāhidun*",
       "jenis_kata": "*Isim (isim fa‘il)*",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "قَمِيصُهُۥ",
       "transliterasi": "qamīṣuhu",
       "jenis_kata": "Isim (nama benda)",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "قُدَّ",
       "transliterasi": "qudda",
       "jenis_kata": "Fi'il (kata kerja)",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "مِن",
       "transliterasi": "min",
       "jenis_kata": "Huruf (preposisi)",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "مِنَ",
       "transliterasi": "mina",
       "jenis_kata": "Huruf",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "الْكَٰذِبِينَ",
       "transliterasi": "al‑kādhibīna",
       "jenis_kata": "Isim",

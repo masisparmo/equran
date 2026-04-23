@@ -220,6 +220,24 @@
     },
     {
       "index": 12,
+      "kata_arab": "ۚ",
+      "transliterasi": "Juz' sign / Waqf Jaiz",
+      "jenis_kata": "Tanda Waqaf (Huruf)",
+      "arti": "Tanda berhenti yang boleh atau tidak",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca dalam Al-Qur'an",
+        "irab_dan_logika": "Tidak memiliki kedudukan i'rab karena bukan bagian dari struktur gramatikal kalimat. Ia adalah tanda waqaf (berhenti) yang bersifat jaiz (boleh)."
+      },
+      "hikmah": "Tanda ini menunjukkan bahwa pembaca Al-Qur'an memiliki pilihan untuk berhenti sejenak atau melanjutkan bacaan. Dalam konteks doa ini, jeda singkat dapat memberikan penekanan pada bagian doa sebelumnya atau mempersiapkan diri untuk penegasan selanjutnya.",
+      "role": "none"
+    },
+    {
+      "index": 13,
       "kata_arab": "إِنَّكَ",
       "transliterasi": "Innaka",
       "jenis_kata": "Huruf (Inna) + Dhomir (Ka)",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "أَنتَ",
       "transliterasi": "Anta",
       "jenis_kata": "Isim (Dhomir Munfashil)",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "ٱلْوَهَّابُ",
       "transliterasi": "Al-Wahhabu",
       "jenis_kata": "Isim (Isim Mubalaghah)",

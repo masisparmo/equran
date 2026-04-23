@@ -382,6 +382,24 @@
     },
     {
       "index": 21,
+      "kata_arab": "ۙ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "Tanda berhenti ayat (waqf)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Akhir ayat, berfungsi sebagai waqf",
+        "irab_dan_logika": "Tidak memiliki i‘rāb karena merupakan tanda baca"
+      },
+      "hikmah": "**Makna**: Menandakan akhir kalimat, memberi jeda bagi pembaca untuk merenungkan keputusan Allah pada hari kiamat.",
+      "role": "none"
+    },
+    {
+      "index": 22,
       "kata_arab": "فَٱللَّهُ",
       "transliterasi": "fa‑Allahu",
       "jenis_kata": "Isim (nama Allah) dengan huruf sambung \"fa\"",
@@ -399,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 23,
       "kata_arab": "يَحْكُمُ",
       "transliterasi": "yaḥkumu",
       "jenis_kata": "Fi‘il (verb)",
@@ -417,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 24,
       "kata_arab": "بَيْنَكُمْ",
       "transliterasi": "baynakum",
       "jenis_kata": "Isim (kata benda) dengan huruf jar \"bayna\" + ضمير متصل",
@@ -435,7 +453,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 25,
       "kata_arab": "يَوْمَ",
       "transliterasi": "yawma",
       "jenis_kata": "Isim",
@@ -453,7 +471,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 26,
       "kata_arab": "ٱلْقِيَٰمَةِ",
       "transliterasi": "al‑qiyāmati",
       "jenis_kata": "Isim",
@@ -471,7 +489,25 @@
       "role": "none"
     },
     {
-      "index": 26,
+      "index": 27,
+      "kata_arab": "ۗ",
+      "transliterasi": "—",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda ayat (virgul/​tanda berhenti)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Berada di akhir ayat, berfungsi sebagai **waqf** (hentian bacaan).",
+        "irab_dan_logika": "Tidak memiliki i‘rāb karena merupakan tanda baca, bukan bagian sintaksis kalimat."
+      },
+      "hikmah": "Menandai berakhirnya kalimat Qur'ân, memberi jeda bagi pembaca untuk merenungkan makna sebelumnya.",
+      "role": "none"
+    },
+    {
+      "index": 28,
       "kata_arab": "وَلَن",
       "transliterasi": "wa lan",
       "jenis_kata": "Huruf (partikel)",
@@ -489,7 +525,7 @@
       "role": "none"
     },
     {
-      "index": 27,
+      "index": 29,
       "kata_arab": "يَجْعَلَ",
       "transliterasi": "yaj‘ala",
       "jenis_kata": "Fi‘il (verb)",
@@ -507,7 +543,7 @@
       "role": "none"
     },
     {
-      "index": 28,
+      "index": 30,
       "kata_arab": "ٱللَّهُ",
       "transliterasi": "Allāhu",
       "jenis_kata": "Isim (noun)",
@@ -525,7 +561,7 @@
       "role": "none"
     },
     {
-      "index": 29,
+      "index": 31,
       "kata_arab": "لِلْكَٰفِرِينَ",
       "transliterasi": "lil‑kāfirīna",
       "jenis_kata": "Huruf (preposisi) + Isim (noun)",
@@ -543,7 +579,7 @@
       "role": "none"
     },
     {
-      "index": 30,
+      "index": 32,
       "kata_arab": "عَلَى",
       "transliterasi": "ʿalā",
       "jenis_kata": "Huruf (preposisi)",
@@ -561,7 +597,7 @@
       "role": "none"
     },
     {
-      "index": 31,
+      "index": 33,
       "kata_arab": "ٱلْمُؤْمِنِينَ",
       "transliterasi": "",
       "jenis_kata": "Isim",
@@ -579,7 +615,7 @@
       "role": "none"
     },
     {
-      "index": 32,
+      "index": 34,
       "kata_arab": "سَبِيلًا",
       "transliterasi": "",
       "jenis_kata": "Isim",

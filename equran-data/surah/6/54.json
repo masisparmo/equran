@@ -238,6 +238,24 @@
     },
     {
       "index": 13,
+      "kata_arab": "ۖ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Huruf",
+      "arti": "tanda jeda (waqf)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "simbol waqf yang memisahkan dua bagian ayat",
+        "irab_dan_logika": "tidak memiliki i‘rāb, berfungsi sebagai tanda baca"
+      },
+      "hikmah": "memberi jeda untuk menekankan makna antara dua pernyataan",
+      "role": "none"
+    },
+    {
+      "index": 14,
       "kata_arab": "أَنَّهُۥ",
       "transliterasi": "annahu",
       "jenis_kata": "Huruf",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "مَنْ",
       "transliterasi": "man",
       "jenis_kata": "Isim",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "عَمِلَ",
       "transliterasi": "ʿamila",
       "jenis_kata": "Fi'il",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "مِنكُمْ",
       "transliterasi": "min‑kum",
       "jenis_kata": "Huruf",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "سُوٓءًۢا",
       "transliterasi": "suʾan",
       "jenis_kata": "Isim (sifat)",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 19,
       "kata_arab": "بِجَهَٰلَةٍۢ",
       "transliterasi": "bijahalatin",
       "jenis_kata": "Isim (mausūl)",
@@ -345,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 20,
       "kata_arab": "ثُمَّ",
       "transliterasi": "thumma",
       "jenis_kata": "Huruf (maʿna)",
@@ -363,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 21,
       "kata_arab": "تَابَ",
       "transliterasi": "tāba",
       "jenis_kata": "Fiʿil (verb)",
@@ -381,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 22,
       "kata_arab": "مِنۢ",
       "transliterasi": "min",
       "jenis_kata": "Huruf",
@@ -399,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 23,
       "kata_arab": "بَعْدِهِۦ",
       "transliterasi": "ba‘dihi",
       "jenis_kata": "Huruf (preposisi)",
@@ -417,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 24,
       "kata_arab": "وَأَصْلَحَ",
       "transliterasi": "wa-aṣlaḥa",
       "jenis_kata": "Fi'il (verb)",
@@ -435,7 +453,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 25,
       "kata_arab": "فَأَنَّهُۥ",
       "transliterasi": "fa-anna-hu",
       "jenis_kata": "Huruf (konjungsi) + حرف مشبه بـ *أن*",
@@ -453,7 +471,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 26,
       "kata_arab": "غَفُورٌۭ",
       "transliterasi": "ghafūrun",
       "jenis_kata": "Isim (sifat)",
@@ -471,7 +489,7 @@
       "role": "none"
     },
     {
-      "index": 26,
+      "index": 27,
       "kata_arab": "رَّحِيمٌۭ",
       "transliterasi": "raḥīmun",
       "jenis_kata": "Isim (sifat)",

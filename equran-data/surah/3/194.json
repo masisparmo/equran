@@ -184,6 +184,24 @@
     },
     {
       "index": 10,
+      "kata_arab": "ۗ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "Tidak ada arti harfiah",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Tidak berlaku",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca Al-Qur'an",
+        "irab_dan_logika": "Tanda waqaf `ۗ` (waqaf mujawwaz) menunjukkan bahwa berhenti di sini lebih utama, meskipun boleh juga melanjutkan. Ini menandai akhir dari satu bagian doa atau satu gagasan penting sebelum melanjutkan ke penegasan berikutnya."
+      },
+      "hikmah": "Secara linguistik, ini bukan kata, melainkan tanda baca yang berfungsi untuk membantu pembaca dalam memahami makna dan melafalkan Al-Qur'an dengan benar. Dalam konteks ini, ia menandai jeda setelah permohonan, sebelum penegasan tentang sifat Allah.",
+      "role": "none"
+    },
+    {
+      "index": 11,
       "kata_arab": "إِنَّكَ",
       "transliterasi": "innaka",
       "jenis_kata": "Huruf",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "لَا",
       "transliterasi": "lā",
       "jenis_kata": "Huruf",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "تُخْلِفُ",
       "transliterasi": "tukhliifu",
       "jenis_kata": "Fi'il (Kata Kerja)",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "ٱلْمِيعَادَ",
       "transliterasi": "al-mī'āda",
       "jenis_kata": "Isim (Kata Benda)",

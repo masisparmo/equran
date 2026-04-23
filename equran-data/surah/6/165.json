@@ -220,6 +220,24 @@
     },
     {
       "index": 12,
+      "kata_arab": "ۗ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Huruf",
+      "arti": "tanda jeda",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda waqf (فاصل) بين الجمل",
+        "irab_dan_logika": "ليس له إعراب لأنه علامة وقف"
+      },
+      "hikmah": "menandai akhir bagian kalimat sebelum pernyataan penegasan",
+      "role": "none"
+    },
+    {
+      "index": 13,
       "kata_arab": "إِنَّ",
       "transliterasi": "inna",
       "jenis_kata": "Huruf",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "رَبَّكَ",
       "transliterasi": "rabbaka",
       "jenis_kata": "Isim",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "سَرِيعُ",
       "transliterasi": "sarī‘u",
       "jenis_kata": "Isim",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "ٱلْعِقَابِ",
       "transliterasi": "al-ʿiqāb",
       "jenis_kata": "Isim (isim mausul)",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "وَإِنَّهُۥ",
       "transliterasi": "wa‑innahu",
       "jenis_kata": "Huruf (partikel)",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "لَغَفُورٌۭ",
       "transliterasi": "laghafūrun",
       "jenis_kata": "Isim",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 19,
       "kata_arab": "رَّحِيمٌۢ",
       "transliterasi": "raḥīmun",
       "jenis_kata": "Isim",

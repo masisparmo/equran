@@ -220,6 +220,42 @@
     },
     {
       "index": 12,
+      "kata_arab": "ۙ",
+      "transliterasi": "waqf",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda berhenti (waqf)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqf yang menandai jeda atau akhir bagian ayat",
+        "irab_dan_logika": "Tidak memiliki i‘rāb karena bukan kata"
+      },
+      "hikmah": "Memberi jeda bagi pembaca untuk merenungkan makna sebelumnya sebelum melanjutkan.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "وَٱلَّذِينَ",
+      "transliterasi": "wa‑alladhīna",
+      "jenis_kata": "Isim (ism al‑ism) dengan huruf al‑waqf \"wa\" di depan",
+      "arti": "dan orang‑orang yang",
+      "sharaf": {
+        "akar_kata": "ل ذ ي",
+        "makna_dasar": "yang (menunjuk kepada orang)",
+        "wazan_perubahan": "اسم موصول مبني على الفعل \"الذي\""
+      },
+      "nahwu": {
+        "kedudukan": "Isim al‑ism (isim mawsūl) sebagai subjek kalimat",
+        "irab_dan_logika": "مرفوعٌ بالضمة الظاهرة على آخره لأن الفعل التالي \"يُؤْمِنُونَ\" فعل مضارع مرفوع"
+      },
+      "hikmah": "Menunjuk kepada kelompok orang yang beriman, menegaskan keberadaan mereka dalam konteks ayat.",
+      "role": "none"
+    },
+    {
+      "index": 14,
       "kata_arab": "يُؤْمِنُونَ",
       "transliterasi": "yuʾminūna",
       "jenis_kata": "Fiʿil (verb) mudhariʿ majrur bi‑al‑jamʿ",
@@ -237,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 15,
       "kata_arab": "بِهِۦ",
       "transliterasi": "bihi",
       "jenis_kata": "Huruf",
@@ -255,7 +291,25 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 16,
+      "kata_arab": "ۖ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Huruf",
+      "arti": "tanda koma/istirahat",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca yang memisahkan bagian kalimat",
+        "irab_dan_logika": "Tidak berirab, berfungsi sebagai waqf"
+      },
+      "hikmah": "Memberi jeda agar pembaca menekankan makna sebelumnya sebelum melanjutkan.",
+      "role": "none"
+    },
+    {
+      "index": 17,
       "kata_arab": "وَهُمْ",
       "transliterasi": "wahum",
       "jenis_kata": "Huruf",
@@ -273,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 18,
       "kata_arab": "عَلَىٰ",
       "transliterasi": "ʿalā",
       "jenis_kata": "Huruf",
@@ -291,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 19,
       "kata_arab": "صَلَاتِهِمْ",
       "transliterasi": "ṣalātihim",
       "jenis_kata": "Isim",
@@ -309,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 20,
       "kata_arab": "يُحَافِظُونَ",
       "transliterasi": "yuḥāfiẓūna",
       "jenis_kata": "Fiʿil",

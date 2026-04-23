@@ -202,6 +202,24 @@
     },
     {
       "index": 11,
+      "kata_arab": "ۖ",
+      "transliterasi": "waqf",
+      "jenis_kata": "Huruf",
+      "arti": "tanda waqf (istirahat)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca (waqf) yang memisahkan dua bagian kalimat",
+        "irab_dan_logika": "tidak berirab, berfungsi sebagai pemisah"
+      },
+      "hikmah": "memberi jeda untuk menekankan pernyataan selanjutnya",
+      "role": "none"
+    },
+    {
+      "index": 12,
       "kata_arab": "إِنَّهُۥ",
       "transliterasi": "innahu",
       "jenis_kata": "Huruf",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "مُصِيبُهَا",
       "transliterasi": "musibuhā",
       "jenis_kata": "Isim Fi'il",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "أَصَابَهُمْ",
       "transliterasi": "aṣābahum",
       "jenis_kata": "Fi'il",
@@ -255,7 +273,25 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf",
+      "arti": "tanda waqf (koma)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca yang memisahkan dua bagian kalimat",
+        "irab_dan_logika": "tidak memiliki iʿrāb, berfungsi sebagai pemisah"
+      },
+      "hikmah": "Menunjukkan jeda, memberi ruang bagi pembaca memahami hubungan logis antar kalimat",
+      "role": "none"
+    },
+    {
+      "index": 16,
       "kata_arab": "إِنَّ",
       "transliterasi": "inna",
       "jenis_kata": "Huruf",
@@ -273,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 17,
       "kata_arab": "مَوْعِدَهُمُ",
       "transliterasi": "mawʿidahumu",
       "jenis_kata": "Isim",
@@ -291,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 18,
       "kata_arab": "ٱلصُّبْحُ",
       "transliterasi": "al-ṣubḥu",
       "jenis_kata": "Isim",
@@ -309,7 +345,25 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 19,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf",
+      "arti": "tanda waqf (koma)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca yang mengakhiri bagian kalimat setelah الصُّبْحُ",
+        "irab_dan_logika": "tidak memiliki iʿrāb, berfungsi memisahkan ayat selanjutnya"
+      },
+      "hikmah": "Memberi jeda untuk menekankan pentingnya waktu subuh sebagai momen azab",
+      "role": "none"
+    },
+    {
+      "index": 20,
       "kata_arab": "أَلَيْسَ",
       "transliterasi": "alaysa",
       "jenis_kata": "Fi'il",
@@ -327,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 21,
       "kata_arab": "ٱلصُّبْحُ",
       "transliterasi": "as‑subhu",
       "jenis_kata": "Isim",
@@ -345,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 22,
       "kata_arab": "بِقَرِيبٍۢ",
       "transliterasi": "biqarībin",
       "jenis_kata": "Huruf (preposisi) + Isim (kata benda)",

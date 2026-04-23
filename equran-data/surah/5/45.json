@@ -400,6 +400,24 @@
     },
     {
       "index": 22,
+      "kata_arab": "ۚ",
+      "transliterasi": "(Tidak ada)",
+      "jenis_kata": "Tanda Waqaf (Tanda Baca)",
+      "arti": "(Tidak ada arti harfiah)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Tidak berlaku",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf mutlaq (ط), menunjukkan berhenti sempurna.",
+        "irab_dan_logika": "Tidak berlaku untuk tanda baca."
+      },
+      "hikmah": "Menandakan akhir dari sebuah klausa atau kalimat yang penting, menyarankan untuk berhenti membaca agar makna sebelumnya dapat dipahami sepenuhnya. Dalam konteks ayat ini, ia mengakhiri pernyataan tentang penebusan dosa bagi yang memaafkan, sebelum beralih ke ancaman bagi yang tidak berhukum dengan hukum Allah.",
+      "role": "none"
+    },
+    {
+      "index": 23,
       "kata_arab": "وَمَن",
       "transliterasi": "wa man",
       "jenis_kata": "Huruf (و) dan Isim (مَن)",
@@ -417,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 24,
       "kata_arab": "لَّمْ",
       "transliterasi": "lam",
       "jenis_kata": "Huruf",
@@ -435,7 +453,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 25,
       "kata_arab": "يَحْكُم",
       "transliterasi": "yaḥkum",
       "jenis_kata": "Fi'il (Kata Kerja)",
@@ -453,7 +471,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 26,
       "kata_arab": "بِمَآ",
       "transliterasi": "bimā",
       "jenis_kata": "Huruf (بِ) dan Isim Maushul (مَا)",
@@ -471,7 +489,7 @@
       "role": "none"
     },
     {
-      "index": 26,
+      "index": 27,
       "kata_arab": "أَنزَلَ",
       "transliterasi": "anzala",
       "jenis_kata": "Fi'il (Kata Kerja)",
@@ -489,7 +507,7 @@
       "role": "none"
     },
     {
-      "index": 27,
+      "index": 28,
       "kata_arab": "ٱللَّهُ",
       "transliterasi": "Allāhu",
       "jenis_kata": "Isim (Kata Benda)",
@@ -507,7 +525,7 @@
       "role": "none"
     },
     {
-      "index": 28,
+      "index": 29,
       "kata_arab": "فَأُو۟لَٰٓئِكَ",
       "transliterasi": "fa-ulā'ika",
       "jenis_kata": "Huruf + Isim Isyarah",
@@ -525,7 +543,7 @@
       "role": "none"
     },
     {
-      "index": 29,
+      "index": 30,
       "kata_arab": "هُمُ",
       "transliterasi": "humu",
       "jenis_kata": "Isim (Dhamir Munfasil)",
@@ -543,7 +561,7 @@
       "role": "none"
     },
     {
-      "index": 30,
+      "index": 31,
       "kata_arab": "ٱلظَّٰلِمُونَ",
       "transliterasi": "azh-zhālimūn",
       "jenis_kata": "Isim (Isim Fa'il)",

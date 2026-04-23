@@ -238,6 +238,24 @@
     },
     {
       "index": 13,
+      "kata_arab": "ۗ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "Huruf",
+      "arti": "tanda berhenti",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda waqaf (tanda baca) yang memisahkan antara dua bagian ayat",
+        "irab_dan_logika": "tidak berirab karena bukan kata"
+      },
+      "hikmah": "menandakan jeda untuk memberi penekanan pada makna sebelumnya",
+      "role": "none"
+    },
+    {
+      "index": 14,
       "kata_arab": "وَٱللَّهُ",
       "transliterasi": "waAllahu",
       "jenis_kata": "Isim",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "سَمِيعٌ",
       "transliterasi": "samī‘un",
       "jenis_kata": "Isim",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "عَلِيمٌ",
       "transliterasi": "ʿalīmun",
       "jenis_kata": "Isim",

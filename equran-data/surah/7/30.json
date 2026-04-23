@@ -112,6 +112,24 @@
     },
     {
       "index": 6,
+      "kata_arab": "ۗ",
+      "transliterasi": "waqf",
+      "jenis_kata": "Huruf",
+      "arti": "tanda berhenti",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca di akhir frasa/ayat",
+        "irab_dan_logika": "tidak memiliki iʿrāb karena bukan kata"
+      },
+      "hikmah": "*Menandakan jeda* untuk memberi kesempatan merenung pada ayat.",
+      "role": "none"
+    },
+    {
+      "index": 7,
       "kata_arab": "إِنَّهُمُ",
       "transliterasi": "innahumu",
       "jenis_kata": "Huruf",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "ٱتَّخَذُوا۟",
       "transliterasi": "ittakhadhu",
       "jenis_kata": "Fi'il",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "ٱلشَّيَٰطِينَ",
       "transliterasi": "ash-shayāṭīna",
       "jenis_kata": "Isim",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "أَوْلِيَآءَ",
       "transliterasi": "awliyāʾa",
       "jenis_kata": "Isim",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "مِن",
       "transliterasi": "min",
       "jenis_kata": "Huruf",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "دُونِ",
       "transliterasi": "dūni",
       "jenis_kata": "Huruf (preposisi)",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "ٱللَّهِ",
       "transliterasi": "Allāhi",
       "jenis_kata": "Isim (nama Allah)",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "وَيَحْسَبُونَ",
       "transliterasi": "wa yaḥsabūna",
       "jenis_kata": "Fi'il (verb)",

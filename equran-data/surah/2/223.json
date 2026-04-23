@@ -130,6 +130,24 @@
     },
     {
       "index": 7,
+      "kata_arab": "ۖ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "Huruf",
+      "arti": "Tanda waqaf jaiz (boleh berhenti, boleh lanjut)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf.",
+        "irab_dan_logika": "Tanda waqaf tidak memiliki i'rab. Fungsinya adalah untuk mengatur pembacaan Al-Qur'an."
+      },
+      "hikmah": "Menunjukkan jeda yang diperbolehkan dalam pembacaan, memberikan kesempatan untuk memahami makna bagian sebelumnya sebelum melanjutkan ke perintah berikutnya.",
+      "role": "none"
+    },
+    {
+      "index": 8,
       "kata_arab": "وَقَدِّمُوا۟",
       "transliterasi": "wa qaddimū",
       "jenis_kata": "Fi'il",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "لِأَنفُسِكُمْ",
       "transliterasi": "li anfusikum",
       "jenis_kata": "Isim dan Huruf",
@@ -165,7 +183,25 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "Huruf",
+      "arti": "Tanda waqaf jaiz (boleh berhenti, boleh lanjut)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf.",
+        "irab_dan_logika": "Tanda waqaf tidak memiliki i'rab. Fungsinya adalah untuk mengatur pembacaan Al-Qur'an."
+      },
+      "hikmah": "Menunjukkan jeda yang diperbolehkan dalam pembacaan, memisahkan perintah untuk beramal saleh dari perintah berikutnya tentang takwa.",
+      "role": "none"
+    },
+    {
+      "index": 11,
       "kata_arab": "وَٱتَّقُوا۟",
       "transliterasi": "wa ittaqū",
       "jenis_kata": "Fi'il",
@@ -183,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 12,
       "kata_arab": "ٱللَّهَ",
       "transliterasi": "Allāha",
       "jenis_kata": "Isim",
@@ -201,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 13,
       "kata_arab": "وَٱعْلَمُوٓا۟",
       "transliterasi": "Wa'lamū",
       "jenis_kata": "Fi'il",
@@ -219,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 14,
       "kata_arab": "أَنَّكُم",
       "transliterasi": "An-nakum",
       "jenis_kata": "Huruf + Isim",
@@ -237,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 15,
       "kata_arab": "مُّلَٰقُوهُ",
       "transliterasi": "Mulāqūhu",
       "jenis_kata": "Isim (Isim Fa'il)",
@@ -255,7 +291,25 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 16,
+      "kata_arab": "ۗ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "Tanda baca",
+      "arti": "Tanda waqaf lazim (harus berhenti)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku.",
+        "makna_dasar": "Tidak berlaku.",
+        "wazan_perubahan": "Tidak berlaku."
+      },
+      "nahwu": {
+        "kedudukan": "Tidak berlaku.",
+        "irab_dan_logika": "Tidak berlaku."
+      },
+      "hikmah": "Tanda waqaf `ۗ` (waqaf lazim) menunjukkan bahwa pada titik ini, pembaca harus berhenti. Ini menandakan selesainya satu gagasan atau kalimat yang penting, memberikan jeda untuk merenungkan makna sebelumnya sebelum melanjutkan ke bagian berikutnya. Dalam konteks ini, ia memisahkan perintah untuk bertakwa dan mengetahui pertemuan dengan Allah, dari perintah untuk memberi kabar gembira.",
+      "role": "none"
+    },
+    {
+      "index": 17,
       "kata_arab": "وَبَشِّرِ",
       "transliterasi": "Wa basysyiri",
       "jenis_kata": "Fi'il",
@@ -273,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 18,
       "kata_arab": "ٱلْمُؤْمِنِينَ",
       "transliterasi": "al-Mu'minin",
       "jenis_kata": "Isim",

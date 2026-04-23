@@ -130,6 +130,24 @@
     },
     {
       "index": 7,
+      "kata_arab": "ۚ",
+      "transliterasi": "Tanda Waqaf Lazim",
+      "jenis_kata": "Huruf (Tanda baca/waqaf)",
+      "arti": "Tanda berhenti wajib (lazim)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku.",
+        "makna_dasar": "Menunjukkan tempat berhenti yang dianjurkan atau wajib dalam bacaan Al-Qur'an untuk kejelasan makna.",
+        "wazan_perubahan": "Tidak berlaku."
+      },
+      "nahwu": {
+        "kedudukan": "Bukan bagian dari struktur gramatikal kalimat, melainkan tanda bantu bacaan.",
+        "irab_dan_logika": "Tidak memiliki i'rab. Fungsinya adalah memisahkan dua bagian ayat untuk menjaga makna dan mempermudah pemahaman."
+      },
+      "hikmah": "Tanda waqaf ini mengindikasikan bahwa kalimat sebelumnya telah sempurna maknanya, dan pembaca dianjurkan untuk berhenti di sini sebelum melanjutkan ke bagian berikutnya. Ini membantu dalam pemahaman pesan Al-Qur'an secara bertahap dan jelas.",
+      "role": "none"
+    },
+    {
+      "index": 8,
       "kata_arab": "وَبِئْسَ",
       "transliterasi": "Wa bi'sa",
       "jenis_kata": "Huruf (Waw) dan Fi'il (Bi'sa)",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "ٱلْمِهَادُ",
       "transliterasi": "Al-mihadu",
       "jenis_kata": "Isim",

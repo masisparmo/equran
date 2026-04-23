@@ -274,6 +274,24 @@
     },
     {
       "index": 15,
+      "kata_arab": "ۙ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf (tanda waqf)",
+      "arti": "tanda berhenti, memisahkan bagian kalimat",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca yang menandakan jeda (waqf) dalam ayat",
+        "irab_dan_logika": "tidak berirab, berfungsi sebagai pemisah"
+      },
+      "hikmah": "Memberi jeda untuk memahami perintah secara terpisah.",
+      "role": "none"
+    },
+    {
+      "index": 16,
       "kata_arab": "أَمَرَ",
       "transliterasi": "amara",
       "jenis_kata": "Fi'il",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "أَلَّا",
       "transliterasi": "allā",
       "jenis_kata": "Huruf",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "تَعْبُدُوٓا۟",
       "transliterasi": "taʿbudū",
       "jenis_kata": "Fi'il",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 19,
       "kata_arab": "إِلَّآ",
       "transliterasi": "illa",
       "jenis_kata": "Huruf",
@@ -345,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 20,
       "kata_arab": "إِيَّاهُ",
       "transliterasi": "iyyahu",
       "jenis_kata": "Dhamir Munfashil",
@@ -363,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 21,
       "kata_arab": "ذَٰلِكَ",
       "transliterasi": "dzalika",
       "jenis_kata": "Isim Isyarah",
@@ -381,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 22,
       "kata_arab": "ٱلدِّينُ",
       "transliterasi": "ad-dinu",
       "jenis_kata": "Isim",
@@ -399,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 23,
       "kata_arab": "ٱلْقَيِّمُ",
       "transliterasi": "al-qayyimu",
       "jenis_kata": "Isim Sifat",
@@ -417,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 24,
       "kata_arab": "وَلَٰكِنَّ",
       "transliterasi": "wa-lākinna",
       "jenis_kata": "Huruf",
@@ -435,7 +453,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 25,
       "kata_arab": "أَكْثَرَ",
       "transliterasi": "akthara",
       "jenis_kata": "Isim",
@@ -453,7 +471,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 26,
       "kata_arab": "ٱلنَّاسِ",
       "transliterasi": "an-nāsi",
       "jenis_kata": "Isim",
@@ -471,7 +489,7 @@
       "role": "none"
     },
     {
-      "index": 26,
+      "index": 27,
       "kata_arab": "لَا",
       "transliterasi": "lā",
       "jenis_kata": "Huruf",
@@ -489,7 +507,7 @@
       "role": "none"
     },
     {
-      "index": 27,
+      "index": 28,
       "kata_arab": "يَعْلَمُونَ",
       "transliterasi": "ya'lamūna",
       "jenis_kata": "Fi'il",

@@ -310,6 +310,24 @@
     },
     {
       "index": 17,
+      "kata_arab": "ۗ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "**Huruf** (Tanda Waqaf)",
+      "arti": "Tanda waqaf lazim (harus berhenti)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Tidak ada makna dasar.",
+        "wazan_perubahan": "Tidak ada wazan sharaf."
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf.",
+        "irab_dan_logika": "Tidak memiliki i'rab. Ini adalah tanda baca dalam mushaf Al-Qur'an."
+      },
+      "hikmah": "Menunjukkan akhir dari satu kesatuan makna atau kalimat, memberikan kesempatan untuk berhenti sejenak dan merenungkan makna yang telah disampaikan. Tanda ini (mim kecil di atas huruf ha) adalah **waqaf lazim**, yang berarti dianjurkan untuk berhenti.",
+      "role": "none"
+    },
+    {
+      "index": 18,
       "kata_arab": "إِنَّ",
       "transliterasi": "inna",
       "jenis_kata": "Huruf",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 19,
       "kata_arab": "اللَّهَ",
       "transliterasi": "Allāh",
       "jenis_kata": "Isim",
@@ -345,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 20,
       "kata_arab": "كَانَ",
       "transliterasi": "kāna",
       "jenis_kata": "Fi'il",
@@ -363,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 21,
       "kata_arab": "عَلِيمًا",
       "transliterasi": "‘alīman",
       "jenis_kata": "Isim",
@@ -381,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 22,
       "kata_arab": "خَبِيرًۭا",
       "transliterasi": "khabīran",
       "jenis_kata": "Isim",

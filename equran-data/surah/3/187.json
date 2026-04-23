@@ -328,6 +328,24 @@
     },
     {
       "index": 18,
+      "kata_arab": "ۖ",
+      "transliterasi": "(tanda koma)",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda koma, pemisah",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca, memisahkan bagian kalimat",
+        "irab_dan_logika": "Tidak memiliki i‘rāb karena bukan kata, berfungsi memberi jeda"
+      },
+      "hikmah": "Menandakan jeda untuk menekankan makna selanjutnya",
+      "role": "none"
+    },
+    {
+      "index": 19,
       "kata_arab": "فَبِئْسَ",
       "transliterasi": "fa‑bi'sa",
       "jenis_kata": "Isim (isim maf‘ūl) dengan huruf sambung \"fa\"",
@@ -345,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 20,
       "kata_arab": "مَا",
       "transliterasi": "mā",
       "jenis_kata": "Huruf (kata tanya)",
@@ -363,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 21,
       "kata_arab": "يَشْتَرُونَ",
       "transliterasi": "yashterūna",
       "jenis_kata": "Fi‘il (verb)",

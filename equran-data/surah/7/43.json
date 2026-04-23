@@ -436,6 +436,24 @@
     },
     {
       "index": 24,
+      "kata_arab": "ۖ",
+      "transliterasi": "(tanda baca)",
+      "jenis_kata": "Huruf (tanda waqf)",
+      "arti": "tanda jeda/waqf",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca di akhir ayat, memisahkan bagian",
+        "irab_dan_logika": "tidak berirab, berfungsi sebagai waqf untuk memberi jeda"
+      },
+      "hikmah": "Menunjukkan akhir pemikiran, memberi kesempatan merenungkan ayat sebelumnya.",
+      "role": "none"
+    },
+    {
+      "index": 25,
       "kata_arab": "وَنُودُوٓا۟",
       "transliterasi": "wa-nūdū",
       "jenis_kata": "Fi'il (madhi)",
@@ -453,7 +471,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 26,
       "kata_arab": "أَن",
       "transliterasi": "an",
       "jenis_kata": "Huruf",
@@ -471,7 +489,7 @@
       "role": "none"
     },
     {
-      "index": 26,
+      "index": 27,
       "kata_arab": "تِلْكُمُ",
       "transliterasi": "tilkum",
       "jenis_kata": "Isim (isim dhahir)",
@@ -489,7 +507,7 @@
       "role": "none"
     },
     {
-      "index": 27,
+      "index": 28,
       "kata_arab": "ٱلْجَنَّةُ",
       "transliterasi": "al‑jannah",
       "jenis_kata": "Isim",
@@ -507,7 +525,7 @@
       "role": "none"
     },
     {
-      "index": 28,
+      "index": 29,
       "kata_arab": "أُورِثْتُمُوهَا",
       "transliterasi": "urith'tumūhā",
       "jenis_kata": "Fi'il (madhi mabni lil majhool)",
@@ -525,7 +543,7 @@
       "role": "none"
     },
     {
-      "index": 29,
+      "index": 30,
       "kata_arab": "بِمَا",
       "transliterasi": "bimā",
       "jenis_kata": "Huruf (ب) + Isim Maushul (ما)",
@@ -543,7 +561,7 @@
       "role": "none"
     },
     {
-      "index": 30,
+      "index": 31,
       "kata_arab": "كُنتُمْ",
       "transliterasi": "kuntum",
       "jenis_kata": "Fi'il Madhi Naqis (كان) + Dhamir (تُمْ)",
@@ -561,7 +579,7 @@
       "role": "none"
     },
     {
-      "index": 31,
+      "index": 32,
       "kata_arab": "تَعْمَلُونَ",
       "transliterasi": "ta'malūna",
       "jenis_kata": "Fi'il Mudhari'",

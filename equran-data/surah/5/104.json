@@ -292,6 +292,24 @@
     },
     {
       "index": 16,
+      "kata_arab": "ۚ",
+      "transliterasi": "waqf",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda berhenti",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "tanda jeda",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda waqf yang memisahkan kalimat",
+        "irab_dan_logika": "tidak berirab karena bukan kata"
+      },
+      "hikmah": "menandakan akhir bagian kalimat sebelum pertanyaan selanjutnya",
+      "role": "none"
+    },
+    {
+      "index": 17,
       "kata_arab": "أَوَلَوْ",
       "transliterasi": "awalu",
       "jenis_kata": "Fi'il",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "كَانَ",
       "transliterasi": "kāna",
       "jenis_kata": "Fi'il",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 19,
       "kata_arab": "آباؤهم",
       "transliterasi": "ābā’uhum",
       "jenis_kata": "Isim",
@@ -345,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 20,
       "kata_arab": "لَا",
       "transliterasi": "lā",
       "jenis_kata": "Huruf",
@@ -363,7 +381,7 @@
       "role": "none"
     },
     {
-      "index": 20,
+      "index": 21,
       "kata_arab": "يَعْلَمُونَ",
       "transliterasi": "ya‘lamūna",
       "jenis_kata": "Fi'il",
@@ -381,7 +399,7 @@
       "role": "none"
     },
     {
-      "index": 21,
+      "index": 22,
       "kata_arab": "شَيْئًا",
       "transliterasi": "shay’an",
       "jenis_kata": "Isim",
@@ -399,7 +417,7 @@
       "role": "none"
     },
     {
-      "index": 22,
+      "index": 23,
       "kata_arab": "وَلَا",
       "transliterasi": "wa‑lā",
       "jenis_kata": "Huruf",
@@ -417,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 24,
       "kata_arab": "يَهْتَدُونَ",
       "transliterasi": "yahtadūna",
       "jenis_kata": "Fi'il",

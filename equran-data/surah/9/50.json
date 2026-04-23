@@ -76,6 +76,24 @@
     },
     {
       "index": 4,
+      "kata_arab": "ۖ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf",
+      "arti": "tanda waqf (istirahat)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca yang memisahkan bagian pertama dan kedua ayat",
+        "irab_dan_logika": "Tidak berharakat, berfungsi sebagai jeda untuk memperjelas makna"
+      },
+      "hikmah": "Memberi jeda agar pembaca memahami peralihan makna",
+      "role": "none"
+    },
+    {
+      "index": 5,
       "kata_arab": "وَإِن",
       "transliterasi": "wa-in",
       "jenis_kata": "Huruf",
@@ -93,7 +111,7 @@
       "role": "none"
     },
     {
-      "index": 5,
+      "index": 6,
       "kata_arab": "تُصِبْكَ",
       "transliterasi": "tuṣibka",
       "jenis_kata": "Fi'il",
@@ -111,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 7,
       "kata_arab": "مُصِيبَةٌۭ",
       "transliterasi": "muṣībahatun",
       "jenis_kata": "Isim",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "يَقُولُوا۟",
       "transliterasi": "yaqūlū",
       "jenis_kata": "Fi'il",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "قَدْ",
       "transliterasi": "qad",
       "jenis_kata": "Huruf",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "أَخَذْنَآ",
       "transliterasi": "akhadhnā",
       "jenis_kata": "Fi'il",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "مِن",
       "transliterasi": "min",
       "jenis_kata": "Huruf (harf jar)",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "قَبْلُ",
       "transliterasi": "qabl",
       "jenis_kata": "Isim (isim zaman)",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "وَيَتَوَلَّوا۟",
       "transliterasi": "wa-yatawallaw",
       "jenis_kata": "Fi'il (verb)",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "وَّهُمْ",
       "transliterasi": "wa-hum",
       "jenis_kata": "Huruf (wa) + Isim (pronoun)",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "فَرِحُونَ",
       "transliterasi": "farihun",
       "jenis_kata": "Fi'il (verb)",

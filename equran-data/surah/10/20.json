@@ -130,6 +130,24 @@
     },
     {
       "index": 7,
+      "kata_arab": "ۖ",
+      "transliterasi": "(Tanda Waqaf)",
+      "jenis_kata": "Huruf (Tanda baca)",
+      "arti": "Tanda berhenti (waqaf mutlaq)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf (berhenti)",
+        "irab_dan_logika": "Bukan bagian dari struktur gramatikal kalimat. Ini adalah tanda baca untuk membantu pembacaan Al-Qur'an."
+      },
+      "hikmah": "Menunjukkan tempat yang dianjurkan untuk berhenti sejenak dalam pembacaan, membantu pemahaman makna ayat.",
+      "role": "none"
+    },
+    {
+      "index": 8,
       "kata_arab": "فَقُلْ",
       "transliterasi": "Faqul",
       "jenis_kata": "Fi'il",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "إِنَّمَا",
       "transliterasi": "Innamā",
       "jenis_kata": "Huruf",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "ٱلْغَيْبُ",
       "transliterasi": "Al-Ghaibu",
       "jenis_kata": "Isim",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "لِلَّهِ",
       "transliterasi": "Lillāhi",
       "jenis_kata": "Huruf + Isim",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "فَٱنتَظِرُوٓا۟",
       "transliterasi": "Fantazhirū",
       "jenis_kata": "Fi'il",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "إِنِّى",
       "transliterasi": "Innī",
       "jenis_kata": "Huruf + Isim",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "مَعَكُم",
       "transliterasi": "Ma'akum",
       "jenis_kata": "Zharf makan + Isim",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "مِّنَ",
       "transliterasi": "Mina",
       "jenis_kata": "Huruf",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "ٱلْمُنتَظِرِينَ",
       "transliterasi": "Al-Muntazhirīn",
       "jenis_kata": "Isim",

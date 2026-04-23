@@ -526,6 +526,24 @@
     },
     {
       "index": 29,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "Huruf (tanda baca/waqaf)",
+      "arti": "tanda waqaf jaiz (boleh berhenti, boleh lanjut)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Bukan bagian dari struktur gramatikal kalimat, melainkan tanda baca",
+        "irab_dan_logika": "N/A"
+      },
+      "hikmah": "Tanda waqaf ini mengindikasikan jeda yang diperbolehkan dalam bacaan Al-Qur'an, seringkali menandakan transisi ke gagasan baru atau penekanan pada bagian sebelumnya. Di sini, ia memisahkan syarat rujuk (niat ishlah) dari pernyataan umum tentang hak dan kewajiban wanita.",
+      "role": "none"
+    },
+    {
+      "index": 30,
       "kata_arab": "وَلَهُنَّ",
       "transliterasi": "wa lahunna",
       "jenis_kata": "Huruf (و) + Huruf (ل) + Dhomir (هنّ)",
@@ -543,7 +561,7 @@
       "role": "none"
     },
     {
-      "index": 30,
+      "index": 31,
       "kata_arab": "مِثْلُ",
       "transliterasi": "mithlu",
       "jenis_kata": "Isim",
@@ -561,7 +579,7 @@
       "role": "none"
     },
     {
-      "index": 31,
+      "index": 32,
       "kata_arab": "ٱلَّذِى",
       "transliterasi": "alladhī",
       "jenis_kata": "Isim Maushul (kata sambung)",
@@ -579,7 +597,7 @@
       "role": "none"
     },
     {
-      "index": 32,
+      "index": 33,
       "kata_arab": "عَلَيْهِنَّ",
       "transliterasi": "alayhinna",
       "jenis_kata": "Huruf (على) + Dhomir (هنّ)",
@@ -597,7 +615,7 @@
       "role": "none"
     },
     {
-      "index": 33,
+      "index": 34,
       "kata_arab": "بِٱلْمَعْرُوفِ",
       "transliterasi": "bil-ma'rūfi",
       "jenis_kata": "Isim",
@@ -615,7 +633,25 @@
       "role": "none"
     },
     {
-      "index": 34,
+      "index": 35,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqaf lazim)",
+      "jenis_kata": "Huruf (tanda baca/waqaf)",
+      "arti": "Tanda waqaf lazim (harus berhenti)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf",
+        "irab_dan_logika": "Ini adalah tanda waqaf lazim dalam mushaf Al-Qur'an, bukan bagian dari struktur gramatikal kalimat. Fungsinya adalah sebagai panduan bagi pembaca untuk *wajib* berhenti di titik ini."
+      },
+      "hikmah": "Tanda ini mengindikasikan bahwa pembaca *harus* berhenti membaca pada titik ini untuk memastikan pemahaman makna ayat yang benar dan tidak salah tafsir, karena melanjutkan bacaan tanpa berhenti dapat mengubah atau mengaburkan makna yang dimaksud.",
+      "role": "none"
+    },
+    {
+      "index": 36,
       "kata_arab": "وَلِلرِّجَالِ",
       "transliterasi": "wa lir-rijāli",
       "jenis_kata": "Huruf (و) + Huruf (لِ) + Isim (الرِّجَالِ)",
@@ -633,7 +669,7 @@
       "role": "none"
     },
     {
-      "index": 35,
+      "index": 37,
       "kata_arab": "عَلَيْهِنَّ",
       "transliterasi": "alaihinna",
       "jenis_kata": "Huruf (على) + Dhamir (هنّ)",
@@ -651,7 +687,7 @@
       "role": "none"
     },
     {
-      "index": 36,
+      "index": 38,
       "kata_arab": "دَرَجَةٌۭ",
       "transliterasi": "darajatun",
       "jenis_kata": "Isim",
@@ -669,7 +705,25 @@
       "role": "none"
     },
     {
-      "index": 37,
+      "index": 39,
+      "kata_arab": "ۗ",
+      "transliterasi": "(tanda waqaf jaiz kafi)",
+      "jenis_kata": "Huruf (tanda baca/waqaf)",
+      "arti": "Tanda waqaf jaiz kafi (boleh berhenti, lebih baik berhenti)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf",
+        "irab_dan_logika": "Ini adalah tanda waqaf jaiz kafi dalam mushaf Al-Qur'an, bukan bagian dari struktur gramatikal kalimat. Fungsinya adalah sebagai panduan bagi pembaca bahwa *boleh* berhenti di titik ini, dan *lebih baik* berhenti."
+      },
+      "hikmah": "Tanda ini menunjukkan bahwa pembaca *boleh* berhenti membaca pada titik ini, dan berhenti di sini *lebih baik* untuk memahami makna ayat dengan sempurna sebelum melanjutkan ke bagian berikutnya. Ini memberikan fleksibilitas dalam pembacaan namun dengan rekomendasi untuk berhenti.",
+      "role": "none"
+    },
+    {
+      "index": 40,
       "kata_arab": "وَٱللَّهُ",
       "transliterasi": "Wa-Allahu",
       "jenis_kata": "Huruf (Waw) + Isim (Allah)",
@@ -687,7 +741,7 @@
       "role": "none"
     },
     {
-      "index": 38,
+      "index": 41,
       "kata_arab": "عَزِيزٌ",
       "transliterasi": "Azizun",
       "jenis_kata": "Isim (Sifat/Kata Sifat)",
@@ -705,7 +759,7 @@
       "role": "none"
     },
     {
-      "index": 39,
+      "index": 42,
       "kata_arab": "حَكِيمٌ",
       "transliterasi": "Hakimun",
       "jenis_kata": "Isim (Sifat/Kata Sifat)",

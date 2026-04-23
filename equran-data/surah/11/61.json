@@ -400,6 +400,24 @@
     },
     {
       "index": 22,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf",
+      "arti": "tanda waqaf (berhenti)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "simbol jeda akhir ayat",
+        "irab_dan_logika": "bukan bagian tata bahasa, berfungsi sebagai pemisah"
+      },
+      "hikmah": "menandai akhir pernyataan, memberi jeda untuk merenung",
+      "role": "none"
+    },
+    {
+      "index": 23,
       "kata_arab": "إِنَّ",
       "transliterasi": "inna",
       "jenis_kata": "Huruf",
@@ -417,7 +435,7 @@
       "role": "none"
     },
     {
-      "index": 23,
+      "index": 24,
       "kata_arab": "رَبِّى",
       "transliterasi": "rabbī",
       "jenis_kata": "Isim",
@@ -435,7 +453,7 @@
       "role": "none"
     },
     {
-      "index": 24,
+      "index": 25,
       "kata_arab": "قَرِيبٌۭ",
       "transliterasi": "qarībun",
       "jenis_kata": "Isim",
@@ -453,7 +471,7 @@
       "role": "none"
     },
     {
-      "index": 25,
+      "index": 26,
       "kata_arab": "مُّجِيبٌۭ",
       "transliterasi": "mujībun",
       "jenis_kata": "Isim",

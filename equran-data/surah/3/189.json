@@ -76,6 +76,24 @@
     },
     {
       "index": 4,
+      "kata_arab": "ۗ",
+      "transliterasi": "Tanda Waqaf Lazim",
+      "jenis_kata": "Tanda baca (bukan Isim/Fi'il/Huruf)",
+      "arti": "Tanda berhenti wajib (harus berhenti)",
+      "sharaf": {
+        "akar_kata": "N/A (bukan kata)",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca yang menunjukkan tempat berhenti dalam bacaan Al-Qur'an. Berhenti pada tanda ini adalah wajib atau sangat dianjurkan.",
+        "irab_dan_logika": "N/A (tidak memiliki i'rab karena bukan bagian dari struktur gramatikal kalimat)"
+      },
+      "hikmah": "Menunjukkan bahwa pada titik ini, makna kalimat sudah sempurna dan pembaca dianjurkan untuk berhenti sejenak sebelum melanjutkan, untuk memahami makna yang telah disampaikan. Ini membantu dalam tadabbur (merenungkan) ayat.",
+      "role": "none"
+    },
+    {
+      "index": 5,
       "kata_arab": "وَٱللَّهُ",
       "transliterasi": "Wa Allahu",
       "jenis_kata": "Huruf (وَ) dan Isim (ٱللَّهُ)",
@@ -93,7 +111,7 @@
       "role": "none"
     },
     {
-      "index": 5,
+      "index": 6,
       "kata_arab": "عَلَىٰ",
       "transliterasi": "ʿalā",
       "jenis_kata": "Huruf (preposisi)",
@@ -111,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 7,
       "kata_arab": "كُلِّ",
       "transliterasi": "kull(i)",
       "jenis_kata": "Isim (isim mutakabbir)",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "قَدِيرٌ",
       "transliterasi": "qadīr",
       "jenis_kata": "Isim (isim sifat)",

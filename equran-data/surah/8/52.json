@@ -58,6 +58,24 @@
     },
     {
       "index": 3,
+      "kata_arab": "ۙ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Huruf",
+      "arti": "tanda jeda/waqf",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "simbol waqf (tanda baca)",
+        "irab_dan_logika": "tidak berirab, berfungsi sebagai pemisah ayat"
+      },
+      "hikmah": "menandakan jeda bacaan, memberi kesempatan refleksi atas makna yang baru saja disebut",
+      "role": "none"
+    },
+    {
+      "index": 4,
       "kata_arab": "وَٱلَّذِينَ",
       "transliterasi": "wa‑alladhīna",
       "jenis_kata": "Isim mawsul",
@@ -75,7 +93,7 @@
       "role": "none"
     },
     {
-      "index": 4,
+      "index": 5,
       "kata_arab": "مِن",
       "transliterasi": "min",
       "jenis_kata": "Huruf",
@@ -93,7 +111,7 @@
       "role": "none"
     },
     {
-      "index": 5,
+      "index": 6,
       "kata_arab": "قَبْلِهِمْ",
       "transliterasi": "qablihim",
       "jenis_kata": "Huruf (kata depan)",
@@ -111,7 +129,25 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 7,
+      "kata_arab": "ۚ",
+      "transliterasi": "waqf",
+      "jenis_kata": "Huruf (tanda waqf)",
+      "arti": "tanda berhenti/istirahat",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Menandai akhir bagian kalimat sebelum kata **كَفَرُوا۟**",
+        "irab_dan_logika": "Tidak memiliki i‘rāb; fungsinya memisahkan jeda bacaan untuk memperjelas struktur sintaksis."
+      },
+      "hikmah": "Memberi jeda bagi pembaca agar menekankan peralihan makna dari **sebelum mereka** ke **mereka mengingkari**.",
+      "role": "none"
+    },
+    {
+      "index": 8,
       "kata_arab": "كَفَرُوا۟",
       "transliterasi": "kafarū",
       "jenis_kata": "Fi‘il (verb)",
@@ -129,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 9,
       "kata_arab": "بِـَٔايَٰتِ",
       "transliterasi": "bi-āyāti",
       "jenis_kata": "Huruf + Isim (preposisi + kata benda)",
@@ -147,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 10,
       "kata_arab": "ٱللَّهِ",
       "transliterasi": "Allāhi",
       "jenis_kata": "Isim (nama khusus)",
@@ -165,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 11,
       "kata_arab": "فَأَخَذَهُمُ",
       "transliterasi": "fa-akhadhahumu",
       "jenis_kata": "Fi‘il (verb) dengan huruf al‑wasl",
@@ -183,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 12,
       "kata_arab": "ٱللَّهُ",
       "transliterasi": "**Allāhu**",
       "jenis_kata": "**Isim**",
@@ -201,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 13,
       "kata_arab": "بِذُنُوبِهِمْ",
       "transliterasi": "**bi‑ḍunūbihim**",
       "jenis_kata": "**Huruf jar + Isim**",
@@ -219,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 14,
       "kata_arab": "إِنَّ",
       "transliterasi": "**inna**",
       "jenis_kata": "**Huruf (particle) penegas**",
@@ -237,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 15,
       "kata_arab": "ٱللَّهَ",
       "transliterasi": "**Allāha**",
       "jenis_kata": "**Isim**",
@@ -255,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 16,
       "kata_arab": "قَوِىٌّۭ",
       "transliterasi": "**qawiyyun**",
       "jenis_kata": "**Isim sifat**",
@@ -273,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 17,
       "kata_arab": "شَدِيدُ",
       "transliterasi": "Shadīd",
       "jenis_kata": "Isim (Kata Sifat/Adjektiva)",
@@ -291,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 18,
       "kata_arab": "ٱلْعِقَابِ",
       "transliterasi": "Al-'iqāb",
       "jenis_kata": "Isim (Kata Benda)",

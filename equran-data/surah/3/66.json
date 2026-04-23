@@ -256,6 +256,24 @@
     },
     {
       "index": 14,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "Tanda baca Al-Qur'an",
+      "arti": "Tidak ada arti harfiah",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku.",
+        "makna_dasar": "Tidak berlaku.",
+        "wazan_perubahan": "Tidak berlaku."
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf jaiz (boleh berhenti, boleh lanjut).",
+        "irab_dan_logika": "Tidak berlaku."
+      },
+      "hikmah": "Menandakan jeda yang diperbolehkan dalam bacaan, seringkali memisahkan dua gagasan atau bagian kalimat yang berbeda namun saling berkaitan.",
+      "role": "none"
+    },
+    {
+      "index": 15,
       "kata_arab": "وَٱللَّهُ",
       "transliterasi": "wallāhu",
       "jenis_kata": "Huruf (penghubung) dan Isim (nama diri)",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "يَعْلَمُ",
       "transliterasi": "ya'lamu",
       "jenis_kata": "Fi'il (kata kerja)",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "وَأَنتُمْ",
       "transliterasi": "wa antum",
       "jenis_kata": "Huruf (penghubung) dan Isim Dhomir (kata ganti)",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "لَا",
       "transliterasi": "lā",
       "jenis_kata": "Huruf",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 19,
       "kata_arab": "تَعْلَمُونَ",
       "transliterasi": "ta'lamūna",
       "jenis_kata": "Fi'il",

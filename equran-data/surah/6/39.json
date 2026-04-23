@@ -130,6 +130,24 @@
     },
     {
       "index": 7,
+      "kata_arab": "ۗ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "Huruf (tanda baca/waqaf)",
+      "arti": "Tanda waqaf lazim (harus berhenti)",
+      "sharaf": {
+        "akar_kata": "Tidak ada",
+        "makna_dasar": "Tidak ada",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Tidak ada kedudukan nahwu",
+        "irab_dan_logika": "Bukan bagian dari struktur kalimat Arab. Ini adalah tanda baca dalam Mushaf Al-Qur'an."
+      },
+      "hikmah": "Menunjukkan tempat berhenti yang dianjurkan atau wajib dalam bacaan Al-Qur'an untuk memahami makna yang benar. Dalam konteks ini, ia memisahkan dua bagian makna penting dalam ayat: kondisi orang-orang yang mendustakan, dan kemudian kuasa Allah dalam memberi petunjuk atau menyesatkan.",
+      "role": "none"
+    },
+    {
+      "index": 8,
       "kata_arab": "مَن",
       "transliterasi": "man",
       "jenis_kata": "Isim Syarat",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "يَشَإِ",
       "transliterasi": "yasha'i",
       "jenis_kata": "Fi'il Mudhari'",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "ٱللَّهُ",
       "transliterasi": "Allāhu",
       "jenis_kata": "Isim (Isim Jalalah)",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "يُضْلِلْهُ",
       "transliterasi": "yuḍlilhu",
       "jenis_kata": "Fi'il Mudhari' + Dhamir",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "وَمَن",
       "transliterasi": "wa‑man",
       "jenis_kata": "Huruf + Isim",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "يَشَأْ",
       "transliterasi": "yashā",
       "jenis_kata": "Fi'il",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "يَجْعَلْهُ",
       "transliterasi": "yajʿalhu",
       "jenis_kata": "Fi'il",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "عَلَىٰ",
       "transliterasi": "ʿalā",
       "jenis_kata": "Huruf",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "صِرَٰطٍۢ",
       "transliterasi": "ṣirāṭin",
       "jenis_kata": "Isim",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "مُّسْتَقِيمٍۢ",
       "transliterasi": "mus'taqīm",
       "jenis_kata": "Isim",

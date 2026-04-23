@@ -40,6 +40,24 @@
     },
     {
       "index": 2,
+      "kata_arab": "ۖ",
+      "transliterasi": "(tanda jeda)",
+      "jenis_kata": "Huruf",
+      "arti": "tanda jeda (waqf)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca, tidak memiliki i‘rab",
+        "irab_dan_logika": "berfungsi memisahkan antara dua bagian kalimat untuk memberi jeda"
+      },
+      "hikmah": "menunjukkan adanya jeda retoris sebelum penyebutan konsekuensi selanjutnya",
+      "role": "none"
+    },
+    {
+      "index": 3,
       "kata_arab": "وَبِئْسَ",
       "transliterasi": "wa-bi'sa",
       "jenis_kata": "Huruf",
@@ -57,7 +75,7 @@
       "role": "none"
     },
     {
-      "index": 3,
+      "index": 4,
       "kata_arab": "الْقَرَارُ",
       "transliterasi": "al-qarāru",
       "jenis_kata": "Isim",

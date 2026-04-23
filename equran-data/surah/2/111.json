@@ -184,6 +184,24 @@
     },
     {
       "index": 10,
+      "kata_arab": "ۗ",
+      "transliterasi": "(tanda waqaf lazim)",
+      "jenis_kata": "Tanda baca Al-Qur'an",
+      "arti": "Tanda waqaf lazim (harus berhenti)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku untuk tanda baca.",
+        "makna_dasar": "Tidak berlaku untuk tanda baca.",
+        "wazan_perubahan": "Tidak berlaku untuk tanda baca."
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf",
+        "irab_dan_logika": "Tidak memiliki kedudukan i'rab. Menunjukkan bahwa pembaca harus berhenti pada titik ini, menandakan akhir dari satu klausa atau ide dan awal ide baru yang signifikan."
+      },
+      "hikmah": "Tanda ini menandakan akhir dari klaim eksklusif Yahudi dan Nasrani. Ini adalah titik berhenti yang kuat dalam makna, mempersiapkan pembaca untuk sanggahan atau penjelasan selanjutnya dari Allah SWT.",
+      "role": "none"
+    },
+    {
+      "index": 11,
       "kata_arab": "تِلْكَ",
       "transliterasi": "tilka",
       "jenis_kata": "Isim",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "أَمَانِيُّهُمْ",
       "transliterasi": "amāniyyuhum",
       "jenis_kata": "Isim",
@@ -219,7 +237,25 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
+      "kata_arab": "ۗ",
+      "transliterasi": "-",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "Tanda waqaf jaiz (boleh berhenti atau lanjut, berhenti lebih utama)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "N/A (bukan bagian dari struktur kalimat)",
+        "irab_dan_logika": "N/A"
+      },
+      "hikmah": "Tanda ini menunjukkan *jeda yang dianjurkan* dalam bacaan Al-Qur'an, memberikan kesempatan bagi pembaca untuk mengambil napas dan memahami bagian kalimat sebelumnya sebelum melanjutkan ke perintah berikutnya. Dalam konteks makna, jeda ini memisahkan pernyataan tentang angan-angan kosong dari perintah untuk menuntut bukti.",
+      "role": "none"
+    },
+    {
+      "index": 14,
       "kata_arab": "قُلْ",
       "transliterasi": "qul",
       "jenis_kata": "Fi'il",
@@ -237,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 15,
       "kata_arab": "هَاتُوا۟",
       "transliterasi": "hātū",
       "jenis_kata": "Isim Fi'il Amr",
@@ -255,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 16,
       "kata_arab": "بُرْهَٰنَكُمْ",
       "transliterasi": "burhānakum",
       "jenis_kata": "Isim",
@@ -273,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 17,
       "kata_arab": "إِن",
       "transliterasi": "in",
       "jenis_kata": "Huruf",
@@ -291,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 18,
       "kata_arab": "كُنتُمْ",
       "transliterasi": "Kuntum",
       "jenis_kata": "Fi'il",
@@ -309,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 19,
       "kata_arab": "صَٰدِقِينَ",
       "transliterasi": "Shadiqina",
       "jenis_kata": "Isim",

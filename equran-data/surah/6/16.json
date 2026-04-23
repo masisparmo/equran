@@ -112,6 +112,24 @@
     },
     {
       "index": 6,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf",
+      "arti": "*tanda waqaf* (simbol berhenti ayat)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "simbol akhir ayat, tidak termasuk dalam sintaks kalimat",
+        "irab_dan_logika": "tidak memiliki i‘rāb karena berfungsi sebagai tanda baca"
+      },
+      "hikmah": "*Menandakan akhir pemikiran, memberi jeda untuk merenungkan makna ayat.*",
+      "role": "none"
+    },
+    {
+      "index": 7,
       "kata_arab": "وَذَٰلِكَ",
       "transliterasi": "wa-dhalika",
       "jenis_kata": "Huruf (isim isyarah)",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "ٱلْفَوْزُ",
       "transliterasi": "al-fawzu",
       "jenis_kata": "Isim",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "ٱلْمُبِينُ",
       "transliterasi": "al-mubinu",
       "jenis_kata": "Isim",

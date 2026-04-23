@@ -166,6 +166,24 @@
     },
     {
       "index": 9,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf (tanda waqf)",
+      "arti": "tanda berhenti",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "علامة وقف لا تُعرب",
+        "irab_dan_logika": "لا إعراب لها، تُظهر انتهاء الجملة الشرطية"
+      },
+      "hikmah": "Memberi jeda bagi pendengar untuk merenungkan perintah sebelumnya.",
+      "role": "none"
+    },
+    {
+      "index": 10,
       "kata_arab": "فَإِذَا",
       "transliterasi": "fa‑idhā",
       "jenis_kata": "Huruf",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "ٱطْمَأْنَنتُمْ",
       "transliterasi": "iṭmaʾnan‑tum",
       "jenis_kata": "Fiʿil (madhi)",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "فَأَقِيمُوا۟",
       "transliterasi": "fa-aqīmū",
       "jenis_kata": "Fi'il (amar)",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "ٱلصَّلَوٰةَ",
       "transliterasi": "as-salāhata",
       "jenis_kata": "Isim (kata benda)",
@@ -237,7 +255,25 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
+      "kata_arab": "ۙ",
+      "transliterasi": "—",
+      "jenis_kata": "Huruf (tanda waqf)",
+      "arti": "tanda jeda",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca, tidak termasuk dalam i'rab",
+        "irab_dan_logika": "menandai jeda bacaan, tidak memengaruhi struktur gramatikal"
+      },
+      "hikmah": "Memberi ruang bagi pendengar untuk merenungkan perintah sebelumnya",
+      "role": "none"
+    },
+    {
+      "index": 15,
       "kata_arab": "إِنَّ",
       "transliterasi": "inna",
       "jenis_kata": "Huruf (harf ta'kid)",
@@ -255,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 16,
       "kata_arab": "ٱلصَّلَوٰةَ",
       "transliterasi": "as-salāhata",
       "jenis_kata": "Isim (kata benda)",
@@ -273,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 17,
       "kata_arab": "كَانَتْ",
       "transliterasi": "kānat",
       "jenis_kata": "Fi'il (kāna)",
@@ -291,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 18,
       "kata_arab": "عَلَى",
       "transliterasi": "ʿalā",
       "jenis_kata": "Huruf",

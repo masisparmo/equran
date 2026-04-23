@@ -238,6 +238,24 @@
     },
     {
       "index": 13,
+      "kata_arab": "ۗ",
+      "transliterasi": "ʿAyah marker",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda ayat",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Tidak termasuk dalam sintaksis; memisahkan bagian ayat",
+        "irab_dan_logika": "Tidak memiliki i‘rāb karena bukan kata"
+      },
+      "hikmah": "Menandai akhir bagian ayat, memberi jeda bagi pembaca",
+      "role": "none"
+    },
+    {
+      "index": 14,
       "kata_arab": "وَٱتَّخَذَ",
       "transliterasi": "wa-ittakhadha",
       "jenis_kata": "Fi‘il",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "ٱللَّهُ",
       "transliterasi": "Allāhu",
       "jenis_kata": "Isim",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "إِبْرَٰهِيمَ",
       "transliterasi": "Ibrāhima",
       "jenis_kata": "Isim",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "خَلِيلًۭا",
       "transliterasi": "khalīlan",
       "jenis_kata": "Isim",

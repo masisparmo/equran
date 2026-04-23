@@ -148,6 +148,24 @@
     },
     {
       "index": 8,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "علامة وقف",
+      "arti": "tanda akhir ayat",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "علامة تنوين أو وقف لا إعراب لها",
+        "irab_dan_logika": "تحدد نهاية الجملة ولا تُعرب"
+      },
+      "hikmah": "Menandai selesainya ayat dan memberi jeda bagi pembaca.",
+      "role": "none"
+    },
+    {
+      "index": 9,
       "kata_arab": "قَالُوا۟",
       "transliterasi": "qālū",
       "jenis_kata": "Fi'il",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "يَٰمُوسَىٰ",
       "transliterasi": "yā Mūsā",
       "jenis_kata": "Huruf",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "ٱجْعَل",
       "transliterasi": "ij‘al",
       "jenis_kata": "Fi'il",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "لَّنَآ",
       "transliterasi": "lanā",
       "jenis_kata": "Huruf",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "إِلَٰهًۭا",
       "transliterasi": "ilāhan",
       "jenis_kata": "Isim",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "كَمَا",
       "transliterasi": "kamā",
       "jenis_kata": "Huruf",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "لَهُمْ",
       "transliterasi": "lahum",
       "jenis_kata": "Huruf (jar)",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "آلِهَةٌ",
       "transliterasi": "ā'ilah",
       "jenis_kata": "Isim (isim mufrad jamak)",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "تَجْهَلُونَ",
       "transliterasi": "`tajhalūna`",
       "jenis_kata": "`Fi'il`",

@@ -256,6 +256,24 @@
     },
     {
       "index": 14,
+      "kata_arab": "ۚ",
+      "transliterasi": "N/A",
+      "jenis_kata": "Tanda baca",
+      "arti": "N/A",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf (berhenti)",
+        "irab_dan_logika": "Tanda waqaf *jaiz* (boleh berhenti atau melanjutkan). Menunjukkan akhir dari satu bagian makna atau jeda dalam pembacaan, memisahkan antara harapan dengan penegasan keyakinan."
+      },
+      "hikmah": "Menandai jeda dalam pembacaan ayat, memisahkan antara harapan Nabi Ya'qub dengan pernyataan keyakinannya terhadap sifat-sifat Allah yang akan disebutkan selanjutnya.",
+      "role": "none"
+    },
+    {
+      "index": 15,
       "kata_arab": "إِنَّهُۥ",
       "transliterasi": "innahu",
       "jenis_kata": "Huruf dan Isim (partikel penegas + pronomina)",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "هُوَ",
       "transliterasi": "Huwa",
       "jenis_kata": "Isim (Dhamir)",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "ٱلْعَلِيمُ",
       "transliterasi": "Al-'Alīm",
       "jenis_kata": "Isim (Sifat/Asmaul Husna)",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "ٱلْحَكِيمُ",
       "transliterasi": "Al-Hakīm",
       "jenis_kata": "Isim (Sifat/Asmaul Husna)",

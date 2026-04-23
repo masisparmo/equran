@@ -148,6 +148,24 @@
     },
     {
       "index": 8,
+      "kata_arab": "ۗ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "Huruf",
+      "arti": "tanda waqaf (berhenti)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf",
+        "irab_dan_logika": "Tidak memiliki i'rab. Ini adalah tanda waqaf `ج` (jim) yang berarti boleh berhenti atau melanjutkan. Dalam konteks ini, menandai akhir dari pertanyaan retoris kepada Bani Israil dan transisi ke bagian peringatan."
+      },
+      "hikmah": "Tanda ini menunjukkan **jeda dalam pembacaan**, memisahkan bagian pertanyaan dari bagian peringatan dalam ayat. Secara makna, ia menandai selesainya satu gagasan utama (pertanyaan tentang tanda-tanda) sebelum beralih ke gagasan berikutnya (peringatan tentang menukar nikmat Allah).",
+      "role": "none"
+    },
+    {
+      "index": 9,
       "kata_arab": "وَمَن",
       "transliterasi": "wa man",
       "jenis_kata": "Huruf (wawu) dan Isim Syarat (man)",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "يُبَدِّلْ",
       "transliterasi": "yubaddil",
       "jenis_kata": "Fi'il",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "نِعْمَةَ",
       "transliterasi": "ni'mata",
       "jenis_kata": "Isim",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "ٱللَّهِ",
       "transliterasi": "Allāhi",
       "jenis_kata": "Isim",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "مِنۢ",
       "transliterasi": "mim",
       "jenis_kata": "Huruf",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "بَعْدِ",
       "transliterasi": "ba'di",
       "jenis_kata": "Isim",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "مَا",
       "transliterasi": "mā",
       "jenis_kata": "Huruf",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "جَآءَتْهُ",
       "transliterasi": "jā'athu",
       "jenis_kata": "Fi'il",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "فَإِنَّ",
       "transliterasi": "fa'inna",
       "jenis_kata": "Huruf",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "ٱللَّهَ",
       "transliterasi": "Allāha",
       "jenis_kata": "Isim",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 19,
       "kata_arab": "شَدِيدُ",
       "transliterasi": "shadīdu",
       "jenis_kata": "Isim (Sifat/Kata Sifat)",
@@ -345,7 +363,7 @@
       "role": "none"
     },
     {
-      "index": 19,
+      "index": 20,
       "kata_arab": "ٱلْعِقَابِ",
       "transliterasi": "al-ʿiqābi",
       "jenis_kata": "Isim (Mashdar/Kata Benda)",

@@ -76,6 +76,24 @@
     },
     {
       "index": 4,
+      "kata_arab": "ۖ",
+      "transliterasi": "waqf",
+      "jenis_kata": "Huruf",
+      "arti": "tanda waqf",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca waqf",
+        "irab_dan_logika": "tidak berirab, menandai jeda dalam bacaan"
+      },
+      "hikmah": "Memberi jeda untuk menekankan perintah.",
+      "role": "none"
+    },
+    {
+      "index": 5,
       "kata_arab": "لَّمَن",
       "transliterasi": "liman",
       "jenis_kata": "Huruf",
@@ -93,7 +111,7 @@
       "role": "none"
     },
     {
-      "index": 5,
+      "index": 6,
       "kata_arab": "تَبِعَكَ",
       "transliterasi": "taba‘aka",
       "jenis_kata": "Fi'il",
@@ -111,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 7,
       "kata_arab": "مِنْهُمْ",
       "transliterasi": "minhum",
       "jenis_kata": "Huruf",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "لَأَمْلَأَنَّ",
       "transliterasi": "la‑amla‘anna",
       "jenis_kata": "Fi'il",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "جَهَنَّمَ",
       "transliterasi": "jahannama",
       "jenis_kata": "Isim",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "مِنكُمْ",
       "transliterasi": "minkum",
       "jenis_kata": "Huruf",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "أَجْمَعِينَ",
       "transliterasi": "ajma'īna",
       "jenis_kata": "Isim",

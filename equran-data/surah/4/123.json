@@ -76,6 +76,24 @@
     },
     {
       "index": 4,
+      "kata_arab": "ۗ",
+      "transliterasi": "(tanda ayat)",
+      "jenis_kata": "Huruf (simbol)",
+      "arti": "tanda pemisah ayat",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "simbol pemisah antara dua bagian ayat",
+        "irab_dan_logika": "tidak memiliki i‘rāb karena bukan kata, berfungsi menandai akhir segmen"
+      },
+      "hikmah": "Menunjukkan batas antara pernyataan tentang pahala Allah dan peringatan bagi orang yang berbuat kejahatan",
+      "role": "none"
+    },
+    {
+      "index": 5,
       "kata_arab": "مَن",
       "transliterasi": "man",
       "jenis_kata": "Isim (nama)",
@@ -93,7 +111,7 @@
       "role": "none"
     },
     {
-      "index": 5,
+      "index": 6,
       "kata_arab": "يَعْمَلْ",
       "transliterasi": "ya‘mal",
       "jenis_kata": "Fi‘il (kata kerja)",
@@ -111,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 7,
       "kata_arab": "سُوٓءًۭا",
       "transliterasi": "su'an",
       "jenis_kata": "Isim (kata benda)",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "يُجْزَ",
       "transliterasi": "yujza",
       "jenis_kata": "Fi‘il (kata kerja)",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "بِهِۦ",
       "transliterasi": "bihi",
       "jenis_kata": "Huruf (preposisi) + ضمير متصل",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "وَلَا",
       "transliterasi": "wa-lā",
       "jenis_kata": "Huruf",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "يَجِدْ",
       "transliterasi": "yajid",
       "jenis_kata": "Fi'il",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "لَهُۥ",
       "transliterasi": "lahu",
       "jenis_kata": "Huruf",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "مِن",
       "transliterasi": "min",
       "jenis_kata": "Huruf",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "دُونِ",
       "transliterasi": "dūni",
       "jenis_kata": "Isim",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "ٱللَّهِ",
       "transliterasi": "Allāh",
       "jenis_kata": "Isim",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "وَلِيًّۭا",
       "transliterasi": "waliyyan",
       "jenis_kata": "Isim",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "وَلَا",
       "transliterasi": "wa la",
       "jenis_kata": "Huruf",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "نَصِيرًۭا",
       "transliterasi": "nasiran",
       "jenis_kata": "Isim",

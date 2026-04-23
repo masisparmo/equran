@@ -166,6 +166,24 @@
     },
     {
       "index": 9,
+      "kata_arab": "ۖ",
+      "transliterasi": "(tanda waqaf)",
+      "jenis_kata": "Tanda Baca (Waqaf)",
+      "arti": "(berhenti sejenak)",
+      "sharaf": {
+        "akar_kata": "Tidak berlaku",
+        "makna_dasar": "Menunjukkan tempat berhenti yang dianjurkan dalam bacaan Al-Qur'an.",
+        "wazan_perubahan": "Tidak berlaku"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf",
+        "irab_dan_logika": "Tidak memiliki i'rab. Berfungsi sebagai penanda jeda untuk memisahkan dua gagasan atau bagian kalimat."
+      },
+      "hikmah": "Tanda waqaf ini menandakan jeda yang tepat dalam pembacaan ayat. Ini memisahkan pernyataan penolakan dan alasan mereka dari perintah yang mereka berikan kepada Nabi Musa, menunjukkan transisi dalam narasi dan sikap mereka.",
+      "role": "none"
+    },
+    {
+      "index": 10,
       "kata_arab": "فَٱذْهَبْ",
       "transliterasi": "fadh-hab",
       "jenis_kata": "Huruf dan Fi'il (Kata Kerja)",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "أَنتَ",
       "transliterasi": "anta",
       "jenis_kata": "Isim Dhomir Munfasil (Kata Ganti Terpisah)",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "وَرَبُّكَ",
       "transliterasi": "wa rabbuka",
       "jenis_kata": "Huruf (و) + Isim (رب) + Dhomir (ك)",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "فَقَٰتِلَآ",
       "transliterasi": "fa qātilā",
       "jenis_kata": "Fi'il (Fi'il Amar)",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "إِنَّا",
       "transliterasi": "innā",
       "jenis_kata": "Huruf (إنّ) + Dhomir (نا)",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "هَٰهُنَا",
       "transliterasi": "hāhunā",
       "jenis_kata": "Isim Isyarah (kata tunjuk tempat)",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "قَٰعِدُونَ",
       "transliterasi": "qā'idūna",
       "jenis_kata": "Isim Fa'il (Jamak Mudzakkar Salim)",

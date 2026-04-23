@@ -112,6 +112,24 @@
     },
     {
       "index": 6,
+      "kata_arab": "ۖ",
+      "transliterasi": "—",
+      "jenis_kata": "Huruf (tanda waqf)",
+      "arti": "tanda jeda (waqf) yang menandai berhentinya bacaan sesaat",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "Berada di akhir frasa, memisahkan bagian kalimat sebelum dan sesudahnya",
+        "irab_dan_logika": "Tidak memiliki i‘rāb karena merupakan tanda baca, fungsinya memberi jeda bagi pendengar"
+      },
+      "hikmah": "Menunjukkan **pause** untuk menekankan makna ayat dan memberi ruang refleksi.",
+      "role": "none"
+    },
+    {
+      "index": 7,
       "kata_arab": "إِنْ",
       "transliterasi": "in",
       "jenis_kata": "Huruf (harf syarat)",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "أَجْرِىَ",
       "transliterasi": "ajri",
       "jenis_kata": "Isim (isim maf‘ūl bi‑l‑jam‘)",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "إِلَّا",
       "transliterasi": "illa",
       "jenis_kata": "Huruf (huruf istithna’)",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "عَلَى",
       "transliterasi": "‘ala",
       "jenis_kata": "Huruf (harf jar)",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "ٱللَّهِ",
       "transliterasi": "Allahi",
       "jenis_kata": "Isim (ism al‑ilah)",
@@ -201,7 +219,25 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
+      "kata_arab": "ۖ",
+      "transliterasi": "—",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda waqf (istirahat)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "penanda jeda setelah kata sebelumnya",
+        "irab_dan_logika": "tidak memiliki i‘rāb karena bukan kata"
+      },
+      "hikmah": "Menunjukkan jeda, memberi penekanan pada perintah selanjutnya",
+      "role": "none"
+    },
+    {
+      "index": 13,
       "kata_arab": "وَأُمِرْتُ",
       "transliterasi": "wa‑umirtu",
       "jenis_kata": "Fi‘il (verb pasif) dengan huruf wa",
@@ -219,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 14,
       "kata_arab": "أَنْ",
       "transliterasi": "an",
       "jenis_kata": "Huruf (harf nashb)",
@@ -237,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 15,
       "kata_arab": "أَكُونَ",
       "transliterasi": "akūna",
       "jenis_kata": "Fi‘il (mudhari‘)",
@@ -255,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 16,
       "kata_arab": "مِنَ",
       "transliterasi": "mina",
       "jenis_kata": "Huruf (jar)",
@@ -273,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 17,
       "kata_arab": "ٱلْمُسْلِمِينَ",
       "transliterasi": "al‑muslimīna",
       "jenis_kata": "Isim (jamak mansub)",

@@ -130,6 +130,24 @@
     },
     {
       "index": 7,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf (simbol waqf)",
+      "arti": "tanda berhenti/istirahat",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Simbol waqf yang menandai akhir bagian kalimat",
+        "irab_dan_logika": "Tidak memiliki i‘rab; berfungsi sebagai tanda baca untuk memisahkan klausa"
+      },
+      "hikmah": "Memberi jeda bagi pembaca agar menekankan makna pada segmen sebelumnya sebelum melanjutkan ke ayat berikutnya.",
+      "role": "none"
+    },
+    {
+      "index": 8,
       "kata_arab": "ٱلَّذِينَ",
       "transliterasi": "alladhīna",
       "jenis_kata": "Isim (isim ismi‑muṣṭalaḥ)",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "كَذَّبُوا۟",
       "transliterasi": "kadhabū",
       "jenis_kata": "Fi‘il (verb past, third‑person masculine plural)",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "هُمُ",
       "transliterasi": "humu",
       "jenis_kata": "Isim (isim dhomir)",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "ٱلْخَٰسِرِينَ",
       "transliterasi": "al‑khāṣirīna",
       "jenis_kata": "Isim (isim fa‘il)",

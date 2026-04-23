@@ -94,6 +94,24 @@
     },
     {
       "index": 5,
+      "kata_arab": "ۖ",
+      "transliterasi": "(tanda ayat)",
+      "jenis_kata": "Huruf",
+      "arti": "tanda berhenti ayat",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "علامة وقف في النص القرآني",
+        "irab_dan_logika": "ليس له إعراب، يحدد نهاية الجملة"
+      },
+      "hikmah": "menunjukkan akhir ayat, memberi jeda bagi pembaca untuk merenungkan makna",
+      "role": "none"
+    },
+    {
+      "index": 6,
       "kata_arab": "وَلَا",
       "transliterasi": "wa lā",
       "jenis_kata": "Huruf",
@@ -111,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 7,
       "kata_arab": "تَتَّبِعُوا۟",
       "transliterasi": "tattabi‘ū",
       "jenis_kata": "Fi'il",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "ٱلسُّبُلَ",
       "transliterasi": "as‑subula",
       "jenis_kata": "Isim",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "فَتَفَرَّقَ",
       "transliterasi": "fa‑tafarraqa",
       "jenis_kata": "Fi'il",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "بِكُمْ",
       "transliterasi": "bikum",
       "jenis_kata": "Huruf",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "عَن",
       "transliterasi": "ʿan",
       "jenis_kata": "Huruf",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "سَبِيلِهِۦ",
       "transliterasi": "sabīlihi",
       "jenis_kata": "Isim",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "تَتَّقُونَ",
       "transliterasi": "tattaqūna",
       "jenis_kata": "Fi'il",

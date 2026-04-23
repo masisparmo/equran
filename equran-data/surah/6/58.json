@@ -202,6 +202,24 @@
     },
     {
       "index": 11,
+      "kata_arab": "ۗ",
+      "transliterasi": "(tanda berhenti)",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda jeda/istirahat",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "akhir ayat, menandai henti bacaan",
+        "irab_dan_logika": "tidak berirab karena bukan kata"
+      },
+      "hikmah": "memberi jeda untuk merenungkan makna ayat",
+      "role": "none"
+    },
+    {
+      "index": 12,
       "kata_arab": "وَاللَّهُ",
       "transliterasi": "wa-Allahu",
       "jenis_kata": "Huruf (wa) + Isim (Allahu)",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "أَعْلَمُ",
       "transliterasi": "a‘lamu",
       "jenis_kata": "Fi‘il (verb)",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "بِٱلظَّٰلِمِينَ",
       "transliterasi": "bi al-ẓālimīn",
       "jenis_kata": "Huruf (bi) + Isim (al-ẓālimīn)",

@@ -166,6 +166,24 @@
     },
     {
       "index": 9,
+      "kata_arab": "ۖ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda koma (pause)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "penanda jeda dalam ayat, tidak berirab",
+        "irab_dan_logika": "tidak berirab karena bukan kata"
+      },
+      "hikmah": "Memberi jeda untuk menekankan pemisahan antara dua objek pakaian yang disebutkan.",
+      "role": "none"
+    },
+    {
+      "index": 10,
       "kata_arab": "وَلِبَاسُ",
       "transliterasi": "walibāsu",
       "jenis_kata": "Isim (noun) dengan huruf *wa*",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "ٱلتَّقْوَىٰ",
       "transliterasi": "al‑taqwā",
       "jenis_kata": "Isim (noun)",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "ذَٰلِكَ",
       "transliterasi": "dhālika",
       "jenis_kata": "Isim",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "ٱللَّهِ",
       "transliterasi": "Allahi",
       "jenis_kata": "Isim",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "لَعَلَّهُمْ",
       "transliterasi": "laʿallahum",
       "jenis_kata": "Huruf",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "يَذَّكَّرُونَ",
       "transliterasi": "yadhakkarūna",
       "jenis_kata": "Fiʿil",

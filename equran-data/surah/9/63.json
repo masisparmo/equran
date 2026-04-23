@@ -238,6 +238,24 @@
     },
     {
       "index": 13,
+      "kata_arab": "ۚ",
+      "transliterasi": "ۙ",
+      "jenis_kata": "Huruf",
+      "arti": "tanda waqf (berhenti)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca yang menandai akhir ayat atau jeda panjang",
+        "irab_dan_logika": "Tidak berirab karena bukan kata, berfungsi sebagai isyarat berhenti"
+      },
+      "hikmah": "Memberi isyarat kepada pembaca untuk berhenti sejenak, menekankan pentingnya makna sebelumnya.",
+      "role": "none"
+    },
+    {
+      "index": 14,
       "kata_arab": "ذَٰلِكَ",
       "transliterasi": "dhālika",
       "jenis_kata": "Isim",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "ٱلْخِزْىُ",
       "transliterasi": "al‑khizy",
       "jenis_kata": "Isim",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "ٱلْعَظِيمُ",
       "transliterasi": "al‑‘azīmu",
       "jenis_kata": "Isim",

@@ -112,6 +112,24 @@
     },
     {
       "index": 6,
+      "kata_arab": "ۖ",
+      "transliterasi": "Waqf Lazim",
+      "jenis_kata": "Huruf (Tanda Baca)",
+      "arti": "Tanda berhenti sempurna",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca",
+        "irab_dan_logika": "Tidak memiliki i'rab. Tanda ini menunjukkan tempat berhenti yang dianjurkan untuk memahami makna kalimat sebelumnya secara lengkap, sebelum beralih ke gagasan berikutnya."
+      },
+      "hikmah": "Menandakan akhir dari satu klausa makna yang lengkap, yaitu tentang kepemilikan Allah atas kerajaan langit dan bumi. Berhenti di sini membantu pembaca memahami struktur makna ayat dan memisahkan gagasan tentang kekuasaan Allah dari gagasan tentang tindakan-Nya menghidupkan dan mematikan.",
+      "role": "none"
+    },
+    {
+      "index": 7,
       "kata_arab": "يُحْىِۦ",
       "transliterasi": "Yuhyi",
       "jenis_kata": "Fi'il (Kata Kerja)",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "وَيُمِيتُ",
       "transliterasi": "Wa yumītu",
       "jenis_kata": "Huruf (Waw) + Fi'il (Kata Kerja)",
@@ -147,7 +165,25 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
+      "kata_arab": "ۚ",
+      "transliterasi": "Waqf Ja'iz",
+      "jenis_kata": "Huruf (Tanda Baca)",
+      "arti": "Tanda berhenti boleh",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "N/A",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca",
+        "irab_dan_logika": "Tidak memiliki i'rab. Menunjukkan tempat berhenti yang boleh, tetapi melanjutkan bacaan juga diperbolehkan tanpa mengubah makna secara signifikan."
+      },
+      "hikmah": "Menandakan selesainya satu gagasan penting tentang kekuasaan Allah dalam menghidupkan dan mematikan. Memberi fleksibilitas dalam pembacaan, namun secara makna, ini adalah titik transisi sebelum beralih ke penegasan tentang tidak adanya pelindung dan penolong selain Dia.",
+      "role": "none"
+    },
+    {
+      "index": 10,
       "kata_arab": "وَمَا",
       "transliterasi": "Wa mā",
       "jenis_kata": "Huruf (Waw) + Huruf (Ma)",
@@ -165,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 11,
       "kata_arab": "لَكُم",
       "transliterasi": "Lakum",
       "jenis_kata": "Huruf (Lam) + Isim (Dhamir)",
@@ -183,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 12,
       "kata_arab": "مِّن",
       "transliterasi": "min",
       "jenis_kata": "Huruf",
@@ -201,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 13,
       "kata_arab": "دُونِ",
       "transliterasi": "dûni",
       "jenis_kata": "Isim",
@@ -219,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 14,
       "kata_arab": "ٱللَّهِ",
       "transliterasi": "Allâhi",
       "jenis_kata": "Isim",
@@ -237,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 15,
       "kata_arab": "مِن",
       "transliterasi": "min",
       "jenis_kata": "Huruf",
@@ -255,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 16,
       "kata_arab": "وَلِىٍّۢ",
       "transliterasi": "waliyyin",
       "jenis_kata": "Isim",
@@ -273,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 17,
       "kata_arab": "وَلَا",
       "transliterasi": "wa lâ",
       "jenis_kata": "Huruf",
@@ -291,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 18,
       "kata_arab": "نَصِيرٍۢ",
       "transliterasi": "Naṣīrin",
       "jenis_kata": "Isim (Kata Benda)",

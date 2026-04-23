@@ -202,6 +202,24 @@
     },
     {
       "index": 11,
+      "kata_arab": "ۖ",
+      "transliterasi": "-",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "Tanda waqaf jaiz (boleh berhenti, boleh lanjut)",
+      "sharaf": {
+        "akar_kata": "Tidak ada.",
+        "makna_dasar": "Menunjukkan tempat berhenti yang dianjurkan dalam bacaan Al-Qur'an.",
+        "wazan_perubahan": "Tidak ada."
+      },
+      "nahwu": {
+        "kedudukan": "Tanda baca, bukan bagian dari struktur gramatikal kalimat.",
+        "irab_dan_logika": "Tidak memiliki irab."
+      },
+      "hikmah": "Tanda ini menunjukkan jeda dalam bacaan, memberikan kesempatan bagi pembaca untuk merenungkan makna kalimat sebelumnya sebelum melanjutkan ke bagian berikutnya dari ayat. Dalam konteks ini, jeda setelah mengungkapkan kekhawatiran Nabi Ya'qub AS sebelum beralih ke tawakkal kepada Allah.",
+      "role": "none"
+    },
+    {
+      "index": 12,
       "kata_arab": "فَٱللَّهُ",
       "transliterasi": "fa-Allāhu",
       "jenis_kata": "Huruf (fa) + Isim (Allāh)",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "خَيْرٌ",
       "transliterasi": "khayrun",
       "jenis_kata": "Isim",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "حَٰفِظًۭا",
       "transliterasi": "ḥāfiẓan",
       "jenis_kata": "Isim",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "وَهُوَ",
       "transliterasi": "wa-Huwa",
       "jenis_kata": "Huruf (wa) + Isim (Huwa - Dhamir)",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "أَرْحَمُ",
       "transliterasi": "arḥamu",
       "jenis_kata": "Isim",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "ٱلرَّٰحِمِينَ",
       "transliterasi": "ar-rāḥimīn",
       "jenis_kata": "Isim",

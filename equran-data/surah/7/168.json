@@ -76,6 +76,24 @@
     },
     {
       "index": 4,
+      "kata_arab": "ۖ",
+      "transliterasi": "",
+      "jenis_kata": "Huruf (tanda waqf)",
+      "arti": "tanda jeda/berhenti",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "علامة وقف تفصل بين جملتين داخل الآية",
+        "irab_dan_logika": "ليس له إعراب؛ يهدف إلى تنظيم القراءة وتحديد الوقف"
+      },
+      "hikmah": "menandakan akhir bagian pertama dan mempersiapkan lanjutan ayat",
+      "role": "none"
+    },
+    {
+      "index": 5,
       "kata_arab": "مِّنْهُمُ",
       "transliterasi": "minhum",
       "jenis_kata": "Huruf (preposisi) + ضمير متصل",
@@ -93,7 +111,7 @@
       "role": "none"
     },
     {
-      "index": 5,
+      "index": 6,
       "kata_arab": "ٱلصَّٰلِحُونَ",
       "transliterasi": "al-ṣāliḥūna",
       "jenis_kata": "Isim (isim mufrad jamak mudhari‘)",
@@ -111,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 7,
       "kata_arab": "وَمِنْهُمْ",
       "transliterasi": "wa‑minhum",
       "jenis_kata": "Huruf (wa) + حرف جر (min) + ضمير (hum)",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "بِٱلْحَسَنَٰتِ",
       "transliterasi": "bi al-ḥasanāti",
       "jenis_kata": "Isim (isim majrur dengan huruf jar)",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "وَٱلسَّيِّـَٔاتِ",
       "transliterasi": "wa al-sayiʾāti",
       "jenis_kata": "Isim (isim majrur dengan huruf jar)",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "لَعَلَّهُمْ",
       "transliterasi": "laʿallahum",
       "jenis_kata": "Huruf (particle)",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "يَرْجِعُونَ",
       "transliterasi": "yarjiʿūna",
       "jenis_kata": "Fiʿil (verb)",

@@ -112,6 +112,24 @@
     },
     {
       "index": 6,
+      "kata_arab": "ۗ",
+      "transliterasi": "comma",
+      "jenis_kata": "Isyarat",
+      "arti": "tanda koma (virgula)",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "memisahkan bagian‑bagian kalimat",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca yang memisahkan ayat",
+        "irab_dan_logika": "tidak memiliki i‘rāb karena bukan kata"
+      },
+      "hikmah": "menunjukkan jeda dalam bacaan untuk memperjelas struktur",
+      "role": "none"
+    },
+    {
+      "index": 7,
       "kata_arab": "إِنَّ",
       "transliterasi": "inna",
       "jenis_kata": "Huruf",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "الَّذِينَ",
       "transliterasi": "alladhīna",
       "jenis_kata": "Isim",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "لَهُمْ",
       "transliterasi": "lahum",
       "jenis_kata": "Huruf dan Isim",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "عَذَابٌۭ",
       "transliterasi": "adhābun",
       "jenis_kata": "Isim",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "شَدِيدٌۭ",
       "transliterasi": "shadīdun",
       "jenis_kata": "Isim (Sifat/Na'at)",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "وَٱللَّهُ",
       "transliterasi": "wallāhu",
       "jenis_kata": "Huruf dan Isim",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "عَزِيزٌۭ",
       "transliterasi": "azīzun",
       "jenis_kata": "Isim (Sifat/Asmaul Husna)",
@@ -237,7 +255,7 @@
       "role": "none"
     },
     {
-      "index": 13,
+      "index": 14,
       "kata_arab": "ذُو",
       "transliterasi": "Dhū",
       "jenis_kata": "Isim",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "ٱنتِقَامٍ",
       "transliterasi": "Intiqāmin",
       "jenis_kata": "Isim (Masdar)",

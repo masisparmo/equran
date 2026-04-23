@@ -76,6 +76,24 @@
     },
     {
       "index": 4,
+      "kata_arab": "ۚ",
+      "transliterasi": "",
+      "jenis_kata": "Tanda Waqaf",
+      "arti": "",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf jaiz (boleh berhenti, boleh lanjut)",
+        "irab_dan_logika": "Bukan bagian dari struktur nahwu kalimat, melainkan tanda baca dalam mushaf Al-Qur'an."
+      },
+      "hikmah": "Menunjukkan tempat yang dianjurkan untuk berhenti membaca, memberikan jeda untuk merenungkan makna bagian ayat sebelumnya sebelum melanjutkan ke bagian berikutnya.",
+      "role": "none"
+    },
+    {
+      "index": 5,
       "kata_arab": "تَعَٰلَىٰ",
       "transliterasi": "ta'ālā",
       "jenis_kata": "Fi'il",
@@ -93,7 +111,7 @@
       "role": "none"
     },
     {
-      "index": 5,
+      "index": 6,
       "kata_arab": "عَمَّا",
       "transliterasi": "ʿammā",
       "jenis_kata": "Huruf dan Isim",
@@ -111,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 7,
       "kata_arab": "يُشْرِكُونَ",
       "transliterasi": "yushrikūna",
       "jenis_kata": "Fi'il (Kata Kerja)",

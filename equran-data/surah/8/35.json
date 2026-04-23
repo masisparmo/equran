@@ -148,6 +148,24 @@
     },
     {
       "index": 8,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Huruf",
+      "arti": "tanda jeda/waqf",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "pemisah ayat, menandai akhir frasa",
+        "irab_dan_logika": "tidak berirab, berfungsi sebagai tanda baca"
+      },
+      "hikmah": "Memberi jeda bagi pendengar untuk merenungkan perintah sebelumnya.",
+      "role": "none"
+    },
+    {
+      "index": 9,
       "kata_arab": "فَذُوقُوا۟",
       "transliterasi": "fa‑ḏūqū",
       "jenis_kata": "Fiʿil",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "ٱلْعَذَابَ",
       "transliterasi": "al‑ʿadhāba",
       "jenis_kata": "Isim",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "بِمَا",
       "transliterasi": "bimā",
       "jenis_kata": "Huruf",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "كُنتُمْ",
       "transliterasi": "kuntum",
       "jenis_kata": "Fi'il (verb)",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "تَكْفُرُونَ",
       "transliterasi": "takfuroona",
       "jenis_kata": "Fi'il (verb)",

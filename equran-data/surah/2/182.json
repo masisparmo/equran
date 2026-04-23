@@ -220,6 +220,24 @@
     },
     {
       "index": 12,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda baca)",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda jeda/istirahat dalam bacaan",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca, tidak termasuk dalam iʿrāb",
+        "irab_dan_logika": "menandakan waqf (jeda) panjang setelah kata sebelumnya untuk memperjelas pemahaman ayat"
+      },
+      "hikmah": "*Tidak memiliki makna leksikal; berfungsi sebagai penanda jeda agar pembaca dapat berhenti sejenak sebelum melanjutkan bacaan.*",
+      "role": "none"
+    },
+    {
+      "index": 13,
       "kata_arab": "إِنَّ",
       "transliterasi": "inna",
       "jenis_kata": "Huruf (particle)",

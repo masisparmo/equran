@@ -94,6 +94,24 @@
     },
     {
       "index": 5,
+      "kata_arab": "ۚ",
+      "transliterasi": "(Tidak ada transliterasi untuk tanda waqaf)",
+      "jenis_kata": "Huruf (tanda baca/waqaf)",
+      "arti": "Tanda waqaf Jaiz (boleh berhenti atau lanjut)",
+      "sharaf": {
+        "akar_kata": "Tidak ada akar kata.",
+        "makna_dasar": "Tanda berhenti.",
+        "wazan_perubahan": "Tidak berlaku."
+      },
+      "nahwu": {
+        "kedudukan": "Tanda waqaf (berhenti).",
+        "irab_dan_logika": "Tidak memiliki i'rab karena bukan bagian dari struktur kalimat. Ini adalah tanda baca yang menunjukkan tempat berhenti yang dianjurkan dalam bacaan Al-Qur'an untuk menjaga makna."
+      },
+      "hikmah": "Menandakan jeda penting dalam ayat, memisahkan perintah-perintah ketaatan dan kewaspadaan dari konsekuensi jika berpaling. Ini membantu pembaca memahami struktur makna ayat.",
+      "role": "none"
+    },
+    {
+      "index": 6,
       "kata_arab": "فَإِن",
       "transliterasi": "fa‑in",
       "jenis_kata": "Huruf",
@@ -111,7 +129,7 @@
       "role": "none"
     },
     {
-      "index": 6,
+      "index": 7,
       "kata_arab": "تَوَلَّيْتُمْ",
       "transliterasi": "tawallaytum",
       "jenis_kata": "Fi'il",
@@ -129,7 +147,7 @@
       "role": "none"
     },
     {
-      "index": 7,
+      "index": 8,
       "kata_arab": "فَاعْلَمُوا",
       "transliterasi": "faʿlamū",
       "jenis_kata": "Fi'il",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "أَنَّمَا",
       "transliterasi": "annamā",
       "jenis_kata": "Huruf",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "عَلَىٰ",
       "transliterasi": "ʿalā",
       "jenis_kata": "Huruf",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "رَسُولِنَا",
       "transliterasi": "rasūlinā",
       "jenis_kata": "Isim",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "ٱلْبَلَٰغُ",
       "transliterasi": "al-Balāghu",
       "jenis_kata": "Isim (Kata Benda)",
@@ -219,7 +237,7 @@
       "role": "none"
     },
     {
-      "index": 12,
+      "index": 13,
       "kata_arab": "ٱلْمُبِينُ",
       "transliterasi": "al-Mubīnu",
       "jenis_kata": "Isim (Kata Benda), lebih spesifik Isim Fa'il (Partisip Aktif)",

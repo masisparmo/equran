@@ -238,6 +238,24 @@
     },
     {
       "index": 13,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda baca)",
+      "jenis_kata": "Huruf (tanda baca)",
+      "arti": "tanda berhenti ayat",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "bukan bagian sintaksis, melainkan **waqf** (tanda jeda) yang memisahkan dua bagian kalimat",
+        "irab_dan_logika": "tidak memiliki i‘rāb karena bukan kata"
+      },
+      "hikmah": "Menunjukkan akhir bagian kalimat, memberi ruang bagi pembaca menimbang makna sebelum melanjutkan.",
+      "role": "none"
+    },
+    {
+      "index": 14,
       "kata_arab": "وَلَا",
       "transliterasi": "walā",
       "jenis_kata": "Huruf (harf ‘wa’ + harf ‘lā’)",
@@ -255,7 +273,7 @@
       "role": "none"
     },
     {
-      "index": 14,
+      "index": 15,
       "kata_arab": "وَلَقَدْ",
       "transliterasi": "wa laqad",
       "jenis_kata": "Huruf",
@@ -273,7 +291,7 @@
       "role": "none"
     },
     {
-      "index": 15,
+      "index": 16,
       "kata_arab": "جَآءَكَ",
       "transliterasi": "jā'aka",
       "jenis_kata": "Fi'il (kata kerja) + Dhamir (kata ganti)",
@@ -291,7 +309,7 @@
       "role": "none"
     },
     {
-      "index": 16,
+      "index": 17,
       "kata_arab": "مِن",
       "transliterasi": "min",
       "jenis_kata": "Huruf",
@@ -309,7 +327,7 @@
       "role": "none"
     },
     {
-      "index": 17,
+      "index": 18,
       "kata_arab": "نَّبَإِى۟",
       "transliterasi": "naba'i",
       "jenis_kata": "Isim (kata benda)",
@@ -327,7 +345,7 @@
       "role": "none"
     },
     {
-      "index": 18,
+      "index": 19,
       "kata_arab": "ٱلْمُرْسَلِينَ",
       "transliterasi": "al-mursalīn",
       "jenis_kata": "Isim (kata benda)",

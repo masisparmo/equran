@@ -130,6 +130,24 @@
     },
     {
       "index": 7,
+      "kata_arab": "ۚ",
+      "transliterasi": "(tanda waqf)",
+      "jenis_kata": "Huruf",
+      "arti": "tanda berhenti",
+      "sharaf": {
+        "akar_kata": "",
+        "makna_dasar": "",
+        "wazan_perubahan": ""
+      },
+      "nahwu": {
+        "kedudukan": "tanda baca yang memisahkan bagian ayat",
+        "irab_dan_logika": "tidak berharakat, berfungsi sebagai jeda untuk memperjelas makna"
+      },
+      "hikmah": "Memberi jeda bagi pembaca agar makna dua bagian ayat terasa terpisah dan lebih mudah dipahami.",
+      "role": "none"
+    },
+    {
+      "index": 8,
       "kata_arab": "وَكَانَ",
       "transliterasi": "wa‑kāna",
       "jenis_kata": "Fiʿil",
@@ -147,7 +165,7 @@
       "role": "none"
     },
     {
-      "index": 8,
+      "index": 9,
       "kata_arab": "ٱللَّهُ",
       "transliterasi": "Allāhu",
       "jenis_kata": "Isim",
@@ -165,7 +183,7 @@
       "role": "none"
     },
     {
-      "index": 9,
+      "index": 10,
       "kata_arab": "بِكُلِّ",
       "transliterasi": "bi‑kulli",
       "jenis_kata": "Huruf jar + Isim",
@@ -183,7 +201,7 @@
       "role": "none"
     },
     {
-      "index": 10,
+      "index": 11,
       "kata_arab": "شَىْءٍۢ",
       "transliterasi": "shāʾin",
       "jenis_kata": "Isim",
@@ -201,7 +219,7 @@
       "role": "none"
     },
     {
-      "index": 11,
+      "index": 12,
       "kata_arab": "مُّحِيطًۭا",
       "transliterasi": "muḥiṭan",
       "jenis_kata": "Isim",
