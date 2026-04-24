@@ -5,379 +5,415 @@
     {
       "index": 0,
       "kata_arab": "وَهُوَ",
-      "transliterasi": "wa huwa",
-      "jenis_kata": "Huruf (wa) + Isim (huwa)",
+      "transliterasi": "wa-huwa",
+      "jenis_kata": "kata ganti",
       "arti": "dan dia",
       "sharaf": {
-        "akar_kata": "ه-و-ا (huwa) – tidak berwazān; وَ (wa) huruf sambung",
-        "makna_dasar": "dia (pronomina)",
-        "wazan_perubahan": "tidak ada (kata dasar)"
+        "akar_kata": "h-w-y",
+        "makna_dasar": "menjadi",
+        "wazan_perubahan": "kata ganti"
       },
       "nahwu": {
-        "kedudukan": "Huruf وَ menghubungkan ayat ini dengan sebelumnya; Isim هوَ sebagai mubtada' (subjek) kalimat",
-        "irab_dan_logika": "wa – huruf عطف لا إعراب له؛ huwa – مرفوع بالضمة لأنه اسم مرفوع"
+        "kedudukan": "subyek",
+        "irab_dan_logika": "mubtada"
       },
-      "hikmah": "Menegaskan bahwa Allah‑lah yang dimaksud, menambah kesinambungan dengan ayat‑ayat sebelumnya.",
+      "hikmah": "menunjuk pada Allah SWT sebagai subyek kalimat",
       "role": "none"
     },
     {
       "index": 1,
-      "kata_arab": "ٱلَّذِى",
-      "transliterasi": "alladhī",
-      "jenis_kata": "Isim (isim al‑mawsūl)",
+      "kata_arab": "ٱلَّذِي",
+      "transliterasi": "alladhi",
+      "jenis_kata": "kata sambung",
       "arti": "yang",
       "sharaf": {
-        "akar_kata": "ل-ذ-ى",
-        "makna_dasar": "yang, siapa",
-        "wazan_perubahan": "اسم موصول"
+        "akar_kata": "l-dh-y",
+        "makna_dasar": "menunjuk",
+        "wazan_perubahan": "kata sambung"
       },
       "nahwu": {
-        "kedudukan": "اسم موصول في موقع الفاعل للفعل سَخَّرَ",
-        "irab_dan_logika": "مرفوع بالضمة لأنه اسم مرفوع في محل رفع الفاعل"
+        "kedudukan": "kata sambung",
+        "irab_dan_logika": "mudhaf ilaih"
       },
-      "hikmah": "Menunjuk kepada Allah sebagai zat yang menundukkan laut, memberi penekanan pada sifat‑sifat-Nya.",
+      "hikmah": "menunjuk pada sifat atau atribut Allah SWT",
       "role": "none"
     },
     {
       "index": 2,
-      "kata_arab": "سَخَّرَ",
-      "transliterasi": "sakhkhara",
-      "jenis_kata": "Fiʻl (verb)",
+      "kata_arab": "سَخَّرَ",
+      "transliterasi": "sakhkharo",
+      "jenis_kata": "kata kerja",
       "arti": "menundukkan",
       "sharaf": {
-        "akar_kata": "خ-ر-ر",
-        "makna_dasar": "menundukkan, menjadikan patuh",
-        "wazan_perubahan": "فَعَّلَ (form I)"
+        "akar_kata": "s-kh-r",
+        "makna_dasar": "menundukkan",
+        "wazan_perubahan": "kata kerja aktif"
       },
       "nahwu": {
-        "kedudukan": "فعل ماضٍ ثلاثي مجرد",
-        "irab_dan_logika": "مرفوع بالضمة لأنه فعل ماضٍ"
+        "kedudukan": "predikat",
+        "irab_dan_logika": "fi'il madhi"
       },
-      "hikmah": "Allah menundukkan laut agar dapat dimanfaatkan manusia, menegaskan kekuasaan-Nya atas alam.",
+      "hikmah": "menunjuk pada tindakan Allah SWT menundukkan lautan",
       "role": "none"
     },
     {
       "index": 3,
-      "kata_arab": "ٱلْبَحْرَ",
-      "transliterasi": "al‑baḥra",
-      "jenis_kata": "Isim (noun)",
-      "arti": "laut",
+      "kata_arab": "ٱلۡبَحۡرَ",
+      "transliterasi": "al-bahro",
+      "jenis_kata": "kata benda",
+      "arti": "lautan",
       "sharaf": {
-        "akar_kata": "ب-ح-ر",
-        "makna_dasar": "laut, samudra",
-        "wazan_perubahan": "مفعول به من الفعل سَخَّرَ"
+        "akar_kata": "b-h-r",
+        "makna_dasar": "lautan",
+        "wazan_perubahan": "kata benda"
       },
       "nahwu": {
-        "kedudukan": "مفعول به للفعل سَخَّرَ",
-        "irab_dan_logika": "منصوب بالفتحة لأنه مفعول به"
+        "kedudukan": "obyek",
+        "irab_dan_logika": "maf'ul bih"
       },
-      "hikmah": "Laut menjadi objek kebesaran Allah yang ditundukkan untuk kepentingan manusia.",
+      "hikmah": "menunjuk pada lautan yang ditundukkan oleh Allah SWT",
       "role": "none"
     },
     {
       "index": 4,
-      "kata_arab": "لِتَأْكُلُوا۟",
-      "transliterasi": "li‑taʾkulu",
-      "jenis_kata": "Fiʻl (verb) dengan حرف لِغَرض",
+      "kata_arab": "لِتَأۡكُلُواْ",
+      "transliterasi": "lita'kulu",
+      "jenis_kata": "kata kerja",
       "arti": "agar kamu makan",
       "sharaf": {
-        "akar_kata": "ك-ل-ل",
+        "akar_kata": "a-k-l",
         "makna_dasar": "makan",
-        "wazan_perubahan": "فَعَلَ (form I)"
+        "wazan_perubahan": "kata kerja pasif"
       },
       "nahwu": {
-        "kedudukan": "فعل مضارع مجزوم بحرف النصب لِغَرض (purpose)",
-        "irab_dan_logika": "مجزوم بالسكون لأن لِغَرض تُنصب الفعل"
+        "kedudukan": "tujuan",
+        "irab_dan_logika": "maf'ul lah"
       },
-      "hikmah": "Menunjukkan tujuan penundukan laut: memberi kesempatan bagi manusia untuk memakan isinya.",
+      "hikmah": "menunjuk pada tujuan Allah SWT menundukkan lautan, yaitu agar manusia dapat memakan hasilnya",
       "role": "none"
     },
     {
       "index": 5,
-      "kata_arab": "مِنْهُ",
+      "kata_arab": "مِنۡهُ",
       "transliterasi": "minhu",
-      "jenis_kata": "Huruf (preposisi) + Isim (pronoun)",
-      "arti": "dari‑Nya",
+      "jenis_kata": "kata sambung",
+      "arti": "darinya",
       "sharaf": {
-        "akar_kata": "م-ن (min) – حرف جر; ه-و-ا (hu) – pronomina",
-        "makna_dasar": "dari (preposisi) + dia (pronomina)",
-        "wazan_perubahan": "tidak ada (kata dasar)"
+        "akar_kata": "m-n",
+        "makna_dasar": "dari",
+        "wazan_perubahan": "kata sambung"
       },
       "nahwu": {
-        "kedudukan": "حرف جر ومجرور به",
-        "irab_dan_logika": "من حرف جر، وهو مجرور بالكسر لأنه اسم مجرور بحرف الجر"
+        "kedudukan": "kata sambung",
+        "irab_dan_logika": "mudhaf ilaih"
       },
-      "hikmah": "Menegaskan bahwa semua manfaat laut berasal dari Allah.",
+      "hikmah": "menunjuk pada sumber atau asal makanan yang dimaksud, yaitu lautan",
       "role": "none"
     },
     {
       "index": 6,
-      "kata_arab": "لَحْمًۭا",
-      "transliterasi": "laḥman",
-      "jenis_kata": "Isim",
+      "kata_arab": "لَحۡمࣰ",
+      "transliterasi": "lahm",
+      "jenis_kata": "nomina",
       "arti": "daging",
       "sharaf": {
         "akar_kata": "ل-ح-م",
-        "makna_dasar": "daging",
-        "wazan_perubahan": "فَعْل"
+        "makna_dasar": "daging atau sesuatu yang dapat dimakan",
+        "wazan_perubahan": "fi'il madi"
       },
       "nahwu": {
-        "kedudukan": "objek (mansub) dari fi'il \"تَأْكُلُونَ\"",
-        "irab_dan_logika": "diberi tanwin fatha karena berfungsi sebagai maf‘ul mutlaq"
+        "kedudukan": "maf'ul bih",
+        "irab_dan_logika": "objek dari kalimat"
       },
-      "hikmah": "Menunjukkan karunia Allah berupa makanan laut yang dapat dimakan sebagai daging segar",
+      "hikmah": "daging yang segar (ikan) dari lautan",
       "role": "none"
     },
     {
       "index": 7,
-      "kata_arab": "طَرِيًّۭا",
-      "transliterasi": "ṭarīyan",
-      "jenis_kata": "Isim",
-      "arti": "segar, lembut",
-      "sharaf": {
-        "akar_kata": "ط-ر-ي",
-        "makna_dasar": "lembut, segar",
-        "wazan_perubahan": "فَعِيّ"
-      },
-      "nahwu": {
-        "kedudukan": "na‘t (sifat) yang menerangkan لَحْمًا",
-        "irab_dan_logika": "mansub karena menyesuaikan dengan maf‘ul mutlaq sebelumnya"
-      },
-      "hikmah": "Menegaskan kualitas daging laut yang diberikan Allah, yaitu segar dan lezat",
-      "role": "none"
-    },
-    {
-      "index": 8,
-      "kata_arab": "وَتَسْتَخْرِجُوا۟",
-      "transliterasi": "wa-tastakhrijū",
-      "jenis_kata": "Fi'il",
-      "arti": "dan kamu mengeluarkan",
-      "sharaf": {
-        "akar_kata": "خ-ر-ج",
-        "makna_dasar": "keluar, mengeluarkan",
-        "wazan_perubahan": "استَفْعَل (form X)"
-      },
-      "nahwu": {
-        "kedudukan": "fi'il mudhari‘ majzum (imperatif/ajakan) dengan huruf wa sebagai sambung",
-        "irab_dan_logika": "berharakat dhammah pada akhir karena bentuk mudhari‘ majzum"
-      },
-      "hikmah": "Mengajak manusia memanfaatkan laut tidak hanya untuk makan, tetapi juga untuk mengekstrak barang berharga",
-      "role": "none"
-    },
-    {
-      "index": 9,
-      "kata_arab": "مِنْهُ",
-      "transliterasi": "minhu",
-      "jenis_kata": "Huruf",
-      "arti": "dari‑nya",
-      "sharaf": {
-        "akar_kata": "م-ن",
-        "makna_dasar": "dari",
-        "wazan_perubahan": "حرف جر"
-      },
-      "nahwu": {
-        "kedudukan": "jar (majrur) sebagai pelengkap fi'il \"تَسْتَخْرِجُوا\"",
-        "irab_dan_logika": "berkasrah karena huruf jar"
-      },
-      "hikmah": "Menunjukkan sumber barang yang diekstrak, yaitu laut itu sendiri",
-      "role": "none"
-    },
-    {
-      "index": 10,
-      "kata_arab": "حِلْيَةًۭ",
-      "transliterasi": "ḥilyatan",
-      "jenis_kata": "Isim",
-      "arti": "perhiasan, hiasan",
-      "sharaf": {
-        "akar_kata": "ح-ل-ي",
-        "makna_dasar": "hias, perhiasan",
-        "wazan_perubahan": "فِعْلَة"
-      },
-      "nahwu": {
-        "kedudukan": "objek (mansub) dari fi'il \"تَسْتَخْرِجُوا\"",
-        "irab_dan_logika": "diberi tanwin fatha karena berfungsi sebagai maf‘ul mutlaq"
-      },
-      "hikmah": "Menunjukkan bahwa laut memberi manusia barang berharga yang dapat dijadikan perhiasan",
-      "role": "none"
-    },
-    {
-      "index": 11,
-      "kata_arab": "تَلْبَسُونَهَا",
-      "transliterasi": "talbasūnahā",
-      "jenis_kata": "Fi'il",
-      "arti": "kamu memakainya",
-      "sharaf": {
-        "akar_kata": "ل-ب-س",
-        "makna_dasar": "memakai, mengenakan",
-        "wazan_perubahan": "فَعَل (form I)"
-      },
-      "nahwu": {
-        "kedudukan": "fi'il mudhari‘ majzum (imperatif) dengan dhammah pada alif akhir, subjek orang kedua jamak, objeknya ضمير \"ها\" (nya)",
-        "irab_dan_logika": "berharakat dhammah karena bentuk mudhari‘ majzum, ضمير \"ها\" berkasrah sebagai maf‘ul bihi"
-      },
-      "hikmah": "Menegaskan tujuan manusia mengekstrak perhiasan: untuk dipakai sebagai hiasan, menambah keindahan ciptaan Allah",
-      "role": "none"
-    },
-    {
-      "index": 12,
-      "kata_arab": "وَتَرَى",
-      "transliterasi": "wa‑tarā",
-      "jenis_kata": "Fi'il (kata kerja) dengan huruf wa",
-      "arti": "dan (kamu) melihat",
-      "sharaf": {
-        "akar_kata": "ر‑أ‑ى",
-        "makna_dasar": "melihat",
-        "wazan_perubahan": "فَعَلَ (faʿala)"
-      },
-      "nahwu": {
-        "kedudukan": "fi'il mudhari‘ (present) 2 mdk maskulin",
-        "irab_dan_logika": "مرفوع بالضمة الظاهرة لأن لا نون الوقاية ولا جزم"
-      },
-      "hikmah": "*Menunjukkan tindakan pengamatan manusia terhadap fenomena di laut*",
-      "role": "none"
-    },
-    {
-      "index": 13,
-      "kata_arab": "ٱلْفُلْكَ",
-      "transliterasi": "al‑fulka",
-      "jenis_kata": "Isim (kata benda) definitif",
-      "arti": "kapal",
-      "sharaf": {
-        "akar_kata": "ف‑ل‑ك",
-        "makna_dasar": "mengapung, meluncur",
-        "wazan_perubahan": "فُعْلَة (fuʿla)"
-      },
-      "nahwu": {
-        "kedudukan": "mubtada’ (subjek) مرفوع",
-        "irab_dan_logika": "مرفوع بالضمة لأنه مبتدأ"
-      },
-      "hikmah": "*Menegaskan keberadaan kapal sebagai bukti kekuasaan Allah*",
-      "role": "none"
-    },
-    {
-      "index": 14,
-      "kata_arab": "مَوَاخِرَ",
-      "transliterasi": "mawākhira",
-      "jenis_kata": "Isim (kata benda) jamak منصوب",
-      "arti": "tempat berlabuh, pelabuhan",
-      "sharaf": {
-        "akar_kata": "خ‑ر‑ر",
-        "makna_dasar": "tempat berlabuh, bersandar",
-        "wazan_perubahan": "مَفْعَل (mafʿal)"
-      },
-      "nahwu": {
-        "kedudukan": "maf‘ūl bih (objek) منصوب",
-        "irab_dan_logika": "منصوب بالفتحة لأنه مفعول به للفعل «ترى»"
-      },
-      "hikmah": "*Menunjukkan fungsi kapal sebagai sarana transportasi dan perdagangan*",
-      "role": "none"
-    },
-    {
-      "index": 15,
-      "kata_arab": "فِيهِ",
-      "transliterasi": "fīhi",
-      "jenis_kata": "Huruf (preposisi) + ضمير متصل",
-      "arti": "di dalamnya",
-      "sharaf": {
-        "akar_kata": "في",
-        "makna_dasar": "di dalam, pada",
-        "wazan_perubahan": "حرف جر"
-      },
-      "nahwu": {
-        "kedudukan": "ḥarf jar مبني على السكون مع الضمير المتصل في محل جر",
-        "irab_dan_logika": "جر لأنه حرف جر"
-      },
-      "hikmah": "*Menunjukkan lokasi kapal berlabuh berada di dalam laut*",
-      "role": "none"
-    },
-    {
-      "index": 16,
-      "kata_arab": "وَلِتَبْتَغُوا۟",
-      "transliterasi": "wa‑li‑tabtaghū",
-      "jenis_kata": "Fi'il mudhari‘ (present) dengan huruf li (preposisi)",
-      "arti": "dan supaya kamu mencari",
-      "sharaf": {
-        "akar_kata": "ب‑غ‑ى",
-        "makna_dasar": "mencari, menginginkan",
-        "wazan_perubahan": "فَعَلَ (faʿala)"
-      },
-      "nahwu": {
-        "kedudukan": "fi‘l mudhari‘ مجزوم بحرف الجر «li» (li‑tabtaghū)",
-        "irab_dan_logika": "مجزوم بالسكون على آخره لأن ما قبله حرف جر"
-      },
-      "hikmah": "*Menegaskan tujuan manusia menuntut rezeki dari karunia Allah*",
-      "role": "none"
-    },
-    {
-      "index": 17,
-      "kata_arab": "مِن",
-      "transliterasi": "min",
-      "jenis_kata": "Huruf (preposisi)",
-      "arti": "dari",
-      "sharaf": {
-        "akar_kata": "من",
-        "makna_dasar": "menunjuk asal atau sumber",
-        "wazan_perubahan": "حرف جر"
-      },
-      "nahwu": {
-        "kedudukan": "ḥarf jar مبني على السكون",
-        "irab_dan_logika": "حرف جر لا إعراب له"
-      },
-      "hikmah": "*Menandakan sumber (karunia) yang harus dicari oleh manusia*",
-      "role": "none"
-    },
-    {
-      "index": 18,
-      "kata_arab": "فَضْلِهِۦ",
-      "transliterasi": "faḍlihi",
-      "jenis_kata": "Isim",
-      "arti": "budi, karunia, keutamaan",
-      "sharaf": {
-        "akar_kata": "ف ض ل",
-        "makna_dasar": "kedermawanan, keutamaan, rahmat",
-        "wazan_perubahan": "فَعْل (faʿl) → فضْل"
-      },
-      "nahwu": {
-        "kedudukan": "Kata benda dalam iḍāfa **من فضله** (dari karunia-Nya)",
-        "irab_dan_logika": "Majrur (kasrah) karena berada di dalam iḍāfa; huruf **من** menuntut majrur, sehingga **فضْلِهِ** berkasrah"
-      },
-      "hikmah": "Menunjukkan bahwa Allah menundukkan lautan sebagai **karunia-Nya** yang melimpah, mengajak manusia menyadari betapa besar **budi** Allah kepada makhluk-Nya.",
-      "role": "none"
-    },
-    {
-      "index": 19,
-      "kata_arab": "وَلَعَلَّكُمْ",
-      "transliterasi": "wa laʿallakum",
-      "jenis_kata": "Huruf (wa + laʿalla) + ضمير متصل",
-      "arti": "dan semoga/kemungkinan kamu",
+      "kata_arab": "ا",
+      "transliterasi": "-",
+      "jenis_kata": "Huruf Tambahan",
+      "arti": "-",
       "sharaf": {
         "akar_kata": "-",
         "makna_dasar": "-",
         "wazan_perubahan": "-"
       },
       "nahwu": {
-        "kedudukan": "Penghubung (wa) + huruf **laʿalla** yang memperkenalkan ayat tujuan **tashkuroon**",
-        "irab_dan_logika": "**wa** sebagai huruf sambung tidak berirab; **laʿalla** huruf yang menandakan harapan/kemungkinan, diikuti oleh **kum** (dhamir muttasil) yang berfungsi sebagai objek bagi fi'il **tashkuroon**"
+        "kedudukan": "-",
+        "irab_dan_logika": "-"
       },
-      "hikmah": "Menyiratkan harapan Allah bahwa manusia **mungkin** akan bersyukur atas nikmat yang diberikan, sekaligus mengingatkan bahwa syukur bukan sekadar pilihan melainkan harapan Ilahi.",
+      "hikmah": "Huruf Alif tambahan (silent letter / tidak dibaca).",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "طَرِيࣰّ",
+      "transliterasi": "tariyy",
+      "jenis_kata": "nomina",
+      "arti": "yang segar",
+      "sharaf": {
+        "akar_kata": "ط-ر-ي",
+        "makna_dasar": "sesuatu yang baru atau segar",
+        "wazan_perubahan": "na'ib fi'il"
+      },
+      "nahwu": {
+        "kedudukan": "sifat",
+        "irab_dan_logika": "menerangkan kata لَحۡمࣰ"
+      },
+      "hikmah": "yang segar, menggambarkan kondisi daging (ikan) yang diperoleh dari lautan",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "ا",
+      "transliterasi": "-",
+      "jenis_kata": "Huruf Tambahan",
+      "arti": "-",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "-",
+        "irab_dan_logika": "-"
+      },
+      "hikmah": "Huruf Alif tambahan (silent letter / tidak dibaca).",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "وَتَسۡتَخۡرِجُواْ",
+      "transliterasi": "wa-tastakhrijū",
+      "jenis_kata": "fi'il",
+      "arti": "dan kamu mengeluarkan",
+      "sharaf": {
+        "akar_kata": "خ-ر-ج",
+        "makna_dasar": "mengeluarkan atau menarik keluar",
+        "wazan_perubahan": "fi'il mudhari'"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il",
+        "irab_dan_logika": "kalimat yang menjelaskan tindakan mengeluarkan perhiasan dari lautan"
+      },
+      "hikmah": "dan kamu mengeluarkan perhiasan dari lautan",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "مِنۡهُ",
+      "transliterasi": "minhu",
+      "jenis_kata": "jar",
+      "arti": "darinya",
+      "sharaf": {
+        "akar_kata": "م-ن",
+        "makna_dasar": "dari atau asal",
+        "wazan_perubahan": "huruf jar"
+      },
+      "nahwu": {
+        "kedudukan": "jar",
+        "irab_dan_logika": "menunjukkan asal atau sumber sesuatu"
+      },
+      "hikmah": "darinya, menunjukkan bahwa perhiasan dikeluarkan dari lautan",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "حِلۡيَة",
+      "transliterasi": "hilyah",
+      "jenis_kata": "benda",
+      "arti": "perhiasan",
+      "sharaf": {
+        "akar_kata": "ح-ل-ي",
+        "makna_dasar": "menghiasi",
+        "wazan_perubahan": "tafpil (menghiasi)"
+      },
+      "nahwu": {
+        "kedudukan": "maf'ul bih (objek)",
+        "irab_dan_logika": "perhiasan yang kamu pakai"
+      },
+      "hikmah": "Perhiasan yang dihasilkan dari lautan dan dipakai oleh manusia",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "تَلۡبَسُونَهَا",
+      "transliterasi": "talbasunaha",
+      "jenis_kata": "kata kerja",
+      "arti": "kamu mengenakan",
+      "sharaf": {
+        "akar_kata": "ل-ب-س",
+        "makna_dasar": "mengenakan",
+        "wazan_perubahan": "taf'ul (mengenakan)"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il (kata kerja)",
+        "irab_dan_logika": "kamu mengenakan perhiasan"
+      },
+      "hikmah": "Manusia mengenakan perhiasan yang dihasilkan dari lautan",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "وَتَرَى",
+      "transliterasi": "wa-tara",
+      "jenis_kata": "kata kerja",
+      "arti": "dan kamu melihat",
+      "sharaf": {
+        "akar_kata": "ر-أ-ي",
+        "makna_dasar": "melihat",
+        "wazan_perubahan": "taf'ul (melihat)"
+      },
+      "nahwu": {
+        "kedudukan": "fi'il (kata kerja)",
+        "irab_dan_logika": "kamu melihat perahu berlayar"
+      },
+      "hikmah": "Manusia melihat perahu berlayar di lautan",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "ٱلۡفُلۡكَ",
+      "transliterasi": "al-fulk",
+      "jenis_kata": "benda",
+      "arti": "perahu",
+      "sharaf": {
+        "akar_kata": "ف-ل-ك",
+        "makna_dasar": "mengapung",
+        "wazan_perubahan": "tafpil (mengapung)"
+      },
+      "nahwu": {
+        "kedudukan": "maf'ul bih (objek)",
+        "irab_dan_logika": "perahu yang berlayar"
+      },
+      "hikmah": "Perahu yang berlayar di lautan",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "مَوَاخِرَ",
+      "transliterasi": "mawakhira",
+      "jenis_kata": "kata sifat",
+      "arti": "berlayar",
+      "sharaf": {
+        "akar_kata": "و-خ-ر",
+        "makna_dasar": "berlayar",
+        "wazan_perubahan": "taf'ul (berlayar)"
+      },
+      "nahwu": {
+        "kedudukan": "sifat (kata sifat)",
+        "irab_dan_logika": "perahu yang berlayar"
+      },
+      "hikmah": "Perahu yang berlayar di lautan",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "فِيهِ",
+      "transliterasi": "fihi",
+      "jenis_kata": "kata depan",
+      "arti": "di dalamnya",
+      "sharaf": {
+        "akar_kata": "ف-ي",
+        "makna_dasar": "di dalam",
+        "wazan_perubahan": "kata depan"
+      },
+      "nahwu": {
+        "kedudukan": "kata depan",
+        "irab_dan_logika": "di dalam perahu"
+      },
+      "hikmah": "Perahu yang berlayar di lautan",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "وَلِتَبۡتَغُواْ",
+      "transliterasi": "wa li tabtaghū",
+      "jenis_kata": "Fi'il Mudhari' (Kata Kerja Sedang/Akan Datang)",
+      "arti": "dan agar kamu mencari",
+      "sharaf": {
+        "akar_kata": "ب - غ - ي (B-Gh-Y)",
+        "makna_dasar": "Mencari, menginginkan, atau menuntut.",
+        "wazan_perubahan": "Ifta'ala (ابتغى - يبتغي) yang bermakna usaha sungguh-sungguh untuk mendapatkan sesuatu."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Manshub",
+        "irab_dan_logika": "Manshub (nasab) karena didahului oleh Lam at-Ta'lil (huruf 'li' yang bermakna tujuan). Tanda nasabnya adalah hilangnya huruf Nun (hadzfu an-nun) karena merupakan bagian dari Af'alul Khamsah."
+      },
+      "hikmah": "Kata ini menunjukkan tujuan Allah menundukkan lautan agar manusia dapat berusaha mencari rezeki dan karunia-Nya melalui perdagangan atau sumber daya laut.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "مِن",
+      "transliterasi": "min",
+      "jenis_kata": "Harf Jar (Kata Depan)",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "Menunjukkan permulaan (ibtida') atau sebagian (tab'idh).",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Harf Jar",
+        "irab_dan_logika": "Berfungsi untuk men-jar-kan (memberi baris kasrah/tanda majrur) pada kata benda (isim) yang datang setelahnya."
+      },
+      "hikmah": "Dalam konteks ini, 'min' menunjukkan bahwa apa yang diperoleh manusia dari laut adalah sebagian kecil dari luasnya karunia Allah.",
       "role": "none"
     },
     {
       "index": 20,
-      "kata_arab": "تَشْكُرُونَ",
-      "transliterasi": "tashkuroona",
-      "jenis_kata": "Fi'il",
-      "arti": "kamu bersyukur",
+      "kata_arab": "فَضۡلِهِۦ",
+      "transliterasi": "faḍlihī",
+      "jenis_kata": "Isim (Kata Benda) + Dhamir (Kata Ganti)",
+      "arti": "karunia-Nya",
       "sharaf": {
-        "akar_kata": "ش ك ر",
-        "makna_dasar": "bersyukur, mengucapkan terima kasih",
-        "wazan_perubahan": "فَعَلَ (faʿala) → تَشْكُرُ"
+        "akar_kata": "ف - ض - ل (F-Dh-L)",
+        "makna_dasar": "Kelebihan, keutamaan, atau pemberian yang melebihi kewajiban.",
+        "wazan_perubahan": "Isim Masdar dari Faḍala - Yafḍulu."
       },
       "nahwu": {
-        "kedudukan": "Predikat (fi'il mudhari') dalam kalimat yang diawali **laʿalla**",
-        "irab_dan_logika": "Berharakat dammah pada alif akhir menandakan **mudhari'** (present/future) dengan subjek **kamu** (jamak) yang tersirat; **kum** pada kata sebelumnya adalah dhamir muttasil yang menjadi objek fi'il"
+        "kedudukan": "Majrur bi al-harf + Mudhaf Ilayh",
+        "irab_dan_logika": "Kata 'fadhli' majrur karena didahului 'min' (tanda kasrah). Akhiran '-hi' adalah dhamir muttasil (kata ganti bersambung) yang kembali kepada Allah, berkedudukan sebagai Mudhaf Ilayh."
       },
-      "hikmah": "Mengajak umat untuk **bersyukur** secara aktif atas segala karunia Allah, menegaskan bahwa syukur adalah respons yang diharapkan dari setiap manusia.",
+      "hikmah": "Menegaskan bahwa segala rezeki yang didapat dari laut, baik ikan maupun perhiasan, adalah murni pemberian dan keutamaan dari Allah SWT.",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "وَلَعَلَّكُمۡ",
+      "transliterasi": "wa la'allakum",
+      "jenis_kata": "Harf (Kata Tugas) + Dhamir (Kata Ganti)",
+      "arti": "dan agar kamu",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "La'alla digunakan untuk pengharapan (tarajji) terhadap sesuatu yang mungkin terjadi.",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Harf Nasikh + Isim La'alla",
+        "irab_dan_logika": "La'alla adalah saudara 'Inna' (nawasikh). Akhiran '-kum' (kamu sekalian) berkedudukan sebagai Isim La'alla dalam keadaan mahall nasab."
+      },
+      "hikmah": "Kata ini menunjukkan harapan dan tujuan akhir dari segala fasilitas alam semesta yang diberikan Allah, yaitu agar manusia mencapai derajat syukur.",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "تَشۡكُرُونَ",
+      "transliterasi": "tasykurūn",
+      "jenis_kata": "Fi'il Mudhari' (Kata Kerja Sedang/Akan Datang)",
+      "arti": "kamu bersyukur",
+      "sharaf": {
+        "akar_kata": "ش - ك - ر (Sh-K-R)",
+        "makna_dasar": "Pujian kepada pemberi nikmat atas kebaikannya; mengakui nikmat.",
+        "wazan_perubahan": "Fa'ala - Yaf'ulu (شكر - يشكر)."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Marfu' (Khabar La'alla)",
+        "irab_dan_logika": "Marfu' dengan tanda tetapnya huruf Nun (thubutun nun) karena merupakan Af'alul Khamsah. Wawu al-jama'ah di dalamnya berfungsi sebagai Fa'il (subjek/pelaku)."
+      },
+      "hikmah": "Menjadi penutup ayat yang menekankan bahwa tujuan puncak dari penciptaan laut dan segala isinya adalah agar manusia menyadari nikmat tersebut dan berterima kasih kepada Penciptanya.",
       "role": "none"
     }
   ]

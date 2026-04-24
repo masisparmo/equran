@@ -4,110 +4,110 @@
   "words": [
     {
       "index": 0,
-      "kata_arab": "وَٱللَّهُ",
-      "transliterasi": "wa-Allah",
-      "jenis_kata": "Isim (nama Allah) dengan huruf \"wa\"",
-      "arti": "dan Allah",
+      "kata_arab": "وَٱللَّهُ",
+      "transliterasi": "wa-llāhu",
+      "jenis_kata": "nama diri",
+      "arti": "Allah",
       "sharaf": {
         "akar_kata": "ل ه",
-        "makna_dasar": "Allah (Tuhan Yang Maha Esa)",
-        "wazan_perubahan": "laf‘ul"
+        "makna_dasar": "kehendak, kekuatan",
+        "wazan_perubahan": "bentuk mufrod (tunggal)"
       },
       "nahwu": {
-        "kedudukan": "Mubtada' (subjek) dalam kalimat",
-        "irab_dan_logika": "Marfu' dengan dhammah (ـُ) karena merupakan mubtada'"
+        "kedudukan": "fā'il (subyek)",
+        "irab_dan_logika": "mubtada' (subyek kalimat)"
       },
-      "hikmah": "Allah adalah subjek yang mengetahui segala sesuatu, menegaskan keagungan-Nya dalam ilmu",
+      "hikmah": "Allah sebagai subyek kalimat yang mengetahui",
       "role": "none"
     },
     {
       "index": 1,
-      "kata_arab": "يَعْلَمُ",
-      "transliterasi": "ya'lamu",
-      "jenis_kata": "Fi'il (fi'il mudhari')",
+      "kata_arab": "يَعۡلَمُ",
+      "transliterasi": "yaʿlamu",
+      "jenis_kata": "kata kerja",
       "arti": "mengetahui",
       "sharaf": {
         "akar_kata": "ع ل م",
-        "makna_dasar": "ilmu, pengetahuan",
-        "wazan_perubahan": "fa‘ala"
+        "makna_dasar": "mengetahui, memahami",
+        "wazan_perubahan": "bentuk mudhari' (kata kerja yang sedang berlangsung)"
       },
       "nahwu": {
-        "kedudukan": "Khabar (predikat) setelah mubtada'",
-        "irab_dan_logika": "Marfu' dengan dhammah (ـُ) karena fi'il mudhari'"
+        "kedudukan": "khabar (predikat)",
+        "irab_dan_logika": "kata kerja yang menggambarkan tindakan subyek"
       },
-      "hikmah": "Allah Maha Mengetahui, tidak ada yang tersembunyi darinya",
+      "hikmah": "Allah mengetahui sesuatu",
       "role": "none"
     },
     {
       "index": 2,
       "kata_arab": "مَا",
-      "transliterasi": "ma",
-      "jenis_kata": "Harf (isim ma)",
+      "transliterasi": "mā",
+      "jenis_kata": "kata tanya",
       "arti": "apa",
       "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "kata tanya/penunjuk",
-        "wazan_perubahan": ""
+        "akar_kata": "م ا",
+        "makna_dasar": "pertanyaan",
+        "wazan_perubahan": "bentuk mufrod (tunggal)"
       },
       "nahwu": {
-        "kedudukan": "Maf'ul (objek) dari fi'il \"ya'lamu\"",
-        "irab_dan_logika": "Mansub dengan kasrah (ـِ) karena berfungsi sebagai maf'ul"
+        "kedudukan": "mafʿūl bih (objek)",
+        "irab_dan_logika": "kata tanya yang meminta informasi"
       },
-      "hikmah": "Menunjuk pada segala hal yang disembunyikan manusia",
+      "hikmah": "sesuatu yang diketahui oleh Allah",
       "role": "none"
     },
     {
       "index": 3,
-      "kata_arab": "تُسِرُّونَ",
-      "transliterasi": "tusirruuna",
-      "jenis_kata": "Fi'il (fi'il mudhari')",
-      "arti": "kamu menyembunyikan",
+      "kata_arab": "تُسِرُّونَ",
+      "transliterasi": "tusirrūna",
+      "jenis_kata": "kata kerja",
+      "arti": "kamu merahasiakan",
       "sharaf": {
         "akar_kata": "س ر ر",
-        "makna_dasar": "rahasia, menyembunyikan",
-        "wazan_perubahan": "taf‘il"
+        "makna_dasar": "merahasiakan, menyembunyikan",
+        "wazan_perubahan": "bentuk mudhari' (kata kerja yang sedang berlangsung) dengan imbuhan ta- dan sufiks -ūna"
       },
       "nahwu": {
-        "kedudukan": "Fi'il mudhari' yang memberi makna pada maf'ul sebelumnya",
-        "irab_dan_logika": "Marfu' dengan dhammah (ـُ) karena fi'il mudhari'"
+        "kedudukan": "khabar (predikat)",
+        "irab_dan_logika": "kata kerja yang menggambarkan tindakan subyek"
       },
-      "hikmah": "Allah mengetahui apa yang kamu rahasiakan dalam hati",
+      "hikmah": "kamu merahasiakan sesuatu",
       "role": "none"
     },
     {
       "index": 4,
       "kata_arab": "وَمَا",
-      "transliterasi": "wa ma",
-      "jenis_kata": "Harf (wa + ma)",
+      "transliterasi": "wa-mā",
+      "jenis_kata": "kata sambung dan kata tanya",
       "arti": "dan apa",
       "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "kata sambung + penunjuk",
-        "wazan_perubahan": ""
+        "akar_kata": "م ا",
+        "makna_dasar": "pertanyaan",
+        "wazan_perubahan": "bentuk mufrod (tunggal) dengan kata sambung wa-"
       },
       "nahwu": {
-        "kedudukan": "Penghubung antara dua objek (ma pertama dan ma kedua)",
-        "irab_dan_logika": "Mansub karena berfungsi sebagai maf'ul bagi fi'il berikutnya"
+        "kedudukan": "mafʿūl bih (objek)",
+        "irab_dan_logika": "kata tanya yang meminta informasi dan menghubungkan dengan kalimat sebelumnya"
       },
-      "hikmah": "Menegaskan bahwa selain yang disembunyikan, Allah juga mengetahui apa yang diumumkan",
+      "hikmah": "dan sesuatu yang kamu tampakkan",
       "role": "none"
     },
     {
       "index": 5,
-      "kata_arab": "تُعْلِنُونَ",
-      "transliterasi": "tu'linuuna",
-      "jenis_kata": "Fi'il (fi'il mudhari')",
-      "arti": "kamu mengumumkan",
+      "kata_arab": "تُعۡلِنُونَ",
+      "transliterasi": "tuʿlinūna",
+      "jenis_kata": "kata kerja",
+      "arti": "kamu menampakkan",
       "sharaf": {
         "akar_kata": "ع ل ن",
-        "makna_dasar": "pengumuman, menyatakan secara terbuka",
-        "wazan_perubahan": "taf‘il"
+        "makna_dasar": "menampakkan, menyatakan",
+        "wazan_perubahan": "bentuk mudhari' (kata kerja yang sedang berlangsung) dengan imbuhan ta- dan sufiks -ūna"
       },
       "nahwu": {
-        "kedudukan": "Fi'il mudhari' yang melengkapi maf'ul \"ma\" kedua",
-        "irab_dan_logika": "Marfu' dengan dhammah (ـُ) karena fi'il mudhari'"
+        "kedudukan": "khabar (predikat)",
+        "irab_dan_logika": "kata kerja yang menggambarkan tindakan subyek"
       },
-      "hikmah": "Tidak ada yang luput; Allah mengetahui pula apa yang kamu nyatakan secara terbuka",
+      "hikmah": "kamu menampakkan sesuatu",
       "role": "none"
     }
   ]

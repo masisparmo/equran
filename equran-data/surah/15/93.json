@@ -4,56 +4,56 @@
   "words": [
     {
       "index": 0,
-      "kata_arab": "عَمَّا",
-      "transliterasi": "ʿammā",
-      "jenis_kata": "Huruf",
-      "arti": "tentang apa",
+      "kata_arab": "عَمَّا",
+      "transliterasi": "‘Amma",
+      "jenis_kata": "Harf Jarr & Isim Mawshul",
+      "arti": "tentang apa yang",
       "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "tentang apa",
-        "wazan_perubahan": ""
+        "akar_kata": "عن + ما",
+        "makna_dasar": "Perpaduan antara kata depan 'an (tentang) dan kata ganti penghubung ma (apa/sesuatu)",
+        "wazan_perubahan": "Idgham (peleburan nun mati ke dalam mim)"
       },
       "nahwu": {
-        "kedudukan": "Huruf jar yang memperkenalkan objek dalam kalimat",
-        "irab_dan_logika": "مجرور (kasrah) karena merupakan huruf yang menghubungkan dengan kata berikutnya"
+        "kedudukan": "Jar wa Majrur",
+        "irab_dan_logika": "Kata 'an adalah huruf jarr yang berfungsi menjarkan kata setelahnya, sedangkan 'ma' adalah isim mawshul yang menempati posisi majrur."
       },
-      "hikmah": "*عَمَّا* menandakan bahwa apa yang dibicarakan adalah hal‑hal yang mereka lakukan sebelumnya.",
+      "hikmah": "Kata ini merujuk pada objek atau seluruh perbuatan yang akan dimintai pertanggungjawaban di akhirat kelak.",
       "role": "none"
     },
     {
       "index": 1,
-      "kata_arab": "كَانُوا۟",
-      "transliterasi": "kānū",
-      "jenis_kata": "Fi'il",
-      "arti": "mereka adalah / mereka telah menjadi",
+      "kata_arab": "كَانُواْ",
+      "transliterasi": "Kānū",
+      "jenis_kata": "Fi'il Madhi Naqis",
+      "arti": "adalah mereka / dahulu mereka",
       "sharaf": {
-        "akar_kata": "ك و ن",
-        "makna_dasar": "menjadi, ada",
-        "wazan_perubahan": "hollow verb (faʿala)"
+        "akar_kata": "k-w-n (كون)",
+        "makna_dasar": "Menunjukkan keberadaan atau keadaan di masa lampau",
+        "wazan_perubahan": "Fa'ala (فَعَلَ) dengan tambahan Wawu Jama'ah"
       },
       "nahwu": {
-        "kedudukan": "Predikat (fi'il) dalam kalimat nominal",
-        "irab_dan_logika": "مرفوع (dhammah) karena merupakan fi'il madhi"
+        "kedudukan": "Fi'il Madhi Naqis",
+        "irab_dan_logika": "Berfungsi sebagai kata kerja bantu yang membutuhkan isim (subjek) dan khabar (predikat). Wawu di akhirnya adalah isim kana (subjek)."
       },
-      "hikmah": "*كَانُوا* menyatakan keberadaan atau keadaan mereka pada masa lalu.",
+      "hikmah": "Penggunaan fi'il madhi di sini menegaskan bahwa perbuatan tersebut benar-benar telah terjadi secara konsisten di masa lalu (dunia).",
       "role": "none"
     },
     {
       "index": 2,
-      "kata_arab": "يَعْمَلُونَ",
-      "transliterasi": "yaʿmalūna",
-      "jenis_kata": "Fi'il",
-      "arti": "mereka mengerjakan",
+      "kata_arab": "يَعۡمَلُونَ",
+      "transliterasi": "Ya'malūn",
+      "jenis_kata": "Fi'il Mudhari'",
+      "arti": "mereka kerjakan / mereka lakukan",
       "sharaf": {
-        "akar_kata": "ع م ل",
-        "makna_dasar": "bekerja, melakukan",
-        "wazan_perubahan": "form I (faʿala)"
+        "akar_kata": "-m-l (عمل)",
+        "makna_dasar": "Melakukan suatu pekerjaan atau aktivitas dengan sengaja",
+        "wazan_perubahan": "Yaf'alūna (يَفْعَلُوْنَ)"
       },
       "nahwu": {
-        "kedudukan": "Predikat (fi'il) yang menjadi bagian dari kalimat setelah *kānū*",
-        "irab_dan_logika": "منصوب (nasb) karena menjadi predikat dari *kānū*"
+        "kedudukan": "Khabar Kana",
+        "irab_dan_logika": "Fi'il mudhari' marfu' dengan tanda tetapnya nun (thubutun nun). Secara struktur kalimat, ia menjadi predikat (khabar) bagi kata 'kanu'."
       },
-      "hikmah": "*يَعْمَلُونَ* menegaskan perbuatan yang telah mereka lakukan sebelumnya, menambah penekanan pada tindakan mereka.",
+      "hikmah": "Bentuk mudhari' (sedang/akan) setelah 'kana' (dahulu) menunjukkan bahwa perbuatan tersebut dilakukan secara berulang-ulang atau menjadi kebiasaan mereka.",
       "role": "none"
     }
   ]

@@ -1,0 +1,456 @@
+{
+  "surah": 16,
+  "ayah": 69,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "ثُمَّ",
+      "transliterasi": "thumma",
+      "jenis_kata": "Harf 'Athaf (Kata Sambung)",
+      "arti": "kemudian",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "Urutan dengan jeda waktu (tarakhi)",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Harf 'Athaf",
+        "irab_dan_logika": "Mabni 'alal fathi. Berfungsi menghubungkan kalimat perintah sebelumnya (membangun sarang) dengan perintah berikutnya (mencari makan) dengan adanya jeda waktu."
+      },
+      "hikmah": "Menunjukkan adanya tahapan logis dalam kehidupan lebah: setelah memiliki tempat tinggal (sarang), barulah mereka diperintahkan mencari makan.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "كُلِي",
+      "transliterasi": "kulī",
+      "jenis_kata": "Fi'il Amr (Kata Kerja Perintah)",
+      "arti": "makanlah (kamu perempuan)",
+      "sharaf": {
+        "akar_kata": "أ ك ل (A-K-L)",
+        "makna_dasar": "Mengonsumsi atau memakan",
+        "wazan_perubahan": "Fi'il Amr untuk Muannats Mukhatabah (orang kedua tunggal perempuan)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Amr",
+        "irab_dan_logika": "Mabni 'ala hadzfin nun (penghilangan huruf nun) karena bersambung dengan Ya' al-Mukhatabah sebagai Fa'il (subjek)."
+      },
+      "hikmah": "Perintah Allah kepada lebah untuk mengonsumsi nektar. Penggunaan bentuk feminin (Muannats) sesuai dengan fakta biologis bahwa lebah pekerja yang mencari makan adalah betina.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "مِن",
+      "transliterasi": "min",
+      "jenis_kata": "Harf Jar (Kata Depan)",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "Menunjukkan asal atau sebagian (tab'idh)",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Harf Jar",
+        "irab_dan_logika": "Mabni 'alas sukun. Berfungsi menjarkan (memberi harakat kasrah) pada kata setelahnya."
+      },
+      "hikmah": "Dalam konteks ini bermakna 'tab'idh' (sebagian), karena lebah tidak memakan seluruh bagian buah/bunga, melainkan hanya mengambil sarinya (nektar).",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "كُلِّ",
+      "transliterasi": "kulli",
+      "jenis_kata": "Isim (Kata Benda)",
+      "arti": "segala / setiap",
+      "sharaf": {
+        "akar_kata": "ك ل ل (K-L-L)",
+        "makna_dasar": "Keseluruhan atau cakupan luas",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Majrur bi 'min' dan Mudhaf",
+        "irab_dan_logika": "Majrur dengan tanda kasrah karena didahului harf jar 'min'."
+      },
+      "hikmah": "Menunjukkan keanekaragaman sumber makanan lebah yang sangat luas, mencakup berbagai jenis bunga dan buah-buahan di alam.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "ٱلثَّمَرَٰتِ",
+      "transliterasi": "ath-thamarāt",
+      "jenis_kata": "Isim (Jamak Muannats Salim)",
+      "arti": "buah-buahan",
+      "sharaf": {
+        "akar_kata": "ث م ر (Th-M-R)",
+        "makna_dasar": "Hasil dari tanaman atau pohon",
+        "wazan_perubahan": "Jamak dari kata 'tsamarah'"
+      },
+      "nahwu": {
+        "kedudukan": "Mudhaf Ilaih",
+        "irab_dan_logika": "Majrur dengan tanda kasrah karena berkedudukan sebagai Mudhaf Ilaih dari kata 'kulli'."
+      },
+      "hikmah": "Merujuk pada segala jenis hasil tumbuhan yang menjadi sumber nektar bagi lebah untuk diproses menjadi madu.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "فَٱسۡلُكِي",
+      "transliterasi": "faslukī",
+      "jenis_kata": "Fi'il Amr + Fa (Kata Kerja Perintah + Maka)",
+      "arti": "maka tempuhlah (kamu perempuan)",
+      "sharaf": {
+        "akar_kata": "س ل ك (S-L-K)",
+        "makna_dasar": "Menempuh jalan atau masuk ke dalam sesuatu",
+        "wazan_perubahan": "Fi'il Amr untuk Muannats Mukhatabah"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Amr yang di-athaf-kan",
+        "irab_dan_logika": "Mabni 'ala hadzfin nun. Huruf 'Fa' di awal adalah Fa Sababiyah/Athaf yang menunjukkan urutan langsung setelah makan."
+      },
+      "hikmah": "Perintah bagi lebah untuk menempuh jalan-jalan yang telah Allah mudahkan baginya, baik jalan menuju sumber makanan maupun jalan kembali ke sarang dengan navigasi yang akurat.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "سُبُلَ",
+      "transliterasi": "subula",
+      "jenis_kata": "Isim (Kata Benda)",
+      "arti": "jalan-jalan",
+      "sharaf": {
+        "akar_kata": "s-b-l (س ب ل)",
+        "makna_dasar": "jalan atau lintasan",
+        "wazan_perubahan": "Fu'ul (Jamak Taksir dari Sabil)"
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul Bih (Objek)",
+        "irab_dan_logika": "Mansub dengan tanda fathah. Merupakan objek dari kata kerja 'usluki' (tempuhlah), menunjukkan apa yang harus dilalui oleh lebah."
+      },
+      "hikmah": "Merujuk pada berbagai rute atau jalur yang ditempuh lebah untuk mencari nektar dan kembali ke sarang.",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "رَبِّكِ",
+      "transliterasi": "rabbiki",
+      "jenis_kata": "Isim + Dhamir (Kata Benda + Kata Ganti)",
+      "arti": "Tuhanmu (perempuan)",
+      "sharaf": {
+        "akar_kata": "r-b-b (ر ب ب)",
+        "makna_dasar": "Pemelihara, Pengatur, Pemilik",
+        "wazan_perubahan": "Isim Jamid (Asal)"
+      },
+      "nahwu": {
+        "kedudukan": "Mudhaf Ilaih",
+        "irab_dan_logika": "Majrur dengan tanda kasrah. Akhiran 'ki' adalah dhamir muttashil muannats (kata ganti perempuan tunggal) yang merujuk kepada lebah."
+      },
+      "hikmah": "Menegaskan bahwa jalan yang ditempuh lebah adalah atas bimbingan dan pengaturan Allah sebagai Penciptanya.",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "ذُلُلࣰ",
+      "transliterasi": "dhululan",
+      "jenis_kata": "Isim Shifah (Kata Sifat)",
+      "arti": "yang dimudahkan / patuh",
+      "sharaf": {
+        "akar_kata": "dh-l-l (ذ ل ل)",
+        "makna_dasar": "kerendahan hati, kemudahan, ketundukan",
+        "wazan_perubahan": "Fu'ul (Sifat Musyabbahah)"
+      },
+      "nahwu": {
+        "kedudukan": "Hal (Keterangan Keadaan)",
+        "irab_dan_logika": "Mansub dengan tanda fathah. Menjelaskan keadaan jalan (subula) yang telah dimudahkan Allah atau keadaan lebah yang tunduk pada perintah-Nya."
+      },
+      "hikmah": "Menunjukkan bahwa medan yang sulit sekalipun telah dijadikan mudah bagi lebah untuk menjalankan tugasnya.",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "اۚ",
+      "transliterasi": "alif",
+      "jenis_kata": "Harf (Huruf Orthografi)",
+      "arti": "Alif Tanwin / Tanda Waqaf",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "Pelengkap penulisan tanwin fathah",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Pelengkap Rasm",
+        "irab_dan_logika": "Secara gramatikal mengikuti kata sebelumnya (dhululan). Tanda jim di atasnya adalah tanda waqaf jaiz (boleh berhenti)."
+      },
+      "hikmah": "Berfungsi sebagai penanda bacaan dan akhir dari fragmen perintah kepada lebah sebelum beralih ke penjelasan hasil (madu).",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "يَخۡرُجُ",
+      "transliterasi": "yakhruju",
+      "jenis_kata": "Fi'il Mudhari' (Kata Kerja Sekarang/Akan Datang)",
+      "arti": "keluar",
+      "sharaf": {
+        "akar_kata": "kh-r-j (خ ر ج)",
+        "makna_dasar": "keluar atau muncul",
+        "wazan_perubahan": "Yaf'ulu (Fi'il Mudhari' Mujarrad)"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il (Kata Kerja)",
+        "irab_dan_logika": "Marfu' dengan tanda dhammah karena tidak didahului amil nashab atau jazam. Pelakunya (fa'il) adalah 'syarabun' (minuman/madu)."
+      },
+      "hikmah": "Menggambarkan proses biologis yang terjadi secara berkelanjutan di mana madu diproduksi dari dalam tubuh lebah.",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "مِنۢ",
+      "transliterasi": "min",
+      "jenis_kata": "Harf Jar (Kata Depan)",
+      "arti": "dari",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "permulaan (ibtida') atau asal",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Harf Jar",
+        "irab_dan_logika": "Mabni di atas sukun (namun dibaca dengan hukum iqlab karena bertemu ba). Berfungsi menjerkan kata setelahnya (butuniha)."
+      },
+      "hikmah": "Menunjukkan asal atau sumber keluarnya madu, yaitu dari perut-perut lebah.",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "بُطُونِهَا",
+      "transliterasi": "butūnihā",
+      "jenis_kata": "Isim (Jamak Taksir) + Dhamir",
+      "arti": "perut-perutnya (lebah)",
+      "sharaf": {
+        "akar_kata": "ب - ط - ن (b-t-n)",
+        "makna_dasar": "Sesuatu yang tersembunyi atau bagian dalam",
+        "wazan_perubahan": "Fu'ūl (فُعُول) sebagai bentuk jamak dari Bathn"
+      },
+      "nahwu": {
+        "kedudukan": "Majrur (karena didahului huruf jar 'min' pada kata sebelumnya)",
+        "irab_dan_logika": "Majrur dengan tanda kasrah. Kata ini juga sebagai Mudhaf, dan 'ha' adalah Mudhaf Ilayh yang merujuk pada lebah (an-nahl)"
+      },
+      "hikmah": "Merujuk pada sistem pencernaan lebah yang kompleks di mana nektar diproses menjadi madu.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "شَرَابٌ",
+      "transliterasi": "syarābun",
+      "jenis_kata": "Isim Nakirah",
+      "arti": "minuman",
+      "sharaf": {
+        "akar_kata": "ش - ر - ب (sy-r-b)",
+        "makna_dasar": "Menelan cairan atau minum",
+        "wazan_perubahan": "Fa'āl (فَعَال)"
+      },
+      "nahwu": {
+        "kedudukan": "Fa'il (Subjek)",
+        "irab_dan_logika": "Marfu' dengan dhommah karena merupakan pelaku dari kata kerja 'yakhruju' (keluar)"
+      },
+      "hikmah": "Madu disebut sebagai 'minuman' karena sifatnya yang cair dan dikonsumsi dengan cara diminum atau ditelan.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "مُّخۡتَلِفٌ",
+      "transliterasi": "mukhtalifun",
+      "jenis_kata": "Isim Fa'il",
+      "arti": "yang berbeda-beda / bermacam-macam",
+      "sharaf": {
+        "akar_kata": "خ - ل - ف (kh-l-f)",
+        "makna_dasar": "Berada di belakang atau berbeda",
+        "wazan_perubahan": "Mufta'il (مُفْتَعِل) dari pola Ifta'ala"
+      },
+      "nahwu": {
+        "kedudukan": "Na'at (Sifat)",
+        "irab_dan_logika": "Marfu' mengikuti kata 'syarābun' yang disifatinya"
+      },
+      "hikmah": "Menunjukkan keragaman jenis madu yang dihasilkan lebah, baik dari segi rasa maupun konsistensi.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "أَلۡوَٰنُهُۥ",
+      "transliterasi": "alwānuhū",
+      "jenis_kata": "Isim (Jamak) + Dhamir",
+      "arti": "warna-warnanya",
+      "sharaf": {
+        "akar_kata": "ل - و - ن (l-w-n)",
+        "makna_dasar": "Warna atau corak",
+        "wazan_perubahan": "Af'āl (أَفْعَال) sebagai jamak dari Lawn"
+      },
+      "nahwu": {
+        "kedudukan": "Fa'il dari Isim Fa'il (mukhtalifun)",
+        "irab_dan_logika": "Marfu' dengan dhommah. 'Hu' adalah dhamir muttasil sebagai Mudhaf Ilayh yang merujuk pada minuman (madu)"
+      },
+      "hikmah": "Menjelaskan bahwa perbedaan madu tersebut terlihat secara fisik melalui warnanya, mulai dari putih, kuning, hingga cokelat gelap.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "فِيهِ",
+      "transliterasi": "fīhi",
+      "jenis_kata": "Harf Jar + Dhamir",
+      "arti": "di dalamnya",
+      "sharaf": {
+        "akar_kata": "n/a",
+        "makna_dasar": "Menunjukkan keterangan tempat atau wadah",
+        "wazan_perubahan": "n/a"
+      },
+      "nahwu": {
+        "kedudukan": "Khabar Muqaddam (Predikat yang didahulukan)",
+        "irab_dan_logika": "Jar wa Majrur yang menempati posisi rafa' sebagai khabar bagi kata 'syifa-un'"
+      },
+      "hikmah": "Menegaskan bahwa di dalam madu tersebut terkandung khasiat yang luar biasa.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "شِفَآءٌ",
+      "transliterasi": "syifā'un",
+      "jenis_kata": "Isim Masdar",
+      "arti": "obat / kesembuhan",
+      "sharaf": {
+        "akar_kata": "ش - ف - ي (sy-f-y)",
+        "makna_dasar": "Sembuh atau pulih dari sakit",
+        "wazan_perubahan": "Fi'āl (فِعَال)"
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada Mu'akhkhar (Subjek yang diakhirkan)",
+        "irab_dan_logika": "Marfu' dengan dhommah tain karena merupakan subjek utama dalam kalimat ini"
+      },
+      "hikmah": "Madu bukan sekadar minuman biasa, melainkan memiliki fungsi medis sebagai sarana penyembuhan bagi manusia.",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "لِّلنَّاسِۚ",
+      "transliterasi": "lin-nāsi",
+      "jenis_kata": "Harf Jarr + Ism",
+      "arti": "bagi manusia",
+      "sharaf": {
+        "akar_kata": "ن و س (n-w-s) atau ا ن س (a-n-s)",
+        "makna_dasar": "Pergerakan atau kejinakan/sosial",
+        "wazan_perubahan": "Ism Jam' (kata benda jamak)"
+      },
+      "nahwu": {
+        "kedudukan": "Jar wa Majrur",
+        "irab_dan_logika": "Huruf 'lam' adalah harf jarr (untuk/bagi). Kata 'an-nāsi' adalah majrur dengan tanda kasrah. Secara logika, ini menunjukkan sasaran manfaat dari obat (madu) tersebut."
+      },
+      "hikmah": "Menunjukkan bahwa manfaat penyembuhan yang ada pada madu diperuntukkan bagi seluruh umat manusia secara umum.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "إِنَّ",
+      "transliterasi": "inna",
+      "jenis_kata": "Harf Tawkid wa Nasab",
+      "arti": "sesungguhnya / sungguh",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "Penekanan (Tawkid)",
+        "wazan_perubahan": "Harf (partikel)"
+      },
+      "nahwu": {
+        "kedudukan": "Harf al-Musyabbah bi al-Fi'l",
+        "irab_dan_logika": "Berfungsi menasabkan mubtada (menjadi Ism Inna) dan merafakkan khabar (menjadi Khabar Inna). Digunakan untuk memperkuat pernyataan."
+      },
+      "hikmah": "Berfungsi untuk memberikan penekanan yang kuat bahwa fenomena lebah dan madu bukanlah kebetulan, melainkan bukti nyata kekuasaan Allah.",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "فِي",
+      "transliterasi": "fī",
+      "jenis_kata": "Harf Jarr",
+      "arti": "di dalam / pada",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "Wadah atau keterangan tempat (Zharfiyah)",
+        "wazan_perubahan": "Harf (partikel)"
+      },
+      "nahwu": {
+        "kedudukan": "Harf Jarr",
+        "irab_dan_logika": "Menjadikan kata setelahnya majrur. Secara struktur, 'fī dhālika' berkedudukan sebagai Khabar Inna yang didahulukan (Muqaddam)."
+      },
+      "hikmah": "Menunjukkan bahwa di dalam rincian proses kehidupan lebah dan produksi madu tersebut terkandung hikmah yang mendalam.",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "ذَٰلِكَ",
+      "transliterasi": "dhālika",
+      "jenis_kata": "Ism Isyarah",
+      "arti": "itu / yang demikian itu",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "Penunjukan jarak jauh",
+        "wazan_perubahan": "Ism Mabni"
+      },
+      "nahwu": {
+        "kedudukan": "Majrur bi al-harf",
+        "irab_dan_logika": "Kata tunjuk untuk sesuatu yang jauh. Dalam konteks ini, ia merujuk pada seluruh rangkaian instruksi Allah kepada lebah dan hasil yang dikeluarkannya."
+      },
+      "hikmah": "Penggunaan kata tunjuk 'itu' (jarak jauh) mengisyaratkan tingginya derajat dan keagungan tanda-tanda kekuasaan Allah yang baru saja disebutkan.",
+      "role": "none"
+    },
+    {
+      "index": 22,
+      "kata_arab": "لَأٓيَةࣰ",
+      "transliterasi": "la'āyatan",
+      "jenis_kata": "Lam al-Muzahlaqah + Ism",
+      "arti": "benar-benar sebuah tanda",
+      "sharaf": {
+        "akar_kata": "ا ي ي (a-y-y)",
+        "makna_dasar": "Tanda, bukti, atau mukjizat",
+        "wazan_perubahan": "Ism Mufrad Muannats"
+      },
+      "nahwu": {
+        "kedudukan": "Ism Inna Mu'akhkhar",
+        "irab_dan_logika": "Mansub dengan fathah. Huruf 'lam' di awal adalah Lam al-Muzahlaqah yang berfungsi untuk memperkuat penekanan (tawkid) setelah 'Inna'."
+      },
+      "hikmah": "Menegaskan secara berlapis bahwa fenomena lebah adalah bukti nyata (ayat) yang menuntun manusia kepada pengenalan terhadap Sang Pencipta.",
+      "role": "none"
+    },
+    {
+      "index": 23,
+      "kata_arab": "لِّقَوۡمࣲ",
+      "transliterasi": "liqawmin",
+      "jenis_kata": "Harf Jarr + Ism",
+      "arti": "bagi kaum / bagi orang-orang",
+      "sharaf": {
+        "akar_kata": "ق و م (q-w-m)",
+        "makna_dasar": "Berdiri atau sekelompok orang yang memiliki urusan bersama",
+        "wazan_perubahan": "Ism Mufrad (namun bermakna kolektif)"
+      },
+      "nahwu": {
+        "kedudukan": "Jar wa Majrur",
+        "irab_dan_logika": "Majrur dengan kasrah. Kata ini menjadi 'muta'alliq' (terkait) dengan kata 'āyatan', menjelaskan untuk siapa tanda tersebut menjadi efektif."
+      },
+      "hikmah": "Menunjukkan bahwa tanda-tanda kebesaran Allah hanya akan dipahami dan bermanfaat bagi kelompok orang yang mau menggunakan potensi diri mereka (dalam hal ini, berpikir).",
+      "role": "none"
+    },
+    {
+      "index": 24,
+      "kata_arab": "يَتَفَكَّرُونَ",
+      "transliterasi": "yatafakkarūn",
+      "jenis_kata": "Fi'il Mudhari' (Kata Kerja Masa Sekarang/Akan Datang)",
+      "arti": "Mereka sedang/akan berpikir",
+      "sharaf": {
+        "akar_kata": "ف - ك - ر (f-k-r)",
+        "makna_dasar": "Berpikir, merenung, atau mempertimbangkan",
+        "wazan_perubahan": "Tafa''ala (تَفَعَّلَ) -> yatafa''alu (يَتَفَعَّلُ). Pola ini mengandung makna takalluf (usaha sungguh-sungguh) dan berulang-ulang."
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Mudhari' Marfu' yang menjadi Sifat (Na'at) bagi kata 'liqawmin'",
+        "irab_dan_logika": "Marfu' dengan tanda tsubutun-nun (tetapnya huruf nun) karena termasuk Al-Af'al al-Khamsah. Huruf Wawu di dalamnya berfungsi sebagai Fa'il (subjek) yang merujuk pada sekelompok orang."
+      },
+      "hikmah": "Kata ini menunjukkan proses berpikir yang tidak sekilas, melainkan perenungan yang mendalam dan berkelanjutan terhadap tanda-tanda kekuasaan Allah pada lebah dan madu. Penggunaan bentuk mudhari' mengisyaratkan bahwa berpikir adalah aktivitas yang seharusnya terus dilakukan oleh manusia.",
+      "role": "none"
+    }
+  ]
+}

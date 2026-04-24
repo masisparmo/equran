@@ -5,217 +5,253 @@
     {
       "index": 0,
       "kata_arab": "وَمَا",
-      "transliterasi": "wa ma",
-      "jenis_kata": "Huruf",
-      "arti": "**dan tidak**",
+      "transliterasi": "Wa mā",
+      "jenis_kata": "Harf (Partikel)",
+      "arti": "Dan tidak",
       "sharaf": {
-        "akar_kata": "-",
-        "makna_dasar": "partikel penafian",
-        "wazan_perubahan": "-"
+        "akar_kata": "N/A",
+        "makna_dasar": "Penyambung kalimat dan negasi",
+        "wazan_perubahan": "N/A"
       },
       "nahwu": {
-        "kedudukan": "pembuka ayat, menghubungkan dengan kalimat sebelumnya",
-        "irab_dan_logika": "huruf **nasb**, tidak berharakat karena berfungsi sebagai حرف نصب"
+        "kedudukan": "Wawu al-Ibtida'iyyah dan Ma an-Nafiyah",
+        "irab_dan_logika": "Mabni (tetap). Berfungsi untuk memulai kalimat baru yang menegaskan peniadaan (negasi) atas kesia-siaan penciptaan."
       },
-      "hikmah": "menegaskan bahwa apa yang diciptakan tidak bersifat sembarangan, melainkan **dengan benar**.",
+      "hikmah": "Mengawali pernyataan tegas bahwa penciptaan alam semesta tidak terjadi secara kebetulan atau tanpa tujuan.",
       "role": "none"
     },
     {
       "index": 1,
-      "kata_arab": "خَلَقْنَا",
-      "transliterasi": "khalaqnā",
-      "jenis_kata": "Fi'il",
-      "arti": "**kami menciptakan**",
+      "kata_arab": "خَلَقۡنَا",
+      "transliterasi": "Khalaqnā",
+      "jenis_kata": "Fi'il Madhi (Kata Kerja Lampau)",
+      "arti": "Kami telah menciptakan",
       "sharaf": {
-        "akar_kata": "خ-ل-ق",
-        "makna_dasar": "mencipta",
-        "wazan_perubahan": "fa‘ala (bentuk I)"
+        "akar_kata": "خ - ل - ق (Kh-L-Q)",
+        "makna_dasar": "Menciptakan, mengukur, atau membentuk sesuatu dari ketiadaan",
+        "wazan_perubahan": "Fa'alna (فَعَلْنَا)"
       },
       "nahwu": {
-        "kedudukan": "kata kerja utama (verb) dalam kalimat",
-        "irab_dan_logika": "مرفوع بالضمة karena fi‘il ماضٍ"
+        "kedudukan": "Fi'il (Kata Kerja) dan Fa'il (Subjek)",
+        "irab_dan_logika": "Mabni 'ala as-sukun. Dhamir 'Na' (Kami) berkedudukan sebagai subjek (Rafa') yang merujuk pada keagungan Allah (Ta'zhim)."
       },
-      "hikmah": "menunjukkan tindakan aktif Allah dalam penciptaan.",
+      "hikmah": "Menegaskan tindakan Allah sebagai Pencipta tunggal yang memiliki kekuasaan penuh atas segala sesuatu.",
       "role": "none"
     },
     {
       "index": 2,
-      "kata_arab": "ٱلسَّمَٰوَٰتِ",
-      "transliterasi": "as-samāwāti",
-      "jenis_kata": "Isim",
-      "arti": "**langit‑langit**",
+      "kata_arab": "ٱلسَّمَٰوَٰتِ",
+      "transliterasi": "As-samāwāti",
+      "jenis_kata": "Isim (Kata Benda) - Jamak Muannas Salim",
+      "arti": "Langit-langit",
       "sharaf": {
-        "akar_kata": "س-م-و",
-        "makna_dasar": "ketinggian, ruang",
-        "wazan_perubahan": "jamak taksir (مَفْعَلَة) atau جمع تكسير"
+        "akar_kata": "س - م - و (S-M-W)",
+        "makna_dasar": "Ketinggian atau sesuatu yang berada di atas",
+        "wazan_perubahan": "Al-Fa'alāt (الفَعالات)"
       },
       "nahwu": {
-        "kedudukan": "objek fi‘il (مفعول به) yang منصوب",
-        "irab_dan_logika": "نصب بالفتحة; tanda kasra pada akhir kata menandakan kasus nasb pada huruf terakhir"
+        "kedudukan": "Maf'ul Bih (Objek)",
+        "irab_dan_logika": "Manshub (objek). Tanda nashab-nya adalah kasrah karena merupakan bentuk jamak muannas salim."
       },
-      "hikmah": "menunjukkan kebesaran ciptaan langit.",
+      "hikmah": "Merujuk pada seluruh lapisan langit dan segala isinya yang menunjukkan kebesaran ciptaan-Nya.",
       "role": "none"
     },
     {
       "index": 3,
-      "kata_arab": "وَٱلْأَرْضَ",
-      "transliterasi": "wal‑arḍa",
-      "jenis_kata": "Isim",
-      "arti": "**bumi**",
+      "kata_arab": "وَٱلۡأَرۡضَ",
+      "transliterasi": "Wal-arḍa",
+      "jenis_kata": "Harf Athaf + Isim",
+      "arti": "Dan bumi",
       "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
+        "akar_kata": "أ - ر - ض (A-R-Dh)",
+        "makna_dasar": "Tanah, hamparan, atau tempat berpijak",
+        "wazan_perubahan": "Al-Fa'l (الفَعْل)"
       },
       "nahwu": {
-        "kedudukan": "",
-        "irab_dan_logika": ""
+        "kedudukan": "Ma'thuf (Kata yang dihubungkan)",
+        "irab_dan_logika": "Manshub (mengikuti objek sebelumnya). Tanda nashab-nya adalah fathah."
       },
-      "hikmah": "",
+      "hikmah": "Menyertakan bumi sebagai bagian integral dari ciptaan Allah yang seimbang dengan langit.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "وَمَا",
+      "transliterasi": "Wa mā",
+      "jenis_kata": "Harf Athaf + Isim Mawshul",
+      "arti": "Dan apa yang",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "Sesuatu yang umum",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Ma'thuf (Kata yang dihubungkan)",
+        "irab_dan_logika": "Mabni dalam kedudukan Nashab. 'Ma' di sini bersifat umum (umum al-khalq)."
+      },
+      "hikmah": "Mencakup segala makhluk, energi, dan fenomena yang ada di antara langit dan bumi yang mungkin tidak terlihat oleh manusia.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "بَيۡنَهُمَآ",
+      "transliterasi": "Baynahumā",
+      "jenis_kata": "Zharaf Makan (Keterangan Tempat) + Dhamir",
+      "arti": "Di antara keduanya",
+      "sharaf": {
+        "akar_kata": "ب - ي - n (B-Y-N)",
+        "makna_dasar": "Pemisah, jarak, atau ruang di tengah",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Zharaf Makan dan Mudhaf Ilaih",
+        "irab_dan_logika": "Manshub sebagai keterangan tempat. Dhamir 'huma' (keduanya) merujuk kembali kepada langit dan bumi."
+      },
+      "hikmah": "Menegaskan bahwa kekuasaan dan ciptaan Allah meliputi seluruh ruang semesta tanpa terkecuali.",
       "role": "none"
     },
     {
       "index": 6,
-      "kata_arab": "إِلَّا",
+      "kata_arab": "إِلَّا",
       "transliterasi": "illa",
-      "jenis_kata": "Huruf (istithnaʿ)",
-      "arti": "kecuali, melainkan",
+      "jenis_kata": "Huruf Istitsna' (Pengecualian)",
+      "arti": "melainkan / kecuali",
       "sharaf": {
-        "akar_kata": "-",
-        "makna_dasar": "-",
-        "wazan_perubahan": "-"
+        "akar_kata": "N/A",
+        "makna_dasar": "Pengecualian atau pembatasan",
+        "wazan_perubahan": "N/A"
       },
       "nahwu": {
-        "kedudukan": "Kata istithnaʿ yang menegaskan pengecualian setelah frasa *mā baynahumā* (apa yang ada di antara keduanya).",
-        "irab_dan_logika": "Berharakat kasrah pada alif (إِلَّا) karena termasuk huruf **istithnaʿ** yang tidak berubah i‘rābnya."
+        "kedudukan": "Adat Hasyr (Alat Pembatas)",
+        "irab_dan_logika": "Berfungsi membatasi maksud kalimat sebelumnya. Karena didahului kalimat negatif (ma khalaqna), maka ia bermakna penetapan (itsbat) bahwa penciptaan hanya terjadi dengan kebenaran."
       },
-      "hikmah": "Menegaskan bahwa penciptaan langit‑bumi tidak bersifat sembarangan, melainkan **dengan kebenaran**.",
+      "hikmah": "Kata ini menegaskan bahwa tidak ada alasan lain dalam penciptaan alam semesta kecuali atas dasar kebenaran dan tujuan yang hakiki.",
       "role": "none"
     },
     {
       "index": 7,
-      "kata_arab": "بِٱلْحَقِّ",
-      "transliterasi": "bil-ḥaqqi",
-      "jenis_kata": "Huruf jar + Isim (kata benda berdefinit)",
+      "kata_arab": "بِٱلۡحَقِّۗ",
+      "transliterasi": "bil-haqqi",
+      "jenis_kata": "Jar wa Majrur (Huruf Jar + Isim)",
       "arti": "dengan kebenaran",
       "sharaf": {
-        "akar_kata": "ح‑ق‑ق",
-        "makna_dasar": "kebenaran, keadilan",
-        "wazan_perubahan": "faʿala (حَقّ) → al‑ḥaqq"
+        "akar_kata": "h-q-q (ح ق ق)",
+        "makna_dasar": "Kebenaran, kepastian, kesesuaian dengan realita",
+        "wazan_perubahan": "Isim Masdar"
       },
       "nahwu": {
-        "kedudukan": "Objek preposisi *bi* yang menerangkan cara penciptaan.",
-        "irab_dan_logika": "Berharakat kasrah pada *ḥaqqi* (الحَقِّ) karena berada dalam posisi **jarr** setelah huruf *bi*."
+        "kedudukan": "Muta'alliq bi khalaqna (Berkaitan dengan kata kerja menciptakan)",
+        "irab_dan_logika": "Majrur dengan tanda kasrah karena didahului huruf jar 'bi'. Secara logika menunjukkan 'hal' (keadaan) atau cara penciptaan."
       },
-      "hikmah": "Semua ciptaan terjadi **dengan kebenaran** yang mutlak, bukan sekadar kebetulan.",
+      "hikmah": "Menunjukkan bahwa Allah menciptakan segala sesuatu dengan penuh hikmah, tidak sia-sia, dan berdasarkan hukum-hukum yang benar.",
       "role": "none"
     },
     {
       "index": 8,
-      "kata_arab": "ۗ",
-      "transliterasi": "ۗ",
-      "jenis_kata": "Tanda baca (fathah kecil/​tanda ayat)",
-      "arti": "—",
+      "kata_arab": "وَإِنَّ",
+      "transliterasi": "wa inna",
+      "jenis_kata": "Huruf Athaf + Huruf Taukid",
+      "arti": "dan sesungguhnya",
       "sharaf": {
-        "akar_kata": "-",
-        "makna_dasar": "-",
-        "wazan_perubahan": "-"
+        "akar_kata": "N/A",
+        "makna_dasar": "Penekanan atau penguatan informasi",
+        "wazan_perubahan": "N/A"
       },
       "nahwu": {
-        "kedudukan": "Menandai akhir bagian kalimat sebelum masuk ke klausa berikutnya.",
-        "irab_dan_logika": "Tidak memiliki i‘rāb karena merupakan tanda baca."
+        "kedudukan": "Huruf Nasab wa Taukid",
+        "irab_dan_logika": "Inna berfungsi menasabkan isim setelahnya (as-sa'ata) dan memberikan penekanan kuat pada kebenaran berita yang disampaikan."
       },
-      "hikmah": "Memberi jeda untuk menekankan makna **“dengan benar”** sebelum melanjutkan ke pernyataan tentang hari kiamat.",
+      "hikmah": "Memberikan jaminan kepastian bahwa peristiwa yang akan disebutkan selanjutnya adalah sebuah keniscayaan yang tidak perlu diragukan.",
       "role": "none"
     },
     {
       "index": 9,
-      "kata_arab": "وَإِنَّ",
-      "transliterasi": "wa‑inna",
-      "jenis_kata": "Huruf (wa + inna)",
-      "arti": "dan sesungguhnya",
+      "kata_arab": "ٱلسَّاعَةَ",
+      "transliterasi": "as-sa'ata",
+      "jenis_kata": "Isim (Kata Benda)",
+      "arti": "Kiamat / Waktu yang ditentukan",
       "sharaf": {
-        "akar_kata": "-",
-        "makna_dasar": "-",
-        "wazan_perubahan": "-"
+        "akar_kata": "s-w-' (س و ع)",
+        "makna_dasar": "Waktu yang singkat atau saat tertentu",
+        "wazan_perubahan": "Isim Jamid"
       },
       "nahwu": {
-        "kedudukan": "Penghubung (wa) + huruf penegas (inna) yang memperkenalkan klausa baru.",
-        "irab_dan_logika": "Tidak berubah i‘rāb; *inna* menuntut **ism** setelahnya berada dalam **nasb** (kasrah)."
+        "kedudukan": "Isim Inna",
+        "irab_dan_logika": "Manshub dengan tanda fathah. Merujuk pada subjek yang sedang ditekankan keberadaannya."
       },
-      "hikmah": "Menegaskan kepastian tentang kedatangan hari kiamat setelah penegasan penciptaan.",
+      "hikmah": "Dalam konteks Al-Qur'an, kata ini merujuk spesifik pada Hari Kiamat sebagai waktu berakhirnya alam dunia.",
       "role": "none"
     },
     {
       "index": 10,
-      "kata_arab": "ٱلسَّاعَةَ",
-      "transliterasi": "as‑sāʿah",
-      "jenis_kata": "Isim (kata benda)",
-      "arti": "waktu, hari kiamat",
+      "kata_arab": "لَأٓتِيَةࣱۖ",
+      "transliterasi": "la'atiyatun",
+      "jenis_kata": "Isim Fa'il + Lam Muzahlaqah",
+      "arti": "benar-benar akan datang",
       "sharaf": {
-        "akar_kata": "س‑ع‑و",
-        "makna_dasar": "menetapkan waktu, menentukan",
-        "wazan_perubahan": "faʿala → سَاعَة"
+        "akar_kata": "a-t-y (أ ت ي)",
+        "makna_dasar": "Datang / Tiba",
+        "wazan_perubahan": "Fa'ilah (Isim Fa'il Muannats)"
       },
       "nahwu": {
-        "kedudukan": "Khabar (predikat) setelah *inna*.",
-        "irab_dan_logika": "Berharakat fatḥah (السَّاعَةَ) karena menjadi **ism** dalam **nasb** setelah huruf *inna*."
+        "kedudukan": "Khabar Inna",
+        "irab_dan_logika": "Marfu' dengan tanda dhommatain. Lam di awal adalah Lam Muzahlaqah yang berfungsi sebagai taukid (penguat) tambahan."
       },
-      "hikmah": "Hari kiamat adalah **waktu yang telah ditetapkan** oleh Allah, tidak dapat diubah.",
+      "hikmah": "Penegasan berlapis (Inna + Lam) bahwa kedatangan hari kiamat adalah sesuatu yang aktif bergerak menuju kita dan pasti terjadi.",
       "role": "none"
     },
     {
       "index": 11,
-      "kata_arab": "لَءَاتِيَةٌۭ",
-      "transliterasi": "la‑ātiyah",
-      "jenis_kata": "Isim (kata benda) dengan huruf penegas *la*",
-      "arti": "pasti akan datang",
+      "kata_arab": "فَٱصۡفَحِ",
+      "transliterasi": "fasfahi",
+      "jenis_kata": "Fi'il Amr (Kata Kerja Perintah)",
+      "arti": "maka maafkanlah / berlapang dadalah",
       "sharaf": {
-        "akar_kata": "أ‑ت‑ي",
-        "makna_dasar": "datang",
-        "wazan_perubahan": "faʿila → آتِي"
+        "akar_kata": "s-f-h (ص ف ح)",
+        "makna_dasar": "Sisi sesuatu, memalingkan muka, atau membuka lembaran baru",
+        "wazan_perubahan": "If'al (Amr dari Fi'il Tsulatsi Mujarrad)"
       },
       "nahwu": {
-        "kedudukan": "Khabar lanjutan yang menegaskan predikat *as‑sāʿah*.",
-        "irab_dan_logika": "Berharakat ḍamma (لَءَاتِيَةٌ) karena berada dalam **rafʿ** (nominatif) sebagai **khabar** setelah *inna*."
+        "kedudukan": "Fi'il Amr (Perintah)",
+        "irab_dan_logika": "Mabni 'ala sukun (namun dibaca kasrah karena bertemu alif lam setelahnya). Huruf 'Fa' di awal adalah Fa Sababiyah atau penghubung konsekuensi dari ayat sebelumnya."
       },
-      "hikmah": "Kepastian mutlak bahwa hari kiamat **akan datang**, menegaskan sifat tak terelakkan dari akhir zaman.",
+      "hikmah": "Perintah kepada Nabi Muhammad (dan umatnya) untuk memaafkan gangguan orang kafir dengan cara yang indah (ash-shafh al-jamil), karena Allah-lah yang akan mengadili mereka di hari kiamat nanti.",
       "role": "none"
     },
     {
       "index": 12,
-      "kata_arab": "ۖ",
-      "transliterasi": "(tanda baca)",
-      "jenis_kata": "Huruf",
-      "arti": "tanda jeda (waqf)",
+      "kata_arab": "ٱلصَّفۡحَ",
+      "transliterasi": "as-safha",
+      "jenis_kata": "Isim (Kata Benda/Mashdar)",
+      "arti": "pemaafan / kelapangan dada",
       "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
+        "akar_kata": "ص - ف - ح (ṣ-f-ḥ)",
+        "makna_dasar": "permukaan sesuatu, memalingkan muka, atau membalik halaman",
+        "wazan_perubahan": "Mashdar dari fi'il tsulatsi mujarrad (safaha)"
       },
       "nahwu": {
-        "kedudukan": "tanda waqf di akhir ayat, memisahkan antara frasa",
-        "irab_dan_logika": "bukan kata, tidak memiliki i‘rab; berfungsi sebagai tanda baca untuk memberi jeda"
+        "kedudukan": "Maf'ul Mutlaq (Objek Mutlak)",
+        "irab_dan_logika": "Manshub dengan tanda fathah. Berfungsi untuk memperkuat (taukid) makna dari kata kerja perintah 'fasfah' sebelumnya."
       },
-      "hikmah": "menandakan berhenti sejenak, memberi kesempatan merenungkan makna ayat",
+      "hikmah": "Tindakan memaafkan dengan cara 'membalik halaman', yakni benar-benar melupakan kesalahan dan tidak lagi menoleh pada luka lama.",
       "role": "none"
     },
     {
       "index": 13,
-      "kata_arab": "فَٱصْفَحِ",
-      "transliterasi": "fa‑iṣfaḥi",
-      "jenis_kata": "Fi'il (imperatif)",
-      "arti": "maka maafkanlah",
+      "kata_arab": "ٱلۡجَمِيلَ",
+      "transliterasi": "al-jamīla",
+      "jenis_kata": "Isim Sifat (Kata Sifat)",
+      "arti": "yang indah / yang baik",
       "sharaf": {
-        "akar_kata": "ص ف ح",
-        "makna_dasar": "maaf",
-        "wazan_perubahan": "فَعَلَ (bentuk I)"
+        "akar_kata": "ج - م - ل (j-m-l)",
+        "makna_dasar": "keindahan, keelokan, atau proporsi yang baik",
+        "wazan_perubahan": "Sifat Musyabbahah (wazan Fa'īl) yang menunjukkan sifat tetap"
       },
       "nahwu": {
-        "kedudukan": "kata kerja imperatif, predikat perintah setelah konjungsi فَ",
-        "irab_dan_logika": "berakhiran kasrah (ِ) menandakan bentuk imperatif"
+        "kedudukan": "Na'at (Sifat/Adjektiva)",
+        "irab_dan_logika": "Manshub mengikuti kata yang disifatinya (as-safha). Menjelaskan kualitas pemaafan yang diminta."
       },
-      "hikmah": "menunjukkan anjuran Allah untuk memaafkan dengan cara yang baik",
+      "hikmah": "Pemaafan yang dilakukan dengan cara yang anggun, yaitu memaafkan tanpa disertai celaan, tanpa mengeluh, dan tanpa mengungkit-ungkit kesalahan tersebut di kemudian hari.",
       "role": "none"
     },
     {

@@ -4,128 +4,128 @@
   "words": [
     {
       "index": 0,
-      "kata_arab": "مَّن",
-      "transliterasi": "man",
-      "jenis_kata": "Isim",
-      "arti": "Barangsiapa, siapa saja",
+      "kata_arab": "مَّن",
+      "transliterasi": "Man",
+      "jenis_kata": "Isim Syarth (Kata Benda Syarat)",
+      "arti": "Barangsiapa",
       "sharaf": {
         "akar_kata": "N/A",
-        "makna_dasar": "Menunjukkan keumuman, syarat, atau maushul (penghubung).",
-        "wazan_perubahan": "N/A (Isim mabni)"
+        "makna_dasar": "Menunjukkan subjek umum dalam kalimat pengandaian atau syarat.",
+        "wazan_perubahan": "N/A"
       },
       "nahwu": {
-        "kedudukan": "Isim Syarat (atau Maushul) yang berfungsi sebagai mubtada' (subjek kalimat).",
-        "irab_dan_logika": "Mabni (tetap) di atas sukun, dalam posisi rafa' sebagai mubtada'. Kalimat setelahnya (جملة الشرط وجوابه) adalah khabar-nya."
+        "kedudukan": "Mubtada' (Subjek)",
+        "irab_dan_logika": "Mabni (tetap) di atas sukun. Berfungsi sebagai kata penghubung syarat yang membutuhkan jawaban (jawab syarth)."
       },
-      "hikmah": "Kata ini membuka ayat dengan menunjukkan keumuman, bahwa siapa pun yang memiliki keinginan terhadap dunia akan mendapatkan konsekuensinya sesuai kehendak Allah.",
+      "hikmah": "Kata ini membuka pernyataan umum tentang kriteria orang yang hanya berorientasi pada dunia.",
       "role": "none"
     },
     {
       "index": 1,
       "kata_arab": "كَانَ",
-      "transliterasi": "kāna",
-      "jenis_kata": "Fi'il",
-      "arti": "adalah, dahulu, ia berada",
+      "transliterasi": "Kāna",
+      "jenis_kata": "Fi'il Madhi Naqis (Kata Kerja Lampau Defektif)",
+      "arti": "Adalah / Keadaannya",
       "sharaf": {
-        "akar_kata": "ك-و-ن (K-W-N)",
-        "makna_dasar": "Keberadaan, menjadi.",
-        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau), wazan Fa'ala (فَعَلَ)."
+        "akar_kata": "k-w-n (كون)",
+        "makna_dasar": "Ada atau terjadi.",
+        "wazan_perubahan": "Fa'ala (فعل)"
       },
       "nahwu": {
-        "kedudukan": "Fi'il Naqis (kata kerja tidak sempurna). Mengangkat mubtada' sebagai isim-nya dan menashabkan khabar sebagai khabar-nya.",
-        "irab_dan_logika": "Fi'il Madhi mabni di atas fathah. Isim-nya mustatir (tersembunyi) تقديره هو (huwa) yang kembali kepada 'مَّن'."
+        "kedudukan": "Fi'il Syarth",
+        "irab_dan_logika": "Fi'il madhi yang masuk ke dalam struktur kalimat syarat, menjelaskan eksistensi niat subjek."
       },
-      "hikmah": "Menunjukkan kondisi atau keadaan yang berlaku bagi 'barangsiapa' yang disebutkan sebelumnya, yaitu kondisi menghendaki kehidupan dunia.",
+      "hikmah": "Menunjukkan ketetapan sifat atau kondisi seseorang yang sudah tertanam dalam dirinya.",
       "role": "none"
     },
     {
       "index": 2,
       "kata_arab": "يُرِيدُ",
-      "transliterasi": "yurīdu",
-      "jenis_kata": "Fi'il",
-      "arti": "ia menghendaki, ia menginginkan",
+      "transliterasi": "Yurīdu",
+      "jenis_kata": "Fi'il Mudhari' (Kata Kerja Sedang/Akan Datang)",
+      "arti": "Menghendaki / Menginginkan",
       "sharaf": {
-        "akar_kata": "ر-و-د (R-W-D)",
-        "makna_dasar": "Keinginan, maksud, tujuan.",
-        "wazan_perubahan": "Fi'il Mudhari' (kata kerja sekarang/akan datang), wazan أفعل (af'ala) menjadi يُفْعِلُ (yuf'ilu)."
+        "akar_kata": "r-w-d (رود)",
+        "makna_dasar": "Mencari atau menginginkan sesuatu.",
+        "wazan_perubahan": "Af'ala - Yuf'ilu (أفعل - يفعل)"
       },
       "nahwu": {
-        "kedudukan": "Fi'il Mudhari' marfu'. Menjadi khabar bagi كَانَ (atau bagian dari khabar كَانَ).",
-        "irab_dan_logika": "Marfu' dengan dhammah karena tidak didahului oleh amil nashab atau jazm. Fa'il-nya mustatir تقديره هو (huwa) kembali ke isim كَانَ. Jumlah fi'liyah (يُرِيدُ) ini dalam posisi nashab sebagai khabar كَانَ."
+        "kedudukan": "Khabar dari Kāna",
+        "irab_dan_logika": "Marfu' dengan dhommah. Menjelaskan apa yang sedang dan terus-menerus diinginkan oleh subjek."
       },
-      "hikmah": "Menekankan tindakan keinginan atau kehendak yang aktif dan berkelanjutan dari seseorang terhadap sesuatu.",
+      "hikmah": "Menggambarkan keinginan yang kuat dan menjadi fokus utama dalam pikiran dan perbuatan seseorang.",
       "role": "none"
     },
     {
       "index": 3,
-      "kata_arab": "ٱلْعَاجِلَةَ",
-      "transliterasi": "al-'ājilah",
-      "jenis_kata": "Isim",
-      "arti": "yang segera, yang cepat, dunia (kehidupan sekarang)",
+      "kata_arab": "ٱلۡعَاجِلَةَ",
+      "transliterasi": "Al-'ājilah",
+      "jenis_kata": "Isim (Kata Benda)",
+      "arti": "Yang segera (dunia)",
       "sharaf": {
-        "akar_kata": "ع-ج-ل ('-J-L)",
-        "makna_dasar": "Cepat, segera, tergesa-gesa.",
-        "wazan_perubahan": "Isim Fa'il (bentuk feminim) dari wazan فاعل (fā'il) menjadi فاعلة (fā'ilah)."
+        "akar_kata": "-j-l (عجل)",
+        "makna_dasar": "Terburu-buru atau segera.",
+        "wazan_perubahan": "Fa'ilah (فاعلة)"
       },
       "nahwu": {
-        "kedudukan": "Maf'ul Bih (objek) dari fi'il يُرِيدُ.",
-        "irab_dan_logika": "Manshub dengan fathah karena sebagai maf'ul bih. Alif lam (ال) menunjukkan ma'rifah (spesifik) merujuk pada 'kehidupan dunia'."
+        "kedudukan": "Maf'ul Bih (Objek)",
+        "irab_dan_logika": "Manshub dengan fathah. Menjadi objek dari keinginan (yuridu)."
       },
-      "hikmah": "Secara spesifik merujuk pada kehidupan dunia yang bersifat sementara dan cepat berlalu, yang menjadi objek keinginan bagi orang-orang yang disebutkan dalam ayat ini.",
+      "hikmah": "Istilah Al-Qur'an untuk dunia, karena sifatnya yang cepat datang dan cepat pula menghilang (fana).",
       "role": "none"
     },
     {
       "index": 4,
-      "kata_arab": "عَجَّلْنَا",
-      "transliterasi": "ajjalnā",
-      "jenis_kata": "Fi'il",
-      "arti": "Kami segerakan, Kami percepat",
+      "kata_arab": "عَجَّلۡنَا",
+      "transliterasi": "Ajjalnā",
+      "jenis_kata": "Fi'il Madhi (Kata Kerja Lampau)",
+      "arti": "Kami segerakan",
       "sharaf": {
-        "akar_kata": "ع-ج-ل ('-J-L)",
-        "makna_dasar": "Cepat, segera, tergesa-gesa.",
-        "wazan_perubahan": "Fi'il Madhi, wazan فَعَّلَ (fa''ala) yang menunjukkan taksir (intensitas) atau ta'diyah (membuat sesuatu menjadi cepat)."
+        "akar_kata": "-j-l (عجل)",
+        "makna_dasar": "Menyegerakan sesuatu.",
+        "wazan_perubahan": "Fa''ala (فعّل) - Tashrif 'Ajjal-Yu'ajjil."
       },
       "nahwu": {
-        "kedudukan": "Fi'il Madhi. Menjadi jawab syarat untuk مَّن.",
-        "irab_dan_logika": "Fi'il Madhi mabni di atas sukun karena bersambung dengan dhamir rafa' mutaharrik (نَا). نَا adalah fa'il (subjek) dalam posisi rafa', merujuk kepada Allah SWT."
+        "kedudukan": "Jawab Syarth (Balasan Syarat)",
+        "irab_dan_logika": "Fi'il madhi dengan dhomir 'Nahnu' (Kami). Merupakan konsekuensi atau balasan dari syarat di awal ayat."
       },
-      "hikmah": "Menunjukkan tindakan Allah yang mempercepat atau segera memberikan apa yang dikehendaki di dunia bagi orang yang menginginkannya, sebagai balasan atas pilihannya.",
+      "hikmah": "Penegasan bahwa Allah-lah yang memberikan kesenangan duniawi tersebut dengan cepat sesuai kehendak-Nya.",
       "role": "none"
     },
     {
       "index": 5,
       "kata_arab": "لَهُۥ",
-      "transliterasi": "lahū",
-      "jenis_kata": "Huruf + Isim",
-      "arti": "baginya, untuknya",
+      "transliterasi": "Lahū",
+      "jenis_kata": "Jar wa Majrur",
+      "arti": "Baginya",
       "sharaf": {
         "akar_kata": "N/A",
-        "makna_dasar": "Kepemilikan, tujuan, manfaat.",
-        "wazan_perubahan": "N/A (Huruf Jar dan Dhamir mabni)"
+        "makna_dasar": "Kepemilikan atau peruntukan.",
+        "wazan_perubahan": "N/A"
       },
       "nahwu": {
-        "kedudukan": "Jar Majrur (Huruf Jar + Isim Majrur). Berfungsi sebagai muta'alliq (terkait) dengan fi'il عَجَّلْنَا.",
-        "irab_dan_logika": "لَ (lam) adalah huruf jar mabni di atas fathah. هُۥ (hu) adalah dhamir muttashil mabni di atas dhammah, dalam posisi jar karena didahului huruf jar."
+        "kedudukan": "Muta'alliq bi 'Ajjalna",
+        "irab_dan_logika": "Terdiri dari huruf jar 'Lam' dan dhomir muttasil 'Hu'. Menjelaskan kepada siapa penyegeraan itu diberikan."
       },
-      "hikmah": "Menegaskan bahwa percepatan pemberian nikmat duniawi itu khusus ditujukan 'baginya' atau 'untuknya' (orang yang menghendaki dunia), menunjukkan penekanan pada individu yang membuat pilihan tersebut.",
+      "hikmah": "Menunjukkan bahwa pemberian tersebut bersifat personal dan khusus bagi orang yang memang hanya mengejar dunia.",
       "role": "none"
     },
     {
       "index": 6,
       "kata_arab": "فِيهَا",
       "transliterasi": "fīhā",
-      "jenis_kata": "Huruf (preposisi) + Isim (pronomina)",
-      "arti": "di dalamnya (di dunia itu)",
+      "jenis_kata": "Harf Jar & Isim Dhamir",
+      "arti": "di dalamnya",
       "sharaf": {
-        "akar_kata": "ف ي ه",
-        "makna_dasar": "Huruf 'fī' menunjukkan tempat atau konteks. Dhamir 'hā' merujuk pada 'العاجلة' (kehidupan dunia).",
-        "wazan_perubahan": "Tidak berlaku untuk huruf dan dhamir."
+        "akar_kata": "fī (harf), h-y-a (dhamir)",
+        "makna_dasar": "Menunjukkan keterangan tempat atau wadah",
+        "wazan_perubahan": "N/A (Kombinasi preposisi dan kata ganti)"
       },
       "nahwu": {
-        "kedudukan": "Jar Majrur (preposisi dan objeknya)",
-        "irab_dan_logika": "fī' adalah huruf jar yang menjadikan isim setelahnya majrur. 'hā' adalah dhamir muttasil yang mabni (tetap) dan menempati posisi majrur karena didahului oleh huruf jar."
+        "kedudukan": "Jar wa Majrur",
+        "irab_dan_logika": "Huruf jar 'fī' masuk pada dhamir 'hā' yang kembali kepada 'al-'ājilah' (dunia). Berfungsi sebagai keterangan tempat bagi pemberian Allah."
       },
-      "hikmah": "Menekankan bahwa percepatan rezeki atau keinginan itu terjadi 'di dunia ini' (العاجلة), bukan di akhirat. Ini adalah penegasan lokasi atau konteks pemberian.",
+      "hikmah": "Merujuk pada dunia sebagai tempat di mana Allah menyegerakan kesenangan bagi mereka yang mengejarnya.",
       "role": "none"
     },
     {
@@ -135,15 +135,15 @@
       "jenis_kata": "Isim Maushul",
       "arti": "apa yang",
       "sharaf": {
-        "akar_kata": "Tidak berlaku untuk isim maushul.",
-        "makna_dasar": "Menghubungkan dua kalimat, berfungsi sebagai objek dari 'عَجَّلْنَا' (Kami segerakan) dan subjek dari 'نَشَآءُ' (Kami kehendaki).",
-        "wazan_perubahan": "Tidak berlaku."
+        "akar_kata": "N/A",
+        "makna_dasar": "Kata penghubung untuk benda atau hal",
+        "wazan_perubahan": "Isim Mabni"
       },
       "nahwu": {
-        "kedudukan": "Isim Maushul, mabni fi mahalli nashb sebagai maf'ul bih (objek)",
-        "irab_dan_logika": "Isim maushul selalu mabni (tetap). Posisinya sebagai objek langsung dari fi'il 'عَجَّلْنَا' menjadikannya dalam keadaan nashb."
+        "kedudukan": "Maf'ul Bih (Objek)",
+        "irab_dan_logika": "Berada dalam posisi Nashab sebagai objek dari kata kerja 'ajjalnā' (Kami segerakan)."
       },
-      "hikmah": "Menunjukkan sifat umum dan tidak terbatas dari apa yang Allah kehendaki untuk disegerakan. Ini bisa berupa rezeki, kekuasaan, atau apa pun yang diinginkan oleh orang yang mencari dunia.",
+      "hikmah": "Menunjuk pada segala bentuk kenikmatan duniawi yang Allah berikan secara terbatas.",
       "role": "none"
     },
     {
@@ -153,177 +153,213 @@
       "jenis_kata": "Fi'il Mudhari'",
       "arti": "Kami kehendaki",
       "sharaf": {
-        "akar_kata": "ش ي أ",
-        "makna_dasar": "Menghendaki, menginginkan, menciptakan.",
-        "wazan_perubahan": "Fi'il Mudhari' (kata kerja sekarang/akan datang), wazan أَفْعَلَ -> يُفْعِلُ, bentuk mudhari' untuk mutakallim ma'al ghair (kami)."
+        "akar_kata": "sh-y-'",
+        "makna_dasar": "Kehendak atau keinginan",
+        "wazan_perubahan": "Af'ala (Asya'a - Shaa'a) dengan dhomir Nahnu"
       },
       "nahwu": {
-        "kedudukan": "Fi'il Mudhari' marfu'",
-        "irab_dan_logika": "Marfu' karena tidak didahului oleh amil nashb (penashab) atau amil jazm (penjazam). Tanda rafa'nya adalah dhammah di akhir. Fa'il (subjek) adalah dhamir mustatir (tersembunyi) 'نحن' (Kami)."
+        "kedudukan": "Fi'il Mudhari' Marfu'",
+        "irab_dan_logika": "Marfu' dengan tanda dhammah di akhir. Berfungsi sebagai Shilah Maushul bagi kata 'mā'."
       },
-      "hikmah": "Menegaskan bahwa kehendak Allah adalah mutlak dan tidak terikat. Apa pun yang disegerakan di dunia ini adalah sesuai dengan kehendak-Nya, bukan semata-mata karena keinginan manusia. Ini menunjukkan kekuasaan dan kebijaksanaan Ilahi.",
+      "hikmah": "Menegaskan bahwa kadar kenikmatan dunia yang diberikan sepenuhnya bergantung pada kehendak Allah, bukan semata usaha manusia.",
       "role": "none"
     },
     {
       "index": 9,
       "kata_arab": "لِمَن",
       "transliterasi": "liman",
-      "jenis_kata": "Huruf (preposisi) + Isim Maushul",
-      "arti": "bagi siapa",
+      "jenis_kata": "Harf Jar & Isim Maushul",
+      "arti": "bagi orang yang",
       "sharaf": {
-        "akar_kata": "Tidak berlaku untuk huruf dan isim maushul.",
-        "makna_dasar": "li' menunjukkan kepemilikan atau tujuan. 'man' adalah isim maushul yang berarti 'siapa' atau 'orang yang'.",
-        "wazan_perubahan": "Tidak berlaku."
+        "akar_kata": "li (harf), m-n (isim)",
+        "makna_dasar": "Peruntukan bagi subjek tertentu",
+        "wazan_perubahan": "N/A"
       },
       "nahwu": {
-        "kedudukan": "Jar Majrur",
-        "irab_dan_logika": "li' adalah huruf jar yang menjadikan isim setelahnya majrur. 'man' adalah isim maushul yang mabni (tetap) dan menempati posisi majrur karena didahului oleh huruf jar."
+        "kedudukan": "Jar wa Majrur",
+        "irab_dan_logika": "Huruf 'li' (untuk) masuk pada isim maushul 'man' (siapa/orang). Menjelaskan target penerima pemberian."
       },
-      "hikmah": "Menjelaskan bahwa pemberian atau percepatan rezeki itu tidak untuk semua orang, melainkan 'bagi siapa' yang Allah kehendaki. Ini menunjukkan selektivitas dan kebijaksanaan Allah dalam memberikan karunia duniawi.",
+      "hikmah": "Menunjukkan bahwa tidak semua orang yang mengejar dunia akan mendapatkannya; hanya mereka yang Allah tentukan.",
       "role": "none"
     },
     {
       "index": 10,
-      "kata_arab": "نُّرِيدُ",
+      "kata_arab": "نُّرِيدُ",
       "transliterasi": "nurīdu",
       "jenis_kata": "Fi'il Mudhari'",
-      "arti": "Kami kehendaki",
+      "arti": "Kami kehendaki/inginkan",
       "sharaf": {
-        "akar_kata": "ر و د",
-        "makna_dasar": "Menghendaki, menginginkan, mencari.",
-        "wazan_perubahan": "Fi'il Mudhari' (kata kerja sekarang/akan datang), wazan أَفْعَلَ -> يُفْعِلُ, bentuk mudhari' untuk mutakallim ma'al ghair (kami)."
+        "akar_kata": "r-w-d",
+        "makna_dasar": "Mencari atau menginginkan",
+        "wazan_perubahan": "Af'ala (Arada) dengan dhomir Nahnu"
       },
       "nahwu": {
-        "kedudukan": "Fi'il Mudhari' marfu'",
-        "irab_dan_logika": "Marfu' karena tidak didahului oleh amil nashb atau amil jazm. Tanda rafa'nya adalah dhammah di akhir. Fa'il (subjek) adalah dhamir mustatir (tersembunyi) 'نحن' (Kami)."
+        "kedudukan": "Fi'il Mudhari' Marfu'",
+        "irab_dan_logika": "Marfu' dengan dhammah. Berfungsi sebagai Shilah Maushul bagi kata 'man'."
       },
-      "hikmah": "Sama seperti 'نَشَآءُ', ini menekankan kembali bahwa pemberian di dunia ini sepenuhnya berdasarkan kehendak Allah. Pengulangan ini memperkuat gagasan bahwa manusia tidak memiliki kendali mutlak atas apa yang mereka terima di dunia, melainkan bergantung pada kehendak Ilahi.",
+      "hikmah": "Menekankan kembali kedaulatan Allah dalam memilih siapa saja yang layak menerima bagian dunia tersebut.",
       "role": "none"
     },
     {
       "index": 11,
-      "kata_arab": "ثُمَّ",
+      "kata_arab": "ثُمَّ",
       "transliterasi": "thumma",
-      "jenis_kata": "Huruf 'Athaf (konjungsi)",
+      "jenis_kata": "Harf 'Athaf",
       "arti": "kemudian",
       "sharaf": {
-        "akar_kata": "Tidak berlaku untuk huruf.",
-        "makna_dasar": "Menunjukkan urutan waktu atau urutan logis dengan jeda atau penundaan.",
-        "wazan_perubahan": "Tidak berlaku."
+        "akar_kata": "N/A",
+        "makna_dasar": "Urutan dengan jeda waktu",
+        "wazan_perubahan": "Harf Mabni"
       },
       "nahwu": {
-        "kedudukan": "Huruf 'Athaf, mabni",
-        "irab_dan_logika": "Huruf 'Athaf tidak memiliki i'rab, ia berfungsi menghubungkan dua kalimat atau frasa dan menunjukkan urutan."
+        "kedudukan": "Harf 'Athaf lit-tarakhi",
+        "irab_dan_logika": "Menghubungkan kalimat sebelumnya dengan kalimat sesudahnya yang menunjukkan urutan waktu yang lebih lambat (akhirat)."
       },
-      "hikmah": "Menunjukkan konsekuensi yang datang setelah pemberian duniawi. Meskipun seseorang mendapatkan apa yang diinginkan di dunia, 'kemudian' (thumma) ada takdir lain yang menanti di akhirat, yaitu neraka Jahannam bagi mereka yang hanya menghendaki dunia. Ini menekankan adanya jeda dan urutan antara kehidupan dunia dan akhirat, serta konsekuensi dari pilihan hidup.",
+      "hikmah": "Menandakan adanya perpindahan fase dari kenikmatan dunia yang sementara menuju balasan akhirat yang pasti bagi mereka.",
       "role": "none"
     },
     {
       "index": 12,
-      "kata_arab": "جَعَلْنَا",
-      "transliterasi": "Ja'alnā",
-      "jenis_kata": "Fi'il",
-      "arti": "Kami jadikan/Kami tentukan",
+      "kata_arab": "جَعَلۡنَا",
+      "transliterasi": "ja'alnaa",
+      "jenis_kata": "kata kerja",
+      "arti": "kami jadikan",
       "sharaf": {
-        "akar_kata": "ج ع ل",
-        "makna_dasar": "Menjadikan, membuat, menempatkan, menentukan",
-        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau), jama' mutakallimin (orang pertama jamak), wazan فَعَلْنَا"
+        "akar_kata": "ج-ع-ل",
+        "makna_dasar": "membuat atau menjadikan",
+        "wazan_perubahan": "taf'ul"
       },
       "nahwu": {
-        "kedudukan": "Fi'il (kata kerja) dan Fa'il (subjek) berupa dhamir 'nā' (Kami)",
-        "irab_dan_logika": "Fi'il Madhi mabniyyun 'ala as-sukun li-ittisalihi bi nā al-fa'ilin (Kata kerja lampau yang mabni sukun karena bersambung dengan 'nā' fa'il)."
+        "kedudukan": "kata kerja utama",
+        "irab_dan_logika": "subyek kata kerja"
       },
-      "hikmah": "Menunjukkan kekuasaan dan kehendak mutlak Allah dalam menentukan takdir dan balasan bagi hamba-Nya, baik di dunia maupun di akhirat.",
+      "hikmah": "Kami menjadikan atau menyediakan",
       "role": "none"
     },
     {
       "index": 13,
       "kata_arab": "لَهُۥ",
-      "transliterasi": "Lahū",
-      "jenis_kata": "Huruf dan Isim",
-      "arti": "Baginya",
+      "transliterasi": "lahu",
+      "jenis_kata": "kata ganti",
+      "arti": "kepadanya",
       "sharaf": {
-        "akar_kata": "ل (huruf) + هـ (dhamir)",
-        "makna_dasar": "Kepemilikan, tujuan, untuk",
-        "wazan_perubahan": "Huruf Jar (ل) + Dhamir muttasil (ه) untuk orang ketiga tunggal laki-laki"
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
       },
       "nahwu": {
-        "kedudukan": "Jar Majrur (preposisi dan objeknya)",
-        "irab_dan_logika": "Lam (ل) adalah huruf jar. Ha' (ه) adalah dhamir muttasil mabni 'ala ad-dhamm fi mahalli jarr bi al-harf (Dhamir yang mabni dammah pada posisi majrur karena huruf jar)."
+        "kedudukan": "objek kata kerja",
+        "irab_dan_logika": "objek penerima"
       },
-      "hikmah": "Menegaskan bahwa balasan neraka Jahannam itu telah ditentukan secara khusus dan pasti bagi orang yang disebutkan sebelumnya dalam ayat.",
+      "hikmah": "kepadanya",
       "role": "none"
     },
     {
       "index": 14,
-      "kata_arab": "جَهَنَّمَ",
-      "transliterasi": "Jahannama",
-      "jenis_kata": "Isim",
-      "arti": "Jahannam (nama neraka)",
+      "kata_arab": "جَهَنَّمَ",
+      "transliterasi": "jahannama",
+      "jenis_kata": "kata benda",
+      "arti": "neraka",
       "sharaf": {
-        "akar_kata": "ج ه ن م (nama diri)",
-        "makna_dasar": "Nama salah satu tingkatan neraka, tempat balasan bagi orang-orang durhaka",
-        "wazan_perubahan": "Isim ghairu munsharif (tidak menerima tanwin)"
+        "akar_kata": "ج-ه-ن-م",
+        "makna_dasar": "tempat penyiksaan",
+        "wazan_perubahan": "-"
       },
       "nahwu": {
-        "kedudukan": "Maf'ul bih (objek) dari fi'il 'جَعَلْنَا' (Kami tentukan)",
-        "irab_dan_logika": "Maf'ul bih mansubun wa 'alamatun nasbihi al-fathah an-niyabah 'an al-kasrah li annahu ismun ghairu munsharif (Objek yang mansub dengan tanda fathah sebagai pengganti kasrah karena ia adalah isim ghairu munsharif)."
+        "kedudukan": "objek kata kerja",
+        "irab_dan_logika": "tempat tujuan"
       },
-      "hikmah": "Menegaskan bahwa neraka Jahannam adalah balasan akhir yang pasti bagi mereka yang memilih kehidupan duniawi semata dan menolak petunjuk Allah.",
+      "hikmah": "neraka Jahanam",
       "role": "none"
     },
     {
       "index": 15,
-      "kata_arab": "يَصْلَىٰهَا",
-      "transliterasi": "Yaṣlāhā",
-      "jenis_kata": "Fi'il dan Isim",
-      "arti": "Dia akan memasukinya/Dia akan terbakar di dalamnya",
+      "kata_arab": "يَصۡلَىٰهَا",
+      "transliterasi": "yaslaaha",
+      "jenis_kata": "kata kerja",
+      "arti": "dia memasukinya",
       "sharaf": {
-        "akar_kata": "ص ل ي",
-        "makna_dasar": "Memasuki, terbakar, merasakan panas",
-        "wazan_perubahan": "Fi'il Mudhari' (kata kerja sekarang/akan datang) untuk orang ketiga tunggal laki-laki (hua) + dhamir muttasil (ها) sebagai maf'ul bih. Wazan: يَفْعَلُهَا"
+        "akar_kata": "ص-ل-و",
+        "makna_dasar": "memasuki atau menempati",
+        "wazan_perubahan": "taf'ul"
       },
       "nahwu": {
-        "kedudukan": "Fi'il Mudhari' dan Maf'ul bih (dhamir 'hā'). Fa'ilnya mustatir (tersembunyi) kembali kepada 'man' (barangsiapa) sebelumnya.",
-        "irab_dan_logika": "Fi'il Mudhari' marfu'un wa 'alamatun raf'ihi ad-dhammah al-muqaddarah 'ala al-alif li at-ta'adhdhur. Ha' (ها) dhamir muttasil mabni 'ala as-sukun fi mahalli nasb maf'ul bih (Fi'il mudhari' yang marfu' dengan dammah muqaddarah di atas alif karena sulit diucapkan. 'Ha' adalah dhamir muttasil mabni sukun pada posisi nashab sebagai maf'ul bih)."
+        "kedudukan": "kata kerja utama",
+        "irab_dan_logika": "subyek kata kerja"
       },
-      "hikmah": "Menggambarkan kepastian dan penderitaan yang akan dialami oleh penghuni neraka, menunjukkan bahwa mereka akan merasakan langsung azabnya.",
+      "hikmah": "dia memasukinya",
       "role": "none"
     },
     {
       "index": 16,
-      "kata_arab": "مَذْمُومًۭا",
-      "transliterasi": "Madhmūman",
-      "jenis_kata": "Isim",
-      "arti": "Dalam keadaan tercela",
+      "kata_arab": "مَذۡمُومࣰ",
+      "transliterasi": "madhmum",
+      "jenis_kata": "kata sifat",
+      "arti": "tercela",
       "sharaf": {
-        "akar_kata": "ذ م م",
-        "makna_dasar": "Mencela, mencerca, menghina",
-        "wazan_perubahan": "Isim Maf'ul (kata benda pasif), wazan مَفْعُولٌ"
+        "akar_kata": "ذ-م-م",
+        "makna_dasar": "dicela atau dibenci",
+        "wazan_perubahan": "-"
       },
       "nahwu": {
-        "kedudukan": "Hal (keadaan) bagi fa'il yang tersembunyi (yaitu orang yang masuk neraka)",
-        "irab_dan_logika": "Hal mansubun wa 'alamatun nasbihi al-fathah az-zhahirah (Hal yang mansub dengan tanda fathah yang jelas)."
+        "kedudukan": "sifat",
+        "irab_dan_logika": "menerangkan keadaan"
       },
-      "hikmah": "Menekankan kehinaan, penyesalan, dan aib yang akan menimpa penghuni neraka, menunjukkan bahwa mereka tidak hanya menderita fisik tetapi juga mental dan spiritual.",
+      "hikmah": "tercela",
       "role": "none"
     },
     {
       "index": 17,
-      "kata_arab": "مَّدْحُورًۭا",
-      "transliterasi": "Madḥūran",
-      "jenis_kata": "Isim",
-      "arti": "Dalam keadaan terusir/terbuang",
+      "kata_arab": "ا",
+      "transliterasi": "-",
+      "jenis_kata": "Huruf Tambahan",
+      "arti": "-",
       "sharaf": {
-        "akar_kata": "د ح ر",
-        "makna_dasar": "Mengusir, menyingkirkan, menjauhkan",
-        "wazan_perubahan": "Isim Maf'ul (kata benda pasif), wazan مَفْعُولٌ"
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
       },
       "nahwu": {
-        "kedudukan": "Hal (keadaan) kedua, atau 'athaf (penghubung) kepada hal sebelumnya",
-        "irab_dan_logika": "Hal mansubun wa 'alamatun nasbihi al-fathah az-zhahirah (Hal yang mansub dengan tanda fathah yang jelas)."
+        "kedudukan": "-",
+        "irab_dan_logika": "-"
       },
-      "hikmah": "Menggambarkan bahwa penghuni neraka akan terusir dari rahmat Allah dan segala kebaikan, tanpa harapan untuk kembali atau mendapatkan pertolongan, menegaskan keputusasaan mereka.",
+      "hikmah": "Huruf Alif tambahan (silent letter / tidak dibaca).",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "مَّدۡحُورࣰ",
+      "transliterasi": "Madḥūran",
+      "jenis_kata": "Isim (Isim Maf'ul)",
+      "arti": "Yang terusir / yang dijauhkan",
+      "sharaf": {
+        "akar_kata": "د - ح - ر (da-ha-ra)",
+        "makna_dasar": "Mengusir dengan paksa, menolak, atau menjauhkan",
+        "wazan_perubahan": "Maf'ūl (مَفْعُول) yang menunjukkan objek yang dikenai tindakan"
+      },
+      "nahwu": {
+        "kedudukan": "Hal (Keterangan Keadaan)",
+        "irab_dan_logika": "Manshub dengan tanda fathatain. Secara logika, kata ini berfungsi menjelaskan kondisi atau keadaan subjek (orang yang menghendaki dunia saja) saat ia memasuki neraka Jahanam."
+      },
+      "hikmah": "Madḥūran menggambarkan kehinaan yang sempurna. Tidak hanya disiksa secara fisik, orang tersebut juga diusir secara terhina dan dijauhkan dari rahmat serta kasih sayang Allah SWT di akhirat kelak.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "ا",
+      "transliterasi": "-",
+      "jenis_kata": "Huruf Tambahan",
+      "arti": "-",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "-",
+        "irab_dan_logika": "-"
+      },
+      "hikmah": "Huruf Alif tambahan (silent letter / tidak dibaca).",
       "role": "none"
     }
   ]

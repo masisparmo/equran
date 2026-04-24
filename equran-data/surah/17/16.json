@@ -4,254 +4,272 @@
   "words": [
     {
       "index": 0,
-      "kata_arab": "وَإِذَآ",
+      "kata_arab": "وَإِذَآ",
       "transliterasi": "wa-idhā",
-      "jenis_kata": "Huruf/Isim",
-      "arti": "Dan apabila / Dan jika",
+      "jenis_kata": "kata penghubung",
+      "arti": "dan jika",
       "sharaf": {
-        "akar_kata": "ذ و ي",
-        "makna_dasar": "waktu, kondisi",
-        "wazan_perubahan": "Tidak berlaku (partikel dan isim ghair mutasharrif)"
+        "akar_kata": "idhā",
+        "makna_dasar": "jika",
+        "wazan_perubahan": "wa-idhā"
       },
       "nahwu": {
-        "kedudukan": "Huruf 'Athf (وَ) dan Zharaf Zaman/Harf Syarat (إِذَا)",
-        "irab_dan_logika": "وَ adalah huruf 'athf (penghubung). إِذَا adalah zharaf zaman (keterangan waktu) atau harf syarat ghair jazim (partikel syarat tidak menjazemkan), mabni (tetap) di atas sukun."
+        "kedudukan": "kata penghubung",
+        "irab_dan_logika": "menghubungkan kalimat"
       },
-      "hikmah": "Mengawali kalimat syarat, menunjukkan adanya suatu kondisi atau peristiwa yang akan terjadi, yaitu kehendak Allah untuk membinasakan suatu negeri.",
+      "hikmah": "menunjukkan kondisi atau syarat",
       "role": "none"
     },
     {
       "index": 1,
-      "kata_arab": "أَرَدْنَآ",
+      "kata_arab": "أَرَدۡنَآ",
       "transliterasi": "aradnā",
-      "jenis_kata": "Fi'il",
-      "arti": "Kami menghendaki / Kami hendak",
+      "jenis_kata": "kata kerja",
+      "arti": "Kami hendak",
       "sharaf": {
-        "akar_kata": "ر و د",
-        "makna_dasar": "keinginan, maksud",
-        "wazan_perubahan": "Fi'il Madhi, Wazan 'أَفْعَلَ' (bentuk IV), dhamir 'نَا' (Kami)"
+        "akar_kata": "r-w-d",
+        "makna_dasar": "menghendaki",
+        "wazan_perubahan": "aradnā"
       },
       "nahwu": {
-        "kedudukan": "Fi'il Madhi",
-        "irab_dan_logika": "Fi'il Madhi (kata kerja lampau) yang mabni (tetap) di atas sukun karena bersambung dengan dhamir rafa' muttasil 'نَا' (Kami) yang berfungsi sebagai fa'il (pelaku)."
+        "kedudukan": "kata kerja",
+        "irab_dan_logika": "menjelaskan tindakan"
       },
-      "hikmah": "Menunjukkan kehendak atau niat ilahi yang menjadi pemicu atau sebab bagi tindakan selanjutnya, yaitu pembinasaan suatu negeri.",
+      "hikmah": "menunjukkan keinginan atau niat",
       "role": "none"
     },
     {
       "index": 2,
-      "kata_arab": "أَن",
+      "kata_arab": "أَن",
       "transliterasi": "an",
-      "jenis_kata": "Huruf",
-      "arti": "bahwa / untuk",
+      "jenis_kata": "kata penghubung",
+      "arti": "bahwa",
       "sharaf": {
-        "akar_kata": "Tidak berlaku",
-        "makna_dasar": "Tidak berlaku",
-        "wazan_perubahan": "Tidak berlaku (huruf)"
+        "akar_kata": "an",
+        "makna_dasar": "bahwa",
+        "wazan_perubahan": "an"
       },
       "nahwu": {
-        "kedudukan": "Harf Nashb dan Harf Mashdariyah",
-        "irab_dan_logika": "Huruf nashb (penashab) yang menjadikan fi'il mudhari' setelahnya mansub (berharakat fathah di akhir). Juga berfungsi sebagai harf mashdariyah, yang mengubah fi'il mudhari' setelahnya menjadi makna mashdar (kata benda verbal)."
+        "kedudukan": "kata penghubung",
+        "irab_dan_logika": "menghubungkan kalimat"
       },
-      "hikmah": "Menghubungkan kehendak Allah dengan tindakan yang akan dilakukan, yaitu pembinasaan, dan membentuk makna sumber dari tindakan tersebut.",
+      "hikmah": "menunjukkan bahwa",
       "role": "none"
     },
     {
       "index": 3,
-      "kata_arab": "نُّهْلِكَ",
+      "kata_arab": "نُّهۡلِكَ",
       "transliterasi": "nuhlika",
-      "jenis_kata": "Fi'il",
-      "arti": "Kami membinasakan / Kami menghancurkan",
+      "jenis_kata": "kata kerja",
+      "arti": "membinasakan",
       "sharaf": {
-        "akar_kata": "ه ل ك",
-        "makna_dasar": "kehancuran, kebinasaan",
-        "wazan_perubahan": "Fi'il Mudhari', Wazan 'أَفْعَلَ' (bentuk IV), dhamir 'نَحْنُ' (Kami) yang tersembunyi"
+        "akar_kata": "h-l-k",
+        "makna_dasar": "membinasakan",
+        "wazan_perubahan": "nuhlika"
       },
       "nahwu": {
-        "kedudukan": "Fi'il Mudhari' Mansub",
-        "irab_dan_logika": "Fi'il Mudhari' (kata kerja sekarang/akan datang) yang mansub (berharakat fathah di akhir) karena didahului oleh 'أَن' (harf nashb). Fa'il (pelaku) adalah dhamir 'نَحْنُ' (Kami) yang mustatir (tersembunyi)."
+        "kedudukan": "kata kerja",
+        "irab_dan_logika": "menjelaskan tindakan"
       },
-      "hikmah": "Menggambarkan tindakan langsung Allah dalam membinasakan, yang merupakan konsekuensi dari kehendak-Nya yang telah disebutkan sebelumnya.",
+      "hikmah": "menunjukkan tindakan membinasakan",
       "role": "none"
     },
     {
       "index": 4,
-      "kata_arab": "قَرْيَةً",
+      "kata_arab": "قَرۡيَةً",
       "transliterasi": "qaryatan",
-      "jenis_kata": "Isim",
-      "arti": "suatu negeri / sebuah desa/kota",
+      "jenis_kata": "kata benda",
+      "arti": "negeri",
       "sharaf": {
-        "akar_kata": "ق ر ي",
-        "makna_dasar": "tempat berkumpul, pemukiman",
-        "wazan_perubahan": "Isim Mufrad, Wazan 'فَعْلَة'"
+        "akar_kata": "q-r-y",
+        "makna_dasar": "negeri",
+        "wazan_perubahan": "qaryatan"
       },
       "nahwu": {
-        "kedudukan": "Maf'ul Bihi",
-        "irab_dan_logika": "Isim mufrad (kata benda tunggal) yang mansub (berharakat fathah dengan tanwin) karena berfungsi sebagai maf'ul bihi (objek) dari fi'il 'نُّهْلِكَ'. Tanwin menunjukkan indefinitas (tidak tertentu)."
+        "kedudukan": "objek",
+        "irab_dan_logika": "menerima tindakan"
       },
-      "hikmah": "Merujuk pada komunitas atau peradaban secara umum yang menjadi sasaran pembinasaan, menunjukkan bahwa prinsip ini berlaku untuk setiap negeri yang memenuhi syarat.",
+      "hikmah": "menunjukkan tempat atau lokasi",
       "role": "none"
     },
     {
       "index": 5,
-      "kata_arab": "أَمَرْنَا",
+      "kata_arab": "أَمَرۡنَا",
       "transliterasi": "amarnā",
-      "jenis_kata": "Fi'il",
+      "jenis_kata": "kata kerja",
       "arti": "Kami perintahkan",
       "sharaf": {
-        "akar_kata": "أ م ر",
-        "makna_dasar": "perintah, urusan",
-        "wazan_perubahan": "Fi'il Madhi, Wazan 'فَعَلَ' (bentuk I), dhamir 'نَا' (Kami)"
+        "akar_kata": "a-m-r",
+        "makna_dasar": "memerintahkan",
+        "wazan_perubahan": "amarnā"
       },
       "nahwu": {
-        "kedudukan": "Fi'il Madhi",
-        "irab_dan_logika": "Fi'il Madhi (kata kerja lampau) yang mabni (tetap) di atas sukun karena bersambung dengan dhamir rafa' muttasil 'نَا' (Kami) yang berfungsi sebagai fa'il (pelaku)."
+        "kedudukan": "kata kerja",
+        "irab_dan_logika": "menjelaskan tindakan"
       },
-      "hikmah": "Menunjukkan bahwa sebelum pembinasaan, Allah memberikan perintah atau arahan kepada penduduk negeri tersebut, yang mengindikasikan adanya kesempatan untuk bertaubat atau memperbaiki diri sebelum hukuman dijatuhkan.",
+      "hikmah": "menunjukkan tindakan memerintahkan",
       "role": "none"
     },
     {
       "index": 6,
-      "kata_arab": "مُتْرَفِيهَا",
+      "kata_arab": "مُتۡرَفِيهَا",
       "transliterasi": "mutrafīhā",
-      "jenis_kata": "Isim",
-      "arti": "orang-orang yang hidup mewah di negeri itu",
+      "jenis_kata": "Isim (Maf'ul) + Dhamir",
+      "arti": "orang-orang yang hidup mewah di dalamnya",
       "sharaf": {
-        "akar_kata": "ت ر ف",
-        "makna_dasar": "hidup mewah, dimanjakan, berlebihan dalam kenikmatan",
-        "wazan_perubahan": "Isim Fa'il (pelaku) dari Fi'il Madhi ruba'i (empat huruf) أَترَفَ (atrafa), dalam bentuk jamak mudzakkar salim yang di-idhafahkan ke dhamir هَا"
+        "akar_kata": "ر - ف - ه (R-F-H)",
+        "makna_dasar": "Kemewahan, kelapangan hidup, atau kesenangan",
+        "wazan_perubahan": "Isim Maf'ul dari Form IV (Atrafa) dalam bentuk jamak mudhaf"
       },
       "nahwu": {
-        "kedudukan": "Maf'ul bih (objek) dari fi'il yang tersirat (seperti 'Kami perintahkan') atau badal dari 'orang-orang yang Kami perintahkan'",
-        "irab_dan_logika": "Manshub (berharakat fathah) karena sebagai maf'ul bih. Tanda manshub untuk jamak mudzakkar salim adalah ya' (ي). Asalnya مُتْرَفِينَ, karena di-idhafahkan ke dhamir هَا (ha) maka nun-nya hilang menjadi مُتْرَفِيهَا."
+        "kedudukan": "Maf'ul Bih (Objek)",
+        "irab_dan_logika": "Manshub dengan tanda 'ya' karena jamak mudzakkar salim. Huruf 'nun' dihapus karena idhafah (penyandaran) kepada dhamir 'ha'"
       },
-      "hikmah": "Menunjukkan bahwa kehancuran suatu negeri seringkali berawal dari kaum elit atau penguasa yang hidup berlebihan dan tidak taat, yang kemudian menjadi contoh buruk bagi masyarakat.",
+      "hikmah": "Merujuk pada golongan elit atau pemimpin masyarakat yang terlena dengan kemewahan sehingga menjadi penyebab kerusakan moral di negeri tersebut.",
       "role": "none"
     },
     {
       "index": 7,
-      "kata_arab": "فَفَسَقُوا۟",
+      "kata_arab": "فَفَسَقُواْ",
       "transliterasi": "fafasaqū",
-      "jenis_kata": "Fi'il",
-      "arti": "lalu mereka berbuat durhaka/menyimpang",
+      "jenis_kata": "Fi'il Madhi + Fa (Ataf)",
+      "arti": "lalu mereka berbuat fasik/durhaka",
       "sharaf": {
-        "akar_kata": "ف س ق",
-        "makna_dasar": "keluar dari ketaatan, menyimpang dari jalan yang benar, berbuat durhaka",
-        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau) wazan فَعَلَ (fa'ala), dalam bentuk jamak mudzakkar ghaib (mereka laki-laki)"
+        "akar_kata": "ف - س - ق (F-S-Q)",
+        "makna_dasar": "Keluar dari ketaatan atau keluar dari kulitnya (seperti kurma)",
+        "wazan_perubahan": "Fi'il Madhi, Form I, Jamak Mudzakkar"
       },
       "nahwu": {
-        "kedudukan": "Fi'il Madhi, merupakan jawaban dari syarat yang tersirat atau kelanjutan dari peristiwa sebelumnya",
-        "irab_dan_logika": "Mabni (tetap) di atas dhammah karena bersambung dengan wawu jama'ah (و). Huruf fa' (ف) di awal adalah fa' athaf (penghubung) yang menunjukkan urutan kejadian."
+        "kedudukan": "Ma'thuf (Kata kerja penyambung)",
+        "irab_dan_logika": "Mabni 'ala dhommi karena bersambung dengan Wawul Jama'ah yang berkedudukan sebagai Fa'il (subjek)"
       },
-      "hikmah": "Menggambarkan konsekuensi langsung dari perintah yang diabaikan oleh kaum mutrafin, yaitu mereka memilih untuk berbuat kerusakan dan penyimpangan. Ini adalah titik balik menuju kehancuran.",
+      "hikmah": "Menjelaskan tindakan nyata para elit tersebut yang memilih untuk melanggar aturan Allah setelah diberikan kenikmatan.",
       "role": "none"
     },
     {
       "index": 8,
       "kata_arab": "فِيهَا",
       "transliterasi": "fīhā",
-      "jenis_kata": "Huruf + Isim",
+      "jenis_kata": "Harf Jar + Dhamir",
       "arti": "di dalamnya (negeri itu)",
       "sharaf": {
-        "akar_kata": "Tidak ada akar kata untuk huruf jar. Dhamir هَا (ha) merujuk pada 'negeri' (القرية/البلدة).",
-        "makna_dasar": "menunjukkan tempat atau lokasi",
-        "wazan_perubahan": "Terdiri dari huruf jar فِي (fī) dan dhamir muttasil هَا (hā)"
+        "akar_kata": "N/A",
+        "makna_dasar": "Menunjukkan keterangan tempat (zharfiyyah)",
+        "wazan_perubahan": "Kombinasi preposisi 'fii' dan kata ganti 'haa'"
       },
       "nahwu": {
-        "kedudukan": "Jar Majrur (preposisi dan objeknya)",
-        "irab_dan_logika": "فِي (fī) adalah huruf jar, sehingga menjadikan kata setelahnya majrur. Dhamir هَا (hā) adalah dhamir mabni (tetap) dalam posisi majrur."
+        "kedudukan": "Jar wa Majrur",
+        "irab_dan_logika": "Muta'alliq (terkait) dengan kata kerja 'fasaquu'. Dhamir 'haa' kembali kepada 'qaryah' (negeri)"
       },
-      "hikmah": "Menekankan bahwa kedurhakaan itu terjadi di dalam negeri itu sendiri, menunjukkan bahwa kerusakan itu internal dan merata di lingkungan mereka.",
+      "hikmah": "Menegaskan bahwa kemaksiatan tersebut dilakukan secara terang-terangan di dalam lingkungan negeri tersebut.",
       "role": "none"
     },
     {
       "index": 9,
-      "kata_arab": "فَحَقَّ",
-      "transliterasi": "faḥaqqa",
-      "jenis_kata": "Fi'il",
-      "arti": "maka sudah sepantasnya berlaku/pasti terjadi",
+      "kata_arab": "فَحَقَّ",
+      "transliterasi": "fahaqqa",
+      "jenis_kata": "Fi'il Madhi + Fa (Sababiyah)",
+      "arti": "maka tetaplah / pastilah",
       "sharaf": {
-        "akar_kata": "ح ق ق",
-        "makna_dasar": "benar, pasti, wajib, berlaku, menjadi kenyataan",
-        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau) wazan فَعَلَ (fa'ala)"
+        "akar_kata": "ح - ق - ق (H-Q-Q)",
+        "makna_dasar": "Kebenaran, kepastian, atau kewajiban",
+        "wazan_perubahan": "Fi'il Madhi, Form I, Mufrad Mudzakkar"
       },
       "nahwu": {
-        "kedudukan": "Fi'il Madhi, merupakan jawaban dari syarat atau konsekuensi dari perbuatan fasik sebelumnya",
-        "irab_dan_logika": "Mabni (tetap) di atas fathah karena Fi'il Madhi yang tidak bersambung dengan dhamir rafa' mutaharrik atau wawu jama'ah. Huruf fa' (ف) di awal adalah fa' athaf/sababiyah (penghubung/penyebab)."
+        "kedudukan": "Fi'il Madhi (Kata kerja masa lampau)",
+        "irab_dan_logika": "Mabni 'alal fathi. Huruf 'Fa' menunjukkan konsekuensi logis dari perbuatan fasik sebelumnya"
       },
-      "hikmah": "Menunjukkan bahwa setelah kedurhakaan terjadi, keputusan atau ketetapan Allah untuk menghancurkan negeri itu menjadi suatu keniscayaan dan kebenaran yang tak terhindarkan. Ini adalah hukum kausalitas ilahi.",
+      "hikmah": "Menunjukkan bahwa hukuman Allah bukanlah kezaliman, melainkan konsekuensi pasti yang 'berhak' diterima akibat perilaku mereka sendiri.",
       "role": "none"
     },
     {
       "index": 10,
-      "kata_arab": "عَلَيْهَا",
+      "kata_arab": "عَلَيۡهَا",
       "transliterasi": "alayhā",
-      "jenis_kata": "Huruf + Isim",
-      "arti": "atasnya (negeri itu)",
+      "jenis_kata": "Harf Jar + Dhamir",
+      "arti": "atasnya / terhadapnya (negeri itu)",
       "sharaf": {
-        "akar_kata": "Tidak ada akar kata untuk huruf jar. Dhamir هَا (ha) merujuk pada 'negeri' (القرية/البلدة).",
-        "makna_dasar": "menunjukkan 'atas', 'terhadap', 'menimpa'",
-        "wazan_perubahan": "Terdiri dari huruf jar عَلَى (alā) dan dhamir muttasil هَا (hā)"
+        "akar_kata": "N/A",
+        "makna_dasar": "Menunjukkan posisi di atas atau beban kewajiban",
+        "wazan_perubahan": "Kombinasi preposisi 'ala' dan kata ganti 'haa'"
       },
       "nahwu": {
-        "kedudukan": "Jar Majrur (preposisi dan objeknya)",
-        "irab_dan_logika": "عَلَى (alā) adalah huruf jar, sehingga menjadikan kata setelahnya majrur. Dhamir هَا (hā) adalah dhamir mabni (tetap) dalam posisi majrur."
+        "kedudukan": "Jar wa Majrur",
+        "irab_dan_logika": "Muta'alliq dengan kata kerja 'haqqa'. Dhamir 'haa' merujuk pada objek hukuman (negeri tersebut)"
       },
-      "hikmah": "Menjelaskan bahwa ketetapan (القول) itu berlaku dan menimpa negeri tersebut, menegaskan bahwa hukuman itu ditujukan secara spesifik kepada mereka.",
+      "hikmah": "Menegaskan bahwa ketetapan hukuman tersebut kini telah jatuh dan membebani negeri tersebut tanpa bisa dihindari.",
       "role": "none"
     },
     {
       "index": 11,
-      "kata_arab": "ٱلْقَوْلُ",
+      "kata_arab": "ٱلۡقَوۡلُ",
       "transliterasi": "al-qawlu",
       "jenis_kata": "Isim",
-      "arti": "perkataan/ketentuan",
+      "arti": "perkataan / ketentuan",
       "sharaf": {
-        "akar_kata": "ق و ل",
-        "makna_dasar": "berkata, ucapan, perkataan, keputusan, ketetapan",
-        "wazan_perubahan": "Isim Masdar (kata benda verbal) dari Fi'il Madhi قَالَ (qāla) - يَقُولُ (yaqūlu), wazan فَعْلٌ (fa'lun)"
+        "akar_kata": "ق - و - ل (Q-W-L)",
+        "makna_dasar": "Ucapan atau perkataan",
+        "wazan_perubahan": "Isim Mashdar dengan Alif-Lam (Ma'rifah)"
       },
       "nahwu": {
-        "kedudukan": "Fa'il (subjek) dari fi'il فَحَقَّ (faḥaqqa)",
-        "irab_dan_logika": "Marfu' (berharakat dhammah) karena sebagai fa'il (subjek). Fa'il selalu marfu'."
+        "kedudukan": "Fa'il (Subjek)",
+        "irab_dan_logika": "Marfu' dengan tanda dhommah. Menjadi subjek dari kata kerja 'haqqa'"
       },
-      "hikmah": "Merujuk pada ketetapan atau keputusan Allah yang pasti akan terjadi sebagai konsekuensi dari kedurhakaan. Ini adalah 'hukuman' atau 'ancaman' yang telah ditetapkan.",
+      "hikmah": "Dalam konteks ini, 'al-qawl' bermakna janji Allah tentang azab atau ketetapan hukuman yang telah disebutkan dalam kitab-kitab-Nya.",
       "role": "none"
     },
     {
       "index": 12,
-      "kata_arab": "فَدَمَّرْنَٰهَا",
-      "transliterasi": "fa-dammarnāhā",
-      "jenis_kata": "Fi'il (kata kerja) + Huruf + Isim (dhamir)",
-      "arti": "Maka Kami binasakan dia (negeri itu)",
+      "kata_arab": "فَدَمَّرۡنَٰهَا",
+      "transliterasi": "fadammarnāhā",
+      "jenis_kata": "kata kerja",
+      "arti": "kami hancurkan",
       "sharaf": {
-        "akar_kata": "د م ر (D-M-R)",
-        "makna_dasar": "Membinasakan, menghancurkan, merusak secara total.",
-        "wazan_perubahan": "Fi'il Madhi dari wazan فَعَّلَ (fa''ala), menunjukkan intensitas atau kausatif. Bentuk jamak mutakallim (kami)."
+        "akar_kata": "د-م-ر",
+        "makna_dasar": "hancur",
+        "wazan_perubahan": "fafʿala"
       },
       "nahwu": {
-        "kedudukan": "فَ (fa) adalah huruf 'athaf/isti'naf. دَمَّرْنَا (dammarnā) adalah fi'il madhi dengan dhamir 'na' sebagai fa'il (subjek). هَا (hā) adalah dhamir muttasil sebagai maf'ul bih (objek).",
-        "irab_dan_logika": "فَ (fa) mabni 'ala al-fath. دَمَّرْنَا (dammarnā) adalah fi'il madhi mabni 'ala as-sukun karena bersambung dengan dhamir rafa' mutaharrik 'na'. Dhamir 'na' mabni 'ala as-sukun fi mahalli rafa' sebagai fa'il. هَا (hā) adalah dhamir muttasil mabni 'ala as-sukun fi mahalli nasb sebagai maf'ul bih."
+        "kedudukan": "predikat",
+        "irab_dan_logika": "kata kerja dalam bentuk madi (lampau) dengan subyek kami"
       },
-      "hikmah": "Kata ini menunjukkan tindakan Allah yang tegas dan menyeluruh dalam membinasakan suatu negeri. Penggunaan wazan فَعَّلَ (fa''ala) mengindikasikan intensitas dan kesempurnaan penghancuran sebagai konsekuensi dari kedurhakaan mereka.",
+      "hikmah": "Kami menghancurkan atau membinasakan",
       "role": "none"
     },
     {
       "index": 13,
-      "kata_arab": "تَدْمِيرًۭا",
-      "transliterasi": "tadmīran",
-      "jenis_kata": "Isim (Masdar)",
-      "arti": "Penghancuran, pembinasaan (secara total)",
+      "kata_arab": "تَدۡمِيرࣰ",
+      "transliterasi": "tadmīr",
+      "jenis_kata": "kata benda",
+      "arti": "penghancuran",
       "sharaf": {
-        "akar_kata": "د م ر (D-M-R)",
-        "makna_dasar": "Membinasakan, menghancurkan.",
-        "wazan_perubahan": "Masdar dari wazan فَعَّلَ (fa''ala), yaitu تَفْعِيلٌ (taf'īlun). Ini adalah masdar dari fi'il دَمَّرَ (dammara)."
+        "akar_kata": "د-م-ر",
+        "makna_dasar": "hancur",
+        "wazan_perubahan": "tafʿīl"
       },
       "nahwu": {
-        "kedudukan": "Maf'ul Mutlaq (objek absolut)",
-        "irab_dan_logika": "Mansub (berharakat fathah tanwin) karena berfungsi sebagai maf'ul mutlaq, yang datang untuk menguatkan makna dari fi'il sebelumnya (دَمَّرْنَا)."
+        "kedudukan": "objek",
+        "irab_dan_logika": "kata benda yang menunjukkan hasil atau proses"
       },
-      "hikmah": "Sebagai maf'ul mutlaq, 'تَدْمِيرًۭا' berfungsi untuk menguatkan dan menegaskan makna dari fi'il 'دَمَّرْنَا' (Kami binasakan). Ini berarti penghancuran yang dilakukan oleh Allah adalah penghancuran yang sungguh-sungguh, total, dan tidak menyisakan apa pun, menunjukkan ketegasan dan kesempurnaan hukuman Allah.",
+      "hikmah": "Penghancuran atau kehancuran",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "ا",
+      "transliterasi": "-",
+      "jenis_kata": "Huruf Tambahan",
+      "arti": "-",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "-",
+        "irab_dan_logika": "-"
+      },
+      "hikmah": "Huruf Alif tambahan (silent letter / tidak dibaca).",
       "role": "none"
     }
   ]

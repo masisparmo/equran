@@ -4,38 +4,92 @@
   "words": [
     {
       "index": 0,
-      "kata_arab": "وَءَاتَيْنَٰهُمْ",
-      "transliterasi": "wa-ʾāṭaynāhum",
-      "jenis_kata": "Fi'il (verb) dengan huruf wa",
-      "arti": "dan Kami telah memberi mereka",
+      "kata_arab": "وَءَاتَيۡنَٰهُمۡ",
+      "transliterasi": "wa-ātaynāhum",
+      "jenis_kata": "Fi'il Madhi + Fa'il + Maf'ul Bih",
+      "arti": "dan Kami telah mendatangkan kepada mereka",
       "sharaf": {
-        "akar_kata": "أ-ط-ى",
-        "makna_dasar": "memberi, mengarahkan",
-        "wazan_perubahan": "فَعَلَ (past) + ن + هم (penambahan alif dan huruf hubung)"
+        "akar_kata": "أ ت ي (Hamzah-Ta-Ya)",
+        "makna_dasar": "datang atau memberi",
+        "wazan_perubahan": "Af'ala (أفعل) yang bermakna memberikan atau mendatangkan"
       },
       "nahwu": {
-        "kedudukan": "Fi'il madhi (kata kerja) sebagai predikat utama, didahului huruf wa",
-        "irab_dan_logika": "مبني على الفتح لأن فعل ماضٍ لا يُعرب"
+        "kedudukan": "Fi'il Madhi Mabni 'ala sukun",
+        "irab_dan_logika": "Huruf 'Wa' adalah Athaf. 'Atayna' terdiri dari fi'il dan 'Na' sebagai subjek (Fa'il) yang merujuk pada keagungan Allah. 'Hum' adalah objek (Maf'ul Bih) pertama."
       },
-      "hikmah": "Menunjukkan bahwa Allah telah menurunkan tanda‑tanda yang jelas, namun manusia tetap menolak.",
+      "hikmah": "Kata ini menegaskan bahwa Allah secara langsung telah memberikan bukti-bukti nyata kepada kaum tersebut sebagai bentuk hujah.",
       "role": "none"
     },
     {
       "index": 1,
       "kata_arab": "ءَايَٰتِنَا",
       "transliterasi": "āyātinā",
-      "jenis_kata": "Isim (kata benda) jamak",
-      "arti": "tanda‑tanda Kami",
+      "jenis_kata": "Isim (Jamak Muannas Salim) + Mudhaf Ilaih",
+      "arti": "tanda-tanda (kekuasaan) Kami",
       "sharaf": {
-        "akar_kata": "أ-ي-ى",
-        "makna_dasar": "tanda, bukti",
-        "wazan_perubahan": "فَعِلَة (آية) → جمع آياتنا"
+        "akar_kata": "أ ي ي (Hamzah-Ya-Ya)",
+        "makna_dasar": "tanda atau bukti yang jelas",
+        "wazan_perubahan": "Jamak dari kata 'Ayah' (آية)"
       },
       "nahwu": {
-        "kedudukan": "Maf'ul bih (objek) dari fi'il 'āṭaynā'",
-        "irab_dan_logika": "منصوب بالفتحة لأنه مفعول به"
+        "kedudukan": "Maf'ul Bih kedua",
+        "irab_dan_logika": "Manshub dengan tanda kasrah karena merupakan Jamak Muannas Salim. 'Na' adalah dhamir muttashil yang berkedudukan sebagai Mudhaf Ilaih."
       },
-      "hikmah": "Ayat‑ayat tersebut adalah bukti kebesaran Allah yang seharusnya menimbulkan keimanan.",
+      "hikmah": "Merujuk pada mukjizat-mukjizat atau bukti kebenaran yang sangat jelas yang seharusnya membawa mereka pada keimanan.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "فَكَانُواْ",
+      "transliterasi": "fakānū",
+      "jenis_kata": "Fi'il Madhi Naqis",
+      "arti": "maka mereka adalah/menjadi",
+      "sharaf": {
+        "akar_kata": "ك و ن (Kaf-Waw-Nun)",
+        "makna_dasar": "ada atau terjadi",
+        "wazan_perubahan": "Fa'ala (فعل) - Kana"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Madhi Naqis",
+        "irab_dan_logika": "Huruf 'Fa' menunjukkan urutan atau akibat. Wawu Jama'ah di akhirnya berfungsi sebagai Isim Kana (subjek dari kata kerja bantu ini)."
+      },
+      "hikmah": "Menunjukkan keadaan atau respon yang menetap pada diri mereka setelah melihat tanda-tanda tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "عَنۡهَا",
+      "transliterasi": "anhā",
+      "jenis_kata": "Harf Jar + Dhamir",
+      "arti": "darinya (tanda-tanda itu)",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "menunjukkan jarak atau pemisahan",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Jar wa Majrur",
+        "irab_dan_logika": "Terdiri dari harf jar 'an' dan dhamir 'ha' yang kembali kepada kata 'Ayatina' (tanda-tanda). Secara sintaksis berkaitan dengan kata 'Mu'ridhin'."
+      },
+      "hikmah": "Menegaskan objek yang mereka jauhi atau abaikan, yaitu kebenaran yang dibawa oleh tanda-tanda Allah.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "مُعۡرِضِينَ",
+      "transliterasi": "mu'ridhīn",
+      "jenis_kata": "Isim Fa'il (Jamak Mudzakkar Salim)",
+      "arti": "orang-orang yang berpaling",
+      "sharaf": {
+        "akar_kata": "ع ر ض ('Ain-Ra-Dhad)",
+        "makna_dasar": "lebar, menampakkan, atau berpaling",
+        "wazan_perubahan": "Muf'ilun (مفعل) dari fi'il A'radha (أعرض) yang berarti memalingkan wajah/menolak"
+      },
+      "nahwu": {
+        "kedudukan": "Khabar Kana",
+        "irab_dan_logika": "Manshub dengan tanda 'Ya' karena merupakan Jamak Mudzakkar Salim. Ini menjelaskan sifat atau keadaan mereka dalam 'Kanu'."
+      },
+      "hikmah": "Menggambarkan sikap keras kepala dan kesengajaan mereka untuk tidak mau melihat atau menerima kebenaran meskipun sudah sangat jelas.",
       "role": "none"
     }
   ]

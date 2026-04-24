@@ -1,0 +1,402 @@
+{
+  "surah": 16,
+  "ayah": 71,
+  "words": [
+    {
+      "index": 0,
+      "kata_arab": "وَٱللَّهُ",
+      "transliterasi": "wa-Allāhu",
+      "jenis_kata": "Harf 'Athaf + Ism (Lafdzul Jalalah)",
+      "arti": "Dan Allah",
+      "sharaf": {
+        "akar_kata": "A-L-H (أ ل ه)",
+        "makna_dasar": "Tuhan yang disembah dengan sebenar-benarnya",
+        "wazan_perubahan": "N/A (Ism Jamid)"
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada' (Subjek)",
+        "irab_dan_logika": "Marfu' dengan tanda dhommah di akhir kata. Huruf 'Wawu' di awal berfungsi sebagai 'Isti'nafiyyah' (permulaan kalimat baru)."
+      },
+      "hikmah": "Allah adalah subjek utama yang menetapkan segala ketetapan, termasuk perbedaan karunia di antara makhluk-Nya.",
+      "role": "none"
+    },
+    {
+      "index": 1,
+      "kata_arab": "فَضَّلَ",
+      "transliterasi": "fadh-dhala",
+      "jenis_kata": "Fi'il Madhi (Kata Kerja Lampau)",
+      "arti": "Melebihkan / Mengutamakan",
+      "sharaf": {
+        "akar_kata": "F-Dh-L (ف ض ل)",
+        "makna_dasar": "Kelebihan, sisa, atau karunia",
+        "wazan_perubahan": "Fa''ala (فَعَّلَ) - menunjukkan makna intensitas atau pemberian yang banyak"
+      },
+      "nahwu": {
+        "kedudukan": "Khabar (Predikat)",
+        "irab_dan_logika": "Mabni 'alal fathi (tetap dengan harakat fathah). Secara struktur, ia membentuk 'Jumlah Fi'liyyah' yang menjelaskan apa yang dilakukan oleh Mubtada' (Allah)."
+      },
+      "hikmah": "Allah secara sengaja dan bijaksana memberikan kelebihan atau keutamaan kepada pihak tertentu di atas pihak lainnya.",
+      "role": "none"
+    },
+    {
+      "index": 2,
+      "kata_arab": "بَعۡضَكُمۡ",
+      "transliterasi": "ba'dhakum",
+      "jenis_kata": "Ism + Dhamir (Kata Ganti)",
+      "arti": "Sebagian kamu",
+      "sharaf": {
+        "akar_kata": "B-'a-Dh (ب ع ض)",
+        "makna_dasar": "Bagian dari sesuatu yang utuh",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Maf'ul Bih (Objek)",
+        "irab_dan_logika": "Manshub dengan tanda fathah pada kata 'ba'dha'. Kata 'kum' adalah mudhafun ilaih (kata ganti orang kedua jamak)."
+      },
+      "hikmah": "Menunjukkan bahwa objek yang diberi kelebihan adalah sekelompok manusia tertentu di antara sesama mereka.",
+      "role": "none"
+    },
+    {
+      "index": 3,
+      "kata_arab": "عَلَىٰ",
+      "transliterasi": "alā",
+      "jenis_kata": "Harf Jar (Kata Depan)",
+      "arti": "Atas / Terhadap",
+      "sharaf": {
+        "akar_kata": "a-L-W (ع ل و)",
+        "makna_dasar": "Ketinggian atau posisi di atas",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Harf Jar",
+        "irab_dan_logika": "Mabni 'alas sukun. Berfungsi menghubungkan kata kerja 'fadh-dhala' dengan pihak yang dibandingkan."
+      },
+      "hikmah": "Menunjukkan adanya tingkatan atau hierarki dalam pemberian karunia tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 4,
+      "kata_arab": "بَعۡضࣲ",
+      "transliterasi": "ba'dhin",
+      "jenis_kata": "Ism (Kata Benda)",
+      "arti": "Sebagian (yang lain)",
+      "sharaf": {
+        "akar_kata": "B-'a-Dh (ب ع ض)",
+        "makna_dasar": "Bagian",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Ism Majrur",
+        "irab_dan_logika": "Majrur dengan tanda kasratain karena didahului oleh harf jar 'ala."
+      },
+      "hikmah": "Merujuk pada kelompok manusia lain yang posisinya berada di bawah kelompok pertama dalam hal pembagian rezeki.",
+      "role": "none"
+    },
+    {
+      "index": 5,
+      "kata_arab": "فِي",
+      "transliterasi": "fī",
+      "jenis_kata": "Harf Jar",
+      "arti": "Dalam / Pada",
+      "sharaf": {
+        "akar_kata": "N/A",
+        "makna_dasar": "Wadah atau konteks (Zharfiyyah)",
+        "wazan_perubahan": "N/A"
+      },
+      "nahwu": {
+        "kedudukan": "Harf Jar",
+        "irab_dan_logika": "Mabni 'alas sukun. Berfungsi sebagai pembatas konteks (Zharf) untuk menjelaskan dalam hal apa kelebihan itu diberikan."
+      },
+      "hikmah": "Menandakan bahwa perbedaan derajat yang sedang dibicarakan secara spesifik berada dalam ruang lingkup rezeki/materi.",
+      "role": "none"
+    },
+    {
+      "index": 6,
+      "kata_arab": "ٱلرِّزۡقِ",
+      "transliterasi": "ar-rizqi",
+      "jenis_kata": "kata benda",
+      "arti": "rezeki",
+      "sharaf": {
+        "akar_kata": "ر ز ق",
+        "makna_dasar": "memberi",
+        "wazan_perubahan": "fi'il ma'rifa"
+      },
+      "nahwu": {
+        "kedudukan": "maf'ul bih",
+        "irab_dan_logika": "objek penerimaan"
+      },
+      "hikmah": "rezeki yang diberikan oleh Allah",
+      "role": "none"
+    },
+    {
+      "index": 7,
+      "kata_arab": "فَمَا",
+      "transliterasi": "fama",
+      "jenis_kata": "kata sambung",
+      "arti": "maka",
+      "sharaf": {
+        "akar_kata": "ف م",
+        "makna_dasar": "menghubungkan",
+        "wazan_perubahan": "kata sambung"
+      },
+      "nahwu": {
+        "kedudukan": "kata sambung",
+        "irab_dan_logika": "menghubungkan kalimat"
+      },
+      "hikmah": "menghubungkan kalimat sebelum dan sesudahnya",
+      "role": "none"
+    },
+    {
+      "index": 8,
+      "kata_arab": "ٱلَّذِينَ",
+      "transliterasi": "alladzina",
+      "jenis_kata": "kata ganti",
+      "arti": "orang-orang yang",
+      "sharaf": {
+        "akar_kata": "ل ذ ن",
+        "makna_dasar": "orang",
+        "wazan_perubahan": "kata ganti"
+      },
+      "nahwu": {
+        "kedudukan": "subyek",
+        "irab_dan_logika": "mengacu pada orang-orang tertentu"
+      },
+      "hikmah": "orang-orang yang memiliki rezeki lebih",
+      "role": "none"
+    },
+    {
+      "index": 9,
+      "kata_arab": "فُضِّلُوا",
+      "transliterasi": "fudhilu",
+      "jenis_kata": "kata kerja",
+      "arti": "dilebihkan",
+      "sharaf": {
+        "akar_kata": "ف ض ل",
+        "makna_dasar": "melebihkan",
+        "wazan_perubahan": "fi'il madi"
+      },
+      "nahwu": {
+        "kedudukan": "predikat",
+        "irab_dan_logika": "menggambarkan tindakan melebihkan"
+      },
+      "hikmah": "dilebihkan oleh Allah dalam hal rezeki",
+      "role": "none"
+    },
+    {
+      "index": 10,
+      "kata_arab": "بِرَآدِّي",
+      "transliterasi": "biraddi",
+      "jenis_kata": "kata sifat",
+      "arti": "dengan kekayaan",
+      "sharaf": {
+        "akar_kata": "ر د ي",
+        "makna_dasar": "kekayaan",
+        "wazan_perubahan": "kata sifat"
+      },
+      "nahwu": {
+        "kedudukan": "sifat",
+        "irab_dan_logika": "menggambarkan cara melebihkan"
+      },
+      "hikmah": "dengan kekayaan atau rezeki yang lebih",
+      "role": "none"
+    },
+    {
+      "index": 11,
+      "kata_arab": "رِزۡقِهِمۡ",
+      "transliterasi": "rizqihim",
+      "jenis_kata": "kata benda",
+      "arti": "rezeki mereka",
+      "sharaf": {
+        "akar_kata": "ر ز ق",
+        "makna_dasar": "memberi",
+        "wazan_perubahan": "fi'il ma'rifa"
+      },
+      "nahwu": {
+        "kedudukan": "objek",
+        "irab_dan_logika": "mengacu pada rezeki yang dimiliki"
+      },
+      "hikmah": "rezeki yang dimiliki oleh orang-orang yang dilebihkan",
+      "role": "none"
+    },
+    {
+      "index": 12,
+      "kata_arab": "عَلَىٰ",
+      "transliterasi": "‘alā",
+      "jenis_kata": "Harf Jarr (Preposisi)",
+      "arti": "atas / kepada",
+      "sharaf": {
+        "akar_kata": "n/a",
+        "makna_dasar": "Menunjukkan posisi di atas atau arah tujuan",
+        "wazan_perubahan": "n/a"
+      },
+      "nahwu": {
+        "kedudukan": "Harf Jarr",
+        "irab_dan_logika": "Berfungsi menjarkannya kata setelahnya (isim maushul 'ma'). Dalam konteks ini menghubungkan perbuatan memberikan rezeki kepada objeknya."
+      },
+      "hikmah": "Kata depan yang menunjukkan kepada siapa rezeki itu seharusnya diberikan, yaitu kepada para hamba sahaya.",
+      "role": "none"
+    },
+    {
+      "index": 13,
+      "kata_arab": "مَا",
+      "transliterasi": "mā",
+      "jenis_kata": "Isim Maushul (Kata Ganti Penghubung)",
+      "arti": "apa yang / orang-orang yang",
+      "sharaf": {
+        "akar_kata": "n/a",
+        "makna_dasar": "Kata ganti untuk sesuatu yang umum atau tidak berakal (dalam konteks hukum sering digunakan untuk hamba sahaya)",
+        "wazan_perubahan": "n/a"
+      },
+      "nahwu": {
+        "kedudukan": "Isim Maushul dalam posisi Majrur",
+        "irab_dan_logika": "Mabni (tetap), berkedudukan sebagai objek dari preposisi 'ala. Ia membutuhkan kalimat penjelas (shilah) setelahnya."
+      },
+      "hikmah": "Merujuk kepada kelompok hamba sahaya yang berada di bawah kepemilikan orang-orang merdeka tersebut.",
+      "role": "none"
+    },
+    {
+      "index": 14,
+      "kata_arab": "مَلَكَتۡ",
+      "transliterasi": "malakat",
+      "jenis_kata": "Fi'il Madhi (Kata Kerja Lampau)",
+      "arti": "telah memiliki",
+      "sharaf": {
+        "akar_kata": "m-l-k (ملك)",
+        "makna_dasar": "Memiliki, menguasai, atau menggenggam",
+        "wazan_perubahan": "Fa'alat (فَعَلَتْ) - Orang ketiga tunggal feminin"
+      },
+      "nahwu": {
+        "kedudukan": "Fi'il Madhi (Shilah Maushul)",
+        "irab_dan_logika": "Mabni 'ala al-fath. Ta' di akhir adalah ta' tanits (penanda feminin) karena subjeknya (ayman) adalah jamak taksir lighairi aqil."
+      },
+      "hikmah": "Menegaskan status kepemilikan yang sah secara hukum pada masa itu terhadap hamba sahaya.",
+      "role": "none"
+    },
+    {
+      "index": 15,
+      "kata_arab": "أَيۡمَٰنُهُمۡ",
+      "transliterasi": "aymānuhum",
+      "jenis_kata": "Isim (Jamak) + Dhamir (Kata Ganti)",
+      "arti": "tangan-tangan kanan mereka",
+      "sharaf": {
+        "akar_kata": "y-m-n (يمن)",
+        "makna_dasar": "Kanan, kekuatan, atau sumpah",
+        "wazan_perubahan": "Af'āl (أَفْعَال) - bentuk jamak dari yamin"
+      },
+      "nahwu": {
+        "kedudukan": "Fa'il (Subjek) dan Mudhaf Ilaih",
+        "irab_dan_logika": "Ayman adalah Fa'il dari malakat (Marfu' dengan dhummah). 'Hum' adalah dhamir muttashil sebagai mudhaf ilaih."
+      },
+      "hikmah": "Istilah kiasan Al-Qur'an untuk menyebut hamba sahaya, menggambarkan mereka berada dalam kekuasaan dan perlindungan tangan kanan pemiliknya.",
+      "role": "none"
+    },
+    {
+      "index": 16,
+      "kata_arab": "فَهُمۡ",
+      "transliterasi": "fa-hum",
+      "jenis_kata": "Harf 'Athaf + Dhamir Munfashil",
+      "arti": "maka mereka",
+      "sharaf": {
+        "akar_kata": "n/a",
+        "makna_dasar": "Fa (maka/sehingga) menunjukkan akibat; Hum (mereka) merujuk pada pemilik dan hamba",
+        "wazan_perubahan": "n/a"
+      },
+      "nahwu": {
+        "kedudukan": "Mubtada' (Subjek)",
+        "irab_dan_logika": "Fa adalah harf rabth (penghubung konsekuensi). Hum adalah dhamir munfashil yang menempati posisi Marfu' sebagai subjek kalimat baru."
+      },
+      "hikmah": "Menunjukkan hasil atau tujuan yang diharapkan: agar antara pemilik dan hamba menjadi setara dalam hal pemanfaatan rezeki.",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "فِيهِ",
+      "transliterasi": "fīhi",
+      "jenis_kata": "Harf Jarr + Dhamir",
+      "arti": "di dalamnya / dalam hal itu",
+      "sharaf": {
+        "akar_kata": "n/a",
+        "makna_dasar": "Fi (di dalam) menunjukkan wadah atau konteks; Hi (nya) merujuk pada rezeki",
+        "wazan_perubahan": "n/a"
+      },
+      "nahwu": {
+        "kedudukan": "Jar wa Majrur",
+        "irab_dan_logika": "Berkaitan dengan makna kesamaan (sawa'). Dhamir 'hi' kembali kepada 'rizq' (rezeki) yang disebutkan di awal ayat."
+      },
+      "hikmah": "Menegaskan bahwa kesamaan yang dimaksud adalah dalam hal menikmati dan memanfaatkan rezeki pemberian Allah.",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "سَوَآءٌۚ",
+      "transliterasi": "sawāʾ",
+      "jenis_kata": "kata benda",
+      "arti": "kesamaan",
+      "sharaf": {
+        "akar_kata": "س-w-ʾ",
+        "makna_dasar": "kesamaan",
+        "wazan_perubahan": "sufiks -āʾ"
+      },
+      "nahwu": {
+        "kedudukan": "kata benda",
+        "irab_dan_logika": "mubtada"
+      },
+      "hikmah": "Kesamaan dalam merasakan rezeki",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "أَفَبِنِعۡمَةِ",
+      "transliterasi": "a-fa-bi-niʿmati",
+      "jenis_kata": "kata tanya",
+      "arti": "apakah dengan nikmat",
+      "sharaf": {
+        "akar_kata": "ن-ʿ-m",
+        "makna_dasar": "nikmat",
+        "wazan_perubahan": "prefiks a- dan sufiks -i"
+      },
+      "nahwu": {
+        "kedudukan": "kata tanya",
+        "irab_dan_logika": "kata tanya untuk mengungkapkan keheranan"
+      },
+      "hikmah": "Mengapa mereka mengingkari nikmat Allah",
+      "role": "none"
+    },
+    {
+      "index": 20,
+      "kata_arab": "ٱللَّهِ",
+      "transliterasi": "allāhi",
+      "jenis_kata": "kata benda",
+      "arti": "Allah",
+      "sharaf": {
+        "akar_kata": "ل-l-h",
+        "makna_dasar": "Allah",
+        "wazan_perubahan": "sufiks -i"
+      },
+      "nahwu": {
+        "kedudukan": "kata benda",
+        "irab_dan_logika": "mafʿūl bihi"
+      },
+      "hikmah": "Allah sebagai sumber nikmat",
+      "role": "none"
+    },
+    {
+      "index": 21,
+      "kata_arab": "يَجۡحَدُونَ",
+      "transliterasi": "yajḥadūna",
+      "jenis_kata": "kata kerja",
+      "arti": "mereka mengingkari",
+      "sharaf": {
+        "akar_kata": "ج-ḥ-d",
+        "makna_dasar": "mengingkari",
+        "wazan_perubahan": "prefiks ya- dan sufiks -ūna"
+      },
+      "nahwu": {
+        "kedudukan": "kata kerja",
+        "irab_dan_logika": "kata kerja yang menunjukkan tindakan"
+      },
+      "hikmah": "Mengingkari nikmat Allah",
+      "role": "none"
+    }
+  ]
+}

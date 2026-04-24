@@ -4,92 +4,92 @@
   "words": [
     {
       "index": 0,
-      "kata_arab": "إِنَّ",
-      "transliterasi": "inna",
-      "jenis_kata": "Huruf",
-      "arti": "sesungguhnya",
+      "kata_arab": "إِنَّ",
+      "transliterasi": "Inna",
+      "jenis_kata": "Harf (Partikel)",
+      "arti": "Sesungguhnya / Sungguh",
       "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
+        "akar_kata": "N/A",
+        "makna_dasar": "Penekanan (Taukid)",
+        "wazan_perubahan": "N/A"
       },
       "nahwu": {
-        "kedudukan": "**حرف توكيد ونصب** yang menguatkan kalimat",
-        "irab_dan_logika": "مُنصَبٌ بالكسرة لأنّ إِنَّ حرف نصب يجر الاسم التالي إلى النصب"
+        "kedudukan": "Harf Nasab wa Taukid",
+        "irab_dan_logika": "Berfungsi menasabkan isim (kata benda) setelahnya dan memberikan penekanan pada kalimat."
       },
-      "hikmah": "Menegaskan bahwa apa yang akan disebutkan selanjutnya adalah fakta yang pasti",
+      "hikmah": "Kata ini digunakan untuk menghilangkan keraguan bagi pendengar mengenai pernyataan yang akan disampaikan.",
       "role": "none"
     },
     {
       "index": 1,
-      "kata_arab": "رَبَّكَ",
-      "transliterasi": "rabbaka",
-      "jenis_kata": "Isim",
+      "kata_arab": "رَبَّكَ",
+      "transliterasi": "Rabbaka",
+      "jenis_kata": "Ism (Kata Benda) + Dhamir (Kata Ganti)",
       "arti": "Tuhanmu",
       "sharaf": {
-        "akar_kata": "ر ب ب",
-        "makna_dasar": "menjadi Tuhan, mengasuh, memelihara",
-        "wazan_perubahan": "فَعَّل"
+        "akar_kata": "r-b-b (ر ب ب)",
+        "makna_dasar": "Mengatur, mendidik, dan memiliki",
+        "wazan_perubahan": "Fa'l (فَعْل)"
       },
       "nahwu": {
-        "kedudukan": "**اسم إنّ** (isim al‑marfū‘ bi‑inna)",
-        "irab_dan_logika": "مُنصَبٌ بالكسرة لأنه اسم إنّ"
+        "kedudukan": "Ism Inna (Mansub) & Mudhaf Ilayhi",
+        "irab_dan_logika": "Berharakat fathah karena merupakan isim dari 'Inna'. Akhiran 'ka' adalah kata ganti orang kedua tunggal."
       },
-      "hikmah": "Menunjukkan bahwa Tuhan yang dimaksud adalah milikmu, menegaskan kepemilikan",
+      "hikmah": "Menegaskan hubungan kepemilikan dan pemeliharaan Allah terhadap Nabi Muhammad SAW secara khusus.",
       "role": "none"
     },
     {
       "index": 2,
       "kata_arab": "هُوَ",
-      "transliterasi": "huwa",
-      "jenis_kata": "Isim",
-      "arti": "dia (laki‑laki)",
+      "transliterasi": "Huwa",
+      "jenis_kata": "Dhamir Munfashil (Kata Ganti Terpisah)",
+      "arti": "Dia / Dialah",
       "sharaf": {
-        "akar_kata": "",
-        "makna_dasar": "",
-        "wazan_perubahan": ""
+        "akar_kata": "N/A",
+        "makna_dasar": "Kata ganti orang ketiga tunggal laki-laki",
+        "wazan_perubahan": "N/A"
       },
       "nahwu": {
-        "kedudukan": "**ضمير منفصل** في محل رفع (اسم توكيد)",
-        "irab_dan_logika": "مرفوع بالضمة لأنه ضمير منفصل"
+        "kedudukan": "Dhamir Fashl",
+        "irab_dan_logika": "Berfungsi sebagai pemisah atau penegas (Hasr) bahwa sifat setelahnya hanya milik Allah."
       },
-      "hikmah": "Berfungsi sebagai penegas subjek, menegaskan bahwa yang dibicarakan adalah Dia",
+      "hikmah": "Memberikan penekanan kuat bahwa hanya Allah, tidak ada yang lain, yang memiliki sifat penciptaan dan pengetahuan sempurna.",
       "role": "none"
     },
     {
       "index": 3,
-      "kata_arab": "ٱلْخَلَّٰقُ",
-      "transliterasi": "al‑khallaqu",
-      "jenis_kata": "Isim",
-      "arti": "pencipta",
+      "kata_arab": "ٱلۡخَلَّٰقُ",
+      "transliterasi": "Al-Khallaqu",
+      "jenis_kata": "Ism (Sighah Mubalaghah)",
+      "arti": "Yang Maha Pencipta",
       "sharaf": {
-        "akar_kata": "خ ل ق",
-        "makna_dasar": "mencipta, membuat sesuatu dari tiada",
-        "wazan_perubahan": "فَعَّال"
+        "akar_kata": "kh-l-q (خ ل ق)",
+        "makna_dasar": "Menciptakan dari ketiadaan atau mengukur",
+        "wazan_perubahan": "Fa''aal (فَعَّال)"
       },
       "nahwu": {
-        "kedudukan": "**خبر إنّ** (khabar)",
-        "irab_dan_logika": "مرفوع بالضمة لأنه خبر مرفوع"
+        "kedudukan": "Khabar Inna (Marfu')",
+        "irab_dan_logika": "Berharakat dammah karena merupakan predikat dari kalimat yang diawali 'Inna'."
       },
-      "hikmah": "Menunjukkan sifat Allah sebagai pencipta segala sesuatu",
+      "hikmah": "Wazan 'Fa''aal' menunjukkan intensitas; Allah menciptakan terus-menerus, dalam jumlah banyak, dan dengan cara yang luar biasa.",
       "role": "none"
     },
     {
       "index": 4,
-      "kata_arab": "ٱلْعَلِيمُ",
-      "transliterasi": "",
-      "jenis_kata": "Isim",
-      "arti": "yang Maha Mengetahui",
+      "kata_arab": "ٱلۡعَلِيمُ",
+      "transliterasi": "Al-'Alimu",
+      "jenis_kata": "Ism (Sifat Musyabbahah/Sighah Mubalaghah)",
+      "arti": "Yang Maha Mengetahui",
       "sharaf": {
-        "akar_kata": "ع ل م",
-        "makna_dasar": "mengetahui, memiliki ilmu",
-        "wazan_perubahan": "فعيل"
+        "akar_kata": "-l-m (ع ل م)",
+        "makna_dasar": "Mengetahui sesuatu sesuai hakikatnya",
+        "wazan_perubahan": "Fa'iil (فَعِيْل)"
       },
       "nahwu": {
-        "kedudukan": "**خبر إنّ** (khabar) yang melengkapi predikat",
-        "irab_dan_logika": "مرفوع بالضمة لأنه خبر مرفوع"
+        "kedudukan": "Khabar Inna kedua (Marfu')",
+        "irab_dan_logika": "Berharakat dammah sebagai predikat kedua yang menyempurnakan sifat Allah dalam ayat ini."
       },
-      "hikmah": "Menegaskan bahwa Allah tidak hanya pencipta, tetapi juga Maha Mengetahui segala sesuatu",
+      "hikmah": "Menunjukkan bahwa ciptaan Allah didasari oleh ilmu-Nya yang meliputi segala sesuatu, baik yang tampak maupun yang tersembunyi.",
       "role": "none"
     }
   ]

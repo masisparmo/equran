@@ -5,307 +5,361 @@
     {
       "index": 0,
       "kata_arab": "فَإِذَا",
-      "transliterasi": "fa-idhā",
-      "jenis_kata": "Huruf dan Isim (Zharaf)",
-      "arti": "Maka apabila / Maka ketika",
+      "transliterasi": "fa-idza",
+      "jenis_kata": "kata penghubung",
+      "arti": "maka apabila",
       "sharaf": {
-        "akar_kata": "Tidak memiliki akar kata tunggal (gabungan)",
-        "makna_dasar": "Menunjukkan konsekuensi (fa) dan waktu (idha)",
-        "wazan_perubahan": "Tidak berlaku (gabungan huruf dan isim mabni)"
+        "akar_kata": "idza",
+        "makna_dasar": "saat",
+        "wazan_perubahan": "fa- + idza"
       },
       "nahwu": {
-        "kedudukan": "Fa (ف) adalah huruf 'athaf atau isti'naf. Idhā (إِذَا) adalah zharaf zaman (kata keterangan waktu) yang manshub secara mahal (kedudukannya manshub) dan berfungsi sebagai syarat (syarat tidak jazim)",
-        "irab_dan_logika": "Fa (ف) adalah huruf mabni di atas fathah, tidak memiliki kedudukan i'rab. Idhā (إِذَا) adalah isim zharaf mabni di atas sukun, namun kedudukannya manshub sebagai zharaf zaman, berkaitan dengan fi'il jawabnya."
+        "kedudukan": "kata penghubung",
+        "irab_dan_logika": "menghubungkan kalimat sebelum dan sesudahnya"
       },
-      "hikmah": "Mengawali kalimat dengan menunjukkan urutan peristiwa dan kondisi waktu, yaitu 'maka ketika' atau 'maka apabila' suatu kejadian terjadi, akan ada konsekuensi selanjutnya.",
+      "hikmah": "menunjukkan saat atau waktu tertentu",
       "role": "none"
     },
     {
       "index": 1,
       "kata_arab": "جَآءَ",
-      "transliterasi": "jā'a",
-      "jenis_kata": "Fi'il (Kata Kerja)",
+      "transliterasi": "ja'a",
+      "jenis_kata": "kata kerja",
       "arti": "datang",
       "sharaf": {
-        "akar_kata": "ج ي ء (j-y-')",
-        "makna_dasar": "Kedatangan, kehadiran",
-        "wazan_perubahan": "Fi'il Madhi (bentuk lampau) dari wazan فَعَلَ (fa'ala)"
+        "akar_kata": "j-w-ʾ",
+        "makna_dasar": "datang",
+        "wazan_perubahan": "ja'a (kata kerja lampau)"
       },
       "nahwu": {
-        "kedudukan": "Fi'il Madhi, berfungsi sebagai fi'il syarat bagi 'idhā",
-        "irab_dan_logika": "Mabni di atas fathah. Fi'il madhi secara umum mabni. Fathah pada huruf hamzah menunjukkan bentuk dasarnya."
+        "kedudukan": "kata kerja",
+        "irab_dan_logika": "menggambarkan tindakan yang telah terjadi"
       },
-      "hikmah": "Menyatakan suatu peristiwa yang telah terjadi atau akan terjadi pada waktu yang ditentukan, yaitu 'datangnya' suatu ketetapan atau hukuman.",
+      "hikmah": "menunjukkan tindakan datang atau hadir",
       "role": "none"
     },
     {
       "index": 2,
       "kata_arab": "وَعۡدُ",
-      "transliterasi": "wa'du",
-      "jenis_kata": "Isim (Kata Benda)",
-      "arti": "janji / ketetapan / hukuman",
+      "transliterasi": "waʿdu",
+      "jenis_kata": "kata benda",
+      "arti": "janji atau hukuman",
       "sharaf": {
-        "akar_kata": "و ع د (w-'-d)",
-        "makna_dasar": "Berjanji, menetapkan, mengancam",
-        "wazan_perubahan": "Isim Mashdar (kata benda dari kata kerja) dari wazan فَعْلٌ (fa'lun)"
+        "akar_kata": "w-ʿ-d",
+        "makna_dasar": "janji",
+        "wazan_perubahan": "waʿdu (kata benda)"
       },
       "nahwu": {
-        "kedudukan": "Fa'il (subjek) dari fi'il 'jā'a'",
-        "irab_dan_logika": "Marfu' (rafa') dengan dhammah karena ia adalah fa'il. Dhammah pada huruf dal menunjukkan bahwa ia dalam keadaan rafa'."
+        "kedudukan": "kata benda",
+        "irab_dan_logika": "merujuk pada janji atau hukuman yang telah ditetapkan"
       },
-      "hikmah": "Merujuk pada 'janji' atau 'ketetapan' Allah yang pasti akan terlaksana, dalam konteks ayat ini adalah hukuman atau azab yang telah dijanjikan.",
+      "hikmah": "menunjukkan janji atau hukuman yang telah ditetapkan",
       "role": "none"
     },
     {
       "index": 3,
       "kata_arab": "أُولَىٰهُمَا",
       "transliterasi": "ūlāhumā",
-      "jenis_kata": "Isim (Kata Benda) dan Dhomir (Kata Ganti)",
-      "arti": "yang pertama dari keduanya",
+      "jenis_kata": "kata sifat",
+      "arti": "pertama dari keduanya",
       "sharaf": {
-        "akar_kata": "أ و ل (a-w-l)",
-        "makna_dasar": "Permulaan, yang terdahulu",
-        "wazan_perubahan": "Isim Tafdhil (bentuk superlatif) dari wazan فُعْلَىٰ (fu'lā) untuk muannats, digabungkan dengan dhomir muttashil"
+        "akar_kata": "ʾ-w-l",
+        "makna_dasar": "pertama",
+        "wazan_perubahan": "ūlā (kata sifat)"
       },
       "nahwu": {
-        "kedudukan": "Mudhaf ilaih dari 'wa'du'. 'ūlā' adalah mudhaf, dan 'humā' adalah mudhaf ilaih dari 'ūlā'",
-        "irab_dan_logika": "ūlā' majrur (jar) dengan kasrah muqaddarah (tersembunyi) di atas alif maqsurah karena ia adalah isim maqsur. 'humā' adalah dhomir muttashil mabni di atas sukun, dalam kedudukan jar sebagai mudhaf ilaih."
+        "kedudukan": "kata sifat",
+        "irab_dan_logika": "menggambarkan sifat dari kata benda sebelumnya"
       },
-      "hikmah": "Mengkhususkan 'janji' atau 'hukuman' tersebut sebagai 'yang pertama' dari dua hukuman yang telah ditetapkan, menunjukkan urutan peristiwa dalam sejarah Bani Israil.",
+      "hikmah": "menunjukkan bahwa hukuman tersebut adalah yang pertama dari dua hukuman",
       "role": "none"
     },
     {
       "index": 4,
       "kata_arab": "بَعَثۡنَا",
-      "transliterasi": "ba'athnā",
-      "jenis_kata": "Fi'il (Kata Kerja)",
-      "arti": "Kami bangkitkan / Kami utus / Kami datangkan",
+      "transliterasi": "baʿathnā",
+      "jenis_kata": "kata kerja",
+      "arti": "Kami bangkitkan",
       "sharaf": {
-        "akar_kata": "ب ع ث (b-'-th)",
-        "makna_dasar": "Membangkitkan, mengutus, mengirim",
-        "wazan_perubahan": "Fi'il Madhi (bentuk lampau) dari wazan فَعَلْنَا (fa'alnā), dengan dhomir 'nā' (Kami) sebagai fa'il"
+        "akar_kata": "b-ʿ-th",
+        "makna_dasar": "bangkit",
+        "wazan_perubahan": "baʿathnā (kata kerja lampau)"
       },
       "nahwu": {
-        "kedudukan": "Fi'il jawab dari 'idhā' (jawabul syarat)",
-        "irab_dan_logika": "Mabni di atas sukun karena bersambung dengan dhomir rafa' mutaharrik 'nā'. 'nā' adalah dhomir muttashil mabni di atas sukun, dalam kedudukan rafa' sebagai fa'il."
+        "kedudukan": "kata kerja",
+        "irab_dan_logika": "menggambarkan tindakan yang dilakukan oleh Allah"
       },
-      "hikmah": "Menyatakan tindakan Allah SWT yang mengutus atau mendatangkan suatu kaum sebagai pelaksanaan dari janji atau hukuman yang telah ditetapkan.",
+      "hikmah": "menunjukkan tindakan Allah dalam membangkitkan atau mengutus seseorang",
       "role": "none"
     },
     {
       "index": 5,
       "kata_arab": "عَلَيۡكُمۡ",
-      "transliterasi": "alaykum",
-      "jenis_kata": "Huruf Jar dan Dhomir (Kata Ganti)",
-      "arti": "atas kalian / terhadap kalian",
+      "transliterasi": "ʿalaykum",
+      "jenis_kata": "kata ganti",
+      "arti": "kepadamu",
       "sharaf": {
-        "akar_kata": "Tidak memiliki akar kata tunggal (gabungan)",
-        "makna_dasar": "Menunjukkan arah, tujuan, atau keberadaan di atas sesuatu",
-        "wazan_perubahan": "Tidak berlaku (gabungan huruf jar dan dhomir)"
+        "akar_kata": "ʿ-l-y",
+        "makna_dasar": "atas",
+        "wazan_perubahan": "ʿalaykum (kata ganti)"
       },
       "nahwu": {
-        "kedudukan": "Jar Majrur, muta'alliq (berkaitan) dengan fi'il 'ba'athnā'",
-        "irab_dan_logika": "alā' adalah huruf jar mabni di atas sukun, tidak memiliki kedudukan i'rab. 'kum' adalah dhomir muttashil mabni di atas sukun, dalam kedudukan jar karena didahului oleh huruf jar."
+        "kedudukan": "kata ganti",
+        "irab_dan_logika": "merujuk pada orang-orang yang dituju"
       },
-      "hikmah": "Menjelaskan bahwa tindakan 'membangkitkan/mengutus' tersebut ditujukan 'kepada kalian' (Bani Israil), menunjukkan bahwa mereka adalah objek dari hukuman tersebut.",
+      "hikmah": "menunjukkan bahwa tindakan tersebut ditujukan kepada orang-orang yang dituju",
       "role": "none"
     },
     {
       "index": 6,
       "kata_arab": "عِبَادࣰ",
-      "transliterasi": "ibādan",
-      "jenis_kata": "Isim",
-      "arti": "hamba-hamba, budak-budak",
+      "transliterasi": "ʿibād",
+      "jenis_kata": "kata benda",
+      "arti": "hamba",
       "sharaf": {
-        "akar_kata": "ع ب د",
-        "makna_dasar": "menyembah, beribadah, menjadi hamba",
-        "wazan_perubahan": "Bentuk jamak dari 'abd (عَبْد) dengan wazan fi'āl (فِعَال)."
+        "akar_kata": "ع-ب-د",
+        "makna_dasar": "mengabdi",
+        "wazan_perubahan": "afʿāl"
       },
       "nahwu": {
-        "kedudukan": "Maf'ul Bih (objek)",
-        "irab_dan_logika": "Mansub (berharakat fathah) karena sebagai Maf'ul Bih dari fi'il 'ba'atsna' (Kami datangkan). Tanda mansubnya adalah tanwin fathah (ً)."
+        "kedudukan": "fā'il",
+        "irab_dan_logika": "jamak mufrod"
       },
-      "hikmah": "Menekankan status manusia sebagai hamba Allah, yang bisa menjadi alat kehendak-Nya, baik untuk kebaikan maupun hukuman. Dalam konteks ini, mereka adalah hamba-hamba yang digunakan Allah untuk menimpakan hukuman.",
+      "hikmah": "hamba-hamba Kami yang perkasa",
       "role": "none"
     },
     {
       "index": 7,
       "kata_arab": "ا",
-      "transliterasi": "a",
-      "jenis_kata": "Huruf",
-      "arti": "Tidak memiliki arti harfiah tersendiri; merupakan bagian dari penulisan tanwin fathah.",
+      "transliterasi": "-",
+      "jenis_kata": "Huruf Tambahan",
+      "arti": "-",
       "sharaf": {
-        "akar_kata": "N/A",
-        "makna_dasar": "N/A",
-        "wazan_perubahan": "N/A"
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
       },
       "nahwu": {
-        "kedudukan": "Huruf tambahan (alif zaidah)",
-        "irab_dan_logika": "Tidak memiliki kedudukan i'rab tersendiri. Ini adalah bagian dari tanda i'rab mansub pada kata sebelumnya (عِبَادًا) yang ditulis dengan tanwin fathah."
+        "kedudukan": "-",
+        "irab_dan_logika": "-"
       },
-      "hikmah": "Menunjukkan kaidah penulisan Al-Qur'an (rasm Utsmani) dan tajwid yang spesifik, di mana tanwin fathah sering diikuti oleh alif.",
+      "hikmah": "Huruf Alif tambahan (silent letter / tidak dibaca).",
       "role": "none"
     },
     {
       "index": 8,
       "kata_arab": "لَّنَآ",
       "transliterasi": "lanā",
-      "jenis_kata": "Huruf (preposisi) + Isim (dhamir muttasil)",
-      "arti": "bagi Kami, milik Kami, kepunyaan Kami",
+      "jenis_kata": "kata ganti",
+      "arti": "kami",
       "sharaf": {
-        "akar_kata": "N/A (untuk 'la'), 'na' adalah dhamir",
-        "makna_dasar": "kepemilikan, hubungan",
-        "wazan_perubahan": "N/A"
+        "akar_kata": "ل-ن-أ",
+        "makna_dasar": "milik",
+        "wazan_perubahan": "lam-nā"
       },
       "nahwu": {
-        "kedudukan": "Jar Majrur (preposisi dan kata setelahnya) yang berfungsi sebagai sifat (na'at)",
-        "irab_dan_logika": "لَـ' adalah huruf jar, sehingga 'نَا' (dhamir muttasil) berada pada posisi jar (mahall jar). Frasa jar majrur ini secara keseluruhan berfungsi sebagai sifat bagi 'عِبَادًا', menjelaskan bahwa hamba-hamba tersebut adalah 'milik Kami' (Allah)."
+        "kedudukan": "mudhaf ilaih",
+        "irab_dan_logika": "jamak mufrod"
       },
-      "hikmah": "Menegaskan kepemilikan mutlak Allah atas segala sesuatu, termasuk hamba-hamba yang Dia gunakan untuk melaksanakan kehendak-Nya. Ini menunjukkan bahwa mereka bertindak atas perintah dan izin-Nya.",
+      "hikmah": "Kami",
       "role": "none"
     },
     {
       "index": 9,
       "kata_arab": "أُوْلِي",
-      "transliterasi": "ūlī",
-      "jenis_kata": "Isim (kata benda jamak)",
-      "arti": "pemilik, yang memiliki, yang mempunyai",
+      "transliterasi": "ulī",
+      "jenis_kata": "kata sifat",
+      "arti": "kuat",
       "sharaf": {
-        "akar_kata": "Tidak memiliki akar kata tunggal yang umum; dianggap sebagai isim jamid (kata benda mati) yang selalu dalam bentuk jamak.",
-        "makna_dasar": "kepemilikan, kualitas",
-        "wazan_perubahan": "N/A (diperlakukan sebagai jamak mudzakkar salim dalam i'rab, meskipun bukan wazan standar)."
+        "akar_kata": "ع-ل-و",
+        "makna_dasar": "kekuatan",
+        "wazan_perubahan": "afʿāl"
       },
       "nahwu": {
-        "kedudukan": "Na'at (sifat) kedua",
-        "irab_dan_logika": "Mansub (berharakat fathah) karena mengikuti 'عِبَادًا' yang mansub. Tanda mansubnya adalah 'ي' (ya') karena ia termasuk isim yang di-i'rab seperti jamak mudzakkar salim (di mana mansub dan majrur dengan 'ي')."
+        "kedudukan": "sifat",
+        "irab_dan_logika": "jamak mufrod"
       },
-      "hikmah": "Menjelaskan karakteristik hamba-hamba tersebut, yaitu mereka adalah 'pemilik' atau 'yang mempunyai' kekuatan dan kekuasaan. Ini menekankan sifat perkasa mereka.",
+      "hikmah": "perkasa",
       "role": "none"
     },
     {
       "index": 10,
       "kata_arab": "بَأۡسࣲ",
-      "transliterasi": "ba'sin",
-      "jenis_kata": "Isim",
-      "arti": "kekuatan, kekuasaan, keberanian, kesengsaraan, hukuman",
+      "transliterasi": "bās",
+      "jenis_kata": "kata benda",
+      "arti": "kekuatan",
       "sharaf": {
-        "akar_kata": "ب ء س",
-        "makna_dasar": "menjadi kuat, berani, sengsara, putus asa",
-        "wazan_perubahan": "Isim Masdar atau Isim Dzat."
+        "akar_kata": "ب-أ-س",
+        "makna_dasar": "kekuatan",
+        "wazan_perubahan": "bās"
       },
       "nahwu": {
-        "kedudukan": "Mudhaf Ilaih",
-        "irab_dan_logika": "Majrur (berharakat kasrah) karena sebagai Mudhaf Ilaih dari 'أُوْلِي'. Tanda majrurnya adalah tanwin kasrah (ٍ)."
+        "kedudukan": "mafʿūl bih",
+        "irab_dan_logika": "jamak mufrod"
       },
-      "hikmah": "Menggambarkan sifat kekuatan dan keberanian yang luar biasa dari hamba-hamba tersebut, yang menjadikan mereka alat hukuman yang efektif.",
+      "hikmah": "kekuatan",
       "role": "none"
     },
     {
       "index": 11,
       "kata_arab": "شَدِيدࣲ",
-      "transliterasi": "shadīdin",
-      "jenis_kata": "Isim Sifat",
-      "arti": "kuat, keras, dahsyat, hebat",
+      "transliterasi": "syadīd",
+      "jenis_kata": "kata sifat",
+      "arti": "kuat",
       "sharaf": {
-        "akar_kata": "ش د د",
-        "makna_dasar": "menjadi kuat, keras, mengikat",
-        "wazan_perubahan": "Wazan fa'īl (فَعِيل), yang merupakan wazan untuk sifat musyabbahah (kata sifat yang menyerupai isim fa'il)."
+        "akar_kata": "ش-د-د",
+        "makna_dasar": "kekuatan",
+        "wazan_perubahan": "syadīd"
       },
       "nahwu": {
-        "kedudukan": "Na'at (sifat)",
-        "irab_dan_logika": "Majrur (berharakat kasrah) karena mengikuti 'بَأْسٍ' yang majrur. Tanda majrurnya adalah tanwin kasrah (ٍ)."
+        "kedudukan": "sifat",
+        "irab_dan_logika": "jamak mufrod"
       },
-      "hikmah": "Menekankan intensitas dan kedahsyatan kekuatan yang dimiliki oleh hamba-hamba tersebut, menunjukkan bahwa hukuman yang akan mereka timpakan sangat berat dan tidak dapat ditolak.",
+      "hikmah": "perkasa",
       "role": "none"
     },
     {
       "index": 12,
       "kata_arab": "فَجَاسُواْ",
-      "transliterasi": "fa-jāsū",
-      "jenis_kata": "Fi'il",
-      "arti": "lalu mereka merajalela/berkeliaran",
+      "transliterasi": "fajāsū",
+      "jenis_kata": "kata kerja",
+      "arti": "merajalela",
       "sharaf": {
-        "akar_kata": "ج و س",
-        "makna_dasar": "Berkeliaran, menjelajahi, merajalela.",
-        "wazan_perubahan": "Fi'il Madhi (kata kerja lampau), jama' mudzakkar gha'ib (mereka laki-laki). Wazan فَعَلُوا (fa'alū)."
+        "akar_kata": "ج-و-س",
+        "makna_dasar": "merajalela",
+        "wazan_perubahan": "fajāsū"
       },
       "nahwu": {
-        "kedudukan": "Fi'il (kata kerja) dan Fa'il (subjek) dalam bentuk dhamir wawu al-jama'ah (mereka).",
-        "irab_dan_logika": "Fi'il madhi mabni 'ala ad-dhamm (dibangun di atas dhammah) karena bersambung dengan wawu al-jama'ah. Wawu al-jama'ah adalah fa'il dan berkedudukan rafa'. Huruf 'fa' (فَ) adalah huruf 'athaf (penghubung) yang menunjukkan urutan dan akibat."
+        "kedudukan": "kata kerja",
+        "irab_dan_logika": "subyek"
       },
-      "hikmah": "Menunjukkan tindakan cepat dan menyeluruh dari para penyerang yang tidak hanya menyerbu tetapi juga menguasai dan merusak setiap sudut wilayah, menegaskan kekuatan dan dominasi mereka.",
+      "hikmah": "merajalela",
       "role": "none"
     },
     {
       "index": 13,
       "kata_arab": "خِلَٰلَ",
       "transliterasi": "khilāla",
-      "jenis_kata": "Isim",
-      "arti": "di sela-sela, di antara, di dalam",
+      "jenis_kata": "kata benda",
+      "arti": "di antara",
       "sharaf": {
-        "akar_kata": "خ ل ل",
-        "makna_dasar": "Celah, sela, ruang di antara sesuatu.",
-        "wazan_perubahan": "Isim. Bentuk mufrad."
+        "akar_kata": "خ-ل-ل",
+        "makna_dasar": "di antara",
+        "wazan_perubahan": "khilāla"
       },
       "nahwu": {
-        "kedudukan": "Zharf makan (keterangan tempat) yang berfungsi sebagai maf'ul fih.",
-        "irab_dan_logika": "Manshub (berharakat fathah) karena kedudukannya sebagai zharf makan. Ia juga mudhaf (yang disandarkan)."
+        "kedudukan": "kata benda",
+        "irab_dan_logika": "objek"
       },
-      "hikmah": "Menggambarkan penetrasi yang mendalam dan menyeluruh ke setiap bagian wilayah, tidak hanya di permukaan tetapi juga di sela-sela dan di dalam, menunjukkan tidak ada tempat yang luput dari jangkauan mereka.",
+      "hikmah": "di antara",
       "role": "none"
     },
     {
       "index": 14,
       "kata_arab": "ٱلدِّيَارِۚ",
       "transliterasi": "ad-diyāri",
-      "jenis_kata": "Isim",
-      "arti": "kampung-kampung, negeri-negeri, rumah-rumah",
+      "jenis_kata": "kata benda",
+      "arti": "kampung-kampung",
       "sharaf": {
-        "akar_kata": "د و ر",
-        "makna_dasar": "Berputar, mengelilingi. Dari sini muncul makna tempat tinggal yang dikelilingi.",
-        "wazan_perubahan": "Isim jamak dari دَار (dār)."
+        "akar_kata": "د-ي-ر",
+        "makna_dasar": "kampung",
+        "wazan_perubahan": "ad-diyāri"
       },
       "nahwu": {
-        "kedudukan": "Mudhaf ilaih (yang disandarkan kepadanya).",
-        "irab_dan_logika": "Majrur (berharakat kasrah) karena kedudukannya sebagai mudhaf ilaih dari kata خِلَٰلَ. Alif lam (ال) menunjukkan makrifah (spesifik)."
+        "kedudukan": "kata benda",
+        "irab_dan_logika": "objek"
       },
-      "hikmah": "Merujuk pada pemukiman, rumah-rumah, atau negeri-negeri yang menjadi sasaran penyerangan. Penggunaan bentuk jamak menunjukkan skala kehancuran yang luas, meliputi banyak tempat tinggal.",
+      "hikmah": "kampung-kampung",
       "role": "none"
     },
     {
       "index": 15,
       "kata_arab": "وَكَانَ",
-      "transliterasi": "wa kāna",
-      "jenis_kata": "Fi'il",
-      "arti": "dan adalah, dan telah terjadi",
+      "transliterasi": "wa-kāna",
+      "jenis_kata": "kata kerja",
+      "arti": "dan adalah",
       "sharaf": {
-        "akar_kata": "ك و ن",
-        "makna_dasar": "Ada, terjadi, keberadaan.",
-        "wazan_perubahan": "Fi'il Madhi Naqish (kata kerja lampau tidak sempurna), mufrad mudzakkar gha'ib (dia laki-laki). Wazan فَعَلَ (fa'ala)."
+        "akar_kata": "ك-و-ن",
+        "makna_dasar": "ada",
+        "wazan_perubahan": "wa-kāna"
       },
       "nahwu": {
-        "kedudukan": "Fi'il Naqish (kata kerja tidak sempurna) yang mengangkat isim dan menashabkan khabar.",
-        "irab_dan_logika": "Fi'il madhi mabni 'ala al-fath (dibangun di atas fathah). Huruf 'waw' (وَ) adalah huruf 'athaf (penghubung) yang menunjukkan kelanjutan atau penambahan."
+        "kedudukan": "kata kerja",
+        "irab_dan_logika": "subyek"
       },
-      "hikmah": "Menekankan sifat kepastian dan ketetapan ilahi dari peristiwa yang disebutkan. Ini bukan sekadar kejadian, melainkan sesuatu yang telah ditetapkan dan pasti akan terjadi.",
+      "hikmah": "dan adalah",
       "role": "none"
     },
     {
       "index": 16,
       "kata_arab": "وَعۡدࣰ",
-      "transliterasi": "wa'dan",
-      "jenis_kata": "Isim",
-      "arti": "janji, ketetapan",
+      "transliterasi": "waʿdan",
+      "jenis_kata": "kata benda",
+      "arti": "janji",
       "sharaf": {
-        "akar_kata": "و ع د",
-        "makna_dasar": "Berjanji, menetapkan.",
-        "wazan_perubahan": "Isim mashdar (kata benda verbal) dari fi'il وَعَدَ (wa'ada)."
+        "akar_kata": "و-ع-د",
+        "makna_dasar": "janji",
+        "wazan_perubahan": "waʿdan"
       },
       "nahwu": {
-        "kedudukan": "Khabar dari كان (kāna) yang manshub. Isim كان (kāna) adalah dhamir mustatir (tersembunyi) yang kembali kepada peristiwa yang disebutkan sebelumnya.",
-        "irab_dan_logika": "Manshub (berharakat fathatain) karena kedudukannya sebagai khabar كان."
+        "kedudukan": "kata benda",
+        "irab_dan_logika": "objek"
       },
-      "hikmah": "Menegaskan bahwa peristiwa yang terjadi adalah bagian dari janji atau ketetapan Allah yang pasti akan terlaksana, menunjukkan keadilan dan kekuasaan-Nya.",
+      "hikmah": "janji",
+      "role": "none"
+    },
+    {
+      "index": 17,
+      "kata_arab": "ا",
+      "transliterasi": "-",
+      "jenis_kata": "Huruf Tambahan",
+      "arti": "-",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "-",
+        "irab_dan_logika": "-"
+      },
+      "hikmah": "Huruf Alif tambahan (silent letter / tidak dibaca).",
+      "role": "none"
+    },
+    {
+      "index": 18,
+      "kata_arab": "مَّفۡعُولࣰ",
+      "transliterasi": "maf'ūlan",
+      "jenis_kata": "Isim (Isim Maf'ul)",
+      "arti": "yang dilaksanakan / yang dipenuhi",
+      "sharaf": {
+        "akar_kata": "f-'-l (ف ع ل)",
+        "makna_dasar": "mengerjakan, melakukan, atau bertindak",
+        "wazan_perubahan": "maf'ūl (مَفْعُول)"
+      },
+      "nahwu": {
+        "kedudukan": "Na'at (Sifat)",
+        "irab_dan_logika": "Manshub dengan tanda fathatain. Kata ini berfungsi sebagai sifat (na'at) bagi kata 'wa'dan' (janji) yang merupakan Khabar dari 'kaana'. Hal ini menunjukkan kepastian bahwa janji tersebut akan terwujud."
+      },
+      "hikmah": "Kata ini memberikan penekanan bahwa janji Allah mengenai hukuman tersebut bukanlah sekadar ancaman lisan, melainkan sebuah ketetapan yang pasti akan terealisasi dalam bentuk perbuatan nyata di dunia.",
+      "role": "none"
+    },
+    {
+      "index": 19,
+      "kata_arab": "ا",
+      "transliterasi": "-",
+      "jenis_kata": "Huruf Tambahan",
+      "arti": "-",
+      "sharaf": {
+        "akar_kata": "-",
+        "makna_dasar": "-",
+        "wazan_perubahan": "-"
+      },
+      "nahwu": {
+        "kedudukan": "-",
+        "irab_dan_logika": "-"
+      },
+      "hikmah": "Huruf Alif tambahan (silent letter / tidak dibaca).",
       "role": "none"
     }
   ]
